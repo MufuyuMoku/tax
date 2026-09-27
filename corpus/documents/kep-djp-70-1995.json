@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-70-1995",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "70",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-08-14",
+   "detail_error": null,
+   "number_as_written": "KEP - 70/PJ./1995",
+   "retrieved_at": "2026-09-22T04:40:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI SEMEN DI DALAM NEGERI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-5"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=449",
+   "retrieved_at": "2026-09-21T14:41:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-5",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI SEMEN DI DALAM NEGERI"
+}

@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-65-1995",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "65",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-57-2010",
+    "number_as_written": "PER-57/PJ/2010",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-65/PJ./1995",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-07-31",
+   "detail_error": null,
+   "number_as_written": "KEP-65/PJ./1995",
+   "retrieved_at": "2026-09-22T04:41:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-32/PJ./1995 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI OTOMOTIF DI DALAM NEGERI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-32pj1995-tentang-tarif-dan-tata"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-57/PJ/2010 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=449",
+   "retrieved_at": "2026-09-21T14:41:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-32pj1995-tentang-tarif-dan-tata",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-32/PJ./1995 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI OTOMOTIF DI DALAM NEGERI"
+}

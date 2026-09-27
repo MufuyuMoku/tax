@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 524,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b029-30",
+ "label": "30",
+ "order": 29,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 30\nPenghasilan kena pajak yang harus diterima atau diperoleh dalam bidang penambangan\n\nminyak dan gas bumi sehubungan dengan Kontrak Bantuan Teknik, Kontrak Risiko\n\nPinjaman, Kontrak Usaha Bersama dan Kontrak-kontrak lainnya yang serupa, yang\n\nmasih berlaku yang sudah ditandatangani atau yang masih dalam proses perundingan\n\npada saat mulai berlakunya Undang-undang Pajak Penghsilan 1984, dipersamakan \n\ndengan penghasilan kena pajak sebagaimana dimaksud dalam Pasal 33 ayat (3)\n\nUndang-undang Pajak Penghasilan 1984.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

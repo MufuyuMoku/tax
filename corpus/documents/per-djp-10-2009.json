@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-10-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "10",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-10-2009--b000-1",
+  "per-djp-10-2009--b001-2",
+  "per-djp-10-2009--b002-3",
+  "per-djp-10-2009--b003-4",
+  "per-djp-10-2009--b004-5",
+  "per-djp-10-2009--b005-6",
+  "per-djp-10-2009--b006-7",
+  "per-djp-10-2009--b007-8",
+  "per-djp-10-2009--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-02-11",
+   "detail_error": null,
+   "number_as_written": "PER-10/PJ/2009",
+   "retrieved_at": "2026-09-22T03:09:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGURANGAN BESARNYA PAJAK PENGHASILAN PASAL 25 DALAM TAHUN 2009 BAGI WAJIB PAJAK YANG MENGALAMI PERUBAHAN KEADAAN USAHA ATAU KEGIATAN USAHA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-besarnya-pajak-penghasilan-pasal-25-dalam-tahun-2009-bagi-wajib-pajak-yang"
+  },
+  {
+   "date_as_written": "2009-02-11 00:00:00",
+   "number_as_written": "PerDJP 10/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengurangan Besarnya Pajak Penghasilan Pasal 25 dalam Tahun 2009 Bagi Wajib Pajak yang Mengalami Perubahan Keadaan Usaha atau Kegiatan Usaha.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-10-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=220",
+   "retrieved_at": "2026-09-21T14:24:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-besarnya-pajak-penghasilan-pasal-25-dalam-tahun-2009-bagi-wajib-pajak-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=43",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-10-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7354,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:09:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengurangan-besarnya-pajak-penghasilan-pasal-25-dalam-tahun-2009-bagi-wajib-pajak-yang"
+ },
+ "title": "PENGURANGAN BESARNYA PAJAK PENGHASILAN PASAL 25 DALAM TAHUN 2009 BAGI WAJIB PAJAK YANG MENGALAMI PERUBAHAN KEADAAN USAHA ATAU KEGIATAN USAHA"
+}

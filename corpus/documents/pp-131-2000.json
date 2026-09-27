@@ -1,0 +1,125 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-131-2000",
+ "identity": {
+  "code": "PP",
+  "number": "131",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-131-2000--b000-1",
+  "pp-131-2000--b001-2",
+  "pp-131-2000--b002-3",
+  "pp-131-2000--b003-4",
+  "pp-131-2000--b004-5",
+  "pp-131-2000--b005-6",
+  "pp-131-2000--b006-7",
+  "pp-131-2000--p007-1",
+  "pp-131-2000--p008-2",
+  "pp-131-2000--p009-3",
+  "pp-131-2000--p010-4",
+  "pp-131-2000--p011-5",
+  "pp-131-2000--p012-6",
+  "pp-131-2000--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-123-2015",
+    "number_as_written": "123 TAHUN 2015",
+    "quote": "PERATURAN PEMERINTAH NOMOR 131 TAHUN 2000",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 131 TAHUN 2000 TENTANG PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-22-2024",
+    "number_as_written": "22 TAHUN 2024",
+    "quote": "Peraturan Pemerintah Nomor 131 Tahun 2000",
+    "source_of_reading": "DJP",
+    "title": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENEMPATAN DEVISA HASIL EKSPOR SUMBER DAYA ALAM PADA INSTRUMEN MONETER DAN/ATAU INSTRUMEN KEUANGAN TERTENTU DI INDONESIA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "51",
+     "1994",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 51 Tahun 1994",
+    "source_of_reading": "DJP",
+    "target_id": "pp-51-1994"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-15",
+   "detail_error": null,
+   "number_as_written": "131 TAHUN 2000",
+   "retrieved_at": "2026-09-22T03:58:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat-bank"
+  },
+  {
+   "date_as_written": "2000-12-15 00:00:00",
+   "number_as_written": "PP 131 TAHUN 2000",
+   "retrieved_at": "2026-09-21T14:11:31+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Bunga Deposito dan Tabungan Serta Diskonto Sertifikat Bank Indonesia",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-131-tahun-2000"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 22 TAHUN 2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=372",
+   "retrieved_at": "2026-09-21T14:35:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat-bank",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=89",
+   "retrieved_at": "2026-09-21T14:11:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-131-tahun-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15664,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:58:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat-bank"
+ },
+ "title": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
+}

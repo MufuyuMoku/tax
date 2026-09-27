@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-78-2019",
+ "identity": {
+  "code": "PP",
+  "number": "78",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-78-2019--b000-1",
+  "pp-78-2019--b001-2",
+  "pp-78-2019--b002-3",
+  "pp-78-2019--b003-4",
+  "pp-78-2019--b004-5",
+  "pp-78-2019--b005-6",
+  "pp-78-2019--b006-7",
+  "pp-78-2019--b007-8",
+  "pp-78-2019--b008-9",
+  "pp-78-2019--b009-10",
+  "pp-78-2019--b010-11",
+  "pp-78-2019--b011-12",
+  "pp-78-2019--b012-13",
+  "pp-78-2019--p013-1",
+  "pp-78-2019--p014-2",
+  "pp-78-2019--p015-3",
+  "pp-78-2019--p016-4",
+  "pp-78-2019--p017-5",
+  "pp-78-2019--p018-6",
+  "pp-78-2019--p019-7",
+  "pp-78-2019--p020-8",
+  "pp-78-2019--p021-9",
+  "pp-78-2019--p022-10",
+  "pp-78-2019--p023-11",
+  "pp-78-2019--p024-12",
+  "pp-78-2019--p025-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "18",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 18 Tahun 2015",
+    "source_of_reading": "DJP",
+    "target_id": "pp-18-2015"
+   },
+   {
+    "key": [
+     "PP",
+     "9",
+     "2016",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 9 Tahun 2016",
+    "source_of_reading": "DJP",
+    "target_id": "pp-9-2016"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-11-12",
+   "detail_error": null,
+   "number_as_written": "78 TAHUN 2019",
+   "retrieved_at": "2026-09-22T00:42:26+00:00",
+   "source": "DJP",
+   "title_as_written": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-0"
+  },
+  {
+   "date_as_written": "2019-11-12 00:00:00",
+   "number_as_written": "PP 78 TAHUN 2019",
+   "retrieved_at": "2026-09-21T14:06:31+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-78-tahun-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=104",
+   "retrieved_at": "2026-09-21T14:15:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=14",
+   "retrieved_at": "2026-09-21T14:06:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-78-tahun-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 36029,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:42:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-0"
+ },
+ "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+}

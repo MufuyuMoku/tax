@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-51-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "51",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-51-2025--b000-1",
+  "pmk-51-2025--b001-2",
+  "pmk-51-2025--b002-3",
+  "pmk-51-2025--b003-4",
+  "pmk-51-2025--b004-5",
+  "pmk-51-2025--b005-6",
+  "pmk-51-2025--b006-7",
+  "pmk-51-2025--b007-8",
+  "pmk-51-2025--b008-9",
+  "pmk-51-2025--b009-10",
+  "pmk-51-2025--b010-11",
+  "pmk-51-2025--b011-12",
+  "pmk-51-2025--b012-13",
+  "pmk-51-2025--b013-14",
+  "pmk-51-2025--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-07-25",
+   "detail_error": null,
+   "number_as_written": "51 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:51:48+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran-atas-penyerahan-1"
+  },
+  {
+   "date_as_written": "2025-07-25 12:00:00",
+   "number_as_written": "PMK 51 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:16:08+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-51-tahun-2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=16",
+   "retrieved_at": "2026-09-21T14:08:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran-atas-penyerahan-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=13",
+   "retrieved_at": "2026-09-21T14:16:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-51-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 37238,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:51:48+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran-atas-penyerahan-1"
+ },
+ "title": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+}

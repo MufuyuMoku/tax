@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "se-8-1995",
+ "identity": {
+  "code": "SE",
+  "number": "8",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-70-2007",
+    "number_as_written": "PER-70/PJ/2007",
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995",
+    "source_of_reading": "DJP",
+    "title": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-02-23 00:00:00",
+   "number_as_written": "SE SE-08/PJ.4/1995",
+   "retrieved_at": "2026-09-21T15:00:52+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Wajib Pajak Orang Pribadi dalam Negeri yang Ditunjuk Sebagai Pemotong Pph Pasal 23 (Seri Pph Pasal 23/26-3)",
+   "type_as_written": "Lainnya",
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-pj-4-1995"
+  },
+  {
+   "date_as_written": "1995-05-24 00:00:00",
+   "number_as_written": "SE SE-08/BC/1995",
+   "retrieved_at": "2026-09-21T15:00:52+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Dana Pinjaman Luar Negeri",
+   "type_as_written": "Lainnya",
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-bc-1995"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-70/PJ/2007 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Lainnya&order=desc&page=21",
+   "retrieved_at": "2026-09-21T15:00:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-pj-4-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Lainnya&order=desc&page=21",
+   "retrieved_at": "2026-09-21T15:00:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-bc-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Wajib Pajak Orang Pribadi dalam Negeri yang Ditunjuk Sebagai Pemotong Pph Pasal 23 (Seri Pph Pasal 23/26-3)"
+}

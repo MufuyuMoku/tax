@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-81-2017",
+ "identity": {
+  "code": "PMK",
+  "number": "81",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-81-2017--b000-1",
+  "pmk-81-2017--b001-2",
+  "pmk-81-2017--b002-3",
+  "pmk-81-2017--b003-4",
+  "pmk-81-2017--b004-5",
+  "pmk-81-2017--b005-6",
+  "pmk-81-2017--b006-7",
+  "pmk-81-2017--b007-8",
+  "pmk-81-2017--b008-9",
+  "pmk-81-2017--b009-10",
+  "pmk-81-2017--b010-11",
+  "pmk-81-2017--b011-12",
+  "pmk-81-2017--b012-13",
+  "pmk-81-2017--b013-14",
+  "pmk-81-2017--b014-15",
+  "pmk-81-2017--b015-16",
+  "pmk-81-2017--b016-17",
+  "pmk-81-2017--b017-18",
+  "pmk-81-2017--b018-19",
+  "pmk-81-2017--b019-20",
+  "pmk-81-2017--b020-21",
+  "pmk-81-2017--b021-22",
+  "pmk-81-2017--b022-23",
+  "pmk-81-2017--b023-24",
+  "pmk-81-2017--b024-25",
+  "pmk-81-2017--b025-26",
+  "pmk-81-2017--b026-27",
+  "pmk-81-2017--b027-28",
+  "pmk-81-2017--b028-29",
+  "pmk-81-2017--b029-30",
+  "pmk-81-2017--b030-31",
+  "pmk-81-2017--b031-32",
+  "pmk-81-2017--b032-33"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "111",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 111/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-111-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-06-20",
+   "detail_error": null,
+   "number_as_written": "81/PMK.03/2017",
+   "retrieved_at": "2026-09-22T02:18:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGURANGAN DENDA ADMINISTRASI PAJAK BUMI DAN BANGUNAN DAN PENGURANGAN ATAU PEMBATALAN SURAT PEMBERITAHUAN PAJAK TERUTANG, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN, YANG TIDAK BENAR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-denda-administrasi-pajak-bumi-dan-bangunan-dan-pengurangan-atau-pembatalan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=136",
+   "retrieved_at": "2026-09-21T14:17:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-denda-administrasi-pajak-bumi-dan-bangunan-dan-pengurangan-atau-pembatalan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 51442,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:18:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengurangan-denda-administrasi-pajak-bumi-dan-bangunan-dan-pengurangan-atau-pembatalan"
+ },
+ "title": "PENGURANGAN DENDA ADMINISTRASI PAJAK BUMI DAN BANGUNAN DAN PENGURANGAN ATAU PEMBATALAN SURAT PEMBERITAHUAN PAJAK TERUTANG, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN, YANG TIDAK BENAR"
+}

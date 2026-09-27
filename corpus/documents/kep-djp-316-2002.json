@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-316-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "316",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-06-17",
+   "detail_error": null,
+   "number_as_written": "KEP-316/PJ./2002",
+   "retrieved_at": "2026-09-22T03:39:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGELUARAN/BIAYA PEROLEHAN PERANGKAT LUNAK (SOFTWARE) KOMPUTER",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-pengeluaranbiaya-perolehan-perangkat-lunak-software"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=334",
+   "retrieved_at": "2026-09-21T14:32:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-pengeluaranbiaya-perolehan-perangkat-lunak-software",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGELUARAN/BIAYA PEROLEHAN PERANGKAT LUNAK (SOFTWARE) KOMPUTER"
+}

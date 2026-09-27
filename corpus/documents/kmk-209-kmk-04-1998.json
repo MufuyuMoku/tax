@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-209-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "209/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-209-kmk-04-1998--b000-i",
+  "kmk-209-kmk-04-1998--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "766/KMK.04",
+     "1992",
+     null
+    ],
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-766-kmk-04-1992"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-04-09",
+   "detail_error": null,
+   "number_as_written": "209/KMK.04/1998",
+   "retrieved_at": "2026-09-22T04:21:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATACARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBERDAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-766kmk041992-tentang-tatacara"
+  },
+  {
+   "date_as_written": "1998-04-09 00:00:00",
+   "number_as_written": "209/KMK.04/1998",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kepmenkeu No.766/KMK.04/1992 tentang Tata Cara Penghitungan Penyetoran dan Pelaporan Bagian Pemerintah Pph, Ppn dan Pungutan-Pungutan Lainnya  atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/209-kmk-04-1998"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=424",
+   "retrieved_at": "2026-09-21T14:39:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-766kmk041992-tentang-tatacara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=75",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/209-kmk-04-1998",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5223,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:21:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-766kmk041992-tentang-tatacara"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATACARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBERDAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
+}

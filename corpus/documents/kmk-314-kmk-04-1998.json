@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-314-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "314/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-06-15",
+   "detail_error": null,
+   "number_as_written": "314/KMK.04/1998",
+   "retrieved_at": "2026-09-22T04:21:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 611/KMK.04/1994 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 229/KMK.04/1998",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-611kmk041994-tentang-perlakuan-2"
+  },
+  {
+   "date_as_written": "1998-06-15 00:00:00",
+   "number_as_written": "314/KMK.04/1998",
+   "retrieved_at": "2026-09-21T14:51:49+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pajak Penghasilan Bagi Perwakilan Organisasi Internasioanl dan Pejabatnya Sebagaimana Telah Diubah Terakhir dengan Kepmenkeu No. 229/KMK.04/1998",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/314-kmk-04-1998"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=422",
+   "retrieved_at": "2026-09-21T14:39:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-611kmk041994-tentang-perlakuan-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=73",
+   "retrieved_at": "2026-09-21T14:51:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/314-kmk-04-1998",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 611/KMK.04/1994 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 229/KMK.04/1998"
+}

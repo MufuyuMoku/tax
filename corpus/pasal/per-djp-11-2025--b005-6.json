@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1341,
+ "document_id": "per-djp-11-2025",
+ "document_number": "PER-11/PJ/2025",
+ "document_title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+ "id": "per-djp-11-2025--b005-6",
+ "label": "6",
+ "order": 5,
+ "quality_flags": [
+  "urutan_loncat:39->4,4->40",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 6\n(1)\nBukti Pemotongan Pajak Penghasilan Pasal 21/26 sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a terdiri atas:\na.\nFormulir BPA1 - Bukti Pemotongan Pajak Penghasilan Pasal 21 bagi Pegawai Tetap atau Pensiunan yang Menerima Uang terkait Pensiun secara Berkala;\nb.\nFormulir BPA2 - Bukti Pemotongan Pajak Penghasilan Pasal 21 bagi Pegawai Negeri Sipil atau Anggota Tentara Nasional Indonesia atau Anggota Kepolisian Republik Indonesia atau Pejabat Negara atau Pensiunannya;\nc.\nFormulir BP21 - Bukti Pemotongan Pajak Penghasilan Pasal 21 yang Tidak Bersifat Final dan Pajak Penghasilan Pasal 21 yang Bersifat Final; dan\nd.\nFormulir BP26 - Bukti Pemotongan Pajak Penghasilan Pasal 26 atau Withholding Slip Article 26 Income Tax\n(2)\nBukti Pemotongan Pajak Penghasilan Pasal 21/26 sebagaimana dimaksud pada ayat (1) berbentuk Dokumen Elektronik yang dibuat melalui modul eBupot dan dicantumkan tanda tangan berbentuk Tanda Tangan Elektronik sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.\n(3)\nModul eBupot sebagaimana dimaksud pada ayat (2) merupakan modul dalam Portal Wajib Pajak atau laman atau aplikasi lain yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak yang dapat digunakan untuk membuat, membetulkan, dan/atau membatalkan bukti pemotongan dan/atau pemungutan Pajak Penghasilan.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:52:49+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-pelaporan-pajak-penghasilan-pajak-pertambahan-nilai-pajak-penjualan-atas-0"
+ }
+}

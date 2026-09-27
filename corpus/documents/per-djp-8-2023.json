@@ -1,0 +1,169 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER8PJ2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "8",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER8PJ2023.pdf"
+  },
+  {
+   "file_name": "PER8PJ2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "8",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/PER8PJ2023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-8-2023",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "8",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [
+  {
+   "code": "KEP-DJP",
+   "id": "kep-djp-8-2023",
+   "note": "nomor, tahun, dan judul sama tetapi jenisnya berbeda antar sumber; kemungkinan satu peraturan yang sama, tidak digabungkan otomatis",
+   "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
+  }
+ ],
+ "pasal_ids": [
+  "per-djp-8-2023--b000-1",
+  "per-djp-8-2023--b001-2",
+  "per-djp-8-2023--b002-3",
+  "per-djp-8-2023--b003-4",
+  "per-djp-8-2023--b004-5",
+  "per-djp-8-2023--b005-6",
+  "per-djp-8-2023--b006-7",
+  "per-djp-8-2023--b007-8",
+  "per-djp-8-2023--b008-9",
+  "per-djp-8-2023--b009-10",
+  "per-djp-8-2023--b010-11",
+  "per-djp-8-2023--b011-12",
+  "per-djp-8-2023--b012-13",
+  "per-djp-8-2023--b013-14",
+  "per-djp-8-2023--b014-15",
+  "per-djp-8-2023--b015-16",
+  "per-djp-8-2023--b016-17",
+  "per-djp-8-2023--b017-18",
+  "per-djp-8-2023--b018-19",
+  "per-djp-8-2023--b019-20"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "237",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 237/PMK.010/2020",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PMK",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-237-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "28",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-28-2009"
+   },
+   {
+    "key": [
+     "PP",
+     "71",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 71 Tahun 2008",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-71-2008"
+   },
+   {
+    "key": [
+     "PP",
+     "48",
+     "1994",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 48 Tahun 1994",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-48-1994"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "30",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-30-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-15",
+   "detail_error": null,
+   "number_as_written": "PER-8/PJ/2023",
+   "retrieved_at": "2026-09-21T14:59:50+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengecualian-pembayaran-pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=38",
+   "retrieved_at": "2026-09-21T14:10:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengecualian-pembayaran-pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 41781,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:59:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengecualian-pembayaran-pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak"
+ },
+ "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
+}

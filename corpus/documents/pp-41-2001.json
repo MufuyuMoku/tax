@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-41-2001",
+ "identity": {
+  "code": "PP",
+  "number": "41",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-41-2001--b000-i",
+  "pp-41-2001--b001-ii",
+  "pp-41-2001--p002-i",
+  "pp-41-2001--p003-3",
+  "pp-41-2001--p004-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "42",
+     "2000",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 42 TAHUN 2000",
+    "source_of_reading": "DJP",
+    "target_id": "pp-42-2000"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-05-28",
+   "detail_error": null,
+   "number_as_written": "41 TAHUN 2001",
+   "retrieved_at": "2026-09-22T03:49:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 42 TAHUN 2000 TENTANG PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-42-tahun-2000-tentang-pembayaran-pajak"
+  },
+  {
+   "date_as_written": "2001-05-28 00:00:00",
+   "number_as_written": "PP 41 TAHUN 2001",
+   "retrieved_at": "2026-09-21T14:11:24+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan Bagi Orang Pribadi yang Akan Bertolak Ke Luar Negeri.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-41-tahun-2001"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=357",
+   "retrieved_at": "2026-09-21T14:34:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-42-tahun-2000-tentang-pembayaran-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=87",
+   "retrieved_at": "2026-09-21T14:11:24+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-41-tahun-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 11448,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:49:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-42-tahun-2000-tentang-pembayaran-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 42 TAHUN 2000 TENTANG PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
+}

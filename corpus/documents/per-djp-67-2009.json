@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-67-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "67",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-67-2009--b000-1",
+  "per-djp-67-2009--b001-2",
+  "per-djp-67-2009--b002-3",
+  "per-djp-67-2009--b003-4",
+  "per-djp-67-2009--b004-5",
+  "per-djp-67-2009--b005-6",
+  "per-djp-67-2009--b006-7",
+  "per-djp-67-2009--b007-8",
+  "per-djp-67-2009--b008-9",
+  "per-djp-67-2009--b009-10",
+  "per-djp-67-2009--b010-11",
+  "per-djp-67-2009--b011-12",
+  "per-djp-67-2009--b012-13",
+  "per-djp-67-2009--b013-16",
+  "per-djp-67-2009--b014-17",
+  "per-djp-67-2009--b015-18",
+  "per-djp-67-2009--b016-19",
+  "per-djp-67-2009--b017-20"
+ ],
+ "quality_flags": [
+  "urutan_loncat:13->16"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-12-30",
+   "detail_error": null,
+   "number_as_written": "PER-67/PJ./2009",
+   "retrieved_at": "2026-09-22T02:58:17+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERTUKARAN INFORMASI BERDASARKAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA (P3B)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pertukaran-informasi-berdasarkan-persetujuan-penghindaran-pajak-berganda-p3b"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=212",
+   "retrieved_at": "2026-09-21T14:23:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pertukaran-informasi-berdasarkan-persetujuan-penghindaran-pajak-berganda-p3b",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 22620,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:58:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pertukaran-informasi-berdasarkan-persetujuan-penghindaran-pajak-berganda-p3b"
+ },
+ "title": "TATA CARA PERTUKARAN INFORMASI BERDASARKAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA (P3B)"
+}

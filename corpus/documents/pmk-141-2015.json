@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-141-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "141",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-07-24 00:00:00",
+   "number_as_written": "141/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:30:39+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Jenis Jasa Lain Sebagaimana Dimaksud dalam Pasal 23 Ayat (1) Huruf C Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=228",
+   "retrieved_at": "2026-09-21T14:30:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Jenis Jasa Lain Sebagaimana Dimaksud dalam Pasal 23 Ayat (1) Huruf C Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008."
+}

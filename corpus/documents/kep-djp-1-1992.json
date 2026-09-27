@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-1-1992",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "1992"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-1-1992--b000-1",
+  "kep-djp-1-1992--b001-2",
+  "kep-djp-1-1992--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.43/1992",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "62",
+     "1989",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-62-1989"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1992-01-06",
+   "detail_error": null,
+   "number_as_written": "KEP - 01/PJ.43/1992",
+   "retrieved_at": "2026-09-22T04:59:01+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, UKURAN, KODE DAN WARNA FORMULIR PEMOTONGAN, PELAPORAN DAN RESITUSI PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT BANK INDONESIA, SERTIFIKAT DEPOSITO DAN TABUNGAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-kode-dan-warna-formulir-pemotongan-pelaporan-dan-resitusi-pajak-penghasilan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=472",
+   "retrieved_at": "2026-09-21T14:43:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-kode-dan-warna-formulir-pemotongan-pelaporan-dan-resitusi-pajak-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2758,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:59:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-kode-dan-warna-formulir-pemotongan-pelaporan-dan-resitusi-pajak-penghasilan"
+ },
+ "title": "BENTUK, UKURAN, KODE DAN WARNA FORMULIR PEMOTONGAN, PELAPORAN DAN RESITUSI PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT BANK INDONESIA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+}

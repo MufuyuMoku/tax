@@ -185,3 +185,57 @@ perkakas otomatis — dan memang sebaiknya begitu.
 - SHA lama tidak lagi bisa diambil: `309fa7c` dan `12f5b43` menjawab **HTTP 422** sebagai commit dan
   **HTTP 404** saat dipakai sebagai `ref` untuk membaca `poc/fetch.py`. Surel pribadi dan
   klasifikasi sumber kini tidak terjangkau dari revisi mana pun.
+
+## K-012 — Korpus ditulis sebagai berkas per dokumen dan per pasal, dan ikut di-commit
+Tanggal: 2026-09-27 · Milestone: M1 · Status: berlaku
+
+**Keputusan:** keluaran pipa ditulis ke `corpus/`: satu JSON per dokumen (1.122), satu JSON per
+unit pasal/diktum (7.385), ditambah `index.json` dan `meta.json`. Seluruhnya ikut di-commit,
+8.509 berkas, 17,8 MB.
+**Alasan:** bentuk ini yang diminta SPEC bagian 6, dan M2 bisa membangun halaman langsung dari
+berkas-berkas itu tanpa menjalankan Python di CI. Alur GitHub Actions cukup Node saja.
+**Alternatif yang ditolak:** (a) beberapa berkas JSONL besar — lebih kecil, tetapi setiap halaman
+harus memuat seluruh berkas saat membangun; (b) korpus tidak di-commit dan dibangun saat CI — CI
+jadi butuh Python plus arsip `poc/`, dan hasil build tidak bisa ditelusuri lewat riwayat git.
+**Akibat:** perubahan pipa terlihat sebagai diff korpus, jadi perubahan tak sengaja gampang
+ketahuan. Ukuran repo naik sekitar 18 MB.
+
+## K-013 — Posting ganda di katalog DJP disimpan, bukan dibuang
+Tanggal: 2026-09-27 · Milestone: M1 · Status: berlaku
+
+**Keputusan:** bila satu dokumen muncul di beberapa URL katalog DJP, teks terpanjang dipakai
+(seri diputus berdasarkan URL supaya deterministik) dan posting lain dicatat di
+`text.other_postings` lengkap dengan jumlah karakter dan penanda `differs_from_chosen`.
+**Alasan:** 5 dokumen punya posting ganda, dan pada PMK 128/2019 isi kedua posting **berbeda**
+(18.624 vs 18.422 karakter). Membuang yang lain diam-diam berarti menyembunyikan perbedaan yang
+justru perlu diperiksa manusia.
+**Alternatif yang ditolak:** memakai posting pertama yang ditemui. Hasilnya bergantung urutan baca
+dan menyembunyikan perbedaan isi.
+**Akibat:** jumlah unit pasal korpus dihitung per dokumen, bukan per teks. Ini menjelaskan 62 dari
+66 selisih terhadap angka LAPORAN.
+
+## K-014 — Dokumen dengan nomor, tahun, dan judul sama tetapi jenis berbeda tidak digabungkan
+Tanggal: 2026-09-27 · Milestone: M1 · Status: berlaku
+
+**Keputusan:** dokumen seperti itu tetap terpisah dan saling menunjuk lewat `identity_conflicts`
+beserta catatan bahwa keduanya mungkin peraturan yang sama.
+**Alasan:** PP 20/2026 tercatat DJP sebagai "Peraturan Presiden", sedangkan judul dan nama
+lampirannya menyebut Peraturan Pemerintah, dan JDIH mencatatnya sebagai PP. Menggabungkan berarti
+memilih satu sumber sebagai yang benar, dan itu menebak (invarian 1 berlaku serupa untuk identitas).
+Syaratnya diperketat ke judul identik: nomor dan tahun yang sama itu lumrah (PMK 16/2016 dan
+PER-16/PJ/2016 dokumen berbeda), dan tanpa syarat judul penandanya menjaring 66 dokumen, hampir
+semuanya salah.
+**Alternatif yang ditolak:** menggabungkan otomatis berdasarkan judul yang sama. Judul yang sama
+tidak menjamin dokumen yang sama, terutama untuk ralat dan naskah konsolidasi.
+**Akibat:** 11 dokumen membawa penanda ini, terdiri dari 5 pasangan/triplet.
+
+## K-015 — Bug pemecah pasal dari bukti konsep diperbaiki
+Tanggal: 2026-09-27 · Milestone: M1 · Status: berlaku
+
+**Keputusan:** pola pengenal pasal tidak lagi membolehkan akhiran huruf melewati pergantian baris.
+**Alasan:** pola lama `\s?[A-Z]?` dengan `re.I` membuat "Pasal 1" yang diikuti baris berawalan
+huruf terbaca sebagai "Pasal 1A". Ketahuan lewat tes yang ditulis untuk kasus lain.
+**Alternatif yang ditolak:** membiarkannya agar angka persis sama dengan LAPORAN. Angka yang cocok
+dengan laporan tetapi salah lebih buruk daripada angka yang benar dan dijelaskan.
+**Akibat:** 4 unit pasal palsu hilang. Selisih terhadap LAPORAN kini terjelaskan penuh:
+6.319 = 6.253 + 62 (posting ganda) + 4 (bug ini).

@@ -1,0 +1,107 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PMK792023.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PMK792023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-79-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "79",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-79-2023--b000-1",
+  "pmk-79-2023--b001-2",
+  "pmk-79-2023--b002-3",
+  "pmk-79-2023--b003-4",
+  "pmk-79-2023--b004-4",
+  "pmk-79-2023--b005-5",
+  "pmk-79-2023--b006-6",
+  "pmk-79-2023--b007-7",
+  "pmk-79-2023--b008-8",
+  "pmk-79-2023--b009-9",
+  "pmk-79-2023--b010-10",
+  "pmk-79-2023--b011-11",
+  "pmk-79-2023--b012-12",
+  "pmk-79-2023--b013-13",
+  "pmk-79-2023--b014-14",
+  "pmk-79-2023--b015-15",
+  "pmk-79-2023--b016-16",
+  "pmk-79-2023--b017-17",
+  "pmk-79-2023--b018-18",
+  "pmk-79-2023--b019-19",
+  "pmk-79-2023--b020-20",
+  "pmk-79-2023--b021-21",
+  "pmk-79-2023--b022-22",
+  "pmk-79-2023--b023-23",
+  "pmk-79-2023--b024-24",
+  "pmk-79-2023--b025-25",
+  "pmk-79-2023--b026-26",
+  "pmk-79-2023--b027-27",
+  "pmk-79-2023--b028-28",
+  "pmk-79-2023--b029-29",
+  "pmk-79-2023--b030-30",
+  "pmk-79-2023--b031-31",
+  "pmk-79-2023--b032-32",
+  "pmk-79-2023--b033-33",
+  "pmk-79-2023--b034-34"
+ ],
+ "quality_flags": [
+  "urutan_loncat:4->4",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-08-22",
+   "detail_error": null,
+   "number_as_written": "79 TAHUN 2023",
+   "retrieved_at": "2026-09-26T15:00:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENILAIAN UNTUK TUJUAN PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penilaian-untuk-tujuan-perpajakan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=43",
+   "retrieved_at": "2026-09-21T14:10:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penilaian-untuk-tujuan-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 51532,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-26T15:00:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penilaian-untuk-tujuan-perpajakan"
+ },
+ "title": "TATA CARA PENILAIAN UNTUK TUJUAN PERPAJAKAN"
+}

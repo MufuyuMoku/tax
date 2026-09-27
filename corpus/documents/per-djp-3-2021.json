@@ -1,0 +1,115 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER 03 PJ 2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "3",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER%2003%20PJ%202021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-3-2021--b000-1",
+  "per-djp-3-2021--b001-2",
+  "per-djp-3-2021--b002-3",
+  "per-djp-3-2021--b003-4",
+  "per-djp-3-2021--b004-5",
+  "per-djp-3-2021--b005-6",
+  "per-djp-3-2021--b006-7",
+  "per-djp-3-2021--b007-8",
+  "per-djp-3-2021--b008-9",
+  "per-djp-3-2021--b009-10",
+  "per-djp-3-2021--b010-11",
+  "per-djp-3-2021--b011-12",
+  "per-djp-3-2021--b012-13",
+  "per-djp-3-2021--b013-14",
+  "per-djp-3-2021--b014-15",
+  "per-djp-3-2021--b015-16",
+  "per-djp-3-2021--b016-17",
+  "per-djp-3-2021--b017-18",
+  "per-djp-3-2021--b018-19",
+  "per-djp-3-2021--b019-20",
+  "per-djp-3-2021--b020-21",
+  "per-djp-3-2021--b021-22",
+  "per-djp-3-2021--b022-23"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-21-2021",
+    "number_as_written": "PER-21/PJ/2021",
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-03/PJ/2021",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-03/PJ/2021 TENTANG TATA CARA PENGAJUAN DAN PENERBITAN KEPUTUSAN MENGENAI PENGGUNAAN NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "28",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2008",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-28-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-18",
+   "detail_error": null,
+   "number_as_written": "PER-03/PJ/2021",
+   "retrieved_at": "2026-09-22T00:33:05+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGAJUAN DAN PENERBITAN KEPUTUSAN MENGENAI PENGGUNAAN  NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penerbitan-keputusan-mengenai-penggunaan-nilai-buku-atas"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=79",
+   "retrieved_at": "2026-09-21T14:13:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penerbitan-keputusan-mengenai-penggunaan-nilai-buku-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 36468,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:33:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penerbitan-keputusan-mengenai-penggunaan-nilai-buku-atas"
+ },
+ "title": "TATA CARA PENGAJUAN DAN PENERBITAN KEPUTUSAN MENGENAI PENGGUNAAN  NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA"
+}

@@ -1,0 +1,151 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "perpu-1-2020",
+ "identity": {
+  "code": "PERPU",
+  "number": "1",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "perpu-1-2020--b000-1",
+  "perpu-1-2020--b001-2",
+  "perpu-1-2020--b002-3",
+  "perpu-1-2020--b003-4",
+  "perpu-1-2020--b004-5",
+  "perpu-1-2020--b005-6",
+  "perpu-1-2020--b006-7",
+  "perpu-1-2020--b007-8",
+  "perpu-1-2020--b008-9",
+  "perpu-1-2020--b009-10",
+  "perpu-1-2020--b010-11",
+  "perpu-1-2020--b011-12",
+  "perpu-1-2020--b012-13",
+  "perpu-1-2020--b013-14",
+  "perpu-1-2020--b014-15",
+  "perpu-1-2020--b015-16",
+  "perpu-1-2020--b016-17",
+  "perpu-1-2020--b017-18",
+  "perpu-1-2020--b018-19",
+  "perpu-1-2020--b019-20",
+  "perpu-1-2020--b020-21",
+  "perpu-1-2020--b021-22",
+  "perpu-1-2020--b022-23",
+  "perpu-1-2020--b023-24",
+  "perpu-1-2020--b024-25",
+  "perpu-1-2020--b025-26",
+  "perpu-1-2020--b026-27",
+  "perpu-1-2020--b027-28",
+  "perpu-1-2020--b028-29",
+  "perpu-1-2020--p029-1",
+  "perpu-1-2020--p030-2",
+  "perpu-1-2020--p031-3",
+  "perpu-1-2020--p032-4",
+  "perpu-1-2020--p033-5",
+  "perpu-1-2020--p034-6",
+  "perpu-1-2020--p035-7",
+  "perpu-1-2020--p036-8",
+  "perpu-1-2020--p037-9",
+  "perpu-1-2020--p038-10",
+  "perpu-1-2020--p039-11",
+  "perpu-1-2020--p040-12",
+  "perpu-1-2020--p041-13",
+  "perpu-1-2020--p042-14",
+  "perpu-1-2020--p043-15",
+  "perpu-1-2020--p044-16",
+  "perpu-1-2020--p045-17",
+  "perpu-1-2020--p046-18",
+  "perpu-1-2020--p047-19",
+  "perpu-1-2020--p048-20",
+  "perpu-1-2020--p049-21",
+  "perpu-1-2020--p050-22",
+  "perpu-1-2020--p051-23",
+  "perpu-1-2020--p052-24",
+  "perpu-1-2020--p053-25",
+  "perpu-1-2020--p054-26",
+  "perpu-1-2020--p055-27",
+  "perpu-1-2020--p056-28",
+  "perpu-1-2020--p057-29"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "uu-7-2021",
+    "number_as_written": "7 TAHUN 2021",
+    "quote": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020",
+    "source_of_reading": "DJP",
+    "title": "HARMONISASI PERATURAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "UU",
+     "9",
+     "2016",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 9 Tahun 2016",
+    "source_of_reading": "DJP",
+    "target_id": "uu-9-2016"
+   },
+   {
+    "key": [
+     "UU",
+     "20",
+     "2019",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 20 Tahun 2019",
+    "source_of_reading": "DJP",
+    "target_id": "uu-20-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-03-31",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 2020",
+   "retrieved_at": "2026-09-22T00:41:06+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN KEUANGAN NEGARA DAN STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN",
+   "type_as_written": "Perpu",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-keuangan-negara-dan-stabilitas-sistem-keuangan-untuk-penanganan-pandemi-corona"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 7 TAHUN 2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=100",
+   "retrieved_at": "2026-09-21T14:14:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-keuangan-negara-dan-stabilitas-sistem-keuangan-untuk-penanganan-pandemi-corona",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 57661,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:41:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-keuangan-negara-dan-stabilitas-sistem-keuangan-untuk-penanganan-pandemi-corona"
+ },
+ "title": "KEBIJAKAN KEUANGAN NEGARA DAN STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN"
+}

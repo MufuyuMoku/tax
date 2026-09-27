@@ -1,0 +1,142 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-199-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "199",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-199-2019--b000-1",
+  "pmk-199-2019--b001-2",
+  "pmk-199-2019--b002-3",
+  "pmk-199-2019--b003-4",
+  "pmk-199-2019--b004-5",
+  "pmk-199-2019--b005-6",
+  "pmk-199-2019--b006-7",
+  "pmk-199-2019--b007-8",
+  "pmk-199-2019--b008-9",
+  "pmk-199-2019--b009-10",
+  "pmk-199-2019--b010-11",
+  "pmk-199-2019--b011-12",
+  "pmk-199-2019--b012-13",
+  "pmk-199-2019--b013-14",
+  "pmk-199-2019--b014-15",
+  "pmk-199-2019--b015-16",
+  "pmk-199-2019--b016-17",
+  "pmk-199-2019--b017-18",
+  "pmk-199-2019--b018-19",
+  "pmk-199-2019--b019-20",
+  "pmk-199-2019--b020-21",
+  "pmk-199-2019--b021-22",
+  "pmk-199-2019--b022-23",
+  "pmk-199-2019--b023-24",
+  "pmk-199-2019--b024-25",
+  "pmk-199-2019--b025-26",
+  "pmk-199-2019--b026-27",
+  "pmk-199-2019--b027-28",
+  "pmk-199-2019--b028-29",
+  "pmk-199-2019--b029-30",
+  "pmk-199-2019--b030-31",
+  "pmk-199-2019--b031-32",
+  "pmk-199-2019--b032-33",
+  "pmk-199-2019--b033-34",
+  "pmk-199-2019--b034-35",
+  "pmk-199-2019--b035-36",
+  "pmk-199-2019--b036-37",
+  "pmk-199-2019--b037-38",
+  "pmk-199-2019--b038-39",
+  "pmk-199-2019--b039-40",
+  "pmk-199-2019--b040-41",
+  "pmk-199-2019--b041-42",
+  "pmk-199-2019--b042-43",
+  "pmk-199-2019--b043-44",
+  "pmk-199-2019--b044-45",
+  "pmk-199-2019--b045-46",
+  "pmk-199-2019--b046-47",
+  "pmk-199-2019--b047-48",
+  "pmk-199-2019--b048-49"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-96-2023",
+    "number_as_written": "96 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 199/PMK.010/2019",
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2017",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 34/PMK.010/2017",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-34-2017"
+   },
+   {
+    "key": [
+     "PMK",
+     "110",
+     "2018",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 110/PMK.010/2018",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-110-2018"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-12-26",
+   "detail_error": null,
+   "number_as_written": "199/PMK.010/2019",
+   "retrieved_at": "2026-09-22T00:42:15+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 96 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=103",
+   "retrieved_at": "2026-09-21T14:15:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 66216,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:42:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman"
+ },
+ "title": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN"
+}

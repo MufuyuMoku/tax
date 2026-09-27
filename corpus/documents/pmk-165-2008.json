@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-165-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "165",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-165-2008--b000-1",
+  "pmk-165-2008--b001-2",
+  "pmk-165-2008--b002-3",
+  "pmk-165-2008--b003-4",
+  "pmk-165-2008--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-11-04",
+   "detail_error": null,
+   "number_as_written": "165/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:15:34+00:00",
+   "source": "DJP",
+   "title_as_written": "MEKANISME PAJAK PENGHASILAN DITANGGUNG PEMERINTAH DAN PENGHITUNGAN PENERIMAAN NEGARA BUKAN PAJAK ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pajak-penghasilan-ditanggung-pemerintah-dan-penghitungan-penerimaan-negara"
+  },
+  {
+   "date_as_written": "2008-11-04 00:00:00",
+   "number_as_written": "165/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:42:34+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Mekanisme Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkit Tenaga Listrik.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/165-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=226",
+   "retrieved_at": "2026-09-21T14:24:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pajak-penghasilan-ditanggung-pemerintah-dan-penghitungan-penerimaan-negara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=403",
+   "retrieved_at": "2026-09-21T14:42:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/165-pmk-03-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5805,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:15:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pajak-penghasilan-ditanggung-pemerintah-dan-penghitungan-penerimaan-negara"
+ },
+ "title": "MEKANISME PAJAK PENGHASILAN DITANGGUNG PEMERINTAH DAN PENGHITUNGAN PENERIMAAN NEGARA BUKAN PAJAK ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
+}

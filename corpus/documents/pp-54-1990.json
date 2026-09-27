@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-54-1990",
+ "identity": {
+  "code": "PP",
+  "number": "54",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-74-1991",
+    "number_as_written": "74 TAHUN 1991",
+    "quote": "Peraturan Pemerintah Nomor 54 Tahun 1990",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA,SERTIFIKAT BANK INDONESIA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-10-13",
+   "detail_error": null,
+   "number_as_written": "54 TAHUN 1990",
+   "retrieved_at": "2026-09-22T05:01:40+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 21 TAHUN 1989 TENTANG PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-21-tahun-1989-tentang-pajak-penghasilan-atas"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=476",
+   "retrieved_at": "2026-09-21T14:43:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-21-tahun-1989-tentang-pajak-penghasilan-atas",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 21 TAHUN 1989 TENTANG PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+}

@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-96-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "96",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-96-2013--b000-1",
+  "pmk-96-2013--b001-2",
+  "pmk-96-2013--b002-3",
+  "pmk-96-2013--b003-4",
+  "pmk-96-2013--b004-5",
+  "pmk-96-2013--b005-6",
+  "pmk-96-2013--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-07-02",
+   "detail_error": null,
+   "number_as_written": "96/PMK.03/2013",
+   "retrieved_at": "2026-09-22T02:33:18+00:00",
+   "source": "DJP",
+   "title_as_written": "SENSUS PAJAK NASIONAL",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/sensus-pajak-nasional-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=186",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/sensus-pajak-nasional-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5843,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:33:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/sensus-pajak-nasional-0"
+ },
+ "title": "SENSUS PAJAK NASIONAL"
+}

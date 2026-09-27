@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-85-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "85",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-85-2019--b000-1",
+  "pmk-85-2019--b001-2",
+  "pmk-85-2019--b002-3",
+  "pmk-85-2019--b003-4",
+  "pmk-85-2019--b004-5",
+  "pmk-85-2019--b005-6",
+  "pmk-85-2019--b006-7",
+  "pmk-85-2019--b007-8",
+  "pmk-85-2019--b008-9",
+  "pmk-85-2019--b009-10",
+  "pmk-85-2019--b010-11",
+  "pmk-85-2019--b011-12",
+  "pmk-85-2019--b012-13",
+  "pmk-85-2019--b013-14",
+  "pmk-85-2019--b014-15",
+  "pmk-85-2019--b015-16",
+  "pmk-85-2019--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "64",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 64/PMK.05/2013",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-64-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-05-29",
+   "detail_error": null,
+   "number_as_written": "85/PMK.03/2019",
+   "retrieved_at": "2026-09-22T00:44:30+00:00",
+   "source": "DJP",
+   "title_as_written": "MEKANISME PENGAWASAN TERHADAP PEMOTONGAN /PEMUNGUTAN DAN PENYETORAN PAJAK ATAS BELANJA YANG BERSUMBER DARI ANGGARAN PENDAPATAN DAN BELANJA DAERAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pengawasan-terhadap-pemotongan-pemungutan-dan-penyetoran-pajak-atas-belanja"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=110",
+   "retrieved_at": "2026-09-21T14:15:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pengawasan-terhadap-pemotongan-pemungutan-dan-penyetoran-pajak-atas-belanja",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 24971,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:44:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pengawasan-terhadap-pemotongan-pemungutan-dan-penyetoran-pajak-atas-belanja"
+ },
+ "title": "MEKANISME PENGAWASAN TERHADAP PEMOTONGAN /PEMUNGUTAN DAN PENYETORAN PAJAK ATAS BELANJA YANG BERSUMBER DARI ANGGARAN PENDAPATAN DAN BELANJA DAERAH"
+}

@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-15-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "15",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-15-2020--b000-1",
+  "per-djp-15-2020--b001-2",
+  "per-djp-15-2020--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-8-2021",
+    "number_as_written": "PER-08/PJ/2021",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2020",
+    "source_of_reading": "DJP",
+    "title": "BADAN/LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "5",
+     "2019",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2019",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-5-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-07-30",
+   "detail_error": null,
+   "number_as_written": "PER-15/PJ/2020",
+   "retrieved_at": "2026-09-22T00:37:05+00:00",
+   "source": "DJP",
+   "title_as_written": "BADAN/LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/badanlembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-1"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-08/PJ/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=92",
+   "retrieved_at": "2026-09-21T14:14:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/badanlembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4126,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:37:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/badanlembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-1"
+ },
+ "title": "BADAN/LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

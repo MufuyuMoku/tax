@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-650-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "650/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-256-2008",
+    "number_as_written": "256/PMK.03/2008",
+    "quote": "Keputusan Menteri Keuangan Nomor 650/KMK.04/1994",
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN SAAT DIPEROLEHNYA DEVIDEN OLEH WAJIB PAJAK DALAM NEGERI ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI SELAIN BADAN USAHA YANG MENJUAL SAHAMNYA DI BURSA EFEK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-29",
+   "detail_error": null,
+   "number_as_written": "650/KMK.04/1994",
+   "retrieved_at": "2026-09-22T04:46:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SAAT DIPEROLEHNYA DIVIDEN ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI YANG SAHAMNYA TIDAK DIPERDAGANGKAN DI BURSA EFEK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-diperolehnya-dividen-atas-penyertaan-modal-pada-badan-usaha-di-luar-negeri"
+  },
+  {
+   "date_as_written": "1994-12-29 00:00:00",
+   "number_as_written": "650/KMK.04/1994",
+   "retrieved_at": "2026-09-21T14:53:43+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Saat Diperolehnya Dividen atas Penyertaan Modal pada Badan Usaha di Luar Negeri yang Sahamnya Tidak Diperdagangkan di Bursa Efek",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/650-kmk-04-1994"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=456",
+   "retrieved_at": "2026-09-21T14:42:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-diperolehnya-dividen-atas-penyertaan-modal-pada-badan-usaha-di-luar-negeri",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=101",
+   "retrieved_at": "2026-09-21T14:53:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/650-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN SAAT DIPEROLEHNYA DIVIDEN ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI YANG SAHAMNYA TIDAK DIPERDAGANGKAN DI BURSA EFEK"
+}

@@ -1,0 +1,78 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-105-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "105",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-105-2016--b000-1",
+  "pmk-105-2016--b001-2",
+  "pmk-105-2016--b002-3",
+  "pmk-105-2016--b003-4",
+  "pmk-105-2016--b004-5",
+  "pmk-105-2016--b005-6",
+  "pmk-105-2016--b006-7",
+  "pmk-105-2016--b007-8",
+  "pmk-105-2016--b008-9",
+  "pmk-105-2016--b009-10",
+  "pmk-105-2016--b010-11",
+  "pmk-105-2016--b011-12",
+  "pmk-105-2016--b012-13",
+  "pmk-105-2016--b013-14",
+  "pmk-105-2016--b014-15",
+  "pmk-105-2016--b015-16",
+  "pmk-105-2016--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-06-30",
+   "detail_error": null,
+   "number_as_written": "105/PMK.010/2016",
+   "retrieved_at": "2026-09-22T02:19:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS PERPAJAKAN DAN KEPABEANAN BAGI PERUSAHAAN INDUSTRI DI KAWASAN INDUSTRI DAN PERUSAHAAN KAWASAN INDUSTRI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-perpajakan-dan-kepabeanan-bagi-perusahaan-industri-di-kawasan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=147",
+   "retrieved_at": "2026-09-21T14:18:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-perpajakan-dan-kepabeanan-bagi-perusahaan-industri-di-kawasan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 54025,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:19:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-perpajakan-dan-kepabeanan-bagi-perusahaan-industri-di-kawasan"
+ },
+ "title": "PEMBERIAN FASILITAS PERPAJAKAN DAN KEPABEANAN BAGI PERUSAHAAN INDUSTRI DI KAWASAN INDUSTRI DAN PERUSAHAAN KAWASAN INDUSTRI"
+}

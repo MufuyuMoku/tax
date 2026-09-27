@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-52-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "52",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-52-2008--b000-1",
+  "per-djp-52-2008--b001-2",
+  "per-djp-52-2008--b002-3",
+  "per-djp-52-2008--b003-4",
+  "per-djp-52-2008--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "529",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-529/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-529-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "PER-52/PJ/2008",
+   "retrieved_at": "2026-09-22T03:14:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGHASILAN PENYALUR/DISTRIBUTOR ROKOK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-penghasilan-penyalurdistributor-rokok"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "PerDJP 52/PJ/2008",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Penghasilan atas Penghasilan Penyalur/Distributor Rokok.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-52-pj-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=224",
+   "retrieved_at": "2026-09-21T14:24:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-penghasilan-penyalurdistributor-rokok",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=43",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-52-pj-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3550,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:14:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-penghasilan-penyalurdistributor-rokok"
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGHASILAN PENYALUR/DISTRIBUTOR ROKOK"
+}

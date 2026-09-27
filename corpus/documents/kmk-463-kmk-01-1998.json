@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-463-kmk-01-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "463/KMK.01",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-10-21",
+   "detail_error": null,
+   "number_as_written": "463/KMK.01/1998",
+   "retrieved_at": "2026-09-22T04:18:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 239/KMK.01/1996 TENTANG PELAKSANAAN PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK YANG DIBIAYAI DENGAN HIBAH ATAU DAN PINJAMAN LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-239kmk011996-tentang-pelaksanaan-peraturan"
+  },
+  {
+   "date_as_written": "1998-10-21 00:00:00",
+   "number_as_written": "463/KMK.01/1998",
+   "retrieved_at": "2026-09-21T14:51:30+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kepmenkeu No.239/KMK.01/1996 tentang Pelaksanaan Pp.42/1991 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppn Bm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/463-kmk-01-1998"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=416",
+   "retrieved_at": "2026-09-21T14:38:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-239kmk011996-tentang-pelaksanaan-peraturan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=68",
+   "retrieved_at": "2026-09-21T14:51:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/463-kmk-01-1998",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 239/KMK.01/1996 TENTANG PELAKSANAAN PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK YANG DIBIAYAI DENGAN HIBAH ATAU DAN PINJAMAN LUAR NEGERI"
+}

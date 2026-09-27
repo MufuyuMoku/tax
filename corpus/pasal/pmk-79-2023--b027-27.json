@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1229,
+ "document_id": "pmk-79-2023",
+ "document_number": "79 TAHUN 2023",
+ "document_title": "TATA CARA PENILAIAN UNTUK TUJUAN PERPAJAKAN",
+ "id": "pmk-79-2023--b027-27",
+ "label": "27",
+ "order": 27,
+ "quality_flags": [
+  "urutan_loncat:4->4",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 27\n(1)\nPenerapan Pendekatan Penilaian sebagaimana dimaksud dalam Pasal 13 ayat (1) untuk menentukan nilai bisnis sebagaimana dimaksud dalam Pasal 4 ayat (7) huruf d menggunakan:\na.\npendekatan pasar dengan metode pembanding data pasar; atau\nb.\npendekatan pendapatan dengan metode diskonto arus kas untuk kewajaran biaya.\n(2)\nPendekatan pasar dengan metode pembanding data pasar sebagaimana dimaksud pada ayat (1) huruf a, digunakan dalam hal:\na.\ntersedia data yang meliputi data makro ekonomi, data sektor industri, dan data objek Penilaian sebagaimana dimaksud dalam Pasal 9 ayat (3); dan\nb.\nuntuk kewajaran:\n1.\npendapatan; atau\n2.\nbiaya dengan kondisi terdapat data objek lain yang sebanding dan sejenis sebagaimana dimaksud dalam Pasal 15 ayat (3).\n(3)\nPendekatan pendapatan dengan metode diskonto arus kas untuk kewajaran biaya sebagaimana dimaksud pada ayat ( 1) huruf b, digunakan dalam hal:\na.\ntidak terdapat data objek lain yang sebanding dan sejenis;\nb.\ntidak tersedia secara lengkap data yang meliputi data makro ekonomi, data sektor industri, dan data objek Penilaian sebagaimana dimaksud dalam Pasal 9 ayat (3); dan\nc.\nterdapat data tingkat pengembalian atas aset yang terkait dengan akun akuntansi yang dinilai.",
+ "text_source": {
+  "retrieved_at": "2026-09-26T15:00:54+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penilaian-untuk-tujuan-perpajakan"
+ }
+}

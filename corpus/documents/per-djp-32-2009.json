@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-32-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "32",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-14-2013",
+    "number_as_written": "PER-14/PJ/2013",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "BENTUK, ISI, TATA CARA PENGISIAN DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 SERTA BENTUK BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-05-25",
+   "detail_error": null,
+   "number_as_written": "PER-32/PJ/2009",
+   "retrieved_at": "2026-09-22T03:04:52+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 DAN BUKTI PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-formulir-surat-pemberitahuan-masa-pajak-penghasilan-pasal-21-danatau-pasal-26-dan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=217",
+   "retrieved_at": "2026-09-21T14:23:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-formulir-surat-pemberitahuan-masa-pajak-penghasilan-pasal-21-danatau-pasal-26-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 DAN BUKTI PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26"
+}

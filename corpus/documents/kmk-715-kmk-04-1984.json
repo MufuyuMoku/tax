@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-715-kmk-04-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "715/KMK.04",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 18 SAMPAI DENGAN 24 MARET 2002",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-226"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 17 SAMPAI DENGAN 23 FEBRUARI 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-258"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-07-25",
+   "detail_error": null,
+   "number_as_written": "715/KMK.04/1984",
+   "retrieved_at": "2026-09-22T05:12:05+00:00",
+   "source": "DJP",
+   "title_as_written": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK SEBAGAI DASAR PENGHITUNGAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PEKERJA TENAGA ASING YANG BEKERJA PADA WAJIB PAJAK BADAN PENGEBORAN MINYAK DAN GAS BUMI DI INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-sebagai-dasar-penghitungan-pajak"
+  },
+  {
+   "date_as_written": "1984-07-25 00:00:00",
+   "number_as_written": "715/KMK.04/1984",
+   "retrieved_at": "2026-09-21T14:54:51+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Norma Penghitungan Khusus Penghasilan Kena Pajak Sebagai Dasar Penghitungan Pajak Penghasilan Atas Penghasilan Dari Pekerja Tenaga Asing Yang Bekerja Pada Wajib Pajak Badan Pengeboran Minyak Dan Gas Bumi Di Indonesia",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/715-kmk-04-1984"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=488",
+   "retrieved_at": "2026-09-21T14:44:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-sebagai-dasar-penghitungan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=118",
+   "retrieved_at": "2026-09-21T14:54:51+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/715-kmk-04-1984",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK SEBAGAI DASAR PENGHITUNGAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PEKERJA TENAGA ASING YANG BEKERJA PADA WAJIB PAJAK BADAN PENGEBORAN MINYAK DAN GAS BUMI DI INDONESIA"
+}

@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 475,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b013-14",
+ "label": "14",
+ "order": 13,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 14\nPerusahaan dan badan-badan yang berkewajiban untuk melakukan pemotongan\n\npajak sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf a dan huruf d Undang-\n\nundang Pajak Penghasilan 1984 antara lain yayasan, badan-badan usaha milik\n\nNegara dan Daerah dengan nama dan dalam bentuk apapun, badan Pemerintah\n\nRepublik Indonesia, badan perwakilan negara asing, badan perwakilan organisasi\n\ninternasional dan badan atau organisasi lain dengan sifat dan dalam bentuk \n\napapun.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

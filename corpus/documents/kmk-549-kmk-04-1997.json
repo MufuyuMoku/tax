@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-549-kmk-04-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "549/KMK.04",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-11-03",
+   "detail_error": null,
+   "number_as_written": "549/KMK.04/1997",
+   "retrieved_at": "2026-09-22T04:26:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 450/KMK.04/1997 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-450kmk041997-tentang-penunjukan-pemungut"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=434",
+   "retrieved_at": "2026-09-21T14:40:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-450kmk041997-tentang-penunjukan-pemungut",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 450/KMK.04/1997 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
+}

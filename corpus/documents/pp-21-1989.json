@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-21-1989",
+ "identity": {
+  "code": "PP",
+  "number": "21",
+  "variant": null,
+  "year": "1989"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-74-1991",
+    "number_as_written": "74 TAHUN 1991",
+    "quote": "Peraturan Pemerintah Nomor 21 Tahun 1989",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA,SERTIFIKAT BANK INDONESIA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1989-12-01",
+   "detail_error": null,
+   "number_as_written": "21 TAHUN 1989",
+   "retrieved_at": "2026-09-22T05:04:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-bunga-deposito-berjangka-sertifikat-deposito-dan-tabungan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=480",
+   "retrieved_at": "2026-09-21T14:44:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-bunga-deposito-berjangka-sertifikat-deposito-dan-tabungan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+}

@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 914,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b005-6",
+ "label": "6",
+ "order": 5,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 6\n(1)\nUntuk menentukan besarnya penghasilan kena pajak bagi usaha bank,\n\nlembaga keuangan lainnya yang ditetapkan oleh Menteri Keuangan usaha asuransi\n\ndiperbolehkan dikurangkan dari penghasilan bruto, penyisihan untuk keperluan\n\npembentukan dan pemupukan dana cadangan khusus.\n(2)\nDana cadangan khusus sebagaimana dimaksud dalam ayat(1) terdiri dari:\na.\ndana,cadangan penghapusan piutang ragu-ragu untuk jenis usaha bank;\nb.\ndana cadangan penghapusan piutang ragu-ragu untuk jenis usaha lemaga\n\nkeuangan lainnya yang ditetapkan oleh Menteri Keuangan;\nc.\ndana cadangan premi untuk jenis usaha asuransi jiwa;\nd.\ndana cadangan premi dan cadangan kerugian untuk jenis usaha asuransi\n\nkerugian\n(3)\nBesarnya dana cadangan khusus serta hal-hal lain yang bersangkutan\n\ndengan pembentukan dan pemupukan dana cadangan khusus sebagaimana dimaksud\n\ndalam ayat (1) dan ayat (2) diatur lebih lanjut oleh Menteri Keuangan.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

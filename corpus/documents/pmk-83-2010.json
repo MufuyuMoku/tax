@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-83-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "83",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-83-2010--b000-i",
+  "pmk-83-2010--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "23",
+     "2008",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 23/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-23-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-04-13",
+   "detail_error": null,
+   "number_as_written": "83/PMK.03/2010",
+   "retrieved_at": "2026-09-22T02:52:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 23/PMK.03/2008 TENTANG TATA CARA PENERBITAN SURAT KETETAPAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-23pmk032008-tentang-tata-cara-penerbitan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=211",
+   "retrieved_at": "2026-09-21T14:23:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-23pmk032008-tentang-tata-cara-penerbitan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 14220,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:52:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-23pmk032008-tentang-tata-cara-penerbitan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 23/PMK.03/2008 TENTANG TATA CARA PENERBITAN SURAT KETETAPAN PAJAK"
+}

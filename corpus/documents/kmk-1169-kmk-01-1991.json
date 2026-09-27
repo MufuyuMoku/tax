@@ -1,0 +1,234 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-1169-kmk-01-1991",
+ "identity": {
+  "code": "KMK",
+  "number": "1169/KMK.01",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-1169-kmk-01-1991--b000-1",
+  "kmk-1169-kmk-01-1991--b001-2",
+  "kmk-1169-kmk-01-1991--b002-3",
+  "kmk-1169-kmk-01-1991--b003-4",
+  "kmk-1169-kmk-01-1991--b004-5",
+  "kmk-1169-kmk-01-1991--b005-6",
+  "kmk-1169-kmk-01-1991--b006-7",
+  "kmk-1169-kmk-01-1991--b007-8",
+  "kmk-1169-kmk-01-1991--b008-9",
+  "kmk-1169-kmk-01-1991--b009-10",
+  "kmk-1169-kmk-01-1991--b010-11",
+  "kmk-1169-kmk-01-1991--b011-12",
+  "kmk-1169-kmk-01-1991--b012-13",
+  "kmk-1169-kmk-01-1991--b013-14",
+  "kmk-1169-kmk-01-1991--b014-15",
+  "kmk-1169-kmk-01-1991--b015-16",
+  "kmk-1169-kmk-01-1991--b016-17",
+  "kmk-1169-kmk-01-1991--b017-18",
+  "kmk-1169-kmk-01-1991--b018-19",
+  "kmk-1169-kmk-01-1991--b019-20",
+  "kmk-1169-kmk-01-1991--b020-21",
+  "kmk-1169-kmk-01-1991--b021-22",
+  "kmk-1169-kmk-01-1991--b022-23",
+  "kmk-1169-kmk-01-1991--b023-24",
+  "kmk-1169-kmk-01-1991--b024-25",
+  "kmk-1169-kmk-01-1991--b025-26",
+  "kmk-1169-kmk-01-1991--b026-27",
+  "kmk-1169-kmk-01-1991--b027-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "48/KMK.013",
+     "1991",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 48/KMK.013/1991",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-48-kmk-013-1991"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN DAN TATA CARA PELAKSANAAN LEMBAGA PEMBIAYAAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-dan-tata-cara-pelaksanaan-lembaga-pembiayaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KETENTUAN MENGENAI PERUSAHAAN PERDAGANGAN SURAT BERHARGA DALAM KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 1251/KMK.013/1988 TANGGAL 20 DESEMBER 1988 TENTANG KETENTUAN DAN TATA CARA PELAKSANAAN LEMBAGA PEMBIAYAAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketentuan-mengenai-perusahaan-perdagangan-surat-berharga-dalam-keputusan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAGIAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pembagian-biaya-pemungutan-pajak-bumi-dan-bangunan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGADAAN BARANG MODAL BERFASILITAS MELALUI PERUSAHAAN SEWA GUNA USAHA (PERUSAHAAN LEASING)",
+    "url": "https://www.pajak.go.id/id/peraturan/pengadaan-barang-modal-berfasilitas-melalui-perusahaan-sewa-guna-usaha-perusahaan-leasing"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KEGIATAN SEWA GUNA USAHA (LEASING)",
+    "url": "https://www.pajak.go.id/id/peraturan/kegiatan-sewa-guna-usaha-leasing-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BATASAN DAN UKURAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI",
+    "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-ukuran-pengusaha-kecil-pajak-pertambahan-nilai-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBEBASAN BEA MASUK, TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN PASAL 22 ATAS IMPOR METAL BOX/METAL CREATES",
+    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-tidak-dipungut-pajak-pertambahan-nilai-pajak-penjualan-atas-barang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 544/KMK.01/1997 TENTANG PENURUNAN TARIP PAJAK EKSPOR ATAS KOMODITI TERTENTU",
+    "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-544kmk011997-tentang-penurunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU DAERAH ALIRAN SUNGAI KAHAYAN, KAPUAS DAN BARITO",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-daerah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 10 SAMPAI DENGAN 16 JULI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-76"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENERIMAAN SURAT PEMBERITAHUAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-surat-pemberitahuan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-550/PJ./2000 TENTANG TATA CARA PENETAPAN WAJIB PAJAK YANG MEMENUHI KRITERIA TERTENTU DAN PENYELESAIAN PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK DALAM RANGKA PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-550pj2000-tentang-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN JENIS, KODE, WARNA DAN BENTUK FORMULIR SURAT SETORAN PAJAK ATAS IMPOR BARANG (KHUSUS GIRO POS) SERTA BUKU PENUNTUN KHUSUS CARA PENGISIANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kode-warna-dan-bentuk-formulir-surat-setoran-pajak-atas-impor-barang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYEMPURNAAN DAFTAR SUSUNAN PENASEHAT, PENANGGUNG JAWAB DAN PELAKSANA PEMERIKSAAN PAJAK OLEH TIM GABUNGAN DJP-BPKP TAHUN 1995/1996",
+    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-daftar-susunan-penasehat-penanggung-jawab-dan-pelaksana-pemeriksaan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN DASAR PENGENAAN PAJAK UNTUK MENGHITUNG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PITA REKAMAN SUARA (KASET ISI), REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC), DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DI ATAS DISC (LASER DISC)",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-pengenaan-pajak-untuk-menghitung-pajak-pertambahan-nilai-atas-1"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENDAFTARAN DAN PENDATAAN OBJEK PAJAK DAN SUBJEK PAJAK ATAU WAJIB PAJAK PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pendataan-objek-pajak-dan-subjek-pajak-atau-wajib-pajak-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "UJI COBA PERLUASAN DAN PENERAPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DAN\r\nKANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN KE SELURUH KANTOR PELAYANAN PAJAK DI INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/uji-coba-perluasan-dan-penerapan-wilayah-kerja-pusat-pengolahan-data-dan-dokumen"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BADAN PELAKSANA KEGIATAN USAHA HULU MINYAK DAN GAS BUMI",
+    "url": "https://www.pajak.go.id/id/peraturan/badan-pelaksana-kegiatan-usaha-hulu-minyak-dan-gas-bumi"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-11-27",
+   "detail_error": null,
+   "number_as_written": "1169/KMK.01/1991",
+   "retrieved_at": "2026-09-22T04:59:54+00:00",
+   "source": "DJP",
+   "title_as_written": "KEGIATAN SEWA GUNA USAHA (LEASING)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/kegiatan-sewa-guna-usaha-leasing"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=473",
+   "retrieved_at": "2026-09-21T14:43:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kegiatan-sewa-guna-usaha-leasing",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16030,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:59:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kegiatan-sewa-guna-usaha-leasing"
+ },
+ "title": "KEGIATAN SEWA GUNA USAHA (LEASING)"
+}

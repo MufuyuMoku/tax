@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-564-2004",
+ "identity": {
+  "code": "PMK",
+  "number": "564",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-564-2004--b000-1",
+  "pmk-564-2004--b001-2",
+  "pmk-564-2004--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-137-2005",
+    "number_as_written": "137/PMK.03/2005",
+    "quote": "Peraturan Menteri Keuangan Nomor 564/KMK.03/2004",
+    "source_of_reading": "DJP",
+    "title": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-11-29",
+   "detail_error": null,
+   "number_as_written": "564/KMK.03/2004",
+   "retrieved_at": "2026-09-22T03:31:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=298",
+   "retrieved_at": "2026-09-21T14:29:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3174,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:31:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak-0"
+ },
+ "title": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK"
+}

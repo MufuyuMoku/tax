@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-167-2004",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "167",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-167-2004--b000-1",
+  "kep-djp-167-2004--b001-2",
+  "kep-djp-167-2004--b002-3",
+  "kep-djp-167-2004--b003-4",
+  "kep-djp-167-2004--b004-5",
+  "kep-djp-167-2004--b005-6",
+  "kep-djp-167-2004--b006-7",
+  "kep-djp-167-2004--b007-8",
+  "kep-djp-167-2004--b008-9",
+  "kep-djp-167-2004--b009-10",
+  "kep-djp-167-2004--b010-11",
+  "kep-djp-167-2004--b011-12",
+  "kep-djp-167-2004--b012-13",
+  "kep-djp-167-2004--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-11-12",
+   "detail_error": null,
+   "number_as_written": "KEP-167/PJ./2004",
+   "retrieved_at": "2026-09-22T03:31:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PERIZINAN, TATA TERTIB, PEMBINAAN DAN PENGAWASAN KONSULTAN PAJAK INDONESIA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perizinan-tata-tertib-pembinaan-dan-pengawasan-konsultan-pajak-indonesia"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=298",
+   "retrieved_at": "2026-09-21T14:29:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perizinan-tata-tertib-pembinaan-dan-pengawasan-konsultan-pajak-indonesia",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14123,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:31:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perizinan-tata-tertib-pembinaan-dan-pengawasan-konsultan-pajak-indonesia"
+ },
+ "title": "PERIZINAN, TATA TERTIB, PEMBINAAN DAN PENGAWASAN KONSULTAN PAJAK INDONESIA"
+}

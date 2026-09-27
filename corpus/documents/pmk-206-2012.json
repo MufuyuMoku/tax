@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-206-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "206",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-206-2012--b000-1",
+  "pmk-206-2012--b001-2",
+  "pmk-206-2012--b002-3",
+  "pmk-206-2012--b003-4",
+  "pmk-206-2012--b004-5",
+  "pmk-206-2012--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-152-2015",
+    "number_as_written": "152/PMK.010/2015",
+    "quote": "Peraturan Menteri Keuangan Nomor 206/PMK.011/2012",
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN BAGIAN PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI HARIAN DAN MINGGUAN SERTA PEGAWAI TIDAK TETAP LAINNYA YANG TIDAK DIKENAKAN PEMOTONGAN PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "254",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 254/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-254-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-12-17",
+   "detail_error": null,
+   "number_as_written": "206/PMK.011/2012",
+   "retrieved_at": "2026-09-22T02:35:23+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BAGIAN PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI HARIAN DAN MINGGUAN SERTA PEGAWAI TIDAK TETAP LAINNYA YANG TIDAK DIKENAKAN PEMOTONGAN PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bagian-penghasilan-sehubungan-dengan-pekerjaan-dari-pegawai-harian-dan-1"
+  },
+  {
+   "date_as_written": "2012-12-17 00:00:00",
+   "number_as_written": "206/PMK.011/2012",
+   "retrieved_at": "2026-09-21T14:35:33+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Bagian Penghasilan Sehubungan dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-011-2012"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=191",
+   "retrieved_at": "2026-09-21T14:22:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bagian-penghasilan-sehubungan-dengan-pekerjaan-dari-pegawai-harian-dan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=297",
+   "retrieved_at": "2026-09-21T14:35:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-011-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4853,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:35:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-bagian-penghasilan-sehubungan-dengan-pekerjaan-dari-pegawai-harian-dan-1"
+ },
+ "title": "PENETAPAN BAGIAN PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI HARIAN DAN MINGGUAN SERTA PEGAWAI TIDAK TETAP LAINNYA YANG TIDAK DIKENAKAN PEMOTONGAN PAJAK PENGHASILAN"
+}

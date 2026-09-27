@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-15-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "15",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-15-2006--b000-i",
+  "per-djp-15-2006--b001-ii",
+  "per-djp-15-2006--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-31-2009",
+    "number_as_written": "PER-31/PJ/2009",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ./2006",
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-02-23",
+   "detail_error": null,
+   "number_as_written": "PER-15/PJ./2006",
+   "retrieved_at": "2026-09-22T03:28:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-545/PJ/2000 TENTANG PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-545pj2000-tentang-petunjuk"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=281",
+   "retrieved_at": "2026-09-21T14:28:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-545pj2000-tentang-petunjuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 25691,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:28:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-545pj2000-tentang-petunjuk"
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-545/PJ/2000 TENTANG PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+}

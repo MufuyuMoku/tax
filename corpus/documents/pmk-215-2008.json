@@ -1,0 +1,140 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-215-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "215",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-215-2008--b000-1",
+  "pmk-215-2008--b001-2",
+  "pmk-215-2008--b002-3",
+  "pmk-215-2008--b003-4",
+  "pmk-215-2008--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-142-2010",
+    "number_as_written": "142/PMK.03/2010",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+   },
+   {
+    "id": "pmk-156-2015",
+    "number_as_written": "156/PMK.010/2015",
+    "quote": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+   },
+   {
+    "id": "pmk-166-2012",
+    "number_as_written": "166/PMK.011/2012",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-235-2020",
+    "number_as_written": "235/PMK.010/2020",
+    "quote": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "574/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 574/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-574-kmk-04-2000"
+   },
+   {
+    "key": [
+     "PMK",
+     "87",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 87/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-87-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-16",
+   "detail_error": null,
+   "number_as_written": "215/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:14:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-organisasi-organisasi-internasional-dan-pejabat-pejabat-perwakilan-organisasi"
+  },
+  {
+   "date_as_written": "2008-12-16 00:00:00",
+   "number_as_written": "215/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:42:10+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subyek Pajak Penghasilan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=225",
+   "retrieved_at": "2026-09-21T14:24:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-organisasi-organisasi-internasional-dan-pejabat-pejabat-perwakilan-organisasi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=397",
+   "retrieved_at": "2026-09-21T14:42:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11802,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:14:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-organisasi-organisasi-internasional-dan-pejabat-pejabat-perwakilan-organisasi"
+ },
+ "title": "PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+}

@@ -1,0 +1,121 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-91-2021",
+ "identity": {
+  "code": "PP",
+  "number": "91",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-91-2021--b000-1",
+  "pp-91-2021--b001-2",
+  "pp-91-2021--b002-3",
+  "pp-91-2021--b003-4",
+  "pp-91-2021--b004-5",
+  "pp-91-2021--b005-6",
+  "pp-91-2021--b006-7",
+  "pp-91-2021--b007-8",
+  "pp-91-2021--p008-1",
+  "pp-91-2021--p009-2",
+  "pp-91-2021--p010-3",
+  "pp-91-2021--p011-4",
+  "pp-91-2021--p012-5",
+  "pp-91-2021--p013-6",
+  "pp-91-2021--p014-7",
+  "pp-91-2021--p015-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "16",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 16 Tahun 2009",
+    "source_of_reading": "DJP",
+    "target_id": "pp-16-2009"
+   },
+   {
+    "key": [
+     "PP",
+     "55",
+     "2019",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 55 Tahun 2019",
+    "source_of_reading": "DJP",
+    "target_id": "pp-55-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-08-30",
+   "detail_error": null,
+   "number_as_written": "91 TAHUN 2021",
+   "retrieved_at": "2026-09-22T00:30:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK DALAM NEGERI DAN BENTUK USAHA TETAP",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-berupa-bunga-obligasi-yang-diterima-atau-diperoleh"
+  },
+  {
+   "date_as_written": "2021-08-30 00:00:00",
+   "number_as_written": "PP 91 TAHUN 2021",
+   "retrieved_at": "2026-09-21T14:06:00+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi yang Diterima atau Diperoleh Wajib Pajak Dalam Negeri dan Bentuk Usaha Tetap",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-91-tahun-2021"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=72",
+   "retrieved_at": "2026-09-21T14:12:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-berupa-bunga-obligasi-yang-diterima-atau-diperoleh",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=8",
+   "retrieved_at": "2026-09-21T14:06:00+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-91-tahun-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13451,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:30:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-berupa-bunga-obligasi-yang-diterima-atau-diperoleh"
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK DALAM NEGERI DAN BENTUK USAHA TETAP"
+}

@@ -1,0 +1,159 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK 80 TAHUN 2024.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "80",
+    "year": "2024"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK%2080%20TAHUN%202024.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-80-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "80",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-80-2024--b000-1",
+  "pmk-80-2024--b001-2",
+  "pmk-80-2024--b002-3",
+  "pmk-80-2024--b003-4",
+  "pmk-80-2024--b004-5",
+  "pmk-80-2024--b005-6",
+  "pmk-80-2024--b006-7",
+  "pmk-80-2024--b007-8",
+  "pmk-80-2024--b008-9",
+  "pmk-80-2024--b009-10",
+  "pmk-80-2024--b010-11",
+  "pmk-80-2024--b011-12",
+  "pmk-80-2024--b012-13",
+  "pmk-80-2024--b013-14",
+  "pmk-80-2024--b014-15",
+  "pmk-80-2024--b015-16",
+  "pmk-80-2024--b016-17",
+  "pmk-80-2024--b017-18",
+  "pmk-80-2024--b018-19",
+  "pmk-80-2024--b019-20",
+  "pmk-80-2024--b020-21",
+  "pmk-80-2024--b021-22",
+  "pmk-80-2024--b022-23",
+  "pmk-80-2024--b023-24",
+  "pmk-80-2024--b024-25",
+  "pmk-80-2024--b025-26",
+  "pmk-80-2024--b026-27",
+  "pmk-80-2024--b027-28",
+  "pmk-80-2024--b028-29",
+  "pmk-80-2024--b029-30",
+  "pmk-80-2024--b030-31",
+  "pmk-80-2024--b031-32"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "239/KMK.01",
+     "1996",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 239/KMK.01/1996",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-239-kmk-01-1996"
+   },
+   {
+    "key": [
+     "PP",
+     "42",
+     "1995",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 42 Tahun 1995",
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-42-1995"
+   },
+   {
+    "key": [
+     "KMK",
+     "486/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 486/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-486-kmk-04-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-10-14",
+   "detail_error": null,
+   "number_as_written": "80 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:55:20+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-0"
+  },
+  {
+   "date_as_written": "2024-10-14 00:00:00",
+   "number_as_written": "PMK 80 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:16:56+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan dalam rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2024"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=26",
+   "retrieved_at": "2026-09-21T14:09:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=25",
+   "retrieved_at": "2026-09-21T14:16:56+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 70841,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:55:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-0"
+ },
+ "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+}

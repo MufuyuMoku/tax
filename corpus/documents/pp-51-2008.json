@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-51-2008",
+ "identity": {
+  "code": "PP",
+  "number": "51",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-51-2008--b000-1",
+  "pp-51-2008--b001-2",
+  "pp-51-2008--b002-3",
+  "pp-51-2008--b003-4",
+  "pp-51-2008--b004-5",
+  "pp-51-2008--b005-6",
+  "pp-51-2008--b006-7",
+  "pp-51-2008--b007-8",
+  "pp-51-2008--b008-9",
+  "pp-51-2008--b009-10",
+  "pp-51-2008--b010-11",
+  "pp-51-2008--b011-12",
+  "pp-51-2008--p012-1",
+  "pp-51-2008--p013-2",
+  "pp-51-2008--p014-3",
+  "pp-51-2008--p015-4",
+  "pp-51-2008--p016-5",
+  "pp-51-2008--p017-6",
+  "pp-51-2008--p018-7",
+  "pp-51-2008--p019-8",
+  "pp-51-2008--p020-9",
+  "pp-51-2008--p021-10",
+  "pp-51-2008--p022-11",
+  "pp-51-2008--p023-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-40-2009",
+    "number_as_written": "40 TAHUN 2009",
+    "quote": "PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN PP 51 TAHUN 2008 PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+   },
+   {
+    "id": "pp-9-2022",
+    "number_as_written": "9 TAHUN 2022",
+    "quote": "PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "140",
+     "2000",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 140 Tahun 2000",
+    "source_of_reading": "DJP",
+    "target_id": "pp-140-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-07-20",
+   "detail_error": null,
+   "number_as_written": "51 TAHUN 2008",
+   "retrieved_at": "2026-09-22T03:16:40+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi-1"
+  },
+  {
+   "date_as_written": "2008-01-01 00:00:00",
+   "number_as_written": "PP 51 TAHUN 2008",
+   "retrieved_at": "2026-09-21T14:10:09+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-51-tahun-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=230",
+   "retrieved_at": "2026-09-21T14:24:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi-1",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=68",
+   "retrieved_at": "2026-09-21T14:10:09+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-51-tahun-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12605,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:16:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi-1"
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+}

@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-45-2019",
+ "identity": {
+  "code": "PP",
+  "number": "45",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-45-2019--b000-1",
+  "pp-45-2019--b001-29a",
+  "pp-45-2019--b002-29b",
+  "pp-45-2019--b003-29c",
+  "pp-45-2019--b004-30",
+  "pp-45-2019--b005-ii",
+  "pp-45-2019--p006-i",
+  "pp-45-2019--p007-29a",
+  "pp-45-2019--p008-29b",
+  "pp-45-2019--p009-29c",
+  "pp-45-2019--p010-30",
+  "pp-45-2019--p011-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II",
+  "urutan_loncat:1->30"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "94",
+     "2010",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 94 TAHUN 2010",
+    "source_of_reading": "DJP",
+    "target_id": "pp-94-2010"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-01-25",
+   "detail_error": null,
+   "number_as_written": "45 TAHUN 2019",
+   "retrieved_at": "2026-09-22T00:46:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 94 TAHUN 2010 TENTANG PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-94-tahun-2010-tentang-penghitungan-penghasilan"
+  },
+  {
+   "date_as_written": "2019-06-25 00:00:00",
+   "number_as_written": "PP 45 TAHUN 2019",
+   "retrieved_at": "2026-09-21T14:06:35+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 94 Tahun 2010 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=115",
+   "retrieved_at": "2026-09-21T14:15:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-94-tahun-2010-tentang-penghitungan-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=15",
+   "retrieved_at": "2026-09-21T14:06:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10374,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:46:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-94-tahun-2010-tentang-penghitungan-penghasilan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 94 TAHUN 2010 TENTANG PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN"
+}

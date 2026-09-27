@@ -1,0 +1,133 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-130-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "130",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-130-2020--b000-1",
+  "pmk-130-2020--b001-2",
+  "pmk-130-2020--b002-3",
+  "pmk-130-2020--b003-4",
+  "pmk-130-2020--b004-5",
+  "pmk-130-2020--b005-6",
+  "pmk-130-2020--b006-7",
+  "pmk-130-2020--b007-8",
+  "pmk-130-2020--b008-9",
+  "pmk-130-2020--b009-10",
+  "pmk-130-2020--b010-11",
+  "pmk-130-2020--b011-12",
+  "pmk-130-2020--b012-13",
+  "pmk-130-2020--b013-14",
+  "pmk-130-2020--b014-15",
+  "pmk-130-2020--b015-16",
+  "pmk-130-2020--b016-17",
+  "pmk-130-2020--b017-18",
+  "pmk-130-2020--b018-19",
+  "pmk-130-2020--b019-20",
+  "pmk-130-2020--b020-21",
+  "pmk-130-2020--b021-22",
+  "pmk-130-2020--b022-23",
+  "pmk-130-2020--b023-24",
+  "pmk-130-2020--b024-25",
+  "pmk-130-2020--b025-26",
+  "pmk-130-2020--b026-27",
+  "pmk-130-2020--b027-28",
+  "pmk-130-2020--b028-29",
+  "pmk-130-2020--b029-30",
+  "pmk-130-2020--b030-31",
+  "pmk-130-2020--b031-32"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-69-2024",
+    "number_as_written": "69 TAHUN 2024",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020 TENTANG PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "150",
+     "2018",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 150/PMK.010/2018",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-150-2018"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-09-18",
+   "detail_error": null,
+   "number_as_written": "130/PMK.010/2020",
+   "retrieved_at": "2026-09-22T00:36:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pengurangan-pajak-penghasilan-badan"
+  },
+  {
+   "date_as_written": "2020-09-18 00:00:00",
+   "number_as_written": "130/PMK.010/2020",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-010-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=90",
+   "retrieved_at": "2026-09-21T14:14:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pengurangan-pajak-penghasilan-badan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=107",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 47874,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:36:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pengurangan-pajak-penghasilan-badan"
+ },
+ "title": "PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
+}

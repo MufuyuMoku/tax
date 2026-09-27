@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-200-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "200",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-200-2015--b000-1",
+  "pmk-200-2015--b001-2",
+  "pmk-200-2015--b002-3",
+  "pmk-200-2015--b003-4",
+  "pmk-200-2015--b004-5",
+  "pmk-200-2015--b005-6",
+  "pmk-200-2015--b006-7",
+  "pmk-200-2015--b007-8",
+  "pmk-200-2015--b008-9",
+  "pmk-200-2015--b009-10",
+  "pmk-200-2015--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-37-2017",
+    "number_as_written": "37/PMK.03/2017",
+    "quote": "Peraturan Menteri Keuangan Republik Indonesia Nomor 200/PMK.03/2015",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBAYARAN DAN PELAPORAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN REAL ESTAT DALAM SKEMA KONTRAK INVESTASI KOLEKTIF TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-10",
+   "detail_error": null,
+   "number_as_written": "200/PMK.03/2015",
+   "retrieved_at": "2026-09-22T02:22:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN BAGI WAJIB PAJAK DAN PENGUSAHA KENA PAJAK YANG MENGGUNAKAN SKEMA KONTRAK INVESTASI KOLEKTIF TERTENTU DALAM RANGKA PENDALAMAN SEKTOR KEUANGAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 37/PMK.03/2017 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=156",
+   "retrieved_at": "2026-09-21T14:19:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18652,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:22:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema"
+ },
+ "title": "PERLAKUAN PERPAJAKAN BAGI WAJIB PAJAK DAN PENGUSAHA KENA PAJAK YANG MENGGUNAKAN SKEMA KONTRAK INVESTASI KOLEKTIF TERTENTU DALAM RANGKA PENDALAMAN SEKTOR KEUANGAN"
+}

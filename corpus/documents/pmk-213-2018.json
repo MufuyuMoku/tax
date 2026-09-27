@@ -1,0 +1,284 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-213-2018",
+ "identity": {
+  "code": "PMK",
+  "number": "213",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-213-2018--b000-1",
+  "pmk-213-2018--b001-2",
+  "pmk-213-2018--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "505/KMK.04",
+     "1995",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 505/KMK.04/1995",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-505-kmk-04-1995"
+   },
+   {
+    "key": [
+     "KMK",
+     "61/KMK.016",
+     "1996",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 61/KMK.016/1996",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-61-kmk-016-1996"
+   },
+   {
+    "key": [
+     "KMK",
+     "597/KMK.04",
+     "1997",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 597/KMK.04/1997",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-597-kmk-04-1997"
+   },
+   {
+    "key": [
+     "KMK",
+     "44/KMK.04",
+     "1998",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 44/KMK.04/1998",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-44-kmk-04-1998"
+   },
+   {
+    "key": [
+     "PP",
+     "45",
+     "1996",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 45 Tahun 1996",
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-45-1996"
+   },
+   {
+    "key": [
+     "KMK",
+     "358/KMK.04",
+     "1999",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 358/KMK.04/1999",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-358-kmk-04-1999"
+   },
+   {
+    "key": [
+     "KMK",
+     "83/KMK.04",
+     "1999",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 83/KMK.04/1999",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-83-kmk-04-1999"
+   },
+   {
+    "key": [
+     "KMK",
+     "391/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 391/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-391-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "499/KMK.03",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 499/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-499-kmk-03-2003"
+   },
+   {
+    "key": [
+     "KMK",
+     "571/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 571/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-571-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "113/KMK.03",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 113/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-113-kmk-03-2001"
+   },
+   {
+    "key": [
+     "KMK",
+     "486/KMK.03",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 486/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-486-kmk-03-2003"
+   },
+   {
+    "key": [
+     "PMK",
+     "609",
+     "2004",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 609/PMK.03/2004",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-609-2004"
+   },
+   {
+    "key": [
+     "PMK",
+     "137",
+     "2005",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 137 /PMK.03/2005",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-137-2005"
+   },
+   {
+    "key": [
+     "PMK",
+     "93",
+     "2006",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 93/PMK.03/2006",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-93-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "94",
+     "2006",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 94/PMK.03/2006",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-94-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "1",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 01/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-1-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "124",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 124/PMK.011/2013",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-124-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-12-31",
+   "detail_error": null,
+   "number_as_written": "213 /PMK.03/2018",
+   "retrieved_at": "2026-09-22T00:47:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-dan-peraturan-menteri-keuangan-di-bidang-pajak"
+  },
+  {
+   "date_as_written": "2018-12-31 00:00:00",
+   "number_as_written": "213/PMK.03/2018",
+   "retrieved_at": "2026-09-21T14:24:58+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Pajak Penghasilan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/213-pmk-03-2018"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=117",
+   "retrieved_at": "2026-09-21T14:16:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-dan-peraturan-menteri-keuangan-di-bidang-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=144",
+   "retrieved_at": "2026-09-21T14:24:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/213-pmk-03-2018",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11856,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:47:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-dan-peraturan-menteri-keuangan-di-bidang-pajak"
+ },
+ "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+}

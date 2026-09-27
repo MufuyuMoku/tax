@@ -1,0 +1,63 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-1-1993",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "1993"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-1-1993--b000-1",
+  "kep-djp-1-1993--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1993-03-09",
+   "detail_error": null,
+   "number_as_written": "KEP-01/PJ.7/1993",
+   "retrieved_at": "2026-09-22T04:56:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PEMERIKSAAN PAJAK TERHADAP WAJIB PAJAK YANG MEMPUNYAI HUBUNGAN ISTIMEWA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-pemeriksaan-pajak-terhadap-wajib-pajak-yang-mempunyai-hubungan-istimewa"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=468",
+   "retrieved_at": "2026-09-21T14:43:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-pemeriksaan-pajak-terhadap-wajib-pajak-yang-mempunyai-hubungan-istimewa",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2034,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:56:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-pemeriksaan-pajak-terhadap-wajib-pajak-yang-mempunyai-hubungan-istimewa"
+ },
+ "title": "PEDOMAN PEMERIKSAAN PAJAK TERHADAP WAJIB PAJAK YANG MEMPUNYAI HUBUNGAN ISTIMEWA"
+}

@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-84-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "84/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-255-2008",
+    "number_as_written": "255/PMK.03/2008",
+    "quote": "Keputusan Menteri Keuangan Nomor 84/KMK.03/2002",
+    "source_of_reading": "DJP",
+    "title": "PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK DAERAH, WAJIB PAJAK MASUK BURSA DAN WAJIB PAJAK LAINNYA YANG BERDASARKAN KETENTUAN DIHARUSKAN MEMBUAT LAPORAN KEUANGAN BERKALA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-08",
+   "detail_error": null,
+   "number_as_written": "84/KMK.03/2002",
+   "retrieved_at": "2026-09-22T03:42:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 522/KMK.04/2000 TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH DAN WAJIB PAJAK LAINNYA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-522kmk042000-tentang-penghitungan"
+  },
+  {
+   "date_as_written": "2002-03-08 00:00:00",
+   "number_as_written": "84/KMK.03/2002",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 522/KMK.94/2000 tentang Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi,, Badan Usaha Milik Negara, Badan Usaha Milik Daerah dan Wajib Pajak Lainnya Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/84-kmk-03-2002"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=341",
+   "retrieved_at": "2026-09-21T14:33:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-522kmk042000-tentang-penghitungan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=31",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/84-kmk-03-2002",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 522/KMK.04/2000 TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH DAN WAJIB PAJAK LAINNYA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
+}

@@ -1,0 +1,142 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-48-1994",
+ "identity": {
+  "code": "PP",
+  "number": "48",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-48-1994--b000-1",
+  "pp-48-1994--b001-2",
+  "pp-48-1994--b002-3",
+  "pp-48-1994--b003-4",
+  "pp-48-1994--b004-5",
+  "pp-48-1994--b005-6",
+  "pp-48-1994--b006-7",
+  "pp-48-1994--b007-8",
+  "pp-48-1994--b008-9",
+  "pp-48-1994--b009-10",
+  "pp-48-1994--b010-11",
+  "pp-48-1994--b011-12",
+  "pp-48-1994--b012-13",
+  "pp-48-1994--p013-1",
+  "pp-48-1994--p014-2",
+  "pp-48-1994--p015-3",
+  "pp-48-1994--p016-4",
+  "pp-48-1994--p017-5",
+  "pp-48-1994--p018-6",
+  "pp-48-1994--p019-7",
+  "pp-48-1994--p020-8",
+  "pp-48-1994--p021-9",
+  "pp-48-1994--p022-10",
+  "pp-48-1994--p023-11",
+  "pp-48-1994--p024-12",
+  "pp-48-1994--p025-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-27-1996",
+    "number_as_written": "27 TAHUN 1996",
+    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+   },
+   {
+    "id": "pp-71-2008",
+    "number_as_written": "71 TAHUN 2008",
+    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+   },
+   {
+    "id": "pp-79-1999",
+    "number_as_written": "79 TAHUN 1999",
+    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "3",
+     "1994",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 3 Tahun 1994",
+    "source_of_reading": "DJP",
+    "target_id": "pp-3-1994"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-27",
+   "detail_error": null,
+   "number_as_written": "48 TAHUN 1994",
+   "retrieved_at": "2026-09-22T04:49:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak-atas-tanah-danatau"
+  },
+  {
+   "date_as_written": "1994-12-27 00:00:00",
+   "number_as_written": "PP 48 TAHUN 1994",
+   "retrieved_at": "2026-09-21T14:11:55+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-48-tahun-1994"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=458",
+   "retrieved_at": "2026-09-21T14:42:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak-atas-tanah-danatau",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=95",
+   "retrieved_at": "2026-09-21T14:11:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-48-tahun-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26185,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:49:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak-atas-tanah-danatau"
+ },
+ "title": "PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+}

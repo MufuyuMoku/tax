@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-351-2003",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "351",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-53-2008-ralat",
+    "number_as_written": "PER-53/PJ/2008",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-351/PJ./2003",
+    "source_of_reading": "DJP",
+    "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-10-07",
+   "detail_error": null,
+   "number_as_written": "KEP - 351/PJ/2003",
+   "retrieved_at": "2026-09-26T15:04:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-156/PJ/2000 TENTANG BENTUK FORMULIR SURAT KETERANGAN BEBAS FISKAL LUAR NEGERI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-156pj2000-tentang-bentuk"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-53/PJ/2008 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=311",
+   "retrieved_at": "2026-09-21T14:30:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-156pj2000-tentang-bentuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-156/PJ/2000 TENTANG BENTUK FORMULIR SURAT KETERANGAN BEBAS FISKAL LUAR NEGERI"
+}

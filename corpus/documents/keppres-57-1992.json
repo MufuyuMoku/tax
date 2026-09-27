@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "keppres-57-1992",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "57",
+  "variant": null,
+  "year": "1992"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1992-09-19",
+   "detail_error": null,
+   "number_as_written": "57 TAHUN 1992",
+   "retrieved_at": "2026-09-22T04:57:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENANGGUHAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH SERTA TIDAK DIPUNGUT PAJAK PENGHASILAN PASAL 22 ATAS IMPOR BARANG DALAM RANGKA KEGIATAN KONSTRUKSI DAN KEGIATAN OPERASI PEMBANGUNAN PROYEK PENGEMBANGAN PROPINSI RIAU",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/penangguhan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-serta-tidak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=470",
+   "retrieved_at": "2026-09-21T14:43:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penangguhan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-serta-tidak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENANGGUHAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH SERTA TIDAK DIPUNGUT PAJAK PENGHASILAN PASAL 22 ATAS IMPOR BARANG DALAM RANGKA KEGIATAN KONSTRUKSI DAN KEGIATAN OPERASI PEMBANGUNAN PROYEK PENGEMBANGAN PROPINSI RIAU"
+}

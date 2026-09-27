@@ -1,0 +1,33 @@
+{
+ "attachment_match_counts": {
+  "cocok": 68,
+  "tidak_cocok": 2,
+  "tidak_terverifikasi": 10
+ },
+ "attachments": 80,
+ "body_units": 6253,
+ "documents": 1122,
+ "documents_with_quality_flags": 52,
+ "documents_with_text": 573,
+ "documents_without_text": 549,
+ "explanation_units": 1132,
+ "inputs": {
+  "djp_pph_detail.jsonl": "d903fea0d9e2daf65d4563c5ac8805fe133b6c16dbbc8e2c85ca657efa99f702",
+  "djp_pph_list.jsonl": "23b18e0d31ab085e5492f8e0ecb59476c27325f46eed93d64e23ac35e0b4ae9d",
+  "jdih_metadata.jsonl": "cb1d89e665d731ccf093abf54e21dd1270be8f4c44b216dc6ca586980c3cb2c5",
+  "jdih_pph_candidates.jsonl": "487e46834097dba4d116e7717bc630a96be08c55d6037d061e8321d315c1c653",
+  "jdih_pph_detail.jsonl": "d6c279869dbfa96bdc9858f64ade5c005b9067d46a43b575ec7728ad043b8898"
+ },
+ "note": "Dibangun dari arsip poc/ tanpa permintaan jaringan. Jalankan: python -m pipeline.build",
+ "status_counts": {
+  "berlaku": 480,
+  "diubah_atau_dicabut_sebagian": 73,
+  "tidak_berlaku": 379,
+  "tidak_pasti": 190
+ },
+ "structure_counts": {
+  "biasa": 440,
+  "diktum": 22,
+  "perubahan": 111
+ }
+}

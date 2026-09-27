@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-eselon1-335-1975",
+ "identity": {
+  "code": "KEP-ESELON1",
+  "number": "335",
+  "variant": null,
+  "year": "1975"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1975-04-01 00:00:00",
+   "number_as_written": "KEP-335/MK/II/4/1975",
+   "retrieved_at": "2026-09-21T14:59:26+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penegasan tentang Tidak Dipungutnya Pajak atas Bunga, Deviden dan Royalty atas Bunga yang Diperoleh Dari Promes, Aksep, Wesel dan Surat Berharga Sejenis yang Lazimnya Diperdagangkan dalam Pasar Uang",
+   "type_as_written": "Keputusan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-335-mk-ii-4-1975"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=18",
+   "retrieved_at": "2026-09-21T14:59:26+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-335-mk-ii-4-1975",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Penegasan tentang Tidak Dipungutnya Pajak atas Bunga, Deviden dan Royalty atas Bunga yang Diperoleh Dari Promes, Aksep, Wesel dan Surat Berharga Sejenis yang Lazimnya Diperdagangkan dalam Pasar Uang"
+}

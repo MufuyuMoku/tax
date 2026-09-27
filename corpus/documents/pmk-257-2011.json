@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-257-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "257",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-257-2011--b000-1",
+  "pmk-257-2011--b001-2",
+  "pmk-257-2011--b002-3",
+  "pmk-257-2011--b003-4",
+  "pmk-257-2011--b004-5",
+  "pmk-257-2011--b005-6",
+  "pmk-257-2011--b006-7",
+  "pmk-257-2011--b007-8",
+  "pmk-257-2011--b008-9",
+  "pmk-257-2011--b009-10",
+  "pmk-257-2011--b010-11",
+  "pmk-257-2011--b011-12",
+  "pmk-257-2011--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-28",
+   "detail_error": null,
+   "number_as_written": "257/PMK.011/2011",
+   "retrieved_at": "2026-09-22T02:41:43+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMOTONGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN LAIN KONTRAKTOR BERUPA UPLIFT ATAU IMBALAN LAIN YANG SEJENIS DAN/ATAU PENGHASILAN KONTRAKTOR DARI PENGALIHAN PARTICIPATING INTEREST",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-dan-pembayaran-pajak-penghasilan-atas-penghasilan-lain-kontraktor"
+  },
+  {
+   "date_as_written": "2011-12-28 00:00:00",
+   "number_as_written": "257/PMK.011/2011",
+   "retrieved_at": "2026-09-21T14:36:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemotongan dan Pembayaran Pajak Penghasilan atas Penghasilan Lain Kontraktor Berupa Uplift atau Imbalan Lain yang Sejenis dan/atau Penghasilan Kontraktor Dari Pengalihan Participating Interest.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/257-pmk-011-2011"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=198",
+   "retrieved_at": "2026-09-21T14:22:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-dan-pembayaran-pajak-penghasilan-atas-penghasilan-lain-kontraktor",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=318",
+   "retrieved_at": "2026-09-21T14:36:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/257-pmk-011-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13685,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:41:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-dan-pembayaran-pajak-penghasilan-atas-penghasilan-lain-kontraktor"
+ },
+ "title": "TATA CARA PEMOTONGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN LAIN KONTRAKTOR BERUPA UPLIFT ATAU IMBALAN LAIN YANG SEJENIS DAN/ATAU PENGHASILAN KONTRAKTOR DARI PENGALIHAN PARTICIPATING INTEREST"
+}

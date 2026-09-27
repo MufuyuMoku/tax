@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-1147-kmk-01-1992",
+ "identity": {
+  "code": "KMK",
+  "number": "1147/KMK.01",
+  "variant": null,
+  "year": "1992"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1992-10-28",
+   "detail_error": null,
+   "number_as_written": "1147/KMK.01/1992",
+   "retrieved_at": "2026-09-22T04:56:42+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENAGIHAN PIUTANG BEA MASUK/BEA MASUK TAMBAHAN, CUKAI SERTA PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK PENGHASILAN (PPh) PASAL 22 DALAM RANGKA IMPOR YANG TIDAK ATAU KURANG DIBAYAR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penagihan-piutang-bea-masukbea-masuk-tambahan-cukai-serta-pajak-pertambahan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=469",
+   "retrieved_at": "2026-09-21T14:43:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penagihan-piutang-bea-masukbea-masuk-tambahan-cukai-serta-pajak-pertambahan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENAGIHAN PIUTANG BEA MASUK/BEA MASUK TAMBAHAN, CUKAI SERTA PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK PENGHASILAN (PPh) PASAL 22 DALAM RANGKA IMPOR YANG TIDAK ATAU KURANG DIBAYAR"
+}

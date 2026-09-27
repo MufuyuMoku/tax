@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-147-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "147",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-09-10 00:00:00",
+   "number_as_written": "147/PMK.011/2012",
+   "retrieved_at": "2026-09-21T14:35:57+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2012.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-011-2012"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=303",
+   "retrieved_at": "2026-09-21T14:35:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-011-2012",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2012."
+}

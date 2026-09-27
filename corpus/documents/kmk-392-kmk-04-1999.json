@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-392-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "392/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-08-03",
+   "detail_error": null,
+   "number_as_written": "392/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:07:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 638/KMK.04/1994 TENTANG PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 30/KMK.04/1998",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-638kmk041994-tentang-pelaksanaan"
+  },
+  {
+   "date_as_written": "1999-08-03 00:00:00",
+   "number_as_written": "392/KMK.04/1999",
+   "retrieved_at": "2026-09-21T14:50:50+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kepmenkeu No.638/KMK.04/1994 tentang Pelaksanaan Pembayaran Pph Bagai Orang Pribadi  yang Akan Bertolak Ke Ln Sebagaimana Telah Diubah Terakhir dengan Kepmenkeu No. 30/KMK.04/1998",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/392-kmk-04-1999"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=399",
+   "retrieved_at": "2026-09-21T14:37:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-638kmk041994-tentang-pelaksanaan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=58",
+   "retrieved_at": "2026-09-21T14:50:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/392-kmk-04-1999",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 638/KMK.04/1994 TENTANG PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 30/KMK.04/1998"
+}

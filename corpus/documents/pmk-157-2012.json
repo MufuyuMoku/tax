@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-157-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "157",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-10-16 00:00:00",
+   "number_as_written": "157/PMK.07/2012",
+   "retrieved_at": "2026-09-21T14:35:53+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, dan Tahun Anggaran 2010.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/157-pmk-07-2012"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=302",
+   "retrieved_at": "2026-09-21T14:35:53+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/157-pmk-07-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, dan Tahun Anggaran 2010."
+}

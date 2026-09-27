@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-293-kmk-01-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "293/KMK.01",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-06-27",
+   "detail_error": null,
+   "number_as_written": "293/KMK.01/1994",
+   "retrieved_at": "2026-09-22T04:52:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 855/KMK.01/1993 TENTANG ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-855kmk011993-tentang-entrepot-produksi"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=463",
+   "retrieved_at": "2026-09-21T14:42:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-855kmk011993-tentang-entrepot-produksi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 855/KMK.01/1993 TENTANG ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)"
+}

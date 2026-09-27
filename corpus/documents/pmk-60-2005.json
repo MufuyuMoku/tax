@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-60-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "60",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-60-2005--b000-1",
+  "pmk-60-2005--b001-2",
+  "pmk-60-2005--b002-3",
+  "pmk-60-2005--b003-4",
+  "pmk-60-2005--b004-5",
+  "pmk-60-2005--b005-6",
+  "pmk-60-2005--b006-7",
+  "pmk-60-2005--b007-8",
+  "pmk-60-2005--b008-9",
+  "pmk-60-2005--b009-10",
+  "pmk-60-2005--b010-11",
+  "pmk-60-2005--b011-12",
+  "pmk-60-2005--b012-13",
+  "pmk-60-2005--b013-14",
+  "pmk-60-2005--b014-15",
+  "pmk-60-2005--b015-16"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-07-21",
+   "detail_error": null,
+   "number_as_written": "60/PMK.04/2005",
+   "retrieved_at": "2026-09-22T03:29:27+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENIMBUNAN BERIKAT DI PULAU BATAM, BINTAN DAN KARIMUN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat-di-pulau-batam-bintan-dan-karimun"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=289",
+   "retrieved_at": "2026-09-21T14:29:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat-di-pulau-batam-bintan-dan-karimun",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15100,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:29:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat-di-pulau-batam-bintan-dan-karimun"
+ },
+ "title": "TEMPAT PENIMBUNAN BERIKAT DI PULAU BATAM, BINTAN DAN KARIMUN"
+}

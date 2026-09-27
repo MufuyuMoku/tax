@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-231-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "231",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-231-2019--b000-1",
+  "pmk-231-2019--b001-2",
+  "pmk-231-2019--b002-3",
+  "pmk-231-2019--b003-4",
+  "pmk-231-2019--b004-5",
+  "pmk-231-2019--b005-6",
+  "pmk-231-2019--b006-7",
+  "pmk-231-2019--b007-8",
+  "pmk-231-2019--b008-9",
+  "pmk-231-2019--b009-10",
+  "pmk-231-2019--b010-11",
+  "pmk-231-2019--b011-12",
+  "pmk-231-2019--b012-13",
+  "pmk-231-2019--b013-14",
+  "pmk-231-2019--b014-15",
+  "pmk-231-2019--b015-16",
+  "pmk-231-2019--b016-17",
+  "pmk-231-2019--b017-18",
+  "pmk-231-2019--b018-19",
+  "pmk-231-2019--b019-20",
+  "pmk-231-2019--b020-21",
+  "pmk-231-2019--b021-22",
+  "pmk-231-2019--b022-23",
+  "pmk-231-2019--b023-24",
+  "pmk-231-2019--b024-25",
+  "pmk-231-2019--b025-26",
+  "pmk-231-2019--b026-27",
+  "pmk-231-2019--b027-28",
+  "pmk-231-2019--b028-29",
+  "pmk-231-2019--b029-30"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-59-2022",
+    "number_as_written": "59/PMK.03/2022",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 231/PMK.03/2019",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 231/PMK.03/2019 TENTANG TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PEMOTONGAN DAN/ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK BAGI INSTANSI PEMERINTAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "563/KMK.03",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 563/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-563-kmk-03-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-12-31",
+   "detail_error": null,
+   "number_as_written": "231/PMK.03/2019",
+   "retrieved_at": "2026-09-22T00:42:06+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PEMOTONGAN DAN/ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK BAGI INSTANSI PEMERINTAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-penghapusan-nomor-pokok-wajib-pajak-pengukuhan-dan-pencabutan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=103",
+   "retrieved_at": "2026-09-21T14:15:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-penghapusan-nomor-pokok-wajib-pajak-pengukuhan-dan-pencabutan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 40496,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:42:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-penghapusan-nomor-pokok-wajib-pajak-pengukuhan-dan-pencabutan"
+ },
+ "title": "TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PEMOTONGAN DAN/ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK BAGI INSTANSI PEMERINTAH"
+}

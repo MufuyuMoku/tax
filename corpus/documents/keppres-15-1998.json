@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "keppres-15-1998",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "15",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KAWASAN PENGEMBANGAN EKONOMI TERPADU",
+    "url": "https://www.pajak.go.id/id/peraturan/kawasan-pengembangan-ekonomi-terpadu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN APRIL, MEI DAN JUNI 1990",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-267"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 22 SAMPAI DENGAN 28 DESEMBER 1997",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-315"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-01-19",
+   "detail_error": null,
+   "number_as_written": "15 TAHUN 1998",
+   "retrieved_at": "2026-09-22T04:24:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN KAWASAN PENGEMBANGAN EKONOMI TERPADU MBAY",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-kawasan-pengembangan-ekonomi-terpadu-mbay"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=430",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-kawasan-pengembangan-ekonomi-terpadu-mbay",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN KAWASAN PENGEMBANGAN EKONOMI TERPADU MBAY"
+}

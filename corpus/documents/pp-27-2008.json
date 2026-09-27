@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-27-2008",
+ "identity": {
+  "code": "PP",
+  "number": "27",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-27-2008--b000-1",
+  "pp-27-2008--b001-2",
+  "pp-27-2008--b002-3",
+  "pp-27-2008--b003-4",
+  "pp-27-2008--b004-5",
+  "pp-27-2008--b005-6",
+  "pp-27-2008--b006-7",
+  "pp-27-2008--b007-8",
+  "pp-27-2008--p008-1",
+  "pp-27-2008--p009-2",
+  "pp-27-2008--p010-3",
+  "pp-27-2008--p011-4",
+  "pp-27-2008--p012-5",
+  "pp-27-2008--p013-6",
+  "pp-27-2008--p014-7",
+  "pp-27-2008--p015-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "11",
+     "2006",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 11 Tahun 2006",
+    "source_of_reading": "DJP",
+    "target_id": "pp-11-2006"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-04-04",
+   "detail_error": null,
+   "number_as_written": "27 TAHUN 2008",
+   "retrieved_at": "2026-09-22T03:18:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAN NEGARA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-diskonto-surat-perbendaharan-negara-0"
+  },
+  {
+   "date_as_written": "2008-04-04 00:00:00",
+   "number_as_written": "PP 27 TAHUN 2008",
+   "retrieved_at": "2026-09-21T14:10:17+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Diskonto Surat Perbendaharaan Negara",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-27-tahun-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=235",
+   "retrieved_at": "2026-09-21T14:25:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-diskonto-surat-perbendaharan-negara-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=70",
+   "retrieved_at": "2026-09-21T14:10:17+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-27-tahun-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6748,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:18:47+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-diskonto-surat-perbendaharan-negara-0"
+ },
+ "title": "PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAN NEGARA"
+}

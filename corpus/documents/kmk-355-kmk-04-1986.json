@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-355-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "355/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 7 SAMPAI DENGAN 13 APRIL 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-229"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 10 SAMPAI DENGAN 16 MARET 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-261"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-05-10",
+   "detail_error": null,
+   "number_as_written": "355/KMK.04/1986",
+   "retrieved_at": "2026-09-22T05:08:33+00:00",
+   "source": "DJP",
+   "title_as_written": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK SEBAGAI DASAR PENGHITUNGAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PEKERJAAN YANG DITERIMA TENAGA ASING YANG BEKERJA PADA WAJIB PAJAK BADAN PENGEBORAN MINYAK DAN GAS BUMI DI INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-sebagai-dasar-penghitungan-pajak-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=484",
+   "retrieved_at": "2026-09-21T14:44:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-sebagai-dasar-penghitungan-pajak-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK SEBAGAI DASAR PENGHITUNGAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PEKERJAAN YANG DITERIMA TENAGA ASING YANG BEKERJA PADA WAJIB PAJAK BADAN PENGEBORAN MINYAK DAN GAS BUMI DI INDONESIA"
+}

@@ -1,0 +1,95 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran Peraturan Menteri Keuangan Nomor 149_PMK.03_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "149",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Peraturan%20Menteri%20Keuangan%20Nomor%20149_PMK.03_2021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-149-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "149",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-149-2021--b000-i",
+  "pmk-149-2021--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "9",
+     "2021",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-9-2021"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-3-2022",
+    "number_as_written": "3/PMK.03/2022",
+    "quote": "Peraturan Menteri Keuangan Nomor 149/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "title": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-10-25",
+   "detail_error": null,
+   "number_as_written": "149/PMK.03/2021",
+   "retrieved_at": "2026-09-22T00:29:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 3/PMK.03/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=69",
+   "retrieved_at": "2026-09-21T14:12:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 11419,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:29:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+}

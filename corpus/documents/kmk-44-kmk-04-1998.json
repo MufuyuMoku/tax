@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-44-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "44/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 44/KMK.04/1998",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-02-10",
+   "detail_error": null,
+   "number_as_written": "44/KMK.04/1998",
+   "retrieved_at": "2026-09-22T04:23:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN YANG DITANGGUNG PEMERINTAH ATAS PENGHASILAN WAJIB PAJAK BADAN UNTUK USAHA INDUSTRI TERTENTU SESUAI PERATURAN PEMERINTAH NOMOR 45 TAHUN 1996",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-yang-ditanggung-pemerintah-atas-penghasilan-wajib-pajak-badan-untuk"
+  },
+  {
+   "date_as_written": "1998-02-10 00:00:00",
+   "number_as_written": "44/KMK.04/1998",
+   "retrieved_at": "2026-09-21T14:52:09+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan yang Ditanggung Pemerintah atas Penghasilan Wajib Pajak Badan untuk Usaha Industri Tertentu Sesuai Peraturan Pemerintah No. 45 Tahun 1996",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/44-kmk-04-1998"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=429",
+   "retrieved_at": "2026-09-21T14:39:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-yang-ditanggung-pemerintah-atas-penghasilan-wajib-pajak-badan-untuk",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=78",
+   "retrieved_at": "2026-09-21T14:52:09+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/44-kmk-04-1998",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN YANG DITANGGUNG PEMERINTAH ATAS PENGHASILAN WAJIB PAJAK BADAN UNTUK USAHA INDUSTRI TERTENTU SESUAI PERATURAN PEMERINTAH NOMOR 45 TAHUN 1996"
+}

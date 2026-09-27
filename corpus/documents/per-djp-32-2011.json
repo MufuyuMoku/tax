@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-32-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "32",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-32-2011--b000-i",
+  "per-djp-32-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "43",
+     "2010",
+     null
+    ],
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-43/PJ/2010",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-43-2010"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-11-11",
+   "detail_error": null,
+   "number_as_written": "PER-32/PJ/2011",
+   "retrieved_at": "2026-09-22T02:42:48+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-43/PJ/2010 TENTANG PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI ANTARA WAJIB PAJAK DENGAN PIHAK YANG MEMPUNYAI HUBUNGAN ISTIMEWA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-43pj2010-tentang-penerapan-prinsip"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=200",
+   "retrieved_at": "2026-09-21T14:22:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-43pj2010-tentang-penerapan-prinsip",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 32605,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:42:48+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-43pj2010-tentang-penerapan-prinsip"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-43/PJ/2010 TENTANG PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI ANTARA WAJIB PAJAK DENGAN PIHAK YANG MEMPUNYAI HUBUNGAN ISTIMEWA"
+}

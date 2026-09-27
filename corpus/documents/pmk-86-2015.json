@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-86-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "86",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-86-2015--b000-i",
+  "pmk-86-2015--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "100",
+     "2011",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 100/PMK.03/2011",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-100-2011"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-04-27",
+   "detail_error": null,
+   "number_as_written": "86/PMK.10/2015",
+   "retrieved_at": "2026-09-22T02:26:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 100/PMK.03/2011 TENTANG TATA CARA PENGHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS SURPLUS BANK INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-100pmk032011-tentang-tata-cara"
+  },
+  {
+   "date_as_written": "2015-04-27 00:00:00",
+   "number_as_written": "86/PMK.010/2015",
+   "retrieved_at": "2026-09-21T14:31:02+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 100/PMK.03/2011 tentang Tata Cara Penghitungan dan Pembayaran Pajak Penghasilan atas Surplus Bank Indonesia.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-010-2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=165",
+   "retrieved_at": "2026-09-21T14:19:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-100pmk032011-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=233",
+   "retrieved_at": "2026-09-21T14:31:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-010-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9965,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:26:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-100pmk032011-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 100/PMK.03/2011 TENTANG TATA CARA PENGHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS SURPLUS BANK INDONESIA"
+}

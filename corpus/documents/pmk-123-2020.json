@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-123-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "123",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-123-2020--b000-1",
+  "pmk-123-2020--b001-2",
+  "pmk-123-2020--b002-3",
+  "pmk-123-2020--b003-4",
+  "pmk-123-2020--b004-5",
+  "pmk-123-2020--b005-6",
+  "pmk-123-2020--b006-7",
+  "pmk-123-2020--b007-8",
+  "pmk-123-2020--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-40-2023",
+    "number_as_written": "40 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 123/PMK.03/2020",
+    "source_of_reading": "DJP",
+    "title": "BENTUK DAN TATA CARA PENYAMPAIAN LAPORAN SERTA DAFTAR WAJIB PAJAK DALAM RANGKA PEMENUHAN PERSYARATAN PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-09-01",
+   "detail_error": null,
+   "number_as_written": "123/PMK.03/2020",
+   "retrieved_at": "2026-09-22T00:36:27+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN TATA CARA PENYAMPAIAN LAPORAN SERTA DAFTAR WAJIB PAJAK DALAM RANGKA PEMENUHAN PERSYARATAN PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-penyampaian-laporan-serta-daftar-wajib-pajak-dalam-rangka-pemenuhan"
+  },
+  {
+   "date_as_written": "2020-09-01 00:00:00",
+   "number_as_written": "123/PMK.03/2020",
+   "retrieved_at": "2026-09-21T14:22:33+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bentuk dan Tata Cara Penyampaian Laporan serta Daftar Wajib Pajak dalam rangka Pemenuhan Persyaratan Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 40 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=90",
+   "retrieved_at": "2026-09-21T14:14:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-penyampaian-laporan-serta-daftar-wajib-pajak-dalam-rangka-pemenuhan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=108",
+   "retrieved_at": "2026-09-21T14:22:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11750,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:36:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-penyampaian-laporan-serta-daftar-wajib-pajak-dalam-rangka-pemenuhan"
+ },
+ "title": "BENTUK DAN TATA CARA PENYAMPAIAN LAPORAN SERTA DAFTAR WAJIB PAJAK DALAM RANGKA PEMENUHAN PERSYARATAN PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+}

@@ -1,0 +1,64 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-7-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "7",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-7-2016--b000-1",
+  "per-djp-7-2016--b001-2",
+  "per-djp-7-2016--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-07-18",
+   "detail_error": null,
+   "number_as_written": "PER-07/PJ/2016",
+   "retrieved_at": "2026-09-22T02:19:37+00:00",
+   "source": "DJP",
+   "title_as_written": "DOKUMEN DAN PEDOMAN TEKNIS PENGISIAN DOKUMEN DALAM RANGKA PELAKSANAAN PENGAMPUNAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/dokumen-dan-pedoman-teknis-pengisian-dokumen-dalam-rangka-pelaksanaan-pengampunan-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=146",
+   "retrieved_at": "2026-09-21T14:18:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/dokumen-dan-pedoman-teknis-pengisian-dokumen-dalam-rangka-pelaksanaan-pengampunan-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4620,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:19:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/dokumen-dan-pedoman-teknis-pengisian-dokumen-dalam-rangka-pelaksanaan-pengampunan-pajak"
+ },
+ "title": "DOKUMEN DAN PEDOMAN TEKNIS PENGISIAN DOKUMEN DALAM RANGKA PELAKSANAAN PENGAMPUNAN PAJAK"
+}

@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "keppres-149-2000",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "149",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-10-19",
+   "detail_error": null,
+   "number_as_written": "149 TAHUN 2000",
+   "retrieved_at": "2026-09-22T04:00:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN PRESIDEN NOMOR 7 TAHUN 1990 TENTANG PAJAK PENGHASILAN YANG TERUTANG OLEH PERUSAHAAN-PERUSAHAAN LUAR NEGERI ATAS PEMBAYARAN ROYALTI SEHUBUNGAN DENGAN PENGGUNAAN JASA TEKNIK, JASA MANAJEMEN DAN LISENSI OLEH PT IPTN, PT PINDAD, DAN PT PAL",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-presiden-nomor-7-tahun-1990-tentang-pajak-penghasilan-yang-terutang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=375",
+   "retrieved_at": "2026-09-21T14:35:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-presiden-nomor-7-tahun-1990-tentang-pajak-penghasilan-yang-terutang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN KEPUTUSAN PRESIDEN NOMOR 7 TAHUN 1990 TENTANG PAJAK PENGHASILAN YANG TERUTANG OLEH PERUSAHAAN-PERUSAHAAN LUAR NEGERI ATAS PEMBAYARAN ROYALTI SEHUBUNGAN DENGAN PENGGUNAAN JASA TEKNIK, JASA MANAJEMEN DAN LISENSI OLEH PT IPTN, PT PINDAD, DAN PT PAL"
+}

@@ -1,0 +1,180 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-57-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "57",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-57-2010--b000-1",
+  "per-djp-57-2010--b001-2",
+  "per-djp-57-2010--b002-3",
+  "per-djp-57-2010--b003-4",
+  "per-djp-57-2010--b004-5",
+  "per-djp-57-2010--b005-6",
+  "per-djp-57-2010--b006-7",
+  "per-djp-57-2010--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-15-2011",
+    "number_as_written": "PER-15/PJ/2011",
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER 57/PJ/2010 TENTANG TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DIBIDANG IMPOR ATAU KEGIATAN USAHA DIBIDANG LAIN"
+   },
+   {
+    "id": "per-djp-31-2015",
+    "number_as_written": "PER-31/PJ/2015",
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR  PER-57/PJ/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010 TENTANG TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   },
+   {
+    "id": "per-djp-6-2013",
+    "number_as_written": "PER-06/PJ/2013",
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010 TENTANG TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "32",
+     "1995",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-32/PJ./1995",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-32-1995"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "65",
+     "1995",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-65/PJ./1995",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-65-1995"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "69",
+     "1995",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-69/PJ./1995",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-69-1995"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "1",
+     "1996",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ./1996",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-1-1996"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "401",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-401/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-401-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "417",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-417/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-417-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "523",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-523-2001"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "23",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-23-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-10",
+   "detail_error": null,
+   "number_as_written": "PER-57/PJ/2010",
+   "retrieved_at": "2026-09-22T02:49:10+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=207",
+   "retrieved_at": "2026-09-21T14:23:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12040,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:49:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran"
+ },
+ "title": "TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+}

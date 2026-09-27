@@ -1,0 +1,232 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-191-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "191/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai-barang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai-barang-dan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN PRESIDEN NOMOR 30 TAHUN 1986 TENTANG PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI SERTA PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIPERGUNAKAN DALAM USAHA PERTAKSIAN OLEH KOPERASI PENGEMUDI TAKSI",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-presiden-nomor-30-tahun-1986-tentang-pembebasan-bea-masuk-dan-tidak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN BADAN-BADAN TERTENTU DAN BENDAHARAWAN UNTUK MEMUNGUT DAN MENYETOR PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-badan-badan-tertentu-dan-bendaharawan-untuk-memungut-dan-menyetor-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-bea-masuk-tambahan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAYARAN PAJAK PERTAMBAHAN NILAI YANG TERHUTANG OLEH KONTRAKTOR SEHUBUNGAN DENGAN PELAKSANAAN PROYEK PEMBANGUNAN MILIK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN LUAR NEGERI ATAU HIBAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-pertambahan-nilai-yang-terhutang-oleh-kontraktor-sehubungan-dengan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BATASAN DAN UKURAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI",
+    "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-ukuran-pengusaha-kecil-pajak-pertambahan-nilai-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMBERIAN SURAT KETERANGAN FISKAL LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemberian-surat-keterangan-fiskal-luar-negeri-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemungut-pajak-penghasilan-pasal-22-sifat-dan-besarnya-pungutan-serta-tata-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 31 AGUSTUS SAMPAI DENGAN 6 SEPTEMBER 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-355"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 17 SAMPAI DENGAN 23 MEI 1999",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-387"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "RALAT KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-241/PJ./2002 TANGGAL 30 APRIL 2002 TENTANG TATA CARA DAN PROSEDUR PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DAN DISKONTO OBLIGASI YANG DIPERDAGANGKAN DAN ATAU DILAPORKAN PERDAGANGANNYA DI BURSA EFEK",
+    "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-direktur-jenderal-pajak-nomor-kep-241pj2002-tanggal-30-april-2002-tentang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA DAN PROSEDUR PELAKSANAAN PENILAIAN KEMBALI AKTIVA TETAP PERUSAHAAN UNTUK TUJUAN PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pelaksanaan-penilaian-kembali-aktiva-tetap-perusahaan-untuk-tujuan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENYETORAN, PENYIMPANAN, DAN PENGGUNAAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN (BP-PBB)",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penyimpanan-dan-penggunaan-biaya-pemungutan-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAYARAN PAJAK PENGHASILAN YANG TERUTANG SEHUBUNGAN DENGAN PELAKSANAAN PROYEK PEMBANGUNAN MILIK PEMERINTAH DENGAN DANA PINJAMAN LUAR NEGERI DAN HIBAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-yang-terutang-sehubungan-dengan-pelaksanaan-proyek"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN KEPUTUSAN PRESIDEN NOMOR 29 TAHUN 1986 TENTANG PEMBAYARAN PAJAK PENGHASILAN YANG TERHUTANG SEHUBUNGAN DENGAN PELAKSANAAN PROYEK PEMBANGUNAN MILIK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN ATAU HIBAH LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-keputusan-presiden-nomor-29-tahun-1986-tentang-pembayaran-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA LAKSANA IMPOR BARANG-BARANG DALAM RANGKA PELAKSANAAN PROYEK PEMBANGUNAN MILIK PEMERINTAH YANG DI BIAYAI DENGAN DANA BANTUAN/PINJAMAN LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-laksana-impor-barang-barang-dalam-rangka-pelaksanaan-proyek-pembangunan-milik"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PETUNJUK PELAKSANAAN PENYALURAN DAN PENGADAAN BARANG/JASA HIBAH PEMERINTAH JEPANG YANG BERSUMBER DARI NON PROJECT TYPE GRANT AID 2004 UNTUK PROGRAM PERBAIKAN KERUSAKAN YANG DISEBABKAN OLEH BENCANA ALAM GEMPA BUMI DAN TSUNAMI DI PROVINSI NANGGROE ACEH DARUSSALAM DAN PROVINSI SUMATERA UTARA",
+    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-penyaluran-dan-pengadaan-barangjasa-hibah-pemerintah-jepang-yang"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-05-12",
+   "detail_error": null,
+   "number_as_written": "191/KMK.04/1995",
+   "retrieved_at": "2026-09-22T04:42:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 13 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-keputusan-presiden-republik-indonesia-nomor-13-tahun-1995-tentang-bea-masuk"
+  },
+  {
+   "date_as_written": "1995-05-12 00:00:00",
+   "number_as_written": "191/KMK.04/1995",
+   "retrieved_at": "2026-09-21T14:53:30+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Keputusan Presiden Ri No. 13 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, dan Pajak Penghasilan dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Dana [...]",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/191-kmk-04-1995"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=451",
+   "retrieved_at": "2026-09-21T14:41:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-keputusan-presiden-republik-indonesia-nomor-13-tahun-1995-tentang-bea-masuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=98",
+   "retrieved_at": "2026-09-21T14:53:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/191-kmk-04-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELAKSANAAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 13 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN LUAR NEGERI"
+}

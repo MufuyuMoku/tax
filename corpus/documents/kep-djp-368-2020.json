@@ -1,0 +1,65 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-368-2020",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "368",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-368-2020--b000-kedua",
+  "kep-djp-368-2020--b001-ketiga",
+  "kep-djp-368-2020--b002-keempat",
+  "kep-djp-368-2020--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-08-10",
+   "detail_error": null,
+   "number_as_written": "KEP-368/PJ/2020",
+   "retrieved_at": "2026-09-22T00:36:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PEMOTONG PAJAK PENGHASILAN PASAL 23 DAN/ATAU PASAL 26 YANG DIHARUSKAN MEMBUAT BUKTI PEMOTONGAN DAN DIWAJIBKAN MENYAMPAIKAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 23 DAN/ATAU PASAL 26 BERDASARKAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2017",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pemotong-pajak-penghasilan-pasal-23-danatau-pasal-26-yang-diharuskan-membuat"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=92",
+   "retrieved_at": "2026-09-21T14:14:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pemotong-pajak-penghasilan-pasal-23-danatau-pasal-26-yang-diharuskan-membuat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5652,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:36:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-pemotong-pajak-penghasilan-pasal-23-danatau-pasal-26-yang-diharuskan-membuat"
+ },
+ "title": "PENETAPAN PEMOTONG PAJAK PENGHASILAN PASAL 23 DAN/ATAU PASAL 26 YANG DIHARUSKAN MEMBUAT BUKTI PEMOTONGAN DAN DIWAJIBKAN MENYAMPAIKAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 23 DAN/ATAU PASAL 26 BERDASARKAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2017"
+}

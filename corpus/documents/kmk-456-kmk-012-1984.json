@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-456-kmk-012-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "456/KMK.012",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 18 SAMPAI DENGAN 24 AGUSTUS 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-250"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN JULI, AGUSTUS DAN SEPTEMBER 1990",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-268"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-05-21",
+   "detail_error": null,
+   "number_as_written": "456/KMK.012/1984",
+   "retrieved_at": "2026-09-22T05:13:21+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERHITUNGAN DAN PENYETORAN KEWAJIBAN PERTAMINA KEPADA PEMERINTAH ATAS HASIL OPERASI PERTAMINA SENDIRI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-perhitungan-dan-penyetoran-kewajiban-pertamina-kepada-pemerintah-atas-hasil"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=490",
+   "retrieved_at": "2026-09-21T14:45:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-perhitungan-dan-penyetoran-kewajiban-pertamina-kepada-pemerintah-atas-hasil",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PERHITUNGAN DAN PENYETORAN KEWAJIBAN PERTAMINA KEPADA PEMERINTAH ATAS HASIL OPERASI PERTAMINA SENDIRI"
+}

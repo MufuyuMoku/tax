@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-609-2004",
+ "identity": {
+  "code": "PMK",
+  "number": "609",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-609-2004--b000-1",
+  "pmk-609-2004--b001-2",
+  "pmk-609-2004--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 609/PMK.03/2004",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-12-28",
+   "detail_error": null,
+   "number_as_written": "609/PMK.03/2004",
+   "retrieved_at": "2026-09-22T03:30:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN ATAS BANTUAN KEMANUSIAAN BENCANA ALAM DI NANGGROE ACEH DARUSSALAM DAN SUMATERA UTARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-bantuan-kemanusiaan-bencana-alam-di-nanggroe-aceh"
+  },
+  {
+   "date_as_written": "2004-12-28 00:00:00",
+   "number_as_written": "609/PMK.03/2004",
+   "retrieved_at": "2026-09-21T14:46:58+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Penghasilan atas Bantuan Kemanusiaan Bencana Alam di Nanggroe Aceh Darussalam dan Sumatera Utara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/609-pmk-03-2004"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=296",
+   "retrieved_at": "2026-09-21T14:29:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-bantuan-kemanusiaan-bencana-alam-di-nanggroe-aceh",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=469",
+   "retrieved_at": "2026-09-21T14:46:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/609-pmk-03-2004",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3266,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:30:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-bantuan-kemanusiaan-bencana-alam-di-nanggroe-aceh"
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN ATAS BANTUAN KEMANUSIAAN BENCANA ALAM DI NANGGROE ACEH DARUSSALAM DAN SUMATERA UTARA"
+}

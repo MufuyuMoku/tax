@@ -1,0 +1,74 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "perpres-14-2024",
+ "identity": {
+  "code": "PERPRES",
+  "number": "14",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "perpres-14-2024--b000-1",
+  "perpres-14-2024--b001-2",
+  "perpres-14-2024--b002-3",
+  "perpres-14-2024--b003-4",
+  "perpres-14-2024--b004-5",
+  "perpres-14-2024--b005-6",
+  "perpres-14-2024--b006-7",
+  "perpres-14-2024--b007-8",
+  "perpres-14-2024--b008-11",
+  "perpres-14-2024--b009-12",
+  "perpres-14-2024--b010-13"
+ ],
+ "quality_flags": [
+  "urutan_loncat:8->11"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-01-30",
+   "detail_error": null,
+   "number_as_written": "14 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:58:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYELENGGARAAN KEGIATAN PENANGKAPAN DAN PENYIMPANAN KARBON",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-kegiatan-penangkapan-dan-penyimpanan-karbon"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=36",
+   "retrieved_at": "2026-09-21T14:10:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-kegiatan-penangkapan-dan-penyimpanan-karbon",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15420,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:58:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-kegiatan-penangkapan-dan-penyimpanan-karbon"
+ },
+ "title": "PENYELENGGARAAN KEGIATAN PENANGKAPAN DAN PENYIMPANAN KARBON"
+}

@@ -1,0 +1,66 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-286-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "286",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-286-2002--b000-1",
+  "kep-djp-286-2002--b001-2",
+  "kep-djp-286-2002--b002-3",
+  "kep-djp-286-2002--b003-4",
+  "kep-djp-286-2002--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-05-27",
+   "detail_error": null,
+   "number_as_written": "KEP-286/PJ/2002",
+   "retrieved_at": "2026-09-22T03:39:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PPh BUNGA DEPOSITO, TABUNGAN, JASA GIRO DAN DISKONTO SERTIFIKAT BANK INDONESIA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pph-bunga-deposito-tabungan-jasa"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=335",
+   "retrieved_at": "2026-09-21T14:32:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pph-bunga-deposito-tabungan-jasa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5965,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:39:47+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pph-bunga-deposito-tabungan-jasa"
+ },
+ "title": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PPh BUNGA DEPOSITO, TABUNGAN, JASA GIRO DAN DISKONTO SERTIFIKAT BANK INDONESIA"
+}

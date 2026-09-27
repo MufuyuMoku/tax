@@ -1,0 +1,76 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-523-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "523",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-23-2009",
+    "number_as_written": "PER-23/PJ./2009",
+    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-523/PJ./2001",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEP-523/PJ/2001 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 OLEH INDUSTRI DAN EKSPORTIR YANG BERGERAK DALAM SEKTOR PERHUTANAN, PERKEBUNAN, PERTANIAN, DAN PERIKANAN ATAS PEMBELIAN BAHAN-BAHAN UNTUK KEPERLUAN INDUSTRI ATAU EKSPOR MEREKA DARI PEDAGANG PENGUMPUL"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-57-2010",
+    "number_as_written": "PER-57/PJ/2010",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-07-18",
+   "detail_error": null,
+   "number_as_written": "KEP-523/PJ./2001",
+   "retrieved_at": "2026-09-22T03:46:07+00:00",
+   "source": "DJP",
+   "title_as_written": "TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 OLEH INDUSTRI DAN EKSPORTIR YANG BERGERAK DALAM SEKTOR PERHUTANAN, PERKEBUNAN, PERTANIAN, DAN PERIKANAN, ATAS PEMBELIAN BAHAN-BAHAN UNTUK KEPERLUAN INDUSTRI ATAU EKSPOR MEREKA DARI PEDAGANG PENGUMPUL",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-oleh"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=352",
+   "retrieved_at": "2026-09-21T14:33:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-oleh",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 OLEH INDUSTRI DAN EKSPORTIR YANG BERGERAK DALAM SEKTOR PERHUTANAN, PERKEBUNAN, PERTANIAN, DAN PERIKANAN, ATAS PEMBELIAN BAHAN-BAHAN UNTUK KEPERLUAN INDUSTRI ATAU EKSPOR MEREKA DARI PEDAGANG PENGUMPUL"
+}

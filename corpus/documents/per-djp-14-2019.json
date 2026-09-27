@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-14-2019",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "14",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-14-2019--b000-1",
+  "per-djp-14-2019--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-07-03",
+   "detail_error": null,
+   "number_as_written": "PER-14/PJ/2019",
+   "retrieved_at": "2026-09-22T00:43:56+00:00",
+   "source": "DJP",
+   "title_as_written": "TENTANG PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-32/PJ/2010 TENTANG PELAKSANAAN PENGENAAN PAJAK PENGHASILAN PASAL 25 BAGI WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-pencabutan-peraturan-direktur-jenderal-pajak-nomor-32pj2010-tentang-pelaksanaan"
+  },
+  {
+   "date_as_written": "2019-07-03 00:00:00",
+   "number_as_written": "PER-14/PJ/2019",
+   "retrieved_at": "2026-09-21T14:57:13+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2010 tentang Pelaksanaan Pengenaan Pajak Penghasilan Pasal 25 Bagi Wajib Pajak Orang Pribadi Pengusaha Tertentu",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-14-pj-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=108",
+   "retrieved_at": "2026-09-21T14:15:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-pencabutan-peraturan-direktur-jenderal-pajak-nomor-32pj2010-tentang-pelaksanaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=29",
+   "retrieved_at": "2026-09-21T14:57:13+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-14-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2998,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:43:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tentang-pencabutan-peraturan-direktur-jenderal-pajak-nomor-32pj2010-tentang-pelaksanaan"
+ },
+ "title": "TENTANG PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-32/PJ/2010 TENTANG PELAKSANAAN PENGENAAN PAJAK PENGHASILAN PASAL 25 BAGI WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
+}

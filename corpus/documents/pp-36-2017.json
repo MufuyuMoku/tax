@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-36-2017",
+ "identity": {
+  "code": "PP",
+  "number": "36",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-36-2017--b000-1",
+  "pp-36-2017--b001-2",
+  "pp-36-2017--b002-3",
+  "pp-36-2017--b003-4",
+  "pp-36-2017--b004-5",
+  "pp-36-2017--b005-6",
+  "pp-36-2017--b006-7",
+  "pp-36-2017--p007-1",
+  "pp-36-2017--p008-2",
+  "pp-36-2017--p009-3",
+  "pp-36-2017--p010-4",
+  "pp-36-2017--p011-5",
+  "pp-36-2017--p012-6",
+  "pp-36-2017--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-09-06",
+   "detail_error": null,
+   "number_as_written": "36 TAHUN 2017",
+   "retrieved_at": "2026-09-22T02:18:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGENAAN PAJAK PENGHASILAN ATAS PENGHASILAN TERTENTU BERUPA HARTA BERSIH YANG DIPERLAKUKAN ATAU DIANGGAP SEBAGAI PENGHASILAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-penghasilan-atas-penghasilan-tertentu-berupa-harta-bersih-yang"
+  },
+  {
+   "date_as_written": "2017-09-06 00:00:00",
+   "number_as_written": "PP 36 TAHUN 2017",
+   "retrieved_at": "2026-09-21T14:06:52+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengenaan Pajak Penghasilan atas Penghasilan Tertentu Berupa Harta Bersih yang Diperlakukan atau Dianggap Sebagai Penghasilan",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-36-tahun-2017"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=134",
+   "retrieved_at": "2026-09-21T14:17:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-penghasilan-atas-penghasilan-tertentu-berupa-harta-bersih-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:06:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-36-tahun-2017",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 42553,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:18:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-penghasilan-atas-penghasilan-tertentu-berupa-harta-bersih-yang"
+ },
+ "title": "PENGENAAN PAJAK PENGHASILAN ATAS PENGHASILAN TERTENTU BERUPA HARTA BERSIH YANG DIPERLAKUKAN ATAU DIANGGAP SEBAGAI PENGHASILAN"
+}

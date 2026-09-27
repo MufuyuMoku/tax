@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-23-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-23-2016--b000-1",
+  "per-djp-23-2016--b001-2",
+  "per-djp-23-2016--b002-3",
+  "per-djp-23-2016--b003-4",
+  "per-djp-23-2016--b004-5",
+  "per-djp-23-2016--b005-6",
+  "per-djp-23-2016--b006-7",
+  "per-djp-23-2016--b007-8",
+  "per-djp-23-2016--b008-9",
+  "per-djp-23-2016--b009-10",
+  "per-djp-23-2016--b010-11",
+  "per-djp-23-2016--b011-12",
+  "per-djp-23-2016--b012-13",
+  "per-djp-23-2016--b013-14",
+  "per-djp-23-2016--b014-15",
+  "per-djp-23-2016--b015-16",
+  "per-djp-23-2016--b016-17",
+  "per-djp-23-2016--b017-18",
+  "per-djp-23-2016--b018-19",
+  "per-djp-23-2016--b019-20",
+  "per-djp-23-2016--b020-21",
+  "per-djp-23-2016--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "18",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-18/PJ/2015",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-18-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-12-05",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2016",
+   "retrieved_at": "2026-09-22T02:19:21+00:00",
+   "source": "DJP",
+   "title_as_written": "LAYANAN PAJAK DI LUAR KANTOR DI LINGKUNGAN DIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/layanan-pajak-di-luar-kantor-di-lingkungan-direktorat-jenderal-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=142",
+   "retrieved_at": "2026-09-21T14:18:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/layanan-pajak-di-luar-kantor-di-lingkungan-direktorat-jenderal-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 23004,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:19:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/layanan-pajak-di-luar-kantor-di-lingkungan-direktorat-jenderal-pajak"
+ },
+ "title": "LAYANAN PAJAK DI LUAR KANTOR DI LINGKUNGAN DIREKTORAT JENDERAL PAJAK"
+}

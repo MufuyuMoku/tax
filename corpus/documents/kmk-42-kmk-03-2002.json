@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-42-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "42/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-14",
+   "detail_error": null,
+   "number_as_written": "42/KMK.03/2002",
+   "retrieved_at": "2026-09-22T03:43:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH MINIMUM PROPINSI ATAU UPAH MINIMUM KABUPATEN/KOTA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sampai-dengan-sebesar-2"
+  },
+  {
+   "date_as_written": "2002-02-14 00:00:00",
+   "number_as_written": "42/KMK.03/2002",
+   "retrieved_at": "2026-09-21T14:49:06+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Penghasilan yang Diterima oleh Pekerja Sampai dengan Sebesar Upah Minimum Propinsi atau Upah Minimum Kabupaten/Kota.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/42-kmk-03-2002"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=343",
+   "retrieved_at": "2026-09-21T14:33:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sampai-dengan-sebesar-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=32",
+   "retrieved_at": "2026-09-21T14:49:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/42-kmk-03-2002",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH MINIMUM PROPINSI ATAU UPAH MINIMUM KABUPATEN/KOTA"
+}

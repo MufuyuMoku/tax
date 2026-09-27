@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-113-kmk-03-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "113/KMK.03",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 113/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-03-06",
+   "detail_error": null,
+   "number_as_written": "113/KMK.03/2001",
+   "retrieved_at": "2026-09-22T03:52:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN KERINGANAN PAJAK PENGHASILAN KEPADA WAJIB PAJAK YANG MELAKUKAN RESTRUKTURISASI UTANG USAHA MELALUI LEMBAGA KHUSUS YANG DIBENTUK PEMERINTAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-keringanan-pajak-penghasilan-kepada-wajib-pajak-yang-melakukan-0"
+  },
+  {
+   "date_as_written": "2001-03-06 00:00:00",
+   "number_as_written": "113/KMK.03/2001",
+   "retrieved_at": "2026-09-21T14:49:22+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemberian Keringanan Pajak Penghasilan Kepada Wajib Pajak yang Melakukan Restrukturisasi Utang Usaha Melalui Lembaga Khusus yang Dibentuk Pemerintah",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/113-kmk-03-2001"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=364",
+   "retrieved_at": "2026-09-21T14:34:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-keringanan-pajak-penghasilan-kepada-wajib-pajak-yang-melakukan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=36",
+   "retrieved_at": "2026-09-21T14:49:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/113-kmk-03-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN KERINGANAN PAJAK PENGHASILAN KEPADA WAJIB PAJAK YANG MELAKUKAN RESTRUKTURISASI UTANG USAHA MELALUI LEMBAGA KHUSUS YANG DIBENTUK PEMERINTAH"
+}

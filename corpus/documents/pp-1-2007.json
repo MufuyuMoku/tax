@@ -1,0 +1,136 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-1-2007",
+ "identity": {
+  "code": "PP",
+  "number": "1",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-1-2007--b000-1",
+  "pp-1-2007--b001-2",
+  "pp-1-2007--b002-3",
+  "pp-1-2007--b003-4",
+  "pp-1-2007--b004-5",
+  "pp-1-2007--b005-6",
+  "pp-1-2007--b006-7",
+  "pp-1-2007--b007-8",
+  "pp-1-2007--b008-9",
+  "pp-1-2007--p009-1",
+  "pp-1-2007--p010-2",
+  "pp-1-2007--p011-3",
+  "pp-1-2007--p012-4",
+  "pp-1-2007--p013-5",
+  "pp-1-2007--p014-6",
+  "pp-1-2007--p015-7",
+  "pp-1-2007--p016-8",
+  "pp-1-2007--p017-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-52-2011",
+    "number_as_written": "52 TAHUN 2011",
+    "quote": "PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAHDAERAH TERTENTU"
+   },
+   {
+    "id": "pp-62-2008",
+    "number_as_written": "62 TAHUN 2008",
+    "quote": "PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-18-2015",
+    "number_as_written": "18 TAHUN 2015",
+    "quote": "Peraturan Pemerintah Nomor 1 Tahun 2007",
+    "source_of_reading": "DJP",
+    "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "148",
+     "2000",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 148 Tahun 2000",
+    "source_of_reading": "DJP",
+    "target_id": "pp-148-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-01-02",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 2007",
+   "retrieved_at": "2026-09-22T03:22:53+00:00",
+   "source": "DJP",
+   "title_as_written": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-danatau"
+  },
+  {
+   "date_as_written": "2007-02-01 00:00:00",
+   "number_as_written": "PP 1TAHUN2007",
+   "retrieved_at": "2026-09-21T14:10:32+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan atau di Daerah-Daerah Tertentu",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-1tahun2007"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 18 TAHUN 2015 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=265",
+   "retrieved_at": "2026-09-21T14:27:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-danatau",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=74",
+   "retrieved_at": "2026-09-21T14:10:32+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-1tahun2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13254,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:22:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-danatau"
+ },
+ "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+}

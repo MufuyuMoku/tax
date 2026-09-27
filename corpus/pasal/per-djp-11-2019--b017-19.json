@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 768,
+ "document_id": "per-djp-11-2019",
+ "document_number": "PER-11/PJ/2019",
+ "document_title": "PENYEDIA JASA APLIKASI PERPAJAKAN",
+ "id": "per-djp-11-2019--b017-19",
+ "label": "19",
+ "order": 17,
+ "quality_flags": [
+  "urutan_loncat:12->14"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 19\nPada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku,\na.\nPeraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2015 tentang Penyedia Layanan Surat Pemberitahuan Elektronik,\nb.\nketentuan mengenai Penyelenggara\ne\n-Faktur\nHost-to-Host\n(H2H) sebagaimana diatur dalam Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2017, dan\nc.\nketentuan mengenai perusahaan\nApplication Service Provider\nsebagai pembuat Kode\nBilling\nsebagaimana diatur dalam Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2017 tentang Pembayaran Secara Elektronik\ndicabut dan dinyatakan tidak berlaku.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T00:44:08+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan"
+ }
+}

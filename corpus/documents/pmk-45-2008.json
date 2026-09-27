@@ -1,0 +1,136 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-45-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "45",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-45-2008--b000-1",
+  "pmk-45-2008--b001-2",
+  "pmk-45-2008--b002-3",
+  "pmk-45-2008--b003-4",
+  "pmk-45-2008--b004-5",
+  "pmk-45-2008--b005-6",
+  "pmk-45-2008--b006-7",
+  "pmk-45-2008--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "553/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 553/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-553-kmk-04-2000"
+   },
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 7 Tahun 1983",
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-7-1983"
+   },
+   {
+    "key": [
+     "UU",
+     "17",
+     "2000",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 17 Tahun 2000",
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-17-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "252/KMK.03",
+     "2002",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 252/KMK.03/2002",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-252-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-03-31",
+   "detail_error": null,
+   "number_as_written": "45/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:18:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-1"
+  },
+  {
+   "date_as_written": "2008-03-31 00:00:00",
+   "number_as_written": "45/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:43:22+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang No. 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan Neto",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=235",
+   "retrieved_at": "2026-09-21T14:25:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=415",
+   "retrieved_at": "2026-09-21T14:43:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8265,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:18:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-1"
+ },
+ "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO"
+}

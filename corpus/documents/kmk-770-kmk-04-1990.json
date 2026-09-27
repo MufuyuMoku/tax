@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-770-kmk-04-1990",
+ "identity": {
+  "code": "KMK",
+  "number": "770/KMK.04",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-770-kmk-04-1990--b000-1",
+  "kmk-770-kmk-04-1990--b001-2",
+  "kmk-770-kmk-04-1990--b002-3",
+  "kmk-770-kmk-04-1990--b003-4",
+  "kmk-770-kmk-04-1990--b004-5",
+  "kmk-770-kmk-04-1990--b005-6",
+  "kmk-770-kmk-04-1990--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-07-14",
+   "detail_error": null,
+   "number_as_written": "770/KMK.04/1990",
+   "retrieved_at": "2026-09-22T05:02:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN ATAS BIAYA LATIHAN KARYAWAN, PEMAGANGAN DAN BEA SISWA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-biaya-latihan-karyawan-pemagangan-dan-bea-siswa"
+  },
+  {
+   "date_as_written": "1990-07-14 00:00:00",
+   "number_as_written": "770/KMK.04/1990",
+   "retrieved_at": "2026-09-21T14:54:35+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Penghasilan Atas Biaya Latihan Karyawan, Pemagangan Dan Bea Siswa",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/770-kmk-04-1990"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=477",
+   "retrieved_at": "2026-09-21T14:43:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-biaya-latihan-karyawan-pemagangan-dan-bea-siswa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=114",
+   "retrieved_at": "2026-09-21T14:54:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/770-kmk-04-1990",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4707,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T05:02:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-biaya-latihan-karyawan-pemagangan-dan-bea-siswa"
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN ATAS BIAYA LATIHAN KARYAWAN, PEMAGANGAN DAN BEA SISWA"
+}

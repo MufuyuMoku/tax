@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-239-kmk-01-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "239/KMK.01",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-80-2024",
+    "number_as_written": "80 TAHUN 2024",
+    "quote": "Keputusan Menteri Keuangan Nomor 239/KMK.01/1996",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-04-01",
+   "detail_error": null,
+   "number_as_written": "239/KMK.01/1996",
+   "retrieved_at": "2026-09-22T04:36:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-peraturan-pemerintah-nomor-42-tahun-1995-tentang-bea-masuk-bea-masuk-tambahan"
+  },
+  {
+   "date_as_written": "1996-04-01 00:00:00",
+   "number_as_written": "239/KMK.01/1996",
+   "retrieved_at": "2026-09-21T14:53:02+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Peraturan Pemerintah Nomor 42 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/239-kmk-01-1996"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=444",
+   "retrieved_at": "2026-09-21T14:41:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-peraturan-pemerintah-nomor-42-tahun-1995-tentang-bea-masuk-bea-masuk-tambahan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=91",
+   "retrieved_at": "2026-09-21T14:53:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/239-kmk-01-1996",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+}

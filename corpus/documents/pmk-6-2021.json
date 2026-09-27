@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-6-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "6",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-6-2021--b000-1",
+  "pmk-6-2021--b001-2",
+  "pmk-6-2021--b002-3",
+  "pmk-6-2021--b003-4",
+  "pmk-6-2021--b004-5",
+  "pmk-6-2021--b005-6",
+  "pmk-6-2021--b006-7",
+  "pmk-6-2021--b007-8",
+  "pmk-6-2021--b008-9",
+  "pmk-6-2021--b009-10",
+  "pmk-6-2021--b010-11",
+  "pmk-6-2021--b011-12",
+  "pmk-6-2021--b012-13",
+  "pmk-6-2021--b013-14",
+  "pmk-6-2021--b014-15",
+  "pmk-6-2021--b015-16",
+  "pmk-6-2021--b016-17",
+  "pmk-6-2021--b017-18",
+  "pmk-6-2021--b018-19",
+  "pmk-6-2021--b019-20",
+  "pmk-6-2021--b020-21"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-01-22",
+   "detail_error": null,
+   "number_as_written": "6/PMK.03/2021",
+   "retrieved_at": "2026-09-22T00:33:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHITUNGAN DAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI SERTA PAJAK PENGHASILAN ATAS PENYERAHAN/PENGHASILAN SEHUBUNGAN DENGAN PENJUALAN PULSA, KARTU PERDANA, TOKEN, DAN VOUCER",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-pemungutan-pajak-pertambahan-nilai-serta-pajak-penghasilan-atas-0"
+  },
+  {
+   "date_as_written": "2021-01-22 00:00:00",
+   "number_as_written": "6/PMK.03/2021",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penghitungan dan Pemungutan Pajak Pertambahan Nilai serta Pajak Penghasilan atas Penyerahan/Penghasilan Sehubungan dengan Penjualan Pulsa, Kartu Perdana, Token, dan Voucer",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/6-pmk-03-2021"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=81",
+   "retrieved_at": "2026-09-21T14:13:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-pemungutan-pajak-pertambahan-nilai-serta-pajak-penghasilan-atas-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/6-pmk-03-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 32877,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:33:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-pemungutan-pajak-pertambahan-nilai-serta-pajak-penghasilan-atas-0"
+ },
+ "title": "PENGHITUNGAN DAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI SERTA PAJAK PENGHASILAN ATAS PENYERAHAN/PENGHASILAN SEHUBUNGAN DENGAN PENJUALAN PULSA, KARTU PERDANA, TOKEN, DAN VOUCER"
+}

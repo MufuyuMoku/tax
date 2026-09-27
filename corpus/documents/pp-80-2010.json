@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-80-2010",
+ "identity": {
+  "code": "PP",
+  "number": "80",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-80-2010--b000-1",
+  "pp-80-2010--b001-2",
+  "pp-80-2010--b002-3",
+  "pp-80-2010--b003-4",
+  "pp-80-2010--b004-5",
+  "pp-80-2010--b005-6",
+  "pp-80-2010--b006-7",
+  "pp-80-2010--b007-8",
+  "pp-80-2010--b008-9",
+  "pp-80-2010--p009-1",
+  "pp-80-2010--p010-2",
+  "pp-80-2010--p011-3",
+  "pp-80-2010--p012-4",
+  "pp-80-2010--p013-5",
+  "pp-80-2010--p014-6",
+  "pp-80-2010--p015-7",
+  "pp-80-2010--p016-8",
+  "pp-80-2010--p017-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-58-2023",
+    "number_as_written": "58 TAHUN 2023",
+    "quote": "Peraturan Pemerintah Nomor 80 Tahun 2010",
+    "source_of_reading": "DJP",
+    "title": "TARIF PEMOTONGAN PAJAK PENGHASII.AN PASAL 21 ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATANWAJIB PAJAK ORANG PRIBADI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "45",
+     "1994",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 45 Tahun 1994",
+    "source_of_reading": "DJP",
+    "target_id": "pp-45-1994"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-20",
+   "detail_error": null,
+   "number_as_written": "80 TAHUN 2010",
+   "retrieved_at": "2026-09-22T02:48:38+00:00",
+   "source": "DJP",
+   "title_as_written": "TARIF PEMOTONGAN DAN PENGENAAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN YANG MENJADI BEBAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA ATAU ANGGARAN PENDAPATAN DAN BELANJA DAERAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-pemotongan-dan-pengenaan-pajak-penghasilan-pasal-21-atas-penghasilan-yang-menjadi"
+  },
+  {
+   "date_as_written": "2010-12-20 00:00:00",
+   "number_as_written": "PP 80 TAHUN 2010",
+   "retrieved_at": "2026-09-21T14:09:30+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tarif Pemotongan dan Pengenaan Pajak Penghasilan Pasal 21 atas Penghasilan yang Menjadi Beban Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan dan Belanja Daerah.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2010"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 58 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=206",
+   "retrieved_at": "2026-09-21T14:23:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-pemotongan-dan-pengenaan-pajak-penghasilan-pasal-21-atas-penghasilan-yang-menjadi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=58",
+   "retrieved_at": "2026-09-21T14:09:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14976,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:48:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tarif-pemotongan-dan-pengenaan-pajak-penghasilan-pasal-21-atas-penghasilan-yang-menjadi"
+ },
+ "title": "TARIF PEMOTONGAN DAN PENGENAAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN YANG MENJADI BEBAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA ATAU ANGGARAN PENDAPATAN DAN BELANJA DAERAH"
+}

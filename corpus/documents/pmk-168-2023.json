@@ -1,0 +1,151 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-168-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "168",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-168-2023--b000-1",
+  "pmk-168-2023--b001-2",
+  "pmk-168-2023--b002-3",
+  "pmk-168-2023--b003-4",
+  "pmk-168-2023--b004-5",
+  "pmk-168-2023--b005-6",
+  "pmk-168-2023--b006-7",
+  "pmk-168-2023--b007-8",
+  "pmk-168-2023--b008-9",
+  "pmk-168-2023--b009-10",
+  "pmk-168-2023--b010-11",
+  "pmk-168-2023--b011-12",
+  "pmk-168-2023--b012-13",
+  "pmk-168-2023--b013-14",
+  "pmk-168-2023--b014-15",
+  "pmk-168-2023--b015-16",
+  "pmk-168-2023--b016-17",
+  "pmk-168-2023--b017-18",
+  "pmk-168-2023--b018-19",
+  "pmk-168-2023--b019-20",
+  "pmk-168-2023--b020-21",
+  "pmk-168-2023--b021-22",
+  "pmk-168-2023--b022-23",
+  "pmk-168-2023--b023-24",
+  "pmk-168-2023--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "250",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 250/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-250-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "252",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 252/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-252-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "102",
+     "2016",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 102/PMK.010/2016",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-102-2016"
+   },
+   {
+    "key": [
+     "PMK",
+     "262",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 262/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-262-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-29",
+   "detail_error": null,
+   "number_as_written": "168 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:59:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-pajak-atas-penghasilan-sehubungan-dengan-pekerjaan-jasa-1"
+  },
+  {
+   "date_as_written": "2023-12-29 00:00:00",
+   "number_as_written": "PMK 168 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:17:28+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Petunjuk Pelaksanaan Pemotongan Pajak atas Penghasilan sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Pribadi",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-168-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=37",
+   "retrieved_at": "2026-09-21T14:10:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-pajak-atas-penghasilan-sehubungan-dengan-pekerjaan-jasa-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=33",
+   "retrieved_at": "2026-09-21T14:17:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-168-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 50682,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:59:25+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-pajak-atas-penghasilan-sehubungan-dengan-pekerjaan-jasa-1"
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN ORANG PRIBADI"
+}

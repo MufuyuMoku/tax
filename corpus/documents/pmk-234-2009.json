@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-234-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "234",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-12-29",
+   "detail_error": null,
+   "number_as_written": "234/PMK.03/2009",
+   "retrieved_at": "2026-09-22T02:58:38+00:00",
+   "source": "DJP",
+   "title_as_written": "BIDANG PENANAMAN MODAL TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG DIKECUALIKAN SEBAGAI OBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bidang-penanaman-modal-tertentu-yang-memberikan-penghasilan-kepada-dana-pensiun-yang-0"
+  },
+  {
+   "date_as_written": "2009-12-29 00:00:00",
+   "number_as_written": "234/PMK.03/2009",
+   "retrieved_at": "2026-09-21T14:40:27+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bidang Penanaman Modal Tertentu yang Memberikan Penghasilan Kepada Dana Pensiun yang Dikecualikan Sebagai Objek Pajak Penghasilan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-03-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=213",
+   "retrieved_at": "2026-09-21T14:23:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bidang-penanaman-modal-tertentu-yang-memberikan-penghasilan-kepada-dana-pensiun-yang-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=371",
+   "retrieved_at": "2026-09-21T14:40:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-03-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BIDANG PENANAMAN MODAL TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG DIKECUALIKAN SEBAGAI OBJEK PAJAK PENGHASILAN"
+}

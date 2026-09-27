@@ -1,0 +1,65 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "uu-6-2023",
+ "identity": {
+  "code": "UU",
+  "number": "6",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "uu-6-2023--b000-1",
+  "uu-6-2023--b001-2",
+  "uu-6-2023--p002-1",
+  "uu-6-2023--p003-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-03-31",
+   "detail_error": null,
+   "number_as_written": "6 TAHUN 2023",
+   "retrieved_at": "2026-09-22T00:21:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-2-tahun-2022-tentang-cipta"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=48",
+   "retrieved_at": "2026-09-21T14:11:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-2-tahun-2022-tentang-cipta",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17371,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:21:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-2-tahun-2022-tentang-cipta"
+ },
+ "title": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG"
+}

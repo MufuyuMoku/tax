@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-20-2026",
+ "identity": {
+  "code": "PP",
+  "number": "20",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [
+  {
+   "code": "INS-DJP",
+   "id": "ins-djp-20-2026",
+   "note": "nomor, tahun, dan judul sama tetapi jenisnya berbeda antar sumber; kemungkinan satu peraturan yang sama, tidak digabungkan otomatis",
+   "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 55 TAHUN 2022 TENTANG PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
+  },
+  {
+   "code": "PERPRES",
+   "id": "perpres-20-2026",
+   "note": "nomor, tahun, dan judul sama tetapi jenisnya berbeda antar sumber; kemungkinan satu peraturan yang sama, tidak digabungkan otomatis",
+   "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 55 TAHUN 2022 TENTANG PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
+  }
+ ],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-04-22 12:00:00",
+   "number_as_written": "PP 20 TAHUN 2026",
+   "retrieved_at": "2026-09-21T14:05:32+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=1",
+   "retrieved_at": "2026-09-21T14:05:32+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan"
+}

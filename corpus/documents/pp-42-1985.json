@@ -1,0 +1,131 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-42-1985",
+ "identity": {
+  "code": "PP",
+  "number": "42",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-42-1985--b000-i",
+  "pp-42-1985--b001-2",
+  "pp-42-1985--b002-3",
+  "pp-42-1985--b003-4",
+  "pp-42-1985--b004-5",
+  "pp-42-1985--b005-6",
+  "pp-42-1985--b006-7",
+  "pp-42-1985--b007-8",
+  "pp-42-1985--b008-9",
+  "pp-42-1985--b009-10",
+  "pp-42-1985--b010-11",
+  "pp-42-1985--b011-12",
+  "pp-42-1985--b012-13",
+  "pp-42-1985--b013-14",
+  "pp-42-1985--b014-15",
+  "pp-42-1985--b015-16",
+  "pp-42-1985--b016-17",
+  "pp-42-1985--b017-18",
+  "pp-42-1985--b018-19",
+  "pp-42-1985--b019-20",
+  "pp-42-1985--b020-21",
+  "pp-42-1985--b021-22",
+  "pp-42-1985--b022-23",
+  "pp-42-1985--b023-24",
+  "pp-42-1985--b024-25",
+  "pp-42-1985--b025-26",
+  "pp-42-1985--b026-27",
+  "pp-42-1985--b027-28",
+  "pp-42-1985--b028-29",
+  "pp-42-1985--b029-30",
+  "pp-42-1985--b030-31",
+  "pp-42-1985--b031-32",
+  "pp-42-1985--b032-33",
+  "pp-42-1985--b033-34"
+ ],
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "36",
+     "1983",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 36 Tahun 1983",
+    "source_of_reading": "JDIH",
+    "target_id": "pp-36-1983"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-11-13",
+   "detail_error": null,
+   "number_as_written": "42 TAHUN 1985",
+   "retrieved_at": "2026-09-22T05:09:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-penghasilan-1984"
+  },
+  {
+   "date_as_written": "1985-11-13 00:00:00",
+   "number_as_written": "PP 42 TAHUN 1985",
+   "retrieved_at": "2026-09-21T14:12:07+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Undang-Undang Pajak Penghasilan 1984",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-1985"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=485",
+   "retrieved_at": "2026-09-21T14:44:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-penghasilan-1984",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=98",
+   "retrieved_at": "2026-09-21T14:12:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-1985",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26760,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ },
+ "title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984"
+}

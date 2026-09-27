@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-92-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "92",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-92-2008--b000-i",
+  "pmk-92-2008--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "174",
+     "2007",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.07/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-174-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-06-23",
+   "detail_error": null,
+   "number_as_written": "92/PMK.07/2008",
+   "retrieved_at": "2026-09-22T03:17:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.07/2007 TENTANG PENETAPAN ALOKASI SEMENTARA DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2008",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk072007-tentang-penetapan-alokasi"
+  },
+  {
+   "date_as_written": "2008-06-23 00:00:00",
+   "number_as_written": "92/PMK.07/2008",
+   "retrieved_at": "2026-09-21T14:43:02+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.07/2007 tentang Penetapan Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-07-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=231",
+   "retrieved_at": "2026-09-21T14:24:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk072007-tentang-penetapan-alokasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=410",
+   "retrieved_at": "2026-09-21T14:43:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-07-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4142,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:17:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk072007-tentang-penetapan-alokasi"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.07/2007 TENTANG PENETAPAN ALOKASI SEMENTARA DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2008"
+}

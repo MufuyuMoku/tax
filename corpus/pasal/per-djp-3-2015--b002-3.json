@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 354,
+ "document_id": "per-djp-3-2015",
+ "document_number": "PER-03/PJ/2015",
+ "document_title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK",
+ "id": "per-djp-3-2015--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [
+  "urutan_loncat:7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\n(1)\nBatas waktu penyampaian SPT Elektronik mengikuti ketentuan batas waktu penyampaian SPT secara umum.\n(2)\nWajib Pajak dapat menyampaikan SPT Elektronik melalui saluran tertentu sebagaimana dimaksud dalam Pasal 2 ayat (4) dalam jangka waktu 24 (dua puluh empat) jam sehari dan 7 (tujuh) hari seminggu dengan standar Waktu Indonesia Bagian Barat.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:28:13+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik"
+ }
+}

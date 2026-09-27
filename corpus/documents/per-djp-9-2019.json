@@ -1,0 +1,122 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PER_09_PJ_2019.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "9",
+    "year": "2019"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PER_09_PJ_2019.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-9-2019",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "9",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-9-2019--b000-1",
+  "per-djp-9-2019--b001-2",
+  "per-djp-9-2019--b002-3",
+  "per-djp-9-2019--b003-4",
+  "per-djp-9-2019--b004-5",
+  "per-djp-9-2019--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "32",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2013",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-32-2013"
+   },
+   {
+    "key": [
+     "PP",
+     "46",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 46 Tahun 2013",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-46-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-06-19",
+   "detail_error": null,
+   "number_as_written": "PER-09/PJ/2019",
+   "retrieved_at": "2026-09-22T00:44:12+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBATALAN DAN PENCABUTAN SURAT KETERANGAN PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR  23 TAHUN 2018",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembatalan-dan-pencabutan-surat-keterangan-pajak-penghasilan-berdasarkan"
+  },
+  {
+   "date_as_written": "2019-06-19 00:00:00",
+   "number_as_written": "PerDJP PER-09/PJ/2019",
+   "retrieved_at": "2026-09-21T14:57:17+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembatalan dan Pencabutan Surat Keterangan Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 23 Tahun 2018",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-09-pj-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=109",
+   "retrieved_at": "2026-09-21T14:15:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembatalan-dan-pencabutan-surat-keterangan-pajak-penghasilan-berdasarkan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=30",
+   "retrieved_at": "2026-09-21T14:57:17+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-09-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6787,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:44:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembatalan-dan-pencabutan-surat-keterangan-pajak-penghasilan-berdasarkan"
+ },
+ "title": "TATA CARA PEMBATALAN DAN PENCABUTAN SURAT KETERANGAN PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR  23 TAHUN 2018"
+}

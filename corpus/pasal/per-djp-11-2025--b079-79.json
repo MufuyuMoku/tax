@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1019,
+ "document_id": "per-djp-11-2025",
+ "document_number": "PER-11/PJ/2025",
+ "document_title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+ "id": "per-djp-11-2025--b079-79",
+ "label": "79",
+ "order": 79,
+ "quality_flags": [
+  "urutan_loncat:39->4,4->40",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 79\n(1)\nUntuk kebutuhan pengisian Surat Pemberitahuan Masa Bea Meterai, Direktorat Jenderal Pajak menyediakan:\na.\ndaftar pemungutan menggunakan Meterai Elektronik; dan\nb.\ndata pembubuhan Meterai Teraan Digital.\n(2)\nDaftar pemungutan menggunakan Meterai Elektronik sebagaimana dimaksud pada ayat (1) huruf a bersumber dari data pembubuhan Meterai Elektronik yang telah melalui proses penyelesaian (settlement) antara Perusahaan Umum (Perum) Percetakan Uang Republik Indonesia dan Pemungut Bea Meterai dan digunakan untuk mengisi Formulir L2 - Daftar Pemungutan Menggunakan Meterai Elektronik.\n(3)\nData pembubuhan Meterai Teraan Digital sebagaimana dimaksud pada ayat (1) huruf b disediakan melalui Portal Wajib Pajak dan dapat digunakan oleh Pemungut Bea Meterai untuk mengisi Formulir L3 - Daftar Dokumen yang Tidak Dapat Dibubuhi Meterai Elektronik.\nBAB V\nBENTUK, ISI, DAN TATA CARA PENGISIAN\nSURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN\nBagian Kesatu\nKetentuan Umum Surat Pemberitahuan Tahunan\nPajak Penghasilan",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:52:49+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-pelaporan-pajak-penghasilan-pajak-pertambahan-nilai-pajak-penjualan-atas-0"
+ }
+}

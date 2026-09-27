@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-358-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "358/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 358/KMK.04/1999",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-07-02",
+   "detail_error": null,
+   "number_as_written": "358/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:07:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 44/KMK.04/1998 TENTANG PAJAK PENGHASILAN YANG DITANGGUNG PEMERINTAH ATAS PENGHASILAN WAJIB PAJAK BADAN UNTUK USAHA INDUSTRI TERTENTU SESUAI PERATURAN PEMERINTAH NOMOR 45 TAHUN 1996",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-44kmk041998-tentang-pajak-penghasilan-yang"
+  },
+  {
+   "date_as_written": "1999-07-02",
+   "detail_error": null,
+   "number_as_written": "358/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:08:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 44/KMK.04/1998 TENTANG PAJAK PENGHASILAN YANG DITANGGUNG PEMERINTAH ATAS PENGHASILAN WAJIB PAJAK BADAN UNTUK USAHA INDUSTRI TERTENTU SESUAI PERATURAN PEMERINTAH NOMOR 45 TAHUN 1996",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-44kmk041998-tentang-pajak-penghasilan-yang-0"
+  },
+  {
+   "date_as_written": "1999-07-02 00:00:00",
+   "number_as_written": "358/kmk.04/1999",
+   "retrieved_at": "2026-09-21T14:50:54+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kepmenkeu No.44/KMK.04/1998 tentang Pajak Penghasilan yang Ditanggung Pemerintah atas Penghadilan Wajib Pajak Badan untuk Industri Tertentu Sesuai Pp No. 45 Tahun 1996",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/358-kmk-04-1999"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=401",
+   "retrieved_at": "2026-09-21T14:37:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-44kmk041998-tentang-pajak-penghasilan-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=401",
+   "retrieved_at": "2026-09-21T14:37:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-44kmk041998-tentang-pajak-penghasilan-yang-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=59",
+   "retrieved_at": "2026-09-21T14:50:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/358-kmk-04-1999",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 44/KMK.04/1998 TENTANG PAJAK PENGHASILAN YANG DITANGGUNG PEMERINTAH ATAS PENGHASILAN WAJIB PAJAK BADAN UNTUK USAHA INDUSTRI TERTENTU SESUAI PERATURAN PEMERINTAH NOMOR 45 TAHUN 1996"
+}

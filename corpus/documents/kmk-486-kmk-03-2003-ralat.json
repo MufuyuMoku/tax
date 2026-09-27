@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-486-kmk-03-2003-ralat",
+ "identity": {
+  "code": "KMK",
+  "number": "486/KMK.03",
+  "variant": "ralat",
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-12-09",
+   "detail_error": null,
+   "number_as_written": "486/KMK.03/2003",
+   "retrieved_at": "2026-09-22T03:32:21+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 486/KMK.03/2003 TENTANG PAJAK PENGHASILAN YANG DITANGGUNG OLEH PEMERINTAH ATAS PENGHASILAN PEKERJA DARI PEKERJAAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-486kmk032003-tentang-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=309",
+   "retrieved_at": "2026-09-21T14:30:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-486kmk032003-tentang-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 1431,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:32:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-486kmk032003-tentang-pajak"
+ },
+ "title": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 486/KMK.03/2003 TENTANG PAJAK PENGHASILAN YANG DITANGGUNG OLEH PEMERINTAH ATAS PENGHASILAN PEKERJA DARI PEKERJAAN"
+}

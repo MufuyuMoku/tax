@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-505-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "505/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 505/KMK.04/1995",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-11-07",
+   "detail_error": null,
+   "number_as_written": "505/KMK.04/1995",
+   "retrieved_at": "2026-09-22T04:38:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PEGANGAN PENYUSUNAN NORMA PENGHITUNGAN PEREDARAN BRUTO DAN NORMA PENGHITUNGAN PENGHASILAN NETO",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pegangan-penyusunan-norma-penghitungan-peredaran-bruto-dan-norma-penghitungan-penghasilan"
+  },
+  {
+   "date_as_written": "1995-11-07 00:00:00",
+   "number_as_written": "505/KMK.04/1995",
+   "retrieved_at": "2026-09-21T14:53:18+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pegangan Penyusunan Norma Penghitungan Peredaran Bruto dan Norma Penghitungan Penghasilan Neto",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/505-kmk-04-1995"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=447",
+   "retrieved_at": "2026-09-21T14:41:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pegangan-penyusunan-norma-penghitungan-peredaran-bruto-dan-norma-penghitungan-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=95",
+   "retrieved_at": "2026-09-21T14:53:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/505-kmk-04-1995",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEGANGAN PENYUSUNAN NORMA PENGHITUNGAN PEREDARAN BRUTO DAN NORMA PENGHITUNGAN PENGHASILAN NETO"
+}

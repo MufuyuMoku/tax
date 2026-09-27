@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-13-1999",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-01-18",
+   "detail_error": null,
+   "number_as_written": "KEP - 13/PJ./1999",
+   "retrieved_at": "2026-09-22T04:16:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGGUNAAN MEDIA ELEKTRONIK SEBAGAI PENGGANTI LAMPIRAN FORMULIR 1721 A-1 DALAM SURAT PEMBERITAHUAN TAHUNAN PPh PASAL 21 (FORMULIR 1721)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-media-elektronik-sebagai-pengganti-lampiran-formulir-1721-1-dalam-surat"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=411",
+   "retrieved_at": "2026-09-21T14:38:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-media-elektronik-sebagai-pengganti-lampiran-formulir-1721-1-dalam-surat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGGUNAAN MEDIA ELEKTRONIK SEBAGAI PENGGANTI LAMPIRAN FORMULIR 1721 A-1 DALAM SURAT PEMBERITAHUAN TAHUNAN PPh PASAL 21 (FORMULIR 1721)"
+}

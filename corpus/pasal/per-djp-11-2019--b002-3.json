@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 2978,
+ "document_id": "per-djp-11-2019",
+ "document_number": "PER-11/PJ/2019",
+ "document_title": "PENYEDIA JASA APLIKASI PERPAJAKAN",
+ "id": "per-djp-11-2019--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [
+  "urutan_loncat:12->14"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\n(1)\nPenyedia Jasa Aplikasi Perpajakan harus memenuhi:\na.\npersyaratan administratif; dan\nb.\npersyaratan teknis.\n(2)\nPersyaratan administratif sebagaimana dimaksud pada ayat (1) meliputi:\na.\nberbadan hukum dan berkedudukan di Indonesia·\nb.\nmemiliki Nomor Pokok Wajib Pajak (NPWP) dan telah dikukuhkan sebagai Pengusaha Kena Pajak (PKP);\nc.\nmemenuhi kewajiban perpajakan dengan pemenuhan kriteria sebagai berikut:\n1.\ntelah menyampaikan:\na)\nSPT Tahunan PPh untuk 3 (tiga) tahun pajak terakhir yang wajib disampaikan sebelum permohonan untuk ditunjuk sebagai Penyedia Jasa Aplikasi Perpajakan disampaikan dengan tepat waktu; dan\nb)\nSPT Masa selama 12 (dua belas) bulan terakhir yang wajib disampaikan sebelum permohonan untuk ditunjuk sebagai Penyedia Jasa Aplikasi Perpajakan disampaikan dengan tepat waktu;\n2.\ntidak mempunyai tunggakan pajak untuk semua jenis pajak, kecuali tunggakan pajak yang telah memperoleh izin mengangsur atau menunda pembayaran pajak;\n3.\ntidak sedang dilakukan pemeriksaan bukti permulaan dan/ atau penyidikan tindak pidana di bidang perpajakan; dan\n4.\ntidak pernah dipidana karena melakukan tindak pidana di bidang perpajakan berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap dalam jangka waktu 5 (lima) tahun terakhir\nd.\ndimiliki paling sedikit 51% (lima puluh satu persen) oleh Warga Negara Indonesia dan/atau Badan Hukum Indonesia melalui penyertaan secara langsung;\ne.\npengurus dan pemilik/pemegang saham tidak pernah dan/atau tidak sedang dipidana karena melakukan tindak pidana di bidang perpajakan dan/atau tindak pidana di bidang teknologi informasi;\nf.\nmemiliki perencanaan bisnis (\nbusiness plan\n); dan\ng.\nmemiliki perencanaan ke berlangsungan bisnis (\nbusiness continuity plan\n).\n(3)\nPersyaratan teknis sebagaimana dimaksud pada ayat (1) meliputi:\na.\nseluruh infrastruktur teknologi informasi berada di Indonesia termasuk pusat data dan pusat pemulihan bencana\nb.\nmemenuhi Standar Kualitas Layanan dan menandatangani\nService Level Agreement\n(SLA) yang ditentukan oleh Direktorat Jenderal Pajak; dan\nc.\nmemenuhi ketentuan penyusunan perjanjian penggunaan layanan antara Penyedia Jasa Aplikasi Perpajakan dan Wajib Pajak yang paling sedikit mengatur ketentuan mengenai:\n1.\nhak dan kewajiban Penyedia Jasa Aplikasi Perpajakan sebagai penyedia aplikasi dan Wajib Pajak sebagai pengguna aplikasi, dan\n2.\npenyelesaian sengketa antara Penyedia Jasa Aplikasi Perpajakan dan Wajib Pajak harus dilaksanakan di Indonesia.\n(4)\nStandar Kualitas Layanan sebagaimana dimaksud pada ayat (3) huruf b diukur dengan menggunakan kriteria-kriteria sebagai berikut:\na.\nwaktu kerja layanan;\nb.\nketersediaan (\navailability\n);\nc.\nkehandalan (\nreliability\n);\nd.\nkeamanan (\nsecurity\n); dan\ne.\nkinerja layanan (\nperformance\n);\n(5)\nStandar Kualitas Layanan dituangkan dalam\nService Level Agreement\n(SLA) dengan contoh sebagaimana tercantum dalam Lampiran I huruf E yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T00:44:08+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan"
+ }
+}

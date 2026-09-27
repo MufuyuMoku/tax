@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-70-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "70/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-486-kmk-03-2003",
+    "number_as_written": "486/KMK.03/2003",
+    "quote": "Keputusan Menteri Keuangan Nomor 70/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN YANG DITANGGUNG OLEH PEMERINTAH ATAS PENGHASILAN PEKERJA DARI PEKERJAAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-02-17",
+   "detail_error": null,
+   "number_as_written": "70/KMK.03/2003",
+   "retrieved_at": "2026-09-22T03:36:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH MINIMUM PROPINSI ATAU UPAH MINIMUM KABUPATEN/KOTA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sampai-dengan-sebesar-3"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=323",
+   "retrieved_at": "2026-09-21T14:31:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sampai-dengan-sebesar-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH MINIMUM PROPINSI ATAU UPAH MINIMUM KABUPATEN/KOTA"
+}

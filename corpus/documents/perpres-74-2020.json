@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "perpres-74-2020",
+ "identity": {
+  "code": "PERPRES",
+  "number": "74",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-07-02 00:00:00",
+   "number_as_written": "PERPRES 74 TAHUN 2020",
+   "retrieved_at": "2026-09-21T14:12:47+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Kamboja untuk Penghindaran Pajak Berganda dan Pencegahan Pengelakan Pajak yang Berkenaan dengan Pajak-pajak atas Penghasilan (Agreement between the Government of the Republic of Indonesia and the Royal Government of Cambodia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-74-tahun-2020"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Presiden&order=desc&page=7",
+   "retrieved_at": "2026-09-21T14:12:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-74-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Kamboja untuk Penghindaran Pajak Berganda dan Pencegahan Pengelakan Pajak yang Berkenaan dengan Pajak-pajak atas Penghasilan (Agreement between the Government of the Republic of Indonesia and the Royal Government of Cambodia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income)"
+}

@@ -1,0 +1,76 @@
+{
+ "attachments": [
+  {
+   "file_name": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN IMPLEMENTASI SISTEM INTI ADMINISTRASI PERPAJAKAN DALAM RANGKA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PEN.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/KEBIJAKAN%20PERPAJAKAN%20SEHUBUNGAN%20DENGAN%20IMPLEMENTASI%20SISTEM%20INTI%20ADMINISTRASI%20PERPAJAKAN%20DALAM%20RANGKA%20PENYAMPAIAN%20SURAT%20PEMBERITAHUAN%20TAHUNAN%20PAJAK%20PEN.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-55-2026",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "55",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-55-2026--b000-kesatu",
+  "kep-djp-55-2026--b001-kedua",
+  "kep-djp-55-2026--b002-ketiga",
+  "kep-djp-55-2026--b003-keempat",
+  "kep-djp-55-2026--b004-kelima",
+  "kep-djp-55-2026--b005-keenam",
+  "kep-djp-55-2026--b006-ketujuh"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-03-27",
+   "detail_error": null,
+   "number_as_written": "KEP-55/PJ/2026",
+   "retrieved_at": "2026-09-21T14:47:56+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN IMPLEMENTASI SISTEM INTI ADMINISTRASI PERPAJAKAN DALAM RANGKA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN ORANG PRIBADI TAHUN PAJAK 2025",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-implementasi-sistem-inti-administrasi-perpajakan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=7",
+   "retrieved_at": "2026-09-21T14:08:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-implementasi-sistem-inti-administrasi-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 7019,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:47:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-implementasi-sistem-inti-administrasi-perpajakan"
+ },
+ "title": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN IMPLEMENTASI SISTEM INTI ADMINISTRASI PERPAJAKAN DALAM RANGKA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN ORANG PRIBADI TAHUN PAJAK 2025"
+}

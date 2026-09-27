@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-93-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "93",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 93/PMK.03/2006",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-10-13",
+   "detail_error": null,
+   "number_as_written": "93/PMK.03/2006",
+   "retrieved_at": "2026-09-22T03:27:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN ATAS BANTUAN KEMANUSIAAN BENCANA ALAM GEMPA BUMI DI PROVINSI DAERAH ISTIMEWA YOGYAKARTA DAN SEBAGIAN PROVINSI JAWA TENGAH SERTA GEMPA BUMI DAN TSUNAMI DI PESISIR PANTAI SELATAN PULAU JAWA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-bantuan-kemanusiaan-bencana-alam-gempa-bumi-di-provinsi"
+  },
+  {
+   "date_as_written": "2006-10-13 00:00:00",
+   "number_as_written": "93/PMK.03/2006",
+   "retrieved_at": "2026-09-21T14:45:23+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pph atas Bantuan Kemanusiaan Bencana Alam Gempa Bumi di Provinsi Daerah Istimewa Yogyakarta dan Sebagian Provinsi Jawa Tengah Serta Gempa Bumi dan Tsunai di Pesisir Pantai Selatan Pulau Jawa. -- Jakarta, 2006",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/93-pmk-03-2006"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=269",
+   "retrieved_at": "2026-09-21T14:27:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-bantuan-kemanusiaan-bencana-alam-gempa-bumi-di-provinsi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=445",
+   "retrieved_at": "2026-09-21T14:45:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/93-pmk-03-2006",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN ATAS BANTUAN KEMANUSIAAN BENCANA ALAM GEMPA BUMI DI PROVINSI DAERAH ISTIMEWA YOGYAKARTA DAN SEBAGIAN PROVINSI JAWA TENGAH SERTA GEMPA BUMI DAN TSUNAMI DI PESISIR PANTAI SELATAN PULAU JAWA"
+}

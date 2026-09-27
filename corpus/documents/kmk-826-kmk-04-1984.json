@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-826-kmk-04-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "826/KMK.04",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-08-09",
+   "detail_error": null,
+   "number_as_written": "826/KMK.04/1984",
+   "retrieved_at": "2026-09-22T05:11:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK NOMOR 961/KMK.04/1983 TANGGAL 31 DESEMBER 1983 TENTANG PENENTUAN JENIS-JENIS HARTA DALAM MASING-MASING GOLONGAN HARTA UNTUK KEPERLUAN PENYUSUTAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-republik-nomor-961kmk041983-tanggal-31-desember"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=488",
+   "retrieved_at": "2026-09-21T14:44:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-republik-nomor-961kmk041983-tanggal-31-desember",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK NOMOR 961/KMK.04/1983 TANGGAL 31 DESEMBER 1983 TENTANG PENENTUAN JENIS-JENIS HARTA DALAM MASING-MASING GOLONGAN HARTA UNTUK KEPERLUAN PENYUSUTAN"
+}

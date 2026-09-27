@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-2-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "2",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-2-2014--b000-1",
+  "per-djp-2-2014--b001-2",
+  "per-djp-2-2014--b002-3",
+  "per-djp-2-2014--b003-4",
+  "per-djp-2-2014--b004-5",
+  "per-djp-2-2014--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "26",
+     "2011",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ./2011",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-26-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-01-21",
+   "detail_error": null,
+   "number_as_written": "PER-02/PJ/2014",
+   "retrieved_at": "2026-09-22T02:30:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN PENGADUAN PELAYANAN PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-pengaduan-pelayanan-perpajakan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=181",
+   "retrieved_at": "2026-09-21T14:21:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-pengaduan-pelayanan-perpajakan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6376,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:30:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-pengaduan-pelayanan-perpajakan"
+ },
+ "title": "TATA CARA PENYAMPAIAN PENGADUAN PELAYANAN PERPAJAKAN"
+}

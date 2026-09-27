@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-72-2001",
+ "identity": {
+  "code": "PP",
+  "number": "72",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-11-14",
+   "detail_error": null,
+   "number_as_written": "72 TAHUN 2001",
+   "retrieved_at": "2026-09-22T03:44:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH MINIMUM PROPINSI ATAU UPAH MINIMUM KABUPATEN/KOTA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sampai-dengan-sebesar-upah"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=346",
+   "retrieved_at": "2026-09-21T14:33:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sampai-dengan-sebesar-upah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SAMPAI DENGAN SEBESAR UPAH MINIMUM PROPINSI ATAU UPAH MINIMUM KABUPATEN/KOTA"
+}

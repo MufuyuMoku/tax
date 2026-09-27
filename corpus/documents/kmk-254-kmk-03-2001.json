@@ -1,0 +1,145 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-254-kmk-03-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "254/KMK.03",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-254-kmk-03-2001--b000-1",
+  "kmk-254-kmk-03-2001--b001-2",
+  "kmk-254-kmk-03-2001--b002-3",
+  "kmk-254-kmk-03-2001--b003-4",
+  "kmk-254-kmk-03-2001--b004-5",
+  "kmk-254-kmk-03-2001--b005-6",
+  "kmk-254-kmk-03-2001--b006-7",
+  "kmk-254-kmk-03-2001--b007-8",
+  "kmk-254-kmk-03-2001--b008-9",
+  "kmk-254-kmk-03-2001--b009-10",
+  "kmk-254-kmk-03-2001--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-154-2007",
+    "number_as_written": "154/PMK.03/2007",
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
+   },
+   {
+    "id": "pmk-210-2008",
+    "number_as_written": "210/PMK.03/2008",
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
+   },
+   {
+    "id": "pmk-8-2008",
+    "number_as_written": "08/PMK.03/2008",
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-154-2010",
+    "number_as_written": "154/PMK.03/2010",
+    "quote": "Keputusan Menteri Keuangan Nomor 254/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "title": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "450/KMK.04",
+     "1997",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 450/KMK.04/1997",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-450-kmk-04-1997"
+   },
+   {
+    "key": [
+     "KMK",
+     "444/KMK.04",
+     "1999",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 444/KMK.04/1999",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-444-kmk-04-1999"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-04-30",
+   "detail_error": null,
+   "number_as_written": "254/KMK.03/2001",
+   "retrieved_at": "2026-09-22T03:50:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemungut-pajak-penghasilan-pasal-22-sifat-dan-besarnya-pungutan-serta-tata"
+  },
+  {
+   "date_as_written": "2001-04-30 00:00:00",
+   "number_as_written": "254/KMK.03/2001",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penunjukan Pemungut Pph Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/254-kmk-03-2001"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=360",
+   "retrieved_at": "2026-09-21T14:34:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemungut-pajak-penghasilan-pasal-22-sifat-dan-besarnya-pungutan-serta-tata",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/254-kmk-03-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12218,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:50:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemungut-pajak-penghasilan-pasal-22-sifat-dan-besarnya-pungutan-serta-tata"
+ },
+ "title": "PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
+}

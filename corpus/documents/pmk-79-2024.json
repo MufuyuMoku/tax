@@ -1,0 +1,94 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN 79 TAHUN 2024.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%2079%20TAHUN%202024.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-79-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "79",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-79-2024--b000-1",
+  "pmk-79-2024--b001-2",
+  "pmk-79-2024--b002-3",
+  "pmk-79-2024--b003-4",
+  "pmk-79-2024--b004-5",
+  "pmk-79-2024--b005-6",
+  "pmk-79-2024--b006-7",
+  "pmk-79-2024--b007-8",
+  "pmk-79-2024--b008-9",
+  "pmk-79-2024--b009-10",
+  "pmk-79-2024--b010-11",
+  "pmk-79-2024--b011-12",
+  "pmk-79-2024--b012-13",
+  "pmk-79-2024--b013-14",
+  "pmk-79-2024--b014-15",
+  "pmk-79-2024--b015-16",
+  "pmk-79-2024--b016-17",
+  "pmk-79-2024--b017-18",
+  "pmk-79-2024--b018-19",
+  "pmk-79-2024--b019-20",
+  "pmk-79-2024--b020-21",
+  "pmk-79-2024--b021-22",
+  "pmk-79-2024--b022-23",
+  "pmk-79-2024--b023-24",
+  "pmk-79-2024--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-10-14",
+   "detail_error": null,
+   "number_as_written": "79 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:55:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN DALAM KERJA SAMA OPERASI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dalam-kerja-sama-operasi"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=26",
+   "retrieved_at": "2026-09-21T14:09:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dalam-kerja-sama-operasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 31833,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:55:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dalam-kerja-sama-operasi"
+ },
+ "title": "PERLAKUAN PERPAJAKAN DALAM KERJA SAMA OPERASI"
+}

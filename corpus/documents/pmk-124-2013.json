@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-124-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "124",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-124-2013--b000-1",
+  "pmk-124-2013--b001-2",
+  "pmk-124-2013--b002-3",
+  "pmk-124-2013--b003-4",
+  "pmk-124-2013--b004-5",
+  "pmk-124-2013--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 124/PMK.011/2013",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-08-27",
+   "detail_error": null,
+   "number_as_written": "124/PMK.011/2013",
+   "retrieved_at": "2026-09-22T02:32:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGURANGAN BESARNYA PAJAK PENGHASILAN PASAL 25 DAN PENUNDAAN PEMBAYARAN PAJAK PENGHASILAN PASAL 29 TAHUN 2013 BAGI WAJIB PAJAK INDUSTRI TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-besarnya-pajak-penghasilan-pasal-25-dan-penundaan-pembayaran-pajak"
+  },
+  {
+   "date_as_written": "2013-08-27 00:00:00",
+   "number_as_written": "124/PMK.011/2013",
+   "retrieved_at": "2026-09-21T14:34:22+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengurangan Besarnya Pajak Penghasilan Pasal 25 dan Penundaan Pembayaran Pajak Penghasilan Pasal 29 Tahun 2013 Bagi Wajib Pajak Industri Tertentu.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/124-pmk-011-2013"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=185",
+   "retrieved_at": "2026-09-21T14:21:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-besarnya-pajak-penghasilan-pasal-25-dan-penundaan-pembayaran-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=280",
+   "retrieved_at": "2026-09-21T14:34:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/124-pmk-011-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6325,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:32:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengurangan-besarnya-pajak-penghasilan-pasal-25-dan-penundaan-pembayaran-pajak"
+ },
+ "title": "PENGURANGAN BESARNYA PAJAK PENGHASILAN PASAL 25 DAN PENUNDAAN PEMBAYARAN PAJAK PENGHASILAN PASAL 29 TAHUN 2013 BAGI WAJIB PAJAK INDUSTRI TERTENTU"
+}

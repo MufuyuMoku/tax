@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-61-2009-ralat",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "61",
+  "variant": "ralat",
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-12-15",
+   "detail_error": null,
+   "number_as_written": "PER-61/PJ/2009",
+   "retrieved_at": "2026-09-22T02:58:49+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR: PER-61/PJ/2009 TENTANG TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-61pj2009-tentang-tata-cara-penerapan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=213",
+   "retrieved_at": "2026-09-21T14:23:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-61pj2009-tentang-tata-cara-penerapan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2505,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:58:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-61pj2009-tentang-tata-cara-penerapan"
+ },
+ "title": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR: PER-61/PJ/2009 TENTANG TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA"
+}

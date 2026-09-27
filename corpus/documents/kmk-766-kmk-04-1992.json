@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-766-kmk-04-1992",
+ "identity": {
+  "code": "KMK",
+  "number": "766/KMK.04",
+  "variant": null,
+  "year": "1992"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-766-kmk-04-1992--b000-1",
+  "kmk-766-kmk-04-1992--b001-2",
+  "kmk-766-kmk-04-1992--b002-3",
+  "kmk-766-kmk-04-1992--b003-4",
+  "kmk-766-kmk-04-1992--b004-5",
+  "kmk-766-kmk-04-1992--b005-6",
+  "kmk-766-kmk-04-1992--b006-7",
+  "kmk-766-kmk-04-1992--b007-8",
+  "kmk-766-kmk-04-1992--b008-9",
+  "kmk-766-kmk-04-1992--b009-10",
+  "kmk-766-kmk-04-1992--b010-11",
+  "kmk-766-kmk-04-1992--b011-12",
+  "kmk-766-kmk-04-1992--b012-13",
+  "kmk-766-kmk-04-1992--b013-14",
+  "kmk-766-kmk-04-1992--b014-15",
+  "kmk-766-kmk-04-1992--b015-16",
+  "kmk-766-kmk-04-1992--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kmk-209-kmk-04-1998",
+    "number_as_written": "209/KMK.04/1998",
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATACARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBERDAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "746/KMK.012",
+     "1981",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 746/KMK.012/1981",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-746-kmk-012-1981"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1992-07-13",
+   "detail_error": null,
+   "number_as_written": "766/KMK.04/1992",
+   "retrieved_at": "2026-09-22T04:58:08+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-penyetoran-dan-pelaporan-bagian-pemerintah-pajak-penghasilan-pajak"
+  },
+  {
+   "date_as_written": "1992-07-13 00:00:00",
+   "number_as_written": "766/KMK.04/1992",
+   "retrieved_at": "2026-09-21T14:54:35+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tatacara Penghitungan, Penyetoran dan Pelaporan Bagian Pemerintah, Pph, Ppn dan Pungutan-Pungutan Lainnya atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi / Listrik",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/766-kmk-04-1992"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=471",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-penyetoran-dan-pelaporan-bagian-pemerintah-pajak-penghasilan-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=114",
+   "retrieved_at": "2026-09-21T14:54:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/766-kmk-04-1992",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14363,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:58:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-penyetoran-dan-pelaporan-bagian-pemerintah-pajak-penghasilan-pajak"
+ },
+ "title": "TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
+}

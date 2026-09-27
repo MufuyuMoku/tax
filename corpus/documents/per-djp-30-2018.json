@@ -1,0 +1,493 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-30-2018",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "30",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-30-2018--b000-1",
+  "per-djp-30-2018--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "14",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-14-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "53",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-53/PJ/2008",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-53-2008"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "10",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-10-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "22",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-22-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "26",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-26-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "46",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-46/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-46-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "56",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-56/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-56-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "17",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2010",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-17-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "17",
+     "2012",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2012",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-17-2012"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "30",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2013",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-30-2013"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "41",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-41/PJ/2013",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-41-2013"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "1927",
+     "1983",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-1927/PJ.23/1983",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-1927-1983"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "444",
+     "1984",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-444/PJ.23/1984",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-444-1984"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "237",
+     "1984",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-237/PJ.23/1984",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-237-1984"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "2",
+     "1984",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-02/PJ.5/1984",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-2-1984"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "7",
+     "1984",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-07/PJ.5/1984",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-7-1984"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "106",
+     "1991",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak NomorKEP-106/PJ.431/1991",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-106-1991"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "1",
+     "1992",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.43/1992",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-1-1992"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "8",
+     "1995",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-08/PJ./1995",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-8-1995"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "108",
+     "1996",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-108-1996"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "2",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-02/PJ.1/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-2-2000"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "506",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-506/PJ/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-506-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "601",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-601/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-601-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "240",
+     "2002",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-240/PJ./2002",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-240-2002"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "100",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-100/PJ/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-100-2003"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "42",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-42/PJ/2008",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-42-2008"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "264",
+     "1998",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-264/PJ/1998",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-264-1998"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "141",
+     "1999",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-141/PJ/1999",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-141-1999"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "210",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-210/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-210-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "295",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-295/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-295-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "333",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-333/PJ/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-333-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "350",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-350/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-350-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "649",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-649/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-649-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "564",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-564/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-564-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "241",
+     "2002",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-241/PJ./2002",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-241-2002"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "110",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-110/PJ/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-110-2003"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "165",
+     "2004",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-165/PJ/2004",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-165-2004"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "62",
+     "2005",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-62/PJ./2005",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-62-2005"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "139",
+     "2005",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-139/PJ/2005",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-139-2005"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-12-18",
+   "detail_error": null,
+   "number_as_written": "PER-30/PJ/2018",
+   "retrieved_at": "2026-09-22T00:47:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-dan-keputusan-direktur-jenderal-pajak-2"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=118",
+   "retrieved_at": "2026-09-21T14:16:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-dan-keputusan-direktur-jenderal-pajak-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14730,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:47:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-dan-keputusan-direktur-jenderal-pajak-2"
+ },
+ "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+}

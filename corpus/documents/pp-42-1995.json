@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-42-1995",
+ "identity": {
+  "code": "PP",
+  "number": "42",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-42-1995--b000-1",
+  "pp-42-1995--b001-2",
+  "pp-42-1995--b002-3",
+  "pp-42-1995--b003-4",
+  "pp-42-1995--b004-5",
+  "pp-42-1995--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-43-2000",
+    "number_as_written": "43 TAHUN 2000",
+    "quote": "PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEPPRES",
+     "13",
+     "1995",
+     null
+    ],
+    "quote": "Keputusan Presiden Nomor 13 Tahun 1995",
+    "source_of_reading": "DJP",
+    "target_id": "keppres-13-1995"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-11-30",
+   "detail_error": null,
+   "number_as_written": "42 TAHUN 1995",
+   "retrieved_at": "2026-09-22T04:37:54+00:00",
+   "source": "DJP",
+   "title_as_written": "BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-bea-masuk-tambahan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang"
+  },
+  {
+   "date_as_written": "1995-11-30 00:00:00",
+   "number_as_written": "PP 42 TAHUN 1995",
+   "retrieved_at": "2026-09-21T14:11:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bea Masuk, Bea Masuk Tambahan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-1995"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=446",
+   "retrieved_at": "2026-09-21T14:41:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-bea-masuk-tambahan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=95",
+   "retrieved_at": "2026-09-21T14:11:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4754,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:37:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-bea-masuk-tambahan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang"
+ },
+ "title": "BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+}

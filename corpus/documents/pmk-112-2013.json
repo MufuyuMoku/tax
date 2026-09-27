@@ -1,0 +1,63 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-112-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "112",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-08-01 00:00:00",
+   "number_as_written": "112/PMK.011/2013",
+   "retrieved_at": "2026-09-21T14:34:31+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2013.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-011-2013"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=282",
+   "retrieved_at": "2026-09-21T14:34:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-011-2013",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2013."
+}

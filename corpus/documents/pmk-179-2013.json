@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-179-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "179",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-179-2013--b000-1",
+  "pmk-179-2013--b001-2",
+  "pmk-179-2013--b002-3",
+  "pmk-179-2013--b003-4",
+  "pmk-179-2013--b004-5",
+  "pmk-179-2013--b005-6",
+  "pmk-179-2013--b006-7",
+  "pmk-179-2013--b007-8",
+  "pmk-179-2013--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-12-09",
+   "detail_error": null,
+   "number_as_written": "179/PMK.011/2013",
+   "retrieved_at": "2026-09-22T02:31:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH DAN PENGHITUNGAN PENERIMAAN NEGARA BUKAN PAJAK ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK  PEMBANGKITAN ENERGI/LISTRIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-dan-penghitungan-penerimaan-negara-bukan-pajak"
+  },
+  {
+   "date_as_written": "2013-12-09 00:00:00",
+   "number_as_written": "179/PMK.011/2013",
+   "retrieved_at": "2026-09-21T14:33:59+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/179-pmk-011-2013"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=182",
+   "retrieved_at": "2026-09-21T14:21:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-dan-penghitungan-penerimaan-negara-bukan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=275",
+   "retrieved_at": "2026-09-21T14:33:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/179-pmk-011-2013",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8200,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:31:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-dan-penghitungan-penerimaan-negara-bukan-pajak"
+ },
+ "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH DAN PENGHITUNGAN PENERIMAAN NEGARA BUKAN PAJAK ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK  PEMBANGKITAN ENERGI/LISTRIK"
+}

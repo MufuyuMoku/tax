@@ -1,0 +1,135 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-135-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "135",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-135-2020--b000-1",
+  "pmk-135-2020--b001-2",
+  "pmk-135-2020--b002-3",
+  "pmk-135-2020--b003-4",
+  "pmk-135-2020--b004-5",
+  "pmk-135-2020--b005-6",
+  "pmk-135-2020--b006-7",
+  "pmk-135-2020--b007-8",
+  "pmk-135-2020--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "195",
+     "2016",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 195/PMK.010/2016",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-195-2016"
+   },
+   {
+    "key": [
+     "PMK",
+     "134",
+     "2017",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 134/PMK.010/2017",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-134-2017"
+   },
+   {
+    "key": [
+     "PMK",
+     "36",
+     "2018",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 36/PMK.010/2018",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-36-2018"
+   },
+   {
+    "key": [
+     "PMK",
+     "95",
+     "2019",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 95/PMK.010/2019",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-95-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-09-21",
+   "detail_error": null,
+   "number_as_written": "135/PMK.010/2020",
+   "retrieved_at": "2026-09-22T00:36:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS PENGHASILAN DARI PENGHAPUSAN SECARA MUTLAK PIUTANG NEGARA NONPOKOK YANG DITERIMA PERUSAHAAN DAERAH AIR MINUM TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-penghasilan-dari-penghapusan-secara-mutlak"
+  },
+  {
+   "date_as_written": "2020-09-21 00:00:00",
+   "number_as_written": "135/PMK.010/2020",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan dari Penghapusan secara Mutlak Piutang Negara Nonpokok yang Diterima Perusahaan Daerah Air Minum Tertentu",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-010-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=90",
+   "retrieved_at": "2026-09-21T14:14:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-penghasilan-dari-penghapusan-secara-mutlak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=107",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11859,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:36:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-penghasilan-dari-penghapusan-secara-mutlak"
+ },
+ "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS PENGHASILAN DARI PENGHAPUSAN SECARA MUTLAK PIUTANG NEGARA NONPOKOK YANG DITERIMA PERUSAHAAN DAERAH AIR MINUM TERTENTU"
+}

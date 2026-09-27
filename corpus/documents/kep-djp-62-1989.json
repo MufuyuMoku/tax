@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-62-1989",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "62",
+  "variant": null,
+  "year": "1989"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-1-1992",
+    "number_as_written": "KEP - 01/PJ.43/1992",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989",
+    "source_of_reading": "DJP",
+    "title": "BENTUK, UKURAN, KODE DAN WARNA FORMULIR PEMOTONGAN, PELAPORAN DAN RESITUSI PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT BANK INDONESIA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1989-12-04",
+   "detail_error": null,
+   "number_as_written": "KEP - 62/PJ.3/1989",
+   "retrieved_at": "2026-09-22T05:04:30+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, UKURAN, KODE DAN WARNA FORMULIR PEMOTONGAN DAN RESTITUSI PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-kode-dan-warna-formulir-pemotongan-dan-restitusi-pajak-penghasilan-atas"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=480",
+   "retrieved_at": "2026-09-21T14:44:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-kode-dan-warna-formulir-pemotongan-dan-restitusi-pajak-penghasilan-atas",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BENTUK, UKURAN, KODE DAN WARNA FORMULIR PEMOTONGAN DAN RESTITUSI PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+}

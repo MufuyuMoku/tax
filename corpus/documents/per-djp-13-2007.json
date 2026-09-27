@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-13-2007",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-13-2007--b000-i",
+  "per-djp-13-2007--b001-ii",
+  "per-djp-13-2007--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "407",
+     "2000",
+     null
+    ],
+    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-407/PJ/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-407-2000"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-53-2008-ralat",
+    "number_as_written": "PER-53/PJ/2008",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2007",
+    "source_of_reading": "DJP",
+    "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-01-24",
+   "detail_error": null,
+   "number_as_written": "PER-13/PJ/2007",
+   "retrieved_at": "2026-09-22T03:22:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-407/PJ/2000 TENTANG PEDOMAN ADMINISTRASI PELAKSANAAN FISKAL LUAR NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-direktur-jenderal-pajak-nomor-kep-407pj2000-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=262",
+   "retrieved_at": "2026-09-21T14:27:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-direktur-jenderal-pajak-nomor-kep-407pj2000-tentang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4616,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:22:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-direktur-jenderal-pajak-nomor-kep-407pj2000-tentang"
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-407/PJ/2000 TENTANG PEDOMAN ADMINISTRASI PELAKSANAAN FISKAL LUAR NEGERI"
+}

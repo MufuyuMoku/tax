@@ -1,0 +1,109 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER 3 Tahun 2026.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "3",
+    "year": "2026"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PER%203%20Tahun%202026.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2026",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-3-2026--b000-1",
+  "per-djp-3-2026--b001-2",
+  "per-djp-3-2026--b002-3",
+  "per-djp-3-2026--b003-4",
+  "per-djp-3-2026--b004-5",
+  "per-djp-3-2026--b005-6",
+  "per-djp-3-2026--b006-7",
+  "per-djp-3-2026--b007-8",
+  "per-djp-3-2026--b008-9",
+  "per-djp-3-2026--b009-10",
+  "per-djp-3-2026--b010-11",
+  "per-djp-3-2026--b011-12",
+  "per-djp-3-2026--b012-13",
+  "per-djp-3-2026--b013-14",
+  "per-djp-3-2026--b014-15",
+  "per-djp-3-2026--b015-16",
+  "per-djp-3-2026--b016-17",
+  "per-djp-3-2026--b017-18",
+  "per-djp-3-2026--b018-19",
+  "per-djp-3-2026--b019-20",
+  "per-djp-3-2026--b020-21",
+  "per-djp-3-2026--b021-22",
+  "per-djp-3-2026--b022-23",
+  "per-djp-3-2026--b023-24",
+  "per-djp-3-2026--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2025",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-11-2025"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-03-16",
+   "detail_error": null,
+   "number_as_written": "PER-3/PJ/2026",
+   "retrieved_at": "2026-09-21T14:48:04+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=7",
+   "retrieved_at": "2026-09-21T14:08:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 51499,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:48:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan-0"
+ },
+ "title": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN"
+}

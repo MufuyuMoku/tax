@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-434-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "434/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-08-24",
+   "detail_error": null,
+   "number_as_written": "434/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:07:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMOTONGAN PAJAK PENGHASILAN PASAL 26 ATAS PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK LUAR NEGERI SELAIN BENTUK USAHA TETAP ATAS PENGHASILAN BERUPA KEUNTUNGAN DARI PENJUALAN SAHAM",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan-yang-diterima-atau-diperoleh-wajib"
+  },
+  {
+   "date_as_written": "1999-08-24 00:00:00",
+   "number_as_written": "434/KMK.04/1999",
+   "retrieved_at": "2026-09-21T14:50:50+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemotongan Pph Pasal 26 atas Penghasilan yang Diterima atau Diperoleh Wajib Pajak Luar Negeri Selain Bentuk Usaha Tetap atas Penghasilan Berupa Keuntungan Dari Penjualan Saham",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/434-kmk-04-1999"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=397",
+   "retrieved_at": "2026-09-21T14:37:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan-yang-diterima-atau-diperoleh-wajib",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=58",
+   "retrieved_at": "2026-09-21T14:50:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/434-kmk-04-1999",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMOTONGAN PAJAK PENGHASILAN PASAL 26 ATAS PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK LUAR NEGERI SELAIN BENTUK USAHA TETAP ATAS PENGHASILAN BERUPA KEUNTUNGAN DARI PENJUALAN SAHAM"
+}

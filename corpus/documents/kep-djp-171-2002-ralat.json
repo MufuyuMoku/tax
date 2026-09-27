@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-171-2002-ralat",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "171",
+  "variant": "ralat",
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-06-18",
+   "detail_error": null,
+   "number_as_written": "KEP - 171/PJ./2002",
+   "retrieved_at": "2026-09-22T03:34:37+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-171/PJ./2002 TANGGAL 28 MARET 2002 TENTANG PELAKSANAAN PENGENAAN PAJAK PENGHASILAN PASAL 25 BAGI WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-direktur-jenderal-pajak-nomor-kep-171pj2002-tanggal-28-maret-2002-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=315",
+   "retrieved_at": "2026-09-21T14:31:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-direktur-jenderal-pajak-nomor-kep-171pj2002-tanggal-28-maret-2002-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-171/PJ./2002 TANGGAL 28 MARET 2002 TENTANG PELAKSANAAN PENGENAAN PAJAK PENGHASILAN PASAL 25 BAGI WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
+}

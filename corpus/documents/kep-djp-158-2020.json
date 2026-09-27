@@ -1,0 +1,66 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-158-2020",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "158",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-158-2020--b000-kedua",
+  "kep-djp-158-2020--b001-ketiga",
+  "kep-djp-158-2020--b002-keempat",
+  "kep-djp-158-2020--b003-kelima",
+  "kep-djp-158-2020--b004-keenam"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-03-20",
+   "detail_error": null,
+   "number_as_written": "KEP-158/PJ/2020",
+   "retrieved_at": "2026-09-22T00:41:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 SERTA SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2) YANG JATUH TEMPO PADA TANGGAL 20 FEBRUARI 2020",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-2"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=101",
+   "retrieved_at": "2026-09-21T14:14:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5616,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:41:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-2"
+ },
+ "title": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 SERTA SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2) YANG JATUH TEMPO PADA TANGGAL 20 FEBRUARI 2020"
+}

@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-101-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "101",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-101-2016--b000-1",
+  "pmk-101-2016--b001-2",
+  "pmk-101-2016--b002-3",
+  "pmk-101-2016--b003-4",
+  "pmk-101-2016--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "122",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 122/PMK.010/2015",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-122-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-06-22",
+   "detail_error": null,
+   "number_as_written": "101/PMK.010/2016",
+   "retrieved_at": "2026-09-22T02:20:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak-2"
+  },
+  {
+   "date_as_written": "2016-06-22 00:00:00",
+   "number_as_written": "101/PMK.010/2016",
+   "retrieved_at": "2026-09-21T14:29:01+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyesuaian Besarnya Penghasilan Tidak Kena Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/101-pmk-010-2016"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=148",
+   "retrieved_at": "2026-09-21T14:18:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=204",
+   "retrieved_at": "2026-09-21T14:29:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/101-pmk-010-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4416,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:20:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak-2"
+ },
+ "title": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK"
+}

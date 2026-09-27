@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-154-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "154",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-154-2007--b000-i",
+  "pmk-154-2007--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "254/KMK.03",
+     "2001",
+     null
+    ],
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-254-kmk-03-2001"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-11-27",
+   "detail_error": null,
+   "number_as_written": "154/PMK.03/2007",
+   "retrieved_at": "2026-09-22T03:20:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-254kmk032001-tentang-penunjukan"
+  },
+  {
+   "date_as_written": "2007-11-27 00:00:00",
+   "number_as_written": "154/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:44:03+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tata Cara Penyetoran dan Pelaporannya",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=240",
+   "retrieved_at": "2026-09-21T14:25:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-254kmk032001-tentang-penunjukan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=425",
+   "retrieved_at": "2026-09-21T14:44:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 6965,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:20:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-254kmk032001-tentang-penunjukan"
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
+}

@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 720,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b017-18",
+ "label": "18",
+ "order": 17,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 18\n(1)\nDasar perhitungan PPh Pasal 25, dalam hal terdapat sisa kerugian yang\n\nbelum dikompensasikan adalah Pajak penghasilan yang dihitung atas dasar \n\npenghasilan netto dikurangi dengan jumlah sisa kerugian yang belum dikompensasikan tersebut.\n(2)\nDasar perhitungan PPh Pasal 25 setelah tahun pelaksanaan kompensasi \n\nkerugian berakhir, adalah Pajak Penghasilan yang dihitung atas dasar\n\npenghasilan netto tanpa memperhatikan kompensasi kerugian tersebut.\n(3)\nPenghasilan netto sebagaimana dimaksud dalam ayat (1) dan ayat (2)\n\nadalah penghasilan netto yang diterima atau diperoleh secara teratur \n\nmenurut Surat Pemberitahuan Tahunan terakhir yang ditetapkan oleh \n\nDirektur Jenderal Pajak jumlahnya lebih besar.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

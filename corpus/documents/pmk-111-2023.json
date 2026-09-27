@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-111-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "111",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-111-2023--b000-i",
+  "pmk-111-2023--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "96",
+     "2023",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 96 Tahun 2023",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-96-2023"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-10-16",
+   "detail_error": null,
+   "number_as_written": "111 TAHUN 2023",
+   "retrieved_at": "2026-09-21T15:00:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 96 TAHUN 2023 TENTANG KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR DAN EKSPOR BARANG KIRIMAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-96-tahun-2023-tentang-ketentuan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=41",
+   "retrieved_at": "2026-09-21T14:10:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-96-tahun-2023-tentang-ketentuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4995,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T15:00:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-96-tahun-2023-tentang-ketentuan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 96 TAHUN 2023 TENTANG KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR DAN EKSPOR BARANG KIRIMAN"
+}

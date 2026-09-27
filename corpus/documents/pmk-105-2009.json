@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-105-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "105",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-105-2009--b000-1",
+  "pmk-105-2009--b001-2",
+  "pmk-105-2009--b002-3",
+  "pmk-105-2009--b003-4",
+  "pmk-105-2009--b004-5",
+  "pmk-105-2009--b005-6",
+  "pmk-105-2009--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-57-2010",
+    "number_as_written": "57/PMK.03/2010",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009 TENTANG PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "130/KMK.04",
+     "1998",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 130/KMK.04/1998",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-130-kmk-04-1998"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-06-10",
+   "detail_error": null,
+   "number_as_written": "105/PMK.03/2009",
+   "retrieved_at": "2026-09-22T03:04:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/piutang-yang-nyata-nyata-tidak-dapat-ditagih-yang-dapat-dikurangkan-dari-penghasilan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=216",
+   "retrieved_at": "2026-09-21T14:23:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/piutang-yang-nyata-nyata-tidak-dapat-ditagih-yang-dapat-dikurangkan-dari-penghasilan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8007,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:04:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/piutang-yang-nyata-nyata-tidak-dapat-ditagih-yang-dapat-dikurangkan-dari-penghasilan"
+ },
+ "title": "PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-19-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "19",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-19-2010--b000-1",
+  "per-djp-19-2010--b001-2",
+  "per-djp-19-2010--b002-3",
+  "per-djp-19-2010--b003-4",
+  "per-djp-19-2010--b004-5",
+  "per-djp-19-2010--b005-6",
+  "per-djp-19-2010--b006-7",
+  "per-djp-19-2010--b007-8",
+  "per-djp-19-2010--b008-9",
+  "per-djp-19-2010--b009-10",
+  "per-djp-19-2010--b010-11",
+  "per-djp-19-2010--b011-12",
+  "per-djp-19-2010--b012-13",
+  "per-djp-19-2010--b013-14",
+  "per-djp-19-2010--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "128",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-128/PJ./2003",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-128-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-29",
+   "detail_error": null,
+   "number_as_written": "PER-19/PJ/2010",
+   "retrieved_at": "2026-09-22T02:54:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-pajak-pertambahan-nilai-terutang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=211",
+   "retrieved_at": "2026-09-21T14:23:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-pajak-pertambahan-nilai-terutang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17746,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:54:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-pajak-pertambahan-nilai-terutang"
+ },
+ "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG"
+}

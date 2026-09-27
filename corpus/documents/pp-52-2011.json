@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-52-2011",
+ "identity": {
+  "code": "PP",
+  "number": "52",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-52-2011--b000-i",
+  "pp-52-2011--b001-ii",
+  "pp-52-2011--p002-i",
+  "pp-52-2011--p003-2",
+  "pp-52-2011--p004-4b",
+  "pp-52-2011--p005-7a",
+  "pp-52-2011--p006-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "1",
+     "2007",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007",
+    "source_of_reading": "DJP",
+    "target_id": "pp-1-2007"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pp-18-2015",
+    "number_as_written": "18 TAHUN 2015",
+    "quote": "Peraturan Pemerintah Nomor 52 Tahun 2011",
+    "source_of_reading": "DJP",
+    "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-22",
+   "detail_error": null,
+   "number_as_written": "52 TAHUN 2011",
+   "retrieved_at": "2026-09-22T02:42:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAHDAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak"
+  },
+  {
+   "date_as_written": "2011-12-22 00:00:00",
+   "number_as_written": "PP 52 TAHUN 2011",
+   "retrieved_at": "2026-09-21T14:09:14+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-52-tahun-2011"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 18 TAHUN 2015 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=199",
+   "retrieved_at": "2026-09-21T14:22:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=54",
+   "retrieved_at": "2026-09-21T14:09:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-52-tahun-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9865,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:42:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAHDAERAH TERTENTU"
+}

@@ -1,0 +1,182 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-94-2010",
+ "identity": {
+  "code": "PP",
+  "number": "94",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-94-2010--b000-1",
+  "pp-94-2010--b001-2",
+  "pp-94-2010--b002-4",
+  "pp-94-2010--b003-5",
+  "pp-94-2010--b004-6",
+  "pp-94-2010--b005-7",
+  "pp-94-2010--b006-8",
+  "pp-94-2010--b007-9",
+  "pp-94-2010--b008-10",
+  "pp-94-2010--b009-11",
+  "pp-94-2010--b010-12",
+  "pp-94-2010--b011-13",
+  "pp-94-2010--b012-14",
+  "pp-94-2010--b013-15",
+  "pp-94-2010--b014-16",
+  "pp-94-2010--b015-17",
+  "pp-94-2010--b016-18",
+  "pp-94-2010--b017-19",
+  "pp-94-2010--b018-20",
+  "pp-94-2010--b019-21",
+  "pp-94-2010--b020-22",
+  "pp-94-2010--b021-23",
+  "pp-94-2010--b022-24",
+  "pp-94-2010--b023-25",
+  "pp-94-2010--b024-26",
+  "pp-94-2010--b025-27",
+  "pp-94-2010--b026-28",
+  "pp-94-2010--b027-29",
+  "pp-94-2010--b028-30",
+  "pp-94-2010--b029-31",
+  "pp-94-2010--b030-32",
+  "pp-94-2010--b031-33",
+  "pp-94-2010--b032-34",
+  "pp-94-2010--b033-35",
+  "pp-94-2010--p034-1",
+  "pp-94-2010--p035-2",
+  "pp-94-2010--p036-3",
+  "pp-94-2010--p037-4",
+  "pp-94-2010--p038-5",
+  "pp-94-2010--p039-6",
+  "pp-94-2010--p040-7",
+  "pp-94-2010--p041-8",
+  "pp-94-2010--p042-9",
+  "pp-94-2010--p043-10",
+  "pp-94-2010--p044-11",
+  "pp-94-2010--p045-12",
+  "pp-94-2010--p046-13",
+  "pp-94-2010--p047-14",
+  "pp-94-2010--p048-15",
+  "pp-94-2010--p049-16",
+  "pp-94-2010--p050-17",
+  "pp-94-2010--p051-18",
+  "pp-94-2010--p052-19",
+  "pp-94-2010--p053-20",
+  "pp-94-2010--p054-21",
+  "pp-94-2010--p055-22",
+  "pp-94-2010--p056-23",
+  "pp-94-2010--p057-24",
+  "pp-94-2010--p058-25",
+  "pp-94-2010--p059-26",
+  "pp-94-2010--p060-27",
+  "pp-94-2010--p061-28",
+  "pp-94-2010--p062-29",
+  "pp-94-2010--p063-30",
+  "pp-94-2010--p064-31",
+  "pp-94-2010--p065-32",
+  "pp-94-2010--p066-33",
+  "pp-94-2010--p067-34",
+  "pp-94-2010--p068-35"
+ ],
+ "quality_flags": [
+  "urutan_loncat:2->4"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-45-2019",
+    "number_as_written": "45 TAHUN 2019",
+    "quote": "PERATURAN PEMERINTAH NOMOR 94 TAHUN 2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 94 TAHUN 2010 TENTANG PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-55-2022",
+    "number_as_written": "55 TAHUN 2022",
+    "quote": "Peraturan Pemerintah Nomor 94 Tahun 2010",
+    "source_of_reading": "DJP",
+    "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "138",
+     "2000",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 138 Tahun 2000",
+    "source_of_reading": "DJP",
+    "target_id": "pp-138-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-30",
+   "detail_error": null,
+   "number_as_written": "94 TAHUN 2010",
+   "retrieved_at": "2026-09-22T02:47:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-1"
+  },
+  {
+   "date_as_written": "2010-12-30 00:00:00",
+   "number_as_written": "PP 94 TAHUN 2010",
+   "retrieved_at": "2026-09-21T14:09:26+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-94-tahun-2010"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=205",
+   "retrieved_at": "2026-09-21T14:23:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-1",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=57",
+   "retrieved_at": "2026-09-21T14:09:26+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-94-tahun-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 48077,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:47:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-1"
+ },
+ "title": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN"
+}

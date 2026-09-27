@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-8-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "8",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-8-2015--b000-1",
+  "per-djp-8-2015--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "53",
+     "2009",
+     null
+    ],
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-53-2009"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-14-2015",
+    "number_as_written": "PER-14/PJ/2015",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2015",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ/2015 TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/PEMUNGUTANNYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-02-20",
+   "detail_error": null,
+   "number_as_written": "PER-08/PJ/2015",
+   "retrieved_at": "2026-09-22T02:27:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNDAAN BERLAKUNYA PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ/2015 TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/ PEMUNGUTANNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-direktur-jenderal-pajak-nomor-01pj2015-tentang-perubahan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=168",
+   "retrieved_at": "2026-09-21T14:20:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-direktur-jenderal-pajak-nomor-01pj2015-tentang-perubahan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10563,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:27:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-direktur-jenderal-pajak-nomor-01pj2015-tentang-perubahan"
+ },
+ "title": "PENUNDAAN BERLAKUNYA PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ/2015 TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/ PEMUNGUTANNYA"
+}

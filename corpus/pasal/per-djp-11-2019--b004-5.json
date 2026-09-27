@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 616,
+ "document_id": "per-djp-11-2019",
+ "document_number": "PER-11/PJ/2019",
+ "document_title": "PENYEDIA JASA APLIKASI PERPAJAKAN",
+ "id": "per-djp-11-2019--b004-5",
+ "label": "5",
+ "order": 4,
+ "quality_flags": [
+  "urutan_loncat:12->14"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 5\n(1)\nPermohonan sebagaimana dimaksud dalam Pasal 4 ayat (1) diproses melalui 5 (lima) tahap sebagai berikut:\na.\npengujian kelengkapan atas dokumen permohonan;\nb.\npenilaian perencanaan bisnis (\nBusiness Plan\n);\nc.\nprakualifikasi teknis;\nd.\nreviu Rencana Pengembangan Aplikasi (\nDevelopment Plan\n); dan\ne.\npengujian teknis\nuntuk menilai aspek kelayakan pemohon, keamanan, dan keandalan sistem.\n(2)\nPenilaian aspek kelayakan sebagaimana dimaksud pada ayat (1) meliputi:\na.\nlegalitas dan profil perusahaan;\nb.\nkelayakan bisnis;\nc.\nkesiapan operasional;\nd.\nkecukupan manajemen risiko; dan\ne.\nperlindungan konsumen.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T00:44:08+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan"
+ }
+}

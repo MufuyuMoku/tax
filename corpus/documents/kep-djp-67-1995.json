@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-67-1995",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "67",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-07-31",
+   "detail_error": null,
+   "number_as_written": "KEP - 67/PJ./1995",
+   "retrieved_at": "2026-09-22T04:40:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-43/PJ./1995 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI ROKOK KRETEK DI DALAM NEGERI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-43pj1995-tentang-tarif-dan-tata"
+  },
+  {
+   "date_as_written": "1995-07-31 00:00:00",
+   "number_as_written": "KEP-67/PJ./1995",
+   "retrieved_at": "2026-09-21T14:59:14+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Keputusan Dirjen Pajak No. Kep-43/Pj./1995 tentang Tarif dan Tatacara Pemotongan Penyetoran Serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Rokok Kretek di dalam Negeri",
+   "type_as_written": "Keputusan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-67-pj--1995"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=449",
+   "retrieved_at": "2026-09-21T14:41:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-43pj1995-tentang-tarif-dan-tata",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=15",
+   "retrieved_at": "2026-09-21T14:59:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-67-pj--1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-43/PJ./1995 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI ROKOK KRETEK DI DALAM NEGERI"
+}

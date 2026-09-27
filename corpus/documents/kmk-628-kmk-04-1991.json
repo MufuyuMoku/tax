@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-628-kmk-04-1991",
+ "identity": {
+  "code": "KMK",
+  "number": "628/KMK.04",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK BAGI WAJIB PAJAK BADAN YANG MELAKUKAN KEGIATAN USAHA DIBIDANG PENGEBORAN MINYAK DAN GAS BUMI SERTA ANGSURAN PAJAK DALAM TAHUN BERJALAN OLEH WAJIB PAJAK SENDIRI",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-bagi-wajib-pajak-badan-yang-melakukan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERPANJANGAN TIM KOMPILASI PENYUSUNAN BUKU URAIAN JABATAN DAN BUKU PETUNJUK PELAKSANAAN PEKERJAAN (PROSEDUR KERJA) KANTOR PUSAT DIREKTORAT JENDERAL PAJAK, KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK, KANTOR PELAYANAN PAJAK, KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN, KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK, DAN KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perpanjangan-tim-kompilasi-penyusunan-buku-uraian-jabatan-dan-buku-petunjuk-pelaksanaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-550/PJ./2000 TENTANG TATA CARA PENETAPAN WAJIB PAJAK YANG MEMENUHI KRITERIA TERTENTU DAN PENYELESAIAN PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK DALAM RANGKA PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-550pj2000-tentang-tata-cara"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-06-26",
+   "detail_error": null,
+   "number_as_written": "628/KMK.04/1991",
+   "retrieved_at": "2026-09-22T05:00:16+00:00",
+   "source": "DJP",
+   "title_as_written": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETTO BAGI WAJIB PAJAK BADAN YANG MELAKUKAN KEGIATAN USAHA DI BIDANG PENGEBORAN MINYAK DAN GAS BUMI SERTA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN OLEH WAJIB PAJAK SENDIRI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-netto-bagi-wajib-pajak-badan-yang-melakukan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=474",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-netto-bagi-wajib-pajak-badan-yang-melakukan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETTO BAGI WAJIB PAJAK BADAN YANG MELAKUKAN KEGIATAN USAHA DI BIDANG PENGEBORAN MINYAK DAN GAS BUMI SERTA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN OLEH WAJIB PAJAK SENDIRI"
+}

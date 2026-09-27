@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-252-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "252",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-252-2008--b000-1",
+  "pmk-252-2008--b001-2",
+  "pmk-252-2008--b002-3",
+  "pmk-252-2008--b003-4",
+  "pmk-252-2008--b004-5",
+  "pmk-252-2008--b005-6",
+  "pmk-252-2008--b006-7",
+  "pmk-252-2008--b007-8",
+  "pmk-252-2008--b008-9",
+  "pmk-252-2008--b009-10",
+  "pmk-252-2008--b010-11",
+  "pmk-252-2008--b011-12",
+  "pmk-252-2008--b012-13",
+  "pmk-252-2008--b013-14",
+  "pmk-252-2008--b014-15",
+  "pmk-252-2008--b015-16",
+  "pmk-252-2008--b016-17",
+  "pmk-252-2008--b017-18",
+  "pmk-252-2008--b018-19",
+  "pmk-252-2008--b019-20",
+  "pmk-252-2008--b020-21",
+  "pmk-252-2008--b021-22",
+  "pmk-252-2008--b022-23",
+  "pmk-252-2008--b023-24",
+  "pmk-252-2008--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-168-2023",
+    "number_as_written": "168 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 252/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN ORANG PRIBADI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "252/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:13:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN , JASA DAN KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-pajak-atas-penghasilan-sehubungan-dengan-pekerjaan-jasa"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "252/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:41:58+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Petunjuk Pelaksanaan Pemotongan Pajak atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, dan Kegiatan Orang Pribadi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/252-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 168 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=223",
+   "retrieved_at": "2026-09-21T14:24:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-pajak-atas-penghasilan-sehubungan-dengan-pekerjaan-jasa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=394",
+   "retrieved_at": "2026-09-21T14:41:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/252-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 37894,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:13:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-pajak-atas-penghasilan-sehubungan-dengan-pekerjaan-jasa"
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN , JASA DAN KEGIATAN ORANG PRIBADI"
+}

@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-10-1993",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "10",
+  "variant": null,
+  "year": "1993"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1993-10-04",
+   "detail_error": null,
+   "number_as_written": "KEP - 10/PJ.11/1993",
+   "retrieved_at": "2026-09-22T04:55:17+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA VERIFIKASI LAPANGAN PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-verifikasi-lapangan-pajak-penghasilan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=466",
+   "retrieved_at": "2026-09-21T14:43:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-verifikasi-lapangan-pajak-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA VERIFIKASI LAPANGAN PAJAK PENGHASILAN"
+}

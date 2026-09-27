@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-45-1994",
+ "identity": {
+  "code": "PP",
+  "number": "45",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-80-2010",
+    "number_as_written": "80 TAHUN 2010",
+    "quote": "Peraturan Pemerintah Nomor 45 Tahun 1994",
+    "source_of_reading": "DJP",
+    "title": "TARIF PEMOTONGAN DAN PENGENAAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN YANG MENJADI BEBAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA ATAU ANGGARAN PENDAPATAN DAN BELANJA DAERAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-26",
+   "detail_error": null,
+   "number_as_written": "45 TAHUN 1994",
+   "retrieved_at": "2026-09-22T04:49:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN BAGI PEJABAT NEGARA, PEGAWAI NEGERI SIPIL, ANGGOTA ANGKATAN BERSENJATA REPUBLIK INDONESIA, DAN PARA PENSIUNAN ATAS PENGHASILAN YANG DIBEBANKAN KEPADA KEUANGAN NEGARA ATAU KEUANGAN DAERAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-pejabat-negara-pegawai-negeri-sipil-anggota-angkatan-bersenjata"
+  },
+  {
+   "date_as_written": "1994-12-26 00:00:00",
+   "number_as_written": "PP 45 TAHUN 1994",
+   "retrieved_at": "2026-09-21T14:11:59+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota Angkatan Bersenjata Republik Indonesia, dan Para Pensiunan atas Penghasilan yang Dibebankan Kepada Keuangan Negara atau Keuangan Daerah .",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-1994"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=459",
+   "retrieved_at": "2026-09-21T14:42:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-pejabat-negara-pegawai-negeri-sipil-anggota-angkatan-bersenjata",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:11:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN BAGI PEJABAT NEGARA, PEGAWAI NEGERI SIPIL, ANGGOTA ANGKATAN BERSENJATA REPUBLIK INDONESIA, DAN PARA PENSIUNAN ATAS PENGHASILAN YANG DIBEBANKAN KEPADA KEUANGAN NEGARA ATAU KEUANGAN DAERAH"
+}

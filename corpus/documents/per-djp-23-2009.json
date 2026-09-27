@@ -1,0 +1,105 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-23-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-23-2009--b000-i",
+  "per-djp-23-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "523",
+     "2001",
+     null
+    ],
+    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-523/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-523-2001"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-57-2010",
+    "number_as_written": "PER-57/PJ/2010",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-12",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ./2009",
+   "retrieved_at": "2026-09-22T03:08:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS KEP-523/PJ/2001 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 OLEH INDUSTRI DAN EKSPORTIR YANG BERGERAK DALAM SEKTOR PERHUTANAN, PERKEBUNAN, PERTANIAN, DAN PERIKANAN ATAS PEMBELIAN BAHAN-BAHAN UNTUK KEPERLUAN INDUSTRI ATAU EKSPOR MEREKA DARI PEDAGANG PENGUMPUL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-kep-523pj2001-tentang-tarif-dan-tata-cara-pemungutan-penyetoran"
+  },
+  {
+   "date_as_written": "2009-03-12 00:00:00",
+   "number_as_written": "PerDJP 23/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Keputusan Direktur Jenderal Pajak Nomor Kep-523/Pj./2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan atas Pembelian Bahan-Bahan untuk Keperluan Industri atau Ekspor Mereka Dari Pedagang Pengumpul.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-23-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-57/PJ/2010 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=219",
+   "retrieved_at": "2026-09-21T14:24:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-kep-523pj2001-tentang-tarif-dan-tata-cara-pemungutan-penyetoran",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-23-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3450,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:08:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-kep-523pj2001-tentang-tarif-dan-tata-cara-pemungutan-penyetoran"
+ },
+ "title": "PERUBAHAN KEDUA ATAS KEP-523/PJ/2001 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 OLEH INDUSTRI DAN EKSPORTIR YANG BERGERAK DALAM SEKTOR PERHUTANAN, PERKEBUNAN, PERTANIAN, DAN PERIKANAN ATAS PEMBELIAN BAHAN-BAHAN UNTUK KEPERLUAN INDUSTRI ATAU EKSPOR MEREKA DARI PEDAGANG PENGUMPUL"
+}

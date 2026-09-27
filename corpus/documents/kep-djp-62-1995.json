@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-62-1995",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "62",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-07-24",
+   "detail_error": null,
+   "number_as_written": "KEP-62/PJ./1995",
+   "retrieved_at": "2026-09-22T04:41:26+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS DAN BESARNYA BIAYA ADMINISTRASI KANTOR PUSAT YANG DIPERBOLEHKAN UNTUK DIBEBANKAN SEBAGAI BIAYA SUATU BENTUK USAHA TETAP",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-dan-besarnya-biaya-administrasi-kantor-pusat-yang-diperbolehkan-untuk-dibebankan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=450",
+   "retrieved_at": "2026-09-21T14:41:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-dan-besarnya-biaya-administrasi-kantor-pusat-yang-diperbolehkan-untuk-dibebankan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "JENIS DAN BESARNYA BIAYA ADMINISTRASI KANTOR PUSAT YANG DIPERBOLEHKAN UNTUK DIBEBANKAN SEBAGAI BIAYA SUATU BENTUK USAHA TETAP"
+}

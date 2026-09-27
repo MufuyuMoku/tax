@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-44-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "44",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-44-2013--b000-1",
+  "per-djp-44-2013--b001-2",
+  "per-djp-44-2013--b002-3",
+  "per-djp-44-2013--b003-4",
+  "per-djp-44-2013--b004-5",
+  "per-djp-44-2013--b005-6",
+  "per-djp-44-2013--b006-7",
+  "per-djp-44-2013--b007-8",
+  "per-djp-44-2013--b008-9",
+  "per-djp-44-2013--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-32-2014",
+    "number_as_written": "PER-32/PJ/2014",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2013",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "447",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-447-2001"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "69",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-69-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-12-05",
+   "detail_error": null,
+   "number_as_written": "PER-44/PJ/2013",
+   "retrieved_at": "2026-09-22T02:31:28+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL DALAM RANGKA PENGADAAN BARANG DAN/ATAU JASA UNTUK KEPERLUAN INSTANSI PEMERINTAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-fiskal-dalam-rangka-pengadaan-barang-danatau-jasa"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=182",
+   "retrieved_at": "2026-09-21T14:21:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-fiskal-dalam-rangka-pengadaan-barang-danatau-jasa",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11851,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:31:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-fiskal-dalam-rangka-pengadaan-barang-danatau-jasa"
+ },
+ "title": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL DALAM RANGKA PENGADAAN BARANG DAN/ATAU JASA UNTUK KEPERLUAN INSTANSI PEMERINTAH"
+}

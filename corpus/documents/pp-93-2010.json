@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-93-2010",
+ "identity": {
+  "code": "PP",
+  "number": "93",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-93-2010--b000-1",
+  "pp-93-2010--b001-2",
+  "pp-93-2010--b002-3",
+  "pp-93-2010--b003-4",
+  "pp-93-2010--b004-5",
+  "pp-93-2010--b005-6",
+  "pp-93-2010--b006-7",
+  "pp-93-2010--b007-8",
+  "pp-93-2010--b008-9",
+  "pp-93-2010--b009-10",
+  "pp-93-2010--p010-1",
+  "pp-93-2010--p011-2",
+  "pp-93-2010--p012-3",
+  "pp-93-2010--p013-4",
+  "pp-93-2010--p014-5",
+  "pp-93-2010--p015-6",
+  "pp-93-2010--p016-7",
+  "pp-93-2010--p017-8",
+  "pp-93-2010--p018-9",
+  "pp-93-2010--p019-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-30",
+   "detail_error": null,
+   "number_as_written": "93 TAHUN 2010",
+   "retrieved_at": "2026-09-22T02:47:31+00:00",
+   "source": "DJP",
+   "title_as_written": "SUMBANGAN PENANGGULANGAN BENCANA NASIONAL, SUMBANGAN PENELITIAN DAN PENGEMBANGAN, SUMBANGAN FASILITAS PENDIDIKAN, SUMBANGAN PEMBINAAN OLAHRAGA, DAN BIAYA PEMBANGUNAN INFRASTRUKTUR SOSIAL YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/sumbangan-penanggulangan-bencana-nasional-sumbangan-penelitian-dan-pengembangan-sumbangan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=205",
+   "retrieved_at": "2026-09-21T14:23:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/sumbangan-penanggulangan-bencana-nasional-sumbangan-penelitian-dan-pengembangan-sumbangan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12930,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:47:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/sumbangan-penanggulangan-bencana-nasional-sumbangan-penelitian-dan-pengembangan-sumbangan"
+ },
+ "title": "SUMBANGAN PENANGGULANGAN BENCANA NASIONAL, SUMBANGAN PENELITIAN DAN PENGEMBANGAN, SUMBANGAN FASILITAS PENDIDIKAN, SUMBANGAN PEMBINAAN OLAHRAGA, DAN BIAYA PEMBANGUNAN INFRASTRUKTUR SOSIAL YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

@@ -1,0 +1,261 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "uu-10-1994",
+ "identity": {
+  "code": "UU",
+  "number": "10",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "uu-10-1994--b000-i",
+  "uu-10-1994--b001-ii",
+  "uu-10-1994--b002-iii",
+  "uu-10-1994--p003-i",
+  "uu-10-1994--p004-1",
+  "uu-10-1994--p005-2",
+  "uu-10-1994--p006-2a",
+  "uu-10-1994--p007-3",
+  "uu-10-1994--p008-4",
+  "uu-10-1994--p009-5",
+  "uu-10-1994--p010-6",
+  "uu-10-1994--p011-7",
+  "uu-10-1994--p012-8",
+  "uu-10-1994--p013-9",
+  "uu-10-1994--p014-10",
+  "uu-10-1994--p015-11",
+  "uu-10-1994--p016-11a",
+  "uu-10-1994--p017-12",
+  "uu-10-1994--p018-13",
+  "uu-10-1994--p019-14",
+  "uu-10-1994--p020-15",
+  "uu-10-1994--p021-16",
+  "uu-10-1994--p022-17",
+  "uu-10-1994--p023-18",
+  "uu-10-1994--p024-19",
+  "uu-10-1994--p025-20",
+  "uu-10-1994--p026-21",
+  "uu-10-1994--p027-22",
+  "uu-10-1994--p028-23",
+  "uu-10-1994--p029-24",
+  "uu-10-1994--p030-25",
+  "uu-10-1994--p031-26",
+  "uu-10-1994--p032-27",
+  "uu-10-1994--p033-28",
+  "uu-10-1994--p034-28a",
+  "uu-10-1994--p035-29",
+  "uu-10-1994--p036-30",
+  "uu-10-1994--p037-31",
+  "uu-10-1994--p038-31a",
+  "uu-10-1994--p039-32",
+  "uu-10-1994--p040-33a",
+  "uu-10-1994--p041-34",
+  "uu-10-1994--p042-35",
+  "uu-10-1994--p043-ii",
+  "uu-10-1994--p044-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983",
+     null
+    ],
+    "quote": "UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+    "source_of_reading": "DJP",
+    "target_id": "uu-7-1983"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "HAK GUNA USAHA, HAK GUNA BANGUNAN DAN HAK PAKAI ATAS TANAH",
+    "url": "https://www.pajak.go.id/id/peraturan/hak-guna-usaha-hak-guna-bangunan-dan-hak-pakai-atas-tanah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 47 TAHUN 1994 TENTANG PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-47-tahun-1994-tentang-penghitungan-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENCAIRAN JAMINAN BANK ATAU CUSTOMS BOND YANG DIJAMINKAN UNTUK PEMBEBASAN BEA MASUK DAN PENANGGUHAN PEMBAYARAN PPN ATAS BARANG DAN BAHAN ASAL IMPOR YANG DIIMPOR OLEH : DUREE TIMBER INDONESIA, PT",
+    "url": "https://www.pajak.go.id/id/peraturan/pencairan-jaminan-bank-atau-customs-bond-yang-dijaminkan-untuk-pembebasan-bea-masuk-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BENTUK DAN ISI SURAT PEMBERITAHUAN SERTA KETERANGAN DAN ATAU DOKUMEN YANG HARUS DILAMPIRKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-pemberitahuan-serta-keterangan-dan-atau-dokumen-yang-harus"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 608/KMK.04/1994 TENTANG TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-608kmk041994-tentang-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMUNGUTAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI TRANSAKSI PENJUALAN SAHAM DI BURSA EFEK",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemungutan-pajak-penghasilan-atas-penghasilan-dari-transaksi-penjualan-saham"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-peraturan-pemerintah-nomor-42-tahun-1995-tentang-bea-masuk-bea-masuk-tambahan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BENTUK, UKURAN, ISI, DAN TEKS STICKER PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC) DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DIATAS DISC (LASER DISC)",
+    "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-isi-dan-teks-sticker-pajak-pertambahan-nilai-atas-penyerahan-rekaman"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN PEJABAT UNTUK PENAGIHAN PAJAK PUSAT, TATA CARA DAN JADWAL WAKTU PELAKSANAAN PENAGIHAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pejabat-untuk-penagihan-pajak-pusat-tata-cara-dan-jadwal-waktu-pelaksanaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 585/KMK.05/1996 TENTANG PENGGUNAAN JAMINAN BANK UNTUK MENJAMIN PEMBAYARAN PUNGUTAN BEA MASUK, CUKAI, DENDA ADMINISTRASI, DAN PAJAK DALAM RANGKA IMPOR",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-585kmk051996-tentang-penggunaan-jaminan-bank"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYAMPAIAN LAMPIRAN 1721-A1 SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN PASAL 21 DENGAN MENGGUNAKAN MEDIA ELEKTRONIK",
+    "url": "https://www.pajak.go.id/id/peraturan/penyampaian-lampiran-1721-a1-surat-pemberitahuan-tahunan-pajak-penghasilan-pasal-21"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGGUNAAN FAKTUR PAJAK OLEH PENGUSAHA KENA PAJAK YANG MENGALAMI PERUBAHAN NOMOR POKOK WAJIB PAJAK KARENA REORGANISASI DIREKTORAT JENDERAL PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penggunaan-faktur-pajak-oleh-pengusaha-kena-pajak-yang-mengalami-perubahan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-169/PJ./2001 TENTANG BENTUK SURAT SETORAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-169pj2001-tentang-bentuk"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "FAKTUR PAJAK SEDERHANA",
+    "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak-sederhana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN PENGHASILAN NETTO BAGI WAJIB PAJAK YANG WAJIB MENYELENGGARAKAN PEMBUKUAN TETAPI TIDAK MENYELENGGARAKAN SEBAGAIMANA MESTINYA",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-penghasilan-netto-bagi-wajib-pajak-yang-wajib-menyelenggarakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan-1"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-11-09",
+   "detail_error": null,
+   "number_as_written": "10 TAHUN 1994",
+   "retrieved_at": "2026-09-22T04:52:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+  },
+  {
+   "date_as_written": "1994-11-09 00:00:00",
+   "number_as_written": "UU 10 TAHUN 1994",
+   "retrieved_at": "2026-09-21T14:04:53+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Undang-Undang No.7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Diubah dengan Undang-Undang No. 7 Tahun 1991",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-1994"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=462",
+   "retrieved_at": "2026-09-21T14:42:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:04:53+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 194712,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:52:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+ },
+ "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991"
+}

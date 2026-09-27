@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-637-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "637/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-29",
+   "detail_error": null,
+   "number_as_written": "637/KMK.04/1994",
+   "retrieved_at": "2026-09-22T04:47:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, ATAU PEMEKARAN USAHA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-nilai-buku-atas-pengalihan-harta-dalam-rangka-penggabungan-peleburan-atau"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=457",
+   "retrieved_at": "2026-09-21T14:42:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-nilai-buku-atas-pengalihan-harta-dalam-rangka-penggabungan-peleburan-atau",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, ATAU PEMEKARAN USAHA"
+}

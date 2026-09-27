@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 161,
+ "document_id": "per-djp-3-2015",
+ "document_number": "PER-03/PJ/2015",
+ "document_title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK",
+ "id": "per-djp-3-2015--b004-5",
+ "label": "5",
+ "order": 4,
+ "quality_flags": [
+  "urutan_loncat:7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 5\nDalam hal Wajib Pajak melakukan pembetulan atas SPT Elektronik yang telah disampaikan, pembetulan SPT tersebut harus disampaikan dalam bentuk elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:28:13+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik"
+ }
+}

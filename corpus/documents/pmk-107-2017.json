@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-107-2017",
+ "identity": {
+  "code": "PMK",
+  "number": "107",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-93-2019",
+    "number_as_written": "93/PMK.03/2019",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 107/PMK.03/2017",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 107/PMK.03/2017 TENTANG PENETAPAN SAAT DIPEROLEHNYA DIVIDEN DAN DASAR PENGHITUNGANNYA OLEH WAJIB PAJAK DALAM NEGERI ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI SELAIN BADAN USAHA YANG MENJUAL SAHAMNYA DI BURSA EFEK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-07-26 00:00:00",
+   "number_as_written": "107/PMK.03/2017",
+   "retrieved_at": "2026-09-21T14:27:12+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/107-pmk-03-2017"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=177",
+   "retrieved_at": "2026-09-21T14:27:12+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/107-pmk-03-2017",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek."
+}

@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-52-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "52",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-52-2025--b000-i",
+  "pmk-52-2025--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "48",
+     "2023",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 48 TAHUN 2023",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-48-2023"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-07-25",
+   "detail_error": null,
+   "number_as_written": "52 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:51:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 48 TAHUN 2023 TENTANG PAJAK PENGHASILAN DAN/ATAU PAJAK PERTAMBAHAN NILAI ATAS PENJUALAN/PENYERAHAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, SERTA JASA YANG TERKAIT DENGAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, DAN/ATAU BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS,YANG DILAKUKAN OLEH PABRIKAN EMAS PERHIASAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-48-tahun-2023-tentang-pajak"
+  },
+  {
+   "date_as_written": "2025-07-25 12:00:00",
+   "number_as_written": "PMK 52 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:16:08+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas\nPeraturan Menteri Keuangan Nomor 48 Tahun 2023 tentang  Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-52-tahun-2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=16",
+   "retrieved_at": "2026-09-21T14:08:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-48-tahun-2023-tentang-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=13",
+   "retrieved_at": "2026-09-21T14:16:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-52-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 8747,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:51:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-48-tahun-2023-tentang-pajak"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 48 TAHUN 2023 TENTANG PAJAK PENGHASILAN DAN/ATAU PAJAK PERTAMBAHAN NILAI ATAS PENJUALAN/PENYERAHAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, SERTA JASA YANG TERKAIT DENGAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, DAN/ATAU BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS,YANG DILAKUKAN OLEH PABRIKAN EMAS PERHIASAN"
+}

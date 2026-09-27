@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-601-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "601",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-601/PJ./2001",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-09-11",
+   "detail_error": null,
+   "number_as_written": "KEP-601/PJ./2001",
+   "retrieved_at": "2026-09-22T03:44:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=349",
+   "retrieved_at": "2026-09-21T14:33:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN"
+}

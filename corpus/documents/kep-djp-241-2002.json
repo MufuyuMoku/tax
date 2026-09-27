@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-241-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "241",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-241/PJ./2002",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-04-30",
+   "detail_error": null,
+   "number_as_written": "KEP-241/PJ./2002",
+   "retrieved_at": "2026-09-22T03:40:19+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA DAN PROSEDUR PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DAN DISKONTO OBLIGASI YANG DIPERDAGANGKAN DAN ATAU DILAPORKAN PERDAGANGANNYA DI BURSA EFEK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pelaksanaan-pemotongan-pajak-penghasilan-atas-bunga-dan-diskonto"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=337",
+   "retrieved_at": "2026-09-21T14:32:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pelaksanaan-pemotongan-pajak-penghasilan-atas-bunga-dan-diskonto",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA DAN PROSEDUR PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DAN DISKONTO OBLIGASI YANG DIPERDAGANGKAN DAN ATAU DILAPORKAN PERDAGANGANNYA DI BURSA EFEK"
+}

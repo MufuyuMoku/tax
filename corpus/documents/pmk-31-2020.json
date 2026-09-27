@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-31-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "31",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-31-2020--b000-1",
+  "pmk-31-2020--b001-2",
+  "pmk-31-2020--b002-3",
+  "pmk-31-2020--b003-4",
+  "pmk-31-2020--b004-5",
+  "pmk-31-2020--b005-6",
+  "pmk-31-2020--b006-7",
+  "pmk-31-2020--b007-8",
+  "pmk-31-2020--b008-9",
+  "pmk-31-2020--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-04-13",
+   "detail_error": null,
+   "number_as_written": "PMK-31/PMK.04/2020",
+   "retrieved_at": "2026-09-22T00:40:58+00:00",
+   "source": "DJP",
+   "title_as_written": "INSENTIF TAMBAHAN UNTUK PERUSAHAAN PENERIMA FASILITAS KAWASAN BERIKAT DAN/ATAU KEMUDAHAN IMPOR TUJUAN EKSPOR UNTUK PENANGANAN DAMPAK BENCANA PENYAKIT VIRUS CORONA (CORONA VIRUS DISEASE 2019/ COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/insentif-tambahan-untuk-perusahaan-penerima-fasilitas-kawasan-berikat-danatau-kemudahan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=99",
+   "retrieved_at": "2026-09-21T14:14:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/insentif-tambahan-untuk-perusahaan-penerima-fasilitas-kawasan-berikat-danatau-kemudahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19638,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:40:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/insentif-tambahan-untuk-perusahaan-penerima-fasilitas-kawasan-berikat-danatau-kemudahan"
+ },
+ "title": "INSENTIF TAMBAHAN UNTUK PERUSAHAAN PENERIMA FASILITAS KAWASAN BERIKAT DAN/ATAU KEMUDAHAN IMPOR TUJUAN EKSPOR UNTUK PENANGANAN DAMPAK BENCANA PENYAKIT VIRUS CORONA (CORONA VIRUS DISEASE 2019/ COVID-19)"
+}

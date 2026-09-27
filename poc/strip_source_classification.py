@@ -14,6 +14,7 @@ TARGETS = {
     "data/jdih_metadata.jsonl": ("label", "tematik"),
     "data/djp_pph_detail.jsonl": ("kategori", "tag"),
     "data/jdih_pph_candidates.jsonl": ("label",),
+    "data/jdih_pph_detail.jsonl": ("label",),
 }
 POC = Path(__file__).parent
 

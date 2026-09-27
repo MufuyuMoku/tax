@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-1-1991",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-1-1991--b000-1",
+  "kep-djp-1-1991--b001-2",
+  "kep-djp-1-1991--b002-3",
+  "kep-djp-1-1991--b003-4",
+  "kep-djp-1-1991--b004-5",
+  "kep-djp-1-1991--b005-6",
+  "kep-djp-1-1991--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-01-09",
+   "detail_error": null,
+   "number_as_written": "KEP - 01/PJ.7/1991",
+   "retrieved_at": "2026-09-22T05:01:08+00:00",
+   "source": "DJP",
+   "title_as_written": "NORMA PENGHITUNGAN PENGHASILAN NETTO DAN TATA CARA PEMBUATAN CATATAN BAGI WAJIB PAJAK YANG DAPAT MENGHITUNG PENGHASILAN NETTO DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-penghasilan-netto-dan-tata-cara-pembuatan-catatan-bagi-wajib-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=475",
+   "retrieved_at": "2026-09-21T14:43:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-penghasilan-netto-dan-tata-cara-pembuatan-catatan-bagi-wajib-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4517,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T05:01:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-penghasilan-netto-dan-tata-cara-pembuatan-catatan-bagi-wajib-pajak"
+ },
+ "title": "NORMA PENGHITUNGAN PENGHASILAN NETTO DAN TATA CARA PEMBUATAN CATATAN BAGI WAJIB PAJAK YANG DAPAT MENGHITUNG PENGHASILAN NETTO DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PAJAK PENGHASILAN"
+}

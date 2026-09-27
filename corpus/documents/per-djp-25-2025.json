@@ -1,0 +1,113 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-25-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-25-2025--b000-1",
+  "per-djp-25-2025--b001-2",
+  "per-djp-25-2025--b002-3",
+  "per-djp-25-2025--b003-4",
+  "per-djp-25-2025--b004-5",
+  "per-djp-25-2025--b005-6",
+  "per-djp-25-2025--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "21",
+     "2017",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2017",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-21-2017"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "13",
+     "2018",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2018",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-13-2018"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2020"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "20",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-20-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-12-30",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ/2025",
+   "retrieved_at": "2026-09-21T14:48:58+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN AKUNTANSI MODUL REVENUE ACCOUNTING",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-akuntansi-modul-revenue-accounting"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=10",
+   "retrieved_at": "2026-09-21T14:08:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-akuntansi-modul-revenue-accounting",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14897,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:48:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-akuntansi-modul-revenue-accounting"
+ },
+ "title": "KEBIJAKAN AKUNTANSI MODUL REVENUE ACCOUNTING"
+}

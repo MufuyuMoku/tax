@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-42-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "42",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-42-2008--b000-i",
+  "per-djp-42-2008--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "108",
+     "1996",
+     null
+    ],
+    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-108-1996"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-42/PJ/2008",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-10-20",
+   "detail_error": null,
+   "number_as_written": "42/PJ/2008",
+   "retrieved_at": "2026-09-22T03:15:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KELIMA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=226",
+   "retrieved_at": "2026-09-21T14:24:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5006,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:15:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang"
+ },
+ "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN"
+}

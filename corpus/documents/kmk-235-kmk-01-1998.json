@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-235-kmk-01-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "235/KMK.01",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-04-14",
+   "detail_error": null,
+   "number_as_written": "235/KMK.01/1998",
+   "retrieved_at": "2026-09-22T04:21:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 80/KMK.04/1995 TENTANG BESARNYA DANA CADANGAN YANG BOLEH DIKURANGKAN SEBAGAI BIAYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-80kmk041995-tentang-besarnya-dana-cadangan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=424",
+   "retrieved_at": "2026-09-21T14:39:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-80kmk041995-tentang-besarnya-dana-cadangan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 80/KMK.04/1995 TENTANG BESARNYA DANA CADANGAN YANG BOLEH DIKURANGKAN SEBAGAI BIAYA"
+}

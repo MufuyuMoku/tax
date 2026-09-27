@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 688,
+ "document_id": "kep-djp-1444-1993",
+ "document_number": "KEP-1444/PJ.24/1993",
+ "document_title": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK",
+ "id": "kep-djp-1444-1993--b001-2",
+ "label": "2",
+ "order": 1,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 2\n(1)\nKode Klasifikasi yang dirinci menurut Jenis Usaha dipergunakan untuk keperluan Tata Usaha Wajib Pajak, seperti data Jenis Usaha Wajib Pajak dalam Master File Wajib Pajak, Jenis Usaha pada SPT Pajak Penghasilan dan SPT Masa PPN dan PPn BM, atau dipakai sebagai dasar penyusunan Norma Penghitungan Penghasilan Netto.\n(2)\nKode Klasifikasi dirinci menurut Sektor, Sub Sektor, Golongan Pokok, Golongan dan Jenis Usaha dipergunakan juga untuk keperluan analisa, pengolahan data dan pembuatan laporan.\n(3)\nUntuk keperluan khusus lainnya, penggunaan kode klasifikasi yang dirinci menurut Sektor, Sub Sektor, Golongan Pokok, Golongan dan Jenis Usaha dapat disesuaikan dengan kebutuhan.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T04:54:23+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-lapangan-usaha-wajib-pajak-0"
+ }
+}

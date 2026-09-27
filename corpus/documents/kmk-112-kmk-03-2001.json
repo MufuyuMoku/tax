@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-112-kmk-03-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "112/KMK.03",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-112-kmk-03-2001--b000-1",
+  "kmk-112-kmk-03-2001--b001-2",
+  "kmk-112-kmk-03-2001--b002-3",
+  "kmk-112-kmk-03-2001--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-16-2010",
+    "number_as_written": "16/PMK.03/2010",
+    "quote": "Keputusan Menteri Keuangan Nomor 112/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA, DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "462/KMK.04",
+     "1998",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 462/KMK.04/1998",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-462-kmk-04-1998"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-03-06",
+   "detail_error": null,
+   "number_as_written": "112/KMK.03/2001",
+   "retrieved_at": "2026-09-22T03:53:02+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG TEBUSAN PENSIUN, DAN TUNJANGAN HARI TUA ATAU JAMINAN HARI TUA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon-uang-0"
+  },
+  {
+   "date_as_written": "2001-03-06 00:00:00",
+   "number_as_written": "112/KMK.03/2001",
+   "retrieved_at": "2026-09-21T14:49:22+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Berupa Uang Pesangon, Uang Tebusan Pensiun dan Tunjangan Hari Tua atau Jaminan Hari Tua",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/112-kmk-03-2001"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=364",
+   "retrieved_at": "2026-09-21T14:34:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon-uang-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=36",
+   "retrieved_at": "2026-09-21T14:49:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/112-kmk-03-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4962,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:53:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon-uang-0"
+ },
+ "title": "PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG TEBUSAN PENSIUN, DAN TUNJANGAN HARI TUA ATAU JAMINAN HARI TUA"
+}

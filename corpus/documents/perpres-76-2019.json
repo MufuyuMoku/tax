@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "perpres-76-2019",
+ "identity": {
+  "code": "PERPRES",
+  "number": "76",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "perpres-76-2019--b000-1",
+  "perpres-76-2019--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-11-12",
+   "detail_error": null,
+   "number_as_written": "76 TAHUN 2019",
+   "retrieved_at": "2026-09-22T00:42:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGESAHAN PERSETUJUAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK TAJIKISTAN MENGENAI PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF TAJIKISTAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-republik-indonesia-dan-republik-tajikistan-mengenai"
+  },
+  {
+   "date_as_written": "2019-11-12 00:00:00",
+   "number_as_written": "PERPRES 76 TAHUN 2019",
+   "retrieved_at": "2026-09-21T14:12:55+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengesahan Persetujuan Antara Republik Indonesia dan Republik Tajikistan Mengenai Penghindaran Pajak Berganda dan Pencegahan Pengelakan Pajak atas Penghasilan (Agreement Between The Republic Of Indonesia And The Republic Of Tajikistan For The Avoidance Of Double Taxation And The Preuention Of Fiscal Euasion With Respect To Taxes On Income)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-76-tahun-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=104",
+   "retrieved_at": "2026-09-21T14:15:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-republik-indonesia-dan-republik-tajikistan-mengenai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Presiden&order=desc&page=9",
+   "retrieved_at": "2026-09-21T14:12:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-76-tahun-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3845,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:42:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-republik-indonesia-dan-republik-tajikistan-mengenai"
+ },
+ "title": "PENGESAHAN PERSETUJUAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK TAJIKISTAN MENGENAI PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF TAJIKISTAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)"
+}

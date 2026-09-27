@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1110,
+ "document_id": "pmk-147-2017",
+ "document_number": "147/PMK.03/2017",
+ "document_title": "TATA CARA PENDAFTARAN WAJIB PAJAK DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK SERTA PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK",
+ "id": "pmk-147-2017--b050-51",
+ "label": "51",
+ "order": 50,
+ "quality_flags": [
+  "urutan_loncat:61->61",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 51\n(1)\nSertifikat Elektronik sebagaimana dimaksud dalam Pasal 50 ayat (2) huruf a berfungsi sebagai otentifikasi pengguna layanan perpajakan secara elektronik yang disediakan oleh Direktorat Jenderal Pajak berupa:\na.\nlayanan permintaan nomor seri Faktur Pajak melalui laman (\nwebsite\n) yang ditentukan dan/atau disediakan oleh Direktorat Jenderal Pajak; dan/atau\nb.\npenggunaan aplikasi atau sistem elektronik yang ditentukan dan/atau disediakan oleh Direktorat Jenderal Pajak untuk pembuatan Faktur Pajak berbentuk elektronik (\ne-Faktur\n).\n(2)\nSertifikat Elektronik sebagaimana dimaksud pada ayat (1) memiliki masa berlaku selama 2 (dua) tahun dihitung sejak tanggal Sertifikat Elektronik diberikan oleh Direktorat Jenderal Pajak, atau jangka waktu lain yang yang ditentukan oleh Direktur Jenderal Pajak.\n(3)\nSebelum masa berlaku Sertifikat Elektronik sebagaimana dimaksud pada ayat (2) berakhir, PKP diperkenankan untuk meminta kembali Sertifikat Elektronik.\n(4)\nMasa berlaku Sertifikat Elektronik yang telah diterbitkan Sertifikat Elektronik baru sebagaimana dimaksud pada ayat (3) dinyatakan berakhir.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:18:23+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-dan-penghapusan-nomor-pokok-wajib-pajak-serta"
+ }
+}

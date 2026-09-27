@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-704-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "704/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-12-30",
+   "detail_error": null,
+   "number_as_written": "704/KMK.04/1996",
+   "retrieved_at": "2026-09-26T15:06:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI DAN JASA KONSULTAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi-dan-jasa-konsultan-0"
+  },
+  {
+   "date_as_written": "1996-12-30 00:00:00",
+   "number_as_written": "704/KMK.04/1996",
+   "retrieved_at": "2026-09-21T14:52:45+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi dan Jasa Konsultan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/704-kmk-04-1996"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=438",
+   "retrieved_at": "2026-09-21T14:40:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi-dan-jasa-konsultan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=87",
+   "retrieved_at": "2026-09-21T14:52:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/704-kmk-04-1996",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI DAN JASA KONSULTAN"
+}

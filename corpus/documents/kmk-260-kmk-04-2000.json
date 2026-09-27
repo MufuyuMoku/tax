@@ -1,0 +1,63 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-260-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "260/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-06-12 00:00:00",
+   "number_as_written": "260/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:50:14+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir Denga Kepmenkeu No. 314/KMK.04/1998",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/260-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=49",
+   "retrieved_at": "2026-09-21T14:50:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/260-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir Denga Kepmenkeu No. 314/KMK.04/1998"
+}

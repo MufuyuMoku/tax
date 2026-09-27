@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-466-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "466/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-83-2009",
+    "number_as_written": "83/PMK.03/2009",
+    "quote": "Keputusan Menteri Keuangan Nomor 466/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "PENYEDIAAN MAKANAN DAN MINUMAN BAGI SELURUH PEGAWAI SERTA PENGGANTIAN ATAU IMBALAN DALAM BENTUK NATURA DAN KENIKMATAN DI DAERAH TERTENTU DAN YANG BERKAITAN DENGAN PELAKSANAAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEMBERI KERJA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-11-03",
+   "detail_error": null,
+   "number_as_written": "466/KMK.04/2000",
+   "retrieved_at": "2026-09-22T04:00:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEDIAAN MAKANAN DAN MINUMAN BAGI SELURUH PEGAWAI DAN PENGGANTIAN ATAU IMBALAN SEHUBUNGAN DENGAN PEKERJAAN ATAU JASA YANG DIBERIKAN DALAM BENTUK NATURA DAN KENIKMATAN DI DAERAH TERTENTU SERTA YANG BERKAITAN DENGAN PELAKSANAAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEMBERI KERJA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyediaan-makanan-dan-minuman-bagi-seluruh-pegawai-dan-penggantian-atau-imbalan"
+  },
+  {
+   "date_as_written": "2000-11-03 00:00:00",
+   "number_as_written": "466/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:59+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyediaan Makanan dan Minuman Bagi Seluruh Pegawai dan Penggantian atau Imbalan Sehubungan dengan Pekerjaan atau Jasa yang Diberikan dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu Serta yang Berkaitan dengan Pelaksanaan Pekerjaan yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/466-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=375",
+   "retrieved_at": "2026-09-21T14:35:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyediaan-makanan-dan-minuman-bagi-seluruh-pegawai-dan-penggantian-atau-imbalan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=45",
+   "retrieved_at": "2026-09-21T14:49:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/466-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYEDIAAN MAKANAN DAN MINUMAN BAGI SELURUH PEGAWAI DAN PENGGANTIAN ATAU IMBALAN SEHUBUNGAN DENGAN PEKERJAAN ATAU JASA YANG DIBERIKAN DALAM BENTUK NATURA DAN KENIKMATAN DI DAERAH TERTENTU SERTA YANG BERKAITAN DENGAN PELAKSANAAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEMBERI KERJA"
+}

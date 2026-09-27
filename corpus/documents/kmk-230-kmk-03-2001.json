@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-230-kmk-03-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "230/KMK.03",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-04-30",
+   "detail_error": null,
+   "number_as_written": "230/KMK.03/2001",
+   "retrieved_at": "2026-09-22T03:50:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi-organisasi"
+  },
+  {
+   "date_as_written": "2001-04-30 00:00:00",
+   "number_as_written": "230/KMK.03/2001",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Keputusan Menteri Keuangan Nomor 574/ Kmk.04/ 2000 tentang Organisasi-Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/230-kmk-03-2001"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=360",
+   "retrieved_at": "2026-09-21T14:34:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi-organisasi",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/230-kmk-03-2001",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
+}

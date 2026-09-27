@@ -1,0 +1,74 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-545-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "545",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-545-2000--b000-1",
+  "kep-djp-545-2000--b001-ii",
+  "kep-djp-545-2000--b002-iii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II,III"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-31-2009",
+    "number_as_written": "PER-31/PJ/2009",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-545/PJ./2000",
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-29",
+   "detail_error": null,
+   "number_as_written": "KEP-545/PJ./2000",
+   "retrieved_at": "2026-09-22T03:55:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=368",
+   "retrieved_at": "2026-09-21T14:35:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 29602,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:55:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan"
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+}

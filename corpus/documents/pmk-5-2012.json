@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-5-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "5",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-01-09",
+   "detail_error": null,
+   "number_as_written": "05/PMK.08/2012",
+   "retrieved_at": "2026-09-22T02:40:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERBITAN DAN PENJUALAN SURAT BERHARGA SYARIAH NEGARA DI PASAR PERDANA DALAM NEGERI DENGAN CARA LELANG",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penerbitan-dan-penjualan-surat-berharga-syariah-negara-di-pasar-perdana-dalam-negeri"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=197",
+   "retrieved_at": "2026-09-21T14:22:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penerbitan-dan-penjualan-surat-berharga-syariah-negara-di-pasar-perdana-dalam-negeri",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 30,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:40:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penerbitan-dan-penjualan-surat-berharga-syariah-negara-di-pasar-perdana-dalam-negeri"
+ },
+ "title": "PENERBITAN DAN PENJUALAN SURAT BERHARGA SYARIAH NEGARA DI PASAR PERDANA DALAM NEGERI DENGAN CARA LELANG"
+}

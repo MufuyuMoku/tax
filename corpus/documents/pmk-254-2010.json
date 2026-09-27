@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-254-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "254",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-254-2010--b000-1",
+  "pmk-254-2010--b001-2",
+  "pmk-254-2010--b002-3",
+  "pmk-254-2010--b003-4",
+  "pmk-254-2010--b004-5",
+  "pmk-254-2010--b005-6",
+  "pmk-254-2010--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-114-2025",
+    "number_as_written": "114 TAHUN 2025",
+    "quote": "Peraturan Menteri Keuangan Nomor 254/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "title": "PERLAKUAN ATAS BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB, SERTA HARTA HIBAHAN DALAM PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-28",
+   "detail_error": null,
+   "number_as_written": "254/PMK.03/2010",
+   "retrieved_at": "2026-09-22T02:47:42+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBEBANAN ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebanan-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang-dapat"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 114 TAHUN 2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=205",
+   "retrieved_at": "2026-09-21T14:23:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebanan-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang-dapat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6852,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:47:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebanan-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang-dapat"
+ },
+ "title": "TATA CARA PEMBEBANAN ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-421-1991",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "421",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-421-1991--b000-1",
+  "kep-djp-421-1991--b001-2",
+  "kep-djp-421-1991--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-50-1994",
+    "number_as_written": "KEP-50/PJ./1994",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-421/PJ.43/1991",
+    "source_of_reading": "DJP",
+    "title": "PENUNJUKAN WAJIB PAJAK ORANG PRIBADI DALAM NEGERI TERTENTU SEBAGAI PEMOTONG PAJAK PENGHASILAN PASAL 23"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-12-27",
+   "detail_error": null,
+   "number_as_written": "KEP-421/PJ.43/1991",
+   "retrieved_at": "2026-09-22T04:59:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN WAJIB PAJAK PERSEORANGAN SEBAGAI PEMOTONG PAJAK PENGHASILAN PASAL 23 UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-wajib-pajak-perseorangan-sebagai-pemotong-pajak-penghasilan-pasal-23-undang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=473",
+   "retrieved_at": "2026-09-21T14:43:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-wajib-pajak-perseorangan-sebagai-pemotong-pajak-penghasilan-pasal-23-undang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2380,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:59:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-wajib-pajak-perseorangan-sebagai-pemotong-pajak-penghasilan-pasal-23-undang"
+ },
+ "title": "PENUNJUKAN WAJIB PAJAK PERSEORANGAN SEBAGAI PEMOTONG PAJAK PENGHASILAN PASAL 23 UNDANG-UNDANG NOMOR 7 TAHUN 1983"
+}

@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-153-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "153/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-05-19",
+   "detail_error": null,
+   "number_as_written": "153/KMK.04/2000",
+   "retrieved_at": "2026-09-22T04:04:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGECUALIAN ATAS PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM WILAYAH KERJASAMA EKONOMI SUB REGIONAL INDONESIA-AUSTRALIA (AIDA) KECUALI BALI, DAN ORANG PRIBADI WARGA NEGARA ASING YANG BEKERJA DI INDONESIA UNTUK KEPENTINGAN KANTOR PERWAKILAN PERUSAHAAN ASING",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-atas-pembayaran-pajak-penghasilan-bagi-orang-pribadi-yang-bertolak-ke-luar"
+  },
+  {
+   "date_as_written": "2000-05-19 00:00:00",
+   "number_as_written": "153/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:50:22+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengecualian atas Pembayaran Pph Bagi Orang Pribadi yang Berto-  Lak Ke Ln dalam Wilayah Kerjasama Ekonomi Regional Indonesia - Australia (Aida) Kecuali Bali dan Orang Pribadi Wna yang Bekerja di Indonesia untuk Kepentingan Kantor Perwakilan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/153-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=382",
+   "retrieved_at": "2026-09-21T14:36:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-atas-pembayaran-pajak-penghasilan-bagi-orang-pribadi-yang-bertolak-ke-luar",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=51",
+   "retrieved_at": "2026-09-21T14:50:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/153-kmk-04-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGECUALIAN ATAS PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM WILAYAH KERJASAMA EKONOMI SUB REGIONAL INDONESIA-AUSTRALIA (AIDA) KECUALI BALI, DAN ORANG PRIBADI WARGA NEGARA ASING YANG BEKERJA DI INDONESIA UNTUK KEPENTINGAN KANTOR PERWAKILAN PERUSAHAAN ASING"
+}

@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-539-kmk-01-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "539/KMK.01",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-48-tahun-1994-tentang-pembayaran-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN PENYERAHAN BUKU-BUKU PELAJARAN UMUM, KITAB SUCI DAN BUKU-BUKU PELAJARAN AGAMA",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-dan-penyerahan-buku-buku"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PAJAK PENGHASILAN BAGI PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-bagi-pejabat-perwakilan-organisasi-internasional"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-bagi-perwakilan-organisasi-internasional-dan-pejabat"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-11-21",
+   "detail_error": null,
+   "number_as_written": "539/KMK.01/1995",
+   "retrieved_at": "2026-09-22T04:38:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 611/KMK.04/1994 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-611kmk041994-tentang-perlakuan-pajak"
+  },
+  {
+   "date_as_written": "1995-11-21 00:00:00",
+   "number_as_written": "539/KMK.01/1995",
+   "retrieved_at": "2026-09-21T14:53:18+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Lampiran Kepmenkeu No.611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pajabat Perwakilan Organisasi Internasional",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/539-kmk-01-1995"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=447",
+   "retrieved_at": "2026-09-21T14:41:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-611kmk041994-tentang-perlakuan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=95",
+   "retrieved_at": "2026-09-21T14:53:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/539-kmk-01-1995",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 611/KMK.04/1994 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL"
+}

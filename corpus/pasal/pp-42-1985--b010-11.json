@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 218,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b010-11",
+ "label": "11",
+ "order": 10,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 11\nHal-hal yang bersangkutan dengan pelaksanaan pemungutan Pajak Penghasilan\n\noleh pihak-pihak sebagaimana dimaksud dalam Pasal 22 Undang-undang Pajak\n\nPenghasilan 1984, diatur lebih lanjut oleh Menteri Keuangan.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

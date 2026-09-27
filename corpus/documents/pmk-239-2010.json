@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-239-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "239",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-239-2010--b000-1",
+  "pmk-239-2010--b001-2",
+  "pmk-239-2010--b002-3",
+  "pmk-239-2010--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-21",
+   "detail_error": null,
+   "number_as_written": "239/PMK.011/2010",
+   "retrieved_at": "2026-09-22T02:48:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN YANG DITERIMA ATAU DIPEROLEH MASYARAKAT YANG TERKENA LUAPAN LUMPUR SIDOARJO UNTUK TAHUN ANGGARAN 2010",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-penghasilan-dari-pengalihan-hak-atas-tanah"
+  },
+  {
+   "date_as_written": "2010-12-21 00:00:00",
+   "number_as_written": "239/PMK.011/2010",
+   "retrieved_at": "2026-09-21T14:38:47+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan yang Diterima atau Diperoleh Masyarakat yang Terkena Luapan Lumpur Sidoarjo untuk Tahun Anggaran 2010.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/239-pmk-011-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=206",
+   "retrieved_at": "2026-09-21T14:23:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-penghasilan-dari-pengalihan-hak-atas-tanah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=346",
+   "retrieved_at": "2026-09-21T14:38:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/239-pmk-011-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5912,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:48:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-penghasilan-dari-pengalihan-hak-atas-tanah"
+ },
+ "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN YANG DITERIMA ATAU DIPEROLEH MASYARAKAT YANG TERKENA LUAPAN LUMPUR SIDOARJO UNTUK TAHUN ANGGARAN 2010"
+}

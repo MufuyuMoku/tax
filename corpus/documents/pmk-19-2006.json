@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-19-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "19",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-19-2006--b000-1",
+  "pmk-19-2006--b001-2",
+  "pmk-19-2006--b002-3",
+  "pmk-19-2006--b003-4",
+  "pmk-19-2006--b004-5",
+  "pmk-19-2006--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-03-13",
+   "detail_error": null,
+   "number_as_written": "19/PMK.02/2006",
+   "retrieved_at": "2026-09-22T03:28:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN ALOKASI SEMENTARA DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2006",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-sementara-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-wajib"
+  },
+  {
+   "date_as_written": "2006-03-13 00:00:00",
+   "number_as_written": "19/PMK.02/2006",
+   "retrieved_at": "2026-09-21T14:45:50+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Alokasi Sementara Dana Bagi Hasil Pajak Pengasilan Pasal 25 dan 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2006.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/19-pmk-02-2006"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=280",
+   "retrieved_at": "2026-09-21T14:28:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-sementara-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-wajib",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=452",
+   "retrieved_at": "2026-09-21T14:45:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/19-pmk-02-2006",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6831,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:28:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-sementara-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-wajib"
+ },
+ "title": "PENETAPAN ALOKASI SEMENTARA DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2006"
+}

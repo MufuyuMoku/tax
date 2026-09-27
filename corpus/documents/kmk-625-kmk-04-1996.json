@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-625-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "625/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-10-31",
+   "detail_error": null,
+   "number_as_written": "625/KMK.04/1996",
+   "retrieved_at": "2026-09-22T04:31:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUBREGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUBREGIONAL ASEAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=439",
+   "retrieved_at": "2026-09-21T14:40:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUBREGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUBREGIONAL ASEAN"
+}

@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-600-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "600/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-12-14",
+   "detail_error": null,
+   "number_as_written": "600/KMK.04/1995",
+   "retrieved_at": "2026-09-22T04:37:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 598/KMK.04/1994 TENTANG PEMOTONGAN PAJAK PENGHASILAN PASAL 21 YANG BERSIFAT FINAL ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-598kmk041994-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=446",
+   "retrieved_at": "2026-09-21T14:41:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-598kmk041994-tentang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 598/KMK.04/1994 TENTANG PEMOTONGAN PAJAK PENGHASILAN PASAL 21 YANG BERSIFAT FINAL ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN TERTENTU"
+}

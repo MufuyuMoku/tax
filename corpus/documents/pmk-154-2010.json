@@ -1,0 +1,154 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-154-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "154",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-154-2010--b000-1",
+  "pmk-154-2010--b001-2",
+  "pmk-154-2010--b002-3",
+  "pmk-154-2010--b003-4",
+  "pmk-154-2010--b004-5",
+  "pmk-154-2010--b005-6",
+  "pmk-154-2010--b006-7",
+  "pmk-154-2010--b007-8",
+  "pmk-154-2010--b008-9",
+  "pmk-154-2010--b009-10",
+  "pmk-154-2010--b010-11",
+  "pmk-154-2010--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-107-2015",
+    "number_as_written": "107/PMK.010/2015",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010 TENTANG PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   },
+   {
+    "id": "pmk-146-2013",
+    "number_as_written": "146/PMK.011/2013",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010 TENTANG PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   },
+   {
+    "id": "pmk-16-2016",
+    "number_as_written": "16/PMK.010/2016",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KELIMA ATAS PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010 TENTANG PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   },
+   {
+    "id": "pmk-224-2012",
+    "number_as_written": "224/PMK.011/2012",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010 TENTANG PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-34-2017",
+    "number_as_written": "34/PMK.010/2017",
+    "quote": "Peraturan Menteri Keuangan Nomor 154/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "title": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "254/KMK.03",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 254/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-254-kmk-03-2001"
+   },
+   {
+    "key": [
+     "PMK",
+     "210",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 210/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-210-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-08-31",
+   "detail_error": null,
+   "number_as_written": "154/PMK.03/2010",
+   "retrieved_at": "2026-09-22T02:49:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran-atas-penyerahan-barang"
+  },
+  {
+   "date_as_written": "2010-08-31 00:00:00",
+   "number_as_written": "154/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:39:18+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=208",
+   "retrieved_at": "2026-09-21T14:23:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran-atas-penyerahan-barang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=354",
+   "retrieved_at": "2026-09-21T14:39:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17708,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:49:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemungutan-pajak-penghasilan-pasal-22-sehubungan-dengan-pembayaran-atas-penyerahan-barang"
+ },
+ "title": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
+}

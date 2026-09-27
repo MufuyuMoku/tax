@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-51-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "51",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-51-2009--b000-1",
+  "per-djp-51-2009--b001-2",
+  "per-djp-51-2009--b002-3",
+  "per-djp-51-2009--b003-4",
+  "per-djp-51-2009--b004-5",
+  "per-djp-51-2009--b005-6",
+  "per-djp-51-2009--b006-7",
+  "per-djp-51-2009--b007-8",
+  "per-djp-51-2009--b008-9",
+  "per-djp-51-2009--b009-10",
+  "per-djp-51-2009--b010-11",
+  "per-djp-51-2009--b011-12",
+  "per-djp-51-2009--b012-13",
+  "per-djp-51-2009--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "213",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-213/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-213-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-09-07",
+   "detail_error": null,
+   "number_as_written": "PER-51/PJ./2009",
+   "retrieved_at": "2026-09-22T03:03:16+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN DAN PENETAPAN BESARAN KUPON MAKANAN DAN/ATAU MINUMAN BAGI PEGAWAI, KRITERIA DAN TATA CARA PENETAPAN DAERAH TERTENTU DAN BATASAN MENGENAI SARANA DAN FASILITAS DI LOKASI KERJA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penetapan-besaran-kupon-makanan-danatau-minuman-bagi-pegawai"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=215",
+   "retrieved_at": "2026-09-21T14:23:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penetapan-besaran-kupon-makanan-danatau-minuman-bagi-pegawai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12774,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:03:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penetapan-besaran-kupon-makanan-danatau-minuman-bagi-pegawai"
+ },
+ "title": "TATA CARA PEMBERIAN DAN PENETAPAN BESARAN KUPON MAKANAN DAN/ATAU MINUMAN BAGI PEGAWAI, KRITERIA DAN TATA CARA PENETAPAN DAERAH TERTENTU DAN BATASAN MENGENAI SARANA DAN FASILITAS DI LOKASI KERJA"
+}

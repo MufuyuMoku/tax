@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-82-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "82",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-82-2009--b000-1",
+  "pmk-82-2009--b001-2",
+  "pmk-82-2009--b002-3",
+  "pmk-82-2009--b003-4",
+  "pmk-82-2009--b004-5",
+  "pmk-82-2009--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-04-22",
+   "detail_error": null,
+   "number_as_written": "82/PMK.03/2009",
+   "retrieved_at": "2026-09-22T03:06:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PERATURAN MENTERI KEUANGAN TENTANG PEMOTONGAN PAJAK PENGHASILAN PASAL 26 ATAS PENGHASILAN DARI PENJUALAN ATAU PENGALIHAN HARTA DI INDONESIA, KECUALI YANG DIATUR DALAM PASAL 4 AYAT (2) UNDANG-UNDANG PAJAK PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK LUAR NEGERI SELAIN BENTUK USAHA TETAP DI INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-tentang-pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan"
+  },
+  {
+   "date_as_written": "2009-04-22 00:00:00",
+   "number_as_written": "82/PMK.03/2009",
+   "retrieved_at": "2026-09-21T14:41:26+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Peraturan Menteri Keuangan tentang Pemotongan Pajak Penghasilan Pasal 26 atas Penghasilan Dari Penjualan atau Pengalihan Harta di Indonesia, Kecuali yang Diatur dalam Pasal 4 Ayat (2) Undang-Undang Pajak Penghasilan yang Diterima atau Diperoleh Wajib Pajak Luar Negeri Selain Bentuk Usaha Tetap di Indonesia.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=218",
+   "retrieved_at": "2026-09-21T14:23:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-tentang-pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=386",
+   "retrieved_at": "2026-09-21T14:41:26+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6389,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:06:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-tentang-pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan"
+ },
+ "title": "PERATURAN MENTERI KEUANGAN TENTANG PEMOTONGAN PAJAK PENGHASILAN PASAL 26 ATAS PENGHASILAN DARI PENJUALAN ATAU PENGALIHAN HARTA DI INDONESIA, KECUALI YANG DIATUR DALAM PASAL 4 AYAT (2) UNDANG-UNDANG PAJAK PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK LUAR NEGERI SELAIN BENTUK USAHA TETAP DI INDONESIA"
+}

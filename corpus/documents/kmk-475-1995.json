@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-475-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "475",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-10-04 00:00:00",
+   "number_as_written": "475 a/KMK 1995",
+   "retrieved_at": "2026-09-21T15:00:36+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemberian Pembebasan Bea Masuk, dan Cukai Serta Pajak Pertambahan Nilai dan Pajak Penghasilan Pasal 22 Tidak Dipungut atas Impor 700.000 Ton Gula Pasir oleh Badan Urusan Logistik (Bulog)",
+   "type_as_written": "Lainnya",
+   "url": "https://jdih.kemenkeu.go.id/dok/475-a-kmk-1995"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Lainnya&order=desc&page=16",
+   "retrieved_at": "2026-09-21T15:00:36+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/475-a-kmk-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pemberian Pembebasan Bea Masuk, dan Cukai Serta Pajak Pertambahan Nilai dan Pajak Penghasilan Pasal 22 Tidak Dipungut atas Impor 700.000 Ton Gula Pasir oleh Badan Urusan Logistik (Bulog)"
+}

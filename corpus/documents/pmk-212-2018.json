@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-212-2018",
+ "identity": {
+  "code": "PMK",
+  "number": "212",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-212-2018--b000-1",
+  "pmk-212-2018--b001-2",
+  "pmk-212-2018--b002-3",
+  "pmk-212-2018--b003-4",
+  "pmk-212-2018--b004-5",
+  "pmk-212-2018--b005-6",
+  "pmk-212-2018--b006-7",
+  "pmk-212-2018--b007-8",
+  "pmk-212-2018--b008-9",
+  "pmk-212-2018--b009-10",
+  "pmk-212-2018--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "51/KMK.04",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 51/KMK.04/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-51-kmk-04-2001"
+   },
+   {
+    "key": [
+     "PMK",
+     "26",
+     "2016",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 26/PMK.010/2016",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-26-2016"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-12-31",
+   "detail_error": null,
+   "number_as_written": "212/PMK.03/2018",
+   "retrieved_at": "2026-09-22T00:47:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat-1"
+  },
+  {
+   "date_as_written": "2018-12-31 00:00:00",
+   "number_as_written": "212/PMK.03/2018",
+   "retrieved_at": "2026-09-21T14:24:58+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan Serta Diskonto Sertifikat Bank Indonesia",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/212-pmk-03-2018"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=117",
+   "retrieved_at": "2026-09-21T14:16:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=144",
+   "retrieved_at": "2026-09-21T14:24:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/212-pmk-03-2018",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14394,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:47:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat-1"
+ },
+ "title": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
+}

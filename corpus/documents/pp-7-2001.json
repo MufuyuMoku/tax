@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-7-2001",
+ "identity": {
+  "code": "PP",
+  "number": "7",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-7-2001--b000-1",
+  "pp-7-2001--b001-2",
+  "pp-7-2001--b002-3",
+  "pp-7-2001--b003-4",
+  "pp-7-2001--b004-5",
+  "pp-7-2001--b005-6",
+  "pp-7-2001--b006-7",
+  "pp-7-2001--b007-8",
+  "pp-7-2001--b008-9",
+  "pp-7-2001--b009-10",
+  "pp-7-2001--p010-1",
+  "pp-7-2001--p011-2",
+  "pp-7-2001--p012-3",
+  "pp-7-2001--p013-4",
+  "pp-7-2001--p014-5",
+  "pp-7-2001--p015-6",
+  "pp-7-2001--p016-7",
+  "pp-7-2001--p017-8",
+  "pp-7-2001--p018-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-02-14",
+   "detail_error": null,
+   "number_as_written": "7 TAHUN 2001",
+   "retrieved_at": "2026-09-22T03:53:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN KERINGANAN PAJAK PENGHASILAN KEPADA WAJIB PAJAK YANG MELAKUKAN RESTRUKTURISASI UTANG USAHA MELALUI LEMBAGA KHUSUS YANG DIBENTUK PEMERINTAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-keringanan-pajak-penghasilan-kepada-wajib-pajak-yang-melakukan-restrukturisasi"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=365",
+   "retrieved_at": "2026-09-21T14:34:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-keringanan-pajak-penghasilan-kepada-wajib-pajak-yang-melakukan-restrukturisasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16286,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:53:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-keringanan-pajak-penghasilan-kepada-wajib-pajak-yang-melakukan-restrukturisasi"
+ },
+ "title": "PEMBERIAN KERINGANAN PAJAK PENGHASILAN KEPADA WAJIB PAJAK YANG MELAKUKAN RESTRUKTURISASI UTANG USAHA MELALUI LEMBAGA KHUSUS YANG DIBENTUK PEMERINTAH"
+}

@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-189-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "189/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-03-23",
+   "detail_error": null,
+   "number_as_written": "189/KMK.04/1998",
+   "retrieved_at": "2026-09-22T04:22:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 185/KMK.04/1998 TENTANG PENGENAAN PAJAK PENGHASILAN ATAS PEMBELIAN VALUTA ASING, SIFAT DAN TATA CARA PELUNASAN SERTA PELAPORANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-republik-indonesia-nomor-185kmk041998-tentang"
+  },
+  {
+   "date_as_written": "1998-03-23 00:00:00",
+   "number_as_written": "189/KMK.04/1998",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Kepmenkeu No. 185/KMK.04/1998 tentang Pengenaan Pajak Penghasilan atas Pembelian Valuta Asing, Sifat dan Tatacara Pelunasannya Serta Pelaporannya",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/189-kmk-04-1998"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=426",
+   "retrieved_at": "2026-09-21T14:39:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-republik-indonesia-nomor-185kmk041998-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=75",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/189-kmk-04-1998",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 185/KMK.04/1998 TENTANG PENGENAAN PAJAK PENGHASILAN ATAS PEMBELIAN VALUTA ASING, SIFAT DAN TATA CARA PELUNASAN SERTA PELAPORANNYA"
+}

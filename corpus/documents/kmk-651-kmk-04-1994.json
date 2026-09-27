@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-651-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "651/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-29",
+   "detail_error": null,
+   "number_as_written": "651/KMK.04/1994",
+   "retrieved_at": "2026-09-22T04:46:18+00:00",
+   "source": "DJP",
+   "title_as_written": "BIDANG PENANAMAN MODAL TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG TIDAK TERMASUK SEBAGAI OBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bidang-penanaman-modal-tertentu-yang-memberikan-penghasilan-kepada-dana-pensiun-yang"
+  },
+  {
+   "date_as_written": "1994-12-29 00:00:00",
+   "number_as_written": "651/KMK.04/1994",
+   "retrieved_at": "2026-09-21T14:53:43+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bidang Penanaman Modal Tertentu yang Memberikan Penghasilan Kepada Dana Pensiun yang Tidak Termasuk Sebagai Obyek Pajak Penghasilan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/651-kmk-04-1994"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=455",
+   "retrieved_at": "2026-09-21T14:42:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bidang-penanaman-modal-tertentu-yang-memberikan-penghasilan-kepada-dana-pensiun-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=101",
+   "retrieved_at": "2026-09-21T14:53:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/651-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BIDANG PENANAMAN MODAL TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG TIDAK TERMASUK SEBAGAI OBJEK PAJAK PENGHASILAN"
+}

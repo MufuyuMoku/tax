@@ -1,0 +1,86 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN KMK744KM042020.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "KMK",
+    "number": "744",
+    "year": "2020"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%20KMK744KM042020.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-744-km-4-2020",
+ "identity": {
+  "code": "KMK",
+  "number": "744/KM.4",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-744-km-4-2020--b000-kedua",
+  "kmk-744-km-4-2020--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "1523/KM.4",
+     "2019",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Republik Indonesia Nomor 1523/KM.4/2019",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-1523-km-4-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-05-29",
+   "detail_error": null,
+   "number_as_written": "744/KM.4/2020",
+   "retrieved_at": "2026-09-22T00:40:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BARANG EKSPOR SUMBER DAYA ALAM DENGAN KEWAJIBAN MEMASUKKAN DEVISA HASIL EKSPOR KE DALAM SISTEM KEUANGAN INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-barang-ekspor-sumber-daya-alam-dengan-kewajiban-memasukkan-devisa-hasil-ekspor"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=97",
+   "retrieved_at": "2026-09-21T14:14:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-barang-ekspor-sumber-daya-alam-dengan-kewajiban-memasukkan-devisa-hasil-ekspor",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3471,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:40:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-barang-ekspor-sumber-daya-alam-dengan-kewajiban-memasukkan-devisa-hasil-ekspor"
+ },
+ "title": "PENETAPAN BARANG EKSPOR SUMBER DAYA ALAM DENGAN KEWAJIBAN MEMASUKKAN DEVISA HASIL EKSPOR KE DALAM SISTEM KEUANGAN INDONESIA"
+}

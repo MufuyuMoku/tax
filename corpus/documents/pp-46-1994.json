@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-46-1994",
+ "identity": {
+  "code": "PP",
+  "number": "46",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-42-2000",
+    "number_as_written": "42 TAHUN 2000",
+    "quote": "Peraturan Pemerintah Nomor 46 Tahun 1994",
+    "source_of_reading": "DJP",
+    "title": "PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-27",
+   "detail_error": null,
+   "number_as_written": "46 TAHUN 1994",
+   "retrieved_at": "2026-09-22T04:49:23+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-bagi-orang-pribadi-yang-bertolak-ke-luar-negeri"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=459",
+   "retrieved_at": "2026-09-21T14:42:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-bagi-orang-pribadi-yang-bertolak-ke-luar-negeri",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI"
+}

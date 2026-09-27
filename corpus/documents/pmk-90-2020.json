@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-90-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "90",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-90-2020--b000-1",
+  "pmk-90-2020--b001-2",
+  "pmk-90-2020--b002-3",
+  "pmk-90-2020--b003-4",
+  "pmk-90-2020--b004-5",
+  "pmk-90-2020--b005-6",
+  "pmk-90-2020--b006-7",
+  "pmk-90-2020--b007-8",
+  "pmk-90-2020--b008-9",
+  "pmk-90-2020--b009-10",
+  "pmk-90-2020--b010-11",
+  "pmk-90-2020--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-114-2025",
+    "number_as_written": "114 TAHUN 2025",
+    "quote": "Peraturan Menteri Keuangan Nomor 90/PMK.03/2020",
+    "source_of_reading": "DJP",
+    "title": "PERLAKUAN ATAS BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB, SERTA HARTA HIBAHAN DALAM PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-07-20",
+   "detail_error": null,
+   "number_as_written": "90/PMK.03/2020",
+   "retrieved_at": "2026-09-22T00:38:54+00:00",
+   "source": "DJP",
+   "title_as_written": "BANTUAN ATAU SUMBANGAN, SERTA HARTA HIBAHAN YANG DIKECUALIKAN SEBAGAI OBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-serta-harta-hibahan-yang-dikecualikan-sebagai-objek-pajak"
+  },
+  {
+   "date_as_written": "2020-07-20 00:00:00",
+   "number_as_written": "90/PMK.03/2020",
+   "retrieved_at": "2026-09-21T14:22:45+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bantuan atau Sumbangan, serta Harta Hibahan yang Dikecualikan sebagai Objek Pajak Penghasilan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-03-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 114 TAHUN 2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=93",
+   "retrieved_at": "2026-09-21T14:14:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-serta-harta-hibahan-yang-dikecualikan-sebagai-objek-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=111",
+   "retrieved_at": "2026-09-21T14:22:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-03-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14531,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:38:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-serta-harta-hibahan-yang-dikecualikan-sebagai-objek-pajak"
+ },
+ "title": "BANTUAN ATAU SUMBANGAN, SERTA HARTA HIBAHAN YANG DIKECUALIKAN SEBAGAI OBJEK PAJAK PENGHASILAN"
+}

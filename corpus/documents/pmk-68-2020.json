@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-68-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "68",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-68-2020--b000-1",
+  "pmk-68-2020--b001-2",
+  "pmk-68-2020--b002-3",
+  "pmk-68-2020--b003-4",
+  "pmk-68-2020--b004-5",
+  "pmk-68-2020--b005-6",
+  "pmk-68-2020--b006-7",
+  "pmk-68-2020--b007-8",
+  "pmk-68-2020--b008-9",
+  "pmk-68-2020--b009-10",
+  "pmk-68-2020--b010-11",
+  "pmk-68-2020--b011-12",
+  "pmk-68-2020--b012-13",
+  "pmk-68-2020--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "246",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 246/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-246-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "154",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 154/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-154-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "80",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 80/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-80-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-06-15",
+   "detail_error": null,
+   "number_as_written": "68/PMK.03/2020",
+   "retrieved_at": "2026-09-22T00:39:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN ATAS BEASISWA YANG MEMENUHI PERSYARATAN TERTENTU DAN SISA LEBIH YANG DITERIMA ATAU DIPEROLEH BADAN ATAU LEMBAGA NIRLABA YANG BERGERAK DALAM BIDANG PENDIDIKAN DAN/ATAU BIDANG PENELITIAN DAN PENGEMBANGAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-beasiswa-yang-memenuhi-persyaratan-tertentu-dan-sisa"
+  },
+  {
+   "date_as_written": "2020-06-15 00:00:00",
+   "number_as_written": "68/PMK.03/2020",
+   "retrieved_at": "2026-09-21T14:22:57+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Penghasilan atas Beasiswa yang Memenuhi Persyaratan Tertentu dan Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan Dan/ atau Bidang Penelitian dan Pengembangan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=95",
+   "retrieved_at": "2026-09-21T14:14:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-beasiswa-yang-memenuhi-persyaratan-tertentu-dan-sisa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=114",
+   "retrieved_at": "2026-09-21T14:22:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17644,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:39:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-atas-beasiswa-yang-memenuhi-persyaratan-tertentu-dan-sisa"
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN ATAS BEASISWA YANG MEMENUHI PERSYARATAN TERTENTU DAN SISA LEBIH YANG DITERIMA ATAU DIPEROLEH BADAN ATAU LEMBAGA NIRLABA YANG BERGERAK DALAM BIDANG PENDIDIKAN DAN/ATAU BIDANG PENELITIAN DAN PENGEMBANGAN"
+}

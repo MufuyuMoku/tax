@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-3-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-02-20 00:00:00",
+   "number_as_written": "PER-03/PJ/2020",
+   "retrieved_at": "2026-09-21T14:57:01+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan atau Telah Mendapatkan Izin dari Otoritas Jasa Keuangan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-03-pj-2020"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=26",
+   "retrieved_at": "2026-09-21T14:57:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-03-pj-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan atau Telah Mendapatkan Izin dari Otoritas Jasa Keuangan"
+}

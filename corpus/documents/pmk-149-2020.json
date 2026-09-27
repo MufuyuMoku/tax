@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-149-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "149",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-149-2020--b000-i",
+  "pmk-149-2020--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 34/PMK.04/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-34-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-10-08",
+   "detail_error": null,
+   "number_as_written": "149/PMK.04/2020",
+   "retrieved_at": "2026-09-22T00:35:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR BARANG UNTUK KEPERLUAN PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=89",
+   "retrieved_at": "2026-09-21T14:14:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9460,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:35:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR BARANG UNTUK KEPERLUAN PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

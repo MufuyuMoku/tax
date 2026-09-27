@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-57-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "57",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-57-2009--b000-i",
+  "per-djp-57-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "31",
+     "2009",
+     null
+    ],
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-31/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-31-2009"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-31-2012",
+    "number_as_written": "PER-31/PJ/2012",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-57/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-10-12",
+   "detail_error": null,
+   "number_as_written": "PER-57/PJ/2009",
+   "retrieved_at": "2026-09-22T02:59:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIRJEN PAJAK NOMOR PER-31/PJ./2009 TENTANG PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-dirjen-pajak-nomor-31pj2009-tentang-pedoman-teknis-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=214",
+   "retrieved_at": "2026-09-21T14:23:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-dirjen-pajak-nomor-31pj2009-tentang-pedoman-teknis-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10119,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:59:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-dirjen-pajak-nomor-31pj2009-tentang-pedoman-teknis-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIRJEN PAJAK NOMOR PER-31/PJ./2009 TENTANG PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+}

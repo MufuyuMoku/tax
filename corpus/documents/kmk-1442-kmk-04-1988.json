@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-1442-kmk-04-1988",
+ "identity": {
+  "code": "KMK",
+  "number": "1442/KMK.04",
+  "variant": null,
+  "year": "1988"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1988-11-14",
+   "detail_error": null,
+   "number_as_written": "1442/KMK.04/1988",
+   "retrieved_at": "2026-09-22T05:06:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGEMBALIAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengembalian-pajak-penghasilan-atas-bunga-deposito-berjangka-sertifikat-deposito-dan"
+  },
+  {
+   "date_as_written": "1988-11-14 00:00:00",
+   "number_as_written": "1442/KMK.04/1988",
+   "retrieved_at": "2026-09-21T14:54:43+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengembalian Pajak Penghasilan Atas Bunga Deposito Berjangka, Sertifikat Deposito Dan Tabungan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/1442-kmk-04-1988"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=481",
+   "retrieved_at": "2026-09-21T14:44:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengembalian-pajak-penghasilan-atas-bunga-deposito-berjangka-sertifikat-deposito-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=116",
+   "retrieved_at": "2026-09-21T14:54:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/1442-kmk-04-1988",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGEMBALIAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
+}

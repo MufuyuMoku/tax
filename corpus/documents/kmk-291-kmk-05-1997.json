@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-291-kmk-05-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "291/KMK.05",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-291-kmk-05-1997--b000-1",
+  "kmk-291-kmk-05-1997--b001-2",
+  "kmk-291-kmk-05-1997--b002-3",
+  "kmk-291-kmk-05-1997--b003-4",
+  "kmk-291-kmk-05-1997--b004-5",
+  "kmk-291-kmk-05-1997--b005-6",
+  "kmk-291-kmk-05-1997--b006-7",
+  "kmk-291-kmk-05-1997--b007-8",
+  "kmk-291-kmk-05-1997--b008-9",
+  "kmk-291-kmk-05-1997--b009-10",
+  "kmk-291-kmk-05-1997--b010-11",
+  "kmk-291-kmk-05-1997--b011-12",
+  "kmk-291-kmk-05-1997--b012-13",
+  "kmk-291-kmk-05-1997--b013-14",
+  "kmk-291-kmk-05-1997--b014-15",
+  "kmk-291-kmk-05-1997--b015-16",
+  "kmk-291-kmk-05-1997--b016-17",
+  "kmk-291-kmk-05-1997--b017-18",
+  "kmk-291-kmk-05-1997--b018-19",
+  "kmk-291-kmk-05-1997--b019-20",
+  "kmk-291-kmk-05-1997--b020-21",
+  "kmk-291-kmk-05-1997--b021-22",
+  "kmk-291-kmk-05-1997--b022-23",
+  "kmk-291-kmk-05-1997--b023-24",
+  "kmk-291-kmk-05-1997--b024-25",
+  "kmk-291-kmk-05-1997--b025-26",
+  "kmk-291-kmk-05-1997--b026-27",
+  "kmk-291-kmk-05-1997--b027-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-06-26",
+   "detail_error": null,
+   "number_as_written": "291/KMK.05/1997",
+   "retrieved_at": "2026-09-22T04:27:32+00:00",
+   "source": "DJP",
+   "title_as_written": "KAWASAN BERIKAT",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/kawasan-berikat-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=436",
+   "retrieved_at": "2026-09-21T14:40:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kawasan-berikat-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 27306,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:27:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kawasan-berikat-0"
+ },
+ "title": "KAWASAN BERIKAT"
+}

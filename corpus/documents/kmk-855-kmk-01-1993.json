@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-855-kmk-01-1993",
+ "identity": {
+  "code": "KMK",
+  "number": "855/KMK.01",
+  "variant": null,
+  "year": "1993"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1993-10-23",
+   "detail_error": null,
+   "number_as_written": "855/KMK.01/1993",
+   "retrieved_at": "2026-09-22T04:55:06+00:00",
+   "source": "DJP",
+   "title_as_written": "ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/entrepot-produksi-untuk-tujuan-ekspor-epte-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=466",
+   "retrieved_at": "2026-09-21T14:43:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/entrepot-produksi-untuk-tujuan-ekspor-epte-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)"
+}

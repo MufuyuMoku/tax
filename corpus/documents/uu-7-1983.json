@@ -1,0 +1,191 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "uu-7-1983",
+ "identity": {
+  "code": "UU",
+  "number": "7",
+  "variant": null,
+  "year": "1983"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "uu-7-1983--b000-1",
+  "uu-7-1983--b001-2",
+  "uu-7-1983--b002-3",
+  "uu-7-1983--b003-4",
+  "uu-7-1983--b004-5",
+  "uu-7-1983--b005-6",
+  "uu-7-1983--b006-7",
+  "uu-7-1983--b007-8",
+  "uu-7-1983--b008-9",
+  "uu-7-1983--b009-10",
+  "uu-7-1983--b010-11",
+  "uu-7-1983--b011-12",
+  "uu-7-1983--b012-13",
+  "uu-7-1983--b013-14",
+  "uu-7-1983--b014-15",
+  "uu-7-1983--b015-16",
+  "uu-7-1983--b016-17",
+  "uu-7-1983--b017-18",
+  "uu-7-1983--b018-19",
+  "uu-7-1983--b019-20",
+  "uu-7-1983--b020-21",
+  "uu-7-1983--b021-22",
+  "uu-7-1983--b022-23",
+  "uu-7-1983--b023-24",
+  "uu-7-1983--b024-25",
+  "uu-7-1983--b025-26",
+  "uu-7-1983--b026-27",
+  "uu-7-1983--b027-28",
+  "uu-7-1983--b028-29",
+  "uu-7-1983--b029-30",
+  "uu-7-1983--b030-31",
+  "uu-7-1983--b031-32",
+  "uu-7-1983--b032-33",
+  "uu-7-1983--b033-34",
+  "uu-7-1983--b034-35",
+  "uu-7-1983--b035-36",
+  "uu-7-1983--p036-1",
+  "uu-7-1983--p037-2",
+  "uu-7-1983--p038-3",
+  "uu-7-1983--p039-4",
+  "uu-7-1983--p040-5",
+  "uu-7-1983--p041-6",
+  "uu-7-1983--p042-7",
+  "uu-7-1983--p043-8",
+  "uu-7-1983--p044-9",
+  "uu-7-1983--p045-10",
+  "uu-7-1983--p046-11",
+  "uu-7-1983--p047-12",
+  "uu-7-1983--p048-13",
+  "uu-7-1983--p049-14",
+  "uu-7-1983--p050-15",
+  "uu-7-1983--p051-16",
+  "uu-7-1983--p052-17",
+  "uu-7-1983--p053-18",
+  "uu-7-1983--p054-19",
+  "uu-7-1983--p055-20",
+  "uu-7-1983--p056-21",
+  "uu-7-1983--p057-22",
+  "uu-7-1983--p058-23",
+  "uu-7-1983--p059-24",
+  "uu-7-1983--p060-25",
+  "uu-7-1983--p061-26",
+  "uu-7-1983--p062-27",
+  "uu-7-1983--p063-28",
+  "uu-7-1983--p064-29",
+  "uu-7-1983--p065-30",
+  "uu-7-1983--p066-31",
+  "uu-7-1983--p067-32",
+  "uu-7-1983--p068-33",
+  "uu-7-1983--p069-34",
+  "uu-7-1983--p070-35",
+  "uu-7-1983--p071-36"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "uu-10-1994",
+    "number_as_written": "10 TAHUN 1994",
+    "quote": "UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991"
+   },
+   {
+    "id": "uu-17-2000",
+    "number_as_written": "17 TAHUN 2000",
+    "quote": "UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN"
+   },
+   {
+    "id": "uu-36-2008",
+    "number_as_written": "36 TAHUN 2008",
+    "quote": "UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN"
+   },
+   {
+    "id": "uu-7-1991",
+    "number_as_written": "7 TAHUN 1991",
+    "quote": "UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1983-12-31",
+   "detail_error": null,
+   "number_as_written": "7 TAHUN 1983",
+   "retrieved_at": "2026-09-21T14:04:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+  },
+  {
+   "date_as_written": "1983-12-31 00:00:00",
+   "number_as_written": "UU 7 TAHUN 1983",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1983"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=493",
+   "retrieved_at": "2026-09-21T14:03:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1983",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 162686,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:04:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+ },
+ "title": "PAJAK PENGHASILAN"
+}

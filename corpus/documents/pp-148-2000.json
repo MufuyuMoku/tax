@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-148-2000",
+ "identity": {
+  "code": "PP",
+  "number": "148",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-1-2007",
+    "number_as_written": "1 TAHUN 2007",
+    "quote": "Peraturan Pemerintah Nomor 148 Tahun 2000",
+    "source_of_reading": "DJP",
+    "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-23",
+   "detail_error": null,
+   "number_as_written": "148 TAHUN 2000",
+   "retrieved_at": "2026-09-22T03:56:45+00:00",
+   "source": "DJP",
+   "title_as_written": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-dan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=370",
+   "retrieved_at": "2026-09-21T14:35:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-tertentu-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN ATAU DI DAERAH-DAERAH TERTENTU"
+}

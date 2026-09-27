@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-30-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "30/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-02-02",
+   "detail_error": null,
+   "number_as_written": "30/KMK.04/1998",
+   "retrieved_at": "2026-09-22T04:23:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 638/KMK.04/1994 TENTANG PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-638kmk041994-tentang"
+  },
+  {
+   "date_as_written": "1998-02-02 00:00:00",
+   "number_as_written": "30/KMK.04/1998",
+   "retrieved_at": "2026-09-21T14:52:13+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan No.638/KMK.04/1998 tentang Pelaksanaan Pembayaran Pajak Penghasilan Bagi Orang Pribadi yang Bertolak Ke Luar Negeri,",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/30-kmk-04-1998"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=429",
+   "retrieved_at": "2026-09-21T14:39:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-638kmk041994-tentang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=79",
+   "retrieved_at": "2026-09-21T14:52:13+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/30-kmk-04-1998",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 638/KMK.04/1994 TENTANG PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI"
+}

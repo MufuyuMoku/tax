@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-62-2008",
+ "identity": {
+  "code": "PP",
+  "number": "62",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-62-2008--b000-i",
+  "pp-62-2008--b001-ii",
+  "pp-62-2008--p002-i",
+  "pp-62-2008--p003-4",
+  "pp-62-2008--p004-4a",
+  "pp-62-2008--p005-5",
+  "pp-62-2008--p006-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "1",
+     "2007",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007",
+    "source_of_reading": "DJP",
+    "target_id": "pp-1-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-09-23",
+   "detail_error": null,
+   "number_as_written": "62 TAHUN 2008",
+   "retrieved_at": "2026-09-22T03:16:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak"
+  },
+  {
+   "date_as_written": "2008-09-23 00:00:00",
+   "number_as_written": "PP 62 TAHUN 2008",
+   "retrieved_at": "2026-09-21T14:10:09+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-62-tahun-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=227",
+   "retrieved_at": "2026-09-21T14:24:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=68",
+   "retrieved_at": "2026-09-21T14:10:09+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-62-tahun-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 6013,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:16:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+}

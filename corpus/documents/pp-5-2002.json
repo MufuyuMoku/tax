@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-5-2002",
+ "identity": {
+  "code": "PP",
+  "number": "5",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-5-2002--b000-i",
+  "pp-5-2002--b001-ii",
+  "pp-5-2002--p002-i",
+  "pp-5-2002--p003-2",
+  "pp-5-2002--p004-3",
+  "pp-5-2002--p005-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "29",
+     "1996",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 29 TAHUN 1996",
+    "source_of_reading": "DJP",
+    "target_id": "pp-29-1996"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pp-34-2017",
+    "number_as_written": "34 TAHUN 2017",
+    "quote": "Peraturan Pemerintah Nomor 5 Tahun 2002",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI PERSEWAAN TANAH DAN/ATAU BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-23",
+   "detail_error": null,
+   "number_as_written": "5 TAHUN 2002",
+   "retrieved_at": "2026-09-22T03:42:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 29 TAHUN 1996 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PERSEWAAN TANAH DAN/ATAU BANGUNAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-29-tahun-1996-tentang-pembayaran-pajak"
+  },
+  {
+   "date_as_written": "2002-03-23 00:00:00",
+   "number_as_written": "PP 5 TAHUN 2002",
+   "retrieved_at": "2026-09-21T14:11:20+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 1996 Pajak Penghasilan atas Penghasilan Dari Persewaan Tanah dan/atau Bangunan",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-5-tahun-2002"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=340",
+   "retrieved_at": "2026-09-21T14:32:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-29-tahun-1996-tentang-pembayaran-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=86",
+   "retrieved_at": "2026-09-21T14:11:20+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-5-tahun-2002",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4453,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:42:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-29-tahun-1996-tentang-pembayaran-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 29 TAHUN 1996 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PERSEWAAN TANAH DAN/ATAU BANGUNAN"
+}

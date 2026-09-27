@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-249-kmk-01-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "249/KMK.01",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-06-21 00:00:00",
+   "number_as_written": "249/KMK.01/1994",
+   "retrieved_at": "2026-09-21T14:54:23+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pembebasan Bea Masuk, Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 100.000 Ton Minyak Goreng (Palm Oil) Hs.1511.90.000 oleh Badan Urusan Logistik (Bulog)",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/249-kmk-01-1994"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=111",
+   "retrieved_at": "2026-09-21T14:54:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/249-kmk-01-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pembebasan Bea Masuk, Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 100.000 Ton Minyak Goreng (Palm Oil) Hs.1511.90.000 oleh Badan Urusan Logistik (Bulog)"
+}

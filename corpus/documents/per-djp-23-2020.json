@@ -1,0 +1,132 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER23PJ2020.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "23",
+    "year": "2020"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER23PJ2020.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-23-2020--b000-1",
+  "per-djp-23-2020--b001-2",
+  "per-djp-23-2020--b002-3",
+  "per-djp-23-2020--b003-4",
+  "per-djp-23-2020--b004-5",
+  "per-djp-23-2020--b005-6",
+  "per-djp-23-2020--b006-7",
+  "per-djp-23-2020--b007-8",
+  "per-djp-23-2020--b008-8",
+  "per-djp-23-2020--b009-10",
+  "per-djp-23-2020--b010-11",
+  "per-djp-23-2020--b011-12",
+  "per-djp-23-2020--b012-13",
+  "per-djp-23-2020--b013-14",
+  "per-djp-23-2020--b014-15",
+  "per-djp-23-2020--b015-16"
+ ],
+ "quality_flags": [
+  "urutan_loncat:8->8,8->10",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-24-2021",
+    "number_as_written": "PER-24/PJ/2021",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2020",
+    "source_of_reading": "DJP",
+    "title": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN/PEMUNGUTAN UNIFIKASI SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN UNIFIKASI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "20",
+     "2019",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2019",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-20-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-12-28",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2020",
+   "retrieved_at": "2026-09-22T00:34:19+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN/PEMUNGUTAN UNIFIKASI SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN UNIFIKASI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pembuatan-bukti-pemotonganpemungutan-unifikasi-serta-bentuk-isi-tata"
+  },
+  {
+   "date_as_written": "2020-12-28 00:00:00",
+   "number_as_written": "PER-23/PJ/2020",
+   "retrieved_at": "2026-09-21T14:56:41+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bentuk dan Tata Cara Pembuatan Bukti Pemotongan/Pemungutan Unifikasi serta Bentuk, Isi, Tata Cara Pengisian dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-23-pj-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-24/PJ/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=83",
+   "retrieved_at": "2026-09-21T14:13:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pembuatan-bukti-pemotonganpemungutan-unifikasi-serta-bentuk-isi-tata",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=21",
+   "retrieved_at": "2026-09-21T14:56:41+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-23-pj-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 28112,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:34:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pembuatan-bukti-pemotonganpemungutan-unifikasi-serta-bentuk-isi-tata"
+ },
+ "title": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN/PEMUNGUTAN UNIFIKASI SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN UNIFIKASI"
+}

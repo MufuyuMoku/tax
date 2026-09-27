@@ -1,0 +1,176 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-238-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "238",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-238-2016--b000-i",
+  "pmk-238-2016--b001-2"
+ ],
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "516/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 516/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-516-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "517/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 517/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-517-kmk-04-2000"
+   },
+   {
+    "key": [
+     "PMK",
+     "168",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 168/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-168-2007"
+   },
+   {
+    "key": [
+     "KMK",
+     "538/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 538/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-538-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "561/KMK.04",
+     "2004",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 561/KMK.04/2004",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-561-kmk-04-2004"
+   },
+   {
+    "key": [
+     "PMK",
+     "92",
+     "2006",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 92/PMK.03/2006",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-92-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "163",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 163/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-163-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "43",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 43/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-43-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "49",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 49/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-49-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "146",
+     "2012",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 146/PMK.03/2012",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-146-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-12-30",
+   "detail_error": null,
+   "number_as_written": "238/PMK.03/2016",
+   "retrieved_at": "2026-09-22T02:19:07+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PERPAJAKAN MENIMBANG DALAM RANGKA SIMPLIFIKASI REGULASI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-dan-peraturan-menteri-keuangan-di-bidang-perpajakan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=140",
+   "retrieved_at": "2026-09-21T14:17:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-dan-peraturan-menteri-keuangan-di-bidang-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7168,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:19:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-dan-peraturan-menteri-keuangan-di-bidang-perpajakan"
+ },
+ "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PERPAJAKAN MENIMBANG DALAM RANGKA SIMPLIFIKASI REGULASI"
+}

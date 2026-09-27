@@ -1,0 +1,151 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_141_PMK.010_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "141",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_141_PMK.010_2021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-141-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "141",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-141-2021--b000-1",
+  "pmk-141-2021--b001-2",
+  "pmk-141-2021--b002-3",
+  "pmk-141-2021--b003-4",
+  "pmk-141-2021--b004-5",
+  "pmk-141-2021--b005-6",
+  "pmk-141-2021--b006-7",
+  "pmk-141-2021--b007-8",
+  "pmk-141-2021--b008-9",
+  "pmk-141-2021--b009-10",
+  "pmk-141-2021--b010-11",
+  "pmk-141-2021--b011-12",
+  "pmk-141-2021--b012-13",
+  "pmk-141-2021--b013-14",
+  "pmk-141-2021--b014-15",
+  "pmk-141-2021--b015-16",
+  "pmk-141-2021--b016-17",
+  "pmk-141-2021--b017-18",
+  "pmk-141-2021--b018-19",
+  "pmk-141-2021--b019-20",
+  "pmk-141-2021--b020-21",
+  "pmk-141-2021--b021-22",
+  "pmk-141-2021--b022-23",
+  "pmk-141-2021--b023-24",
+  "pmk-141-2021--b024-25",
+  "pmk-141-2021--b025-26",
+  "pmk-141-2021--b026-27",
+  "pmk-141-2021--b027-28",
+  "pmk-141-2021--b028-29",
+  "pmk-141-2021--b029-30",
+  "pmk-141-2021--b030-31",
+  "pmk-141-2021--b031-33",
+  "pmk-141-2021--b032-34",
+  "pmk-141-2021--b033-35",
+  "pmk-141-2021--b034-36",
+  "pmk-141-2021--b035-37",
+  "pmk-141-2021--b036-38",
+  "pmk-141-2021--b037-39",
+  "pmk-141-2021--b038-40",
+  "pmk-141-2021--b039-41",
+  "pmk-141-2021--b040-42",
+  "pmk-141-2021--b041-43",
+  "pmk-141-2021--b042-44"
+ ],
+ "quality_flags": [
+  "urutan_loncat:31->33"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "133B/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-133b-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "133A/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 133a/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-133a-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "133C/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 133c/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-133c-kmk-04-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-10-07",
+   "detail_error": null,
+   "number_as_written": "141/PMK.010/2021",
+   "retrieved_at": "2026-09-22T00:29:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGENAAN, PEMBERIAN DAN PENATAUSAHMN PEMBEBASAN, DAN PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah-dan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=70",
+   "retrieved_at": "2026-09-21T14:12:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 54813,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:29:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah-dan"
+ },
+ "title": "PENETAPAN JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGENAAN, PEMBERIAN DAN PENATAUSAHMN PEMBEBASAN, DAN PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

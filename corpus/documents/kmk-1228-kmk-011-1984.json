@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-1228-kmk-011-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "1228/KMK.011",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-12-08",
+   "detail_error": null,
+   "number_as_written": "1228/KMK.011/1984",
+   "retrieved_at": "2026-09-22T05:11:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 957/KMK.04/1983 TANGGAL 31 DESEMBER 1983 TENTANG PENENTUAN BIDANG-BIDANG TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG TIDAK TERMASUK SEBAGAI OBYEK PAJAK DARI PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-republik-indonesia-nomor-957kmk041983-tanggal-31"
+  },
+  {
+   "date_as_written": "1984-12-08 00:00:00",
+   "number_as_written": "1228/KMK.011/1984",
+   "retrieved_at": "2026-09-21T14:54:51+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyempurnaan Keputusan Menteri Keuangan Republik Indonesia Nomor 957/KMK.04/1983 Tanggal 31 Desember 1983 Tentang Penentuan Bidang-Bidang Tertentu Yang Memberikan Penghasilan Kepada Dana Pensiun Yang Tidak Termasuk Sebagai Obyek Pajak Dari Pajak Penghasilan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/1228-kmk-011-1984"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=487",
+   "retrieved_at": "2026-09-21T14:44:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-republik-indonesia-nomor-957kmk041983-tanggal-31",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=118",
+   "retrieved_at": "2026-09-21T14:54:51+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/1228-kmk-011-1984",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 957/KMK.04/1983 TANGGAL 31 DESEMBER 1983 TENTANG PENENTUAN BIDANG-BIDANG TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG TIDAK TERMASUK SEBAGAI OBYEK PAJAK DARI PAJAK PENGHASILAN"
+}

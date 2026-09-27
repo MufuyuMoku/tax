@@ -1,0 +1,124 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-356-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "356/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-penghasilan-1984"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 6 SAMPAI DENGAN 12 NOVEMBER 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-95"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 12 SAMPAI DENGAN 18 MARET 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-110"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN JULI, AGUSTUS DAN SEPTEMBER 1990",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-268"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN APRIL, MEI DAN JUNI 1995",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-283"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "JANGKA WAKTU PENYELESAIAN PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK BAGI WAJIB PAJAK YANG MELAKUKAN KEGIATAN TERTENTU",
+    "url": "https://www.pajak.go.id/id/peraturan/jangka-waktu-penyelesaian-permohonan-pengembalian-kelebihan-pembayaran-pajak-bagi-wajib"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI TENAGA AHLI ATAU PERSEKUTUAN TENAGA AHLI SEBAGAI WAJIB PAJAK DALAM NEGERI BERUPA HONORARIUM ATAU PEMBAYARAN LAIN SEBAGAI IMBALAN ATAS JASA YANG DILAKUKAN DI INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemotongan-pajak-penghasilan-atas-penghasilan-sehubungan-dengan-pekerjaan-2"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-05-10",
+   "detail_error": null,
+   "number_as_written": "356/KMK.04/1986",
+   "retrieved_at": "2026-09-22T05:08:23+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI TENAGA AHLI ATAU PERSEKUTUAN TENAGA AHLI SEBAGAI WAJIB PAJAK DALAM NEGERI BERUPA HONORARIUM ATAU PEMBAYARAN LAIN SEBAGAI IMBALAN ATAS JASA PROFESI YANG DILAKUKAN DI INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemotongan-pajak-penghasilan-atas-penghasilan-sehubungan-dengan-pekerjaan"
+  },
+  {
+   "date_as_written": "1986-05-10 00:00:00",
+   "number_as_written": "356/KMK.04/1986",
+   "retrieved_at": "2026-09-21T14:54:47+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pemotongan Pajak Penghasilan Atas Penghasilan Sehubungan Dengan Pekerjaan Dari Tenaga Ahli Atau Persekutuan Tenaga Ahli Sebagai Wajib Pajak Dalam Negeri Berupa Honorarium Atau Pembayaran Lain Sebagai Imbalan Atas Jasa Profesi Yang Dilakukan Di Indonesia",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/356-kmk-04-1986"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=484",
+   "retrieved_at": "2026-09-21T14:44:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemotongan-pajak-penghasilan-atas-penghasilan-sehubungan-dengan-pekerjaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=117",
+   "retrieved_at": "2026-09-21T14:54:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/356-kmk-04-1986",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI TENAGA AHLI ATAU PERSEKUTUAN TENAGA AHLI SEBAGAI WAJIB PAJAK DALAM NEGERI BERUPA HONORARIUM ATAU PEMBAYARAN LAIN SEBAGAI IMBALAN ATAS JASA PROFESI YANG DILAKUKAN DI INDONESIA"
+}

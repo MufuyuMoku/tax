@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-564-kmk-03-2004",
+ "identity": {
+  "code": "KMK",
+  "number": "564/KMK.03",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-11-29 00:00:00",
+   "number_as_written": "564/KMK.03/2004",
+   "retrieved_at": "2026-09-21T14:48:03+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyesuaian Besarnya Penghasilan Tidak Kena Pajak.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/564-kmk-03-2004"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=16",
+   "retrieved_at": "2026-09-21T14:48:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/564-kmk-03-2004",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Penyesuaian Besarnya Penghasilan Tidak Kena Pajak."
+}

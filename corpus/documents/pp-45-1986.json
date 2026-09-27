@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-45-1986",
+ "identity": {
+  "code": "PP",
+  "number": "45",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-10-02",
+   "detail_error": null,
+   "number_as_written": "45 TAHUN 1986",
+   "retrieved_at": "2026-09-22T05:07:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN HARGA ATAU NILAI PEROLEHAN HARTA BERKENAAN DENGAN PERUBAHAN NILAI TUKAR RUPIAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-harga-atau-nilai-perolehan-harta-berkenaan-dengan-perubahan-nilai-tukar"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=483",
+   "retrieved_at": "2026-09-21T14:44:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-harga-atau-nilai-perolehan-harta-berkenaan-dengan-perubahan-nilai-tukar",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYESUAIAN HARGA ATAU NILAI PEROLEHAN HARTA BERKENAAN DENGAN PERUBAHAN NILAI TUKAR RUPIAH"
+}

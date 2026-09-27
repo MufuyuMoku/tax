@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 342,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b009-10",
+ "label": "10",
+ "order": 9,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 10\nHal-hal yang bersangkutan dengan pelaksanaan pemotongan Pajak Penghasilan\n\noleh pihak-pihak sebagaimana dimaksud dalam Pasal 21 Undang-undang Pajak \n\nPenghasilan 1984 atas penghasilan pegawai atau karyawan harian lepas dengan\n\nupah harian atau mingguan serta penghasilan berupa honorarium, diatur lebih\n\nlanjut oleh Menteri Keuangan.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

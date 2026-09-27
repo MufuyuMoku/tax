@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "nd-djp-115-2020",
+ "identity": {
+  "code": "ND-DJP",
+  "number": "115",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-01-24",
+   "detail_error": null,
+   "number_as_written": "115/PJ.03/2020",
+   "retrieved_at": "2026-09-22T00:41:59+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN TERKAIT PEMBERLAKUAN PMK 128/PMK.010/2019",
+   "type_as_written": "Nota Dinas Direktur Jenderal Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-terkait-pemberlakuan-pmk-128pmk0102019"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=103",
+   "retrieved_at": "2026-09-21T14:15:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-terkait-pemberlakuan-pmk-128pmk0102019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3470,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:41:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-terkait-pemberlakuan-pmk-128pmk0102019"
+ },
+ "title": "KETENTUAN TERKAIT PEMBERLAKUAN PMK 128/PMK.010/2019"
+}

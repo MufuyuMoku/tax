@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-520-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "520/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-96-2009",
+    "number_as_written": "96/PMK.03/2009",
+    "quote": "Keputusan Menteri Keuangan nomor 520/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "JENIS-JENIS HARTA YANG TERMASUK DALAM KELOMPOK HARTA BERWUJUD BUKAN BANGUNAN UNTUK KEPERLUAN PENYUSUTAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-14",
+   "detail_error": null,
+   "number_as_written": "520/KMK.04/2000",
+   "retrieved_at": "2026-09-22T03:58:53+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS-JENIS HARTA YANG TERMASUK DALAM KELOMPOK HARTA BERWUJUD BUKAN BANGUNAN UNTUK KEPERLUAN PENYUSUTAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jenis-harta-yang-termasuk-dalam-kelompok-harta-berwujud-bukan-bangunan-untuk"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=373",
+   "retrieved_at": "2026-09-21T14:35:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jenis-harta-yang-termasuk-dalam-kelompok-harta-berwujud-bukan-bangunan-untuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "JENIS-JENIS HARTA YANG TERMASUK DALAM KELOMPOK HARTA BERWUJUD BUKAN BANGUNAN UNTUK KEPERLUAN PENYUSUTAN"
+}

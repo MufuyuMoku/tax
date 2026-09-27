@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-8-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "8",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-8-2014--b000-1",
+  "per-djp-8-2014--b001-2",
+  "per-djp-8-2014--b002-3",
+  "per-djp-8-2014--b003-4",
+  "per-djp-8-2014--b004-5",
+  "per-djp-8-2014--b005-6",
+  "per-djp-8-2014--b006-7",
+  "per-djp-8-2014--b007-8",
+  "per-djp-8-2014--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-19-2021",
+    "number_as_written": "PER-19/PJ/2021",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2014",
+    "source_of_reading": "DJP",
+    "title": "PERHITUNGAN POTENSI PAJAK ATAS BELANJA DAERAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-03-21",
+   "detail_error": null,
+   "number_as_written": "PER-08/PJ/2014",
+   "retrieved_at": "2026-09-22T02:30:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAWASAN TERHADAP PEMOTONGAN/PEMUNGUTAN DAN PENYETORAN PAJAK YANG DILAKUKAN OLEH BENDAHARA PENGELUARAN SATUAN KERJA PERANGKAT DAERAH/ KUASA BENDAHARA UMUM DAERAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-19/PJ/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=179",
+   "retrieved_at": "2026-09-21T14:21:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13702,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:30:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh"
+ },
+ "title": "PENGAWASAN TERHADAP PEMOTONGAN/PEMUNGUTAN DAN PENYETORAN PAJAK YANG DILAKUKAN OLEH BENDAHARA PENGELUARAN SATUAN KERJA PERANGKAT DAERAH/ KUASA BENDAHARA UMUM DAERAH"
+}

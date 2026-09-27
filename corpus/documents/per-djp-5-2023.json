@@ -1,0 +1,78 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER5PJ2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "5",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER5PJ2023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-5-2023",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-5-2023--b000-1",
+  "per-djp-5-2023--b001-2",
+  "per-djp-5-2023--b002-3",
+  "per-djp-5-2023--b003-4",
+  "per-djp-5-2023--b004-5",
+  "per-djp-5-2023--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-05-09",
+   "detail_error": null,
+   "number_as_written": "PER-5/PJ/2023",
+   "retrieved_at": "2026-09-22T00:21:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PERCEPATAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/percepatan-pengembalian-kelebihan-pembayaran-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=47",
+   "retrieved_at": "2026-09-21T14:11:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/percepatan-pengembalian-kelebihan-pembayaran-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11834,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:21:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/percepatan-pengembalian-kelebihan-pembayaran-pajak"
+ },
+ "title": "PERCEPATAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK"
+}

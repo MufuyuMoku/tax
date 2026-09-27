@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-218-1998",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "218",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-10-12",
+   "detail_error": null,
+   "number_as_written": "KEP - 218/PJ./1998",
+   "retrieved_at": "2026-09-22T04:18:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-01/PJ.7/1991 TENTANG NORMA PENGHITUNGAN PENGHASILAN NETO DAN TATA CARA PEMBUATAN CATATAN BAGI WAJIB PAJAK YANG DAPAT MENGHITUNG PENGHASILAN NETO DENGAN MENGGUNAKAN NORMA PENGHITUNGAN DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-02/PJ.7/1991 TENTANG NORMA PENGHITUNGAN PENGHASILAN NETO BAGI WAJIB PAJAK YANG WAJIB MENYELENGGARAKAN PEMBUKUAN TETAPI TIDAK MENYELENGGARAKAN SEBAGAIMANA MESTINYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-01pj71991-tentang-norma"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=417",
+   "retrieved_at": "2026-09-21T14:38:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-01pj71991-tentang-norma",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-01/PJ.7/1991 TENTANG NORMA PENGHITUNGAN PENGHASILAN NETO DAN TATA CARA PEMBUATAN CATATAN BAGI WAJIB PAJAK YANG DAPAT MENGHITUNG PENGHASILAN NETO DENGAN MENGGUNAKAN NORMA PENGHITUNGAN DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-02/PJ.7/1991 TENTANG NORMA PENGHITUNGAN PENGHASILAN NETO BAGI WAJIB PAJAK YANG WAJIB MENYELENGGARAKAN PEMBUKUAN TETAPI TIDAK MENYELENGGARAKAN SEBAGAIMANA MESTINYA"
+}

@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-22-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "22",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-22-2025--b000-i",
+  "per-djp-22-2025--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "4",
+     "2022",
+     null
+    ],
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-4-2022"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-4-2026",
+    "number_as_written": "PER-4/PJ/2026",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2025",
+    "source_of_reading": "DJP",
+    "title": "BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-12-08",
+   "detail_error": null,
+   "number_as_written": "22/PJ/2025",
+   "retrieved_at": "2026-09-21T14:49:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KELIMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022 TENTANG BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-direktur-jenderal-pajak-nomor-04pj2022-tentang-badan-atau"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-4/PJ/2026 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=11",
+   "retrieved_at": "2026-09-21T14:08:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-direktur-jenderal-pajak-nomor-04pj2022-tentang-badan-atau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5537,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:49:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-direktur-jenderal-pajak-nomor-04pj2022-tentang-badan-atau"
+ },
+ "title": "PERUBAHAN KELIMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022 TENTANG BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

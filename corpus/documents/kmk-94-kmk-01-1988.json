@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-94-kmk-01-1988",
+ "identity": {
+  "code": "KMK",
+  "number": "94/KMK.01",
+  "variant": null,
+  "year": "1988"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1988-02-02",
+   "detail_error": null,
+   "number_as_written": "94/KMK.01/1988",
+   "retrieved_at": "2026-09-22T05:06:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN DARI PEMILIKAN SURAT KETERANGAN FISKAL LUAR NEGERI (SKFLN) BAGI PERORANGAN WARGA NEGARA ASING YANG BEKERJA DI INDONESIA UNTUK KEPENTINGAN KANTOR PERWAKILAN WILAYAH PERUSAHAAN ASING",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-dari-pemilikan-surat-keterangan-fiskal-luar-negeri-skfln-bagi-perorangan-warga"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=482",
+   "retrieved_at": "2026-09-21T14:44:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-dari-pemilikan-surat-keterangan-fiskal-luar-negeri-skfln-bagi-perorangan-warga",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBEBASAN DARI PEMILIKAN SURAT KETERANGAN FISKAL LUAR NEGERI (SKFLN) BAGI PERORANGAN WARGA NEGARA ASING YANG BEKERJA DI INDONESIA UNTUK KEPENTINGAN KANTOR PERWAKILAN WILAYAH PERUSAHAAN ASING"
+}

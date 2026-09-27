@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-325-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "325",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-04-30",
+   "detail_error": null,
+   "number_as_written": "KEP - 325/PJ./2001",
+   "retrieved_at": "2026-09-22T03:50:19+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN ANGSURAN ATAU PENUNDAAN PEMBAYARAN PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-angsuran-atau-penundaan-pembayaran-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=359",
+   "retrieved_at": "2026-09-21T14:34:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-angsuran-atau-penundaan-pembayaran-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMBERIAN ANGSURAN ATAU PENUNDAAN PEMBAYARAN PAJAK"
+}

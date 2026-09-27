@@ -1,0 +1,97 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-566-kmk-04-1991",
+ "identity": {
+  "code": "KMK",
+  "number": "566/KMK.04",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 29 OKTOBER SAMPAI DENGAN 4 NOVEMBER 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-148"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 11 SAMPAI DENGAN 17 NOVEMBER 2002",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-180"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 19 SAMPAI DENGAN 25 JANUARI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-319"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 14 SAMPAI DENGAN 20 SEPTEMBER 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-357"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-06-19",
+   "detail_error": null,
+   "number_as_written": "566/KMK.04/1991",
+   "retrieved_at": "2026-09-22T05:00:37+00:00",
+   "source": "DJP",
+   "title_as_written": "BIDANG-BIDANG PENANAMAN MODAL TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG TIDAK TERMASUK SEBAGAI OBYEK PAJAK DARI PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bidang-bidang-penanaman-modal-tertentu-yang-memberikan-penghasilan-kepada-dana-pensiun"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=474",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bidang-bidang-penanaman-modal-tertentu-yang-memberikan-penghasilan-kepada-dana-pensiun",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BIDANG-BIDANG PENANAMAN MODAL TERTENTU YANG MEMBERIKAN PENGHASILAN KEPADA DANA PENSIUN YANG TIDAK TERMASUK SEBAGAI OBYEK PAJAK DARI PAJAK PENGHASILAN"
+}

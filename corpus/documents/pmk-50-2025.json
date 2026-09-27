@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-50-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "50",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-50-2025--b000-1",
+  "pmk-50-2025--b001-2",
+  "pmk-50-2025--b002-3",
+  "pmk-50-2025--b003-4",
+  "pmk-50-2025--b004-5",
+  "pmk-50-2025--b005-6",
+  "pmk-50-2025--b006-7",
+  "pmk-50-2025--b007-8",
+  "pmk-50-2025--b008-9",
+  "pmk-50-2025--b009-10",
+  "pmk-50-2025--b010-11",
+  "pmk-50-2025--b011-12",
+  "pmk-50-2025--b012-13",
+  "pmk-50-2025--b013-14",
+  "pmk-50-2025--b014-15",
+  "pmk-50-2025--b015-16",
+  "pmk-50-2025--b016-17",
+  "pmk-50-2025--b017-18",
+  "pmk-50-2025--b018-19",
+  "pmk-50-2025--b019-20",
+  "pmk-50-2025--b020-21",
+  "pmk-50-2025--b021-22",
+  "pmk-50-2025--b022-23",
+  "pmk-50-2025--b023-24",
+  "pmk-50-2025--b024-25",
+  "pmk-50-2025--b025-26",
+  "pmk-50-2025--b026-27",
+  "pmk-50-2025--b027-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-07-25",
+   "detail_error": null,
+   "number_as_written": "50 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DAN PAJAK PENGHASILAN ATAS TRANSAKSI PERDAGANGAN ASET KRIPTO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dan-pajak-penghasilan-atas-transaksi-perdagangan-aset-kripto-0"
+  },
+  {
+   "date_as_written": "2025-07-25 12:00:00",
+   "number_as_written": "PMK 50 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:16:12+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-50-tahun-2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=17",
+   "retrieved_at": "2026-09-21T14:08:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dan-pajak-penghasilan-atas-transaksi-perdagangan-aset-kripto-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=14",
+   "retrieved_at": "2026-09-21T14:16:12+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-50-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 42120,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:51:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dan-pajak-penghasilan-atas-transaksi-perdagangan-aset-kripto-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DAN PAJAK PENGHASILAN ATAS TRANSAKSI PERDAGANGAN ASET KRIPTO"
+}

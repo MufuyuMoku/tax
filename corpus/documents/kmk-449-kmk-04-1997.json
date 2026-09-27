@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-449-kmk-04-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "449/KMK.04",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/penentuan-tanggal-jatuh-tempo-pembayaran-dan-penyetoran-pajak-tempat-pembayaran-pajak-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATALAKSANA PEMBERIAN KEMUDAHAN PABEAN DAN PERPAJAKAN ATAS IMPOR DAN/ATAU PENYERAHAN KOMPONEN KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIGUNAKAN DALAM USAHA PERTAKSIAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-pemberian-kemudahan-pabean-dan-perpajakan-atas-impor-danatau-penyerahan"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-08-26",
+   "detail_error": null,
+   "number_as_written": "449/KMK.04/1997",
+   "retrieved_at": "2026-09-22T04:27:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PENGHASILAN TERHADAP SELISIH KURS VALUTA ASING DALAM TAHUN 1997",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-terhadap-selisih-kurs-valuta-asing-dalam-tahun-1997"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=436",
+   "retrieved_at": "2026-09-21T14:40:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-terhadap-selisih-kurs-valuta-asing-dalam-tahun-1997",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERLAKUAN PAJAK PENGHASILAN TERHADAP SELISIH KURS VALUTA ASING DALAM TAHUN 1997"
+}

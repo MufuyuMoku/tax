@@ -1,0 +1,112 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-51-kmk-04-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "51/KMK.04",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-51-kmk-04-2001--b000-1",
+  "kmk-51-kmk-04-2001--b001-2",
+  "kmk-51-kmk-04-2001--b002-3",
+  "kmk-51-kmk-04-2001--b003-4",
+  "kmk-51-kmk-04-2001--b004-5",
+  "kmk-51-kmk-04-2001--b005-8",
+  "kmk-51-kmk-04-2001--b006-9",
+  "kmk-51-kmk-04-2001--b007-10"
+ ],
+ "quality_flags": [
+  "urutan_loncat:5->8"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-212-2018",
+    "number_as_written": "212/PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 51/KMK.04/2001",
+    "source_of_reading": "DJP",
+    "title": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "652/KMK.04",
+     "1994",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 652/KMK.04/1994",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-652-kmk-04-1994"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-02-01",
+   "detail_error": null,
+   "number_as_written": "51/KMK.04/2001",
+   "retrieved_at": "2026-09-22T03:53:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat"
+  },
+  {
+   "date_as_written": "2001-02-01 00:00:00",
+   "number_as_written": "51/KMK.04/2001",
+   "retrieved_at": "2026-09-21T14:49:26+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan Serta Diskonto Sertifikat Bank Indonesia",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/51-kmk-04-2001"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=365",
+   "retrieved_at": "2026-09-21T14:34:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:49:26+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/51-kmk-04-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7119,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:53:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-atas-bunga-deposito-dan-tabungan-serta-diskonto-sertifikat"
+ },
+ "title": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
+}

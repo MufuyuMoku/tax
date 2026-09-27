@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-81-2007",
+ "identity": {
+  "code": "PP",
+  "number": "81",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-81-2007--b000-1",
+  "pp-81-2007--b001-2",
+  "pp-81-2007--b002-3",
+  "pp-81-2007--b003-4",
+  "pp-81-2007--b004-5",
+  "pp-81-2007--p005-1",
+  "pp-81-2007--p006-2",
+  "pp-81-2007--p007-3",
+  "pp-81-2007--p008-4",
+  "pp-81-2007--p009-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-77-2013",
+    "number_as_written": "77 TAHUN 2013",
+    "quote": "Peraturan Pemerintah Nomor 81 Tahun 2007",
+    "source_of_reading": "DJP",
+    "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "81 TAHUN 2007",
+   "retrieved_at": "2026-09-22T03:19:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk-0"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "PP 81 TAHUN 2007",
+   "retrieved_at": "2026-09-21T14:10:25+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penurunan Tarif Pajak Penghasilan Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-81-tahun-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=239",
+   "retrieved_at": "2026-09-21T14:25:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=72",
+   "retrieved_at": "2026-09-21T14:10:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-81-tahun-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6067,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:19:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk-0"
+ },
+ "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+}

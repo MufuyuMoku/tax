@@ -1,0 +1,97 @@
+{
+ "attachments": [
+  {
+   "file_name": "KEP79PJ2025.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "KEP-DJP",
+    "number": "79",
+    "year": "2025"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/KEP79PJ2025.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-79-2025",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "79",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-79-2025--b000-kesatu",
+  "kep-djp-79-2025--b001-kedua",
+  "kep-djp-79-2025--b002-ketiga",
+  "kep-djp-79-2025--b003-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-03-25",
+   "detail_error": null,
+   "number_as_written": "KEP-79/PJ/2025",
+   "retrieved_at": "2026-09-21T14:53:14+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN PENGHAPUSAN SANKSI ADMINISTRATIF ATAS KETERLAMBATAN PEMBAYARAN PAJAK PENGHASILAN PASAL 29 YANG TERUTANG DAN/ATAU PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN ORANG PRIBADI UNTUK TAHUN PAJAK 2024 SEHUBUNGAN DENGAN HARI LIBUR NASIONAL DAN CUTI BERSAMA DALAM RANGKA HARI SUCI NYEPI (TAHUN BARU SAKA 1947) DAN HARI RAYA IDULFITRI 1446 HIJRIAH",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-penghapusan-sanksi-administratif-atas-keterlambatan-pembayaran-pajak"
+  },
+  {
+   "date_as_written": "2025-03-25 12:00:00",
+   "number_as_written": "KEP-79/PJ/2025",
+   "retrieved_at": "2026-09-21T14:58:23+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Kebijakan Penghapusan Sanksi Administratif Atas Keterlambatan Pembayaran Pajak Penghasilan Pasal 29 Yang Terutang Dan/Atau Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Orang Pribadi Untuk Tahun Pajak 2024 Sehubungan Dengan Hari Libur Nasional Dan Cuti Bersama Dalam Rangka Hari Suci Nyepi (Tahun Baru Saka 1947) Dan Hari Raya Idulfitri 1446 Hijriah",
+   "type_as_written": "Keputusan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-79pj2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=20",
+   "retrieved_at": "2026-09-21T14:09:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-penghapusan-sanksi-administratif-atas-keterlambatan-pembayaran-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=2",
+   "retrieved_at": "2026-09-21T14:58:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-79pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5731,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:53:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-penghapusan-sanksi-administratif-atas-keterlambatan-pembayaran-pajak"
+ },
+ "title": "KEBIJAKAN PENGHAPUSAN SANKSI ADMINISTRATIF ATAS KETERLAMBATAN PEMBAYARAN PAJAK PENGHASILAN PASAL 29 YANG TERUTANG DAN/ATAU PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN ORANG PRIBADI UNTUK TAHUN PAJAK 2024 SEHUBUNGAN DENGAN HARI LIBUR NASIONAL DAN CUTI BERSAMA DALAM RANGKA HARI SUCI NYEPI (TAHUN BARU SAKA 1947) DAN HARI RAYA IDULFITRI 1446 HIJRIAH"
+}

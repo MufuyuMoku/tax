@@ -1,0 +1,104 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK141TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "141",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK141TAHUN2023.pdf"
+  },
+  {
+   "file_name": "PMK141TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "141",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/PMK141TAHUN2023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-141-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "141",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-141-2023--b000-1",
+  "pmk-141-2023--b001-2",
+  "pmk-141-2023--b002-3",
+  "pmk-141-2023--b003-4",
+  "pmk-141-2023--b004-5",
+  "pmk-141-2023--b005-6",
+  "pmk-141-2023--b006-7",
+  "pmk-141-2023--b007-8",
+  "pmk-141-2023--b008-9",
+  "pmk-141-2023--b009-10",
+  "pmk-141-2023--b010-11",
+  "pmk-141-2023--b011-12",
+  "pmk-141-2023--b012-13",
+  "pmk-141-2023--b013-14",
+  "pmk-141-2023--b014-15",
+  "pmk-141-2023--b015-16",
+  "pmk-141-2023--b016-17",
+  "pmk-141-2023--b017-18",
+  "pmk-141-2023--b018-19",
+  "pmk-141-2023--b019-20",
+  "pmk-141-2023--b020-21",
+  "pmk-141-2023--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-10",
+   "detail_error": null,
+   "number_as_written": "141 TAHUN 2023",
+   "retrieved_at": "2026-09-21T15:00:14+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN IMPOR BARANG PEKERJA MIGRAN INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-impor-barang-pekerja-migran-indonesia"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=38",
+   "retrieved_at": "2026-09-21T14:10:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-impor-barang-pekerja-migran-indonesia",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 24689,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T15:00:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-impor-barang-pekerja-migran-indonesia"
+ },
+ "title": "KETENTUAN IMPOR BARANG PEKERJA MIGRAN INDONESIA"
+}

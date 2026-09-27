@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-10-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "10",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-10-2021--b000-1",
+  "pmk-10-2021--b001-2",
+  "pmk-10-2021--b002-3",
+  "pmk-10-2021--b003-4",
+  "pmk-10-2021--b004-5",
+  "pmk-10-2021--b005-6",
+  "pmk-10-2021--b006-7",
+  "pmk-10-2021--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "46",
+     "2018",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 46/PMK.010/2018",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-46-2018"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-12-31",
+   "detail_error": null,
+   "number_as_written": "213/PMK.010.2021",
+   "retrieved_at": "2026-09-22T00:28:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS BUNGA ATAU IMBAI.AN SURAT BERHARGA NEGARA YANG DITERBITKAN DI PASAR INTERNASIONAL DAN PENGHASILAN PIHAK KETIGA ATAS JASA YANG DIBERIKAN KEPADA PEMERINTAH ATAU PIHAK LAIN YANG MENDAPAT PENUGASAN DALAM RANGKA PENERBITAN DAN/ATAU PEMBELIAN KEMBALI SURAT BERHARGA NEGARA DI PASAR INTERNASIONAL",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-bunga-atau-imbaian-surat-berharga-negara"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=66",
+   "retrieved_at": "2026-09-21T14:12:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-bunga-atau-imbaian-surat-berharga-negara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10956,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:28:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-bunga-atau-imbaian-surat-berharga-negara"
+ },
+ "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS BUNGA ATAU IMBAI.AN SURAT BERHARGA NEGARA YANG DITERBITKAN DI PASAR INTERNASIONAL DAN PENGHASILAN PIHAK KETIGA ATAS JASA YANG DIBERIKAN KEPADA PEMERINTAH ATAU PIHAK LAIN YANG MENDAPAT PENUGASAN DALAM RANGKA PENERBITAN DAN/ATAU PEMBELIAN KEMBALI SURAT BERHARGA NEGARA DI PASAR INTERNASIONAL"
+}

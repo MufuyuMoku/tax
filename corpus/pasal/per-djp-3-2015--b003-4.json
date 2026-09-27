@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1215,
+ "document_id": "per-djp-3-2015",
+ "document_number": "PER-03/PJ/2015",
+ "document_title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK",
+ "id": "per-djp-3-2015--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [
+  "urutan_loncat:7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\n(1)\nWajib Pajak harus menyampaikan SPT Tahunan Pajak Penghasilan dalam bentuk dokumen elektronik, dalam hal memenuhi kriteria sebagai berikut:\na.\nWajib Pajak yang diwajibkan menyampaikan SPT Masa Pajak Penghasilan Pasal 21 dalam bentuk dokumen elektronik sesuai dengan peraturan perundang-undangan perpajakan dan memiliki kewajiban untuk melaporkan SPT Tahunan Pajak Penghasilan;\nb.\nWajib Pajak yang diwajibkan menyampaikan SPT Masa Pajak Pertambahan Nilai dalam bentuk dokumen elektronik sesuai dengan peraturan perundang-undangan perpajakan dan memiliki kewajiban untuk melaporkan SPT Tahunan Pajak Penghasilan;\nc.\nWajib Pajak yang sudah pernah menyampaikan SPT Elektronik; atau\nd.\nWajib Pajak yang terdaftar di Kantor Pelayanan Pajak Madya, Kantor Pelayanan Pajak di lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus dan Kantor Pelayanan Pajak di lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar.\n(2)\nWajib Pajak sebagaimana dimaksud pada ayat (1) huruf d, selain harus menyampaikan SPT Tahunan Pajak Penghasilan dalam bentuk dokumen elektronik, juga harus menyampaikan SPT Masa Pajak Penghasilan dan SPT Masa Pajak Pertambahan Nilai dalam bentuk dokumen elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:28:13+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1736,
+ "document_id": "per-djp-11-2025",
+ "document_number": "PER-11/PJ/2025",
+ "document_title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+ "id": "per-djp-11-2025--b105-105",
+ "label": "105",
+ "order": 105,
+ "quality_flags": [
+  "urutan_loncat:39->4,4->40",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 105\n(1)\nAtas penyampaian Surat Pemberitahuan secara elektronik melalui Portal Wajib Pajak atau laman atau aplikasi lain yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak sebagaimana dimaksud dalam Pasal 99 ayat (1), dilakukan:\na.\npengecekan validitas Nomor Pokok Wajib Pajak sebagaimana dimaksud dalam Pasal 103;\nb.\nPenelitian Surat Pemberitahuan sebagaimana dimaksud dalam Pasal 104 ayat (1); dan\nc.\nPenelitian Surat Pemberitahuan sebagaimana dimaksud dalam Pasal 104 ayat (3), dalam hal Surat Pemberitahuan Pembetulan.\n(2)\nProses pengecekan validitas Nomor Pokok Wajib Pajak sebagaimana dimaksud pada ayat (1) huruf a dan Penelitian Surat Pemberitahuan sebagaimana dimaksud pada ayat (1) huruf b dan huruf c dilakukan secara otomatis melalui Portal Wajib Pajak atau laman atau aplikasi lain yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak sebagaimana dimaksud dalam Pasal 99 ayat (1).\n(3)\nDalam hal berdasarkan pengecekan validitas Nomor Pokok Wajib Pajak dan Penelitian Surat Pemberitahuan sebagaimana dimaksud pada ayat (2) diperoleh hasil:\na.\nNomor Pokok Wajib Pajak valid sebagaimana dimaksud dalam Pasal 103 ayat (2);\nb.\nSurat Pemberitahuan memenuhi ketentuan sebagaimana dimaksud dalam Pasal 104 ayat (1); dan\nc.\nSurat Pemberitahuan memenuhi ketentuan sebagaimana dimaksud dalam Pasal 104 ayat (1) dan ayat (3), dalam hal Surat Pemberitahuan Pembetulan,\nkepada Wajib Pajak diterbitkan bukti penerimaan elektronik.\n(4)\nDalam hal berdasarkan pengecekan validitas Nomor Pokok Wajib Pajak dan Penelitian Surat Pemberitahuan sebagaimana dimaksud pada ayat (2) tidak diperoleh hasil sebagaimana dimaksud pada ayat (3), kepada Wajib Pajak tidak diterbitkan bukti penerimaan elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:52:49+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-pelaporan-pajak-penghasilan-pajak-pertambahan-nilai-pajak-penjualan-atas-0"
+ }
+}

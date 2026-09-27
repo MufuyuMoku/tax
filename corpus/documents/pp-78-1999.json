@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-78-1999",
+ "identity": {
+  "code": "PP",
+  "number": "78",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-42-2000",
+    "number_as_written": "42 TAHUN 2000",
+    "quote": "Peraturan Pemerintah Nomor 78 Tahun 1999",
+    "source_of_reading": "DJP",
+    "title": "PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-09-22",
+   "detail_error": null,
+   "number_as_written": "78 TAHUN 1999",
+   "retrieved_at": "2026-09-22T04:06:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 46 TAHUN 1994 TENTANG PEMBAYARAN PAJAK BAGI PENGHASILAN BAGI ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-pemerintah-nomor-46-tahun-1994-tentang-pembayaran-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=395",
+   "retrieved_at": "2026-09-21T14:37:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-pemerintah-nomor-46-tahun-1994-tentang-pembayaran-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 46 TAHUN 1994 TENTANG PEMBAYARAN PAJAK BAGI PENGHASILAN BAGI ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI"
+}

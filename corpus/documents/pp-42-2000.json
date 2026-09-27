@@ -1,0 +1,127 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-42-2000",
+ "identity": {
+  "code": "PP",
+  "number": "42",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-42-2000--b000-1",
+  "pp-42-2000--b001-2",
+  "pp-42-2000--b002-3",
+  "pp-42-2000--b003-4",
+  "pp-42-2000--b004-5",
+  "pp-42-2000--b005-6",
+  "pp-42-2000--b006-7",
+  "pp-42-2000--p007-1",
+  "pp-42-2000--p008-2",
+  "pp-42-2000--p009-3",
+  "pp-42-2000--p010-4",
+  "pp-42-2000--p011-5",
+  "pp-42-2000--p012-6",
+  "pp-42-2000--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-41-2001",
+    "number_as_written": "41 TAHUN 2001",
+    "quote": "PERATURAN PEMERINTAH NOMOR 42 TAHUN 2000",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 42 TAHUN 2000 TENTANG PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "46",
+     "1994",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 46 Tahun 1994",
+    "source_of_reading": "DJP",
+    "target_id": "pp-46-1994"
+   },
+   {
+    "key": [
+     "PP",
+     "78",
+     "1999",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 78 Tahun 1999",
+    "source_of_reading": "DJP",
+    "target_id": "pp-78-1999"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-06-23",
+   "detail_error": null,
+   "number_as_written": "42 TAHUN 2000",
+   "retrieved_at": "2026-09-22T04:03:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-orang-pribadi-yang-akan-bertolak-keluar-negeri"
+  },
+  {
+   "date_as_written": "2000-06-23 00:00:00",
+   "number_as_written": "PP 42 TAHUN 2000",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pembayaran Pajak Penghasilan Bagi Orang Pribadi yang Akan Bertolak Ke Luar Negeri.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-2000"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=380",
+   "retrieved_at": "2026-09-21T14:36:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-orang-pribadi-yang-akan-bertolak-keluar-negeri",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=91",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13722,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:03:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-penghasilan-orang-pribadi-yang-akan-bertolak-keluar-negeri"
+ },
+ "title": "PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI"
+}

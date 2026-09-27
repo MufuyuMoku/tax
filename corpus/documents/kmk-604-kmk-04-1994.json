@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-604-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "604/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-21",
+   "detail_error": null,
+   "number_as_written": "604/KMK.04/1994",
+   "retrieved_at": "2026-09-22T04:50:38+00:00",
+   "source": "DJP",
+   "title_as_written": "BADAN-BADAN DAN PENGUSAHA KECIL YANG MENERIMA HARTA HIBAHAN YANG TIDAK TERMASUK SEBAGAI OBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-badan-dan-pengusaha-kecil-yang-menerima-harta-hibahan-yang-tidak-termasuk-sebagai"
+  },
+  {
+   "date_as_written": "1994-12-21 00:00:00",
+   "number_as_written": "604/KMK.04/1994",
+   "retrieved_at": "2026-09-21T14:53:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Badan-Badan dan Pengusaha Kecil yang Menerima Harta Hibahan yang Tidak Termasuk Sebagai Objek Pajak Penghasilan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/604-kmk-04-1994"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=460",
+   "retrieved_at": "2026-09-21T14:42:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-badan-dan-pengusaha-kecil-yang-menerima-harta-hibahan-yang-tidak-termasuk-sebagai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=104",
+   "retrieved_at": "2026-09-21T14:53:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/604-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BADAN-BADAN DAN PENGUSAHA KECIL YANG MENERIMA HARTA HIBAHAN YANG TIDAK TERMASUK SEBAGAI OBJEK PAJAK PENGHASILAN"
+}

@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-445-kmk-01-1992",
+ "identity": {
+  "code": "KMK",
+  "number": "445/KMK.01",
+  "variant": null,
+  "year": "1992"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1992-05-08",
+   "detail_error": null,
+   "number_as_written": "445/KMK.01/1992",
+   "retrieved_at": "2026-09-22T04:58:40+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 330/KMK.04/1992 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-330kmk041992-tentang-perlakuan-pajak"
+  },
+  {
+   "date_as_written": "1992-05-08 00:00:00",
+   "number_as_written": "445/KMK.01/1992",
+   "retrieved_at": "2026-09-21T14:54:35+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Lampiran Kepmenkeu No.330/KMK.04/1992 tentang Perlakuan Pajak Penghasilan Bagi Pejabat Perwakilan Organisasi Internasional",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/445-kmk-01-1992"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=471",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-330kmk041992-tentang-perlakuan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=114",
+   "retrieved_at": "2026-09-21T14:54:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/445-kmk-01-1992",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 330/KMK.04/1992 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL"
+}

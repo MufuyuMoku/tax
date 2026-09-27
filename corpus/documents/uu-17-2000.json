@@ -1,0 +1,238 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "uu-17-2000",
+ "identity": {
+  "code": "UU",
+  "number": "17",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "uu-17-2000--b000-i",
+  "uu-17-2000--b001-ii",
+  "uu-17-2000--b002-iii",
+  "uu-17-2000--p003-i",
+  "uu-17-2000--p004-2",
+  "uu-17-2000--p005-3",
+  "uu-17-2000--p006-4",
+  "uu-17-2000--p007-6",
+  "uu-17-2000--p008-7",
+  "uu-17-2000--p009-9",
+  "uu-17-2000--p010-11",
+  "uu-17-2000--p011-11a",
+  "uu-17-2000--p012-14",
+  "uu-17-2000--p013-17",
+  "uu-17-2000--p014-18",
+  "uu-17-2000--p015-21",
+  "uu-17-2000--p016-23",
+  "uu-17-2000--p017-25",
+  "uu-17-2000--p018-26",
+  "uu-17-2000--p019-31a",
+  "uu-17-2000--p020-31b",
+  "uu-17-2000--p021-31c",
+  "uu-17-2000--p022-32",
+  "uu-17-2000--p023-32a",
+  "uu-17-2000--p024-ii",
+  "uu-17-2000--p025-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983",
+     null
+    ],
+    "quote": "UNDANG-UNDANG NOMOR 7 TAHUN 1983",
+    "source_of_reading": "DJP",
+    "target_id": "uu-7-1983"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "HAK GUNA USAHA, HAK GUNA BANGUNAN DAN HAK PAKAI ATAS TANAH",
+    "url": "https://www.pajak.go.id/id/peraturan/hak-guna-usaha-hak-guna-bangunan-dan-hak-pakai-atas-tanah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 47 TAHUN 1994 TENTANG PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-47-tahun-1994-tentang-penghitungan-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BESARNYA BIAYA UNTUK MENDAPATKAN, MENAGIH DAN MEMELIHARA PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+    "url": "https://www.pajak.go.id/id/peraturan/besarnya-biaya-untuk-mendapatkan-menagih-dan-memelihara-penghasilan-sehubungan-dengan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "MACAM DAN JENIS SERTA BATASAN HARGA JUAL KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/macam-dan-jenis-serta-batasan-harga-jual-kendaraan-bermotor-yang-dikenakan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT BANK INDONESIA, SERIFIKAT DEPOSITO, DAN TABUNGAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-atas-bunga-deposito"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBAYARAN PAJAK MELALUI PEMINDAHBUKUAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pajak-melalui-pemindahbukuan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMOTONGAN ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN ATAS HADIAH UNDIAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-atau-pemungutan-penyetoran-dan-pelaporan-pajak-penghasilan-atas"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pengembalian-kelebihan-pembayaran-pajak-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-imbalan-bunga-kepada-wajib-pajak-1"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 608/KMK.04/1994 TENTANG TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-608kmk041994-tentang-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 9 SAMPAI DENGAN 15 OKTOBER 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-90"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 4 SAMPAI DENGAN 10 JUNI 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-122"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 13 SAMPAI DENGAN 19 APRIL 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-332"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 9 SAMPAI DENGAN 15 NOVEMBER 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-365"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PETUNJUK PELAKSANAAN PENDAFTARAN, PENDATAAN DAN PENILAIAN OBJEK DAN SUBJEK PAJAK BUMI DAN BANGUNAN (PBB) DALAM RANGKA PEMBENTUKAN DAN ATAU PEMELIHARAAN BASIS DATA SISTEM MANAJEMEN INFORMASI OBJEK PAJAK (SISMIOP)",
+    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pendaftaran-pendataan-dan-penilaian-objek-dan-subjek-pajak-bumi-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS",
+    "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pajak-pertambahan-nilai-yang-dibebaskan-atas-impor"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "FAKTUR PAJAK SEDERHANA",
+    "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak-sederhana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENAMBAHAN DAN PENYEMPURNAAN FORMULIR SURAT SETORAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/penambahan-dan-penyempurnaan-formulir-surat-setoran-pajak"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-08-02",
+   "detail_error": null,
+   "number_as_written": "17 TAHUN 2000",
+   "retrieved_at": "2026-09-22T04:02:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=379",
+   "retrieved_at": "2026-09-21T14:36:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 144963,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:02:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+ },
+ "title": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN"
+}

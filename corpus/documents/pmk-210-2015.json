@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-210-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "210",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-210-2015--b000-1",
+  "pmk-210-2015--b001-2",
+  "pmk-210-2015--b002-3",
+  "pmk-210-2015--b003-4",
+  "pmk-210-2015--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-27",
+   "detail_error": null,
+   "number_as_written": "210/PMK.010/2015",
+   "retrieved_at": "2026-09-22T02:22:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS BUNGA ATAU IMBALAN SURAT BERHARGA NEGARA YANG DITERBITKAN DI PASAR INTERNASIONAL DAN PENGHASILAN PIHAK KETIGA ATAS JASA YANG DIBERIKAN KEPADA PEMERINTAH DALAM PENERBITAN DAN/ATAU PEMBELIAN KEMBALI/PENUKARAN SURAT BERHARGA NEGARA DI PASAR INTERNASIONAL TAHUN ANGGARAN 2015",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-bunga-atau-imbalan-surat-berharga-negara-5"
+  },
+  {
+   "date_as_written": "2015-11-27 00:00:00",
+   "number_as_written": "210/PMK.010/2015",
+   "retrieved_at": "2026-09-21T14:30:11+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Dan/ atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2015.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/210-pmk-010-2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=156",
+   "retrieved_at": "2026-09-21T14:19:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-bunga-atau-imbalan-surat-berharga-negara-5",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=221",
+   "retrieved_at": "2026-09-21T14:30:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/210-pmk-010-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8969,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:22:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-ditanggung-pemerintah-atas-bunga-atau-imbalan-surat-berharga-negara-5"
+ },
+ "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS BUNGA ATAU IMBALAN SURAT BERHARGA NEGARA YANG DITERBITKAN DI PASAR INTERNASIONAL DAN PENGHASILAN PIHAK KETIGA ATAS JASA YANG DIBERIKAN KEPADA PEMERINTAH DALAM PENERBITAN DAN/ATAU PEMBELIAN KEMBALI/PENUKARAN SURAT BERHARGA NEGARA DI PASAR INTERNASIONAL TAHUN ANGGARAN 2015"
+}

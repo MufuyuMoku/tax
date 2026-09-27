@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-188-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "188",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-188-2020--b000-1",
+  "pmk-188-2020--b001-2",
+  "pmk-188-2020--b002-3",
+  "pmk-188-2020--b003-4",
+  "pmk-188-2020--b004-5",
+  "pmk-188-2020--b005-6",
+  "pmk-188-2020--b006-7",
+  "pmk-188-2020--b007-8",
+  "pmk-188-2020--b008-9",
+  "pmk-188-2020--b009-10",
+  "pmk-188-2020--b010-11",
+  "pmk-188-2020--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-127-2023",
+    "number_as_written": "127 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 188/PMK.04/2020",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 188/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-11-26",
+   "detail_error": null,
+   "number_as_written": "188/PMK.04/2020",
+   "retrieved_at": "2026-09-22T00:35:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-kepabeanan-danatau-cukai-serta-perpajakan-atas-impor-pengadaan-vaksin"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 127 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=86",
+   "retrieved_at": "2026-09-21T14:13:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-kepabeanan-danatau-cukai-serta-perpajakan-atas-impor-pengadaan-vaksin",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 23971,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:35:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-kepabeanan-danatau-cukai-serta-perpajakan-atas-impor-pengadaan-vaksin"
+ },
+ "title": "PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

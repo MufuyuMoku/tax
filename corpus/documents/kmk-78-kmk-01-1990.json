@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-78-kmk-01-1990",
+ "identity": {
+  "code": "KMK",
+  "number": "78/KMK.01",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-01-18",
+   "detail_error": null,
+   "number_as_written": "78/KMK.01/1990",
+   "retrieved_at": "2026-09-22T05:03:58+00:00",
+   "source": "DJP",
+   "title_as_written": "FAKTOR PENYESUAIAN TAHUN 1989 UNTUK PENGHITUNGAN PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/faktor-penyesuaian-tahun-1989-untuk-penghitungan-pajak-penghasilan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=479",
+   "retrieved_at": "2026-09-21T14:44:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/faktor-penyesuaian-tahun-1989-untuk-penghitungan-pajak-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "FAKTOR PENYESUAIAN TAHUN 1989 UNTUK PENGHITUNGAN PAJAK PENGHASILAN"
+}

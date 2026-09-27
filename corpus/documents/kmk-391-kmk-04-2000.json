@@ -1,0 +1,97 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-391-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "391/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kmk-499-kmk-03-2003",
+    "number_as_written": "499/KMK.03/2003",
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 391/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 391/KMK.04/2000 TENTANG PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUB REGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUB REGIONAL ASEAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 391/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-09-14",
+   "detail_error": null,
+   "number_as_written": "391/KMK.04/2000",
+   "retrieved_at": "2026-09-22T04:02:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUB REGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUB REGIONAL ASEAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi-sub"
+  },
+  {
+   "date_as_written": "2000-09-14 00:00:00",
+   "number_as_written": "391/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:50:03+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelabuhan atau Tempat Pemberangkatan Ke Ln dalam Daerah Kerjasama Ekonomi Sub Regional Asean yang Dikecualikan Dari Kewajiban Pembayaran Pph Orang Pribadi yang Akan Bertolak Ke Ln  dalam Kawasan Kerjasama Sub Regional Asean",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/391-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=377",
+   "retrieved_at": "2026-09-21T14:36:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi-sub",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=46",
+   "retrieved_at": "2026-09-21T14:50:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/391-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUB REGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUB REGIONAL ASEAN"
+}

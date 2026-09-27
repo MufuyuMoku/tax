@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-394-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "394/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-06-05",
+   "detail_error": null,
+   "number_as_written": "394/KMK.04/1996",
+   "retrieved_at": "2026-09-22T04:35:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PEMBAYARAN DAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PERSEWAAN TANAH DAN/ATAU BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembayaran-dan-pemotongan-pajak-penghasilan-atas-penghasilan-dari-persewaan"
+  },
+  {
+   "date_as_written": "1996-06-05 00:00:00",
+   "number_as_written": "394/KMK.04/1996",
+   "retrieved_at": "2026-09-21T14:52:53+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pembayaran dan Pemotongan Pajak Penghasilan atas Penghasilan Dari Persewaan Tanah dan/atau Bangunan.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/394-kmk-04-1996"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=443",
+   "retrieved_at": "2026-09-21T14:41:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembayaran-dan-pemotongan-pajak-penghasilan-atas-penghasilan-dari-persewaan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=89",
+   "retrieved_at": "2026-09-21T14:52:53+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/394-kmk-04-1996",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELAKSANAAN PEMBAYARAN DAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PERSEWAAN TANAH DAN/ATAU BANGUNAN"
+}

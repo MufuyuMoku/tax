@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-486-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "486/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-486-kmk-04-2000--b000-i",
+  "kmk-486-kmk-04-2000--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-80-2024",
+    "number_as_written": "80 TAHUN 2024",
+    "quote": "Keputusan Menteri Keuangan Nomor 486/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-11-20",
+   "detail_error": null,
+   "number_as_written": "486/KMK.04/2000",
+   "retrieved_at": "2026-09-22T04:00:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 239/KMK.01/1996 TANGGAL 1 APRIL 1996 SEBAGAIMANA TELAH DIUBAH DENGAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 463/KMK.01/1998 TANGGAL 21 OKTOBER 1998 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-keputusan-menteri-keuangan-republik-indonesia-nomor-239kmk011996-tanggal"
+  },
+  {
+   "date_as_written": "2000-11-20 00:00:00",
+   "number_as_written": "486/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:55+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua Kepmenkeu No.239/KMK.01/1996 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 80 TAHUN 2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=374",
+   "retrieved_at": "2026-09-21T14:35:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-keputusan-menteri-keuangan-republik-indonesia-nomor-239kmk011996-tanggal",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=44",
+   "retrieved_at": "2026-09-21T14:49:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9130,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:00:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-keputusan-menteri-keuangan-republik-indonesia-nomor-239kmk011996-tanggal"
+ },
+ "title": "PERUBAHAN KEDUA KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 239/KMK.01/1996 TANGGAL 1 APRIL 1996 SEBAGAIMANA TELAH DIUBAH DENGAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 463/KMK.01/1998 TANGGAL 21 OKTOBER 1998 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
+}

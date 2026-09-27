@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-499-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "499/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-499-kmk-03-2003--b000-i",
+  "kmk-499-kmk-03-2003--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "391/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 391/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-391-kmk-04-2000"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 499/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-10-31",
+   "detail_error": null,
+   "number_as_written": "499/KMK.03/2003",
+   "retrieved_at": "2026-09-22T03:32:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 391/KMK.04/2000 TENTANG PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUB REGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUB REGIONAL ASEAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-391kmk042000-tentang-pelabuhan-atau"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=310",
+   "retrieved_at": "2026-09-21T14:30:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-391kmk042000-tentang-pelabuhan-atau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4504,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:32:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-391kmk042000-tentang-pelabuhan-atau"
+ },
+ "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 391/KMK.04/2000 TENTANG PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUB REGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUB REGIONAL ASEAN"
+}

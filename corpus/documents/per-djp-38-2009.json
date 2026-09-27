@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-38-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "38",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-38-2009--b000-1",
+  "per-djp-38-2009--b001-2",
+  "per-djp-38-2009--b002-3",
+  "per-djp-38-2009--b003-4",
+  "per-djp-38-2009--b004-5",
+  "per-djp-38-2009--b005-6",
+  "per-djp-38-2009--b006-7",
+  "per-djp-38-2009--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-23-2010",
+    "number_as_written": "PER-23/PJ/2010",
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009 TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2006",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ./2006",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2006"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "102",
+     "2006",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-102/PJ/2006",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-102-2006"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-06-23",
+   "detail_error": null,
+   "number_as_written": "PER-38/PJ/2009",
+   "retrieved_at": "2026-09-22T03:03:48+00:00",
+   "source": "DJP",
+   "title_as_written": "TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-bentuk-formulir-surat-setoran-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=215",
+   "retrieved_at": "2026-09-21T14:23:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-bentuk-formulir-surat-setoran-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8190,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:03:48+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tentang-bentuk-formulir-surat-setoran-pajak"
+ },
+ "title": "TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK"
+}

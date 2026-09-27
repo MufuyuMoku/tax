@@ -1,0 +1,114 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PP58TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PP",
+    "number": "58",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PP58TAHUN2023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-58-2023",
+ "identity": {
+  "code": "PP",
+  "number": "58",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-58-2023--b000-1",
+  "pp-58-2023--b001-2",
+  "pp-58-2023--b002-3",
+  "pp-58-2023--b003-4",
+  "pp-58-2023--b004-5",
+  "pp-58-2023--p005-1",
+  "pp-58-2023--p006-2",
+  "pp-58-2023--p007-3",
+  "pp-58-2023--p008-4",
+  "pp-58-2023--p009-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "80",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 80 Tahun 2010",
+    "source_of_reading": "DJP",
+    "target_id": "pp-80-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-27",
+   "detail_error": null,
+   "number_as_written": "58 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:59:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TARIF PEMOTONGAN PAJAK PENGHASII.AN PASAL 21 ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATANWAJIB PAJAK ORANG PRIBADI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-pemotongan-pajak-penghasiian-pasal-21-atas-penghasilan-sehubungan-dengan-pekerjaan"
+  },
+  {
+   "date_as_written": "2023-12-27 00:00:00",
+   "number_as_written": "PP 58 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:05:44+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tarif dan Pajak Penghasilan Pasal 21 atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Wajib Pajak Orang Pribadi",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-58-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=37",
+   "retrieved_at": "2026-09-21T14:10:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-pemotongan-pajak-penghasiian-pasal-21-atas-penghasilan-sehubungan-dengan-pekerjaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=4",
+   "retrieved_at": "2026-09-21T14:05:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-58-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12255,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:59:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tarif-pemotongan-pajak-penghasiian-pasal-21-atas-penghasilan-sehubungan-dengan-pekerjaan"
+ },
+ "title": "TARIF PEMOTONGAN PAJAK PENGHASII.AN PASAL 21 ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATANWAJIB PAJAK ORANG PRIBADI"
+}

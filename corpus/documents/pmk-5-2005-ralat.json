@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-5-2005-ralat",
+ "identity": {
+  "code": "PMK",
+  "number": "5",
+  "variant": "ralat",
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-03-14",
+   "detail_error": null,
+   "number_as_written": "05/PMK.03/2005",
+   "retrieved_at": "2026-09-22T03:29:59+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 05/PMK.03/2005 TANGGAL 27 JANUARI 2005 TENTANG TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-menteri-keuangan-republik-indonesia-nomor-05pmk032005-tanggal-27-januari"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=293",
+   "retrieved_at": "2026-09-21T14:29:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-menteri-keuangan-republik-indonesia-nomor-05pmk032005-tanggal-27-januari",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 05/PMK.03/2005 TANGGAL 27 JANUARI 2005 TENTANG TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK"
+}

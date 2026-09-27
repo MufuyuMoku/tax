@@ -1,0 +1,105 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK 6 Tahun 2026.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "6",
+    "year": "2026"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PMK%206%20Tahun%202026.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-6-2026",
+ "identity": {
+  "code": "PMK",
+  "number": "6",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-6-2026--b000-1",
+  "pmk-6-2026--b001-2",
+  "pmk-6-2026--b002-3",
+  "pmk-6-2026--b003-4",
+  "pmk-6-2026--b004-5",
+  "pmk-6-2026--b005-6",
+  "pmk-6-2026--b006-7",
+  "pmk-6-2026--b007-8",
+  "pmk-6-2026--b008-9",
+  "pmk-6-2026--b009-10",
+  "pmk-6-2026--b010-11",
+  "pmk-6-2026--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-02-09",
+   "detail_error": null,
+   "number_as_written": "6 TAHUN 2026",
+   "retrieved_at": "2026-09-21T14:48:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN YANG DITERIMA DAN/ATAU DIPEROLEH PESERTA PEMAGANGAN LULUSAN PERGURUAN TINGGI YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2026",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-yang-diterima-danatau-diperoleh-peserta"
+  },
+  {
+   "date_as_written": "2026-02-09 12:00:00",
+   "number_as_written": "PMK 6 TAHUN 2026",
+   "retrieved_at": "2026-09-21T14:15:41+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Pasal 21 atas Penghasilan yang Diterima dan/atau Diperoleh Peserta Pemagangan Lulusan Perguruan Tinggi yangDitanggung Pemerintah Tahun Anggaran 2026",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-6-tahun-2026"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=8",
+   "retrieved_at": "2026-09-21T14:08:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-yang-diterima-danatau-diperoleh-peserta",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=6",
+   "retrieved_at": "2026-09-21T14:15:41+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-6-tahun-2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14941,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:48:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-yang-diterima-danatau-diperoleh-peserta"
+ },
+ "title": "PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN YANG DITERIMA DAN/ATAU DIPEROLEH PESERTA PEMAGANGAN LULUSAN PERGURUAN TINGGI YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2026"
+}

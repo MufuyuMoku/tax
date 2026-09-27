@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-61-kmk-016-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "61/KMK.016",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 61/KMK.016/1996",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-02-09",
+   "detail_error": null,
+   "number_as_written": "61/KMK.016/1996",
+   "retrieved_at": "2026-09-22T04:36:50+00:00",
+   "source": "DJP",
+   "title_as_written": "BANTUAN BADAN USAHA MILIK NEGARA UNTUK PEMBINAAN KELUARGA PRA SEJAHTERA DAN KELUARGA SEJAHTERA I",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bantuan-badan-usaha-milik-negara-untuk-pembinaan-keluarga-pra-sejahtera-dan-keluarga"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=445",
+   "retrieved_at": "2026-09-21T14:41:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bantuan-badan-usaha-milik-negara-untuk-pembinaan-keluarga-pra-sejahtera-dan-keluarga",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BANTUAN BADAN USAHA MILIK NEGARA UNTUK PEMBINAAN KELUARGA PRA SEJAHTERA DAN KELUARGA SEJAHTERA I"
+}

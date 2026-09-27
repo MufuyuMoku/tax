@@ -1,0 +1,63 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-11-1995",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "11",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-11-1995--b000-1",
+  "kep-djp-11-1995--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-02-01",
+   "detail_error": null,
+   "number_as_written": "KEP-11/PJ./1995",
+   "retrieved_at": "2026-09-22T04:45:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN DASAR PENILAIAN BAGI YANG MENERIMA PENGALIHAN HARTA YANG DIPEROLEH DARI BANTUAN,SUMBANGAN, HIBAHAN DAN WARISAN YANG MEMENUHI SYARAT SEBAGAI BUKAN OBJEK PAJAK PENGHASILAN DARI WAJIB PAJAK YANG TIDAK MENYELENGGARAKAN PEMBUKUAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-penilaian-bagi-yang-menerima-pengalihan-harta-yang-diperoleh-dari"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=454",
+   "retrieved_at": "2026-09-21T14:42:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-penilaian-bagi-yang-menerima-pengalihan-harta-yang-diperoleh-dari",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2668,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:45:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-penilaian-bagi-yang-menerima-pengalihan-harta-yang-diperoleh-dari"
+ },
+ "title": "PENETAPAN DASAR PENILAIAN BAGI YANG MENERIMA PENGALIHAN HARTA YANG DIPEROLEH DARI BANTUAN,SUMBANGAN, HIBAHAN DAN WARISAN YANG MEMENUHI SYARAT SEBAGAI BUKAN OBJEK PAJAK PENGHASILAN DARI WAJIB PAJAK YANG TIDAK MENYELENGGARAKAN PEMBUKUAN"
+}

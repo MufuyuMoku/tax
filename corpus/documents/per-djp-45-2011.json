@@ -1,0 +1,66 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-45-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "45",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-45-2011--b000-1",
+  "per-djp-45-2011--b001-2",
+  "per-djp-45-2011--b002-3",
+  "per-djp-45-2011--b003-4",
+  "per-djp-45-2011--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-29",
+   "detail_error": null,
+   "number_as_written": "PER-45/PJ/2011",
+   "retrieved_at": "2026-09-22T02:41:12+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENETAPAN SAAT DIMULAINYA BERPRODUKSI SECARA KOMERSIAL BAGI WAJIB PAJAK BADAN YANG MENDAPATKAN FASILITAS PEMBEBASAN ATAU PENGURANGAN PAJAK PENGHASILAN BADAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-saat-dimulainya-berproduksi-secara-komersial-bagi-wajib-pajak-badan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=198",
+   "retrieved_at": "2026-09-21T14:22:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-saat-dimulainya-berproduksi-secara-komersial-bagi-wajib-pajak-badan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5360,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:41:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-saat-dimulainya-berproduksi-secara-komersial-bagi-wajib-pajak-badan"
+ },
+ "title": "TATA CARA PENETAPAN SAAT DIMULAINYA BERPRODUKSI SECARA KOMERSIAL BAGI WAJIB PAJAK BADAN YANG MENDAPATKAN FASILITAS PEMBEBASAN ATAU PENGURANGAN PAJAK PENGHASILAN BADAN"
+}

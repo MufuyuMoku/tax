@@ -1,0 +1,143 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-235-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "235",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-235-2020--b000-1",
+  "pmk-235-2020--b001-2",
+  "pmk-235-2020--b002-3",
+  "pmk-235-2020--b003-4",
+  "pmk-235-2020--b004-5",
+  "pmk-235-2020--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "15",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 15/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-15-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "215",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-215-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "142",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 142/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-142-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "166",
+     "2012",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 166/PMK.011/2012",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-166-2012"
+   },
+   {
+    "key": [
+     "PMK",
+     "156",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 156/PMK.010/2015",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-156-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-12-30",
+   "detail_error": null,
+   "number_as_written": "235/PMK.010/2020",
+   "retrieved_at": "2026-09-22T00:34:08+00:00",
+   "source": "DJP",
+   "title_as_written": "ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-internasional-dan-pejabat-perwakilan-organisasi-internasional-yang-tidak"
+  },
+  {
+   "date_as_written": "2020-12-30 00:00:00",
+   "number_as_written": "235/PMK.010/2020",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-010-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=83",
+   "retrieved_at": "2026-09-21T14:13:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-internasional-dan-pejabat-perwakilan-organisasi-internasional-yang-tidak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=97",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7973,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:34:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/organisasi-internasional-dan-pejabat-perwakilan-organisasi-internasional-yang-tidak"
+ },
+ "title": "ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+}

@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "keppres-14-1998",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "14",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KAWASAN PENGEMBANGAN EKONOMI TERPADU",
+    "url": "https://www.pajak.go.id/id/peraturan/kawasan-pengembangan-ekonomi-terpadu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK/PAJAK PENGHASILAN UNTUK BULAN JULI, AGUSTUS, DAN SEPTEMBER 1986",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masukpajak-penghasilan-untuk-bulan-juli-agustus"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 10 SAMPAI DENGAN 16 NOVEMBER 1997",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-309"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-01-19",
+   "detail_error": null,
+   "number_as_written": "14 TAHUN 1998",
+   "retrieved_at": "2026-09-22T04:25:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN KAWASAN PENGEMBANGAN EKONOMI TERPADU MANADO-BITUNG",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-kawasan-pengembangan-ekonomi-terpadu-manado-bitung"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=431",
+   "retrieved_at": "2026-09-21T14:39:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-kawasan-pengembangan-ekonomi-terpadu-manado-bitung",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN KAWASAN PENGEMBANGAN EKONOMI TERPADU MANADO-BITUNG"
+}

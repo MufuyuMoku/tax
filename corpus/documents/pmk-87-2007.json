@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-87-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "87",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-215-2008",
+    "number_as_written": "215/PMK.03/2008",
+    "quote": "Peraturan Menteri Keuangan Nomor 87/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-08-30 00:00:00",
+   "number_as_written": "87/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:44:27+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Keenam atas Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-Organisasi  Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=431",
+   "retrieved_at": "2026-09-21T14:44:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Perubahan Keenam atas Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-Organisasi  Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan"
+}

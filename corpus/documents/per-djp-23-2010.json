@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-23-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-23-2010--b000-i",
+  "per-djp-23-2010--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "38",
+     "2009",
+     null
+    ],
+    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-38-2009"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-04-22",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2010",
+   "retrieved_at": "2026-09-22T02:52:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009 TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-38pj2009-tentang-bentuk-formulir"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=210",
+   "retrieved_at": "2026-09-21T14:23:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-38pj2009-tentang-bentuk-formulir",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 2861,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:52:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-38pj2009-tentang-bentuk-formulir"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009 TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK"
+}

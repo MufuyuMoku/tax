@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-457-kmk-012-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "457/KMK.012",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMERIKSAAN DI BIDANG PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-di-bidang-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENENTUAN JENIS-JENIS HARTA DALAM MASING-MASING GOLONGAN HARTA UNTUK KEPERLUAN PENYUSUTAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penentuan-jenis-jenis-harta-dalam-masing-masing-golongan-harta-untuk-keperluan-0"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-05-21",
+   "detail_error": null,
+   "number_as_written": "457/KMK.012/1984",
+   "retrieved_at": "2026-09-22T05:13:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN JENIS-JENIS HARTA DALAM MASING-MASING GOLONGAN HARTA UNTUK KEPERLUAN PENYUSUTAN BAGI KONTRAKTOR YANG MELAKUKAN KONTRAK PRODUCTION SHARING DALAM EXPLORASI DAN EXPLOITASI MINYAK DAN GAS BUMI DENGAN PERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA (PERTAMINA) YANG DITANDA TANGANI SETELAH UNDANG-UNDANG NOMOR 7 TAHUN 1985",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-jenis-jenis-harta-dalam-masing-masing-golongan-harta-untuk-keperluan-penyusutan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=490",
+   "retrieved_at": "2026-09-21T14:45:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-jenis-jenis-harta-dalam-masing-masing-golongan-harta-untuk-keperluan-penyusutan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENENTUAN JENIS-JENIS HARTA DALAM MASING-MASING GOLONGAN HARTA UNTUK KEPERLUAN PENYUSUTAN BAGI KONTRAKTOR YANG MELAKUKAN KONTRAK PRODUCTION SHARING DALAM EXPLORASI DAN EXPLOITASI MINYAK DAN GAS BUMI DENGAN PERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA (PERTAMINA) YANG DITANDA TANGANI SETELAH UNDANG-UNDANG NOMOR 7 TAHUN 1985"
+}

@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-42-1994",
+ "identity": {
+  "code": "PP",
+  "number": "42",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-132-2000",
+    "number_as_written": "132 TAHUN 2000",
+    "quote": "Peraturan Pemerintah Nomor 42 Tahun 1994",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN ATAS HADIAH UNDIAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-23",
+   "detail_error": null,
+   "number_as_written": "42 TAHUN 1994",
+   "retrieved_at": "2026-09-22T04:49:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGASILAN ATAS HADIAH UNDIAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pengasilan-atas-hadiah-undian"
+  },
+  {
+   "date_as_written": "1994-12-23 00:00:00",
+   "number_as_written": "PP 42 TAHUN 1994",
+   "retrieved_at": "2026-09-21T14:11:59+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Hadiah Undian.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-1994"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 132 TAHUN 2000 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=460",
+   "retrieved_at": "2026-09-21T14:42:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pengasilan-atas-hadiah-undian",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:11:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGASILAN ATAS HADIAH UNDIAN"
+}

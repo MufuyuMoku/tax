@@ -1,0 +1,112 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-37-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "37",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-37-2013--b000-1",
+  "pmk-37-2013--b001-2",
+  "pmk-37-2013--b002-3",
+  "pmk-37-2013--b003-4",
+  "pmk-37-2013--b004-5",
+  "pmk-37-2013--b005-6",
+  "pmk-37-2013--b006-7",
+  "pmk-37-2013--b007-8",
+  "pmk-37-2013--b008-9",
+  "pmk-37-2013--b009-10",
+  "pmk-37-2013--b010-11",
+  "pmk-37-2013--b011-12",
+  "pmk-37-2013--b012-13",
+  "pmk-37-2013--b013-14",
+  "pmk-37-2013--b014-15",
+  "pmk-37-2013--b015-16",
+  "pmk-37-2013--b016-17",
+  "pmk-37-2013--b017-18",
+  "pmk-37-2013--b018-19",
+  "pmk-37-2013--b019-20",
+  "pmk-37-2013--b020-21",
+  "pmk-37-2013--b021-22",
+  "pmk-37-2013--b022-23",
+  "pmk-37-2013--b023-24",
+  "pmk-37-2013--b024-25",
+  "pmk-37-2013--b025-26",
+  "pmk-37-2013--b026-27",
+  "pmk-37-2013--b027-28",
+  "pmk-37-2013--b028-29",
+  "pmk-37-2013--b029-30",
+  "pmk-37-2013--b030-31",
+  "pmk-37-2013--b031-32",
+  "pmk-37-2013--b032-33",
+  "pmk-37-2013--b033-34",
+  "pmk-37-2013--b034-35",
+  "pmk-37-2013--b035-36",
+  "pmk-37-2013--b036-37",
+  "pmk-37-2013--b037-38",
+  "pmk-37-2013--b038-39"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "128/KMK.05",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 128/KMK.05/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-128-kmk-05-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-02-27",
+   "detail_error": null,
+   "number_as_written": "37/PMK.04/2013",
+   "retrieved_at": "2026-09-22T02:34:11+00:00",
+   "source": "DJP",
+   "title_as_written": "TOKO BEBAS BEA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/toko-bebas-bea-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=189",
+   "retrieved_at": "2026-09-21T14:21:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/toko-bebas-bea-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 42464,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:34:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/toko-bebas-bea-0"
+ },
+ "title": "TOKO BEBAS BEA"
+}

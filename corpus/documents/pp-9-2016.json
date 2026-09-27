@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-9-2016",
+ "identity": {
+  "code": "PP",
+  "number": "9",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-9-2016--b000-i",
+  "pp-9-2016--b001-ii",
+  "pp-9-2016--p002-i",
+  "pp-9-2016--p003-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "18",
+     "2015",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 18 TAHUN 2015",
+    "source_of_reading": "DJP",
+    "target_id": "pp-18-2015"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pp-78-2019",
+    "number_as_written": "78 TAHUN 2019",
+    "quote": "Peraturan Pemerintah Nomor 9 Tahun 2016",
+    "source_of_reading": "DJP",
+    "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-04-22",
+   "detail_error": null,
+   "number_as_written": "9 TAHUN 2016",
+   "retrieved_at": "2026-09-22T02:20:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 18 TAHUN 2015 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-18-tahun-2015-tentang-fasilitas-pajak"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=150",
+   "retrieved_at": "2026-09-21T14:18:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-18-tahun-2015-tentang-fasilitas-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4870,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:20:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-18-tahun-2015-tentang-fasilitas-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 18 TAHUN 2015 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+}

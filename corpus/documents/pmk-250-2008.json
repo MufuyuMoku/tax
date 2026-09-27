@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-250-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "250",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-250-2008--b000-1",
+  "pmk-250-2008--b001-2",
+  "pmk-250-2008--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-168-2023",
+    "number_as_written": "168 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 250/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN ORANG PRIBADI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "521/KMK.04",
+     "1998",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 521/KMK.04/1998",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-521-kmk-04-1998"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "250/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:13:58+00:00",
+   "source": "DJP",
+   "title_as_written": "BESARNYA BIAYA JABATAN ATAU BIAYA PENSIUN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEGAWAI TETAP ATAU PENSIUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-biaya-jabatan-atau-biaya-pensiun-yang-dapat-dikurangkan-dari-penghasilan-bruto-1"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 168 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=224",
+   "retrieved_at": "2026-09-21T14:24:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-biaya-jabatan-atau-biaya-pensiun-yang-dapat-dikurangkan-dari-penghasilan-bruto-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2880,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:13:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/besarnya-biaya-jabatan-atau-biaya-pensiun-yang-dapat-dikurangkan-dari-penghasilan-bruto-1"
+ },
+ "title": "BESARNYA BIAYA JABATAN ATAU BIAYA PENSIUN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEGAWAI TETAP ATAU PENSIUNAN"
+}

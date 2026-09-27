@@ -1,0 +1,92 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-14-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "14",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-14-2013--b000-1",
+  "per-djp-14-2013--b001-2",
+  "per-djp-14-2013--b002-3",
+  "per-djp-14-2013--b003-4",
+  "per-djp-14-2013--b004-5",
+  "per-djp-14-2013--b005-6",
+  "per-djp-14-2013--b006-7",
+  "per-djp-14-2013--b007-8",
+  "per-djp-14-2013--b008-9",
+  "per-djp-14-2013--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-2-2024",
+    "number_as_written": "PER-2/PJ/2024",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2013",
+    "source_of_reading": "DJP",
+    "title": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "32",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-32-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-04-18",
+   "detail_error": null,
+   "number_as_written": "PER-14/PJ/2013",
+   "retrieved_at": "2026-09-22T02:33:50+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, ISI, TATA CARA PENGISIAN DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 SERTA BENTUK BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-tata-cara-pengisian-dan-penyampaian-surat-pemberitahuan-masa-pajak-0"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-2/PJ/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=188",
+   "retrieved_at": "2026-09-21T14:21:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-tata-cara-pengisian-dan-penyampaian-surat-pemberitahuan-masa-pajak-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15563,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:33:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-tata-cara-pengisian-dan-penyampaian-surat-pemberitahuan-masa-pajak-0"
+ },
+ "title": "BENTUK, ISI, TATA CARA PENGISIAN DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 SERTA BENTUK BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26"
+}

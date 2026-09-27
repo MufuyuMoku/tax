@@ -1,0 +1,114 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-140-2000",
+ "identity": {
+  "code": "PP",
+  "number": "140",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-140-2000--b000-1",
+  "pp-140-2000--b001-2",
+  "pp-140-2000--b002-3",
+  "pp-140-2000--b003-4",
+  "pp-140-2000--b004-5",
+  "pp-140-2000--b005-6",
+  "pp-140-2000--p006-1",
+  "pp-140-2000--p007-2",
+  "pp-140-2000--p008-3",
+  "pp-140-2000--p009-4",
+  "pp-140-2000--p010-5",
+  "pp-140-2000--p011-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-51-2008",
+    "number_as_written": "51 TAHUN 2008",
+    "quote": "Peraturan Pemerintah Nomor 140 Tahun 2000",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "73",
+     "1996",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 73 Tahun 1996",
+    "source_of_reading": "DJP",
+    "target_id": "pp-73-1996"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-21",
+   "detail_error": null,
+   "number_as_written": "140 TAHUN 2000",
+   "retrieved_at": "2026-09-22T03:57:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi"
+  },
+  {
+   "date_as_written": "2000-12-21 00:00:00",
+   "number_as_written": "PP 140 TAHUN 2000",
+   "retrieved_at": "2026-09-21T14:11:31+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-140-tahun-2000"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=371",
+   "retrieved_at": "2026-09-21T14:35:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=89",
+   "retrieved_at": "2026-09-21T14:11:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-140-tahun-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8185,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:57:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-usaha-jasa-konstruksi"
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+}

@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-240-2002-ralat",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "240",
+  "variant": "ralat",
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-06-17",
+   "detail_error": null,
+   "number_as_written": "KEP - 240/PJ./2002",
+   "retrieved_at": "2026-09-22T03:39:36+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-240/PJ./2002 TANGGAL 30 APRIL 2002 TENTANG PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN KEP-506/PJ./2001",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-direktur-jenderal-pajak-nomor-kep-240pj2002-tanggal-30-april-2002-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=334",
+   "retrieved_at": "2026-09-21T14:32:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-direktur-jenderal-pajak-nomor-kep-240pj2002-tanggal-30-april-2002-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-240/PJ./2002 TANGGAL 30 APRIL 2002 TENTANG PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN KEP-506/PJ./2001"
+}

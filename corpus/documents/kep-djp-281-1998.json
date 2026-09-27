@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-281-1998",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "281",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-12-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 281/PJ./1998",
+   "retrieved_at": "2026-09-22T04:16:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan-1"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=413",
+   "retrieved_at": "2026-09-21T14:38:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-dan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+}

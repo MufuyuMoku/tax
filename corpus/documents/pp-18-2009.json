@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-18-2009",
+ "identity": {
+  "code": "PP",
+  "number": "18",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-18-2009--b000-1",
+  "pp-18-2009--b001-2",
+  "pp-18-2009--b002-3",
+  "pp-18-2009--b003-4",
+  "pp-18-2009--b004-5",
+  "pp-18-2009--p005-1",
+  "pp-18-2009--p006-2",
+  "pp-18-2009--p007-3",
+  "pp-18-2009--p008-4",
+  "pp-18-2009--p009-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-55-2022",
+    "number_as_written": "55 TAHUN 2022",
+    "quote": "Peraturan Pemerintah Nomor 18 Tahun 2009",
+    "source_of_reading": "DJP",
+    "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-02-09",
+   "detail_error": null,
+   "number_as_written": "18 TAHUN 2009",
+   "retrieved_at": "2026-09-22T03:09:41+00:00",
+   "source": "DJP",
+   "title_as_written": "BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DIKECUALIKAN DARI OBJEK PPH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang"
+  },
+  {
+   "date_as_written": "2009-02-09 00:00:00",
+   "number_as_written": "PP 18 TAHUN 2009",
+   "retrieved_at": "2026-09-21T14:09:58+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dikecualikan Dari Objek Pajak Penghasilan.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-18-tahun-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=220",
+   "retrieved_at": "2026-09-21T14:24:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=65",
+   "retrieved_at": "2026-09-21T14:09:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-18-tahun-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4032,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:09:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang"
+ },
+ "title": "BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DIKECUALIKAN DARI OBJEK PPH"
+}

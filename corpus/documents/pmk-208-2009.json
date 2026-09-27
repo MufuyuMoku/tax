@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-208-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "208",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-208-2009--b000-i",
+  "pmk-208-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "255",
+     "2008",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 255/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-255-2008"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-215-2018",
+    "number_as_written": "215/PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 208/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "title": "PENGHITUNGAN ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH, WAJIB PAJAK MASUK BURSA, WAJIB PAJAK LAINNYA YANG BERDASARKAN KETENTUAN DIHARUSKAN MEMBUAT LAPORAN KEUANGAN BERKALA DAN WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-12-10",
+   "detail_error": null,
+   "number_as_written": "208/PMK.03/2009",
+   "retrieved_at": "2026-09-22T02:59:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 255/PMK.03/2008TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH, WAJIB PAJAK MASUK BURSA DAN WAJIB PAJAK LAINNYA YANG BERDASARKAN KETENTUAN DIHARUSKAN MEMBUAT LAPORAN KEUANGAN BERKALA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-255pmk032008tentang-penghitungan-besarnya"
+  },
+  {
+   "date_as_written": "2009-12-10 00:00:00",
+   "number_as_written": "208/PMK.03/2009",
+   "retrieved_at": "2026-09-21T14:40:35+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 255/PMK.03/2008 tentang Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa dan Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/208-pmk-03-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=213",
+   "retrieved_at": "2026-09-21T14:23:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-255pmk032008tentang-penghitungan-besarnya",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=373",
+   "retrieved_at": "2026-09-21T14:40:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/208-pmk-03-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4751,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:59:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-255pmk032008tentang-penghitungan-besarnya"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 255/PMK.03/2008TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH, WAJIB PAJAK MASUK BURSA DAN WAJIB PAJAK LAINNYA YANG BERDASARKAN KETENTUAN DIHARUSKAN MEMBUAT LAPORAN KEUANGAN BERKALA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
+}

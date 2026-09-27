@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-273-1998",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "273",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-12-11",
+   "detail_error": null,
+   "number_as_written": "KEP - 273/PJ./1998",
+   "retrieved_at": "2026-09-22T04:17:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAKUAN PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA KREDIT NON-PERFORMING",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengakuan-penghasilan-atas-penghasilan-berupa-bunga-kredit-non-performing"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=414",
+   "retrieved_at": "2026-09-21T14:38:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengakuan-penghasilan-atas-penghasilan-berupa-bunga-kredit-non-performing",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGAKUAN PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA KREDIT NON-PERFORMING"
+}

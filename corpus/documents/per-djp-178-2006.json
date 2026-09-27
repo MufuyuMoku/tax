@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-178-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "178",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-178-2006--b000-1",
+  "per-djp-178-2006--b001-2",
+  "per-djp-178-2006--b002-3",
+  "per-djp-178-2006--b003-4",
+  "per-djp-178-2006--b004-5",
+  "per-djp-178-2006--b005-6",
+  "per-djp-178-2006--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "170",
+     "2002",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-170/PJ./2002",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-170-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-12-26",
+   "detail_error": null,
+   "number_as_written": "PER-178/PJ/2006",
+   "retrieved_at": "2026-09-22T03:23:04+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-dan-perkiraan-penghasilan-neto-sebagaimana-dimaksud-dalam-pasal-23-ayat-3"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=265",
+   "retrieved_at": "2026-09-21T14:27:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-dan-perkiraan-penghasilan-neto-sebagaimana-dimaksud-dalam-pasal-23-ayat-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6631,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:23:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-dan-perkiraan-penghasilan-neto-sebagaimana-dimaksud-dalam-pasal-23-ayat-3"
+ },
+ "title": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000"
+}

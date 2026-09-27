@@ -1,0 +1,155 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-181-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "181/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-416-kmk-04-1996",
+    "number_as_written": "416/KMK.04/1996",
+    "quote": "Keputusan Menteri Keuangan Nomor : 181/KMK.04/1995",
+    "source_of_reading": "DJP",
+    "title": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK PERUSAHAAN PELAYARAN DALAM NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 522/KMK.04/2000 TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH DAN WAJIB PAJAK LAINNYA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU Ãƒâ€šÃ‚Â",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-522kmk042000-tentang-penghitungan-besarnya"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 554/KMK.04/2000 TENTANG BATASAN DAN TATA CARA PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS KEGIATAN MEMBANGUN SENDIRI YANG DILAKUKAN TIDAK DALAM KEGIATAN USAHA ATAU PEKERJAAN OLEH ORANG PRIBADI ATAU BADAN YANG HASILNYA DIGUNAKAN SENDIRI ATAU DIGUNAKAN PIHAK LAIN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-554kmk042000-tentang-batasan-dan-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 536/KMK.04/2000 TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-536kmk042000-tentang-tata-cara-penerimaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN SEBAGAI PEMBAYARAN PENDAHULUAN PAJAK BUMI DAN BANGUNAN 1986",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-pembayaran-pajak-bumi-dan-bangunan-sebagai-pembayaran-pendahuluan-pajak-bumi"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK LUAR NEGERI YANG BERGERAK DI BIDANG USAHA PELAYARAN ATAU PENERBANGAN DALAM JALUR INTERNASIONAL",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-luar-negeri-yang-bergerak-di"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 20 SAMPAI DENGAN 26 JANUARI 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-232"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 28 JULI SAMPAI DENGAN 3 AGUSTUS 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-247"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHANKEPUTUSANDIREKTURJENDERALPAJAKNOMORKEP-1165/PJ.24/1993TENTANGSISTEM,BENTUKDANJENISLAPORANBIDANGOPERASIONALDALAMLINGKUNGANDIREKTORATJENDERALPAJAKKHUSUSMENGENAIBIDANGPENGOLAHANDATADANINFORMASIPERPAJAKANDANKEP-17/PJ.24/1995TENTANGPERUBAHANKEPUTUSANDIREKTURJENDERALPAJAKNOMORKEP-1165/PJ.24/1993TENTANGSISTEM,BENTUKDANJENISLAPORANBIDANGOPERASIONALDALAMLINGKUNGANDIREKTORATJENDERALPAJAKKHUSUSMENGENAISISTEMDANBENTUKLAPORANPENERIMAANPAJAK(LPP)DANLAPORANPENERIMAANPAJAK(LPP)II",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahankeputusandirekturjenderalpajaknomorkep"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-05-01",
+   "detail_error": null,
+   "number_as_written": "181/KMK.04/1995",
+   "retrieved_at": "2026-09-22T04:42:53+00:00",
+   "source": "DJP",
+   "title_as_written": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK YANG BERGERAK DI BIDANG USAHA PELAYARAN ATAU PENERBANGAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-yang-bergerak-di-bidang-usaha"
+  },
+  {
+   "date_as_written": "1995-05-01 00:00:00",
+   "number_as_written": "181/KMK.04/1995",
+   "retrieved_at": "2026-09-21T14:53:34+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Norma Penghitungan Khusus Penghasilan Neto Bagi Wajib Pajak yang Bergerak Dibidang Usaha Pelayaran atau Penerangan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/181-kmk-04-1995"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=451",
+   "retrieved_at": "2026-09-21T14:41:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-yang-bergerak-di-bidang-usaha",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=99",
+   "retrieved_at": "2026-09-21T14:53:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/181-kmk-04-1995",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK YANG BERGERAK DI BIDANG USAHA PELAYARAN ATAU PENERBANGAN"
+}

@@ -1,0 +1,538 @@
+{
+ "attachments": [
+  {
+   "file_name": "PER-11_PJ_2025_0.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "11",
+    "year": "2025"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/PER-11_PJ_2025_0.pdf"
+  },
+  {
+   "file_name": "LAMPIRAN PER 11 TAHUN 2025.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "11",
+    "year": "2025"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/LAMPIRAN%20PER%2011%20TAHUN%202025.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-11-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "11",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-11-2025--b000-1",
+  "per-djp-11-2025--b001-2",
+  "per-djp-11-2025--b002-3",
+  "per-djp-11-2025--b003-4",
+  "per-djp-11-2025--b004-5",
+  "per-djp-11-2025--b005-6",
+  "per-djp-11-2025--b006-7",
+  "per-djp-11-2025--b007-8",
+  "per-djp-11-2025--b008-9",
+  "per-djp-11-2025--b009-10",
+  "per-djp-11-2025--b010-11",
+  "per-djp-11-2025--b011-12",
+  "per-djp-11-2025--b012-13",
+  "per-djp-11-2025--b013-14",
+  "per-djp-11-2025--b014-15",
+  "per-djp-11-2025--b015-16",
+  "per-djp-11-2025--b016-17",
+  "per-djp-11-2025--b017-18",
+  "per-djp-11-2025--b018-19",
+  "per-djp-11-2025--b019-20",
+  "per-djp-11-2025--b020-21",
+  "per-djp-11-2025--b021-22",
+  "per-djp-11-2025--b022-23",
+  "per-djp-11-2025--b023-24",
+  "per-djp-11-2025--b024-25",
+  "per-djp-11-2025--b025-26",
+  "per-djp-11-2025--b026-27",
+  "per-djp-11-2025--b027-28",
+  "per-djp-11-2025--b028-29",
+  "per-djp-11-2025--b029-30",
+  "per-djp-11-2025--b030-31",
+  "per-djp-11-2025--b031-32",
+  "per-djp-11-2025--b032-33",
+  "per-djp-11-2025--b033-34",
+  "per-djp-11-2025--b034-35",
+  "per-djp-11-2025--b035-36",
+  "per-djp-11-2025--b036-37",
+  "per-djp-11-2025--b037-38",
+  "per-djp-11-2025--b038-39",
+  "per-djp-11-2025--b039-4",
+  "per-djp-11-2025--b040-40",
+  "per-djp-11-2025--b041-41",
+  "per-djp-11-2025--b042-42",
+  "per-djp-11-2025--b043-43",
+  "per-djp-11-2025--b044-44",
+  "per-djp-11-2025--b045-45",
+  "per-djp-11-2025--b046-46",
+  "per-djp-11-2025--b047-47",
+  "per-djp-11-2025--b048-48",
+  "per-djp-11-2025--b049-49",
+  "per-djp-11-2025--b050-50",
+  "per-djp-11-2025--b051-51",
+  "per-djp-11-2025--b052-52",
+  "per-djp-11-2025--b053-53",
+  "per-djp-11-2025--b054-54",
+  "per-djp-11-2025--b055-55",
+  "per-djp-11-2025--b056-56",
+  "per-djp-11-2025--b057-57",
+  "per-djp-11-2025--b058-58",
+  "per-djp-11-2025--b059-59",
+  "per-djp-11-2025--b060-60",
+  "per-djp-11-2025--b061-61",
+  "per-djp-11-2025--b062-62",
+  "per-djp-11-2025--b063-63",
+  "per-djp-11-2025--b064-64",
+  "per-djp-11-2025--b065-65",
+  "per-djp-11-2025--b066-66",
+  "per-djp-11-2025--b067-67",
+  "per-djp-11-2025--b068-68",
+  "per-djp-11-2025--b069-69",
+  "per-djp-11-2025--b070-70",
+  "per-djp-11-2025--b071-71",
+  "per-djp-11-2025--b072-72",
+  "per-djp-11-2025--b073-73",
+  "per-djp-11-2025--b074-74",
+  "per-djp-11-2025--b075-75",
+  "per-djp-11-2025--b076-76",
+  "per-djp-11-2025--b077-77",
+  "per-djp-11-2025--b078-78",
+  "per-djp-11-2025--b079-79",
+  "per-djp-11-2025--b080-80",
+  "per-djp-11-2025--b081-81",
+  "per-djp-11-2025--b082-82",
+  "per-djp-11-2025--b083-83",
+  "per-djp-11-2025--b084-84",
+  "per-djp-11-2025--b085-85",
+  "per-djp-11-2025--b086-86",
+  "per-djp-11-2025--b087-87",
+  "per-djp-11-2025--b088-88",
+  "per-djp-11-2025--b089-89",
+  "per-djp-11-2025--b090-90",
+  "per-djp-11-2025--b091-91",
+  "per-djp-11-2025--b092-92",
+  "per-djp-11-2025--b093-93",
+  "per-djp-11-2025--b094-94",
+  "per-djp-11-2025--b095-95",
+  "per-djp-11-2025--b096-96",
+  "per-djp-11-2025--b097-97",
+  "per-djp-11-2025--b098-98",
+  "per-djp-11-2025--b099-99",
+  "per-djp-11-2025--b100-100",
+  "per-djp-11-2025--b101-101",
+  "per-djp-11-2025--b102-102",
+  "per-djp-11-2025--b103-103",
+  "per-djp-11-2025--b104-104",
+  "per-djp-11-2025--b105-105",
+  "per-djp-11-2025--b106-106",
+  "per-djp-11-2025--b107-107",
+  "per-djp-11-2025--b108-108",
+  "per-djp-11-2025--b109-109",
+  "per-djp-11-2025--b110-110",
+  "per-djp-11-2025--b111-111",
+  "per-djp-11-2025--b112-112",
+  "per-djp-11-2025--b113-113",
+  "per-djp-11-2025--b114-114",
+  "per-djp-11-2025--b115-115",
+  "per-djp-11-2025--b116-116",
+  "per-djp-11-2025--b117-117",
+  "per-djp-11-2025--b118-118",
+  "per-djp-11-2025--b119-119",
+  "per-djp-11-2025--b120-120",
+  "per-djp-11-2025--b121-121",
+  "per-djp-11-2025--b122-122",
+  "per-djp-11-2025--b123-123",
+  "per-djp-11-2025--b124-124",
+  "per-djp-11-2025--b125-125",
+  "per-djp-11-2025--b126-126",
+  "per-djp-11-2025--b127-127",
+  "per-djp-11-2025--b128-128",
+  "per-djp-11-2025--b129-129",
+  "per-djp-11-2025--b130-130",
+  "per-djp-11-2025--b131-131",
+  "per-djp-11-2025--b132-132",
+  "per-djp-11-2025--b133-133",
+  "per-djp-11-2025--b134-134",
+  "per-djp-11-2025--b135-135",
+  "per-djp-11-2025--b136-136",
+  "per-djp-11-2025--b137-137",
+  "per-djp-11-2025--b138-138",
+  "per-djp-11-2025--b139-139",
+  "per-djp-11-2025--b140-140",
+  "per-djp-11-2025--b141-141",
+  "per-djp-11-2025--b142-142",
+  "per-djp-11-2025--b143-143",
+  "per-djp-11-2025--b144-144",
+  "per-djp-11-2025--b145-145",
+  "per-djp-11-2025--b146-146",
+  "per-djp-11-2025--b147-147"
+ ],
+ "quality_flags": [
+  "urutan_loncat:39->4,4->40",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2026",
+    "number_as_written": "PER-3/PJ/2026",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2025",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "24",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-24-2008"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "7",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-7/PJ./2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-7-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "21",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-21-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "34",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ./2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-34-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "39",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ./2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-39-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "66",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-66/PJ./2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-66-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "34",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-34-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "45",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-45-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "10",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2013",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-10-2013"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "26",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2013",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-26-2013"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "5",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2014",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-5-2014"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "19",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2014",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-19-2014"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "29",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-29/PJ/2015",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-29-2015"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "36",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-36/PJ/2015",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-36-2015"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "30",
+     "2017",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2017",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-30-2017"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2019",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2019"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "16",
+     "2021",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2021",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-16-2021"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "17",
+     "2021",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-17-2021"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "24",
+     "2021",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2021",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-24-2021"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "14",
+     "2022",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2022",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-14-2022"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2024",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2024",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2024"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "5",
+     "2024",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2024",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-5-2024"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "50",
+     "1994",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1994",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-50-1994"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "50",
+     "1996",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1996",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-50-1996"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "537",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-537-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-05-22",
+   "detail_error": null,
+   "number_as_written": "PER-11/PJ/2025",
+   "retrieved_at": "2026-09-21T14:52:49+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-pelaporan-pajak-penghasilan-pajak-pertambahan-nilai-pajak-penjualan-atas-0"
+  },
+  {
+   "date_as_written": "2025-05-22 12:00:00",
+   "number_as_written": "PER-11/PJ/2025",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Ketentuan Pelaporan Pajak Penghasilan, Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah, dan Bea Meterai dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-11pj2025"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-3/PJ/2026 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=19",
+   "retrieved_at": "2026-09-21T14:09:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-pelaporan-pajak-penghasilan-pajak-pertambahan-nilai-pajak-penjualan-atas-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=3",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-11pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 275666,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:52:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-pelaporan-pajak-penghasilan-pajak-pertambahan-nilai-pajak-penjualan-atas-0"
+ },
+ "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+}

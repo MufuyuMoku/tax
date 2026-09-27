@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-80-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "80",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-13",
+   "detail_error": null,
+   "number_as_written": "KEP - 80/PJ./2002",
+   "retrieved_at": "2026-09-22T03:43:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYAMPAIAN LAMPIRAN 1721-A1 ATAU 1721-A2 SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN PASAL 21 DENGAN MENGGUNAKAN MEDIA ELEKTRONIK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penyampaian-lampiran-1721-a1-atau-1721-a2-surat-pemberitahuan-tahunan-pajak-penghasilan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=343",
+   "retrieved_at": "2026-09-21T14:33:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyampaian-lampiran-1721-a1-atau-1721-a2-surat-pemberitahuan-tahunan-pajak-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYAMPAIAN LAMPIRAN 1721-A1 ATAU 1721-A2 SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN PASAL 21 DENGAN MENGGUNAKAN MEDIA ELEKTRONIK"
+}

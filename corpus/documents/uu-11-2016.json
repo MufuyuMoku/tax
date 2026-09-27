@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "uu-11-2016",
+ "identity": {
+  "code": "UU",
+  "number": "11",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "uu-11-2016--b000-1",
+  "uu-11-2016--b001-2",
+  "uu-11-2016--b002-3",
+  "uu-11-2016--b003-4",
+  "uu-11-2016--b004-5",
+  "uu-11-2016--b005-6",
+  "uu-11-2016--b006-7",
+  "uu-11-2016--b007-8",
+  "uu-11-2016--b008-9",
+  "uu-11-2016--b009-10",
+  "uu-11-2016--b010-11",
+  "uu-11-2016--b011-12",
+  "uu-11-2016--b012-13",
+  "uu-11-2016--b013-14",
+  "uu-11-2016--b014-15",
+  "uu-11-2016--b015-16",
+  "uu-11-2016--b016-17",
+  "uu-11-2016--b017-18",
+  "uu-11-2016--b018-19",
+  "uu-11-2016--b019-20",
+  "uu-11-2016--b020-21",
+  "uu-11-2016--b021-22",
+  "uu-11-2016--b022-23",
+  "uu-11-2016--b023-24",
+  "uu-11-2016--b024-25",
+  "uu-11-2016--p025-1",
+  "uu-11-2016--p026-2",
+  "uu-11-2016--p027-3",
+  "uu-11-2016--p028-4",
+  "uu-11-2016--p029-5",
+  "uu-11-2016--p030-6",
+  "uu-11-2016--p031-7",
+  "uu-11-2016--p032-8",
+  "uu-11-2016--p033-9",
+  "uu-11-2016--p034-10",
+  "uu-11-2016--p035-11",
+  "uu-11-2016--p036-12",
+  "uu-11-2016--p037-13",
+  "uu-11-2016--p038-14",
+  "uu-11-2016--p039-15",
+  "uu-11-2016--p040-16",
+  "uu-11-2016--p041-17",
+  "uu-11-2016--p042-18",
+  "uu-11-2016--p043-19",
+  "uu-11-2016--p044-20",
+  "uu-11-2016--p045-21",
+  "uu-11-2016--p046-22",
+  "uu-11-2016--p047-23",
+  "uu-11-2016--p048-24",
+  "uu-11-2016--p049-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-07-01",
+   "detail_error": null,
+   "number_as_written": "11 TAHUN 2016",
+   "retrieved_at": "2026-09-22T02:19:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAMPUNAN PAJAK",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/pengampunan-pajak-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=147",
+   "retrieved_at": "2026-09-21T14:18:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengampunan-pajak-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 63174,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:19:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengampunan-pajak-0"
+ },
+ "title": "PENGAMPUNAN PAJAK"
+}

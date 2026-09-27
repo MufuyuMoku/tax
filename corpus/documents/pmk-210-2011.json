@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-210-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "210",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-12 00:00:00",
+   "number_as_written": "210/PMK.07/2011",
+   "retrieved_at": "2026-09-21T14:37:15+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2011.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/210-pmk-07-2011"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=323",
+   "retrieved_at": "2026-09-21T14:37:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/210-pmk-07-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2011."
+}

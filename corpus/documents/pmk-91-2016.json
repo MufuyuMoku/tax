@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-91-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "91",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-06-09 00:00:00",
+   "number_as_written": "91/PMK.010/2016",
+   "retrieved_at": "2026-09-21T14:29:05+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga\r\nNegara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Dan/ atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2016.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-010-2016"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=205",
+   "retrieved_at": "2026-09-21T14:29:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-010-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga\r\nNegara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Dan/ atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2016."
+}

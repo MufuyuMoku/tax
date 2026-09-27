@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-249-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "249",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-249-2008--b000-1",
+  "pmk-249-2008--b001-2",
+  "pmk-249-2008--b002-3",
+  "pmk-249-2008--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-126-2012",
+    "number_as_written": "126/PMK.011/2012",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 249/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 249/PMK.03/2008 TENTANG PENYUSUTAN ATAS PENGELUARAN UNTUK MEMPEROLEH HARTA BERWUJUD YANG DIMILIKI DAN DIGUNAKAN DALAM BIDANG USAHA TERTENTU"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-72-2023",
+    "number_as_written": "72 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 249/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "249/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:12:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYUSUTAN ATAS PENGELUARAN UNTUK MEMPEROLEH HARTA BERWUJUD YANG DIMILIKI DAN DIGUNAKAN DALAM BIDANG USAHA TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyusutan-atas-pengeluaran-untuk-memperoleh-harta-berwujud-yang-dimiliki-dan-digunakan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=222",
+   "retrieved_at": "2026-09-21T14:24:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyusutan-atas-pengeluaran-untuk-memperoleh-harta-berwujud-yang-dimiliki-dan-digunakan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3510,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:12:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyusutan-atas-pengeluaran-untuk-memperoleh-harta-berwujud-yang-dimiliki-dan-digunakan"
+ },
+ "title": "PENYUSUTAN ATAS PENGELUARAN UNTUK MEMPEROLEH HARTA BERWUJUD YANG DIMILIKI DAN DIGUNAKAN DALAM BIDANG USAHA TERTENTU"
+}

@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-217-2014",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "217",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-217-2014--b000-kedua",
+  "kep-djp-217-2014--b001-ketiga",
+  "kep-djp-217-2014--b002-keempat",
+  "kep-djp-217-2014--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "6",
+     "2014",
+     null
+    ],
+    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-06/PJ/2014",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-6-2014"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-10-16",
+   "detail_error": null,
+   "number_as_written": "KEP-217/PJ/2014",
+   "retrieved_at": "2026-09-22T02:29:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-06/PJ/2014 TENTANG DISTRIBUSI RENCANA PENERIMAAN PPH, PPN & PPN BM, PAJAK LAINNYA, SERTA PBB PER KANTOR WILAYAH DJP TAHUN ANGGARAN 2014",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-06pj2014-tentang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=171",
+   "retrieved_at": "2026-09-21T14:20:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-06pj2014-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5381,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:29:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-06pj2014-tentang"
+ },
+ "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-06/PJ/2014 TENTANG DISTRIBUSI RENCANA PENERIMAAN PPH, PPN & PPN BM, PAJAK LAINNYA, SERTA PBB PER KANTOR WILAYAH DJP TAHUN ANGGARAN 2014"
+}

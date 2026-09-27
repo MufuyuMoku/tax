@@ -1,0 +1,65 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-139-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "139",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-139-2010--b000-1",
+  "pmk-139-2010--b001-2",
+  "pmk-139-2010--b002-3",
+  "pmk-139-2010--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-08-11",
+   "detail_error": null,
+   "number_as_written": "139/PMK.03/2010",
+   "retrieved_at": "2026-09-22T02:50:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN KEMBALI BESARNYA PENGHASILAN YANG DIPEROLEH WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DARI PEMBERI KERJA YANG MEMILIKI HUBUNGAN ISTIMEWA DENGAN PERUSAHAAN LAIN YANG TIDAK DIDIRIKAN DAN TIDAK BERTEMPAT KEDUDUKAN DI INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-kembali-besarnya-penghasilan-yang-diperoleh-wajib-pajak-orang-pribadi-dalam"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=208",
+   "retrieved_at": "2026-09-21T14:23:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-kembali-besarnya-penghasilan-yang-diperoleh-wajib-pajak-orang-pribadi-dalam",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6026,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:50:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penentuan-kembali-besarnya-penghasilan-yang-diperoleh-wajib-pajak-orang-pribadi-dalam"
+ },
+ "title": "PENENTUAN KEMBALI BESARNYA PENGHASILAN YANG DIPEROLEH WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DARI PEMBERI KERJA YANG MEMILIKI HUBUNGAN ISTIMEWA DENGAN PERUSAHAAN LAIN YANG TIDAK DIDIRIKAN DAN TIDAK BERTEMPAT KEDUDUKAN DI INDONESIA"
+}

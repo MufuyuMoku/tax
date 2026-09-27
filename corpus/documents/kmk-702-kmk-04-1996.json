@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-702-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "702/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-12-30",
+   "detail_error": null,
+   "number_as_written": "702/KMK.04/1996",
+   "retrieved_at": "2026-09-22T04:30:07+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN TEKNIS PERPAJAKAN ATAS KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 75 TAHUN 1996 TENTANG KETENTUAN POKOK PERJANJIAN KARYA PENGUSAHAAN PERTAMBANGAN BATUBARA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-teknis-perpajakan-atas-keputusan-presiden-republik-indonesia-nomor-75-tahun"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=438",
+   "retrieved_at": "2026-09-21T14:40:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-teknis-perpajakan-atas-keputusan-presiden-republik-indonesia-nomor-75-tahun",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELAKSANAAN TEKNIS PERPAJAKAN ATAS KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 75 TAHUN 1996 TENTANG KETENTUAN POKOK PERJANJIAN KARYA PENGUSAHAAN PERTAMBANGAN BATUBARA"
+}

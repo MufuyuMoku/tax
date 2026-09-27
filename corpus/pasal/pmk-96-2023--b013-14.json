@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 2322,
+ "document_id": "pmk-96-2023",
+ "document_number": "96 TAHUN 2023",
+ "document_title": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN",
+ "id": "pmk-96-2023--b013-14",
+ "label": "14",
+ "order": 13,
+ "quality_flags": [
+  "urutan_loncat:38->40"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 14\n(1)\nKemitraan sebagaimana dimaksud dalam Pasal 13 berupa:\na.\npertukaran data katalog elektronik (\ne-catalog\n) dan\ninvoice\nelektronik (\ne-invoice\n) atas Barang Kiriman yang transaksinya melalui PPMSE; dan\nb.\nbentuk kemitraan lainnya yang dapat meningkatkan pelayanan dan pengawasan yang dilakukan oleh Direktorat Jenderal Bea dan Cukai.\n(2)\nPertukaran data katalog elektronik (\ne-catalog\n) dan\ninvoice\nelektronik (\ne-invoice\n) sebagaimana dimaksud pada ayat (1) huruf a dilakukan melalui SKP.\n(3)\nKatalog elektronik (\ne-catalog\n) sebagaimana dimaksud pada ayat (1) huruf a paling sedikit memuat elemen data sebagai berikut:\na.\nnama PPMSE;\nb.\nidentitas penjual;\nc.\nuraian barang;\nd.\nkode barang;\ne.\nkategori barang;\nf.\nspesifikasi barang;\ng.\nnegara asal;\nh.\nsatuan barang;\ni.\nharga barang dalam cara penyerahan (\nincoterm\n)\nDelivery Duty Paid\n(DDP);\nj.\ntanggal pemberlakuan harga;\nk.\njenis mata uang; dan\nl.\ntautan\nUniform Resource Locators\n(URL) barang.\n(4)\nInvoice\nelektronik (\ne-invoice\n) sebagaimana dimaksud pada ayat (1) huruf a paling sedikit memuat elemen data sebagai berikut:\na.\nnama PPMSE;\nb.\nnama Penerima Barang;\nc.\nnomor\ne-invoice\n;\nd.\ntanggal\ne-invoice;\ne.\nuraian barang;\nf.\nkode barang;\ng.\njumlah barang;\nh.\nsatuan barang;\ni.\nharga barang dalam cara penyerahan (\nincoterm\n)\nDelivery Duty Paid\n(DDP);\nj.\njenis mata uang;\nk.\nnilai tukar;\nl.\nnilai, jenis, dan pihak yang memberikan promosi, dalam hal terdapat promosi;\nm.\ntautan\nUniform Resource Locators\n(URL) barang; dan\nn.\nnomor telepon Penerima Barang.\n(5)\nElemen data harga barang sebagaimana dimaksud pada ayat (3) huruf i dan ayat (4) huruf i meliputi:\na.\nharga barang dalam cara penyerahan (\nincoterm\n)\nFree on Board\n(FOB);\nb.\nasuransi;\nc.\nbiaya pengangkutan/pengiriman dari tempat asal sampai dengan tempat pemasukan;\nd.\nbea masuk dan pajak dalam rangka impor; dan\ne.\nbiaya lainnya.\n(6)\nPerlakuan atas skema promosi sebagaimana dimaksud pada ayat (4) huruf 1 dalam penelitian dan penetapan nilai pabean dilaksanakan sesuai dengan tata cara sebagaimana dimaksud dalam Lampiran Huruf L yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.\n(7)\nPelayanan terhadap penyelesaian kewajiban pabean atas Barang Kiriman hanya dapat dilayani setelah PPMSE menyampaikan katalog elektronik (\ne-catalog\n) dan\ninvoice\nelektronik (\ne-invoice\n).",
+ "text_source": {
+  "retrieved_at": "2026-09-21T15:01:11+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman-0"
+ }
+}

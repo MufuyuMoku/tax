@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1868,
+ "document_id": "per-djp-5-2017",
+ "document_number": "PER-05/PJ/2017",
+ "document_title": "PEMBAYARAN PAJAK SECARA ELEKTRONIK",
+ "id": "per-djp-5-2017--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\n(1)\nTransaksi pembayaran atau penyetoran pajak sebagaimana dimaksud dalam Pasal 2 ayat (4) dapat dilakukan melalui:\na.\nteller\nBank/Pos Persepsi;\nb.\nAnjungan Tunai Mandiri (ATM);\nc.\ninternet banking\n;\nd.\nmobile banking\n;\ne.\nEDC; atau\nf.\nsarana lainnya.\n(2)\nAtas pembayaran atau penyetoran pajak sebagaimana dimaksud pada ayat (1), Wajib Pajak menerima BPN sebagai bukti setoran.\n(3)\nBPN sebagaimana dimaksud pada ayat (2) diterbitkan dalam bentuk:\na.\ndokumen bukti pembayaran yang diterbitkan Bank/Pos Persepsi, untuk pembayaran atau penyetoran melalui\nteller\ndengan Kode\nBilling\n;\nb.\nstruk bukti transaksi, untuk pembayaran melalui ATM atau EDC;\nc.\ndokumen elektronik, untuk pembayaran penyetoran melalui\ninternet banking\natau\nmobile banking\n; atau\nd.\nteraan elemen data BPN pada SSP untuk pembayaran melalui teller Bank/Pos Persepsi dengan menggunakan SSP.\n(4)\nBPN sebagaimana dimaksud pada ayat (2) sekurang-kurangnya mencantumkan elemen-elemen sebagai berikut:\na.\nNTPN;\nb.\nNTB atau NTP;\nc.\nKode\nBilling\n;\nd.\nNomor Pokok Wajib Pajak (NPWP);\ne.\nnama Wajib Pajak;\nf.\nalamat Wajib Pajak, kecuali untuk BPN yang diterbitkan melalui ATM dan EDC;\ng.\nNomor Objek Pajak (NOP), bila ada;\nh.\nKode Akun Pajak;\ni.\nKode Jenis Setoran;\nj.\nMasa Pajak;\nk.\nTahun Pajak;\nl.\nnomor ketetapan pajak, bila ada;\nm.\nuraian pembayaran, bila ada;\nn.\nNPWP penyetor, bila ada;\no.\nnama penyetor, bila ada;\np.\ntanggal bayar; dan\nq.\njumlah nominal pembayaran.\n(5)\nBPN sebagaimana dimaksud pada ayat (2) termasuk cetakan, salinan, dan fotokopinya, kedudukannya\ndisamakan dengan SSP dalam rangka pelaksanaan ketentuan peraturan perundang-undangan perpajakan.\n(6)\nDalam hal terdapat perbedaan antara data pembayaran yang tertera dalam BPN dengan data pembayaran menurut sistem Penerimaan Negara secara elektronik, maka yang dianggap sah adalah data sistem penerimaan Negara secara elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:18:49+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-secara-elektronik"
+ }
+}

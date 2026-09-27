@@ -1,0 +1,92 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-95-2019",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "95",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [
+  {
+   "code": "KEP-ESELON1",
+   "id": "kep-eselon1-95-2019",
+   "note": "nomor, tahun, dan judul sama tetapi jenisnya berbeda antar sumber; kemungkinan satu peraturan yang sama, tidak digabungkan otomatis",
+   "title": "Pengecualian Pengenaan Sanksi Administrasi Berupa Denda atas Keterlambatan Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2018"
+  }
+ ],
+ "pasal_ids": [
+  "kep-djp-95-2019--b000-kedua",
+  "kep-djp-95-2019--b001-ketiga",
+  "kep-djp-95-2019--b002-keempat",
+  "kep-djp-95-2019--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-03-29",
+   "detail_error": null,
+   "number_as_written": "KEP-95/PJ/2019",
+   "retrieved_at": "2026-09-22T00:45:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI TAHUN PAJAK 2018",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-4"
+  },
+  {
+   "date_as_written": "2019-03-29 00:00:00",
+   "number_as_written": "KEP-95/PJ/2019",
+   "retrieved_at": "2026-09-21T14:58:50+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pengecualian Pengenaan Sanksi Administrasi Berupa Denda Atas Keterlambatan Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2018",
+   "type_as_written": "Keputusan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-95-pj-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=113",
+   "retrieved_at": "2026-09-21T14:15:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-4",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=9",
+   "retrieved_at": "2026-09-21T14:58:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-95-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4747,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:45:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-4"
+ },
+ "title": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI TAHUN PAJAK 2018"
+}

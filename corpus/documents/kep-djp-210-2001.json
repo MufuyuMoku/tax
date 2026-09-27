@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-210-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "210",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-210/PJ./2001",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-03-12",
+   "detail_error": null,
+   "number_as_written": "KEP - 210/PJ./2001",
+   "retrieved_at": "2026-09-22T03:52:30+00:00",
+   "source": "DJP",
+   "title_as_written": "ANGSURAN BULANAN PAJAK PENGHASILAN PASAL 25 DALAM MASA TRANSISI TAHUN PAJAK 2001",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/angsuran-bulanan-pajak-penghasilan-pasal-25-dalam-masa-transisi-tahun-pajak-2001"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=363",
+   "retrieved_at": "2026-09-21T14:34:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/angsuran-bulanan-pajak-penghasilan-pasal-25-dalam-masa-transisi-tahun-pajak-2001",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "ANGSURAN BULANAN PAJAK PENGHASILAN PASAL 25 DALAM MASA TRANSISI TAHUN PAJAK 2001"
+}

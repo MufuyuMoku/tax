@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-603-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "603/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-21",
+   "detail_error": null,
+   "number_as_written": "603/KMK.04/1994",
+   "retrieved_at": "2026-09-22T04:50:49+00:00",
+   "source": "DJP",
+   "title_as_written": "BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI BAGI WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, DAN BADAN USAHA MILIK DAERAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-angsuran-pajak-penghasilan-dalam-tahun-pajak-berjalan-yang-harus-dibayar-sendiri"
+  },
+  {
+   "date_as_written": "1994-12-21 00:00:00",
+   "number_as_written": "603/KMK.04/1994",
+   "retrieved_at": "2026-09-21T14:53:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri Bagi Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara dan Badan Usaha Milik Daerah",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/603-kmk-04-1994"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=461",
+   "retrieved_at": "2026-09-21T14:42:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-angsuran-pajak-penghasilan-dalam-tahun-pajak-berjalan-yang-harus-dibayar-sendiri",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=104",
+   "retrieved_at": "2026-09-21T14:53:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/603-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI BAGI WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, DAN BADAN USAHA MILIK DAERAH"
+}

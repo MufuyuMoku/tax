@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 3038,
+ "document_id": "per-djp-7-2024",
+ "document_number": "PER-7/PJ/2024",
+ "document_title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2018 TENTANG TATA CARA PENDAFTARAN BAGI LEMBAGA KEUANGAN DAN PENYAMPAIAN LAPORAN YANG BERISI INFORMASI KEUANGAN SECARA OTOMATIS",
+ "id": "per-djp-7-2024--b003-11",
+ "label": "11",
+ "order": 3,
+ "quality_flags": [
+  "anomali_romawi:II",
+  "urutan_loncat:1->8,9->11,11->13"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 11\n(1)\nLaporan sebagaimana dimaksud dalam Pasal 2 minimal memuat informasi berupa:\na.\nidentitas pemegang Rekening Keuangan;\nb.\nnomor Rekening Keuangan;\nc.\nidentitas Lembaga Keuangan Pelapor;\nd.\nsaldo atau nilai Rekening Keuangan; dan\ne.\npenghasilan yang terkait dengan Rekening Keuangan,\ndengan rincian dan penjelasan sebagaimana tercantum dalam Lampiran Huruf G yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.\n(2)\nLaporan sebagaimana dimaksud pada ayat (1) dibuat dalam bentuk dokumen elektronik dengan format:\na.\nExtensible Markup Language\n(XML); atau\nb.\nExcel Workbook\n(XLS atau XLSX),\ndan dilakukan pengamanan atau enkripsi dengan aplikasi yang disediakan oleh Direktorat Jenderal Pajak.\n(3)\nLaporan sebagaimana dimaksud pada ayat (1) disampaikan melalui:\na.\nmekanisme elektronik yang dilakukan secara daring melalui laman Direktorat Jenderal Pajak atau laman lain yang ditentukan oleh Direktorat Jenderal Pajak; atau\nb.\nmekanisme nonelektronik yang dilakukan secara langsung ke unit eselon II di lingkungan Direktorat Jenderal Pajak yang mempunyai tugas merumuskan serta melaksanakan kebijakan dan standardisasi teknis di bidang data dan informasi perpajakan atau melalui KPP.\n(4)\nDalam hal penyampaian laporan dengan mekanisme elektronik sebagaimana dimaksud pada ayat (3) huruf a, Lembaga Keuangan Pelapor:\na.\nmengunggah file laporan dalam hal terdapat rekening keuangan yang wajib dilaporkan; atau\nb.\nmemilih pernyataan penyampaian laporan nihil, dalam hal tidak terdapat rekening keuangan yang wajib dilaporkan.\n(5)\nDalam hal penyampaian laporan dengan mekanisme nonelektronik sebagaimana dimaksud pada ayat (3) huruf b, Lembaga Keuangan Pelapor menyampaikan:\na.\nlaporan disertai dengan surat pernyataan penyampaian laporan yang berisi informasi keuangan yang telah ditandatangani dalam bentuk dokumen elektronik dengan format\nPortable Document Format\n(PDF) dalam hal terdapat rekening keuangan yang wajib dilaporkan; atau\nb.\nsurat pernyataan penyampaian laporan yang berisi informasi keuangan yang telah ditandatangani dalam bentuk dokumen elektronik dengan format\nPortable Document Format\n(PDF) dalam hal tidak terdapat rekening keuangan yang wajib dilaporkan.\n(6)\nFormat laporan dan aplikasi untuk melakukan pengamanan atau enkripsi sebagaimana dimaksud pada ayat (2), serta petunjuk pengisian laporan dapat diunduh pada laman Direktorat Jenderal Pajak.\n(7)\nProsedur penyampaian laporan sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai ketentuan yang tercantum dalam Lampiran Huruf H yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.\n(8)\nContoh format surat pernyataan sebagaimana dimaksud pada ayat (5) adalah sebagaimana tercantum dalam Lampiran Huruf I yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.\n4.\nKetentuan ayat (1) dan ayat (3) Pasal 13 diubah, serta di antara ayat (3) dan ayat (4) Pasal 13 disisipkan 4 (empat) ayat, yakni ayat (3a), ayat (3b), ayat (3c), dan ayat (3d) sehingga Pasal 13 berbunyi sebagai berikut:",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:56:47+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-04pj2018-tentang-tata-cara"
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-30-2020",
+ "identity": {
+  "code": "PP",
+  "number": "30",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-30-2020--b000-1",
+  "pp-30-2020--b001-2",
+  "pp-30-2020--b002-3",
+  "pp-30-2020--b003-4",
+  "pp-30-2020--b004-5",
+  "pp-30-2020--b005-6",
+  "pp-30-2020--b006-7",
+  "pp-30-2020--b007-8",
+  "pp-30-2020--b008-9",
+  "pp-30-2020--b009-10",
+  "pp-30-2020--p010-1",
+  "pp-30-2020--p011-2",
+  "pp-30-2020--p012-3",
+  "pp-30-2020--p013-4",
+  "pp-30-2020--p014-5",
+  "pp-30-2020--p015-6",
+  "pp-30-2020--p016-7",
+  "pp-30-2020--p017-8",
+  "pp-30-2020--p018-9",
+  "pp-30-2020--p019-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-55-2022",
+    "number_as_written": "55 TAHUN 2022",
+    "quote": "Peraturan Pemerintah Nomor 30 Tahun 2020",
+    "source_of_reading": "DJP",
+    "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "77",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 77 Tahun 2013",
+    "source_of_reading": "DJP",
+    "target_id": "pp-77-2013"
+   },
+   {
+    "key": [
+     "PP",
+     "56",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 56 Tahun 2015",
+    "source_of_reading": "DJP",
+    "target_id": "pp-56-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-06-18",
+   "detail_error": null,
+   "number_as_written": "30 TAHUN 2020",
+   "retrieved_at": "2026-09-22T00:39:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk"
+  },
+  {
+   "date_as_written": "2020-06-18 00:00:00",
+   "number_as_written": "PP 30 TAHUN 2020",
+   "retrieved_at": "2026-09-21T14:06:27+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=95",
+   "retrieved_at": "2026-09-21T14:14:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=13",
+   "retrieved_at": "2026-09-21T14:06:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 30514,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:39:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk"
+ },
+ "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+}

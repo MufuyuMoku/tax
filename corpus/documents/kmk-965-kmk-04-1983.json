@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-965-kmk-04-1983",
+ "identity": {
+  "code": "KMK",
+  "number": "965/KMK.04",
+  "variant": null,
+  "year": "1983"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1983-12-31",
+   "detail_error": null,
+   "number_as_written": "965/KMK.04/1983",
+   "retrieved_at": "2026-09-22T05:14:57+00:00",
+   "source": "DJP",
+   "title_as_written": "BADAN-BADAN TERTENTU YANG DITETAPKAN SEBAGAI PEMUNGUT PAJAK ATAS PENGHASILAN DARI WAJIB PAJAK YANG MELAKUKAN KEGIATAN USAHA, DASAR PEMUNGUTAN, TARIF, SERTA TATA CARA PELAKSANAANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-badan-tertentu-yang-ditetapkan-sebagai-pemungut-pajak-atas-penghasilan-dari-wajib"
+  },
+  {
+   "date_as_written": "1983-12-31 00:00:00",
+   "number_as_written": "965/KMK.04/1983",
+   "retrieved_at": "2026-09-21T14:54:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Badan-Badan Tertentu yang Ditetapkan Sebagai Pemungut Pajak atas Penghasilan Dari Wajib Pajak yang Melakukan Kegiatan Usaha, Dasar Pemungutan, Tarip Serta Tatacara Pelaksanaannya",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/965-kmk-04-1983"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=492",
+   "retrieved_at": "2026-09-21T14:45:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-badan-tertentu-yang-ditetapkan-sebagai-pemungut-pajak-atas-penghasilan-dari-wajib",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=119",
+   "retrieved_at": "2026-09-21T14:54:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/965-kmk-04-1983",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BADAN-BADAN TERTENTU YANG DITETAPKAN SEBAGAI PEMUNGUT PAJAK ATAS PENGHASILAN DARI WAJIB PAJAK YANG MELAKUKAN KEGIATAN USAHA, DASAR PEMUNGUTAN, TARIF, SERTA TATA CARA PELAKSANAANNYA"
+}

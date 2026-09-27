@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-247-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "247",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "247/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:42:02+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Bantuan atau Santunan yang Dibayarkan oleh Badan Penyelenggara Jaminan Sosial Kepada Wajab Pajak Tertentu yang Dikecualikan Dari Objek Pajak Penghasilan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/247-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=395",
+   "retrieved_at": "2026-09-21T14:42:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/247-pmk-03-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Bantuan atau Santunan yang Dibayarkan oleh Badan Penyelenggara Jaminan Sosial Kepada Wajab Pajak Tertentu yang Dikecualikan Dari Objek Pajak Penghasilan."
+}

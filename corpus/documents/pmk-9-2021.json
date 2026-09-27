@@ -1,0 +1,141 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran Peraturan Menteri Keuangan Nomor 9_PMK.03_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "9",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Peraturan%20Menteri%20Keuangan%20Nomor%209_PMK.03_2021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-9-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "9",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-9-2021--b000-1",
+  "pmk-9-2021--b001-2",
+  "pmk-9-2021--b002-3",
+  "pmk-9-2021--b003-4",
+  "pmk-9-2021--b004-5",
+  "pmk-9-2021--b005-6",
+  "pmk-9-2021--b006-7",
+  "pmk-9-2021--b007-8",
+  "pmk-9-2021--b008-9",
+  "pmk-9-2021--b009-10",
+  "pmk-9-2021--b010-11",
+  "pmk-9-2021--b011-12",
+  "pmk-9-2021--b012-13",
+  "pmk-9-2021--b013-14",
+  "pmk-9-2021--b014-15",
+  "pmk-9-2021--b015-16",
+  "pmk-9-2021--b016-17",
+  "pmk-9-2021--b017-18",
+  "pmk-9-2021--b018-19",
+  "pmk-9-2021--b019-20",
+  "pmk-9-2021--b020-21",
+  "pmk-9-2021--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-149-2021",
+    "number_as_written": "149/PMK.03/2021",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+   },
+   {
+    "id": "pmk-82-2021",
+    "number_as_written": "82/PMK.03/2021",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-3-2022",
+    "number_as_written": "3/PMK.03/2022",
+    "quote": "Peraturan Menteri Keuangan Nomor 9/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "title": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "86",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 86/PMK.03/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-86-2020"
+   },
+   {
+    "key": [
+     "PMK",
+     "110",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 110/PMK.03/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-110-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-01",
+   "detail_error": null,
+   "number_as_written": "9/PMK.03/2021",
+   "retrieved_at": "2026-09-22T00:33:31+00:00",
+   "source": "DJP",
+   "title_as_written": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-pandemi-corona-virus-disease-2019-2"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 3/PMK.03/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=81",
+   "retrieved_at": "2026-09-21T14:13:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-pandemi-corona-virus-disease-2019-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 51566,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:33:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-pandemi-corona-virus-disease-2019-2"
+ },
+ "title": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+}

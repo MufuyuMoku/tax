@@ -17,6 +17,32 @@ angka nyata, bukan klaim.
 
 ---
 
+## M1 — pipa data
+Tanggal: 2026-09-27
+Status: selesai
+
+**Dibangun:**
+- Paket `pipeline/`: `identity`, `pasal`, `status`, `relations`, `attachments`, `checks`, `build`,
+  `fingerprint`. Tanpa permintaan jaringan; masukannya arsip `poc/`.
+- Korpus `corpus/`: 1.122 berkas dokumen, 7.385 berkas pasal, `index.json`, `meta.json`.
+- Tes: 39 tes untuk pemecah pasal, penyusun status, pencocokan lampiran, dan pemeriksa invarian.
+
+**Verifikasi:**
+- Deterministik: dua kali `python -m pipeline.build` memberi sidik jari sama,
+  `670b4e33...` untuk 8.509 berkas. Korpus ditulis ber-LF agar sama di semua sistem.
+- Cocok dengan LAPORAN: 1.122 dokumen, 573 berteks, 549 tanpa teks, 190 status tidak pasti,
+  52 dokumen bertanda mutu.
+- Unit pasal 6.253 versus 6.319 di LAPORAN; selisihnya terjelaskan penuh: 62 dari posting ganda
+  yang dulu dihitung per teks (K-013) dan 4 dari bug pemecah yang diperbaiki (K-015).
+- Invarian dijaga kode: `checks.py` menggagalkan build bila ada rekaman tanpa URL/tanggal, status
+  yang tidak berasal dari klaim sumber, dokumen tanpa teks tanpa alasan, relasi tanpa kutipan, atau
+  lampiran tanpa hasil pencocokan. Delapan tes memastikan pemeriksa itu benar-benar gagal.
+- Tes: `python -m unittest discover -s pipeline/tests -t .` → 39 tes, OK.
+
+**Diputuskan sendiri:** K-012 sampai K-015 di `docs/DECISIONS.md`.
+
+**Belum dikerjakan:** halaman situs (M2). Korpus belum dipakai oleh Astro sama sekali.
+
 ## M0 — kerangka
 Tanggal: 2026-09-27
 Status: selesai

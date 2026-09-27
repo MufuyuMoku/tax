@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-137-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "137",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-137-2005--b000-1",
+  "pmk-137-2005--b001-2",
+  "pmk-137-2005--b002-3",
+  "pmk-137-2005--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 137 /PMK.03/2005",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "564",
+     "2004",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 564/KMK.03/2004",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-564-2004"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-12-30",
+   "detail_error": null,
+   "number_as_written": "137/PMK.03/2005",
+   "retrieved_at": "2026-09-22T03:28:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak"
+  },
+  {
+   "date_as_written": "2005-12-30 00:00:00",
+   "number_as_written": "137/PMK.03/2005",
+   "retrieved_at": "2026-09-21T14:46:02+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyesuaian Besarnya Penghasilan Tidak Kena Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/137-pmk-03-2005"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=283",
+   "retrieved_at": "2026-09-21T14:28:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=455",
+   "retrieved_at": "2026-09-21T14:46:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/137-pmk-03-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3373,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:28:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-penghasilan-tidak-kena-pajak"
+ },
+ "title": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK"
+}

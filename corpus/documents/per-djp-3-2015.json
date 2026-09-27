@@ -1,0 +1,128 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-3-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-3-2015--b000-1",
+  "per-djp-3-2015--b001-2",
+  "per-djp-3-2015--b002-3",
+  "per-djp-3-2015--b003-4",
+  "per-djp-3-2015--b004-5",
+  "per-djp-3-2015--b005-6",
+  "per-djp-3-2015--b006-7",
+  "per-djp-3-2015--b007-7"
+ ],
+ "quality_flags": [
+  "urutan_loncat:7->7",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "47",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2008",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-47-2008"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "6",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-6-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "36",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-36/PJ/2013",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-36-2013"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-1/PJ/2014",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2014"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "6",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2014",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-6-2014"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-02-13",
+   "detail_error": null,
+   "number_as_written": "PER-03/PJ/2015",
+   "retrieved_at": "2026-09-22T02:28:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=168",
+   "retrieved_at": "2026-09-21T14:20:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9753,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:28:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik"
+ },
+ "title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK"
+}

@@ -1,0 +1,159 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-160-2018",
+ "identity": {
+  "code": "PMK",
+  "number": "160",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-160-2018--b000-1",
+  "pmk-160-2018--b001-2",
+  "pmk-160-2018--b002-3",
+  "pmk-160-2018--b003-4",
+  "pmk-160-2018--b004-5",
+  "pmk-160-2018--b005-6",
+  "pmk-160-2018--b006-7",
+  "pmk-160-2018--b007-8",
+  "pmk-160-2018--b008-9",
+  "pmk-160-2018--b009-10",
+  "pmk-160-2018--b010-11",
+  "pmk-160-2018--b011-12",
+  "pmk-160-2018--b012-13",
+  "pmk-160-2018--b013-14",
+  "pmk-160-2018--b014-15",
+  "pmk-160-2018--b015-16",
+  "pmk-160-2018--b016-17",
+  "pmk-160-2018--b017-18",
+  "pmk-160-2018--b018-19",
+  "pmk-160-2018--b019-20",
+  "pmk-160-2018--b020-21",
+  "pmk-160-2018--b021-22",
+  "pmk-160-2018--b022-23",
+  "pmk-160-2018--b023-24",
+  "pmk-160-2018--b024-25",
+  "pmk-160-2018--b025-26",
+  "pmk-160-2018--b026-27",
+  "pmk-160-2018--b027-28",
+  "pmk-160-2018--b028-29",
+  "pmk-160-2018--b029-30",
+  "pmk-160-2018--b030-31",
+  "pmk-160-2018--b031-32",
+  "pmk-160-2018--b032-33",
+  "pmk-160-2018--b033-34",
+  "pmk-160-2018--b034-35",
+  "pmk-160-2018--b035-36",
+  "pmk-160-2018--b036-37",
+  "pmk-160-2018--b037-38",
+  "pmk-160-2018--b038-39",
+  "pmk-160-2018--b039-40",
+  "pmk-160-2018--b040-41",
+  "pmk-160-2018--b041-42",
+  "pmk-160-2018--b042-43",
+  "pmk-160-2018--b043-44",
+  "pmk-160-2018--b044-45",
+  "pmk-160-2018--b045-46",
+  "pmk-160-2018--b046-47",
+  "pmk-160-2018--b047-48",
+  "pmk-160-2018--b048-49",
+  "pmk-160-2018--b049-50",
+  "pmk-160-2018--b050-51",
+  "pmk-160-2018--b051-52",
+  "pmk-160-2018--b052-53"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "254",
+     "2011",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 254/PMK.04/2011",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-254-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "176",
+     "2013",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 176/PMK.04/2013",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-176-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "16",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 16/PMK.011/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-16-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "171",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 171/ PMK.011/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-171-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-12-17",
+   "detail_error": null,
+   "number_as_written": "160/PMK.04/2018",
+   "retrieved_at": "2026-09-22T00:47:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=119",
+   "retrieved_at": "2026-09-21T14:16:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 107391,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:47:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan"
+ },
+ "title": "PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR"
+}

@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-142-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "142",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-142-2011--b000-1",
+  "pmk-142-2011--b001-2",
+  "pmk-142-2011--b002-3",
+  "pmk-142-2011--b003-4",
+  "pmk-142-2011--b004-5",
+  "pmk-142-2011--b005-6",
+  "pmk-142-2011--b006-7",
+  "pmk-142-2011--b007-8",
+  "pmk-142-2011--b008-9",
+  "pmk-142-2011--b009-10",
+  "pmk-142-2011--b010-11",
+  "pmk-142-2011--b011-12",
+  "pmk-142-2011--b012-13",
+  "pmk-142-2011--b013-14",
+  "pmk-142-2011--b014-15",
+  "pmk-142-2011--b015-16",
+  "pmk-142-2011--b016-17",
+  "pmk-142-2011--b017-18",
+  "pmk-142-2011--b018-19",
+  "pmk-142-2011--b019-20",
+  "pmk-142-2011--b020-21",
+  "pmk-142-2011--b021-22",
+  "pmk-142-2011--b022-23",
+  "pmk-142-2011--b023-24",
+  "pmk-142-2011--b024-25",
+  "pmk-142-2011--b025-26",
+  "pmk-142-2011--b026-27",
+  "pmk-142-2011--b027-28",
+  "pmk-142-2011--b028-29"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "140",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 140/PMK.04/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-140-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-08-25",
+   "detail_error": null,
+   "number_as_written": "142/PMK.04/2011",
+   "retrieved_at": "2026-09-22T02:43:43+00:00",
+   "source": "DJP",
+   "title_as_written": "IMPOR SEMENTARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-sementara-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=201",
+   "retrieved_at": "2026-09-21T14:22:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-sementara-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 29812,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:43:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/impor-sementara-0"
+ },
+ "title": "IMPOR SEMENTARA"
+}

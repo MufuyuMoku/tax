@@ -1,0 +1,76 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-18-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "18",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-18-2013--b000-1",
+  "per-djp-18-2013--b001-2",
+  "per-djp-18-2013--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "5",
+     "2011",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2011",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-5-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-05-08",
+   "detail_error": null,
+   "number_as_written": "PER-18/PJ/2013",
+   "retrieved_at": "2026-09-22T02:33:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-5/PJ/2011 TENTANG TATA CARA PENGAJUAN DAN PENELITIAN PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PENGHASILAN YANG  SEHARUSNYA TIDAK TERUTANG BAGI WAJIB PAJAK DALAM NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-5pj2011-tentang-tata-cara-pengajuan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=187",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-5pj2011-tentang-tata-cara-pengajuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3939,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:33:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-5pj2011-tentang-tata-cara-pengajuan"
+ },
+ "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-5/PJ/2011 TENTANG TATA CARA PENGAJUAN DAN PENELITIAN PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PENGHASILAN YANG  SEHARUSNYA TIDAK TERUTANG BAGI WAJIB PAJAK DALAM NEGERI"
+}

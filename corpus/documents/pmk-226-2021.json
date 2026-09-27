@@ -1,0 +1,146 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran 226PMK032021.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20226PMK032021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-226-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "226",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-226-2021--b000-1",
+  "pmk-226-2021--b001-2",
+  "pmk-226-2021--b002-3",
+  "pmk-226-2021--b003-4",
+  "pmk-226-2021--b004-5",
+  "pmk-226-2021--b005-6",
+  "pmk-226-2021--b006-7",
+  "pmk-226-2021--b007-8",
+  "pmk-226-2021--b008-9",
+  "pmk-226-2021--b009-10",
+  "pmk-226-2021--b010-11",
+  "pmk-226-2021--b011-12",
+  "pmk-226-2021--b012-13",
+  "pmk-226-2021--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-113-2022",
+    "number_as_written": "113/PMK.03/2022",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 226/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 226/PMK.03/2021 TENTANG PEMBERIAN INSENTIF PAJAK TERHADAP BARANG YANG DIPERLUKAN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 DAN PERPANJANGAN PEMBERLAKUAN FASILITAS PAJAK PENGHASILAN BAGI SUMBER DAYA MANUSIA DI BIDANG KESEHATAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 2020 TENTANG FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "239",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 239/PMK.03/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-239-2020"
+   },
+   {
+    "key": [
+     "PP",
+     "29",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 29 Tahun 2020",
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-29-2020"
+   },
+   {
+    "key": [
+     "PMK",
+     "83",
+     "2021",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 83/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-83-2021"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-12-31",
+   "detail_error": null,
+   "number_as_written": "226/PMK.03/2021",
+   "retrieved_at": "2026-09-22T00:27:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN INSENTIF PAJAK TERHADAP BARANG YANG DIPERLUKAN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 DAN PERPANJANGAN PEMBERLAKUAN FASILITAS PAJAK PENGHASILAN BAGI SUMBER DAYA MANUSIA DI BIDANG KESEHATAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 2020 TENTANG FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-insentif-pajak-terhadap-barang-yang-diperlukan-dalam-rangka-penanganan-pandemi"
+  },
+  {
+   "date_as_written": "2021-12-31 00:00:00",
+   "number_as_written": "226/PMK.03/2021",
+   "retrieved_at": "2026-09-21T14:20:10+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemberian Insentif Pajak terhadap Barang yang Diperlukan dalam Rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Bagi Sumber Daya Manusia di Bidang Kesehatan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam Rangka Penanganan Corona Virus Disease 2019 (Covid-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2021"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=66",
+   "retrieved_at": "2026-09-21T14:12:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-insentif-pajak-terhadap-barang-yang-diperlukan-dalam-rangka-penanganan-pandemi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=74",
+   "retrieved_at": "2026-09-21T14:20:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25563,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:27:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-insentif-pajak-terhadap-barang-yang-diperlukan-dalam-rangka-penanganan-pandemi"
+ },
+ "title": "PEMBERIAN INSENTIF PAJAK TERHADAP BARANG YANG DIPERLUKAN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 DAN PERPANJANGAN PEMBERLAKUAN FASILITAS PAJAK PENGHASILAN BAGI SUMBER DAYA MANUSIA DI BIDANG KESEHATAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 2020 TENTANG FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

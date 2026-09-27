@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-14-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "14",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-02-21",
+   "detail_error": null,
+   "number_as_written": "14/PMK.03/2005",
+   "retrieved_at": "2026-09-22T03:30:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERSYARATAN SUMBANGAN SERTA TATA CARA PENDAFTARAN DAN PELAPORAN OLEH PENAMPUNG, PENYALUR, DAN/ATAU PENGELOLA SUMBANGAN DALAM RANGKA BANTUAN KEMANUSIAAN BENCANA ALAM DI NANGGROE ACEH DARUSSALAM DAN SUMATERA UTARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/persyaratan-sumbangan-serta-tata-cara-pendaftaran-dan-pelaporan-oleh-penampung-penyalur"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=294",
+   "retrieved_at": "2026-09-21T14:29:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/persyaratan-sumbangan-serta-tata-cara-pendaftaran-dan-pelaporan-oleh-penampung-penyalur",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERSYARATAN SUMBANGAN SERTA TATA CARA PENDAFTARAN DAN PELAPORAN OLEH PENAMPUNG, PENYALUR, DAN/ATAU PENGELOLA SUMBANGAN DALAM RANGKA BANTUAN KEMANUSIAAN BENCANA ALAM DI NANGGROE ACEH DARUSSALAM DAN SUMATERA UTARA"
+}

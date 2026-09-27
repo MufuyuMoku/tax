@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-601-kmk-03-2005",
+ "identity": {
+  "code": "KMK",
+  "number": "601/KMK.03",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-601-kmk-03-2005--b000-i",
+  "kmk-601-kmk-03-2005--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "574/KMK.04",
+     "2000",
+     null
+    ],
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-574-kmk-04-2000"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-12-27",
+   "detail_error": null,
+   "number_as_written": "601/KMK.03/2005",
+   "retrieved_at": "2026-09-22T03:28:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=283",
+   "retrieved_at": "2026-09-21T14:28:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 6684,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:28:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi"
+ },
+ "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
+}

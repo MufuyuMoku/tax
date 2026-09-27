@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-25-2017",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-25-2017--b000-1",
+  "per-djp-25-2017--b001-2",
+  "per-djp-25-2017--b002-3",
+  "per-djp-25-2017--b003-4",
+  "per-djp-25-2017--b004-5",
+  "per-djp-25-2017--b005-6",
+  "per-djp-25-2017--b006-7",
+  "per-djp-25-2017--b007-8",
+  "per-djp-25-2017--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-11-28",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ/2017",
+   "retrieved_at": "2026-09-22T02:18:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PENENTUAN BESARNYA PERBANDINGAN ANTARA UTANG DAN MODAL PERUSAHAAN UNTUK KEPERLUAN PENGHITUNGAN PAJAK PENGHASILAN DAN TATA CARA PELAPORAN UTANG SWASTA LUAR NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-penentuan-besarnya-perbandingan-antara-utang-dan-modal-perusahaan-untuk"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=131",
+   "retrieved_at": "2026-09-21T14:17:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-penentuan-besarnya-perbandingan-antara-utang-dan-modal-perusahaan-untuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10372,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:18:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-penentuan-besarnya-perbandingan-antara-utang-dan-modal-perusahaan-untuk"
+ },
+ "title": "PELAKSANAAN PENENTUAN BESARNYA PERBANDINGAN ANTARA UTANG DAN MODAL PERUSAHAAN UNTUK KEPERLUAN PENGHITUNGAN PAJAK PENGHASILAN DAN TATA CARA PELAPORAN UTANG SWASTA LUAR NEGERI"
+}

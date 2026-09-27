@@ -1,0 +1,121 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-144-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "144",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-144-2012--b000-1",
+  "pmk-144-2012--b001-2",
+  "pmk-144-2012--b002-3",
+  "pmk-144-2012--b003-4",
+  "pmk-144-2012--b004-5",
+  "pmk-144-2012--b005-6",
+  "pmk-144-2012--b006-7",
+  "pmk-144-2012--b007-8",
+  "pmk-144-2012--b008-9",
+  "pmk-144-2012--b009-10",
+  "pmk-144-2012--b010-11",
+  "pmk-144-2012--b011-12",
+  "pmk-144-2012--b012-13",
+  "pmk-144-2012--b013-14",
+  "pmk-144-2012--b014-15",
+  "pmk-144-2012--b015-16",
+  "pmk-144-2012--b016-17",
+  "pmk-144-2012--b017-18",
+  "pmk-144-2012--b018-19"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-89-2015",
+    "number_as_written": "89/PMK.010/2015",
+    "quote": "Peraturan Menteri Keuangan Nomor 144/PMK.011/2012",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU SERTA PENGALIHAN AKTIVA DAN SANKSI BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG DIBERIKAN FASILITAS PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "16",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 16/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-16-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-09-03",
+   "detail_error": null,
+   "number_as_written": "144/PMK.011/2012",
+   "retrieved_at": "2026-09-22T02:36:07+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-0"
+  },
+  {
+   "date_as_written": "2012-09-03 00:00:00",
+   "number_as_written": "144/PMK.011/2012",
+   "retrieved_at": "2026-09-21T14:36:01+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/144-pmk-011-2012"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=194",
+   "retrieved_at": "2026-09-21T14:22:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=304",
+   "retrieved_at": "2026-09-21T14:36:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/144-pmk-011-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 22748,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:36:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pajak-penghasilan-untuk-penanaman-modal-di-bidang-bidang-usaha-0"
+ },
+ "title": "PEMBERIAN FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+}

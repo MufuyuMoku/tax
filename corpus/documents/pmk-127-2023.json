@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-127-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "127",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-127-2023--b000-1",
+  "pmk-127-2023--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "188",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 188/PMK.04/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-188-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-11-27",
+   "detail_error": null,
+   "number_as_written": "127 TAHUN 2023",
+   "retrieved_at": "2026-09-21T15:00:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 188/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-188pmk042020-tentang-pemberian-fasilitas"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=39",
+   "retrieved_at": "2026-09-21T14:10:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-188pmk042020-tentang-pemberian-fasilitas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8315,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T15:00:25+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-188pmk042020-tentang-pemberian-fasilitas"
+ },
+ "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 188/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

@@ -1,0 +1,140 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-48-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "48",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-48-2023--b000-1",
+  "pmk-48-2023--b001-2",
+  "pmk-48-2023--b002-3",
+  "pmk-48-2023--b003-4",
+  "pmk-48-2023--b004-5",
+  "pmk-48-2023--b005-6",
+  "pmk-48-2023--b006-7",
+  "pmk-48-2023--b007-8",
+  "pmk-48-2023--b008-9",
+  "pmk-48-2023--b009-10",
+  "pmk-48-2023--b010-11",
+  "pmk-48-2023--b011-12",
+  "pmk-48-2023--b012-13",
+  "pmk-48-2023--b013-14",
+  "pmk-48-2023--b014-15",
+  "pmk-48-2023--b015-16",
+  "pmk-48-2023--b016-17",
+  "pmk-48-2023--b017-18",
+  "pmk-48-2023--b018-19",
+  "pmk-48-2023--b019-20",
+  "pmk-48-2023--b020-21",
+  "pmk-48-2023--b021-22",
+  "pmk-48-2023--b022-23",
+  "pmk-48-2023--b023-24",
+  "pmk-48-2023--b024-25",
+  "pmk-48-2023--b025-26",
+  "pmk-48-2023--b026-27",
+  "pmk-48-2023--b027-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-52-2025",
+    "number_as_written": "52 TAHUN 2025",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 48 TAHUN 2023",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 48 TAHUN 2023 TENTANG PAJAK PENGHASILAN DAN/ATAU PAJAK PERTAMBAHAN NILAI ATAS PENJUALAN/PENYERAHAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, SERTA JASA YANG TERKAIT DENGAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, DAN/ATAU BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS,YANG DILAKUKAN OLEH PABRIKAN EMAS PERHIASAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2017",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 34/PMK.010/2017",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-34-2017"
+   },
+   {
+    "key": [
+     "PMK",
+     "41",
+     "2022",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 41/PMK.010/2022",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-41-2022"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-04-28",
+   "detail_error": null,
+   "number_as_written": "48 TAHUN 2023",
+   "retrieved_at": "2026-09-22T00:21:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN DAN/ATAU PAJAK PERTAMBAHAN NILAI ATAS PENJUALAN/PENYERAHAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, SERTA JASA YANG TERKAIT DENGAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, DAN/ATAU BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, YANG DILAKUKAN OLEH PABRIKAN EMAS PERHIASAN, PEDAGANG EMAS PERHIASAN, DAN/ATAU PENGUSAHA EMAS BATANGAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-danatau-pajak-pertambahan-nilai-atas-penjualanpenyerahan-emas-perhiasan"
+  },
+  {
+   "date_as_written": "2023-04-28 00:00:00",
+   "number_as_written": "PMK 48 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:15+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, Serta Jasa yang Terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya Yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=47",
+   "retrieved_at": "2026-09-21T14:11:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-danatau-pajak-pertambahan-nilai-atas-penjualanpenyerahan-emas-perhiasan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=45",
+   "retrieved_at": "2026-09-21T14:18:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 47411,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:21:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-danatau-pajak-pertambahan-nilai-atas-penjualanpenyerahan-emas-perhiasan"
+ },
+ "title": "PAJAK PENGHASILAN DAN/ATAU PAJAK PERTAMBAHAN NILAI ATAS PENJUALAN/PENYERAHAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, SERTA JASA YANG TERKAIT DENGAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, DAN/ATAU BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, YANG DILAKUKAN OLEH PABRIKAN EMAS PERHIASAN, PEDAGANG EMAS PERHIASAN, DAN/ATAU PENGUSAHA EMAS BATANGAN"
+}

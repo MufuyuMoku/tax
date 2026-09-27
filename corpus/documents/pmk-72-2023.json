@@ -1,0 +1,175 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK72TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "72",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK72TAHUN2023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-72-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "72",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-72-2023--b000-1",
+  "pmk-72-2023--b001-2",
+  "pmk-72-2023--b002-3",
+  "pmk-72-2023--b003-4",
+  "pmk-72-2023--b004-3",
+  "pmk-72-2023--b005-6",
+  "pmk-72-2023--b006-7",
+  "pmk-72-2023--b007-8",
+  "pmk-72-2023--b008-9",
+  "pmk-72-2023--b009-10",
+  "pmk-72-2023--b010-11",
+  "pmk-72-2023--b011-12",
+  "pmk-72-2023--b012-13",
+  "pmk-72-2023--b013-14",
+  "pmk-72-2023--b014-15",
+  "pmk-72-2023--b015-16",
+  "pmk-72-2023--b016-17",
+  "pmk-72-2023--b017-18",
+  "pmk-72-2023--b018-19",
+  "pmk-72-2023--b019-20",
+  "pmk-72-2023--b020-21",
+  "pmk-72-2023--b021-22",
+  "pmk-72-2023--b022-23",
+  "pmk-72-2023--b023-24",
+  "pmk-72-2023--b024-25",
+  "pmk-72-2023--b025-26",
+  "pmk-72-2023--b026-27",
+  "pmk-72-2023--b027-28",
+  "pmk-72-2023--b028-29",
+  "pmk-72-2023--b029-30",
+  "pmk-72-2023--b030-31",
+  "pmk-72-2023--b031-32",
+  "pmk-72-2023--b032-33",
+  "pmk-72-2023--b033-34",
+  "pmk-72-2023--b034-35"
+ ],
+ "quality_flags": [
+  "urutan_loncat:4->3,3->6",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "248",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 248/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-248-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "249",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 249/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-249-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "126",
+     "2012",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 126/PMK.011/2012",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-126-2012"
+   },
+   {
+    "key": [
+     "PMK",
+     "96",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 96/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-96-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-07-13",
+   "detail_error": null,
+   "number_as_written": "72 TAHUN 2023",
+   "retrieved_at": "2026-09-22T00:20:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyusutan-harta-berwujud-danatau-amortisasi-harta-tak-berwujud"
+  },
+  {
+   "date_as_written": "2023-07-13 00:00:00",
+   "number_as_written": "PMK 72 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:07+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyusutan Harta Berwujud dan/atau Amortisasi Harta Tak Berwujud",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=44",
+   "retrieved_at": "2026-09-21T14:10:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyusutan-harta-berwujud-danatau-amortisasi-harta-tak-berwujud",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=43",
+   "retrieved_at": "2026-09-21T14:18:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 46459,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:20:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyusutan-harta-berwujud-danatau-amortisasi-harta-tak-berwujud"
+ },
+ "title": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD"
+}

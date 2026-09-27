@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-34-1994",
+ "identity": {
+  "code": "PP",
+  "number": "34",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-11-16",
+   "detail_error": null,
+   "number_as_written": "34 TAHUN 1994",
+   "retrieved_at": "2026-09-22T04:51:54+00:00",
+   "source": "DJP",
+   "title_as_written": "FASILITAS PERPAJAKAN ATAS PENANAMAN MODAL DIBIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-perpajakan-atas-penanaman-modal-dibidang-bidang-usaha-tertentu-danatau-di"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=462",
+   "retrieved_at": "2026-09-21T14:42:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-perpajakan-atas-penanaman-modal-dibidang-bidang-usaha-tertentu-danatau-di",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "FASILITAS PERPAJAKAN ATAS PENANAMAN MODAL DIBIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
+}

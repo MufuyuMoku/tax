@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-229-kmk-04-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "229/KMK.04",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-05-16",
+   "detail_error": null,
+   "number_as_written": "229/KMK.04/1997",
+   "retrieved_at": "2026-09-22T04:28:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SEBESAR UPAH MINIMUM REGIONAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sebesar-upah-minimum"
+  },
+  {
+   "date_as_written": "1997-05-16 00:00:00",
+   "number_as_written": "229/KMK.04/1997",
+   "retrieved_at": "2026-09-21T14:52:29+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan atas Penghasilan yang Diterima oleh Pekerja  Sebesar Upah Minimum Regional",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/229-kmk-04-1997"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=437",
+   "retrieved_at": "2026-09-21T14:40:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-yang-diterima-oleh-pekerja-sebesar-upah-minimum",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=83",
+   "retrieved_at": "2026-09-21T14:52:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/229-kmk-04-1997",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA OLEH PEKERJA SEBESAR UPAH MINIMUM REGIONAL"
+}

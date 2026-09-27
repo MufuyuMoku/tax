@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 1960,
+ "document_id": "pp-94-2010",
+ "document_number": "94 TAHUN 2010",
+ "document_title": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+ "id": "pp-94-2010--p042-9",
+ "label": "9",
+ "order": 42,
+ "quality_flags": [
+  "urutan_loncat:2->4"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal 9\nAyat (1)\nCukup jelas.\nAyat (2)\nContoh:\nPT A bergerak di bidang penyewaan apartemen. Sesuai dengan kontrak, sewa apartemen tiap bulan adalah sebesar US$1,000 dan diterbitkan invoice setiap tanggal 1.\nPada tanggal 1 September 2010 PT A menerbitkan invoice sebesar US$ 1,000 kepada penyewa. Pada tanggal tersebut, kurs yang berlaku adalah Rp9.000,00 per 1 US$. Pada tanggal 1 September 2010 tersebut PT A mengakui penghasilan atas sewa apartemen sebesar Rp9.000.000,00 (US$ 1,000 x Rp9.000,00).\nPada tanggal 15 September 2010 penyewa membayar sewa apartemen. Pada tanggal tersebut, kurs yang berlaku adalah Rp8.700,00 per 1 US$, sehingga nilai sewa yang dibayar adalah sebesar Rp8.700.000,00 (US$ 1,000 x Rp8.700,00).\nAtas perbedaan waktu antara tanggal penerbitan invoice dan tanggal pembayaran timbul kerugian selisih kurs bagi PT A sebesar Rp300.000,00 ((Rp9.000,00 - Rp8.700,00) x US$ 1,000)).\nAtas kerugian selisih kurs tersebut tidak diakui sebagai biaya bagi PT A karena berasal dari penyewaan apartemen yang telah dikenai Pajak Penghasilan bersifat final.\nAyat (3)\nContoh:\nPT A yang bergerak di bidang penyewaan apartemen, pada bulan September 2010 mendapatkan pinjaman sebesar US$ 10,000,000 yang digunakan masing-masing sebesar US$ 9,000,000 untuk membangun apartemen, dan sebesar US$ 1,000,000 untuk membeli alat transportasi yang akan dipergunakan untuk usaha jasa angkutan.\nAtas keuntungan atau kerugian selisih kurs mata uang asing yang berasal dari pinjaman sebesar US$ 1,000,000 tersebut dapat diakui sebagai penghasilan atau biaya karena:\na.\ntidak berkaitan langsung dengan usaha PT A di bidang penyewaan apartemen yang atas penghasilannya dikenai Pajak Penghasilan yang bersifat final; dan\nb.\nmerupakan pengeluaran untuk mendapatkan, menagih, dan memelihara penghasilan lainnya berupa usaha jasa angkutan yang atas penghasilannya dikenai Pajak Penghasilan dengan tarif sebagaimana dimaksud dalam Pasal 17 Undang-Undang Pajak Penghasilan.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:47:20+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-1"
+ }
+}

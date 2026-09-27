@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-1444-1993",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1444",
+  "variant": null,
+  "year": "1993"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-1444-1993--b000-1",
+  "kep-djp-1444-1993--b001-2",
+  "kep-djp-1444-1993--b002-3",
+  "kep-djp-1444-1993--b003-4",
+  "kep-djp-1444-1993--b004-5",
+  "kep-djp-1444-1993--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1993-12-14",
+   "detail_error": null,
+   "number_as_written": "KEP-1444/PJ.24/1993",
+   "retrieved_at": "2026-09-22T04:54:23+00:00",
+   "source": "DJP",
+   "title_as_written": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-lapangan-usaha-wajib-pajak-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=465",
+   "retrieved_at": "2026-09-21T14:43:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-lapangan-usaha-wajib-pajak-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3629,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T04:54:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-lapangan-usaha-wajib-pajak-0"
+ },
+ "title": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK"
+}

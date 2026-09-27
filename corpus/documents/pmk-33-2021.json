@@ -1,0 +1,97 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PMK33PMK012021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "33",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PMK33PMK012021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-33-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "33",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-33-2021--b000-1",
+  "pmk-33-2021--b001-2",
+  "pmk-33-2021--b002-3",
+  "pmk-33-2021--b003-4",
+  "pmk-33-2021--b004-5",
+  "pmk-33-2021--b005-6",
+  "pmk-33-2021--b006-7",
+  "pmk-33-2021--b007-8",
+  "pmk-33-2021--b008-9",
+  "pmk-33-2021--b009-10",
+  "pmk-33-2021--b010-11",
+  "pmk-33-2021--b011-12",
+  "pmk-33-2021--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "20",
+     "2021",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 20/PMK.010/2021",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-20-2021"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-04-01",
+   "detail_error": null,
+   "number_as_written": "33/PMK.10/2021",
+   "retrieved_at": "2026-09-22T00:32:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 237 /PMK.010/2020 TENTANG PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-237-pmk0102020-tentang-perlakuan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=78",
+   "retrieved_at": "2026-09-21T14:13:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-237-pmk0102020-tentang-perlakuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16489,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:32:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-237-pmk0102020-tentang-perlakuan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 237 /PMK.010/2020 TENTANG PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS"
+}

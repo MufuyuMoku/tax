@@ -1,0 +1,80 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_237PMK0102020.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_237PMK0102020.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-237-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "237",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-237-2020--b000-1",
+  "pmk-237-2020--b001-2",
+  "pmk-237-2020--b002-3",
+  "pmk-237-2020--b003-4",
+  "pmk-237-2020--b004-5",
+  "pmk-237-2020--b005-6",
+  "pmk-237-2020--b006-7",
+  "pmk-237-2020--b007-8",
+  "pmk-237-2020--b008-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-12-30",
+   "detail_error": null,
+   "number_as_written": "237/PMK.010/2020",
+   "retrieved_at": "2026-09-22T00:34:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=82",
+   "retrieved_at": "2026-09-21T14:13:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 31283,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:34:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0"
+ },
+ "title": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS"
+}

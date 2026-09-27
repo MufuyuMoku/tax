@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-28-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "28",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-28-2009--b000-1",
+  "per-djp-28-2009--b001-2",
+  "per-djp-28-2009--b002-3",
+  "per-djp-28-2009--b003-4",
+  "per-djp-28-2009--b004-5",
+  "per-djp-28-2009--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "48",
+     "1994",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-48-1994"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-8-2023",
+    "number_as_written": "PER-8/PJ/2023",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-04-20",
+   "detail_error": null,
+   "number_as_written": "28/PJ/2009",
+   "retrieved_at": "2026-09-22T03:08:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN KETENTUAN PERALIHAN PERATURAN PEMERINTAH NOMOR 71 TAHUN 2008 TENTANG PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-ketentuan-peralihan-peraturan-pemerintah-nomor-71-tahun-2008-tentang"
+  },
+  {
+   "date_as_written": "2009-04-20 00:00:00",
+   "number_as_written": "PerDJP 28/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Ketentuan Peralihan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-28-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-8/PJ/2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=218",
+   "retrieved_at": "2026-09-21T14:23:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-ketentuan-peralihan-peraturan-pemerintah-nomor-71-tahun-2008-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-28-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7533,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:08:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-ketentuan-peralihan-peraturan-pemerintah-nomor-71-tahun-2008-tentang"
+ },
+ "title": "PELAKSANAAN KETENTUAN PERALIHAN PERATURAN PEMERINTAH NOMOR 71 TAHUN 2008 TENTANG PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+}

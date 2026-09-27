@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 555,
+ "document_id": "pp-42-1985",
+ "document_number": "42 TAHUN 1985",
+ "document_title": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+ "id": "pp-42-1985--b024-25",
+ "label": "25",
+ "order": 24,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 25\n(1)\nApabila dalam suatu tahun pajak terjadi perubahan tahun pajak yang telah\n\nmendapat persetujuan dari Direktur Jenderal Pajak sebagaimana dimaksud dalam\n\nPasal 12 ayat (2) Undang-undang Pajak Penghasilan 1984, maka atas bagian dari\n\ntahun pajak yang tidak termasuk dalam tahun pajak yang baru harus dilaporkan\n\ntersendiri dengan melampirkan Neraca dan Perhitungan Rugi/Laba berkenaan dengan\n\nbagian dari tahun pajak tersebut.\n(2)\nDirektur Jenderal Pajak diberi wewenang untuk mengatur lebih lanjut ketentuan\n\nsebagaimana dimaksud dalam ayat (1)",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:09:32+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d5b9b5a2-d78f-4429-830c-d2819e982a81/42TAHUN~1985PP.HTM"
+ }
+}

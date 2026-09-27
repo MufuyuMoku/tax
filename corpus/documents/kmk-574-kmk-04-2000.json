@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-574-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "574/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kmk-601-kmk-03-2005",
+    "number_as_written": "601/KMK.03/2005",
+    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-215-2008",
+    "number_as_written": "215/PMK.03/2008",
+    "quote": "Keputusan Menteri Keuangan Nomor 574/KMK.04/2000",
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-26",
+   "detail_error": null,
+   "number_as_written": "574/KMK.04/2000",
+   "retrieved_at": "2026-09-22T03:55:51+00:00",
+   "source": "DJP",
+   "title_as_written": "ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-organisasi-internasional-dan-pejabat-perwakilan-organisasi-internasional-yang"
+  },
+  {
+   "date_as_written": "2000-12-26 00:00:00",
+   "number_as_written": "574/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:35+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Organisasi-Organisasi Internasional dan Pejabat Perwakilan Organisa\r\nSi  Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/574-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 215/PMK.03/2008 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=369",
+   "retrieved_at": "2026-09-21T14:35:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-organisasi-internasional-dan-pejabat-perwakilan-organisasi-internasional-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=39",
+   "retrieved_at": "2026-09-21T14:49:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/574-kmk-04-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
+}

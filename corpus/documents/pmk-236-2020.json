@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-236-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "236",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-236-2020--b000-1",
+  "pmk-236-2020--b001-2",
+  "pmk-236-2020--b002-3a",
+  "pmk-236-2020--b003-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-12-30",
+   "detail_error": null,
+   "number_as_written": "236/PMK.010/2020",
+   "retrieved_at": "2026-09-22T00:34:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 202/PMK.010/2017 TENTANG PELAKSANAAN PERLAKUAN PAJAK PENGHASILAN YANG DIDASARKAN PADA KETENTUAN DALAM PERJANJIAN INTERNASIONAL",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-202pmk0102017-tentang-pelaksanaan"
+  },
+  {
+   "date_as_written": "2020-12-30 00:00:00",
+   "number_as_written": "236/PMK.010/2020",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 202/PMK.010/2017 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/236-pmk-010-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=83",
+   "retrieved_at": "2026-09-21T14:13:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-202pmk0102017-tentang-pelaksanaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=97",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/236-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8020,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:34:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-202pmk0102017-tentang-pelaksanaan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 202/PMK.010/2017 TENTANG PELAKSANAAN PERLAKUAN PAJAK PENGHASILAN YANG DIDASARKAN PADA KETENTUAN DALAM PERJANJIAN INTERNASIONAL"
+}

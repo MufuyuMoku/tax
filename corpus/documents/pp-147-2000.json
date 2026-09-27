@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-147-2000",
+ "identity": {
+  "code": "PP",
+  "number": "147",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-23",
+   "detail_error": null,
+   "number_as_written": "147 TAHUN 2000",
+   "retrieved_at": "2026-09-22T03:56:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 20 TAHUN 2000 TENTANG PERLAKUAN PERPAJAKAN DI KAWASAN PENGEMBANGAN EKONOMI TERPADU",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-20-tahun-2000-tentang-perlakuan-perpajakan-di"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=370",
+   "retrieved_at": "2026-09-21T14:35:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-20-tahun-2000-tentang-perlakuan-perpajakan-di",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 20 TAHUN 2000 TENTANG PERLAKUAN PERPAJAKAN DI KAWASAN PENGEMBANGAN EKONOMI TERPADU"
+}

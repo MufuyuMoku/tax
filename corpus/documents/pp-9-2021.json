@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-9-2021",
+ "identity": {
+  "code": "PP",
+  "number": "9",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-9-2021--b000-1",
+  "pp-9-2021--b001-2",
+  "pp-9-2021--b002-3",
+  "pp-9-2021--b003-4",
+  "pp-9-2021--b004-1",
+  "pp-9-2021--b005-2a",
+  "pp-9-2021--b006-5",
+  "pp-9-2021--b007-1",
+  "pp-9-2021--b008-5a",
+  "pp-9-2021--b009-17",
+  "pp-9-2021--b010-17a",
+  "pp-9-2021--b011-19",
+  "pp-9-2021--b012-19a",
+  "pp-9-2021--b013-20",
+  "pp-9-2021--b014-6",
+  "pp-9-2021--b015-1",
+  "pp-9-2021--b016-8",
+  "pp-9-2021--b017-10a",
+  "pp-9-2021--b018-12",
+  "pp-9-2021--b019-14",
+  "pp-9-2021--b020-15",
+  "pp-9-2021--b021-16",
+  "pp-9-2021--b022-20",
+  "pp-9-2021--b023-24",
+  "pp-9-2021--b024-45a",
+  "pp-9-2021--b025-62",
+  "pp-9-2021--b026-63a",
+  "pp-9-2021--b027-63b",
+  "pp-9-2021--b028-7",
+  "pp-9-2021--b029-8",
+  "pp-9-2021--b030-9",
+  "pp-9-2021--b031-10",
+  "pp-9-2021--b032-11"
+ ],
+ "quality_flags": [
+  "urutan_loncat:4->1,1->5,5->1,1->17,17->19",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-55-2022",
+    "number_as_written": "55 TAHUN 2022",
+    "quote": "Peraturan Pemerintah Nomor 9 Tahun 2021",
+    "source_of_reading": "DJP",
+    "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-02",
+   "detail_error": null,
+   "number_as_written": "9 TAHUN 2021",
+   "retrieved_at": "2026-09-22T00:33:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN UNTUK MENDUKUNG KEMUDAHAN BERUSAHA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-untuk-mendukung-kemudahan-berusaha"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=80",
+   "retrieved_at": "2026-09-21T14:13:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-untuk-mendukung-kemudahan-berusaha",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 63773,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:33:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-untuk-mendukung-kemudahan-berusaha"
+ },
+ "title": "PERLAKUAN PERPAJAKAN UNTUK MENDUKUNG KEMUDAHAN BERUSAHA"
+}

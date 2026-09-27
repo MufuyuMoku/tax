@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-16-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "16",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-16-2016--b000-1",
+  "per-djp-16-2016--b001-2",
+  "per-djp-16-2016--b002-3",
+  "per-djp-16-2016--b003-4",
+  "per-djp-16-2016--b004-5",
+  "per-djp-16-2016--b005-6",
+  "per-djp-16-2016--b006-7",
+  "per-djp-16-2016--b007-8",
+  "per-djp-16-2016--b008-9",
+  "per-djp-16-2016--b009-10",
+  "per-djp-16-2016--b010-11",
+  "per-djp-16-2016--b011-12",
+  "per-djp-16-2016--b012-13",
+  "per-djp-16-2016--b013-14",
+  "per-djp-16-2016--b014-15",
+  "per-djp-16-2016--b015-16",
+  "per-djp-16-2016--b016-17",
+  "per-djp-16-2016--b017-18",
+  "per-djp-16-2016--b018-19",
+  "per-djp-16-2016--b019-20",
+  "per-djp-16-2016--b020-21",
+  "per-djp-16-2016--b021-22",
+  "per-djp-16-2016--b022-23",
+  "per-djp-16-2016--b023-24",
+  "per-djp-16-2016--b024-25",
+  "per-djp-16-2016--b025-26",
+  "per-djp-16-2016--b026-27",
+  "per-djp-16-2016--b027-28",
+  "per-djp-16-2016--b028-29"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "32",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2015",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-32-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-09-29",
+   "detail_error": null,
+   "number_as_written": "PER-16/PJ/2016",
+   "retrieved_at": "2026-09-22T02:19:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-teknis-tata-cara-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=144",
+   "retrieved_at": "2026-09-21T14:18:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-teknis-tata-cara-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 47321,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:19:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-teknis-tata-cara-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-21-0"
+ },
+ "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
+}

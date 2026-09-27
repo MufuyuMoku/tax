@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-46-2018",
+ "identity": {
+  "code": "PMK",
+  "number": "46",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-10-2021",
+    "number_as_written": "213/PMK.010.2021",
+    "quote": "Peraturan Menteri Keuangan Nomor 46/PMK.010/2018",
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS BUNGA ATAU IMBAI.AN SURAT BERHARGA NEGARA YANG DITERBITKAN DI PASAR INTERNASIONAL DAN PENGHASILAN PIHAK KETIGA ATAS JASA YANG DIBERIKAN KEPADA PEMERINTAH ATAU PIHAK LAIN YANG MENDAPAT PENUGASAN DALAM RANGKA PENERBITAN DAN/ATAU PEMBELIAN KEMBALI SURAT BERHARGA NEGARA DI PASAR INTERNASIONAL"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-05-09 00:00:00",
+   "number_as_written": "46/PMK.010/2018",
+   "retrieved_at": "2026-09-21T14:26:01+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/46-pmk-010-2018"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=160",
+   "retrieved_at": "2026-09-21T14:26:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/46-pmk-010-2018",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional."
+}

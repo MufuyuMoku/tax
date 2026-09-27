@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-31-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "31",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-31-2019--b000-1",
+  "pmk-31-2019--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "210",
+     "2018",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 210/PMK.010/2018",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-210-2018"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-03-29",
+   "detail_error": null,
+   "number_as_written": "31/PMK.010/2019",
+   "retrieved_at": "2026-09-22T00:45:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 210/PMK.010/2018 TENTANG PERLAKUAN PERPAJAKAN ATAS TRANSAKSI PERDAGANGAN MELALUI SISTEM ELEKTRONIK (E-COMMERCE)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-210pmk0102018-tentang-perlakuan-perpajakan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=113",
+   "retrieved_at": "2026-09-21T14:15:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-210pmk0102018-tentang-perlakuan-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3908,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:45:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-210pmk0102018-tentang-perlakuan-perpajakan"
+ },
+ "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 210/PMK.010/2018 TENTANG PERLAKUAN PERPAJAKAN ATAS TRANSAKSI PERDAGANGAN MELALUI SISTEM ELEKTRONIK (E-COMMERCE)"
+}

@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-69-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "69",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-69-2024--b000-i",
+  "pmk-69-2024--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "130",
+     "2020",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-130-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-10-08",
+   "detail_error": null,
+   "number_as_written": "69 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:55:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020 TENTANG PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-130pmk0102020-tentang-pemberian-fasilitas"
+  },
+  {
+   "date_as_written": "2024-10-08 00:00:00",
+   "number_as_written": "PMK 69 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:17:00+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 130/PMK.010/2020 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-69-tahun-2024"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=27",
+   "retrieved_at": "2026-09-21T14:09:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-130pmk0102020-tentang-pemberian-fasilitas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=26",
+   "retrieved_at": "2026-09-21T14:17:00+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-69-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 23045,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:55:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-130pmk0102020-tentang-pemberian-fasilitas"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020 TENTANG PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
+}

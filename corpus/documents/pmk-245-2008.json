@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-245-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "245",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-245-2008--b000-1",
+  "pmk-245-2008--b001-2",
+  "pmk-245-2008--b002-3",
+  "pmk-245-2008--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-114-2025",
+    "number_as_written": "114 TAHUN 2025",
+    "quote": "Peraturan Menteri Keuangan Nomor 245/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERLAKUAN ATAS BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB, SERTA HARTA HIBAHAN DALAM PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "245/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:13:15+00:00",
+   "source": "DJP",
+   "title_as_written": "BADAN- BADAN DAN ORANG PIBADI YANG MENJALANKAN USAHA MIKRO DAN KECIL YANG MENERIMA HARTA HIBAH, BANTUAN, ATAU SUMBANGAN YANG TIDAK TERMASUK SEBAGAI OBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-badan-dan-orang-pibadi-yang-menjalankan-usaha-mikro-dan-kecil-yang-menerima-harta"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "245/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:42:02+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Badan-Badan dan Orang Pribadi yang Menjalankan Usaha Mikro dan Kecil yang Menerima Harta Hibah, Bantuan, atau Sumbangan yang Tidak Termasuk Sebagai Obyek Pajak Penghasilan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/245-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 114 TAHUN 2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=223",
+   "retrieved_at": "2026-09-21T14:24:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-badan-dan-orang-pibadi-yang-menjalankan-usaha-mikro-dan-kecil-yang-menerima-harta",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=395",
+   "retrieved_at": "2026-09-21T14:42:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/245-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4574,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:13:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/badan-badan-dan-orang-pibadi-yang-menjalankan-usaha-mikro-dan-kecil-yang-menerima-harta"
+ },
+ "title": "BADAN- BADAN DAN ORANG PIBADI YANG MENJALANKAN USAHA MIKRO DAN KECIL YANG MENERIMA HARTA HIBAH, BANTUAN, ATAU SUMBANGAN YANG TIDAK TERMASUK SEBAGAI OBJEK PAJAK PENGHASILAN"
+}

@@ -1,0 +1,78 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-30-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "30",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-30-2013--b000-1",
+  "per-djp-30-2013--b001-2",
+  "per-djp-30-2013--b002-3",
+  "per-djp-30-2013--b003-4",
+  "per-djp-30-2013--b004-5",
+  "per-djp-30-2013--b005-6",
+  "per-djp-30-2013--b006-7",
+  "per-djp-30-2013--b007-8",
+  "per-djp-30-2013--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2013",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-09-11",
+   "detail_error": null,
+   "number_as_written": "PER-30/PJ/2013",
+   "retrieved_at": "2026-09-22T02:32:46+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PENGURANGAN BESARNYA PAJAK PENGHASILAN PASAL 25 DAN PENUNDAAN PEMBAYARAN PAJAK PENGHASILAN PASAL 29 TAHUN 2013 BAGI WAJIB PAJAK INDUSTRI TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pengurangan-besarnya-pajak-penghasilan-pasal-25-dan-penundaan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=184",
+   "retrieved_at": "2026-09-21T14:21:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pengurangan-besarnya-pajak-penghasilan-pasal-25-dan-penundaan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12724,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:32:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pengurangan-besarnya-pajak-penghasilan-pasal-25-dan-penundaan"
+ },
+ "title": "TATA CARA PELAKSANAAN PENGURANGAN BESARNYA PAJAK PENGHASILAN PASAL 25 DAN PENUNDAAN PEMBAYARAN PAJAK PENGHASILAN PASAL 29 TAHUN 2013 BAGI WAJIB PAJAK INDUSTRI TERTENTU"
+}

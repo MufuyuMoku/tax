@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-101-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "101",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-10-31",
+   "detail_error": null,
+   "number_as_written": "101/PMK.02/2006",
+   "retrieved_at": "2026-09-22T03:26:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN ALOKASI DEFINITIF DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2006",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-definitif-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-wajib"
+  },
+  {
+   "date_as_written": "2006-10-31 00:00:00",
+   "number_as_written": "101/PMK.02/2006",
+   "retrieved_at": "2026-09-21T14:45:23+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Alokasi Difinitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2006",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/101-pmk-02-2006"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=267",
+   "retrieved_at": "2026-09-21T14:27:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-definitif-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-wajib",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=445",
+   "retrieved_at": "2026-09-21T14:45:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/101-pmk-02-2006",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN ALOKASI DEFINITIF DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2006"
+}

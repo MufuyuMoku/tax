@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-37-2018",
+ "identity": {
+  "code": "PP",
+  "number": "37",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-37-2018--b000-1",
+  "pp-37-2018--b001-2",
+  "pp-37-2018--b002-4",
+  "pp-37-2018--b003-5",
+  "pp-37-2018--b004-6",
+  "pp-37-2018--b005-7",
+  "pp-37-2018--b006-8",
+  "pp-37-2018--b007-9",
+  "pp-37-2018--b008-10",
+  "pp-37-2018--b009-11",
+  "pp-37-2018--b010-12",
+  "pp-37-2018--b011-13",
+  "pp-37-2018--b012-14",
+  "pp-37-2018--b013-15",
+  "pp-37-2018--b014-16",
+  "pp-37-2018--b015-17",
+  "pp-37-2018--b016-18",
+  "pp-37-2018--b017-19",
+  "pp-37-2018--b018-20",
+  "pp-37-2018--b019-21",
+  "pp-37-2018--b020-21",
+  "pp-37-2018--p021-1",
+  "pp-37-2018--p022-2",
+  "pp-37-2018--p023-3",
+  "pp-37-2018--p024-4",
+  "pp-37-2018--p025-5",
+  "pp-37-2018--p026-6",
+  "pp-37-2018--p027-7",
+  "pp-37-2018--p028-8",
+  "pp-37-2018--p029-9",
+  "pp-37-2018--p030-10",
+  "pp-37-2018--p031-11",
+  "pp-37-2018--p032-12",
+  "pp-37-2018--p033-13",
+  "pp-37-2018--p034-14",
+  "pp-37-2018--p035-15",
+  "pp-37-2018--p036-16",
+  "pp-37-2018--p037-17",
+  "pp-37-2018--p038-18",
+  "pp-37-2018--p039-19",
+  "pp-37-2018--p040-20",
+  "pp-37-2018--p041-21"
+ ],
+ "quality_flags": [
+  "urutan_loncat:2->4,21->21",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-08-01",
+   "detail_error": null,
+   "number_as_written": "37 TAHUN 2018",
+   "retrieved_at": "2026-09-22T00:49:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN DAN/ ATAU PENERIMAAN NEGARA BUKAN PAJAK DI BIDANG USAHA PERTAMBANGAN MINERAL",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-atau-penerimaan-negara-bukan-pajak-di-bidang-usaha-pertambangan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=124",
+   "retrieved_at": "2026-09-21T14:16:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-atau-penerimaan-negara-bukan-pajak-di-bidang-usaha-pertambangan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 49056,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:49:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-atau-penerimaan-negara-bukan-pajak-di-bidang-usaha-pertambangan"
+ },
+ "title": "PERLAKUAN PERPAJAKAN DAN/ ATAU PENERIMAAN NEGARA BUKAN PAJAK DI BIDANG USAHA PERTAMBANGAN MINERAL"
+}

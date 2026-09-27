@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-148-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "148",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-148-2011--b000-i",
+  "pmk-148-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "145",
+     "2007",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 145/PMK.04/2007",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-145-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-09-07",
+   "detail_error": null,
+   "number_as_written": "148 TAHUN 2011",
+   "retrieved_at": "2026-09-22T02:43:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 145/PMK.04/2007  TENTANG KETENTUAN KEPABEANAN DI BIDANG EKSPOR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-145pmk042007-tentang-ketentuan-kepabeanan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=200",
+   "retrieved_at": "2026-09-21T14:22:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-145pmk042007-tentang-ketentuan-kepabeanan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 17331,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:43:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-145pmk042007-tentang-ketentuan-kepabeanan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 145/PMK.04/2007  TENTANG KETENTUAN KEPABEANAN DI BIDANG EKSPOR"
+}

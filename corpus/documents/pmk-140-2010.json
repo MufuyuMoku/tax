@@ -1,0 +1,64 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-140-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "140",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-140-2010--b000-1",
+  "pmk-140-2010--b001-2",
+  "pmk-140-2010--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-08-11",
+   "detail_error": null,
+   "number_as_written": "140/PMK.03/2010",
+   "retrieved_at": "2026-09-22T02:50:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN WAJIB PAJAK SEBAGAI PIHAK YANG SEBENARNYA MELAKUKAN PEMBELIAN SAHAM ATAU AKTIVA PERUSAHAAN MELALUI PIHAK LAIN ATAU BADAN YANG DIBENTUK UNTUK MAKSUD DEMIKIAN (SPECIAL PURPOSE COMPANY) YANG MEMPUNYAI HUBUNGAN ISTIMEWA DENGAN PIHAK LAIN DAN TERDAPAT KETIDAKWAJARAN PENETAPAN HARGA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-wajib-pajak-sebagai-pihak-yang-sebenarnya-melakukan-pembelian-saham-atau-aktiva"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=208",
+   "retrieved_at": "2026-09-21T14:23:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-wajib-pajak-sebagai-pihak-yang-sebenarnya-melakukan-pembelian-saham-atau-aktiva",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5383,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:50:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-wajib-pajak-sebagai-pihak-yang-sebenarnya-melakukan-pembelian-saham-atau-aktiva"
+ },
+ "title": "PENETAPAN WAJIB PAJAK SEBAGAI PIHAK YANG SEBENARNYA MELAKUKAN PEMBELIAN SAHAM ATAU AKTIVA PERUSAHAAN MELALUI PIHAK LAIN ATAU BADAN YANG DIBENTUK UNTUK MAKSUD DEMIKIAN (SPECIAL PURPOSE COMPANY) YANG MEMPUNYAI HUBUNGAN ISTIMEWA DENGAN PIHAK LAIN DAN TERDAPAT KETIDAKWAJARAN PENETAPAN HARGA"
+}

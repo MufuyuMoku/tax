@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-191-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "191",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-191-2015--b000-1",
+  "pmk-191-2015--b001-2",
+  "pmk-191-2015--b002-3",
+  "pmk-191-2015--b003-4",
+  "pmk-191-2015--b004-5",
+  "pmk-191-2015--b005-6",
+  "pmk-191-2015--b006-7",
+  "pmk-191-2015--b007-8",
+  "pmk-191-2015--b008-9",
+  "pmk-191-2015--b009-10",
+  "pmk-191-2015--b010-12"
+ ],
+ "quality_flags": [
+  "urutan_loncat:10->12"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-233-2015",
+    "number_as_written": "233/PMK.03/2015",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 191/PMK.010/2015",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 191/PMK.010/2015 TENTANG PENILAIAN KEMBALI AKTIVA TETAP UNTUK TUJUAN PERPAJAKAN BAGI PERMOHONAN YANG DIAJUKAN PADA TAHUN 2015 DAN TAHUN 2016"
+   },
+   {
+    "id": "pmk-29-2016",
+    "number_as_written": "29/PMK.03/2016",
+    "quote": "Peraturan Menteri Keuangan Nomor 191/PMK.010/2015",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 191/PMK.010/2015 TENTANG PENILAIAN KEMBALI AKTIVA TETAP UNTUK TUJUAN PERPAJAKAN BAGI PERMOHONAN YANG DIAJUKAN PADA TAHUN 2015 DAN TAHUN 2016"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-10-15",
+   "detail_error": null,
+   "number_as_written": "191/PMK.010/2015",
+   "retrieved_at": "2026-09-22T02:23:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENILAIAN KEMBALI AKTIVA TETAP UNTUK TUJUAN PERPAJAKAN BAGI PERMOHONAN YANG DIAJUKAN PADA TAHUN 2015 DAN TAHUN 2016",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penilaian-kembali-aktiva-tetap-untuk-tujuan-perpajakan-bagi-permohonan-yang-diajukan-pada"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=157",
+   "retrieved_at": "2026-09-21T14:19:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penilaian-kembali-aktiva-tetap-untuk-tujuan-perpajakan-bagi-permohonan-yang-diajukan-pada",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19234,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:23:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penilaian-kembali-aktiva-tetap-untuk-tujuan-perpajakan-bagi-permohonan-yang-diajukan-pada"
+ },
+ "title": "PENILAIAN KEMBALI AKTIVA TETAP UNTUK TUJUAN PERPAJAKAN BAGI PERMOHONAN YANG DIAJUKAN PADA TAHUN 2015 DAN TAHUN 2016"
+}

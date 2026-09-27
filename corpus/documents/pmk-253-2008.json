@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-253-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "253",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-253-2008--b000-1",
+  "pmk-253-2008--b001-2",
+  "pmk-253-2008--b002-3",
+  "pmk-253-2008--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-90-2015",
+    "number_as_written": "90/PMK.03/2015",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 253/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 253/PMK03/2008 TENTANG WAJIB PAJAK BADAN TERTENTU SEBAGAI PEMUNGUT PAJAK PENGHASILAN DARI PEMBELI ATAS PENJUALAN BARANG YANG TERGOLONG SANGAT MEWAH"
+   },
+   {
+    "id": "pmk-92-2019",
+    "number_as_written": "92/PMK.03/2019",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 253/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 253/PMK.03/2008 TENTANG WAJIB PAJAK BADAN TERTENTU SEBAGAI PEMUNGUT PAJAK PENGHASILAN DARI PEMBELI ATAS PENJUALAN BARANG YANG TERGOLONG SANGAT MEWAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "253/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:12:19+00:00",
+   "source": "DJP",
+   "title_as_written": "WAJIB PAJAK BADAN TERTENTU SEBAGAI PEMUNGUT PAJAK PENGHASILAN DARI PEMBELI ATAS PENJUALAN BARANG YANG TERGOLONG SANGAT MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-badan-tertentu-sebagai-pemungut-pajak-penghasilan-dari-pembeli-atas-penjualan"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "253/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:41:58+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Wajib Pajak Badan Tertentu Sebagai Pemungut Pajak Penghasilan Dari Pembeli atas Penjualan Barang yang Tergolong Sangat Mewah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/253-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=222",
+   "retrieved_at": "2026-09-21T14:24:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-badan-tertentu-sebagai-pemungut-pajak-penghasilan-dari-pembeli-atas-penjualan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=394",
+   "retrieved_at": "2026-09-21T14:41:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/253-pmk-03-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4895,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:12:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-badan-tertentu-sebagai-pemungut-pajak-penghasilan-dari-pembeli-atas-penjualan"
+ },
+ "title": "WAJIB PAJAK BADAN TERTENTU SEBAGAI PEMUNGUT PAJAK PENGHASILAN DARI PEMBELI ATAS PENJUALAN BARANG YANG TERGOLONG SANGAT MEWAH"
+}

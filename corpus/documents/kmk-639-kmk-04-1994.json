@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-639-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "639/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-29",
+   "detail_error": null,
+   "number_as_written": "639/KMK.04/1994",
+   "retrieved_at": "2026-09-22T04:47:02+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMOTONGAN ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN ATAS HADIAH UNDIAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-atau-pemungutan-penyetoran-dan-pelaporan-pajak-penghasilan-atas"
+  },
+  {
+   "date_as_written": "1994-12-29 00:00:00",
+   "number_as_written": "639/KMK.04/1994",
+   "retrieved_at": "2026-09-21T14:53:47+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemotongan atau Pemungutan, Penyetoran dan Pelaporan Pajak Penghasilan atas Hadiah Undian",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/639-kmk-04-1994"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=456",
+   "retrieved_at": "2026-09-21T14:42:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-atau-pemungutan-penyetoran-dan-pelaporan-pajak-penghasilan-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=102",
+   "retrieved_at": "2026-09-21T14:53:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/639-kmk-04-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMOTONGAN ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN ATAS HADIAH UNDIAN"
+}

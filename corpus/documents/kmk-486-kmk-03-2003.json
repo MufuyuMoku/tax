@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-486-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "486/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kmk-486-kmk-03-2003--b000-1",
+  "kmk-486-kmk-03-2003--b001-2",
+  "kmk-486-kmk-03-2003--b002-3",
+  "kmk-486-kmk-03-2003--b003-4",
+  "kmk-486-kmk-03-2003--b004-5",
+  "kmk-486-kmk-03-2003--b005-6",
+  "kmk-486-kmk-03-2003--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Keputusan Menteri Keuangan Nomor 486/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "70/KMK.03",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 70/KMK.03/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-70-kmk-03-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-10-30",
+   "detail_error": null,
+   "number_as_written": "486/KMK.03/2003",
+   "retrieved_at": "2026-09-22T03:32:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN YANG DITANGGUNG OLEH PEMERINTAH ATAS PENGHASILAN PEKERJA DARI PEKERJAAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-yang-ditanggung-oleh-pemerintah-atas-penghasilan-pekerja-dari-0"
+  },
+  {
+   "date_as_written": "2003-10-30 00:00:00",
+   "number_as_written": "486/KMK.03/2003",
+   "retrieved_at": "2026-09-21T14:48:30+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Penghasilan yang Ditanggung oleh Pemerintah atas Penghasilan Pekerja Dari Pekerjaan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-03-2003"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=311",
+   "retrieved_at": "2026-09-21T14:30:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-yang-ditanggung-oleh-pemerintah-atas-penghasilan-pekerja-dari-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=23",
+   "retrieved_at": "2026-09-21T14:48:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-03-2003",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6089,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:32:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-yang-ditanggung-oleh-pemerintah-atas-penghasilan-pekerja-dari-0"
+ },
+ "title": "PAJAK PENGHASILAN YANG DITANGGUNG OLEH PEMERINTAH ATAS PENGHASILAN PEKERJA DARI PEKERJAAN"
+}

@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-85-1985",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "85",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-09-18",
+   "detail_error": null,
+   "number_as_written": "KEP - 85/PJ.BT5/1985",
+   "retrieved_at": "2026-09-22T05:09:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN JENIS, KODE, WARNA, BENTUK/UKURAN DAN BUKU REGISTER SARANA PAJAK PENGHASILAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kode-warna-bentukukuran-dan-buku-register-sarana-pajak-penghasilan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=486",
+   "retrieved_at": "2026-09-21T14:44:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kode-warna-bentukukuran-dan-buku-register-sarana-pajak-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN JENIS, KODE, WARNA, BENTUK/UKURAN DAN BUKU REGISTER SARANA PAJAK PENGHASILAN"
+}

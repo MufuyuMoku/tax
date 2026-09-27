@@ -1,0 +1,115 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-70-2007",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "70",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-70-2007--b000-1",
+  "per-djp-70-2007--b001-2",
+  "per-djp-70-2007--b002-3",
+  "per-djp-70-2007--b003-4",
+  "per-djp-70-2007--b004-5",
+  "per-djp-70-2007--b005-6",
+  "per-djp-70-2007--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 7 Tahun 1983",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-7-1983"
+   },
+   {
+    "key": [
+     "UU",
+     "17",
+     "2000",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 17 tahun 2000",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-17-2000"
+   },
+   {
+    "key": [
+     "SE",
+     "8",
+     "1995",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995",
+    "source_of_reading": "DJP",
+    "target_id": "se-8-1995"
+   },
+   {
+    "key": [
+     "SE",
+     "10",
+     "1998",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998",
+    "source_of_reading": "DJP",
+    "target_id": "se-10-1998"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-04-09",
+   "detail_error": null,
+   "number_as_written": "PER-70/PJ/2007",
+   "retrieved_at": "2026-09-22T03:21:17+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-dan-perkiraan-penghasilan-neto-sebagaimana-dimaksud-dalam-pasal-23-ayat-4"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=255",
+   "retrieved_at": "2026-09-21T14:26:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-dan-perkiraan-penghasilan-neto-sebagaimana-dimaksud-dalam-pasal-23-ayat-4",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6644,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:21:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-dan-perkiraan-penghasilan-neto-sebagaimana-dimaksud-dalam-pasal-23-ayat-4"
+ },
+ "title": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000"
+}

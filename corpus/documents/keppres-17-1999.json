@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "keppres-17-1999",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "17",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KAWASAN PENGEMBANGAN EKONOMI TERPADU",
+    "url": "https://www.pajak.go.id/id/peraturan/kawasan-pengembangan-ekonomi-terpadu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENANGGUHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS BARANG DAN BAHAN ASAL IMPOR YANG DIPERGUNAKAN DALAM PEMBUATAN KOMODITI EKSPOR",
+    "url": "https://www.pajak.go.id/id/peraturan/penangguhan-pembayaran-pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 47/KMK.01/1987 TANGGAL 26 JANUARI 1987 TENTANG PELAKSANAAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN/PEMASUKAN/PENYERAHAN BARANG KENA PAJAK ATAU JASA KENA PAJAK DARI/KE/DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM DAN PULAU-PULAU DI SEKITARNYA YANG DINYATAKAN SEBAGAI KAWASAN BERIKAT (BONDED ZONE)",
+    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-47kmk011987-tanggal-26-januari-1987"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-407/PJ./2000 TENTANG PEDOMAN ADMINISTRASI PELAKSANAAN FISKAL LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-407pj2000-tentang-pedoman"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR Ãƒâ€šÃ‚Â",
+    "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-penjualan-atas-barang-mewah-atas-impor-dan-atau-penyerahan-barang-kena-0"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-02-23",
+   "detail_error": null,
+   "number_as_written": "17 TAHUN 1999",
+   "retrieved_at": "2026-09-22T04:09:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 71 TAHUN 1996 TENTANG PEMBANGUNAN PULAU NATUNA SEBAGAI KAWASAN PENGEMBANGAN EKONOMI TERPADU",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-71-tahun-1996-tentang-pembangunan-pulau-natuna"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=406",
+   "retrieved_at": "2026-09-21T14:38:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-71-tahun-1996-tentang-pembangunan-pulau-natuna",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 71 TAHUN 1996 TENTANG PEMBANGUNAN PULAU NATUNA SEBAGAI KAWASAN PENGEMBANGAN EKONOMI TERPADU"
+}

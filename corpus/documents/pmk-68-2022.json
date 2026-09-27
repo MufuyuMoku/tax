@@ -1,0 +1,125 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK68PMK032022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "68",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK68PMK032022.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-68-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "68",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-68-2022--b000-1",
+  "pmk-68-2022--b001-2",
+  "pmk-68-2022--b002-3",
+  "pmk-68-2022--b003-4",
+  "pmk-68-2022--b004-5",
+  "pmk-68-2022--b005-6",
+  "pmk-68-2022--b006-7",
+  "pmk-68-2022--b007-8",
+  "pmk-68-2022--b008-9",
+  "pmk-68-2022--b009-10",
+  "pmk-68-2022--b010-11",
+  "pmk-68-2022--b011-12",
+  "pmk-68-2022--b012-13",
+  "pmk-68-2022--b013-14",
+  "pmk-68-2022--b014-15",
+  "pmk-68-2022--b015-16",
+  "pmk-68-2022--b016-17",
+  "pmk-68-2022--b017-18",
+  "pmk-68-2022--b018-19",
+  "pmk-68-2022--b019-20",
+  "pmk-68-2022--b020-21",
+  "pmk-68-2022--b021-22",
+  "pmk-68-2022--b022-23",
+  "pmk-68-2022--b023-24",
+  "pmk-68-2022--b024-25",
+  "pmk-68-2022--b025-26",
+  "pmk-68-2022--b026-27",
+  "pmk-68-2022--b027-28",
+  "pmk-68-2022--b028-29",
+  "pmk-68-2022--b029-30",
+  "pmk-68-2022--b030-31",
+  "pmk-68-2022--b031-32",
+  "pmk-68-2022--b032-33"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-30",
+   "detail_error": null,
+   "number_as_written": "68/PMK.03/2022",
+   "retrieved_at": "2026-09-22T00:26:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DAN PAJAK PENGHASILAN ATAS TRANSAKSI PERDAGANGAN ASET KRIPTO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dan-pajak-penghasilan-atas-transaksi-perdagangan-aset-kripto"
+  },
+  {
+   "date_as_written": "2022-03-30 00:00:00",
+   "number_as_written": "68/PMK.03/2022",
+   "retrieved_at": "2026-09-21T14:19:42+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2022"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=62",
+   "retrieved_at": "2026-09-21T14:12:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dan-pajak-penghasilan-atas-transaksi-perdagangan-aset-kripto",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=67",
+   "retrieved_at": "2026-09-21T14:19:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 43357,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:26:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dan-pajak-penghasilan-atas-transaksi-perdagangan-aset-kripto"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DAN PAJAK PENGHASILAN ATAS TRANSAKSI PERDAGANGAN ASET KRIPTO"
+}

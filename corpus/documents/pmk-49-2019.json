@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-49-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "49",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-49-2019--b000-1",
+  "pmk-49-2019--b001-2",
+  "pmk-49-2019--b002-3",
+  "pmk-49-2019--b003-4",
+  "pmk-49-2019--b004-5",
+  "pmk-49-2019--b005-6",
+  "pmk-49-2019--b006-7",
+  "pmk-49-2019--b007-8",
+  "pmk-49-2019--b008-9",
+  "pmk-49-2019--b009-10",
+  "pmk-49-2019--b010-11",
+  "pmk-49-2019--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "240",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 240/PMK.03/2014",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-240-2014"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-04-29",
+   "detail_error": null,
+   "number_as_written": "49/PMK.03/2019",
+   "retrieved_at": "2026-09-22T00:44:52+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PROSEDUR PERSETUJUAN BERSAMA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-prosedur-persetujuan-bersama"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=111",
+   "retrieved_at": "2026-09-21T14:15:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-prosedur-persetujuan-bersama",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 30810,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:44:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-prosedur-persetujuan-bersama"
+ },
+ "title": "TATA CARA PELAKSANAAN PROSEDUR PERSETUJUAN BERSAMA"
+}

@@ -1,0 +1,62 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-1-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "1",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-01-06 00:00:00",
+   "number_as_written": "1/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:31:47+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/1-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=242",
+   "retrieved_at": "2026-09-21T14:31:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/1-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan."
+}

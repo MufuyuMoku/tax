@@ -1,0 +1,169 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK96TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "96",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK96TAHUN2023.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-96-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "96",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-96-2023--b000-1",
+  "pmk-96-2023--b001-2",
+  "pmk-96-2023--b002-3",
+  "pmk-96-2023--b003-4",
+  "pmk-96-2023--b004-5",
+  "pmk-96-2023--b005-6",
+  "pmk-96-2023--b006-7",
+  "pmk-96-2023--b007-8",
+  "pmk-96-2023--b008-9",
+  "pmk-96-2023--b009-10",
+  "pmk-96-2023--b010-11",
+  "pmk-96-2023--b011-12",
+  "pmk-96-2023--b012-13",
+  "pmk-96-2023--b013-14",
+  "pmk-96-2023--b014-15",
+  "pmk-96-2023--b015-16",
+  "pmk-96-2023--b016-17",
+  "pmk-96-2023--b017-18",
+  "pmk-96-2023--b018-19",
+  "pmk-96-2023--b019-20",
+  "pmk-96-2023--b020-21",
+  "pmk-96-2023--b021-22",
+  "pmk-96-2023--b022-23",
+  "pmk-96-2023--b023-24",
+  "pmk-96-2023--b024-25",
+  "pmk-96-2023--b025-26",
+  "pmk-96-2023--b026-27",
+  "pmk-96-2023--b027-28",
+  "pmk-96-2023--b028-29",
+  "pmk-96-2023--b029-30",
+  "pmk-96-2023--b030-31",
+  "pmk-96-2023--b031-32",
+  "pmk-96-2023--b032-33",
+  "pmk-96-2023--b033-34",
+  "pmk-96-2023--b034-35",
+  "pmk-96-2023--b035-36",
+  "pmk-96-2023--b036-37",
+  "pmk-96-2023--b037-38",
+  "pmk-96-2023--b038-40",
+  "pmk-96-2023--b039-41",
+  "pmk-96-2023--b040-42",
+  "pmk-96-2023--b041-43",
+  "pmk-96-2023--b042-44",
+  "pmk-96-2023--b043-45",
+  "pmk-96-2023--b044-46",
+  "pmk-96-2023--b045-47",
+  "pmk-96-2023--b046-48",
+  "pmk-96-2023--b047-49",
+  "pmk-96-2023--b048-50",
+  "pmk-96-2023--b049-51",
+  "pmk-96-2023--b050-52",
+  "pmk-96-2023--b051-53",
+  "pmk-96-2023--b052-54",
+  "pmk-96-2023--b053-55",
+  "pmk-96-2023--b054-56",
+  "pmk-96-2023--b055-57",
+  "pmk-96-2023--b056-58",
+  "pmk-96-2023--b057-59",
+  "pmk-96-2023--b058-60",
+  "pmk-96-2023--b059-61",
+  "pmk-96-2023--b060-62",
+  "pmk-96-2023--b061-63",
+  "pmk-96-2023--b062-64",
+  "pmk-96-2023--b063-65",
+  "pmk-96-2023--b064-66",
+  "pmk-96-2023--b065-67",
+  "pmk-96-2023--b066-68",
+  "pmk-96-2023--b067-69",
+  "pmk-96-2023--b068-70",
+  "pmk-96-2023--b069-71",
+  "pmk-96-2023--b070-72",
+  "pmk-96-2023--b071-73",
+  "pmk-96-2023--b072-74",
+  "pmk-96-2023--b073-75",
+  "pmk-96-2023--b074-76"
+ ],
+ "quality_flags": [
+  "urutan_loncat:38->40"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-111-2023",
+    "number_as_written": "111 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 96 Tahun 2023",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 96 TAHUN 2023 TENTANG KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR DAN EKSPOR BARANG KIRIMAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "199",
+     "2019",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 199/PMK.010/2019",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-199-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-09-15",
+   "detail_error": null,
+   "number_as_written": "96 TAHUN 2023",
+   "retrieved_at": "2026-09-21T15:01:11+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=42",
+   "retrieved_at": "2026-09-21T14:10:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 110933,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T15:01:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman-0"
+ },
+ "title": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN"
+}

@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-16-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "16",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-16-2010--b000-1",
+  "pmk-16-2010--b001-2",
+  "pmk-16-2010--b002-3",
+  "pmk-16-2010--b003-4",
+  "pmk-16-2010--b004-5",
+  "pmk-16-2010--b005-6",
+  "pmk-16-2010--b006-7",
+  "pmk-16-2010--b007-8",
+  "pmk-16-2010--b008-9",
+  "pmk-16-2010--b009-10",
+  "pmk-16-2010--b010-11",
+  "pmk-16-2010--b011-12",
+  "pmk-16-2010--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "112/KMK.03",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 112/KMK.03/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-112-kmk-03-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-01-25",
+   "detail_error": null,
+   "number_as_written": "16/PMK.03/2010",
+   "retrieved_at": "2026-09-22T02:54:55+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA, DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon"
+  },
+  {
+   "date_as_written": "2010-01-25 00:00:00",
+   "number_as_written": "16/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:40:15+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Berupa Uang Pesangon, Uang Manfaat Pensiun, Tunjangan Hari Tua, dan Jaminan Hari Tua yang Dibayarkan Sekaligus.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=212",
+   "retrieved_at": "2026-09-21T14:23:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=368",
+   "retrieved_at": "2026-09-21T14:40:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15059,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:54:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemotongan-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon"
+ },
+ "title": "TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA, DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS"
+}

@@ -1,0 +1,64 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-34-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "34",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-34-2014--b000-1",
+  "per-djp-34-2014--b001-2",
+  "per-djp-34-2014--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-12-31",
+   "detail_error": null,
+   "number_as_written": "PER-34/PJ/2014",
+   "retrieved_at": "2026-09-22T02:28:34+00:00",
+   "source": "DJP",
+   "title_as_written": "UJI COBA PERLUASAN DAN PENERAPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DAN KANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN KE SELURUH KANTOR PELAYANAN PAJAK DI INDONESIA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/uji-coba-perluasan-dan-penerapan-wilayah-kerja-pusat-pengolahan-data-dan-dokumen"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=169",
+   "retrieved_at": "2026-09-21T14:20:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/uji-coba-perluasan-dan-penerapan-wilayah-kerja-pusat-pengolahan-data-dan-dokumen",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4610,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:28:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/uji-coba-perluasan-dan-penerapan-wilayah-kerja-pusat-pengolahan-data-dan-dokumen"
+ },
+ "title": "UJI COBA PERLUASAN DAN PENERAPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DAN KANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN KE SELURUH KANTOR PELAYANAN PAJAK DI INDONESIA"
+}

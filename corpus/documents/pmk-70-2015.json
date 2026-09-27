@@ -1,0 +1,97 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-70-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "70",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-70-2015--b000-i",
+  "pmk-70-2015--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "79",
+     "2012",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 79/PMK.02/2012",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-79-2012"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-03-31",
+   "detail_error": null,
+   "number_as_written": "70/PMK.03/2015",
+   "retrieved_at": "2026-09-22T02:27:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 79/PMK.02/2012 TENTANG TATA CARA PENYETORAN DAN PELAPORAN PENERIMAAN NEGARA DARI KEGIATAN USAHA HULU MINYAK BUMI DAN/ATAU GAS BUMI DAN PENGHITUNGAN PAJAK PENGHASILAN UNTUK KEPERLUAN PEMBAYARAN PAJAK PENGHASILAN MINYAK BUMI DAN/ATAU GAS BUMI BERUPA VOLUME MINYAK BUMI DAN/ATAU GAS BUMI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-79pmk022012-tentang-tata-cara-penyetoran"
+  },
+  {
+   "date_as_written": "2015-03-31 00:00:00",
+   "number_as_written": "70/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:31:10+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 79/PMK.02/2012 tentang Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=166",
+   "retrieved_at": "2026-09-21T14:20:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-79pmk022012-tentang-tata-cara-penyetoran",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=235",
+   "retrieved_at": "2026-09-21T14:31:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 25205,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:27:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-79pmk022012-tentang-tata-cara-penyetoran"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 79/PMK.02/2012 TENTANG TATA CARA PENYETORAN DAN PELAPORAN PENERIMAAN NEGARA DARI KEGIATAN USAHA HULU MINYAK BUMI DAN/ATAU GAS BUMI DAN PENGHITUNGAN PAJAK PENGHASILAN UNTUK KEPERLUAN PEMBAYARAN PAJAK PENGHASILAN MINYAK BUMI DAN/ATAU GAS BUMI BERUPA VOLUME MINYAK BUMI DAN/ATAU GAS BUMI"
+}

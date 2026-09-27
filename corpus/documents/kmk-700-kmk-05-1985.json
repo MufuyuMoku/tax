@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-700-kmk-05-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "700/KMK.05",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN KANTOR PELAYANAN PAJAK TERTENTU UNTUK MELAKSANAKAN KONFIRMASI FAKTUR PAJAK DENGAN APLIKASI SISTEM INFORMASI PERPAJAKAN MELALUI KOMPUTER",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-tertentu-untuk-melaksanakan-konfirmasi-faktur-pajak-1"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "SAAT LAIN SEBAGAI SAAT TERUTANGNYA PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN ATAU IMPOR BARANG KENA PAJAK YANG TERGOLONG MEWAH YANG DILAKUKAN PADA TANGGAL 1 JANUARI 2001 SAMPAI DENGAN TANGGAL 24 JANUARI 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/saat-lain-sebagai-saat-terutangnya-pajak-penjualan-atas-barang-mewah-atas-penyerahan-atau"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 383/PJ/2002 TENTANG TATA CARA PEMBAYARAN SETORAN PAJAK MELALUI SISTEM PEMBAYARAN ON-LINE DAN PENYAMPAIAN SURAT PEMBERITAHUAN DALAM BENTUK DIGITAL",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-383pj2002-tentang-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "DASAR PENGENAAN DAN TATA CARA PEMUNGUTAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI 1984 ATAS IMPOR BARANG KENA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/dasar-pengenaan-dan-tata-cara-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-08-12",
+   "detail_error": null,
+   "number_as_written": "700/KMK.05/1985",
+   "retrieved_at": "2026-09-22T05:09:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN BEA MASUK, PPN DAN PPh PASAL 22 ATAS PEMASUKAN BARANG-BARANG UNTUK PERKERETA-APIAN OLEH PERUSAHAAN JAWATAN KERETA API",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-ppn-dan-pph-pasal-22-atas-pemasukan-barang-barang-untuk-perkereta"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=486",
+   "retrieved_at": "2026-09-21T14:44:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-ppn-dan-pph-pasal-22-atas-pemasukan-barang-barang-untuk-perkereta",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBEBASAN BEA MASUK, PPN DAN PPh PASAL 22 ATAS PEMASUKAN BARANG-BARANG UNTUK PERKERETA-APIAN OLEH PERUSAHAAN JAWATAN KERETA API"
+}

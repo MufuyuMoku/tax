@@ -1,0 +1,63 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "id-peraturan-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1",
+ "identity": {
+  "code": "?",
+  "number": "/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1",
+  "variant": null,
+  "year": ""
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "id-peraturan-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1--b000-1",
+  "id-peraturan-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-07-02",
+   "detail_error": null,
+   "number_as_written": "74 TAHUN 200",
+   "retrieved_at": "2026-09-22T00:39:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN KAMBOJA UNTUK PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK YANG BERKENAAN DENGAN PAJAK-PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE  GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE ROYAL GOVERNMENT OF CAMBODIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND  THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=94",
+   "retrieved_at": "2026-09-21T14:14:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4421,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:39:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-1"
+ },
+ "title": "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN KAMBOJA UNTUK PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK YANG BERKENAAN DENGAN PAJAK-PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE  GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE ROYAL GOVERNMENT OF CAMBODIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND  THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)"
+}

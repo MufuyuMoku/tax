@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-62-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "62",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-62-2012--b000-1",
+  "pmk-62-2012--b001-2",
+  "pmk-62-2012--b002-3",
+  "pmk-62-2012--b003-4",
+  "pmk-62-2012--b004-5",
+  "pmk-62-2012--b005-6",
+  "pmk-62-2012--b006-7",
+  "pmk-62-2012--b007-8",
+  "pmk-62-2012--b008-9",
+  "pmk-62-2012--b009-10",
+  "pmk-62-2012--b010-11",
+  "pmk-62-2012--b011-12",
+  "pmk-62-2012--b012-13",
+  "pmk-62-2012--b013-14",
+  "pmk-62-2012--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "45",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 45/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-45-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "240",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 240/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-240-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-04-26",
+   "detail_error": null,
+   "number_as_written": "62/PMK.03/2012",
+   "retrieved_at": "2026-09-22T02:36:51+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGAWASAN, PENGADMINISTRASIAN, PEMBAYARAN, SERTA PELUNASAN PAJAK PERTAMBAHAN NILAI DAN/ATAU PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI KAWASAN BEBAS KE TEMPAT LAIN DALAM DAERAH PABEAN DAN PEMASUKAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengawasan-pengadministrasian-pembayaran-serta-pelunasan-pajak-pertambahan-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=196",
+   "retrieved_at": "2026-09-21T14:22:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengawasan-pengadministrasian-pembayaran-serta-pelunasan-pajak-pertambahan-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 31156,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:36:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengawasan-pengadministrasian-pembayaran-serta-pelunasan-pajak-pertambahan-0"
+ },
+ "title": "TATA CARA PENGAWASAN, PENGADMINISTRASIAN, PEMBAYARAN, SERTA PELUNASAN PAJAK PERTAMBAHAN NILAI DAN/ATAU PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI KAWASAN BEBAS KE TEMPAT LAIN DALAM DAERAH PABEAN DAN PEMASUKAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS"
+}

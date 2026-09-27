@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-31-2011",
+ "identity": {
+  "code": "PP",
+  "number": "31",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-31-2011--b000-1",
+  "pp-31-2011--b001-2",
+  "pp-31-2011--b002-3",
+  "pp-31-2011--p003-1",
+  "pp-31-2011--p004-2",
+  "pp-31-2011--p005-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "17",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 17 Tahun 2009",
+    "source_of_reading": "DJP",
+    "target_id": "pp-17-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-06-06",
+   "detail_error": null,
+   "number_as_written": "31 TAHUN 2011",
+   "retrieved_at": "2026-09-22T02:44:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN PEMERINTAH NOMOR 17 TAHUN 2009 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI TRANSAKSI DERIVATIF BERUPA KONTRAK BERJANGKA YANG DIPERDAGANGKAN DI BURSA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-pemerintah-nomor-17-tahun-2009-tentang-pajak-penghasilan-atas"
+  },
+  {
+   "date_as_written": "2011-06-06 00:00:00",
+   "number_as_written": "PP 31 TAHUN 2011",
+   "retrieved_at": "2026-09-21T14:09:18+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pencabutan  Peraturan Pemerintah Nomor 17 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Dari Transaksi Derivatif Berupa Kontrak Berjangka yang Diperdagangkan di Bursa.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-31-tahun-2011"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=202",
+   "retrieved_at": "2026-09-21T14:22:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-pemerintah-nomor-17-tahun-2009-tentang-pajak-penghasilan-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=55",
+   "retrieved_at": "2026-09-21T14:09:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-31-tahun-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5002,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:44:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-pemerintah-nomor-17-tahun-2009-tentang-pajak-penghasilan-atas"
+ },
+ "title": "PENCABUTAN PERATURAN PEMERINTAH NOMOR 17 TAHUN 2009 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI TRANSAKSI DERIVATIF BERUPA KONTRAK BERJANGKA YANG DIPERDAGANGKAN DI BURSA"
+}

@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-6-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "6",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-6-2011--b000-1",
+  "per-djp-6-2011--b001-2",
+  "per-djp-6-2011--b002-3",
+  "per-djp-6-2011--b003-4",
+  "per-djp-6-2011--b004-5",
+  "per-djp-6-2011--b005-6",
+  "per-djp-6-2011--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-4-2026",
+    "number_as_written": "PER-4/PJ/2026",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2011",
+    "source_of_reading": "DJP",
+    "title": "BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "163",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-163/PJ/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-163-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-03-21",
+   "detail_error": null,
+   "number_as_written": "PER-6/PJ/2011",
+   "retrieved_at": "2026-09-22T02:45:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PEMBAYARAN DAN PEMBUATAN BUKTI PEMBAYARAN ATAS ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembayaran-dan-pembuatan-bukti-pembayaran-atas-zakat-atau-sumbangan-keagamaan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-4/PJ/2026 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=203",
+   "retrieved_at": "2026-09-21T14:22:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembayaran-dan-pembuatan-bukti-pembayaran-atas-zakat-atau-sumbangan-keagamaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5551,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:45:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembayaran-dan-pembuatan-bukti-pembayaran-atas-zakat-atau-sumbangan-keagamaan"
+ },
+ "title": "PELAKSANAAN PEMBAYARAN DAN PEMBUATAN BUKTI PEMBAYARAN ATAS ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

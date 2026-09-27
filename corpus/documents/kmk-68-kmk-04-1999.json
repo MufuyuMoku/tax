@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-68-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "68/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-02-16",
+   "detail_error": null,
+   "number_as_written": "68/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:09:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 80/KMK.04/1995 TENTANG BESARNYA DANA CADANGAN YANG BOLEH DIKURANGKAN SEBAGAI BIAYA SEBAGAIMANA TELAH DIUBAH DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 235/KMK.01/1998",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-80kmk041995-tentang-besarnya-dana-cadangan-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=406",
+   "retrieved_at": "2026-09-21T14:38:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-80kmk041995-tentang-besarnya-dana-cadangan-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 80/KMK.04/1995 TENTANG BESARNYA DANA CADANGAN YANG BOLEH DIKURANGKAN SEBAGAI BIAYA SEBAGAIMANA TELAH DIUBAH DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 235/KMK.01/1998"
+}

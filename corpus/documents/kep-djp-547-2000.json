@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-547-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "547",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-29",
+   "detail_error": null,
+   "number_as_written": "KEP - 547/PJ./2000",
+   "retrieved_at": "2026-09-22T03:55:09+00:00",
+   "source": "DJP",
+   "title_as_written": "BESARNYA PAJAK PENGHASILAN PASAL 25 DALAM TAHUN PAJAK BERJALAN UNTUK WAJIB PAJAK ORANG PRIBADI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-pajak-penghasilan-pasal-25-dalam-tahun-pajak-berjalan-untuk-wajib-pajak-orang"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=368",
+   "retrieved_at": "2026-09-21T14:35:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-pajak-penghasilan-pasal-25-dalam-tahun-pajak-berjalan-untuk-wajib-pajak-orang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BESARNYA PAJAK PENGHASILAN PASAL 25 DALAM TAHUN PAJAK BERJALAN UNTUK WAJIB PAJAK ORANG PRIBADI"
+}

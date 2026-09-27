@@ -1,0 +1,73 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-248-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "248",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-248-2008--b000-1",
+  "pmk-248-2008--b001-2",
+  "pmk-248-2008--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-72-2023",
+    "number_as_written": "72 TAHUN 2023",
+    "quote": "Peraturan Menteri Keuangan Nomor 248/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "title": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "248/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:12:52+00:00",
+   "source": "DJP",
+   "title_as_written": "AMORTISASI ATAS PENGELUARAN UNTUK MEMPEROLEH HARTA TAK BERWUJUD DAN PENGELUARAN LAINNYA UNTUK BIDANG USAHA TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/amortisasi-atas-pengeluaran-untuk-memperoleh-harta-tak-berwujud-dan-pengeluaran-lainnya"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks 72 TAHUN 2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=223",
+   "retrieved_at": "2026-09-21T14:24:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/amortisasi-atas-pengeluaran-untuk-memperoleh-harta-tak-berwujud-dan-pengeluaran-lainnya",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2526,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:12:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/amortisasi-atas-pengeluaran-untuk-memperoleh-harta-tak-berwujud-dan-pengeluaran-lainnya"
+ },
+ "title": "AMORTISASI ATAS PENGELUARAN UNTUK MEMPEROLEH HARTA TAK BERWUJUD DAN PENGELUARAN LAINNYA UNTUK BIDANG USAHA TERTENTU"
+}

@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-1-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "1",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-1-2007--b000-1",
+  "pmk-1-2007--b001-2",
+  "pmk-1-2007--b002-3",
+  "pmk-1-2007--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-213-2018",
+    "number_as_written": "213 /PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 01/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-01-16",
+   "detail_error": null,
+   "number_as_written": "01/PMK.03/2007",
+   "retrieved_at": "2026-09-22T03:22:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN BESARNYA PEREDARAN BRUTO BAGI WAJIB PAJAK ORANG PRIBADI YANG BOLEH MENGHITUNG PENGHASILAN NETO DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-peredaran-bruto-bagi-wajib-pajak-orang-pribadi-yang-boleh-menghitung"
+  },
+  {
+   "date_as_written": "2007-10-30 00:00:00",
+   "number_as_written": "131.1/PMK.07/2007",
+   "retrieved_at": "2026-09-21T14:44:11+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Alokasi Difinitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2007",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/131-1-pmk-07-2007"
+  },
+  {
+   "date_as_written": "2007-01-10 00:00:00",
+   "number_as_written": "01/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:45:03+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penyesuaian Besarny Peredaraan Bruto Bagi Wajib Pajak Orang Pribadi yang Boleh Menghitung Penghasilan Neto dengan Menggunakan Norma Penghitunganpenghasilan Neto",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/01-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=263",
+   "retrieved_at": "2026-09-21T14:27:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-peredaran-bruto-bagi-wajib-pajak-orang-pribadi-yang-boleh-menghitung",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=427",
+   "retrieved_at": "2026-09-21T14:44:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/131-1-pmk-07-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=440",
+   "retrieved_at": "2026-09-21T14:45:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/01-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3575,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:22:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-peredaran-bruto-bagi-wajib-pajak-orang-pribadi-yang-boleh-menghitung"
+ },
+ "title": "PENYESUAIAN BESARNYA PEREDARAN BRUTO BAGI WAJIB PAJAK ORANG PRIBADI YANG BOLEH MENGHITUNG PENGHASILAN NETO DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO"
+}

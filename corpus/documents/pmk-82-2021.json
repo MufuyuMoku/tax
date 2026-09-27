@@ -1,0 +1,92 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK82PMK032021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "82",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK82PMK032021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-82-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "82",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-82-2021--b000-1",
+  "pmk-82-2021--b001-18",
+  "pmk-82-2021--b002-19a",
+  "pmk-82-2021--b003-19b",
+  "pmk-82-2021--b004-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II",
+  "urutan_loncat:1->18"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "9",
+     "2021",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-9-2021"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-07-01",
+   "detail_error": null,
+   "number_as_written": "82/PMK.03/2021",
+   "retrieved_at": "2026-09-22T00:31:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak-untuk"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=74",
+   "retrieved_at": "2026-09-21T14:13:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak-untuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12637,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:31:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak-untuk"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
+}

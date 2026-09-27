@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-15-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "15",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-15-2014--b000-1",
+  "per-djp-15-2014--b001-2",
+  "per-djp-15-2014--b002-3",
+  "per-djp-15-2014--b003-4",
+  "per-djp-15-2014--b004-5",
+  "per-djp-15-2014--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "388",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-388/PJ/2003",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-388-2003"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "117",
+     "2004",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-117/PJ/2004",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-117-2004"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-05-16",
+   "detail_error": null,
+   "number_as_written": "PER-15/PJ/2014",
+   "retrieved_at": "2026-09-22T02:30:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PAJAK PENGHASILAN ATAS PEMBAYARAN DIVIDEN KEPADA PARA PEMEGANG SAHAM",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pajak-penghasilan-atas-pembayaran"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=177",
+   "retrieved_at": "2026-09-21T14:20:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pajak-penghasilan-atas-pembayaran",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5628,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:30:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pajak-penghasilan-atas-pembayaran"
+ },
+ "title": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PAJAK PENGHASILAN ATAS PEMBAYARAN DIVIDEN KEPADA PARA PEMEGANG SAHAM"
+}

@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-9-2022",
+ "identity": {
+  "code": "PP",
+  "number": "9",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-9-2022--b000-i",
+  "pp-9-2022--b001-ii",
+  "pp-9-2022--p002-i",
+  "pp-9-2022--p003-1",
+  "pp-9-2022--p004-2",
+  "pp-9-2022--p005-3",
+  "pp-9-2022--p006-7",
+  "pp-9-2022--p007-10d",
+  "pp-9-2022--p008-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "51",
+     "2008",
+     null
+    ],
+    "quote": "PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008",
+    "source_of_reading": "DJP",
+    "target_id": "pp-51-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-02-21",
+   "detail_error": null,
+   "number_as_written": "9 TAHUN 2022",
+   "retrieved_at": "2026-09-22T00:27:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-51-tahun-2008-tentang-pajak-penghasilan"
+  },
+  {
+   "date_as_written": "2022-02-21 00:00:00",
+   "number_as_written": "PP 9 TAHUN 2022",
+   "retrieved_at": "2026-09-21T14:05:56+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Pemerintah Nomor 51 Tahun 2008 tentang Pajak Penghasilan atas Penghasilan dari Usaha Jasa Konstruksi",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2022"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=64",
+   "retrieved_at": "2026-09-21T14:12:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-51-tahun-2008-tentang-pajak-penghasilan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=7",
+   "retrieved_at": "2026-09-21T14:05:56+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 14800,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:27:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-51-tahun-2008-tentang-pajak-penghasilan"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+}

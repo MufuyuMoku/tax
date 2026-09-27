@@ -1,0 +1,151 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-114-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "114",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-114-2025--b000-1",
+  "pmk-114-2025--b001-2",
+  "pmk-114-2025--b002-3",
+  "pmk-114-2025--b003-4",
+  "pmk-114-2025--b004-5",
+  "pmk-114-2025--b005-6",
+  "pmk-114-2025--b006-7",
+  "pmk-114-2025--b007-8",
+  "pmk-114-2025--b008-9",
+  "pmk-114-2025--b009-10",
+  "pmk-114-2025--b010-11",
+  "pmk-114-2025--b011-12",
+  "pmk-114-2025--b012-13",
+  "pmk-114-2025--b013-14",
+  "pmk-114-2025--b014-15",
+  "pmk-114-2025--b015-16",
+  "pmk-114-2025--b016-17",
+  "pmk-114-2025--b017-18",
+  "pmk-114-2025--b018-19",
+  "pmk-114-2025--b019-20",
+  "pmk-114-2025--b020-21",
+  "pmk-114-2025--b021-22",
+  "pmk-114-2025--b022-23",
+  "pmk-114-2025--b023-24",
+  "pmk-114-2025--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "245",
+     "2008",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 245/PMK.03/2008",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-245-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "254",
+     "2010",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 254/PMK.03/2010",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-254-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "76",
+     "2011",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 76/PMK.03/2011",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-76-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "90",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 90/PMK.03/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-90-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-12-30",
+   "detail_error": null,
+   "number_as_written": "114 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN ATAS BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB, SERTA HARTA HIBAHAN DALAM PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-atas-bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang"
+  },
+  {
+   "date_as_written": "2025-12-30 00:00:00",
+   "number_as_written": "PMK 114 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:15:45+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perlakuan atas Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib, serta Harta Hibahan dalam Pajak Penghasilan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-114-tahun-2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=10",
+   "retrieved_at": "2026-09-21T14:08:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-atas-bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=7",
+   "retrieved_at": "2026-09-21T14:15:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-114-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 36842,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:49:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-atas-bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang"
+ },
+ "title": "PERLAKUAN ATAS BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB, SERTA HARTA HIBAHAN DALAM PAJAK PENGHASILAN"
+}

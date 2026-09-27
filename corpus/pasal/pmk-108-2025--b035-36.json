@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1007,
+ "document_id": "pmk-108-2025",
+ "document_number": "108 TAHUN 2025",
+ "document_title": "PETUNJUK TEKNIS MENGENAI AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN",
+ "id": "pmk-108-2025--b035-36",
+ "label": "36",
+ "order": 35,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 36\n(1)\nPenyampaian laporan yang berisi informasi Rekening Keuangan sebagaimana dimaksud dalam Pasal 33 ayat (1) disampaikan dalam bentuk dokumen elektronik yang dilakukan secara elektronik oleh Lembaga Keuangan Pelapor CRS.\n(2)\nKewajiban penyampaian laporan secara elektronik sebagaimana dimaksud pada ayat (1) dilakukan melalui Portal Wajib Pajak.\n(3)\nLaporan sebagaimana dimaksud pada ayat (1) disampaikan dengan rincian informasi yang tercantum dalam Lampiran IV Huruf B yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini dan menggunakan format Extensible Markup Language (XML) atau Excel Workbook (XLS atau XLSX).\n(4)\nDalam hal terjadi keadaan kahar yang mengakibatkan Lembaga Keuangan Pelapor CRS tidak dapat melakukan penyampaian laporan secara elektronik sebagaimana dimaksud pada ayat (1), Direktur Jenderal Pajak dapat menentukan mekanisme lain dalam penyampaian laporan dimaksud.\n(5)\nTerhadap penyampaian laporan sebagaimana dimaksud pada ayat (1) diberikan bukti penerimaan.",
+ "text_source": {
+  "retrieved_at": "2026-09-21T14:49:08+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-mengenai-akses-informasi-keuangan-untuk-kepentingan-perpajakan-0"
+ }
+}

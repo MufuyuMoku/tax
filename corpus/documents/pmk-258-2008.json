@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-258-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "258",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-258-2008--b000-1",
+  "pmk-258-2008--b001-2",
+  "pmk-258-2008--b002-3",
+  "pmk-258-2008--b003-4",
+  "pmk-258-2008--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "258/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:11:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMOTONGAN PAJAK PENGHASILAN PASAL 26 ATAS PENGHASILAN DARI PENJUALAN ATAU PENGALIHAN SAHAM SEBAGAIMANA DIMAKSUD DALAM PASAL 18 AYAT(3C) UNDANG UNDANG PAJAK PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK LUAR NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan-dari-penjualan-atau-pengalihan"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "258/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:41:54+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemotongan Pajak Penghasilan Pasal 26 atas Penghasilan Dari Penjualan atau Pengalihan Saham Sebagaimana Dimaksud dalam Pasal 18 Ayat (3C) Undang-Undang Pajak Penghasilan yang Diterima atau Diperoleh Wajib Pajak Luar Negeri",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/258-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=222",
+   "retrieved_at": "2026-09-21T14:24:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan-dari-penjualan-atau-pengalihan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=393",
+   "retrieved_at": "2026-09-21T14:41:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/258-pmk-03-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6199,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:11:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pajak-penghasilan-pasal-26-atas-penghasilan-dari-penjualan-atau-pengalihan"
+ },
+ "title": "PEMOTONGAN PAJAK PENGHASILAN PASAL 26 ATAS PENGHASILAN DARI PENJUALAN ATAU PENGALIHAN SAHAM SEBAGAIMANA DIMAKSUD DALAM PASAL 18 AYAT(3C) UNDANG UNDANG PAJAK PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK LUAR NEGERI"
+}

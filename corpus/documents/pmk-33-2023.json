@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-33-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "33",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-33-2023--b000-i",
+  "pmk-33-2023--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "174",
+     "2022",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.04/2022",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-174-2022"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-03-20",
+   "detail_error": null,
+   "number_as_written": "33 TAHUN 2023",
+   "retrieved_at": "2026-09-22T00:22:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.04/2022 TENTANG TEMPAT PENYELENGGARAAN PAMERAN BERIKAT",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk042022-tentang-tempat"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=49",
+   "retrieved_at": "2026-09-21T14:11:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk042022-tentang-tempat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 21754,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:22:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk042022-tentang-tempat"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.04/2022 TENTANG TEMPAT PENYELENGGARAAN PAMERAN BERIKAT"
+}

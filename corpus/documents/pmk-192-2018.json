@@ -1,0 +1,118 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lamp_PMK_192_PMK_03_2018.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "192",
+    "year": "2018"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lamp_PMK_192_PMK_03_2018.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-192-2018",
+ "identity": {
+  "code": "PMK",
+  "number": "192",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-192-2018--b000-1",
+  "pmk-192-2018--b001-2",
+  "pmk-192-2018--b002-3",
+  "pmk-192-2018--b003-4",
+  "pmk-192-2018--b004-5",
+  "pmk-192-2018--b005-6",
+  "pmk-192-2018--b006-7",
+  "pmk-192-2018--b007-8",
+  "pmk-192-2018--b008-9",
+  "pmk-192-2018--b009-10",
+  "pmk-192-2018--b010-11",
+  "pmk-192-2018--b011-12",
+  "pmk-192-2018--b012-13",
+  "pmk-192-2018--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "164/KMK.03",
+     "2002",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 164/KMK.03/2002",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-164-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-12-31",
+   "detail_error": null,
+   "number_as_written": "192/PMK.03/2018",
+   "retrieved_at": "2026-09-22T00:47:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PENGKREDITAN PAJAK ATAS PENGHASILAN DARI LUAR NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengkreditan-pajak-atas-penghasilan-dari-luar-negeri"
+  },
+  {
+   "date_as_written": "2018-12-31 00:00:00",
+   "number_as_written": "192/PMK.03/2018",
+   "retrieved_at": "2026-09-21T14:25:06+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pengkreditan Pajak atas Penghasilan Dari Luar Negeri",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2018"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=117",
+   "retrieved_at": "2026-09-21T14:16:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengkreditan-pajak-atas-penghasilan-dari-luar-negeri",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=146",
+   "retrieved_at": "2026-09-21T14:25:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2018",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18279,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:47:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengkreditan-pajak-atas-penghasilan-dari-luar-negeri"
+ },
+ "title": "PELAKSANAAN PENGKREDITAN PAJAK ATAS PENGHASILAN DARI LUAR NEGERI"
+}

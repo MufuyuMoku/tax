@@ -1,0 +1,64 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-33-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "33",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-33-2011--b000-1",
+  "per-djp-33-2011--b001-2",
+  "per-djp-33-2011--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-11-11",
+   "detail_error": null,
+   "number_as_written": "PER-33/PJ/2011",
+   "retrieved_at": "2026-09-22T02:42:37+00:00",
+   "source": "DJP",
+   "title_as_written": "BADAN/LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/badanlembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-penerima"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=199",
+   "retrieved_at": "2026-09-21T14:22:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/badanlembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-penerima",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2907,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:42:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/badanlembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-penerima"
+ },
+ "title": "BADAN/LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

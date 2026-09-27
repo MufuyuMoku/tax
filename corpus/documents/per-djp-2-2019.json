@@ -1,0 +1,154 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-2-2019",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "2",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-2-2019--b000-1",
+  "per-djp-2-2019--b001-2",
+  "per-djp-2-2019--b002-3",
+  "per-djp-2-2019--b003-4",
+  "per-djp-2-2019--b004-5",
+  "per-djp-2-2019--b005-6",
+  "per-djp-2-2019--b006-7",
+  "per-djp-2-2019--b007-8",
+  "per-djp-2-2019--b008-9",
+  "per-djp-2-2019--b009-10",
+  "per-djp-2-2019--b010-11",
+  "per-djp-2-2019--b011-12",
+  "per-djp-2-2019--b012-13",
+  "per-djp-2-2019--b013-14",
+  "per-djp-2-2019--b014-15",
+  "per-djp-2-2019--b015-16",
+  "per-djp-2-2019--b016-17",
+  "per-djp-2-2019--b017-18",
+  "per-djp-2-2019--b018-19",
+  "per-djp-2-2019--b019-20",
+  "per-djp-2-2019--b020-21",
+  "per-djp-2-2019--b021-22",
+  "per-djp-2-2019--b022-23",
+  "per-djp-2-2019--b023-24",
+  "per-djp-2-2019--b024-25",
+  "per-djp-2-2019--b025-26",
+  "per-djp-2-2019--b026-27",
+  "per-djp-2-2019--b027-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019",
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "215",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-215/PJ/2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-215-2001"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "11",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2009",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-11-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2011",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2011"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2016",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2016"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2017",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2017"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-01-23",
+   "detail_error": null,
+   "number_as_written": "PER-02/PJ/2019",
+   "retrieved_at": "2026-09-22T00:46:46+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-11/PJ/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=115",
+   "retrieved_at": "2026-09-21T14:15:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 40871,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:46:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan"
+ },
+ "title": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN"
+}

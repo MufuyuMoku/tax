@@ -1,0 +1,108 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN PMK 74 TAHUN 2024.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "74",
+    "year": "2024"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%20PMK%2074%20TAHUN%202024.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-74-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "74",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-74-2024--b000-1",
+  "pmk-74-2024--b001-2",
+  "pmk-74-2024--b002-3",
+  "pmk-74-2024--b003-4",
+  "pmk-74-2024--b004-5",
+  "pmk-74-2024--b005-6",
+  "pmk-74-2024--b006-7",
+  "pmk-74-2024--b007-8",
+  "pmk-74-2024--b008-9",
+  "pmk-74-2024--b009-10",
+  "pmk-74-2024--b010-11",
+  "pmk-74-2024--b011-12",
+  "pmk-74-2024--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "81",
+     "2009",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 81/PMK.03/2009",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-81-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "219",
+     "2012",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 219/PMK.011/2012",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-219-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-10-10",
+   "detail_error": null,
+   "number_as_written": "74 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:55:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBENTUKAN CADANGAN PIUTANG TAK TERTAGIH YANG BOLEH DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembentukan-cadangan-piutang-tak-tertagih-yang-boleh-dikurangkan-dari-penghasilan-bruto"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=27",
+   "retrieved_at": "2026-09-21T14:09:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembentukan-cadangan-piutang-tak-tertagih-yang-boleh-dikurangkan-dari-penghasilan-bruto",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21286,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T14:55:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembentukan-cadangan-piutang-tak-tertagih-yang-boleh-dikurangkan-dari-penghasilan-bruto"
+ },
+ "title": "PEMBENTUKAN CADANGAN PIUTANG TAK TERTAGIH YANG BOLEH DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

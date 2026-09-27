@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-256-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "256",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-256-2008--b000-1",
+  "pmk-256-2008--b001-2",
+  "pmk-256-2008--b002-3",
+  "pmk-256-2008--b003-4",
+  "pmk-256-2008--b004-5",
+  "pmk-256-2008--b005-6",
+  "pmk-256-2008--b006-7",
+  "pmk-256-2008--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "650/KMK.04",
+     "1994",
+     null
+    ],
+    "quote": "Keputusan Menteri Keuangan Nomor 650/KMK.04/1994",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-650-kmk-04-1994"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-01-20",
+   "detail_error": null,
+   "number_as_written": "256/PMK.03/2008",
+   "retrieved_at": "2026-09-22T03:19:40+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SAAT DIPEROLEHNYA DEVIDEN OLEH WAJIB PAJAK DALAM NEGERI ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI SELAIN BADAN USAHA YANG MENJUAL SAHAMNYA DI BURSA EFEK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-diperolehnya-deviden-oleh-wajib-pajak-dalam-negeri-atas-penyertaan-modal"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "256/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:41:58+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penetapan Saat Diperolehnya Dividen oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=238",
+   "retrieved_at": "2026-09-21T14:25:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-diperolehnya-deviden-oleh-wajib-pajak-dalam-negeri-atas-penyertaan-modal",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=394",
+   "retrieved_at": "2026-09-21T14:41:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5712,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:19:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-diperolehnya-deviden-oleh-wajib-pajak-dalam-negeri-atas-penyertaan-modal"
+ },
+ "title": "PENETAPAN SAAT DIPEROLEHNYA DEVIDEN OLEH WAJIB PAJAK DALAM NEGERI ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI SELAIN BADAN USAHA YANG MENJUAL SAHAMNYA DI BURSA EFEK"
+}

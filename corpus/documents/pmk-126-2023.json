@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-126-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "126",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-126-2023--b000-1",
+  "pmk-126-2023--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2020",
+     null
+    ],
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-34-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2020",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 34/PMK.04/2020",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-34-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-11-27",
+   "detail_error": null,
+   "number_as_written": "126 TAHUN 2023",
+   "retrieved_at": "2026-09-21T15:00:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTANPERATURANMENTERIKEUANGANNOMOR34/PMK.04/2020TENTANGPEMBERIANFASILITASKEPABEANANDAN/ATAUCUKAISERTAPERPAJAKANATASIMP.ORBARANGUNTUKKEPERLUANPENANGANANPANDEMICORONAVIRUSDISEASE2019(COVID-19)SEBAGAIMANATELAHBEBERAPAKALIDIUBAHTERAKHIRDENGANPERATURANMENTERIKEUANGANNOMOR164/PMK.04/2022TENTANGPERUBAHANKEEMPATATASPERATURANMENTERIKEUANGANNOMOR34/PMK.04/2020TENTANGPEMBERIANFASILITASKEPABEANANDAN/ATAUCUKAISERTAPERPAJAKANATASIMPORBARANGUNTUKKEPERLUANPENANGANANPANDEMICORONAVIRUSDISEASE2019(COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan-6"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=39",
+   "retrieved_at": "2026-09-21T14:10:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan-6",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10070,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-21T15:00:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan-6"
+ },
+ "title": "PENCABUTANPERATURANMENTERIKEUANGANNOMOR34/PMK.04/2020TENTANGPEMBERIANFASILITASKEPABEANANDAN/ATAUCUKAISERTAPERPAJAKANATASIMP.ORBARANGUNTUKKEPERLUANPENANGANANPANDEMICORONAVIRUSDISEASE2019(COVID-19)SEBAGAIMANATELAHBEBERAPAKALIDIUBAHTERAKHIRDENGANPERATURANMENTERIKEUANGANNOMOR164/PMK.04/2022TENTANGPERUBAHANKEEMPATATASPERATURANMENTERIKEUANGANNOMOR34/PMK.04/2020TENTANGPEMBERIANFASILITASKEPABEANANDAN/ATAUCUKAISERTAPERPAJAKANATASIMPORBARANGUNTUKKEPERLUANPENANGANANPANDEMICORONAVIRUSDISEASE2019(COVID-19)"
+}

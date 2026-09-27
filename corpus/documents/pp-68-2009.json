@@ -1,0 +1,119 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-68-2009",
+ "identity": {
+  "code": "PP",
+  "number": "68",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-68-2009--b000-1",
+  "pp-68-2009--b001-2",
+  "pp-68-2009--b002-3",
+  "pp-68-2009--b003-4",
+  "pp-68-2009--b004-5",
+  "pp-68-2009--b005-6",
+  "pp-68-2009--b006-7",
+  "pp-68-2009--b007-8",
+  "pp-68-2009--b008-9",
+  "pp-68-2009--b009-10",
+  "pp-68-2009--b010-11",
+  "pp-68-2009--b011-12",
+  "pp-68-2009--b012-13",
+  "pp-68-2009--p013-1",
+  "pp-68-2009--p014-2",
+  "pp-68-2009--p015-3",
+  "pp-68-2009--p016-4",
+  "pp-68-2009--p017-5",
+  "pp-68-2009--p018-6",
+  "pp-68-2009--p019-7",
+  "pp-68-2009--p020-8",
+  "pp-68-2009--p021-9",
+  "pp-68-2009--p022-10",
+  "pp-68-2009--p023-11",
+  "pp-68-2009--p024-12",
+  "pp-68-2009--p025-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "149",
+     "2000",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 149 Tahun 2000",
+    "source_of_reading": "DJP",
+    "target_id": "pp-149-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-11-16",
+   "detail_error": null,
+   "number_as_written": "68 TAHUN 2009",
+   "retrieved_at": "2026-09-22T02:59:32+00:00",
+   "source": "DJP",
+   "title_as_written": "TARIF PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon-uang-manfaat"
+  },
+  {
+   "date_as_written": "2009-11-16 00:00:00",
+   "number_as_written": "PP 68 TAHUN 2009",
+   "retrieved_at": "2026-09-21T14:09:46+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tarif Pajak Penghasilan Pasal 21 atas Penghasilan Berupa Uang Pesangon, Uang Manfaat Pensiun, Tunjangan Hari Tua, dan Jaminan Hari Tua yang Dibayarkan Sekaligus.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-68-tahun-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=214",
+   "retrieved_at": "2026-09-21T14:23:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon-uang-manfaat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=62",
+   "retrieved_at": "2026-09-21T14:09:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-68-tahun-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19346,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:59:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tarif-pajak-penghasilan-pasal-21-atas-penghasilan-berupa-uang-pesangon-uang-manfaat"
+ },
+ "title": "TARIF PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS"
+}

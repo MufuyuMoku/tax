@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-140-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "140",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-03-13",
+   "detail_error": null,
+   "number_as_written": "140/PMK.02/2006",
+   "retrieved_at": "2026-09-22T03:28:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN ALOKASI SEMENTARA DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2006",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-sementara-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=280",
+   "retrieved_at": "2026-09-21T14:28:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-sementara-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN ALOKASI SEMENTARA DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2006"
+}

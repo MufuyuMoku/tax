@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pp-77-2013",
+ "identity": {
+  "code": "PP",
+  "number": "77",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pp-77-2013--b000-1",
+  "pp-77-2013--b001-2",
+  "pp-77-2013--b002-3",
+  "pp-77-2013--b003-4",
+  "pp-77-2013--b004-5",
+  "pp-77-2013--b005-6",
+  "pp-77-2013--b006-7",
+  "pp-77-2013--p007-1",
+  "pp-77-2013--p008-2",
+  "pp-77-2013--p009-3",
+  "pp-77-2013--p010-4",
+  "pp-77-2013--p011-5",
+  "pp-77-2013--p012-6",
+  "pp-77-2013--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-56-2015",
+    "number_as_written": "56 TAHUN 2015",
+    "quote": "PERATURAN PEMERINTAH NOMOR 77 TAHUN 2013",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 77 TAHUN 2013 TENTANG PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-30-2020",
+    "number_as_written": "30 TAHUN 2020",
+    "quote": "Peraturan Pemerintah Nomor 77 Tahun 2013",
+    "source_of_reading": "DJP",
+    "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "81",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Pemerintah Nomor 81 Tahun 2007",
+    "source_of_reading": "DJP",
+    "target_id": "pp-81-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-11-21",
+   "detail_error": null,
+   "number_as_written": "77 TAHUN 2013",
+   "retrieved_at": "2026-09-22T02:31:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk-1"
+  },
+  {
+   "date_as_written": "2013-11-21 00:00:00",
+   "number_as_written": "PP 77 TAHUN 2013",
+   "retrieved_at": "2026-09-21T14:07:54+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-77-tahun-2013"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=183",
+   "retrieved_at": "2026-09-21T14:21:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=35",
+   "retrieved_at": "2026-09-21T14:07:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-77-tahun-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 20705,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:31:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk-1"
+ },
+ "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
+}

@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-333-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "333",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-333/PJ/2001",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-05-03",
+   "detail_error": null,
+   "number_as_written": "KEP - 333/PJ/2001",
+   "retrieved_at": "2026-09-22T03:49:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMOTONGAN PPh PASAL 21 ATAS DANA PENSIUN YANG DIALIHKAN KEPADA PERUSAHAAN ASURANSI JIWA DENGAN CARA MEMBELI ANUITAS SEUMUR HIDUP",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pph-pasal-21-atas-dana-pensiun-yang-dialihkan-kepada-perusahaan-asuransi-jiwa"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=359",
+   "retrieved_at": "2026-09-21T14:34:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemotongan-pph-pasal-21-atas-dana-pensiun-yang-dialihkan-kepada-perusahaan-asuransi-jiwa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMOTONGAN PPh PASAL 21 ATAS DANA PENSIUN YANG DIALIHKAN KEPADA PERUSAHAAN ASURANSI JIWA DENGAN CARA MEMBELI ANUITAS SEUMUR HIDUP"
+}

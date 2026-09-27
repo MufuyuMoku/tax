@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-26-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "26",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-26-2009--b000-i",
+  "per-djp-26-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2018",
+    "number_as_written": "PER-30/PJ/2018",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2009",
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-18",
+   "detail_error": null,
+   "number_as_written": "PER-26/PJ./2009",
+   "retrieved_at": "2026-09-22T03:08:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-22/PJ./2009 TENTANG PELAKSANAAN PEMBERIAN PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA PEMBERI KERJA YANG BERUSAHA PADA KATEGORI USAHA TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-22pj2009-tentang-pelaksanaan-pemberian"
+  },
+  {
+   "date_as_written": "2009-03-18 00:00:00",
+   "number_as_written": "PerDJP 26/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Perubahan Peraturan Direktur Jenderal Pajak Nomor Per-22/Pj/2009 tentang Pelaksanaan Pemberian Pajak Penghasilan Pasal 21 Ditanggung Pemerintah atas Penghasilan Pekerja pada Pemberi Kerja yang Berusaha pada Kategori Usaha Tertentu.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-26-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=218",
+   "retrieved_at": "2026-09-21T14:23:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-22pj2009-tentang-pelaksanaan-pemberian",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-26-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7940,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:08:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-22pj2009-tentang-pelaksanaan-pemberian"
+ },
+ "title": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-22/PJ./2009 TENTANG PELAKSANAAN PEMBERIAN PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA PEMBERI KERJA YANG BERUSAHA PADA KATEGORI USAHA TERTENTU"
+}

@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 3094,
+ "document_id": "per-djp-3-2015",
+ "document_number": "PER-03/PJ/2015",
+ "document_title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK",
+ "id": "per-djp-3-2015--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [
+  "urutan_loncat:7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal ini, yang dimaksud dengan:\n1.\nKantor Pelayanan Pajak yang selanjutnya disebut KPP adalah Kantor Pelayanan Pajak tempat Wajib Pajak terdaftar dan/atau tempat Pengusaha Kena Pajak dikukuhkan.\n2.\nSurat Pemberitahuan yang selanjutnya disebut SPT adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpaj akan.\n3.\nSPT Elektronik adalah SPT dalam bentuk dokumen elektronik.\n4.\nAplikasi SPT Elektronik adalah perangkat lunak yang dapat digunakan untuk membuat SPT Elektronik.\n5.\nAplikasi\ne\n-SPT adalah Aplikasi SPT Elektronik yang disediakan oleh Direktorat Jenderal Pajak.\n6.\ne\n-FIN adalah nomor identitas yang diterbitkan oleh Direktorat Jenderal Pajak kepada Wajib Pajak yang melakukan transaksi elektronik dengan Direktorat Jenderal Pajak.\n7.\nTanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.\n8.\nKode verifikasi adalah sekumpulan angka atau huruf atau kombinasi angka dan huruf yang dihasilkan oleh sistem informasi Direktorat Jenderal Pajak yang digunakan untuk keamanan dalam proses penyampaian SPT Elektronik.\n9.\nNotifikasi adalah pemberitahuan kepada Wajib Pajak mengenai status SPT Elektronik yang disampaikan melalui saluran tertentu.\n10.\nSertifikat Elektronik (\nDigital Certificate\n) adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukan status subyek hukum para pihak dalam transaksi elektronik yang dikeluarkan oleh Direktorat Jenderal Pajak atau Penyelenggara Sertifikasi Elektronik.\n11.\nPenyalur SPT Elektronik adalah badan yang ditunjuk oleh Direktur Jenderal Pajak sebagai pihak yang dapat menyalurkan penyampaian SPT melalui saluran tertentu ke Direktorat Jenderal Pajak.\n12.\nSaluran suara digital adalah sarana penyampaian SPT Elektronik melalui interaksi antara Wajib Pajak dengan sistem informasi Direktorat Jenderal Pajak menggunakan suara Wajib Pajak dan/atau nada tombol papan kunci (\nkeypad\n) telepon yang digunakan oleh Wajib Pajak.\n13.\nBukti Penerimaan Elektronik adalah informasi yang meliputi nama, Nomor Pokok Wajib Pajak, tanggal, jam, dan Nomor Tanda Terima Elektronik yang tertera pada hasil cetakan bukti penerimaan, dalam hal penyampaian SPT Elektronik dilakukan melalui laman Direktorat Jenderal Pajak, atau informasi yang meliputi nama, Nomor Pokok Wajib Pajak, tanggal, jam, Nomor Tanda Terima Elektronik dan Nomor Transaksi Pengiriman serta nama Penyalur SPT Elektronik, yang tertera pada hasil cetakan bukti penerimaan, dalam hal penyampaian SPT Elektronik dilakukan melalui Penyalur SPT Elektronik, yang berfungsi sebagai tanda terima penyampaian SPT Elektronik..\n14.\nNomor Transaksi Penerimaan Negara yang selanjutnya disingkat NTPN adalah nomor bukti transaksi penerimaan yang diterbitkan melalui Modul Penerimaan Negara.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T02:28:13+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyampaian-surat-pemberitahuan-elektronik"
+ }
+}

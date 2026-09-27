@@ -1,0 +1,73 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kep-djp-701-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "701",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "kep-djp-701-2001--b000-1",
+  "kep-djp-701-2001--b001-2",
+  "kep-djp-701-2001--b002-3",
+  "kep-djp-701-2001--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-12-2015",
+    "number_as_written": "PER-12/PJ/2015",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-701/PJ./2001",
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN TEMPAT TINGGAL ORANG PRIBADI DAN TEMPAT KEDUDUKAN BADAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-11-16",
+   "detail_error": null,
+   "number_as_written": "KEP-701/PJ./2001",
+   "retrieved_at": "2026-09-22T03:43:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN TEMPAT TINGGAL ORANG PRIBADI DAN TEMPAT KEDUDUKAN BADAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-tempat-tinggal-orang-pribadi-dan-tempat-kedudukan-badan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=346",
+   "retrieved_at": "2026-09-21T14:33:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-tempat-tinggal-orang-pribadi-dan-tempat-kedudukan-badan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4793,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:43:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penentuan-tempat-tinggal-orang-pribadi-dan-tempat-kedudukan-badan"
+ },
+ "title": "PENENTUAN TEMPAT TINGGAL ORANG PRIBADI DAN TEMPAT KEDUDUKAN BADAN"
+}

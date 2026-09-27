@@ -1,0 +1,128 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-159-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "159",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-159-2015--b000-1",
+  "pmk-159-2015--b001-2",
+  "pmk-159-2015--b002-3",
+  "pmk-159-2015--b003-4",
+  "pmk-159-2015--b004-5",
+  "pmk-159-2015--b005-6",
+  "pmk-159-2015--b006-7",
+  "pmk-159-2015--b007-8",
+  "pmk-159-2015--b008-9",
+  "pmk-159-2015--b009-10",
+  "pmk-159-2015--b010-11",
+  "pmk-159-2015--b011-12",
+  "pmk-159-2015--b012-13",
+  "pmk-159-2015--b013-14",
+  "pmk-159-2015--b014-15",
+  "pmk-159-2015--b015-16"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-103-2016",
+    "number_as_written": "103/PMK.010/2016",
+    "quote": "Peraturan Menteri Keuangan Nomor 159/PMK.010/2015",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 159/PMK.010/2015 TENTANG PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "130",
+     "2011",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 130/PMK.011/2011",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-130-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "192",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Menteri Keuangan Nomor 192/PMK.011/2014",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-192-2014"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-08-14",
+   "detail_error": null,
+   "number_as_written": "159/PMK.010/2015",
+   "retrieved_at": "2026-09-22T02:23:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pengurangan-pajak-penghasilan-badan-2"
+  },
+  {
+   "date_as_written": "2015-08-14 00:00:00",
+   "number_as_written": "159/PMK.010/2015",
+   "retrieved_at": "2026-09-21T14:30:31+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/159-pmk-010-2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=159",
+   "retrieved_at": "2026-09-21T14:19:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pengurangan-pajak-penghasilan-badan-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=226",
+   "retrieved_at": "2026-09-21T14:30:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/159-pmk-010-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25457,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:23:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pengurangan-pajak-penghasilan-badan-2"
+ },
+ "title": "PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
+}

@@ -1,0 +1,106 @@
+{
+ "attachments": [
+  {
+   "file_name": "PER24PJ2020-Lampiran.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "24",
+    "year": "2020"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/PER24PJ2020-Lampiran.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-24-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "24",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-24-2020--b000-1",
+  "per-djp-24-2020--b001-2",
+  "per-djp-24-2020--b002-3",
+  "per-djp-24-2020--b003-4",
+  "per-djp-24-2020--b004-5",
+  "per-djp-24-2020--b005-6",
+  "per-djp-24-2020--b006-7",
+  "per-djp-24-2020--b007-8",
+  "per-djp-24-2020--b008-9",
+  "per-djp-24-2020--b009-10",
+  "per-djp-24-2020--b010-11",
+  "per-djp-24-2020--b011-12",
+  "per-djp-24-2020--b012-13",
+  "per-djp-24-2020--b013-14",
+  "per-djp-24-2020--b014-15",
+  "per-djp-24-2020--b015-16",
+  "per-djp-24-2020--b016-17",
+  "per-djp-24-2020--b017-18",
+  "per-djp-24-2020--b018-19",
+  "per-djp-24-2020--b019-20",
+  "per-djp-24-2020--b020-21",
+  "per-djp-24-2020--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "23",
+     "2015",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2015",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-23-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-12-28",
+   "detail_error": null,
+   "number_as_written": "PER-24/PJ/2020",
+   "retrieved_at": "2026-09-22T00:34:23+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, PEMBATALAN SERTA PERMOHONAN DAN PENERBITAN KEMBALI IZIN PENYELENGGARAAN PEMBUKUAN ATAU PENCATATAN DENGAN MENGGUNAKAN BAHASA INGGRIS ATAU PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLAR AMERIKA SERIKAT",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-pembatalan-serta-permohonan-dan-penerbitan"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=83",
+   "retrieved_at": "2026-09-21T14:13:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-pembatalan-serta-permohonan-dan-penerbitan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 42242,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:34:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-pembatalan-serta-permohonan-dan-penerbitan"
+ },
+ "title": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, PEMBATALAN SERTA PERMOHONAN DAN PENERBITAN KEMBALI IZIN PENYELENGGARAAN PEMBUKUAN ATAU PENCATATAN DENGAN MENGGUNAKAN BAHASA INGGRIS ATAU PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLAR AMERIKA SERIKAT"
+}

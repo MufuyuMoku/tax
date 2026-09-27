@@ -1,0 +1,63 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-955-kmk-04-1983",
+ "identity": {
+  "code": "KMK",
+  "number": "955/KMK.04",
+  "variant": null,
+  "year": "1983"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1983-12-31 00:00:00",
+   "number_as_written": "955/KMK.04/1983",
+   "retrieved_at": "2026-09-21T14:54:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Penentuan Organisasi Internasional yang Pejabat-Pejabatnya Tidak\r\nTermasuk Sebagai Subyek Pajak Penghasilan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/955-kmk-04-1983"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=119",
+   "retrieved_at": "2026-09-21T14:54:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/955-kmk-04-1983",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "url": null
+ },
+ "title": "Penentuan Organisasi Internasional yang Pejabat-Pejabatnya Tidak\r\nTermasuk Sebagai Subyek Pajak Penghasilan"
+}

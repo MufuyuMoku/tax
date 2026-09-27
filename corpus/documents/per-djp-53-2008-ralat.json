@@ -1,0 +1,308 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-53-2008-ralat",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "53",
+  "variant": "ralat",
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-53-2008-ralat--b000-1",
+  "per-djp-53-2008-ralat--b001-2",
+  "per-djp-53-2008-ralat--b002-3",
+  "per-djp-53-2008-ralat--b003-4",
+  "per-djp-53-2008-ralat--b004-5",
+  "per-djp-53-2008-ralat--b005-6",
+  "per-djp-53-2008-ralat--b006-7",
+  "per-djp-53-2008-ralat--b007-8",
+  "per-djp-53-2008-ralat--b008-9",
+  "per-djp-53-2008-ralat--b009-10",
+  "per-djp-53-2008-ralat--b010-11",
+  "per-djp-53-2008-ralat--b011-12",
+  "per-djp-53-2008-ralat--b012-13",
+  "per-djp-53-2008-ralat--b013-14",
+  "per-djp-53-2008-ralat--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "407",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-407/PJ./2000",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-407-2000"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "13",
+     "2007",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2007",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-13-2007"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "535",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-535/PJ./2000",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-535-2000"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "156",
+     "2000",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-156/PJ./2000",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-156-2000"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "351",
+     "2003",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-351/PJ./2003",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-351-2003"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "275",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-275/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-275-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "34",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-34/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-34-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "35",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-35/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-35-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "36",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-36/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-36-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "527",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-527/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-527-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "37",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-37/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-37-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "413",
+     "2001",
+     null
+    ],
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-413/PJ./2001",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-413-2001"
+   },
+   {
+    "key": [
+     "SE",
+     "28",
+     "2000",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-28/PJ.41/2000",
+    "source_of_reading": "DJP",
+    "target_id": "se-28-2000"
+   },
+   {
+    "key": [
+     "SE",
+     "30",
+     "2000",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-30/PJ.41/2000",
+    "source_of_reading": "DJP",
+    "target_id": "se-30-2000"
+   },
+   {
+    "key": [
+     "SE",
+     "31",
+     "2000",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-31/PJ.41/2000",
+    "source_of_reading": "DJP",
+    "target_id": "se-31-2000"
+   },
+   {
+    "key": [
+     "SE",
+     "3",
+     "2001",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-03/PJ.41/2001",
+    "source_of_reading": "DJP",
+    "target_id": "se-3-2001"
+   },
+   {
+    "key": [
+     "SE",
+     "39",
+     "2001",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-39/PJ.41/2001",
+    "source_of_reading": "DJP",
+    "target_id": "se-39-2001"
+   },
+   {
+    "key": [
+     "SE",
+     "10",
+     "2001",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.41/2001",
+    "source_of_reading": "DJP",
+    "target_id": "se-10-2001"
+   },
+   {
+    "key": [
+     "SE",
+     "16",
+     "2001",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-16/PJ.41/2001",
+    "source_of_reading": "DJP",
+    "target_id": "se-16-2001"
+   },
+   {
+    "key": [
+     "SE",
+     "18",
+     "2001",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-18/PJ.41/2001",
+    "source_of_reading": "DJP",
+    "target_id": "se-18-2001"
+   },
+   {
+    "key": [
+     "SE",
+     "6",
+     "2003",
+     null
+    ],
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-06/PJ.41/2003",
+    "source_of_reading": "DJP",
+    "target_id": "se-6-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-01-19",
+   "detail_error": null,
+   "number_as_written": "PER-53/PJ/2008",
+   "retrieved_at": "2026-09-22T03:11:14+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-dirjen-pajak-nomor-53pj2008-tentang-tata-cara-pembayaran-pengecualian"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=221",
+   "retrieved_at": "2026-09-21T14:24:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-dirjen-pajak-nomor-53pj2008-tentang-tata-cara-pembayaran-pengecualian",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25652,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:11:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-dirjen-pajak-nomor-53pj2008-tentang-tata-cara-pembayaran-pengecualian"
+ },
+ "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
+}

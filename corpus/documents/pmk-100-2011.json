@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-100-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "100",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-100-2011--b000-1",
+  "pmk-100-2011--b001-2",
+  "pmk-100-2011--b002-3",
+  "pmk-100-2011--b003-4",
+  "pmk-100-2011--b004-5",
+  "pmk-100-2011--b005-6",
+  "pmk-100-2011--b006-7",
+  "pmk-100-2011--b007-8",
+  "pmk-100-2011--b008-9",
+  "pmk-100-2011--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-86-2015",
+    "number_as_written": "86/PMK.10/2015",
+    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 100/PMK.03/2011",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 100/PMK.03/2011 TENTANG TATA CARA PENGHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS SURPLUS BANK INDONESIA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-07-11",
+   "detail_error": null,
+   "number_as_written": "100/PMK.03/2011",
+   "retrieved_at": "2026-09-22T02:44:38+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS SURPLUS BANK INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pembayaran-pajak-penghasilan-atas-surplus-bank-indonesia"
+  },
+  {
+   "date_as_written": "2011-07-11 00:00:00",
+   "number_as_written": "100/PMK.03/2011",
+   "retrieved_at": "2026-09-21T14:37:55+00:00",
+   "selected_because": [
+    "judul",
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penghitungan dan Pembayaran Pajak Penghasilan atas Surplus Bank Indonesia.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/100-pmk-03-2011"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=202",
+   "retrieved_at": "2026-09-21T14:22:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pembayaran-pajak-penghasilan-atas-surplus-bank-indonesia",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=333",
+   "retrieved_at": "2026-09-21T14:37:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/100-pmk-03-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8527,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T02:44:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pembayaran-pajak-penghasilan-atas-surplus-bank-indonesia"
+ },
+ "title": "TATA CARA PENGHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN ATAS SURPLUS BANK INDONESIA"
+}

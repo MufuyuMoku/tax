@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-400-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "400/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-08-11",
+   "detail_error": null,
+   "number_as_written": "400/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:07:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUBREGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUBREGIONAL ASEAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi-0"
+  },
+  {
+   "date_as_written": "1999-08-11 00:00:00",
+   "number_as_written": "400/KMK.04/1999",
+   "retrieved_at": "2026-09-21T14:50:50+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Pelabuhan atau Tempat Pemberangkatan Ke Ln dalam Daerah Kerja Sama Ekonomi Subregional Yg Dikecualikan Dari Kewajiban Pemba-   Yaran Pph Bagi Orang Pribadi Yg Bertolak Ke Ln dalam Kawasan Ker-  Jasama Ekonomi Subregional Asean",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/400-kmk-04-1999"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=398",
+   "retrieved_at": "2026-09-21T14:37:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=58",
+   "retrieved_at": "2026-09-21T14:50:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/400-kmk-04-1999",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUBREGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUBREGIONAL ASEAN"
+}

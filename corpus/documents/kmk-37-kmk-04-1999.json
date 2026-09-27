@@ -1,0 +1,78 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-37-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "37/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-02-01",
+   "detail_error": null,
+   "number_as_written": "37/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:14:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU SANGGAU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-sanggau"
+  },
+  {
+   "date_as_written": "1999-02-01",
+   "detail_error": null,
+   "number_as_written": "37/KMK.04/1999",
+   "retrieved_at": "2026-09-22T04:14:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU SANGGAU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-sanggau-0"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=410",
+   "retrieved_at": "2026-09-21T14:38:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-sanggau",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=410",
+   "retrieved_at": "2026-09-21T14:38:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-sanggau-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU SANGGAU"
+}

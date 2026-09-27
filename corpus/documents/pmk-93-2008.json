@@ -1,0 +1,78 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-93-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "93",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-93-2008--b000-1",
+  "pmk-93-2008--b001-2",
+  "pmk-93-2008--b002-3",
+  "pmk-93-2008--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "45",
+     "2007",
+     null
+    ],
+    "quote": "Undang-Undang Nomor 45 Tahun 2007",
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-45-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-06-23",
+   "detail_error": null,
+   "number_as_written": "93/PMK.07/2008",
+   "retrieved_at": "2026-09-22T03:17:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN ALOKASI KURANG BAYAR DANA BAGI HASIL PAJAK TAHUN ANGGARAN 2007 UNTUK KABUPATEN SERAM BAGIAN BARAT YANG DIALOKASIKAN DALAM ANGGARAN PENDAPATAN DAN BELANJA NEGARA PERUBAHAN TAHUN ANGGARAN 2008",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-kurang-bayar-dana-bagi-hasil-pajak-tahun-anggaran-2007-untuk-kabupaten"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=231",
+   "retrieved_at": "2026-09-21T14:24:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-kurang-bayar-dana-bagi-hasil-pajak-tahun-anggaran-2007-untuk-kabupaten",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7088,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:17:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-kurang-bayar-dana-bagi-hasil-pajak-tahun-anggaran-2007-untuk-kabupaten"
+ },
+ "title": "PENETAPAN ALOKASI KURANG BAYAR DANA BAGI HASIL PAJAK TAHUN ANGGARAN 2007 UNTUK KABUPATEN SERAM BAGIAN BARAT YANG DIALOKASIKAN DALAM ANGGARAN PENDAPATAN DAN BELANJA NEGARA PERUBAHAN TAHUN ANGGARAN 2008"
+}

@@ -1,0 +1,81 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER18PJ2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "18",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER18PJ2021.pdf"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-18-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "18",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-18-2021--b000-1",
+  "per-djp-18-2021--b001-2",
+  "per-djp-18-2021--b002-3",
+  "per-djp-18-2021--b003-4",
+  "per-djp-18-2021--b004-5",
+  "per-djp-18-2021--b005-6",
+  "per-djp-18-2021--b006-7",
+  "per-djp-18-2021--b007-8",
+  "per-djp-18-2021--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-09-01",
+   "detail_error": null,
+   "number_as_written": "PER-18/PJ/2021",
+   "retrieved_at": "2026-09-22T00:30:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENGHASILAN ATAS PENYERAHAN / PENGHASILAN SEHUBUNGAN DENGAN PENJUALAN PULSA DAN KARTU PERDANA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemungutan-pajak-pertambahan-nilai-dan-pajak-penghasilan-atas"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=71",
+   "retrieved_at": "2026-09-21T14:12:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemungutan-pajak-pertambahan-nilai-dan-pajak-penghasilan-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17196,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:30:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemungutan-pajak-pertambahan-nilai-dan-pajak-penghasilan-atas"
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENGHASILAN ATAS PENYERAHAN / PENGHASILAN SEHUBUNGAN DENGAN PENJUALAN PULSA DAN KARTU PERDANA"
+}

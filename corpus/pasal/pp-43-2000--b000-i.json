@@ -1,0 +1,41 @@
+{
+ "amendment_items": [
+  {
+   "action": "diubah",
+   "number": 1,
+   "target_pasal": [
+    "3",
+    "3",
+    "3"
+   ],
+   "text": "1.\nKetentuan Pasal 3 diubah, sehingga Pasal 3 seluruhnya berbunyi sebagai berikut :\nPasal 3\nPajak Penghasilan yang terutang atas penghasilan yang diterima atau diperoleh kontraktor, konsultan, dan pemasok (supplier) dari pekerjaan yang dilakukan dalam rangka pelaksanaan proyek-proyek Pemerintah yang dibiayai dengan dana pinjaman luar negeri dipungut, dipotong atau dibayar sesuaidengan Undang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 10 Tahun 1994.\""
+  },
+  {
+   "action": "dihapus",
+   "number": 2,
+   "target_pasal": [
+    "3A"
+   ],
+   "text": "2.\nKetentuan Pasal 3A dihapus."
+  }
+ ],
+ "chars": 968,
+ "document_id": "pp-43-2000",
+ "document_number": "43 TAHUN 2000",
+ "document_title": "PERUBAHAN KEDUA PERATURAN PEMERINTAH NOMOR 42 TAHUN 1995 TENTANG BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI",
+ "id": "pp-43-2000--b000-i",
+ "label": "I",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": [
+  "3"
+ ],
+ "section": "batang_tubuh",
+ "structure": "perubahan",
+ "text": "Pasal I\nMengubah beberapa ketentuan dalam Peraturan Pemerintah Nomor 42 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan dalam rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 63 Tahun 1998, sebagai berikut :\n1.\nKetentuan Pasal 3 diubah, sehingga Pasal 3 seluruhnya berbunyi sebagai berikut :\nPasal 3\nPajak Penghasilan yang terutang atas penghasilan yang diterima atau diperoleh kontraktor, konsultan, dan pemasok (supplier) dari pekerjaan yang dilakukan dalam rangka pelaksanaan proyek-proyek Pemerintah yang dibiayai dengan dana pinjaman luar negeri dipungut, dipotong atau dibayar sesuaidengan Undang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 10 Tahun 1994.\"\n2.\nKetentuan Pasal 3A dihapus.",
+ "text_source": {
+  "retrieved_at": "2026-09-22T04:02:57+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-peraturan-pemerintah-nomor-42-tahun-1995-tentang-bea-masuk-bea-masuk"
+ }
+}

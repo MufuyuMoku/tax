@@ -1,0 +1,155 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "per-djp-4-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "4",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "per-djp-4-2020--b000-1",
+  "per-djp-4-2020--b001-2",
+  "per-djp-4-2020--b002-3",
+  "per-djp-4-2020--b003-4",
+  "per-djp-4-2020--b004-5",
+  "per-djp-4-2020--b005-6",
+  "per-djp-4-2020--b006-7",
+  "per-djp-4-2020--b007-8",
+  "per-djp-4-2020--b008-9",
+  "per-djp-4-2020--b009-10",
+  "per-djp-4-2020--b010-11",
+  "per-djp-4-2020--b011-12",
+  "per-djp-4-2020--b012-13",
+  "per-djp-4-2020--b013-14",
+  "per-djp-4-2020--b014-15",
+  "per-djp-4-2020--b015-16",
+  "per-djp-4-2020--b016-17",
+  "per-djp-4-2020--b017-18",
+  "per-djp-4-2020--b018-19",
+  "per-djp-4-2020--b019-20",
+  "per-djp-4-2020--b020-21",
+  "per-djp-4-2020--b021-22",
+  "per-djp-4-2020--b022-23",
+  "per-djp-4-2020--b023-24",
+  "per-djp-4-2020--b024-25",
+  "per-djp-4-2020--b025-26",
+  "per-djp-4-2020--b026-27",
+  "per-djp-4-2020--b027-28",
+  "per-djp-4-2020--b028-29",
+  "per-djp-4-2020--b029-30",
+  "per-djp-4-2020--b030-31",
+  "per-djp-4-2020--b031-32",
+  "per-djp-4-2020--b032-33",
+  "per-djp-4-2020--b033-34",
+  "per-djp-4-2020--b034-35",
+  "per-djp-4-2020--b035-36",
+  "per-djp-4-2020--b036-37",
+  "per-djp-4-2020--b037-38",
+  "per-djp-4-2020--b038-39",
+  "per-djp-4-2020--b039-40",
+  "per-djp-4-2020--b040-41",
+  "per-djp-4-2020--b041-42",
+  "per-djp-4-2020--b042-43",
+  "per-djp-4-2020--b043-44",
+  "per-djp-4-2020--b044-45",
+  "per-djp-4-2020--b045-46",
+  "per-djp-4-2020--b046-47",
+  "per-djp-4-2020--b047-48",
+  "per-djp-4-2020--b048-49",
+  "per-djp-4-2020--b049-50",
+  "per-djp-4-2020--b050-51",
+  "per-djp-4-2020--b051-52",
+  "per-djp-4-2020--b052-53",
+  "per-djp-4-2020--b053-54",
+  "per-djp-4-2020--b054-55",
+  "per-djp-4-2020--b055-56",
+  "per-djp-4-2020--b056-57",
+  "per-djp-4-2020--b057-58",
+  "per-djp-4-2020--b058-59",
+  "per-djp-4-2020--b059-60",
+  "per-djp-4-2020--b060-61",
+  "per-djp-4-2020--b061-62",
+  "per-djp-4-2020--b062-63",
+  "per-djp-4-2020--b063-64",
+  "per-djp-4-2020--b064-65",
+  "per-djp-4-2020--b065-66",
+  "per-djp-4-2020--b066-67",
+  "per-djp-4-2020--b067-68",
+  "per-djp-4-2020--b068-69",
+  "per-djp-4-2020--b069-70",
+  "per-djp-4-2020--b070-71"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "24",
+     "2012",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-24-2012"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "17",
+     "2014",
+     null
+    ],
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2014",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-17-2014"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-03-13",
+   "detail_error": null,
+   "number_as_written": "PER-04/PJ/2020",
+   "retrieved_at": "2026-09-22T00:41:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK TEKNIS PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, SERTIFIKAT ELEKTRONIK, DAN PENGUKUHAN PENGUSAHA KENA PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pelaksanaan-administrasi-nomor-pokok-wajib-pajak-sertifikat-elektronik"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=101",
+   "retrieved_at": "2026-09-21T14:14:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pelaksanaan-administrasi-nomor-pokok-wajib-pajak-sertifikat-elektronik",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 164627,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T00:41:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pelaksanaan-administrasi-nomor-pokok-wajib-pajak-sertifikat-elektronik"
+ },
+ "title": "PETUNJUK TEKNIS PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, SERTIFIKAT ELEKTRONIK, DAN PENGUKUHAN PENGUSAHA KENA PAJAK"
+}

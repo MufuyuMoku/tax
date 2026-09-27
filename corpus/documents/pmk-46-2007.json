@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "pmk-46-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "46",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [
+  "pmk-46-2007--b000-1",
+  "pmk-46-2007--b001-2",
+  "pmk-46-2007--b002-3",
+  "pmk-46-2007--b003-4",
+  "pmk-46-2007--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-63-2008",
+    "number_as_written": "63/PMK.03/2008",
+    "quote": "Peraturan Menteri Keuangan Nomor 46/PMK.03/2007",
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMOTONGAN PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAAN NEGARA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-04-25",
+   "detail_error": null,
+   "number_as_written": "46/PMK.03/2007",
+   "retrieved_at": "2026-09-22T03:21:06+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMUNGUTAN PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAAN NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-pajak-penghasilan-atas-diskonto-surat-perbendaharaan-negara"
+  },
+  {
+   "date_as_written": "2007-04-25 00:00:00",
+   "number_as_written": "46/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:44:44+00:00",
+   "selected_because": [
+    "label"
+   ],
+   "source": "JDIH",
+   "title_as_written": "",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/46-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=253",
+   "retrieved_at": "2026-09-21T14:26:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-pajak-penghasilan-atas-diskonto-surat-perbendaharaan-negara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=435",
+   "retrieved_at": "2026-09-21T14:44:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/46-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3692,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-09-22T03:21:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-pajak-penghasilan-atas-diskonto-surat-perbendaharaan-negara"
+ },
+ "title": "TATA CARA PEMUNGUTAN PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAAN NEGARA"
+}

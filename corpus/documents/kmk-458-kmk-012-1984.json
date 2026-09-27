@@ -1,0 +1,124 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-458-kmk-012-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "458/KMK.012",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENENTUAN JENIS-JENIS HARTA DALAM MASING-MASING GOLONGAN HARTA UNTUK KEPERLUAN PENYUSUTAN BAGI KONTRAKTOR YANG MELAKUKAN KONTRAK PRODUCTION SHARING DALAM EXPLORASI DAN EXPLOITASI MINYAK DAN GAS BUMI DENGAN PERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA (PERTAMINA) YANG DITANDA TANGANI SETELAH UNDANG-UNDANG NOMOR 7 TAHUN 1985",
+    "url": "https://www.pajak.go.id/id/peraturan/penentuan-jenis-jenis-harta-dalam-masing-masing-golongan-harta-untuk-keperluan-penyusutan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBENTUKAN TEAM INTENSIFIKASI PAJAK BUMI DAN BANGUNAN TINGKAT PUSAT",
+    "url": "https://www.pajak.go.id/id/peraturan/pembentukan-team-intensifikasi-pajak-bumi-dan-bangunan-tingkat-pusat-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENYETORAN, PENYIMPANAN, DAN PENGGUNAAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN (BP-PBB)",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penyimpanan-dan-penggunaan-biaya-pemungutan-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENDAFTARAN, PEMBERIAN NOMOR POKOK WAJIB PAJAK, PENYAMPAIAN SURAT PEMBERITAHUAN, DAN PERSYARATAN PENGAJUAN KEBERATAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pendaftaran-pemberian-nomor-pokok-wajib-pajak-penyampaian-surat-pemberitahuan-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN UNDANG-UNDANG PAJAK PENGHASILAN 1984",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-penghasilan-1984-0"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-05-21",
+   "detail_error": null,
+   "number_as_written": "458/KMK.012/1984",
+   "retrieved_at": "2026-09-22T05:12:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN YANG TERHUTANG OLEH KONTRAKTOR YANG MENGADAKAN KONTRAK PRODUCTION SHARING DALAM EKSPLORASI DAN EKSPLOITASI MINYAK DAN GAS BUMI DENGAN PERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA (PERTAMINA)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-perhitungan-dan-pembayaran-pajak-penghasilan-yang-terhutang-oleh-kontraktor"
+  },
+  {
+   "date_as_written": "1984-05-21 00:00:00",
+   "number_as_written": "458/KMK.012/1984",
+   "retrieved_at": "2026-09-21T14:54:55+00:00",
+   "selected_because": [
+    "judul"
+   ],
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Perhitungan Dan Pembayaran Pajak Penghasilan Yang Terhutang Oleh Kontraktor Yang Mengadakan Kontrak Production Sharing Dalam Eksplorasi Dan Eksploitasi Minyak Dan Gas Bumi Dengan Perusahaan Pertambangan Minyak Dan Gas Bumi Negara (Pertamina)",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/458-kmk-012-1984"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=490",
+   "retrieved_at": "2026-09-21T14:45:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-perhitungan-dan-pembayaran-pajak-penghasilan-yang-terhutang-oleh-kontraktor",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=119",
+   "retrieved_at": "2026-09-21T14:54:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/458-kmk-012-1984",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PERHITUNGAN DAN PEMBAYARAN PAJAK PENGHASILAN YANG TERHUTANG OLEH KONTRAKTOR YANG MENGADAKAN KONTRAK PRODUCTION SHARING DALAM EKSPLORASI DAN EKSPLOITASI MINYAK DAN GAS BUMI DENGAN PERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA (PERTAMINA)"
+}

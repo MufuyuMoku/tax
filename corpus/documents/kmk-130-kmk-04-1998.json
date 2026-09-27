@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-130-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "130/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-105-2009",
+    "number_as_written": "105/PMK.03/2009",
+    "quote": "Keputusan Menteri Keuangan Nomor 130/KMK.04/1998",
+    "source_of_reading": "DJP",
+    "title": "PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-02-27",
+   "detail_error": null,
+   "number_as_written": "130/KMK.04/1998",
+   "retrieved_at": "2026-09-22T04:22:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHAPUSAN PIUTANG TAK TERTAGIH YANG BOLEH DIKURANGKAN SEBAGAI BIAYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penghapusan-piutang-tak-tertagih-yang-boleh-dikurangkan-sebagai-biaya"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=427",
+   "retrieved_at": "2026-09-21T14:39:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penghapusan-piutang-tak-tertagih-yang-boleh-dikurangkan-sebagai-biaya",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGHAPUSAN PIUTANG TAK TERTAGIH YANG BOLEH DIKURANGKAN SEBAGAI BIAYA"
+}

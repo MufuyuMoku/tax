@@ -1,0 +1,60 @@
+{
+ "attachments": [],
+ "category": "substantif",
+ "id": "kmk-1080-kmk-01-1990",
+ "identity": {
+  "code": "KMK",
+  "number": "1080/KMK.01",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-09-11",
+   "detail_error": null,
+   "number_as_written": "1080/KMK.01/1990",
+   "retrieved_at": "2026-09-22T05:01:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN SELURUHNYA BEA MASUK DAN TIDAK DIPUNGUT PPN, PPn BM, DAN PPh PASAL 22 ATAS PEMASUKAN PERANGKAT KERAS DAN LUNAK KOMPUTER UNTUK BADAN PELAYANAN KEMUDAHAN EKSPOR DAN PENGOLAHAN DATA KEUANGAN DEPARTEMEN KEUANGAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-seluruhnya-bea-masuk-dan-tidak-dipungut-ppn-ppn-bm-dan-pph-pasal-22-atas"
+  }
+ ],
+ "status": {
+  "note": "hanya satu sumber",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=476",
+   "retrieved_at": "2026-09-21T14:43:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-seluruhnya-bea-masuk-dan-tidak-dipungut-ppn-ppn-bm-dan-pph-pasal-22-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBEBASAN SELURUHNYA BEA MASUK DAN TIDAK DIPUNGUT PPN, PPn BM, DAN PPh PASAL 22 ATAS PEMASUKAN PERANGKAT KERAS DAN LUNAK KOMPUTER UNTUK BADAN PELAYANAN KEMUDAHAN EKSPOR DAN PENGOLAHAN DATA KEUANGAN DEPARTEMEN KEUANGAN"
+}
