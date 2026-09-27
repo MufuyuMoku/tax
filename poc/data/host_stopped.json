@@ -1,0 +1,27 @@
+{
+ "jdih.kemenkeu.go.id": {
+  "alasan": "Koneksi TLS gagal sejak 2026-09-22 ~00:15 UTC; uji tunggal 30 menit kemudian tetap gagal (curl exit 35). Juga www.kemenkeu.go.id.",
+  "sejak": "2026-09-22T07:35:15+00:00",
+  "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"
+ },
+ "setpp.kemenkeu.go.id": {
+  "alasan": "Tidak terjangkau 2026-09-22 (HTTP 000), infrastruktur yang sama dengan JDIH.",
+  "sejak": "2026-09-22T07:35:15+00:00",
+  "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"
+ },
+ "putusan3.mahkamahagung.go.id": {
+  "alasan": "robots.txt: 'User-agent: * Disallow: /' dan memblokir ClaudeBot/anthropic-ai secara eksplisit.",
+  "sejak": "2026-09-22T07:35:15+00:00",
+  "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"
+ },
+ "peraturan.bpk.go.id": {
+  "alasan": "Cloudflare managed challenge (deteksi bot); tidak ditembus.",
+  "sejak": "2026-09-22T07:35:15+00:00",
+  "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"
+ },
+ "www.pajak.go.id": {
+  "alasan": "4 dari 20 permintaan terakhir gagal",
+  "sejak": "2026-09-26T15:25:02+00:00",
+  "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"
+ }
+}

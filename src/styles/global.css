@@ -1,0 +1,62 @@
+/* Plain CSS with custom properties. No framework, no utility classes. */
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #5c5c5c;
+  --line: #d9d9d9;
+  --accent: #1f4f82;
+  --warn-bg: #fff8e1;
+  --warn-line: #d9b45b;
+  --space: 1rem;
+  --measure: 42rem;
+  --font: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15181c;
+    --fg: #e8e8e8;
+    --muted: #a8adb4;
+    --line: #333a42;
+    --accent: #8ab4e8;
+    --warn-bg: #2a2413;
+    --warn-line: #7a6426;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  line-height: 1.6;
+}
+
+.wrap {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: calc(var(--space) * 2) var(--space);
+}
+
+a {
+  color: var(--accent);
+}
+
+footer {
+  margin-top: calc(var(--space) * 3);
+  padding-top: var(--space);
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.notice {
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-line);
+  border-radius: 6px;
+  padding: var(--space);
+}

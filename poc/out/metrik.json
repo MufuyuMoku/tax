@@ -1,0 +1,540 @@
+{
+ "sumber": {
+  "djp_kategori": {
+   "BM": {
+    "kategori_id": "13932",
+    "halaman": 13,
+    "perkiraan_dokumen": 64,
+    "retrieved_at": "2026-09-21T14:06:36+00:00"
+   },
+   "BPHTB": {
+    "kategori_id": "14029",
+    "halaman": 16,
+    "perkiraan_dokumen": 80,
+    "retrieved_at": "2026-09-21T14:06:44+00:00"
+   },
+   "BPHTB Lainnya": {
+    "kategori_id": "13931",
+    "halaman": 1,
+    "perkiraan_dokumen": 0,
+    "retrieved_at": "2026-09-21T14:06:52+00:00"
+   },
+   "KUP": {
+    "kategori_id": "13927",
+    "halaman": 254,
+    "perkiraan_dokumen": 1268,
+    "retrieved_at": "2026-09-21T14:06:56+00:00"
+   },
+   "Lainnya": {
+    "kategori_id": "13933",
+    "halaman": 377,
+    "perkiraan_dokumen": 1883,
+    "retrieved_at": "2026-09-21T14:07:05+00:00"
+   },
+   "PBB": {
+    "kategori_id": "13930",
+    "halaman": 48,
+    "perkiraan_dokumen": 236,
+    "retrieved_at": "2026-09-21T14:07:14+00:00"
+   },
+   "PPh": {
+    "kategori_id": "13928",
+    "halaman": 494,
+    "perkiraan_dokumen": 2468,
+    "retrieved_at": "2026-09-21T14:03:17+00:00"
+   },
+   "PPN": {
+    "kategori_id": "13929",
+    "halaman": 496,
+    "perkiraan_dokumen": 2480,
+    "retrieved_at": "2026-09-21T14:07:22+00:00"
+   },
+   "Semua": {
+    "kategori_id": "All",
+    "halaman": 1262,
+    "perkiraan_dokumen": 6307,
+    "retrieved_at": "2026-09-21T14:07:30+00:00"
+   }
+  },
+  "djp_pph_baris_daftar": 2468,
+  "djp_pph_url_unik": 2460,
+  "djp_pph_kurs": 1430,
+  "djp_pph_substantif_baris": 1038,
+  "djp_substantif_url_unik": 1036,
+  "djp_detail_ok": 1036,
+  "djp_detail_gagal": 2,
+  "djp_detail_tanpa_teks": 456,
+  "djp_detail_kurs_terlanjur_diambil": 428,
+  "jdih_total_dokumen": 8671,
+  "jdih_kandidat_pph": 614,
+  "jdih_detail_terambil": 1
+ },
+ "korpus": {
+  "dokumen_unik": 1122,
+  "substantif": 1122,
+  "kurs_berkala": 0,
+  "hanya_djp": 686,
+  "hanya_jdih": 99,
+  "dua_sumber": 337,
+  "punya_teks": 573,
+  "tanpa_teks": 549,
+  "tanpa_teks_hanya_jdih": 99,
+  "tanpa_teks_djp_detail_gagal": 0,
+  "tanpa_teks_djp_halaman_kosong": 450,
+  "tanpa_teks_tapi_ada_lampiran": 2,
+  "varian_ralat": 11,
+  "varian_konsolidasi": 1,
+  "kunci_tak_terurai": 2,
+  "per_jenis": [
+   [
+    "PMK",
+    312
+   ],
+   [
+    "KMK",
+    273
+   ],
+   [
+    "KEP-DJP",
+    182
+   ],
+   [
+    "PER-DJP",
+    166
+   ],
+   [
+    "PP",
+    115
+   ],
+   [
+    "KEPPRES",
+    23
+   ],
+   [
+    "SE",
+    22
+   ],
+   [
+    "UU",
+    11
+   ],
+   [
+    "PERPRES",
+    7
+   ],
+   [
+    "KEP-ESELON1",
+    4
+   ],
+   [
+    "PERATURAN BADAN KOORDINASI DAN PENANAMAN MODAL",
+    2
+   ],
+   [
+    "?",
+    2
+   ],
+   [
+    "INS-DJP",
+    1
+   ],
+   [
+    "PERPU",
+    1
+   ],
+   [
+    "ND-DJP",
+    1
+   ]
+  ]
+ },
+ "ukuran": {
+  "dokumen_berteks": 573,
+  "total_karakter": 11163314,
+  "total_mb_utf8": 10.6,
+  "rata2_karakter": 19213,
+  "median_karakter": 10042,
+  "maks_karakter": 275666
+ },
+ "pasal": {
+  "unit_batang_tubuh": 6319,
+  "struktur": {
+   "perubahan": 113,
+   "biasa": 446,
+   "diktum": 22
+  },
+  "tanda": {
+   "anomali_romawi": 17,
+   "urutan_loncat": 38,
+   "pasal_ganda": 14,
+   "tidak_mulai_dari_1": 3,
+   "tidak_ada_pasal": 5
+  },
+  "dokumen_bertanda": 52
+ },
+ "status": {
+  "nilai": {
+   "berlaku": 480,
+   "tidak_pasti": 190,
+   "tidak_berlaku": 379,
+   "diubah_atau_dicabut_sebagian": 73
+  },
+  "dua_sumber_dibandingkan": 337,
+  "dua_sumber_sepakat": 216,
+  "beda_antar_sumber": 121,
+  "pasangan_beda": {
+   "JDIH=tidak_berlaku vs DJP=berlaku": 53,
+   "JDIH=berlaku vs DJP=tidak_berlaku": 33,
+   "JDIH=berlaku vs DJP=diubah_atau_dicabut_sebagian": 22,
+   "JDIH=tidak_berlaku vs DJP=diubah_atau_dicabut_sebagian": 13
+  },
+  "beda_dalam_satu_sumber": 1,
+  "hanya_satu_sumber": 785,
+  "bertentangan_dengan_teks": 110,
+  "contoh_beda": [
+   {
+    "key": [
+     "UU",
+     "10",
+     "1994"
+    ],
+    "judul": "Perubahan atas Undang-Undang No.7 Tahun 1983 tentang Pajak Penghasilan Sebagaima",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-1994",
+      "retrieved_at": "2026-09-21T14:04:53+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Diubah/Disempurnakan/Dicabut sebagian",
+      "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana",
+      "retrieved_at": "2026-09-21T14:42:46+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "UU",
+     "7",
+     "1991"
+    ],
+    "judul": "Perubahan atas Undang-Undang No.7 Tahun 1983 tentang Pajak Penghasilan",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1991",
+      "retrieved_at": "2026-09-21T14:05:01+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Diubah/Disempurnakan/Dicabut sebagian",
+      "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan",
+      "retrieved_at": "2026-09-21T14:43:38+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983"
+    ],
+    "judul": "Pajak Penghasilan",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1983",
+      "retrieved_at": "2026-09-21T14:05:05+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Diubah/Disempurnakan/Dicabut sebagian",
+      "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan",
+      "retrieved_at": "2026-09-21T14:03:59+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "30",
+     "2020"
+    ],
+    "judul": "Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbe",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Tidak Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2020",
+      "retrieved_at": "2026-09-21T14:06:27+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Aktif",
+      "url": "https://www.pajak.go.id/id/peraturan/penurunan-tarif-pajak-penghasilan-bagi-wajib-pajak-badan-dalam-negeri-yang-berbentuk",
+      "retrieved_at": "2026-09-21T14:14:30+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "29",
+     "2020"
+    ],
+    "judul": "Fasilitas Pajak Penghasilan dalam Rangka Penanganan Corona Virus Disease 2019 (C",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Tidak Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-29-tahun-2020",
+      "retrieved_at": "2026-09-21T14:06:27+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Aktif",
+      "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-penghasilan-dalam-rangka-penanganan-corona-virus-disease-2019",
+      "retrieved_at": "2026-09-21T14:14:34+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "55",
+     "2019"
+    ],
+    "judul": "Perubahan Kedua atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Peng",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Tidak Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2019",
+      "retrieved_at": "2026-09-21T14:06:35+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Aktif",
+      "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-16-tahun-2009-tentang-pajak-penghasilan",
+      "retrieved_at": "2026-09-21T14:15:22+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "56",
+     "2015"
+    ],
+    "judul": "Perubahan atas Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif ",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Tidak Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-56-tahun-2015",
+      "retrieved_at": "2026-09-21T14:07:08+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Aktif",
+      "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-77-tahun-2013-tentang-penurunan-tarif-pajak",
+      "retrieved_at": "2026-09-21T14:19:42+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "100",
+     "2013"
+    ],
+    "judul": "Perubahan atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasila",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Tidak Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-100-tahun-2013",
+      "retrieved_at": "2026-09-21T14:07:47+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Diubah/Disempurnakan/Dicabut sebagian",
+      "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-16-tahun-2009-tentang-pajak-penghasilan-atas",
+      "retrieved_at": "2026-09-21T14:21:24+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "52",
+     "2011"
+    ],
+    "judul": "Perubahan Kedua atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas P",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-52-tahun-2011",
+      "retrieved_at": "2026-09-21T14:09:14+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Dicabut",
+      "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-pemerintah-nomor-1-tahun-2007-tentang-fasilitas-pajak",
+      "retrieved_at": "2026-09-21T14:22:39+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "94",
+     "2010"
+    ],
+    "judul": "Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun ",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-94-tahun-2010",
+      "retrieved_at": "2026-09-21T14:09:26+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Diubah/Disempurnakan/Dicabut sebagian",
+      "url": "https://www.pajak.go.id/id/peraturan/penghitungan-penghasilan-kena-pajak-dan-pelunasan-pajak-penghasilan-dalam-tahun-1",
+      "retrieved_at": "2026-09-21T14:23:05+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "79",
+     "2010"
+    ],
+    "judul": "Biaya Operasi yang Dapat Dikembalikan dan Perlakuan Pajak Penghasilan di Bidang ",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-79-tahun-2010",
+      "retrieved_at": "2026-09-21T14:09:30+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Diubah/Disempurnakan/Dicabut sebagian",
+      "url": "https://www.pajak.go.id/id/peraturan/biaya-operasi-yang-dapat-dikembalikan-dan-perlakuan-pajak-penghasilan-di-bidang-usaha",
+      "retrieved_at": "2026-09-21T14:23:09+00:00"
+     }
+    ]
+   },
+   {
+    "key": [
+     "PP",
+     "18",
+     "2009"
+    ],
+    "judul": "Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Waj",
+    "klaim": [
+     {
+      "sumber": "JDIH",
+      "nilai_asli": "Tidak Berlaku",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-18-tahun-2009",
+      "retrieved_at": "2026-09-21T14:09:58+00:00"
+     },
+     {
+      "sumber": "DJP",
+      "nilai_asli": "Aktif",
+      "url": "https://www.pajak.go.id/id/peraturan/bantuan-atau-sumbangan-termasuk-zakat-atau-sumbangan-keagamaan-yang-sifatnya-wajib-yang",
+      "retrieved_at": "2026-09-21T14:24:07+00:00"
+     }
+    ]
+   }
+  ]
+ },
+ "relasi": {
+  "dok_dengan_mencabut": 210,
+  "dok_dengan_mengubah": 121,
+  "judul_mengandung_perubahan": 237,
+  "perubahan_terdeteksi": 121,
+  "acuan_mencabut": 443,
+  "acuan_mencabut_ketemu_di_korpus": 311,
+  "acuan_mengubah": 121,
+  "acuan_mengubah_ketemu_di_korpus": 104,
+  "djp_peraturan_terkait_terisi": 40,
+  "jdih_relasi_terstruktur": 0
+ },
+ "periksa_manusia": {
+  "status_tidak_pasti": 190,
+  "tanda_struktur": 52,
+  "tanpa_teks": 549,
+  "kunci_tak_terurai": 2,
+  "gabungan_unik": 709,
+  "persen_dari_substantif": 63.2
+ },
+ "jaringan": {
+  "total_permintaan": 2897,
+  "baris_log_rusak": 2,
+  "per_host": {
+   "jdih.kemenkeu.go.id": 884,
+   "www.pajak.go.id": 2013
+  },
+  "pajak_total": 2013,
+  "pajak_gagal": 25,
+  "per_jam_wib": {
+   "07": {
+    "permintaan": 420,
+    "gagal": 0,
+    "persen_gagal": 0.0
+   },
+   "09": {
+    "permintaan": 204,
+    "gagal": 4,
+    "persen_gagal": 2.0
+   },
+   "10": {
+    "permintaan": 274,
+    "gagal": 8,
+    "persen_gagal": 2.9
+   },
+   "11": {
+    "permintaan": 276,
+    "gagal": 7,
+    "persen_gagal": 2.5
+   },
+   "12": {
+    "permintaan": 77,
+    "gagal": 2,
+    "persen_gagal": 2.6
+   },
+   "21": {
+    "permintaan": 705,
+    "gagal": 0,
+    "persen_gagal": 0.0
+   },
+   "22": {
+    "permintaan": 57,
+    "gagal": 4,
+    "persen_gagal": 7.0
+   }
+  }
+ },
+ "estimasi_seluruh_pajak": {
+  "katalog_djp_semua_kategori": 6307,
+  "dikurangi_kurs_bunga_berkala": 1430,
+  "perkiraan_dokumen_substantif": 4877,
+  "rata2_karakter_per_dokumen_dari_sampel_pph": 19213,
+  "perkiraan_teks_mb": 89.4,
+  "perkiraan_teks_mb_rentang": [
+   62.6,
+   134.0
+  ],
+  "catatan": "Asumsi: (a) semua KMK kurs/bunga terdaftar di kategori PPh sehingga dikurangkan sekali; (b) rata-rata panjang teks kategori lain sama dengan PPh; (c) belum termasuk SE DJP (tidak ada di katalog) dan dokumen yang hanya ada di JDIH; (d) 1 karakter = 1 byte UTF-8 untuk teks Indonesia (hampir semua ASCII)."
+ }
+}

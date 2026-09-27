@@ -1,0 +1,40 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <div class="wrap">
+      <slot />
+      <!-- Invariant: the site must always state that it is not an official government site
+           and must name the sources of its data. -->
+      <footer>
+        <p>
+          <strong>Tax</strong> bukan situs resmi pemerintah dan tidak berafiliasi dengan
+          Kementerian Keuangan maupun Direktorat Jenderal Pajak.
+        </p>
+        <p>
+          Sumber data: katalog peraturan Direktorat Jenderal Pajak
+          (<a href="https://www.pajak.go.id/id/peraturan">pajak.go.id</a>) dan JDIH Kementerian
+          Keuangan (<a href="https://jdih.kemenkeu.go.id">jdih.kemenkeu.go.id</a>). Setiap dokumen
+          membawa URL sumber dan tanggal pengambilannya. Untuk kepastian hukum, rujuk naskah resmi
+          di sumbernya.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

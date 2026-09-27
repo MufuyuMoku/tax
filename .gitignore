@@ -1,0 +1,32 @@
+# dependencies & build output
+node_modules/
+dist/
+.astro/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# HTTP cache of the proof of concept: 381 MB, derived from poc/raw, never an input
+poc/cache/
+
+# Raw archive of source pages: verbatim copies of DJP pages, including layout,
+# metadata, classification and abstracts. Those parts stay copyrighted (SPEC section 9),
+# so they are kept on the maintainer's machine only, never in this public repo.
+poc/raw/
+
+# Documents sent by prospective users (SE, ND, penegasan, tax court rulings) come from
+# their office's internal systems. They never enter the repo, the site's bundled data, or
+# any commit. Only the README below is tracked. See SPEC invariant 10.
+samples-local/*
+!samples-local/README.md
+
+# editor & OS
+.DS_Store
+Thumbs.db
+*.log.tmp
+
+# runtime lock files of the fetcher
+poc/data/*.lock
+poc/data/fetch.run.lock

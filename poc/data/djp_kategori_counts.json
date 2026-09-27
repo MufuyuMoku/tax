@@ -1,0 +1,56 @@
+{
+ "BM": {
+  "kategori_id": "13932",
+  "halaman": 13,
+  "perkiraan_dokumen": 64,
+  "retrieved_at": "2026-09-21T14:06:36+00:00"
+ },
+ "BPHTB": {
+  "kategori_id": "14029",
+  "halaman": 16,
+  "perkiraan_dokumen": 80,
+  "retrieved_at": "2026-09-21T14:06:44+00:00"
+ },
+ "BPHTB Lainnya": {
+  "kategori_id": "13931",
+  "halaman": 1,
+  "perkiraan_dokumen": 0,
+  "retrieved_at": "2026-09-21T14:06:52+00:00"
+ },
+ "KUP": {
+  "kategori_id": "13927",
+  "halaman": 254,
+  "perkiraan_dokumen": 1268,
+  "retrieved_at": "2026-09-21T14:06:56+00:00"
+ },
+ "Lainnya": {
+  "kategori_id": "13933",
+  "halaman": 377,
+  "perkiraan_dokumen": 1883,
+  "retrieved_at": "2026-09-21T14:07:05+00:00"
+ },
+ "PBB": {
+  "kategori_id": "13930",
+  "halaman": 48,
+  "perkiraan_dokumen": 236,
+  "retrieved_at": "2026-09-21T14:07:14+00:00"
+ },
+ "PPh": {
+  "kategori_id": "13928",
+  "halaman": 494,
+  "perkiraan_dokumen": 2468,
+  "retrieved_at": "2026-09-21T14:03:17+00:00"
+ },
+ "PPN": {
+  "kategori_id": "13929",
+  "halaman": 496,
+  "perkiraan_dokumen": 2480,
+  "retrieved_at": "2026-09-21T14:07:22+00:00"
+ },
+ "Semua": {
+  "kategori_id": "All",
+  "halaman": 1262,
+  "perkiraan_dokumen": 6307,
+  "retrieved_at": "2026-09-21T14:07:30+00:00"
+ }
+}
