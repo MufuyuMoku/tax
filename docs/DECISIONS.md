@@ -121,3 +121,59 @@ yang memang terabaikan. Invarian ini juga mengikat turunannya: kutipan, potongan
 pencarian, dan berkas uji yang dibuat dari dokumen itu. Fitur koleksi pribadi (M4) tetap menjadi
 satu-satunya jalur untuk dokumen semacam ini, dan datanya tidak pernah meninggalkan perangkat
 pengguna (invarian 7).
+
+## K-009 — Surel pribadi di user agent diganti URL repo
+Tanggal: 2026-09-27 · Milestone: M0 · Status: berlaku
+
+**Keputusan:** user agent pengambil data di `poc/fetch.py` memakai
+`+https://github.com/MufuyuMoku/tax`, bukan alamat surel pribadi. Seluruh pohon kerja disisir:
+kemunculannya hanya satu, di berkas itu.
+**Alasan:** user agent memang harus memberi cara menghubungi pengelola bila pengambilan
+mengganggu, dan URL repo sudah memenuhi itu tanpa menerbitkan alamat surel pribadi di repo publik.
+**Alternatif yang ditolak:** membuat alamat surel khusus proyek. Menambah hal yang harus diurus
+tanpa manfaat lebih dibanding URL repo.
+**Akibat:** permintaan berikutnya ke sumber memakai identitas baru ini. Aturan pengambilan lain
+tidak berubah.
+
+## K-010 — Bidang klasifikasi milik sumber dihapus dari berkas yang di-commit
+Tanggal: 2026-09-27 · Milestone: M0 · Status: berlaku
+
+**Keputusan:** `label` dan `tematik` (JDIH), serta `kategori` dan `tag` (DJP) dihapus dari
+`poc/data/jdih_metadata.jsonl` (17.342 bidang), `poc/data/djp_pph_detail.jsonl` (2.928 bidang), dan
+`poc/data/jdih_pph_candidates.jsonl` (614 bidang). `poc/data/jdih_aggregate_filter.json`, yang
+justru memuat kamus label/tematik/bidang JDIH, dipindahkan seluruhnya ke luar repo. Salinan penuh
+semuanya ada di `C:\Users\sorar\Downloads\tax-poc-private`. Sisa uji (`_test_detail.jsonl`,
+`_test_slugs.txt`) dan empat berkas `.log` ikut dipindahkan ke luar.
+**Alasan:** klasifikasi buatan sumber tetap dilindungi hak cipta walaupun teks peraturannya tidak
+(SPEC bagian 9), dan proyek ini tidak lagi membutuhkannya: pemilihan dokumen PPh sudah selesai dan
+hasilnya tersimpan di `jdih_pph_candidates.jsonl` beserta alasan pemilihannya.
+**Alternatif yang ditolak:** menyimpannya karena "mungkin berguna nanti". Menahan bahan berhak
+cipta di repo publik demi kemungkinan yang tidak konkret.
+**Akibat:** `select_pph.py` tidak bisa dijalankan ulang dari berkas yang di-commit. Ia sekarang
+melempar `MissingLabelField` dengan keterangan jelas, bukan diam-diam menghasilkan daftar lebih
+pendek, dan tidak menimpa berkas keluarannya sebelum tahu pekerjaannya bisa selesai. Untuk
+menjalankan ulang, pakai salinan penuh di luar repo. Bidang `kategori` di `out/korpus_pph.json`
+tetap ada karena itu milik proyek ini sendiri (bernilai `substantif`), bukan klasifikasi sumber.
+
+## K-011 — Riwayat dipadatkan jadi satu commit, repo dihapus dan dibuat ulang
+Tanggal: 2026-09-27 · Milestone: M0 · Status: **sebagian** — penghapusan repo menunggu izin `delete_repo`
+
+**Keputusan:** riwayat empat commit hari pertama dipadatkan menjadi satu commit awal berisi pohon
+kerja yang sudah bersih, lalu repo GitHub dihapus dan dibuat ulang dengan nama yang sama.
+**Alasan:** commit-commit lama masih memuat bahan yang sengaja dibuang sesudahnya, yaitu surel
+pribadi (K-009) dan klasifikasi sumber (K-010). Mendorong riwayat itu apa adanya ke repo baru akan
+membatalkan kedua pembersihan tersebut. Riwayat satu hari bernilai jauh lebih kecil daripada itu,
+dan isi pekerjaannya tetap tercatat di `docs/PROGRESS.md` dan `docs/DECISIONS.md`. Penghapusan repo
+dipilih pemilik proyek karena commit lama masih terjangkau lewat SHA penuh, umur repo baru sehari,
+dan tidak ada fork.
+**Alternatif yang ditolak:** (a) mendorong riwayat empat commit apa adanya — membatalkan K-009 dan
+K-010; (b) `filter-repo --replace-text` plus callback untuk membersihkan bidang JSON di revisi lama
+— jauh lebih rumit untuk hasil akhir yang sama, mengingat repo akan dibuat ulang; (c) membiarkan
+repo lama — meninggalkan objek yang masih bisa diambil lewat SHA.
+**Akibat:** riwayat git dimulai dari nol (`e1ea020`), jadi klon lama tidak bisa di-pull. Sambil
+menunggu penghapusan, riwayat bersih sudah didorong paksa ke repo yang ada, sehingga branch utama
+publik tidak lagi memuat surel maupun klasifikasi sumber.
+**Belum tuntas:** `gh repo delete` ditolak dengan HTTP 403 karena token belum punya scope
+`delete_repo`. Pemberian scope itu memerlukan alur OAuth di browser
+(`gh auth refresh -h github.com -s delete_repo`) yang harus dijalankan pemilik proyek sendiri.
+Sampai itu dilakukan, SHA lama masih dapat diambil di GitHub.
