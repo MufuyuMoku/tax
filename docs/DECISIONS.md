@@ -156,7 +156,7 @@ menjalankan ulang, pakai salinan penuh di luar repo. Bidang `kategori` di `out/k
 tetap ada karena itu milik proyek ini sendiri (bernilai `substantif`), bukan klasifikasi sumber.
 
 ## K-011 — Riwayat dipadatkan jadi satu commit, repo dihapus dan dibuat ulang
-Tanggal: 2026-09-27 · Milestone: M0 · Status: **sebagian** — penghapusan repo menunggu izin `delete_repo`
+Tanggal: 2026-09-27 · Milestone: M0 · Status: **selesai**
 
 **Keputusan:** riwayat empat commit hari pertama dipadatkan menjadi satu commit awal berisi pohon
 kerja yang sudah bersih, lalu repo GitHub dihapus dan dibuat ulang dengan nama yang sama.
@@ -170,10 +170,18 @@ dan tidak ada fork.
 K-010; (b) `filter-repo --replace-text` plus callback untuk membersihkan bidang JSON di revisi lama
 — jauh lebih rumit untuk hasil akhir yang sama, mengingat repo akan dibuat ulang; (c) membiarkan
 repo lama — meninggalkan objek yang masih bisa diambil lewat SHA.
-**Akibat:** riwayat git dimulai dari nol (`e1ea020`), jadi klon lama tidak bisa di-pull. Sambil
-menunggu penghapusan, riwayat bersih sudah didorong paksa ke repo yang ada, sehingga branch utama
-publik tidak lagi memuat surel maupun klasifikasi sumber.
-**Belum tuntas:** `gh repo delete` ditolak dengan HTTP 403 karena token belum punya scope
-`delete_repo`. Pemberian scope itu memerlukan alur OAuth di browser
-(`gh auth refresh -h github.com -s delete_repo`) yang harus dijalankan pemilik proyek sendiri.
-Sampai itu dilakukan, SHA lama masih dapat diambil di GitHub.
+**Akibat:** riwayat git dimulai dari nol (`e1ea020`), jadi klon lama tidak bisa di-pull.
+
+**Cara penghapusannya:** `gh repo delete` ditolak HTTP 403 karena token tidak punya scope
+`delete_repo`, dan scope itu hanya bisa diberikan lewat alur OAuth di browser. **Penghapusan
+akhirnya dilakukan pemilik proyek secara manual lewat Settings → Danger Zone. Tidak ada scope
+`delete_repo` yang diberikan ke token**, jadi kemampuan menghapus repo tetap di luar jangkauan
+perkakas otomatis — dan memang sebaiknya begitu.
+
+**Hasil, diverifikasi 2026-09-27:**
+- Repo dibuat ulang dengan nama sama, publik, lalu riwayat bersih didorong (`09ec5aa`).
+- Pages diaktifkan dengan `build_type: workflow`; alur berjalan dan `success`.
+- Situs kembali **HTTP 200**, dan kalimat "bukan situs resmi pemerintah" ada di HTML terbit.
+- SHA lama tidak lagi bisa diambil: `309fa7c` dan `12f5b43` menjawab **HTTP 422** sebagai commit dan
+  **HTTP 404** saat dipakai sebagai `ref` untuk membaca `poc/fetch.py`. Surel pribadi dan
+  klasifikasi sumber kini tidak terjangkau dari revisi mana pun.
