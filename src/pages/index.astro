@@ -1,22 +1,135 @@
 ---
 import Base from "../layouts/Base.astro";
+import { buildListing, loadMeta } from "../lib/corpus.js";
+import { statusLabel, typeLabel, yearLabel } from "../lib/labels.js";
+
+const rows = buildListing();
+const meta = loadMeta();
+const base = import.meta.env.BASE_URL;
+const withoutText = rows.filter((r) => !r.text_available).length;
+const uncertain = rows.filter((r) => r.status_uncertain).length;
 ---
 
-<Base title="Tax — pencari peraturan pajak Indonesia">
-  <h1>Tax</h1>
-  <p>Pencari peraturan pajak Indonesia, dipakai langsung di browser.</p>
+<Base title="Daftar peraturan PPh — Tax">
+  <h1>Peraturan Pajak Penghasilan</h1>
+  <p class="lead">
+    {rows.length.toLocaleString("id-ID")} dokumen dari katalog Direktorat Jenderal Pajak dan JDIH
+    Kementerian Keuangan. Belum ada pencarian di versi ini; gunakan pengurutan di bawah.
+  </p>
 
   <div class="notice">
     <p>
-      <strong>Kerangka kosong (M0).</strong> Belum ada data peraturan, daftar, maupun pencarian di
-      situs ini. Halaman ini hanya membuktikan bahwa penerbitan situs berjalan.
+      <strong>{uncertain.toLocaleString("id-ID")} dokumen berstatus tidak pasti</strong> karena kedua
+      sumber berbeda atau bertentangan dengan bukti pencabutan di teks peraturan lain.
+      <strong>{withoutText.toLocaleString("id-ID")} dokumen tanpa teks</strong> karena sumbernya
+      memang hanya memuat metadata. Keduanya tetap ditampilkan, tidak disembunyikan.
     </p>
   </div>
 
-  <h2>Rencana</h2>
-  <p>
-    Versi pertama mencakup kategori Pajak Penghasilan: daftar peraturan, halaman per dokumen dan per
-    pasal, lalu pencarian yang berjalan di perangkat. Urutan pengerjaan dan kriteria selesai tiap
-    tahap ada di <code>docs/SPEC.md</code> di dalam repositori.
+  <div class="toolbar">
+    <label for="urut">Urutkan</label>
+    <select id="urut">
+      <option value="tahun-desc">Tahun, terbaru dulu</option>
+      <option value="tahun-asc">Tahun, terlama dulu</option>
+      <option value="judul-asc">Judul, A ke Z</option>
+      <option value="jenis-asc">Jenis peraturan</option>
+      <option value="status-asc">Status</option>
+    </select>
+    <p class="hint" id="hint">Dokumen yang dicatat berbeda oleh dua sumber selalu ditampilkan berdampingan.</p>
+  </div>
+
+  <ol class="daftar" id="daftar">
+    {rows.map((row) => (
+      <li
+        class="kartu"
+        data-tahun={row.year}
+        data-judul={row.title}
+        data-jenis={typeLabel(row.code)}
+        data-status={statusLabel(row.status, true)}
+        data-group={row.group_key}
+        data-id={row.id}
+      >
+        <p class="kartu-nomor">
+          <a href={`${base}dokumen/${row.id}/`}>{row.number_as_written || row.id}</a>
+          <span class="jenis">{typeLabel(row.code)}</span>
+        </p>
+        <p class="kartu-judul">{row.title}</p>
+        <p class="kartu-tanda">
+          <span class={`tanda status-${row.status}`}>{statusLabel(row.status, true)}</span>
+          <span class="tanda netral">{yearLabel(row.year)}</span>
+          {row.text_available ? (
+            <span class="tanda netral">{row.pasal_count} pasal</span>
+          ) : (
+            <span class="tanda tanpa-teks">Teks tidak tersedia di sumber</span>
+          )}
+          {row.attachment_mismatch > 0 && (
+            <span class="tanda peringatan">Lampiran tidak cocok</span>
+          )}
+          {row.quality_flags.length > 0 && <span class="tanda peringatan">Penomoran janggal</span>}
+        </p>
+        {!row.text_available && (
+          <p class="kartu-catatan">
+            {row.text_unavailable_reason}. Buka di sumbernya:{" "}
+            {row.source_urls.map((s, i) => (
+              <>
+                {i > 0 && " · "}
+                <a href={s.url} rel="noopener">{s.source}</a>
+              </>
+            ))}
+          </p>
+        )}
+        {row.conflicts.length > 0 && (
+          <p class="kartu-catatan konflik">
+            Satu peraturan ini dicatat dua sumber dengan jenis berbeda, sehingga muncul lebih dari
+            sekali. Lihat juga{" "}
+            {row.conflicts.map((c, i) => (
+              <>
+                {i > 0 && ", "}
+                <a href={`${base}dokumen/${c.id}/`}>{c.id}</a> ({typeLabel(c.code)})
+              </>
+            ))}
+            . Keduanya sengaja tidak digabungkan, karena menggabungkan berarti memilih salah satu
+            sumber sebagai yang benar.
+          </p>
+        )}
+      </li>
+    ))}
+  </ol>
+
+  <p class="hint">
+    Data diambil dari sumber pada 21–27 September 2026. Korpus berisi {meta.body_units.toLocaleString("id-ID")}{" "}
+    unit pasal dan diktum.
   </p>
 </Base>
+
+<script>
+  // Sorting happens in the browser so the page keeps working offline and needs no server.
+  // Without JavaScript the list is still there, ordered newest first.
+  const list = document.getElementById("daftar");
+  const select = document.getElementById("urut");
+  const items = Array.from(list.children);
+
+  const key = (item, name) => item.dataset[name] || "";
+  const comparators = {
+    // an unreadable year sorts last in both directions rather than pretending to be year 0
+    "tahun-desc": (a, b) => (Number(key(b, "tahun")) || -1) - (Number(key(a, "tahun")) || -1),
+    "tahun-asc": (a, b) => (Number(key(a, "tahun")) || 9999) - (Number(key(b, "tahun")) || 9999),
+    "judul-asc": (a, b) => key(a, "judul").localeCompare(key(b, "judul"), "id"),
+    "jenis-asc": (a, b) => key(a, "jenis").localeCompare(key(b, "jenis"), "id"),
+    "status-asc": (a, b) => key(a, "status").localeCompare(key(b, "status"), "id"),
+  };
+
+  select.addEventListener("change", () => {
+    const compare = comparators[select.value];
+    const sorted = items.slice().sort(
+      (a, b) =>
+        compare(a, b) ||
+        // documents recorded twice stay next to each other under every ordering
+        key(a, "group").localeCompare(key(b, "group")) ||
+        key(a, "id").localeCompare(key(b, "id"))
+    );
+    const fragment = document.createDocumentFragment();
+    for (const item of sorted) fragment.appendChild(item);
+    list.appendChild(fragment);
+  });
+</script>

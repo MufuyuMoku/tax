@@ -239,3 +239,54 @@ huruf terbaca sebagai "Pasal 1A". Ketahuan lewat tes yang ditulis untuk kasus la
 dengan laporan tetapi salah lebih buruk daripada angka yang benar dan dijelaskan.
 **Akibat:** 4 unit pasal palsu hilang. Selisih terhadap LAPORAN kini terjelaskan penuh:
 6.319 = 6.253 + 62 (posting ganda) + 4 (bug ini).
+
+## K-016 — Daftar berupa kartu dengan pengurutan di browser, bukan tabel
+Tanggal: 2026-09-28 · Milestone: M2 · Status: berlaku
+
+**Keputusan:** daftar 1.122 dokumen dirender sebagai satu halaman berisi kartu, diurutkan di server
+(tahun terbaru dulu), dan pengurutan lain dikerjakan JavaScript kecil tanpa pustaka.
+**Alasan:** tabel memaksa gulir samping di layar 320px, padahal syarat M2 justru melarangnya. Kartu
+mengalir mengikuti lebar layar. Pengurutan di browser membuat halaman tetap bekerja tanpa server dan
+tanpa internet, sesuai rencana M5.
+**Alternatif yang ditolak:** (a) tabel dengan gulir samping — melanggar syarat; (b) halaman terpisah
+per urutan — memperbanyak halaman tanpa manfaat; (c) paginasi — memecah daftar sehingga pengurutan
+tidak lagi menyeluruh.
+**Akibat:** halaman daftar sekitar 1,2 MB HTML. Tanpa JavaScript, daftar tetap tampil lengkap dalam
+urutan tahun terbaru.
+
+## K-017 — Dokumen kembar dijaga berdampingan lewat kunci grup
+Tanggal: 2026-09-28 · Milestone: M2 · Status: berlaku
+
+**Keputusan:** tiap dokumen membawa `group_key`, yaitu id terkecil di antara dirinya dan pasangan
+`identity_conflicts`-nya. Kunci itu dipakai sebagai kunci pengurutan kedua, di server maupun di
+browser, sehingga anggota satu grup selalu bersebelahan pada urutan apa pun. Kartunya memuat
+keterangan singkat bahwa ini satu peraturan yang dicatat berbeda oleh dua sumber.
+**Alasan:** tanpa itu, PP 20/2026 dan kembarannya bisa terpisah jauh dan terbaca sebagai duplikat
+akibat kesalahan aplikasi, padahal itu kesalahan pencatatan sumber.
+**Alternatif yang ditolak:** menggabungkan tampilannya jadi satu kartu. Itu menyembunyikan bahwa
+sumbernya berbeda, dan menggeser keputusan menebak dari data ke tampilan.
+**Akibat:** berlaku untuk seluruh `identity_conflicts`, bukan kasus PP 20/2026 saja. Saat ini 11
+dokumen dalam 5 grup, salah satunya bertiga.
+
+## K-018 — Sasaran relasi di luar korpus ditampilkan sebagai teks, bukan tautan
+Tanggal: 2026-09-28 · Milestone: M2 · Status: berlaku
+
+**Keputusan:** relasi yang menunjuk peraturan yang tidak ada di korpus ditampilkan sebagai teks
+dengan keterangan "di luar korpus PPh, tidak ada halamannya di sini".
+**Alasan:** 150 dari 564 sasaran relasi (27%) menunjuk peraturan di luar kategori PPh. Menautkannya
+akan menghasilkan 150 tautan mati.
+**Alternatif yang ditolak:** menyembunyikan relasi itu. Relasinya nyata dan berguna; yang tidak ada
+hanyalah halamannya di situs ini.
+**Akibat:** pemeriksaan otomatis atas seluruh 8.508 halaman menemukan 0 tautan internal mati.
+
+## K-019 — Identitas yang tidak terbaca ditampilkan apa adanya
+Tanggal: 2026-09-28 · Milestone: M2 · Status: berlaku
+
+**Keputusan:** dua dokumen yang nomornya tidak bisa diurai pipa data tampil dengan label
+"Jenis tidak terbaca dari sumber" dan "Tahun tidak terbaca", dan selalu diurutkan paling akhir pada
+pengurutan tahun.
+**Alasan:** sumbernya menulis "74 TAHUN 200" dan "TAHUN 1945". Menampilkan tahun kosong terbaca
+seperti kerusakan aplikasi, sedangkan menebak tahunnya melanggar prinsip yang sama dengan status.
+**Alternatif yang ditolak:** menyembunyikan kedua dokumen itu dari daftar. Invarian 3 melarang
+menyembunyikan dokumen.
+**Akibat:** keduanya tetap bisa dibuka dan tetap membawa tautan ke sumbernya.

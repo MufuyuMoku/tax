@@ -1,14 +1,20 @@
-/* Plain CSS with custom properties. No framework, no utility classes. */
+/* Plain CSS with custom properties. No framework, no utility classes.
+   Mobile first: everything must fit a 320px screen without sideways scrolling. */
 :root {
   --bg: #ffffff;
   --fg: #1a1a1a;
   --muted: #5c5c5c;
   --line: #d9d9d9;
   --accent: #1f4f82;
+  --surface: #f5f6f8;
   --warn-bg: #fff8e1;
   --warn-line: #d9b45b;
+  --alert-bg: #fdeceb;
+  --alert-line: #c0503f;
+  --ok-bg: #e8f3ea;
+  --ok-line: #4a8759;
   --space: 1rem;
-  --measure: 42rem;
+  --measure: 46rem;
   --font: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
@@ -19,13 +25,23 @@
     --muted: #a8adb4;
     --line: #333a42;
     --accent: #8ab4e8;
+    --surface: #1d2126;
     --warn-bg: #2a2413;
     --warn-line: #7a6426;
+    --alert-bg: #33201d;
+    --alert-line: #a35f52;
+    --ok-bg: #1b2a1f;
+    --ok-line: #4a8759;
   }
 }
 
 * {
   box-sizing: border-box;
+}
+
+html {
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 
 body {
@@ -39,11 +55,269 @@ body {
 .wrap {
   max-width: var(--measure);
   margin: 0 auto;
-  padding: calc(var(--space) * 2) var(--space);
+  padding: calc(var(--space) * 1.5) var(--space);
+}
+
+h1 {
+  font-size: 1.5rem;
+  line-height: 1.3;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  font-size: 1.15rem;
+  margin-top: calc(var(--space) * 2);
+  border-top: 1px solid var(--line);
+  padding-top: var(--space);
+}
+
+h3 {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
 }
 
 a {
   color: var(--accent);
+}
+
+.lead {
+  color: var(--muted);
+}
+
+.hint {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.breadcrumb {
+  font-size: 0.875rem;
+  margin-top: 0;
+}
+
+.judul-dokumen {
+  font-size: 1.05rem;
+  margin-top: 0;
+}
+
+.notice {
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-line);
+  border-radius: 6px;
+  padding: var(--space);
+  margin: var(--space) 0;
+}
+
+.notice ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.peringatan-blok {
+  background: var(--alert-bg);
+  border: 1px solid var(--alert-line);
+  border-radius: 6px;
+  padding: 0.6rem 0.75rem;
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+}
+
+/* ---------- toolbar ---------- */
+.toolbar {
+  margin: var(--space) 0;
+}
+
+.toolbar label {
+  font-size: 0.875rem;
+  margin-right: 0.5rem;
+}
+
+.toolbar select {
+  font: inherit;
+  padding: 0.35rem 0.5rem;
+  max-width: 100%;
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+/* ---------- list ---------- */
+.daftar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.kartu {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin-bottom: 0.6rem;
+  background: var(--surface);
+}
+
+.kartu p {
+  margin: 0 0 0.35rem;
+}
+
+.kartu-nomor {
+  font-weight: 600;
+}
+
+.kartu-nomor .jenis {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin-left: 0.4rem;
+}
+
+.kartu-judul {
+  font-size: 0.95rem;
+}
+
+.kartu-catatan {
+  font-size: 0.85rem;
+  color: var(--muted);
+  border-left: 3px solid var(--line);
+  padding-left: 0.6rem;
+}
+
+.kartu-catatan.konflik {
+  border-left-color: var(--warn-line);
+}
+
+.kartu-tanda {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.tanda {
+  font-size: 0.75rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.tanda.netral {
+  color: var(--muted);
+}
+
+.status-berlaku {
+  background: var(--ok-bg);
+  border-color: var(--ok-line);
+}
+
+.status-tidak_pasti {
+  background: var(--warn-bg);
+  border-color: var(--warn-line);
+  font-weight: 600;
+}
+
+.status-tidak_berlaku,
+.status-diubah_atau_dicabut_sebagian {
+  background: var(--surface);
+}
+
+.tanda.tanpa-teks {
+  background: var(--surface);
+  color: var(--muted);
+  white-space: normal;
+}
+
+.tanda.peringatan {
+  background: var(--alert-bg);
+  border-color: var(--alert-line);
+  white-space: normal;
+}
+
+/* ---------- claims, sources, relations, attachments ---------- */
+.klaim,
+.relasi,
+.lampiran,
+.pasal-daftar,
+.butir {
+  list-style: none;
+  margin: 0.5rem 0;
+  padding: 0;
+}
+
+.klaim li {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.klaim-sumber {
+  font-weight: 600;
+  min-width: 3.5rem;
+}
+
+.klaim-nilai {
+  font-family: inherit;
+}
+
+.relasi li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.relasi p {
+  margin: 0 0 0.25rem;
+}
+
+blockquote {
+  margin: 0.25rem 0;
+  padding: 0.4rem 0.75rem;
+  border-left: 3px solid var(--accent);
+  background: var(--surface);
+  font-size: 0.9rem;
+}
+
+.lampiran li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.pasal-daftar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.pasal-daftar li {
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  background: var(--surface);
+  font-size: 0.9rem;
+}
+
+.butir li {
+  padding: 0.25rem 0;
+}
+
+/* ---------- pasal text ---------- */
+.teks-pasal {
+  white-space: pre-wrap;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: var(--space);
+  font-size: 0.95rem;
+}
+
+.nav-pasal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: var(--space) 0;
+  font-size: 0.9rem;
 }
 
 footer {
@@ -52,11 +326,4 @@ footer {
   border-top: 1px solid var(--line);
   color: var(--muted);
   font-size: 0.875rem;
-}
-
-.notice {
-  background: var(--warn-bg);
-  border: 1px solid var(--warn-line);
-  border-radius: 6px;
-  padding: var(--space);
 }

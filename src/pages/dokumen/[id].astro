@@ -1,0 +1,244 @@
+---
+import Base from "../../layouts/Base.astro";
+import { loadIndex, loadDocument, loadPasal } from "../../lib/corpus.js";
+import { statusLabel, typeLabel, yearLabel, formatDate, flagNote, STRUCTURE_NOTE } from "../../lib/labels.js";
+
+export function getStaticPaths() {
+  return loadIndex().map((entry) => ({ params: { id: entry.id } }));
+}
+
+const { id } = Astro.params;
+const doc = loadDocument(id);
+const base = import.meta.env.BASE_URL;
+
+const units = doc.pasal_ids.map((pasalId) => loadPasal(pasalId));
+const body = units.filter((u) => u.section === "batang_tubuh");
+const explanation = units.filter((u) => u.section === "penjelasan");
+const number = doc.source_records.find((r) => r.number_as_written)?.number_as_written || doc.id;
+// 27% of the regulations named in these sentences sit outside the PPh corpus, so a link would
+// lead nowhere. Those are shown as plain text with a note instead of a dead link.
+const knownIds = new Set(loadIndex().map((entry) => entry.id));
+const relations = [
+  { kind: "revokes", label: "Mencabut", items: doc.relations.revokes },
+  { kind: "amends", label: "Mengubah", items: doc.relations.amends },
+  { kind: "revoked_by", label: "Dicabut oleh", items: doc.relations.revoked_by },
+  { kind: "amended_by", label: "Diubah oleh", items: doc.relations.amended_by },
+].filter((group) => group.items.length > 0);
+---
+
+<Base title={`${number} — Tax`} description={doc.title}>
+  <p class="breadcrumb"><a href={base}>Daftar peraturan</a></p>
+
+  <h1>{number}</h1>
+  <p class="judul-dokumen">{doc.title}</p>
+  <p class="kartu-tanda">
+    <span class={`tanda status-${doc.status.value}`}>{statusLabel(doc.status.value, true)}</span>
+    <span class="tanda netral">{typeLabel(doc.identity.code)}</span>
+    <span class="tanda netral">{yearLabel(doc.identity.year)}</span>
+    {doc.identity.variant && <span class="tanda netral">{doc.identity.variant}</span>}
+  </p>
+
+  {doc.identity_conflicts.length > 0 && (
+    <div class="notice">
+      <p>
+        <strong>Dicatat berbeda oleh dua sumber.</strong> Peraturan ini juga muncul sebagai{" "}
+        {doc.identity_conflicts.map((c, i) => (
+          <>
+            {i > 0 && ", "}
+            <a href={`${base}dokumen/${c.id}/`}>{c.id}</a> ({typeLabel(c.code)})
+          </>
+        ))}
+        , dengan nomor, tahun, dan judul yang sama tetapi jenis yang berbeda. Keduanya sengaja tidak
+        digabungkan: menggabungkan berarti memilih salah satu sumber sebagai yang benar.
+      </p>
+    </div>
+  )}
+
+  <h2>Status</h2>
+  {doc.status.value === "tidak_pasti" ? (
+    <div class="notice">
+      <p><strong>Status tidak pasti.</strong> Alasannya:</p>
+      <ul>{doc.status.reasons.map((reason) => <li>{reason}</li>)}</ul>
+      <p class="hint">
+        Situs ini tidak memilih salah satu klaim sebagai jawaban. Seluruh klaim ditampilkan di bawah
+        apa adanya, beserta tanggal pengambilannya.
+      </p>
+    </div>
+  ) : (
+    <p>
+      {statusLabel(doc.status.value)}
+      {doc.status.note && <span class="hint"> ({doc.status.note})</span>}
+    </p>
+  )}
+
+  <ul class="klaim">
+    {doc.status_claims.map((claim) => (
+      <li>
+        <span class="klaim-sumber">{claim.source}</span>
+        <span class="klaim-nilai">{claim.value_verbatim || "(kosong)"}</span>
+        <span class="hint">diambil {formatDate(claim.retrieved_at)}</span>
+        <a href={claim.url} rel="noopener">halaman sumber</a>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Sumber</h2>
+  <ul class="klaim">
+    {doc.source_records.map((record) => (
+      <li>
+        <span class="klaim-sumber">{record.source}</span>
+        <span>{record.number_as_written}</span>
+        <span class="hint">
+          {record.type_as_written}
+          {record.date_as_written ? ` · ${formatDate(record.date_as_written)}` : ""} · diambil{" "}
+          {formatDate(record.retrieved_at)}
+        </span>
+        <a href={record.url} rel="noopener">buka</a>
+      </li>
+    ))}
+  </ul>
+
+  {relations.length > 0 && (
+    <>
+      <h2>Relasi dengan peraturan lain</h2>
+      <div class="notice">
+        <p>
+          <strong>Ini petunjuk, bukan kepastian.</strong> Relasi dibaca otomatis dari kalimat di teks
+          peraturan. Uji manual pada 20 contoh memberi 16 benar, 2 sebenarnya pencabutan sebagian
+          yang tercatat sebagai pencabutan penuh, dan 2 perlu diperiksa manusia. Kutipan kalimat
+          sumbernya disertakan supaya bisa dinilai sendiri.
+        </p>
+      </div>
+      {relations.map((group) => (
+        <>
+          <h3>{group.label}</h3>
+          <ul class="relasi">
+            {group.items.map((item) => (
+              <li>
+                <p class="relasi-sasaran">
+                  {knownIds.has(item.target_id || item.id) ? (
+                    <a href={`${base}dokumen/${item.target_id || item.id}/`}>
+                      {item.number_as_written || (item.key ? item.key.slice(0, 3).join(" ") : item.id)}
+                    </a>
+                  ) : (
+                    <>
+                      <span>
+                        {item.number_as_written || (item.key ? item.key.slice(0, 3).join(" ") : item.id)}
+                      </span>
+                      <span class="hint"> — di luar korpus PPh, tidak ada halamannya di sini</span>
+                    </>
+                  )}
+                  {item.title && <span class="hint"> — {item.title}</span>}
+                </p>
+                <blockquote>“{item.quote}”</blockquote>
+                <p class="hint">
+                  dibaca dari teks {item.source_of_reading || "peraturan"}
+                  {item.rejected ? ` · diabaikan: ${item.rejected}` : ""}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </>
+      ))}
+    </>
+  )}
+
+  {doc.relations.source_listed_related.length > 0 && (
+    <>
+      <h3>Disebut terkait oleh sumber</h3>
+      <ul class="relasi">
+        {doc.relations.source_listed_related.map((item) => (
+          <li>
+            <p class="relasi-sasaran">
+              {item.url ? <a href={item.url} rel="noopener">{item.text}</a> : item.text}
+            </p>
+            <p class="hint">{item.note}</p>
+          </li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  {doc.attachments.length > 0 && (
+    <>
+      <h2>Lampiran</h2>
+      <p class="hint">
+        Lampiran dibuka sebagai PDF asli di situs sumber. Isinya tidak diubah menjadi teks, karena
+        sebagian lampiran berupa hasil pindaian yang OCR-nya merusak angka pada tabel tarif.
+      </p>
+      <ul class="lampiran">
+        {doc.attachments.map((attachment) => (
+          <li>
+            <a href={attachment.url} rel="noopener">{attachment.file_name}</a>
+            {attachment.match === "tidak_cocok" && (
+              <p class="peringatan-blok">
+                <strong>Nomor lampiran tidak cocok.</strong> {attachment.note}. Lampiran ini mungkin
+                milik peraturan lain, jadi periksa dulu sebelum dipakai.
+              </p>
+            )}
+            {attachment.match === "tidak_terverifikasi" && (
+              <p class="hint">
+                Nomor peraturan tidak terbaca dari nama berkas, jadi kecocokannya belum terverifikasi.
+              </p>
+            )}
+          </li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <h2>Batang tubuh</h2>
+  {!doc.text.available ? (
+    <div class="notice">
+      <p>
+        <strong>Teks tidak tersedia di sumber.</strong> {doc.text.unavailable_reason}. Yang bisa
+        ditampilkan hanya metadata di atas. Buka halaman sumbernya untuk memastikan sendiri.
+      </p>
+    </div>
+  ) : (
+    <>
+      {doc.quality_flags.length > 0 && (
+        <div class="notice">
+          <p><strong>Penomoran pasal di teks sumber janggal.</strong></p>
+          <ul>
+            {doc.quality_flags.map((flag) => {
+              const info = flagNote(flag);
+              return <li>{info.note}{info.detail ? ` (${info.detail})` : ""}</li>;
+            })}
+          </ul>
+          <p class="hint">
+            Label pasal dibiarkan persis seperti di sumber, tidak diperbaiki otomatis.
+          </p>
+        </div>
+      )}
+      {STRUCTURE_NOTE[doc.structure] && <p class="hint">{STRUCTURE_NOTE[doc.structure]}</p>}
+      <ol class="pasal-daftar">
+        {body.map((unit) => (
+          <li>
+            <a href={`${base}pasal/${unit.id}/`}>
+              {unit.structure === "diktum" ? unit.label : `Pasal ${unit.label}`}
+            </a>
+            <span class="hint"> {unit.chars.toLocaleString("id-ID")} karakter</span>
+          </li>
+        ))}
+      </ol>
+      {explanation.length > 0 && (
+        <p class="hint">
+          Teks sumber juga memuat {explanation.length} bagian penjelasan, tertaut dari tiap halaman pasal.
+        </p>
+      )}
+      <p class="hint">
+        Teks diambil dari <a href={doc.text.url} rel="noopener">{doc.text.source}</a> pada{" "}
+        {formatDate(doc.text.retrieved_at)}.
+        {doc.text.other_postings.length > 0 && (
+          <>
+            {" "}Sumber juga memuat dokumen ini di {doc.text.other_postings.length} alamat lain
+            {doc.text.other_postings.some((p) => p.differs_from_chosen)
+              ? ", dan isinya tidak sama persis."
+              : "."}
+          </>
+        )}
+      </p>
+    </>
+  )}
+</Base>

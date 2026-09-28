@@ -1,0 +1,91 @@
+---
+import Base from "../../layouts/Base.astro";
+import { listPasalIds, loadPasal, loadDocument } from "../../lib/corpus.js";
+import { formatDate, flagNote, statusLabel } from "../../lib/labels.js";
+
+export function getStaticPaths() {
+  return listPasalIds().map((id) => ({ params: { id } }));
+}
+
+const { id } = Astro.params;
+const unit = loadPasal(id);
+const doc = loadDocument(unit.document_id);
+const base = import.meta.env.BASE_URL;
+
+const siblings = doc.pasal_ids;
+const position = siblings.indexOf(unit.id);
+const previous = position > 0 ? siblings[position - 1] : null;
+const next = position < siblings.length - 1 ? siblings[position + 1] : null;
+const heading = unit.structure === "diktum" ? unit.label : `Pasal ${unit.label}`;
+// The unit text starts with its own heading line; drop it so the page does not print it twice.
+const bodyText = unit.text.replace(/^[ \t]*(?:PASAL|Pasal|pasal)[ \t]+\S+[ \t]*\n/, "").replace(/^[A-Z ]+\n/, (m) => (unit.structure === "diktum" ? "" : m));
+---
+
+<Base title={`${heading} — ${unit.document_number || doc.title} — Tax`} description={doc.title}>
+  <p class="breadcrumb">
+    <a href={base}>Daftar peraturan</a> ·{" "}
+    <a href={`${base}dokumen/${doc.id}/`}>{unit.document_number || doc.id}</a>
+  </p>
+
+  <h1>{heading}</h1>
+  <p class="judul-dokumen">{doc.title}</p>
+  <p class="kartu-tanda">
+    <span class={`tanda status-${doc.status.value}`}>{statusLabel(doc.status.value, true)}</span>
+    <span class="tanda netral">{unit.section === "penjelasan" ? "Penjelasan" : "Batang tubuh"}</span>
+  </p>
+
+  {doc.status.value === "tidak_pasti" && (
+    <div class="notice">
+      <p>
+        <strong>Status peraturan induknya tidak pasti.</strong> {doc.status.reasons.join("; ")}.{" "}
+        <a href={`${base}dokumen/${doc.id}/`}>Lihat klaim tiap sumber</a> sebelum memakai pasal ini.
+      </p>
+    </div>
+  )}
+
+  {doc.quality_flags.length > 0 && (
+    <div class="notice">
+      <p><strong>Penomoran pasal di teks sumber janggal.</strong></p>
+      <ul>
+        {doc.quality_flags.map((flag) => {
+          const info = flagNote(flag);
+          return <li>{info.note}{info.detail ? ` (${info.detail})` : ""}</li>;
+        })}
+      </ul>
+      <p class="hint">Label pasal ini ditulis persis seperti di sumber.</p>
+    </div>
+  )}
+
+  <div class="teks-pasal">{bodyText}</div>
+
+  {unit.amendment_items && unit.amendment_items.length > 0 && (
+    <>
+      <h2>Butir perubahan</h2>
+      <p class="hint">
+        Pasal ini memuat ketentuan peraturan lain yang diubah. Judul "Pasal N" di dalamnya milik
+        peraturan yang diubah, bukan peraturan ini.
+      </p>
+      <ol class="butir">
+        {unit.amendment_items.map((item) => (
+          <li>
+            Angka {item.number}
+            {item.action ? ` — ${item.action}` : ""}
+            {item.target_pasal.length > 0 && (
+              <span class="hint"> (menyasar Pasal {item.target_pasal.join(", ")})</span>
+            )}
+          </li>
+        ))}
+      </ol>
+    </>
+  )}
+
+  <nav class="nav-pasal">
+    {previous && <a href={`${base}pasal/${previous}/`}>← unit sebelumnya</a>}
+    {next && <a href={`${base}pasal/${next}/`}>unit berikutnya →</a>}
+  </nav>
+
+  <p class="hint">
+    Teks diambil dari <a href={unit.text_source.url} rel="noopener">{unit.text_source.source}</a> pada{" "}
+    {formatDate(unit.text_source.retrieved_at)}. Untuk kepastian hukum, rujuk naskah resmi di sumbernya.
+  </p>
+</Base>

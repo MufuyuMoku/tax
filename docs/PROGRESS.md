@@ -17,6 +17,29 @@ angka nyata, bukan klaim.
 
 ---
 
+## M2 — halaman
+Tanggal: 2026-09-28
+Status: selesai
+
+**Dibangun:**
+- Halaman daftar (`/`): 1.122 kartu, pengurutan tahun/judul/jenis/status di browser, status dan
+  tahun terlihat, dokumen tanpa teks ditandai beserta tautan ke sumbernya.
+- Halaman dokumen (`/dokumen/<id>/`): identitas, klaim status tiap sumber dengan tanggal ambil,
+  relasi dengan kutipan kalimat sumbernya, lampiran sebagai tautan PDF, dan batang tubuh per pasal.
+- Halaman pasal (`/pasal/<id>/`): satu unit punya alamat sendiri, dengan tautan ke dokumen induk,
+  navigasi antar unit, dan sumber teksnya.
+- Total 8.508 halaman statis, terbangun dalam sekitar 25 detik.
+
+**Verifikasi:**
+- Layar sempit: enam halaman contoh diukur pada lebar 320px, `scrollWidth` sama dengan
+  `clientWidth`, jadi tidak ada gulir samping. Diperiksa juga pada 375px.
+- Tautan: pemeriksaan seluruh 8.508 halaman menemukan 0 tautan internal mati.
+- Aturan tampilan dibuktikan dengan dokumen nyata; lihat laporan sesi M2.
+
+**Diputuskan sendiri:** K-016 sampai K-019 di `docs/DECISIONS.md`.
+
+**Belum dikerjakan:** pencarian (M3). Daftar hanya bisa diurutkan, belum bisa dicari atau disaring.
+
 ## M1 — pipa data
 Tanggal: 2026-09-27
 Status: selesai
