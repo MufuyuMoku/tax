@@ -1,21 +1,83 @@
 ---
 import Base from "../layouts/Base.astro";
 import { buildListing, loadMeta } from "../lib/corpus.js";
-import { statusLabel, typeLabel, yearLabel } from "../lib/labels.js";
+import { statusLabel, typeLabel, yearLabel, regulationLabel } from "../lib/labels.js";
 
 const rows = buildListing();
 const meta = loadMeta();
 const base = import.meta.env.BASE_URL;
 const withoutText = rows.filter((r) => !r.text_available).length;
 const uncertain = rows.filter((r) => r.status_uncertain).length;
+
+// Filter choices come from the data, each with how many documents it holds.
+const countBy = (key) => {
+  const counts = new Map();
+  for (const row of rows) counts.set(key(row), (counts.get(key(row)) || 0) + 1);
+  return counts;
+};
+const typeCounts = [...countBy((r) => r.code)].sort((a, b) => typeLabel(a[0]).localeCompare(typeLabel(b[0]), "id"));
+const statusOrder = ["berlaku", "diubah_atau_dicabut_sebagian", "tidak_berlaku", "tidak_pasti", "tetap", "kosong"];
+const statusCounts = [...countBy((r) => r.status)].sort(
+  (a, b) => (statusOrder.indexOf(a[0]) + 99) % 99 - (statusOrder.indexOf(b[0]) + 99) % 99
+);
+const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort((a, b) => b - a);
 ---
 
 <Base title="Daftar peraturan PPh — Tax">
   <h1>Peraturan Pajak Penghasilan</h1>
   <p class="lead">
     {rows.length.toLocaleString("id-ID")} dokumen dari katalog Direktorat Jenderal Pajak dan JDIH
-    Kementerian Keuangan. Belum ada pencarian di versi ini; gunakan pengurutan di bawah.
+    Kementerian Keuangan.
   </p>
+
+  <form class="cari" id="cari" role="search" action="" method="get">
+    <label for="q">Cari kata, istilah, atau nomor peraturan</label>
+    <div class="cari-baris">
+      <input id="q" name="q" type="search" autocomplete="off" spellcheck="false"
+        placeholder="PPh 21, natura, PMK 168/2023, PER-11/PJ/2025" />
+      <button type="submit">Cari</button>
+    </div>
+    <div class="saringan">
+      <label>Jenis
+        <select name="jenis" id="jenis">
+          <option value="">Semua jenis</option>
+          {typeCounts.map(([code, count]) => <option value={code}>{typeLabel(code)} ({count})</option>)}
+        </select>
+      </label>
+      <label>Dari tahun
+        <select name="dari" id="dari">
+          <option value="">—</option>
+          {years.slice().reverse().map((year) => <option value={year}>{year}</option>)}
+        </select>
+      </label>
+      <label>Sampai tahun
+        <select name="sampai" id="sampai">
+          <option value="">—</option>
+          {years.map((year) => <option value={year}>{year}</option>)}
+        </select>
+      </label>
+      <label>Status
+        <select name="status" id="status">
+          <option value="">Semua status</option>
+          {statusCounts.map(([value, count]) => <option value={value}>{statusLabel(value)} ({count})</option>)}
+        </select>
+      </label>
+    </div>
+    <p class="hint" id="keadaan" aria-live="polite">
+      Pencarian berjalan di perangkat ini. Data pencariannya dimuat sekali bersama halaman; mengetik
+      tidak mengirim apa pun ke mana pun.
+    </p>
+    <noscript>
+      <p class="hint">Pencarian dan saringan membutuhkan JavaScript. Daftar lengkap tetap ada di bawah.</p>
+    </noscript>
+  </form>
+
+  <div id="hasil" hidden>
+    <p class="hasil-ringkas" id="hasil-ringkas"></p>
+    <ol class="daftar" id="hasil-daftar"></ol>
+    <button type="button" class="tombol-lagi" id="lagi" hidden>Tampilkan lebih banyak</button>
+  </div>
+
 
   <div class="notice">
     <p>
@@ -26,6 +88,7 @@ const uncertain = rows.filter((r) => r.status_uncertain).length;
     </p>
   </div>
 
+  <div id="semua">
   <div class="toolbar">
     <label for="urut">Urutkan</label>
     <select id="urut">
@@ -46,11 +109,13 @@ const uncertain = rows.filter((r) => r.status_uncertain).length;
         data-judul={row.title}
         data-jenis={typeLabel(row.code)}
         data-status={statusLabel(row.status, true)}
+        data-code={row.code}
+        data-status-value={row.status}
         data-group={row.group_key}
         data-id={row.id}
       >
         <p class="kartu-nomor">
-          <a href={`${base}dokumen/${row.id}/`}>{row.number_as_written || row.id}</a>
+          <a href={`${base}dokumen/${row.id}/`}>{regulationLabel(row, row.number_as_written)}</a>
           <span class="jenis">{typeLabel(row.code)}</span>
         </p>
         <p class="kartu-judul">{row.title}</p>
@@ -85,7 +150,7 @@ const uncertain = rows.filter((r) => r.status_uncertain).length;
             {row.conflicts.map((c, i) => (
               <>
                 {i > 0 && ", "}
-                <a href={`${base}dokumen/${c.id}/`}>{c.id}</a> ({typeLabel(c.code)})
+                <a href={`${base}dokumen/${c.id}/`}>{regulationLabel([c.code, row.number, row.year, row.variant])}</a> ({typeLabel(c.code)})
               </>
             ))}
             . Keduanya sengaja tidak digabungkan, karena menggabungkan berarti memilih salah satu
@@ -95,6 +160,7 @@ const uncertain = rows.filter((r) => r.status_uncertain).length;
       </li>
     ))}
   </ol>
+  </div>
 
   <p class="hint">
     Data diambil dari sumber pada 21–27 September 2026. Korpus berisi {meta.body_units.toLocaleString("id-ID")}{" "}
@@ -132,4 +198,10 @@ const uncertain = rows.filter((r) => r.status_uncertain).length;
     for (const item of sorted) fragment.appendChild(item);
     list.appendChild(fragment);
   });
+</script>
+
+<script>
+  import { startSearch } from "../lib/search/ui.js";
+
+  startSearch({ base: import.meta.env.BASE_URL });
 </script>

@@ -327,3 +327,110 @@ footer {
   color: var(--muted);
   font-size: 0.875rem;
 }
+
+/* ---------- search ---------- */
+.cari {
+  margin: var(--space) 0;
+  padding: 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.cari > label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.cari-baris {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.cari input[type="search"] {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  padding: 0.45rem 0.6rem;
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+.cari button,
+.tombol-lagi {
+  font: inherit;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  background: var(--accent);
+  color: var(--bg);
+  cursor: pointer;
+}
+
+.saringan {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.9rem;
+  margin-top: 0.6rem;
+  font-size: 0.875rem;
+}
+
+.saringan label {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.saringan select {
+  font: inherit;
+  padding: 0.3rem 0.4rem;
+  max-width: 100%;
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+.hasil-ringkas {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.tanda.alasan {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.cocok-pasal {
+  list-style: none;
+  margin: 0.4rem 0;
+  padding: 0;
+}
+
+.cocok-pasal li {
+  font-size: 0.875rem;
+  padding: 0.35rem 0;
+  border-top: 1px dashed var(--line);
+}
+
+.cocok-pasal a {
+  font-weight: 600;
+}
+
+.cuplikan {
+  color: var(--muted);
+}
+
+mark {
+  background: var(--warn-bg);
+  color: var(--fg);
+  border-bottom: 2px solid var(--warn-line);
+  padding: 0 0.05rem;
+}
+
+.tombol-lagi {
+  margin: 0.5rem 0 var(--space);
+}

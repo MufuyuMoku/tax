@@ -1,0 +1,52 @@
+# Berkas pengaturan pencarian
+
+Tiga berkas di folder ini boleh disunting tanpa menyentuh kode. Perubahan berlaku setelah situs
+dibangun ulang (`npm run build`, atau otomatis saat di-push ke `main`). Setelah menyunting,
+jalankan `npm test` untuk memastikan pencarian masih memenuhi janjinya.
+
+## `istilah.json` — singkatan dan istilah
+
+Daftar kelompok. Semua bentuk dalam satu kelompok dianggap sama: mencari salah satunya menemukan
+dokumen yang memuat bentuk mana pun.
+
+```json
+["PTKP", "Penghasilan Tidak Kena Pajak"]
+```
+
+- `{n}` dan `{m}` berarti angka. `["PPh {n}", "PPh Pasal {n}", "Pajak Penghasilan Pasal {n}"]`
+  membuat "PPh 21" menemukan "Pajak Penghasilan Pasal 21", dan sebaliknya.
+- Huruf besar-kecil tidak berpengaruh. Tanda baca dibaca sebagai jeda kata: "e-Bupot" dibaca
+  "e bupot", sedangkan "eBupot" satu kata. Karena itu keduanya ditulis sebagai bentuk tersendiri.
+- Bentuk yang lebih panjang dicocokkan lebih dulu, jadi "PPh 21" tidak terbaca sebagai "PPh"
+  ditambah angka 21.
+- Satu singkatan boleh punya beberapa kepanjangan, misalnya PKP (Penghasilan Kena Pajak dan
+  Pengusaha Kena Pajak). Pencarian akan menemukan keduanya.
+- Padanan kata biasa (misalnya "karyawan" dan "pegawai") juga bisa ditulis di sini, tetapi
+  pertimbangkan baik-baik: padanan yang terlalu longgar membuat hasil pencarian melebar.
+
+## `kata-umum.json` — kata yang diabaikan
+
+Kata yang terlalu umum untuk menentukan hasil ("yang", "dan", "untuk"). Diabaikan bila diketik
+sebagai kata lepas, tetapi tetap dipakai di dalam frasa bertanda kutip dan di dalam istilah.
+Bila semua kata di kotak pencarian adalah kata umum, kata-kata itu tetap dicari.
+
+## `ocr.json` — toleransi galat OCR
+
+Sebagian teks DJP hasil OCR yang tidak dikoreksi: "clan" untuk "dan", "rnenteri" untuk
+"menteri". Koreksi di sini **hanya dipakai saat mencocokkan**. Teks yang ditampilkan di situs
+tetap persis seperti sumbernya, termasuk salah ketiknya.
+
+- `aturan`: pasangan huruf yang sering tertukar oleh OCR, misalnya `["rn", "m"]`.
+- `ambang`: sebuah kata dianggap salah baca bila ia jarang di korpus (paling banyak
+  `frekuensi_maks` kali, minimal `panjang_min` huruf), dan satu penggantian menurut `aturan`
+  menghasilkan kata yang muncul paling sedikit `frekuensi_benar_min` kali dan `kelipatan_min`
+  kali lebih sering. Korpus dipakai sebagai pengganti kamus.
+- `pasangan`: koreksi yang ditulis tangan, dipakai di samping yang dihitung otomatis.
+- `jangan_dikoreksi`: kata yang benar walaupun mirip salah baca, misalnya "mengenal" (bukan
+  "mengenai"). Tambahkan di sini bila menemukan koreksi otomatis yang keliru.
+
+Daftar koreksi yang dihitung otomatis bisa dilihat dengan:
+
+```
+node scripts/search-ocr-list.mjs
+```

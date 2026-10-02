@@ -1,0 +1,29 @@
+{
+  "keterangan": "Toleransi galat OCR untuk pencarian. Koreksi hanya dipakai saat mencocokkan; teks yang ditampilkan tetap persis seperti sumber. Lihat README.md di folder ini.",
+  "aturan": [
+    ["rn", "m"],
+    ["cl", "d"],
+    ["li", "h"],
+    ["ii", "u"],
+    ["i", "l"],
+    ["l", "i"],
+    ["c", "e"],
+    ["1", "l"],
+    ["0", "o"]
+  ],
+  "ambang": {
+    "frekuensi_maks": 200,
+    "kelipatan_min": 25,
+    "frekuensi_benar_min": 30,
+    "panjang_min": 4
+  },
+  "pasangan": {
+    "clan": "dan",
+    "rnenteri": "menteri"
+  },
+  "jangan_dikoreksi": [
+    "mengenal",
+    "dikenal",
+    "slta"
+  ]
+}

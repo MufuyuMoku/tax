@@ -17,6 +17,59 @@ angka nyata, bukan klaim.
 
 ---
 
+## M3 — pencarian
+Tanggal: 2026-10-02
+Status: selesai
+
+**Dibangun:**
+- Pencarian teks penuh di perangkat (`src/lib/search/`): normalisasi bersama untuk build dan browser,
+  pengurai kueri (nomor, istilah, frasa bertanda kutip, kata umum), mesin peringkat, potongan teks
+  berkonteks. Berjalan di Web Worker atas satu berkas `cari/data.json` yang dibuat saat build.
+- Kotak cari dan saringan jenis, dari/sampai tahun, dan status (termasuk "Tidak pasti") di halaman
+  daftar. Kueri dan saringan tersimpan di URL.
+- Kartu hasil: label, jenis, status, tahun, alasan cocok (nomor, judul, menyebut nomor ini), konsep
+  yang cocok dan yang tidak ditemukan, sampai tiga pasal yang cocok dengan potongan teks bertanda
+  dan tautan langsung ke halaman pasalnya. Dokumen tanpa teks tampil dengan keterangan dan tautan ke
+  sumber.
+- Berkas yang bisa disunting: `src/data/search/istilah.json`, `kata-umum.json`, `ocr.json`, beserta
+  `README.md`. Skrip bantu: `scripts/search-demo.mjs`, `scripts/search-rank.mjs`,
+  `scripts/search-ocr-list.mjs`.
+- Tes: `npm test`, 24 tes (unit dan integrasi pada korpus nyata), dijalankan CI sebelum build.
+
+**Verifikasi:**
+- Tanpa permintaan jaringan: setelah halaman dimuat, server pratinjau dihentikan; `fetch` ke server
+  gagal, sedangkan empat pencarian berikutnya tetap memberi hasil.
+- Bentuk nomor: "PMK 168/2023", "168/PMK.03/2023", "PMK-168/PMK.03/2023" → PMK 168/2023 di peringkat
+  1; "PER-11/PJ/2025", "PER 11 2025" → PER-DJP 11/2025 di peringkat 1, diikuti PER-DJP 3/2026 yang
+  menyebut nomor itu.
+- Dokumen tanpa teks: "PTKP" menemukan KMK 564/KMK.03/2004, KMK 361/KMK.04/1998, dan lainnya lewat
+  judul; "PP 20/2026" menemukan catatan JDIH tanpa teks di peringkat 1.
+- Singkatan: "PPh 21" dicari sebagai PPh 21 = PPh Pasal 21 = Pajak Penghasilan Pasal 21 (134
+  dokumen); "PTKP", "NPWP", "KUP" menemukan bentuk panjangnya.
+- OCR: `"rencana penanaman modal baru"` menemukan PMK 130/2020 Pasal 14 yang di sumber tertulis
+  "penanarnan", dan potongan teksnya menampilkan "penanarnan ... dimaksucl clalam" apa adanya.
+- Saringan: "natura" + status tidak pasti → 9 dokumen, semuanya berstatus tidak pasti; saringan
+  jenis dan tahun diuji di tes integrasi.
+- Layar 320px: `scrollWidth` = `clientWidth` = 320 pada halaman hasil.
+- Ukuran indeks: `cari/data.json` 10.536.888 byte, 1.786.472 byte setelah gzip. Memuat dan
+  menormalkan sekitar 0,7 detik di desktop; satu pencarian 5–60 md.
+
+**Pencarian berbentuk kasus**, "karyawan dapat bonus tahunan" (508 dokumen): tiga teratas UU 7/1983
+Pasal 6 ("gaji karyawan termasuk bonus" sebagai biaya), PER-DJP 15/2006 dan KEP-DJP 545/2000 ("bonus,
+premi tahunan" sebagai penghasilan tidak teratur), keduanya sudah tidak berlaku. Peraturan yang
+berlaku untuk kasus itu, PMK 168/2023, baru di peringkat 16; PER-16/PJ/2016 di 39; PP 58/2023
+(tarif efektif) di 418. Penyebab utamanya kosakata: peraturan menulis "pegawai", bukan "karyawan".
+Dengan padanan "karyawan = pegawai" (diuji, tidak disimpan) PMK 168/2023 naik ke peringkat 3.
+
+**Diputuskan sendiri:** K-023 sampai K-029 di `docs/DECISIONS.md`. Koreksi M2 sebelum M3: K-020
+sampai K-022.
+
+**Belum dikerjakan / diketahui pincang:**
+- Pertanyaan kasus bergantung pada kata yang sama dengan teks peraturan. Tidak ada padanan kata
+  biasa di daftar istilah; itu keputusan pemilik proyek (K-027).
+- Data pencarian dimuat ulang setiap kali halaman daftar dibuka; penyimpanan di perangkat baru di M5.
+- Halaman dokumen dan pasal belum punya kotak cari sendiri; pencarian hanya dari halaman daftar.
+
 ## M2 — halaman
 Tanggal: 2026-09-28
 Status: selesai

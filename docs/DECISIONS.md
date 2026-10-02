@@ -340,3 +340,109 @@ jumlah pasalnya, plus pengingat bahwa situs ini tidak memastikan keduanya peratu
 bagian atas halaman mudah terlewat oleh orang yang langsung menggulir ke batang tubuh.
 **Akibat:** berlaku untuk seluruh grup: saat ini PP 20/2026, KEP-425/PJ/2019, KEP-95/PJ/2019, dan
 KEP-8/PJ/2023 (catatan JDIH-nya tanpa teks). Grup PP/Keppres 28/1990 tidak berteks di kedua sisi.
+
+## K-023 — Mesin pencari ditulis sendiri, teks penuh dimuat sekali dan dicari di memori
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** saat build, `src/pages/cari/data.json.js` menulis satu berkas `cari/data.json` berisi
+daftar dokumen, teks seluruh 7.385 unit pasal dan penjelasan, peta koreksi OCR, dan daftar istilah.
+Halaman daftar memuatnya sekali lewat Web Worker, menormalkan teksnya menjadi satu string panjang,
+lalu tiap pencarian berjalan di memori dengan `indexOf`. Tidak ada pustaka pencarian.
+**Alasan:** normalisasi (OCR, singkatan, bentuk nomor) harus sama persis di build dan di browser;
+satu modul JavaScript tanpa dependensi (`src/lib/search/`) menjamin itu dan bisa dites di Node.
+Mencari di teks utuh juga memberi frasa persis, awalan kata, dan potongan teks berkonteks tanpa
+indeks posisi terpisah. Worker mencegah halaman membeku selama normalisasi di HP.
+**Ukuran:** `cari/data.json` 10.536.888 byte mentah, 1.786.472 byte setelah gzip. Di browser
+desktop, memuat dan menormalkan memakan sekitar 0,7 detik; satu pencarian 5–60 md.
+**Tafsir "tanpa permintaan jaringan":** berkas data diambil satu kali bersama halaman, dari situs
+yang sama, seperti CSS-nya. Mengetik dan menyaring tidak mengirim permintaan apa pun. Dibuktikan
+dengan menghentikan server setelah halaman dimuat: `fetch` ke server gagal, dan pencarian tetap
+memberi hasil. M5 nanti menyimpan berkas ini di perangkat.
+**Alternatif yang ditolak:** (a) indeks terbalik siap pakai (lunr, MiniSearch, FlexSearch) —
+menambah dependensi dan sulit menyamakan normalisasi OCR serta singkatan; (b) indeks dibagi per
+kata dan diambil sesuai kueri — itu permintaan jaringan per pencarian; (c) menyisipkan data ke
+HTML — halaman daftar jadi 12 MB dan tidak bisa di-cache terpisah.
+
+## K-024 — Peringkat: konsep yang muncul berdekatan, berbobot kelangkaannya, lalu BM25
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** dokumen diurutkan (1) cocok nomor lebih dulu; (2) jumlah bobot konsep kueri yang
+muncul dalam jarak 300 karakter di satu pasal atau di judul, dengan bobot = idf konsep itu; (3)
+skor BM25 pasal terbaik ditambah judul (bobot 2,5). Penjelasan berbobot 0,5. Kata panjang (4 huruf
+ke atas) juga cocok sebagai awalan (bobot 0,7) atau di dalam kata (0,5), jadi "potong" menemukan
+"pemotongan" dan "dipotong" tanpa stemmer.
+**Alasan:** tanpa syarat kedekatan, pasal panjang dan peraturan berpasal banyak "memuat semua kata"
+pertanyaan kasus walaupun kata-katanya berjauhan; tanpa bobot idf, "dapat" sama berharganya dengan
+"bonus". Keduanya terlihat pada kueri "karyawan dapat bonus tahunan" dan diperbaiki secara umum,
+bukan disetel untuk kueri itu.
+**Alternatif yang ditolak:** stemmer bahasa Indonesia tanpa kamus — aturan imbuhan meN-/peN-
+ambigu ("memotong", "memakai", "memasukkan") dan menggabungkan "penghasilan" dengan "hasil".
+**Akibat:** kartu hasil menyebut konsep yang cocok dan yang tidak ditemukan, supaya pengguna tahu
+kenapa sebuah dokumen muncul.
+
+## K-025 — Toleransi OCR dihitung dari korpus, hanya untuk mencocokkan
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** kata dianggap salah baca OCR bila jarang (paling banyak 200 kali) dan satu
+penggantian khas OCR ("rn"→"m", "cl"→"d", "l"↔"i", "c"→"e", ...) menghasilkan kata yang paling
+sedikit 25 kali lebih sering dan muncul paling sedikit 30 kali. Hasilnya 227 koreksi otomatis plus
+pasangan tulis tangan. Koreksi diterapkan ke teks dan kueri hanya saat mencocokkan; potongan teks
+di hasil dan halaman pasal tetap teks asli. Aturan, ambang, pasangan, dan daftar
+`jangan_dikoreksi` ada di `src/data/search/ocr.json`.
+**Alasan:** SPEC bagian 5 mewajibkan koreksi hanya menyentuh kata yang tidak ada di kamus, tetapi
+proyek ini tidak punya kamus. Korpus sendiri yang dipakai: "intemasional" tidak ada, jadi
+"internasional" tidak pernah disentuh.
+**Diperiksa manusia:** seluruh daftar dibaca sekali. Dua koreksi keliru ("mengenal"→"mengenai",
+"dikenal"→"dikenai") dan satu singkatan ("SLTA") dimasukkan ke `jangan_dikoreksi`. Daftar terbaru
+bisa dilihat dengan `node scripts/search-ocr-list.mjs`.
+
+## K-026 — Bentuk nomor peraturan dibaca dari kueri, dicocokkan ke identitas dokumen
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** `parseNumber` mengenali "168/PMK.03/2023", "PMK-168/PMK.03/2023", "55 Tahun 2022",
+"55/2022", dan "PER 11 2025", plus kata jenis (PMK, PP, PER, KEP, UU, ...). Kode seri setelah
+nomor tidak ikut dicocokkan kecuali menentukan jenis ("/PJ" berarti peraturan DJP). Bentuk lepas
+"angka tahun" hanya dibaca sebagai nomor bila tidak ada kata lain di kueri, sehingga "PPh 21 2024"
+tetap dicari sebagai kata. Bila kueri hanya nomor, dokumen lain yang mengutip nomor itu ikut tampil
+di bawahnya dengan tanda "Menyebut nomor ini". Nomor di dalam frasa bertanda kutip dicari sebagai
+teks, bukan sebagai nomor.
+**Alasan:** dokumen tanpa teks hanya bisa ditemukan lewat identitasnya, dan pengguna menulis nomor
+dengan banyak cara. Kode seri PMK ditulis berbeda-beda di sumber (PMK.03, PMK.010), jadi mencocokkan
+seri akan menggagalkan pencarian yang benar.
+
+## K-027 — Daftar singkatan, kata umum, dan aturan OCR berupa berkas data yang bisa disunting
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** `src/data/search/istilah.json` (61 kelompok, termasuk pola "PPh {n}" = "Pajak
+Penghasilan Pasal {n}"), `kata-umum.json`, dan `ocr.json`, dengan petunjuk di `README.md` di folder
+yang sama. Berkas ini dibaca saat build dan ikut ke `cari/data.json`.
+**Alasan:** diminta pemilik proyek; isi daftar ini keputusan bahasa dan kebiasaan kantor, bukan
+keputusan kode.
+**Sengaja tidak dimasukkan:** padanan kata biasa seperti "karyawan" = "pegawai". Diuji sementara
+(tidak disimpan): untuk "karyawan dapat bonus tahunan", PMK 168/2023 naik dari peringkat 16 ke 3
+dan PER-16/PJ/2016 dari 39 ke 6. Itu padanan, bukan singkatan, dan dampaknya ke kueri lain belum
+diukur; pemilik proyek yang memutuskan.
+**Akibat:** "aturan" dan "peraturan" masuk kata umum karena semua dokumen adalah peraturan; bentuk
+panjang seperti "Peraturan Pemerintah" tetap dikenali sebagai istilah.
+
+## K-028 — Saringan dan pencarian di halaman daftar, keadaannya di URL
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** kotak cari dan saringan (jenis, dari tahun, sampai tahun, status) ada di halaman
+daftar, di atas segalanya. Tanpa kata kunci, saringan menyembunyikan kartu di daftar lengkap;
+dengan kata kunci, daftar diganti hasil berperingkat. Pilihan saringan diambil dari data beserta
+jumlahnya, jadi "Tidak pasti" muncul sebagai pilihan tersendiri. Kueri dan saringan ditulis ke URL
+(`?q=...`). Label kartu daftar memakai label pendek K-021. Tautan pasal di hasil memakai text
+fragment (`#:~:text=`) supaya browser yang mendukungnya langsung menggulir ke kata yang cocok.
+**Alasan:** satu tempat untuk menelusuri dan mencari; URL bisa dikirim ke rekan atau disimpan.
+Tanpa JavaScript, daftar lengkap tetap tampil dan halaman menyebut bahwa pencarian butuh
+JavaScript.
+
+## K-029 — Tes pencarian memakai node:test dan dijalankan di CI sebelum build
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+
+**Keputusan:** `npm test` menjalankan `tests/search/*.test.mjs`: tes unit pada contoh tulisan
+sendiri, dan tes integrasi pada korpus nyata untuk janji M3 (semua bentuk nomor, dokumen tanpa
+teks, singkatan, OCR, saringan). Alur deploy menjalankan `npm test` sebelum `npm run build`.
+**Alasan:** tanpa dependensi tambahan; kegagalan menghentikan terbitnya situs yang pencariannya
+rusak.

@@ -1,0 +1,9 @@
+{
+  "keterangan": "Kata yang terlalu umum untuk menentukan hasil. Diabaikan bila berdiri sendiri di kotak pencarian, tetapi tetap dipakai di dalam frasa bertanda kutip dan di dalam istilah. Lihat README.md di folder ini.",
+  "kata": [
+    "yang", "dan", "di", "ke", "dari", "dalam", "untuk", "dengan", "atau", "pada", "atas", "oleh",
+    "ini", "itu", "adalah", "sebagai", "tentang", "bagi", "akan", "juga", "serta", "secara",
+    "tersebut", "telah", "sudah", "apa", "apakah", "bagaimana", "berapa", "kapan", "siapa",
+    "si", "sang", "nya", "saya", "kami", "kita", "aturan", "peraturan"
+  ]
+}
