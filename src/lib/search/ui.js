@@ -136,9 +136,14 @@ export function startSearch({ base }) {
       const types = summary.number.codes ? summary.number.codes.map(typeLabel).join(" atau ") : "jenis apa pun";
       parts.push(`dibaca sebagai nomor ${summary.number.serial} tahun ${summary.number.year} (${types})`);
     }
-    const terms = summary.concepts.filter((c) => c.forms);
+    const terms = summary.concepts.filter((c) => c.forms && c.kind === "term");
     if (terms.length) {
       parts.push(`istilah dicari dalam semua bentuknya: ${terms.map((c) => c.forms.join(" = ")).join("; ")}`);
+    }
+    const synonyms = summary.concepts.filter((c) => c.forms && c.kind === "padanan");
+    if (synonyms.length) {
+      const list = synonyms.map((c) => `${c.label} → ${c.forms.filter((f) => f.toLowerCase() !== c.label).join(", ")}`);
+      parts.push(`juga dicari padanannya, dengan bobot lebih rendah: ${list.join("; ")}`);
     }
     if (summary.ignored.length) parts.push(`kata umum diabaikan: ${summary.ignored.join(", ")}`);
     summaryLine.textContent = parts.join(" · ") + ".";

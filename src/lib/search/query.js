@@ -162,7 +162,7 @@ function matchPattern(pattern, tokens, at) {
  * counts as that thing: { label, alternatives: [token arrays], kind: "term" | "word" | "phrase",
  * stop: bool }. Text in double quotes is one exact phrase.
  */
-export function parseQuery(query, { terms, stopwords, ocr }) {
+export function parseQuery(query, { terms, synonyms = null, synonymWeight = 1, stopwords, ocr }) {
   const concepts = [];
   const stop = new Set(stopwords.map(baseToken));
 
@@ -176,21 +176,29 @@ export function parseQuery(query, { terms, stopwords, ocr }) {
     if (tokens.length) concepts.push({ label: `"${phrase.trim()}"`, alternatives: [tokens], kind: "phrase", stop: false });
   }
 
+  const firstMatch = (compiled, tokens, at) => {
+    if (!compiled) return null;
+    for (const pattern of compiled.patterns) {
+      const slots = matchPattern(pattern, tokens, at);
+      if (slots) return { pattern, slots, compiled };
+    }
+    return null;
+  };
+
   const tokens = phraseTokens(unquoted, ocr);
   for (let at = 0; at < tokens.length; ) {
-    let found = null;
-    for (const pattern of terms.patterns) {
-      const slots = matchPattern(pattern, tokens, at);
-      if (slots) {
-        found = { pattern, slots };
-        break;
-      }
-    }
+    // The longer match wins; an abbreviation (istilah) wins a tie with a padanan.
+    const term = firstMatch(terms, tokens, at);
+    const synonym = firstMatch(synonyms, tokens, at);
+    const found =
+      synonym && (!term || synonym.pattern.tokens.length > term.pattern.tokens.length) ? { ...synonym, kind: "padanan" } : term && { ...term, kind: "term" };
     if (found) {
-      const forms = terms.groups[found.pattern.group];
+      const forms = found.compiled.groups[found.pattern.group];
       const fill = (form) =>
         form.replace(/\{n\}/g, found.slots["{n}"] || "").replace(/\{m\}/g, found.slots["{m}"] || "");
+      const typed = tokens.slice(at, at + found.pattern.tokens.length).join(" ");
       const alternatives = [];
+      const weights = [];
       const seen = new Set();
       for (const form of forms) {
         const alt = phraseTokens(fill(form), ocr);
@@ -198,12 +206,15 @@ export function parseQuery(query, { terms, stopwords, ocr }) {
         if (alt.length && !seen.has(key)) {
           seen.add(key);
           alternatives.push(alt);
+          // A padanan counts for less than the word the user actually typed.
+          weights.push(found.kind === "padanan" && key !== typed ? synonymWeight : 1);
         }
       }
       concepts.push({
-        label: tokens.slice(at, at + found.pattern.tokens.length).join(" "),
+        label: typed,
         alternatives,
-        kind: "term",
+        weights,
+        kind: found.kind,
         stop: false,
         forms: forms.map(fill),
       });

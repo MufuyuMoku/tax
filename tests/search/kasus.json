@@ -1,0 +1,225 @@
+{
+  "keterangan": "Set evaluasi pertanyaan kasus. Pertanyaan ditulis dengan kosakata orang awam. Tiap jawaban menyebut dokumen, pasal bila ada, dan kutipan dari teks korpus yang membuktikannya. Peringkat sebuah pertanyaan adalah peringkat terbaik di antara dokumen jawabannya. 'perlu_dicek_pemilik' berarti penyusun tidak yakin jawabannya lengkap atau tepat. Garis dasar ada di garis-dasar.json.",
+  "kasus": [
+    {
+      "id": "bonus-tahunan",
+      "pertanyaan": "karyawan dapat bonus tahunan",
+      "jawaban": [
+        { "dokumen": "pmk-168-2023", "pasal": "pmk-168-2023--b004-5",
+          "kutipan": "b. bonus, tunjangan hari raya, jasa produksi, tantiem, gratifikasi, premi, dan penghasilan lain yang sifatnya tidak teratur" }
+      ]
+    },
+    {
+      "id": "thr",
+      "pertanyaan": "THR karyawan kena pajak tidak",
+      "jawaban": [
+        { "dokumen": "pmk-168-2023", "pasal": "pmk-168-2023--b004-5",
+          "kutipan": "b. bonus, tunjangan hari raya, jasa produksi, tantiem, gratifikasi, premi, dan penghasilan lain yang sifatnya tidak teratur" }
+      ]
+    },
+    {
+      "id": "potongan-gaji-bulanan",
+      "pertanyaan": "potongan pajak gaji bulanan karyawan berapa persen",
+      "jawaban": [
+        { "dokumen": "pp-58-2023", "pasal": "pp-58-2023--b001-2",
+          "kutipan": "Tarif pemotongan Pajak Penghasilan Pasal 21 terdiri atas: a. tarif berdasarkan Pasal 17 ayat (1) huruf a Undang-Undang Pajak Penghasilan; dan b. tarif efektif pemotongan Pajak Penghasilan Pasal 21" },
+        { "dokumen": "pmk-168-2023", "pasal": "pmk-168-2023--b004-5",
+          "kutipan": "a. seluruh gaji, segala jenis tunjangan dan penghasilan teratur lainnya, termasuk uang lembur ( overtime) dan penghasilan sejenisnya" }
+      ]
+    },
+    {
+      "id": "pesangon-phk",
+      "pertanyaan": "pajak uang pesangon karyawan yang kena PHK",
+      "jawaban": [
+        { "dokumen": "pp-68-2009", "pasal": "pp-68-2009--b001-2",
+          "kutipan": "Atas penghasilan yang diterima atau diperoleh Pegawai berupa Uang Pesangon, Uang Manfaat Pensiun, Tunjangan Hari Tua, atau Jaminan Hari Tua yang dibayarkan sekaligus dikenai pemotongan Pajak Penghasilan Pasal 21 yang bersifat final." },
+        { "dokumen": "pmk-16-2010", "pasal": "pmk-16-2010--b000-1",
+          "kutipan": "Uang Pesangon adalah penghasilan yang dibayarkan oleh pemberi kerja termasuk Pengelola Dana Pesangon Tenaga Kerja kepada pegawai" }
+      ]
+    },
+    {
+      "id": "jht-sekaligus",
+      "pertanyaan": "pencairan JHT sekaligus kena pajak",
+      "jawaban": [
+        { "dokumen": "pp-68-2009", "pasal": "pp-68-2009--b001-2",
+          "kutipan": "berupa Uang Pesangon, Uang Manfaat Pensiun, Tunjangan Hari Tua, atau Jaminan Hari Tua yang dibayarkan sekaligus dikenai pemotongan Pajak Penghasilan Pasal 21 yang bersifat final." },
+        { "dokumen": "pmk-16-2010", "pasal": null,
+          "kutipan": "Judul: TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA, DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS" }
+      ]
+    },
+    {
+      "id": "sewa-ruko",
+      "pertanyaan": "pajak sewa rumah atau ruko",
+      "jawaban": [
+        { "dokumen": "pp-34-2017", "pasal": "pp-34-2017--b003-4",
+          "kutipan": "Besarnya Pajak Penghasilan sebagaimana dimaksud dalam Pasal 2 ayat (1) sebesar 10% (sepuluh persen) dari jumlah bruto nilai persewaan tanah dan/atau Bangunan." }
+      ]
+    },
+    {
+      "id": "jual-rumah",
+      "pertanyaan": "jual rumah kena pajak berapa",
+      "jawaban": [
+        { "dokumen": "pp-34-2016", "pasal": null,
+          "kutipan": "Judul: Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya",
+          "catatan": "dokumen tanpa teks di sumber; bukti hanya dari judul" }
+      ]
+    },
+    {
+      "id": "omzet-umkm",
+      "pertanyaan": "usaha kecil omzet di bawah 4,8 miliar pajaknya berapa",
+      "jawaban": [
+        { "dokumen": "pp-55-2022", "pasal": "pp-55-2022--b056-57",
+          "kutipan": "yang menerima atau memperoleh penghasilan dengan peredaran bruto tidak melebihi Rp4.800.000.000,00 (empat miliar delapan ratus juta rupiah) dalam 1 (satu) Tahun Pajak." },
+        { "dokumen": "pmk-164-2023", "pasal": null,
+          "kutipan": "Judul: TATA CARA PENGENAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK YANG MEMILIKI PEREDARAN BRUTO TERTENTU DAN KEWAJIBAN PELAPORAN USAHA UNTUK DIKUKUHKAN SEBAGAI PENGUSAHA KENA PAJAK" }
+      ]
+    },
+    {
+      "id": "bunga-deposito",
+      "pertanyaan": "bunga deposito di bank kena pajak",
+      "jawaban": [
+        { "dokumen": "pp-131-2000", "pasal": "pp-131-2000--b001-2",
+          "kutipan": "a. dikenakan pajak final sebesar 20% (dua puluh persen) dari jumlah bruto, terhadap Wajib Pajak dalam negeri dan bentuk usaha tetap." },
+        { "dokumen": "pmk-212-2018", "pasal": "pmk-212-2018--b002-3",
+          "kutipan": "Pemotongan Pajak Penghasilan atas bunga deposito dikenakan atas: a. Deposito berjangka; b. Sertifikat Deposito; dan c. Deposito on call ." }
+      ]
+    },
+    {
+      "id": "hadiah-undian",
+      "pertanyaan": "menang undian dapat hadiah kena pajak",
+      "jawaban": [
+        { "dokumen": "pp-132-2000", "pasal": "pp-132-2000--b001-2",
+          "kutipan": "Pajak Penghasilan yang wajib dipotong atau dipungut atas penghasilan sebagaimana dimaksud dalam Pasal 1 adalah 25% (dua puluh lima persen) dari jumlah bruto hadiah undian." }
+      ]
+    },
+    {
+      "id": "makan-siang-kantor",
+      "pertanyaan": "makan siang gratis dari kantor kena pajak",
+      "jawaban": [
+        { "dokumen": "pmk-66-2023", "pasal": "pmk-66-2023--b003-4",
+          "kutipan": "Dikecualikan dari objek Pajak Penghasilan atas penggantian atau imbalan dalam bentuk natura dan/atau kenikmatan sebagaimana dimaksud dalam Pasal 3 ayat (1) meliputi: (1) makanan, bahan makanan, bahan minuman, dan/atau minuman bagi seluruh Pegawai" }
+      ]
+    },
+    {
+      "id": "honor-pembicara",
+      "pertanyaan": "honor jadi pembicara seminar dipotong pajak",
+      "jawaban": [
+        { "dokumen": "pmk-168-2023", "pasal": "pmk-168-2023--b002-3",
+          "kutipan": "d. penasihat, pengajar, pelatih, penceramah, penyuluh, dan moderator" }
+      ],
+      "perlu_dicek_pemilik": "PMK 168/2023 Pasal 3 menyebut 'penceramah' dan 'moderator', bukan 'pembicara'; mohon pastikan butir ini yang dimaksud."
+    },
+    {
+      "id": "pekerja-harian",
+      "pertanyaan": "buruh harian lepas dipotong pajak",
+      "jawaban": [
+        { "dokumen": "pmk-168-2023", "pasal": "pmk-168-2023--b000-1",
+          "kutipan": "Pegawai adalah orang pribadi yang bekerja, baik sebagai pegawai tetap atau pegawai tidak tetap, berdasarkan perjanjian atau kesepakatan kerja" }
+      ],
+      "perlu_dicek_pemilik": "kutipan hanya definisi; pasal yang mengatur penghitungan untuk pegawai tidak tetap belum saya pastikan."
+    },
+    {
+      "id": "hibah-ke-anak",
+      "pertanyaan": "kasih rumah ke anak kena pajak tidak",
+      "jawaban": [
+        { "dokumen": "pmk-90-2020", "pasal": "pmk-90-2020--b001-2",
+          "kutipan": "Dikecualikan sebagai objek Pajak Penghasilan sebagaimana dimaksud pada ayat (2) sepanjang: a. hibah, bantuan, atau sumbangan diberikan kepada: 1. keluarga sedarah dalam garis keturunan lurus satu derajat" }
+      ]
+    },
+    {
+      "id": "zakat",
+      "pertanyaan": "bayar zakat bisa mengurangi pajak",
+      "jawaban": [
+        { "dokumen": "pp-60-2010", "pasal": "pp-60-2010--b000-1",
+          "kutipan": "Zakat atau sumbangan keagamaan yang sifatnya wajib yang dapat dikurangkan dari penghasilan bruto meliputi: a. zakat atas penghasilan yang dibayarkan oleh Wajib Pajak" },
+        { "dokumen": "pmk-254-2010", "pasal": null,
+          "kutipan": "Judul: TATA CARA PEMBEBANAN ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO" }
+      ]
+    },
+    {
+      "id": "rugi-usaha",
+      "pertanyaan": "rugi usaha tahun lalu bisa dipakai tahun ini",
+      "jawaban": [
+        { "dokumen": "uu-36-2008", "pasal": "uu-36-2008--b000-i",
+          "kutipan": "kerugian tersebut dikompensasikan dengan penghasilan mulai tahun pajak berikutnya berturut-turut sampai dengan 5 (lima) tahun." }
+      ]
+    },
+    {
+      "id": "biaya-tidak-boleh",
+      "pertanyaan": "pengeluaran perusahaan yang tidak boleh jadi biaya",
+      "jawaban": [
+        { "dokumen": "uu-36-2008", "pasal": "uu-36-2008--b000-i",
+          "kutipan": "Untuk menentukan besarnya Penghasilan Kena Pajak bagi Wajib Pajak dalam negeri dan bentuk usaha tetap tidak boleh dikurangkan:" }
+      ]
+    },
+    {
+      "id": "beasiswa",
+      "pertanyaan": "dapat beasiswa kuliah kena pajak",
+      "jawaban": [
+        { "dokumen": "pmk-68-2020", "pasal": "pmk-68-2020--b001-2",
+          "kutipan": "Penghasilan berupa Beasiswa dari subjek pajak dan/atau bukan subjek pajak yang memenuhi persyaratan tertentu dikecualikan sebagai objek Pajak Penghasilan." }
+      ]
+    },
+    {
+      "id": "pajak-luar-negeri",
+      "pertanyaan": "sudah bayar pajak di luar negeri bisa dikurangkan di sini",
+      "jawaban": [
+        { "dokumen": "pmk-192-2018", "pasal": "pmk-192-2018--b001-2",
+          "kutipan": "PPh Luar Negeri tersebut dapat dikreditkan terhadap Pajak Penghasilan yang terutang di Indonesia." }
+      ]
+    },
+    {
+      "id": "batas-tidak-kena-pajak",
+      "pertanyaan": "batas gaji setahun yang tidak kena pajak untuk orang menikah",
+      "jawaban": [
+        { "dokumen": "pmk-101-2016", "pasal": "pmk-101-2016--b000-1",
+          "kutipan": "a. Rp54.000.000,00 (lima puluh empat juta rupiah) untuk diri Wajib Pajak orang pribadi; b. Rp4.500.000,00 (empat juta lima ratus ribu rupiah) tambahan untuk Wajib Pajak yang k" }
+      ]
+    },
+    {
+      "id": "jualan-online",
+      "pertanyaan": "jualan online di marketplace kena pajak",
+      "jawaban": [
+        { "dokumen": "pmk-37-2025", "pasal": "pmk-37-2025--b006-7",
+          "kutipan": "Pedagang Dalam Negeri sehubungan dengan transaksi yang dilakukan melalui Penyelenggara Perdagangan Melalui Sistem Elektronik dipungut Pajak Penghasilan Pasal 22." }
+      ]
+    },
+    {
+      "id": "barang-impor",
+      "pertanyaan": "beli barang dari luar negeri impor kena pajak penghasilan",
+      "jawaban": [
+        { "dokumen": "pmk-34-2017", "pasal": "pmk-34-2017--b000-1",
+          "kutipan": "a. Bank Devisa dan Direktorat Jenderal Bea dan Cukai atas: 1. impor barang" }
+      ]
+    },
+    {
+      "id": "orang-asing",
+      "pertanyaan": "orang asing kerja di Indonesia bayar pajak atas penghasilan dari mana",
+      "jawaban": [
+        { "dokumen": "pp-55-2022", "pasal": "pp-55-2022--b002-3",
+          "kutipan": "warga negara asing yang telah menjadi subjek pajak dalam negeri dikenai Pajak Penghasilan hanya atas penghasilan yang diterima atau diperoleh dari Indonesia" },
+        { "dokumen": "pmk-18-2021", "pasal": null,
+          "kutipan": "Pasal 1: Warga Negara Asing yang selanjutnya disingkat WNA adalah setiap orang yang bukan WNI." }
+      ]
+    },
+    {
+      "id": "warisan",
+      "pertanyaan": "dapat warisan dari orang tua kena pajak",
+      "jawaban": [
+        { "dokumen": "uu-36-2008", "pasal": "uu-36-2008--b000-i",
+          "kutipan": "sepanjang tidak ada hubungan dengan usaha, pekerjaan, kepemilikan, atau penguasaan di antara pihak-pihak yang bersangkutan; b. warisan;" }
+      ],
+      "perlu_dicek_pemilik": "kutipan dari Pasal 4 ayat (3) dalam Pasal I UU 36/2008; tidak ada peraturan pelaksana khusus warisan yang saya temukan di korpus."
+    },
+    {
+      "id": "kontraktor",
+      "pertanyaan": "kontraktor bangun gedung pajaknya berapa persen",
+      "jawaban": [
+        { "dokumen": "pp-9-2022", "pasal": "pp-9-2022--b000-i",
+          "kutipan": "Tarif Pajak Penghasilan untuk usaha Jasa Konstruksi sebagaimana dimaksud dalam Pasal 2 sebagai berikut: a. 1,75% (satu koma tujuh puluh lima persen) untuk pekerjaan" },
+        { "dokumen": "pp-51-2008", "pasal": null,
+          "kutipan": "Judul: PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI" }
+      ]
+    }
+  ]
+}

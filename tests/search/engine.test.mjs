@@ -80,3 +80,21 @@ test("results lead to the matching pasal, and the snippet skips the pasal headin
   assert.ok(result.units[0].segments[0].text.startsWith("Pemotongan"));
   assert.equal(result.units[0].fragment, "bonus");
 });
+
+test("a word found as typed outranks the same word found only through a padanan", () => {
+  const synonymPayload = {
+    ...payload,
+    docs: [doc("typed", { title: "Satu" }), doc("padanan", { title: "Dua" })],
+    units: [
+      { id: "typed--b000-1", doc: 0, label: "Pasal 1", section: "b" },
+      { id: "padanan--b000-1", doc: 1, label: "Pasal 1", section: "b" },
+    ],
+    texts: ["Pasal 1\nBonus bagi karyawan dibayar setahun sekali.", "Pasal 1\nBonus bagi pegawai dibayar setahun sekali."],
+    synonyms: { weight: 0.6, groups: [["karyawan", "pegawai"]] },
+  };
+  const synonymEngine = new SearchEngine(synonymPayload);
+  const summary = synonymEngine.search("karyawan bonus");
+  assert.equal(summary.total, 2, "padanan tetap menemukan dokumen kedua");
+  assert.deepEqual(synonymEngine.page(0, 2).map((r) => r.id), ["typed", "padanan"]);
+  assert.deepEqual(synonymEngine.search("pegawai bonus") && synonymEngine.page(0, 2).map((r) => r.id), ["padanan", "typed"]);
+});

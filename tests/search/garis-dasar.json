@@ -1,0 +1,30 @@
+{
+  "keterangan": "Peringkat jawaban tiap pertanyaan kasus pada mesin sebelum padanan kata ditambahkan (K-030). npm test gagal bila ada pertanyaan yang lebih buruk dari ini.",
+  "peringkat": {
+    "bonus-tahunan": 16,
+    "thr": 84,
+    "potongan-gaji-bulanan": 11,
+    "pesangon-phk": 2,
+    "jht-sekaligus": 1,
+    "sewa-ruko": 1,
+    "jual-rumah": 157,
+    "omzet-umkm": 20,
+    "bunga-deposito": 2,
+    "hadiah-undian": 3,
+    "makan-siang-kantor": 90,
+    "honor-pembicara": 10,
+    "pekerja-harian": 11,
+    "hibah-ke-anak": 131,
+    "zakat": 13,
+    "rugi-usaha": 2,
+    "biaya-tidak-boleh": 5,
+    "beasiswa": 1,
+    "pajak-luar-negeri": 7,
+    "batas-tidak-kena-pajak": 137,
+    "jualan-online": 96,
+    "barang-impor": 1,
+    "orang-asing": 17,
+    "warisan": 5,
+    "kontraktor": 145
+  }
+}

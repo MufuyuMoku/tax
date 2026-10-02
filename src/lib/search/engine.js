@@ -58,7 +58,7 @@ function concatenate(texts, ocr) {
  * Weighted term frequency of one alternative in every segment of `field`. Single long words also
  * match as prefix (0.7) or inside a word (0.5); everything else must match whole tokens.
  */
-function countInto(field, alternative, tf, positions = null) {
+function countInto(field, alternative, tf, positions = null, factor = 1, typedHits = null) {
   const single = alternative.length === 1 && alternative[0].length >= MIN_INFIX && !isNumeric(alternative[0]);
   const needle = single ? alternative[0] : " " + alternative.join(" ") + " ";
   const text = field.text;
@@ -72,8 +72,10 @@ function countInto(field, alternative, tf, positions = null) {
       const after = text.charCodeAt(at + needle.length) === 32;
       weight = before && after ? 1 : before ? 0.7 : 0.5;
     }
-    tf[segment] += weight;
-    if (positions) positions.push(at);
+    tf[segment] += weight * factor;
+    // A position remembers whether it came from the typed form (1) or a padanan (0).
+    if (positions) positions.push(at * 2 + (factor === 1 ? 1 : 0));
+    if (typedHits && factor === 1) typedHits[segment] = 1;
   }
 }
 
@@ -104,6 +106,9 @@ export class SearchEngine {
     this.ocr = payload.ocr;
     this.stopwords = payload.stopwords;
     this.terms = compileTerms(payload.terms, this.ocr);
+    // Padanan (K-030): forms that count as the typed word, at a lower weight.
+    this.synonyms = compileTerms(payload.synonyms ? payload.synonyms.groups : [], this.ocr);
+    this.synonymWeight = payload.synonyms ? payload.synonyms.weight : 1;
     this.body = concatenate(this.texts, this.ocr);
     this.titles = concatenate(
       this.docs.map((d) => d.title || ""),
@@ -120,7 +125,13 @@ export class SearchEngine {
     const outside = query.replace(/"[^"]+"/g, " ");
     const number = parseNumber(outside);
     const text = `${number ? number.rest : outside} ${quoted.join(" ")}`.trim();
-    const concepts = text ? parseQuery(text, { terms: this.terms, stopwords: this.stopwords, ocr: this.ocr }) : [];
+    const concepts = text ? parseQuery(text, {
+          terms: this.terms,
+          synonyms: this.synonyms,
+          synonymWeight: this.synonymWeight,
+          stopwords: this.stopwords,
+          ocr: this.ocr,
+        }) : [];
     return { number, concepts };
   }
 
@@ -148,6 +159,9 @@ export class SearchEngine {
     const unitMask = new Uint32Array(nUnits);
     const titleScore = new Float32Array(nDocs);
     const titleMask = new Uint32Array(nDocs);
+    // Concepts matched through the form the user typed, as opposed to only through a padanan.
+    const unitTyped = new Uint32Array(nUnits);
+    const titleTyped = new Uint32Array(nDocs);
     const idfs = [];
     const positions = [];
     active.slice(0, 31).forEach((concept, index) => {
@@ -155,10 +169,13 @@ export class SearchEngine {
       const tf = new Float32Array(nUnits);
       const titleTf = new Float32Array(nDocs);
       const found = [];
-      for (const alternative of concept.alternatives) {
-        countInto(this.body, alternative, tf, found);
-        countInto(this.titles, alternative, titleTf);
-      }
+      const typed = new Uint8Array(nUnits);
+      const titleTypedHits = new Uint8Array(nDocs);
+      concept.alternatives.forEach((alternative, k) => {
+        const factor = concept.weights ? concept.weights[k] : 1;
+        countInto(this.body, alternative, tf, found, factor, typed);
+        countInto(this.titles, alternative, titleTf, null, factor, titleTypedHits);
+      });
       let df = 0;
       for (let u = 0; u < nUnits; u++) if (tf[u] > 0) df++;
       let titleDf = 0;
@@ -171,34 +188,42 @@ export class SearchEngine {
         if (tf[u] > 0) {
           unitScore[u] += bm25(tf[u], this.body.lengths[u], this.body.average, idf) * this.unitWeight[u];
           unitMask[u] |= bit;
+          if (typed[u]) unitTyped[u] |= bit;
         }
       }
       for (let d = 0; d < nDocs; d++) {
         if (titleTf[d] > 0) {
           titleScore[d] += bm25(titleTf[d], this.titles.lengths[d], this.titles.average, titleIdf);
           titleMask[d] |= bit;
+          if (titleTypedHits[d]) titleTyped[d] |= bit;
         }
       }
     });
 
     // Matching a rare concept counts for more than matching a common one: "bonus" says more about
-    // a pasal than "dapat". A concept's weight is its idf over all pasal.
-    const weightOf = (mask) => {
+    // a pasal than "dapat". A concept's weight is its idf over all pasal, scaled down when it was
+    // found only through a padanan rather than the word the user typed (K-030).
+    const weightOf = (mask, typedMask = mask) => {
       let total = 0;
-      for (let i = 0; i < idfs.length; i++) if (mask & (1 << i)) total += idfs[i];
+      for (let i = 0; i < idfs.length; i++) {
+        if (typedMask & (1 << i)) total += idfs[i];
+        else if (mask & (1 << i)) total += idfs[i] * this.synonymWeight;
+      }
       return total;
     };
 
     // Which concepts occur near each other somewhere in each pasal (see NEAR).
     const nearMask = new Uint32Array(nUnits);
+    const nearTyped = new Uint32Array(nUnits);
     for (let u = 0; u < nUnits; u++) {
       const mask = unitMask[u];
       if (!mask || (mask & (mask - 1)) === 0) {
         nearMask[u] = mask;
+        nearTyped[u] = unitTyped[u];
         continue;
       }
-      const lo = this.body.starts[u];
-      const hi = this.body.starts[u + 1];
+      const lo = this.body.starts[u] * 2;
+      const hi = this.body.starts[u + 1] * 2;
       const events = [];
       for (let i = 0; i < positions.length; i++) {
         if (!(mask & (1 << i))) continue;
@@ -206,24 +231,35 @@ export class SearchEngine {
         for (let k = lowerBound(list, lo); k < list.length && list[k] < hi; k++) events.push(list[k] * 32 + i);
       }
       events.sort((a, b) => a - b);
-      const counts = new Int32Array(32);
-      let windowMask = 0;
+      const at = (e) => Math.floor(e / 64);
+      const anyCount = new Int32Array(32);
+      const typedCount = new Int32Array(32);
+      let anyMask = 0;
+      let typedMask = 0;
       let best = 0;
+      let bestTyped = 0;
       let bestWeight = -1;
       for (let right = 0, left = 0; right < events.length; right++) {
         const bit = events[right] % 32;
-        if (counts[bit]++ === 0) windowMask |= 1 << bit;
-        while (Math.floor(events[right] / 32) - Math.floor(events[left] / 32) > NEAR) {
-          const gone = events[left++] % 32;
-          if (--counts[gone] === 0) windowMask &= ~(1 << gone);
+        const isTyped = Math.floor(events[right] / 32) % 2;
+        if (anyCount[bit]++ === 0) anyMask |= 1 << bit;
+        if (isTyped && typedCount[bit]++ === 0) typedMask |= 1 << bit;
+        while (at(events[right]) - at(events[left]) > NEAR) {
+          const gone = events[left] % 32;
+          const goneTyped = Math.floor(events[left] / 32) % 2;
+          left++;
+          if (--anyCount[gone] === 0) anyMask &= ~(1 << gone);
+          if (goneTyped && --typedCount[gone] === 0) typedMask &= ~(1 << gone);
         }
-        const weight = weightOf(windowMask);
+        const weight = weightOf(anyMask, typedMask);
         if (weight > bestWeight) {
           bestWeight = weight;
-          best = windowMask;
+          best = anyMask;
+          bestTyped = typedMask;
         }
       }
       nearMask[u] = best;
+      nearTyped[u] = bestTyped;
     }
 
     // Aggregate per document.
@@ -265,14 +301,20 @@ export class SearchEngine {
       if (!this.passesFilters(doc, filters)) continue;
       // The pasal shown first is the one where the most (and rarest) concepts occur together.
       const title = titleMask[entry.d];
+      const titleT = titleTyped[entry.d];
       entry.units.sort(
-        (a, b) => weightOf(nearMask[b] | title) - weightOf(nearMask[a] | title) || unitScore[b] - unitScore[a] || a - b
+        (a, b) =>
+          weightOf(nearMask[b] | title, nearTyped[b] | titleT) - weightOf(nearMask[a] | title, nearTyped[a] | titleT) ||
+          unitScore[b] - unitScore[a] ||
+          a - b
       );
       let any = title;
       for (const u of entry.units) any |= unitMask[u];
-      const bestMask = entry.units.length ? nearMask[entry.units[0]] | title : title;
+      const first = entry.units.length ? entry.units[0] : -1;
+      const bestMask = first === -1 ? title : nearMask[first] | title;
+      const bestTyped = first === -1 ? titleT : nearTyped[first] | titleT;
       entry.coverage = popcount(bestMask);
-      entry.weight = weightOf(bestMask);
+      entry.weight = weightOf(bestMask, bestTyped);
       entry.mask = any;
       const top = entry.units.slice(0, 5).map((u) => unitScore[u]);
       entry.score =

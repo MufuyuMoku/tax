@@ -17,6 +17,36 @@ angka nyata, bukan klaim.
 
 ---
 
+## Koreksi M3
+Tanggal: 2026-10-02
+Status: selesai
+
+**Terbit:** commit `4e531d4` (koreksi M2) dan `0397548` (M3) didorong ke `main`. Alur Actions
+`37013762181` lulus, termasuk langkah `npm test` (24 lulus, 0 gagal) sebelum build. Dicek dengan
+curl pada `https://mufuyumoku.github.io/tax/`: halaman daftar memuat kotak cari, HTTP 200,
+`Content-Encoding: gzip`, 105.979 byte dikirim (1.169.211 byte dibuka); `cari/data.json` HTTP 200,
+`Content-Type: application/json`, `Content-Encoding: gzip`, 1.874.515 byte dikirim (10.536.888
+byte dibuka). Pages tidak mengirim brotli.
+
+**Padanan kata (K-030):** set evaluasi 25 pertanyaan kasus berkosakata awam di
+`tests/search/kasus.json`, tiap jawaban dengan pasal dan kutipan yang dicocokkan otomatis ke
+korpus; 3 ditandai "perlu dicek pemilik". Garis dasar dicatat sebelum perubahan. Padanan di
+`src/data/search/padanan.json` (11 kelompok, bobot 0,6), singkatan THR/PHK/JHT/WNA/WNI di
+`istilah.json`. Hasil: median 11 → 5, 10 besar 12 → 18 dari 25, tidak ada yang memburuk dari
+garis dasar. Satu penurunan dibanding varian tanpa padanan: "THR karyawan kena pajak tidak" 1 → 6
+akibat karyawan=pegawai (garis dasarnya 84). Set evaluasi masuk `npm test` (28 tes).
+
+**Beban di HP (K-031):** heap worker 28,6 MB; siap mencari 0,30 / 1,06 / 2,03 detik dan satu
+pencarian 25–47 / 117–208 / 188–381 md pada CPU 1x / 4x / 6x (mesin diukur di thread utama karena
+DevTools tidak bisa memperlambat worker). Proyeksi M6 sekitar 17 detik sampai siap dan heap
+sekitar 240 MB pada 6x; dicatat sebagai risiko terbuka dengan pilihannya, tidak dirombak.
+
+**Pengintaian M4:** `samples-local/` hanya berisi `README.md` milik proyek sendiri. Belum ada satu
+pun dokumen kiriman calon pengguna, jadi jumlah PDF berlapis teks versus pindaian adalah 0 dan 0.
+Pustaka pembaca PDF (pypdf, PyMuPDF) juga belum terpasang di mesin ini.
+
+**Diputuskan sendiri:** K-030, K-031; K-027 diperbarui statusnya.
+
 ## M3 — pencarian
 Tanggal: 2026-10-02
 Status: selesai

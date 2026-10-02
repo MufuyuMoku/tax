@@ -411,7 +411,8 @@ dengan banyak cara. Kode seri PMK ditulis berbeda-beda di sumber (PMK.03, PMK.01
 seri akan menggagalkan pencarian yang benar.
 
 ## K-027 — Daftar singkatan, kata umum, dan aturan OCR berupa berkas data yang bisa disunting
-Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku; bagian "sengaja tidak dimasukkan" digantikan
+K-030 (padanan diizinkan pemilik proyek dengan syarat)
 
 **Keputusan:** `src/data/search/istilah.json` (61 kelompok, termasuk pola "PPh {n}" = "Pajak
 Penghasilan Pasal {n}"), `kata-umum.json`, dan `ocr.json`, dengan petunjuk di `README.md` di folder
@@ -446,3 +447,61 @@ sendiri, dan tes integrasi pada korpus nyata untuk janji M3 (semua bentuk nomor,
 teks, singkatan, OCR, saringan). Alur deploy menjalankan `npm test` sebelum `npm run build`.
 **Alasan:** tanpa dependensi tambahan; kegagalan menghentikan terbitnya situs yang pencariannya
 rusak.
+
+## K-030 — Padanan kata awam, berbobot di bawah kata yang diketik, disaring lewat set evaluasi
+Tanggal: 2026-10-02 · Milestone: koreksi M3 · Status: berlaku
+
+**Keputusan:** padanan disimpan terpisah dari singkatan, di `src/data/search/padanan.json`. Bentuk
+yang diketik pengguna berbobot 1; bentuk lain dalam kelompoknya berbobot 0,6, baik pada skor BM25
+maupun pada bobot cakupan yang menentukan urutan. Kelompok hanya masuk bila terbukti menolong
+pertanyaan di `tests/search/kasus.json` dan tidak membuat pertanyaan lain memburuk. Garis dasar
+(`tests/search/garis-dasar.json`) dicatat sebelum perubahan apa pun; `npm test` gagal bila ada
+pertanyaan yang lebih buruk darinya.
+**Set evaluasi:** 25 pertanyaan berkosakata awam, tiap jawaban dengan dokumen, pasal, dan kutipan
+yang dicocokkan otomatis ke teks korpus. Tiga ditandai "perlu dicek pemilik". Pertanyaan dan
+jawabannya disusun penyusun sendiri dari teks peraturan publik, bukan dari dokumen kiriman.
+**Masuk (11 kelompok):** karyawan=pegawai, omzet=peredaran bruto, kontraktor=jasa konstruksi,
+online=daring=sistem elektronik, marketplace=lokapasar=perdagangan melalui sistem elektronik,
+kasih=hibah, kantor=pemberi kerja, buruh/pekerja harian lepas=pegawai tidak tetap,
+menikah=kawin, tidak kena pajak=penghasilan tidak kena pajak, orang asing=warga negara asing.
+Bukti jumlah kemunculan ada di berkasnya.
+**Ditolak setelah diuji satu per satu:** gaji=upah (menolong 137→132, merusak 11→14),
+jual=pengalihan (merusak 157→177), rumah=bangunan (menolong 157→113, merusak 131→137),
+gratis=cuma-cuma (merusak 90→93), honor=honorarium (merusak 10→13), anak=keluarga sedarah
+(hanya 131→127; "anak" juga berarti anak perusahaan), dan ruko, pembicara=penceramah, untung=laba
+(tidak berpengaruh pada set evaluasi, jadi tidak ada bukti).
+**Diketahui:** karyawan=pegawai membuat "THR karyawan kena pajak tidak" turun dari 1 ke 6
+dibanding tanpa padanan; tetap jauh di atas garis dasar 84 dan masih 10 besar. Dipertahankan
+karena menolong dua pertanyaan lain (16→4, 11→7).
+**Singkatan baru di `istilah.json`:** THR, PHK, JHT, WNA, WNI. Itu singkatan, jadi berbobot penuh.
+**Hasil:** median peringkat 11 → 5; masuk 10 besar 12 → 18 dari 25; tidak ada yang memburuk.
+
+## K-031 — Risiko diketahui: beban memuat dan memori pencarian di HP, terutama untuk M6
+Tanggal: 2026-10-02 · Milestone: koreksi M3 · Status: risiko terbuka, belum ditangani
+
+**Ukuran nyata (korpus PPh):** `cari/data.json` dikirim GitHub Pages dengan
+`Content-Encoding: gzip`, 1.874.515 byte (10.536.888 byte setelah dibuka). Heap JS worker
+pencarian sesudah GC: 28,6 MB.
+**Diukur dengan Chrome lewat protokol DevTools** (`scripts/measure-load.mjs`). Perlambatan CPU
+DevTools tidak berlaku untuk Web Worker ("Operation is only supported for pages, not workers"), jadi
+mesinnya juga diukur di thread utama halaman uji sementara supaya ikut diperlambat:
+
+| CPU | Siap mencari (mesin di thread utama) | "PPh 21" | kasus | nomor | Siap di situs (worker tak diperlambat) |
+|---|---|---|---|---|---|
+| 1x | 0,30 dtk | 25 md | 47 md | 16 md | 0,58 dtk |
+| 4x | 1,06 dtk | 117 md | 208 md | 68 md | 1,09 dtk |
+| 6x | 2,03 dtk | 188 md | 381 md | 119 md | 2,04 dtk |
+
+Di HP sungguhan kedua beban itu jalan bersamaan (halaman di thread utama, mesin di worker), jadi
+perkiraan untuk HP setara 6x sekitar 2–4 detik sampai siap, belum termasuk unduhan 1,9 MB.
+**Proyeksi M6:** bukti konsep memperkirakan sekitar 89 MB teks (16 MB gzip), kira-kira 8,4 kali
+sekarang. Bila semua tetap linear: unduhan 16 MB, siap mencari sekitar 17 detik pada 6x, satu
+pencarian 1,6–3,2 detik pada 6x, dan heap sekitar 240 MB. Heap sebesar itu berisiko membuat tab
+dimatikan browser HP, dan waktu siapnya tidak bisa diterima.
+**Pilihan yang mungkin (belum dipilih):** (a) data dipecah per kategori pajak, dan hanya kategori
+yang dipilih pengguna yang dimuat; (b) indeks terbalik yang dihitung saat build, dengan teks utuh
+hanya diambil untuk potongan hasil; (c) teks dinormalkan saat build dan disimpan sebagai larik id
+token, bukan string; (d) penjelasan tidak masuk indeks bawaan; (e) teks disimpan di perangkat (M5)
+dan dibaca per bagian, bukan seluruhnya ke memori. Pilihan (b) dan (e) tetap memenuhi "tanpa
+permintaan jaringan saat mencari" karena bacaan dari penyimpanan perangkat bukan permintaan jaringan.
+**Akibat:** tidak ada yang dirombak sekarang. Keputusan diambil paling lambat sebelum M6.

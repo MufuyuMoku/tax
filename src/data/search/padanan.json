@@ -1,0 +1,87 @@
+{
+  "keterangan": "Padanan kata: kata awam dan istilah peraturan yang dianggap sama saat mencari, tetapi kecocokan lewat padanan berbobot lebih rendah daripada kata yang diketik. Berbeda dari istilah.json (singkatan), yang berbobot penuh. Setiap kelompok harus lolos set evaluasi tests/search/kasus.json tanpa membuat pertanyaan lain memburuk. Lihat README.md di folder ini dan K-030.",
+  "bobot": 0.6,
+  "kelompok": [
+    {
+      "bentuk": [
+        "karyawan",
+        "pegawai"
+      ],
+      "bukti": "karyawan 82 kali (26 dokumen); pegawai 1.190 kali (133 dokumen)",
+      "catatan": "menolong 'karyawan dapat bonus tahunan' (16 ke 4) dan 'potongan pajak gaji bulanan karyawan' (11 ke 7); 'THR karyawan kena pajak tidak' turun dari 1 ke 6 dibanding tanpa padanan, tetap jauh di atas garis dasar 84"
+    },
+    {
+      "bentuk": [
+        "omzet",
+        "peredaran bruto"
+      ],
+      "bukti": "omzet 0 kali; peredaran bruto 412 kali (52 dokumen)"
+    },
+    {
+      "bentuk": [
+        "kontraktor",
+        "jasa konstruksi"
+      ],
+      "bukti": "kontraktor 490 kali (40 dokumen, sebagian besar kontraktor migas); jasa konstruksi 139 kali (37 dokumen)"
+    },
+    {
+      "bentuk": [
+        "online",
+        "daring",
+        "sistem elektronik"
+      ],
+      "bukti": "online 55 kali; daring 57 kali; sistem elektronik 256 kali (41 dokumen)"
+    },
+    {
+      "bentuk": [
+        "marketplace",
+        "lokapasar",
+        "perdagangan melalui sistem elektronik"
+      ],
+      "bukti": "marketplace 64 kali (6 dokumen); lokapasar 1 kali"
+    },
+    {
+      "bentuk": [
+        "kasih",
+        "hibah"
+      ],
+      "bukti": "kasih 0 kali; hibah 260 kali (45 dokumen)"
+    },
+    {
+      "bentuk": [
+        "kantor",
+        "pemberi kerja"
+      ],
+      "bukti": "kantor 2.342 kali (301 dokumen, sebagian besar Kantor Pelayanan Pajak); pemberi kerja 623 kali (72 dokumen)"
+    },
+    {
+      "bentuk": [
+        "buruh harian lepas",
+        "pekerja harian lepas",
+        "pegawai tidak tetap"
+      ],
+      "bukti": "buruh 43 kali (4 dokumen); pegawai tidak tetap 122 kali (27 dokumen)"
+    },
+    {
+      "bentuk": [
+        "menikah",
+        "kawin"
+      ],
+      "bukti": "menikah 11 kali (5 dokumen); kawin 131 kali (27 dokumen)"
+    },
+    {
+      "bentuk": [
+        "tidak kena pajak",
+        "penghasilan tidak kena pajak"
+      ],
+      "bukti": "tidak kena pajak 224 kali; penghasilan tidak kena pajak 219 kali (61 dokumen)"
+    },
+    {
+      "bentuk": [
+        "orang asing",
+        "warga negara asing"
+      ],
+      "bukti": "orang asing 54 kali (10 dokumen); warga negara asing 80 kali (26 dokumen)"
+    }
+  ]
+}

@@ -24,6 +24,26 @@ dokumen yang memuat bentuk mana pun.
 - Padanan kata biasa (misalnya "karyawan" dan "pegawai") juga bisa ditulis di sini, tetapi
   pertimbangkan baik-baik: padanan yang terlalu longgar membuat hasil pencarian melebar.
 
+## `padanan.json` — padanan kata awam
+
+Kata awam dan istilah peraturan yang dianggap sama, misalnya "karyawan" dan "pegawai", atau
+"omzet" dan "peredaran bruto". Bedanya dengan `istilah.json`: kecocokan lewat padanan berbobot
+lebih rendah (`bobot`, sekarang 0,6) daripada kata yang benar-benar diketik, sehingga dokumen
+yang memakai kata pengguna sendiri tetap di atas.
+
+```json
+{ "bentuk": ["omzet", "peredaran bruto"], "bukti": "omzet 0 kali; peredaran bruto 412 kali" }
+```
+
+Aturan menambah kelompok (K-030):
+
+1. Hitung kemunculan tiap bentuk di korpus: `node scripts/search-count.mjs omzet "peredaran bruto"`.
+   Tulis hasilnya di `bukti`.
+2. Jalankan `node scripts/search-eval.mjs --compare` untuk melihat peringkat set evaluasi
+   (`tests/search/kasus.json`) sebelum dan sesudah.
+3. Kelompok hanya dimasukkan bila menolong dan tidak membuat pertanyaan lain memburuk.
+   `npm test` gagal bila ada pertanyaan yang lebih buruk dari garis dasar.
+
 ## `kata-umum.json` — kata yang diabaikan
 
 Kata yang terlalu umum untuk menentukan hasil ("yang", "dan", "untuk"). Diabaikan bila diketik

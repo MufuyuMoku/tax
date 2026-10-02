@@ -60,6 +60,11 @@
     ["Perpres", "Peraturan Presiden"],
     ["Perdirjen", "Peraturan Direktur Jenderal Pajak"],
     ["SE", "Surat Edaran"],
-    ["PPh Final", "Pajak Penghasilan yang bersifat final", "Pajak Penghasilan final"]
+    ["PPh Final", "Pajak Penghasilan yang bersifat final", "Pajak Penghasilan final"],
+    ["THR", "Tunjangan Hari Raya"],
+    ["PHK", "Pemutusan Hubungan Kerja"],
+    ["JHT", "Jaminan Hari Tua"],
+    ["WNA", "Warga Negara Asing"],
+    ["WNI", "Warga Negara Indonesia"]
   ]
 }

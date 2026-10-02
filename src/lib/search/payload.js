@@ -17,6 +17,16 @@ function unitLabel(unit) {
   return unit.section === "penjelasan" ? `Penjelasan ${base}` : base;
 }
 
+/** padanan.json, optionally narrowed for evaluation by SEARCH_PADANAN (JSON list of group indexes). */
+function synonymsFrom(data) {
+  let groups = data.kelompok.map((g) => g.bentuk);
+  if (process.env.SEARCH_PADANAN) {
+    const keep = JSON.parse(process.env.SEARCH_PADANAN);
+    groups = groups.filter((_, i) => keep.includes(i));
+  }
+  return { weight: data.bobot, groups };
+}
+
 export function buildSearchPayload() {
   const index = loadIndex();
   const position = new Map(index.map((entry, i) => [entry.id, i]));
@@ -64,6 +74,7 @@ export function buildSearchPayload() {
       texts,
       ocr: ocr.map,
       terms: readData("istilah.json").kelompok,
+      synonyms: synonymsFrom(readData("padanan.json")),
       stopwords: readData("kata-umum.json").kata,
     },
     ocrGenerated: ocr.generated,
