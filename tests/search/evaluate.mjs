@@ -7,15 +7,15 @@ import { loadDocument, loadPasal } from "../../src/lib/corpus.js";
 
 const flat = (s) => String(s).replace(/\s+/g, " ").trim();
 
-export function loadCases() {
-  return JSON.parse(fs.readFileSync(path.join("tests", "search", "kasus.json"), "utf8")).kasus;
+export function loadCases(name = "kasus.json") {
+  return JSON.parse(fs.readFileSync(path.join("tests", "search", name), "utf8")).kasus;
 }
 
 /** Every quote must be found, word for word, in the pasal or title it names. */
 export function verifyQuotes(cases) {
   const problems = [];
   for (const c of cases) {
-    for (const answer of c.jawaban) {
+    for (const answer of c.jawaban || []) {
       const quote = flat(answer.kutipan);
       if (answer.pasal) {
         const text = flat(loadPasal(answer.pasal).text);

@@ -125,7 +125,7 @@ function phraseTokens(text, ocr) {
  * Compile istilah.json into patterns: each form becomes a token array where "{n}"/"{m}" are slots
  * for a number. Longer forms are tried first so "PPh 21" wins over "PPh".
  */
-export function compileTerms(groups, ocr) {
+export function compileTerms(groups, ocr, scopes = null) {
   const patterns = [];
   groups.forEach((forms, group) => {
     for (const form of forms) {
@@ -136,7 +136,7 @@ export function compileTerms(groups, ocr) {
     }
   });
   patterns.sort((a, b) => b.tokens.length - a.tokens.length);
-  return { patterns, groups: groups.map((forms) => forms.slice()) };
+  return { patterns, groups: groups.map((forms) => forms.slice()), scopes };
 }
 
 const SLOT_VALUE = /^\d+[a-z]?$/;
@@ -199,6 +199,8 @@ export function parseQuery(query, { terms, synonyms = null, synonymWeight = 1, s
       const typed = tokens.slice(at, at + found.pattern.tokens.length).join(" ");
       const alternatives = [];
       const weights = [];
+      const scopes = [];
+      const scope = found.kind === "padanan" && found.compiled.scopes ? found.compiled.scopes[found.pattern.group] : null;
       const seen = new Set();
       for (const form of forms) {
         const alt = phraseTokens(fill(form), ocr);
@@ -208,12 +210,15 @@ export function parseQuery(query, { terms, synonyms = null, synonymWeight = 1, s
           alternatives.push(alt);
           // A padanan counts for less than the word the user actually typed.
           weights.push(found.kind === "padanan" && key !== typed ? synonymWeight : 1);
+          // The typed form is searched everywhere; a scoped padanan only where its group allows.
+          scopes.push(key !== typed ? scope : null);
         }
       }
       concepts.push({
         label: typed,
         alternatives,
         weights,
+        scopes,
         kind: found.kind,
         stop: false,
         forms: forms.map(fill),

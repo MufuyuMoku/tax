@@ -29,3 +29,12 @@ test("no case question ranks worse than the baseline", () => {
   }
   assert.deepEqual(worse, []);
 });
+
+test("the holdout set has its 10 questions and every quote is in the corpus", () => {
+  // Ranks on this set are reported by scripts/search-tahan.mjs, never gated: padanan and the
+  // engine are frozen against it, so a test that pushes them to fit it would defeat its purpose.
+  const holdout = loadCases("kasus-tahan.json");
+  assert.equal(holdout.length, 10);
+  for (const c of holdout) assert.ok(["a", "b", "c"].includes(c.golongan), c.id);
+  assert.deepEqual(verifyQuotes(holdout), []);
+});

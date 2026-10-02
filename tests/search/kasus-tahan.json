@@ -1,0 +1,94 @@
+{
+  "keterangan": "Set uji tahan: 10 pertanyaan yang ditulis pemilik proyek, dipakai apa adanya. padanan.json dan mesin dibekukan terhadap set ini: hasilnya tidak boleh dipakai untuk menyetel padanan atau peringkat. Golongan: (a) jawabannya ada di korpus PPh sekarang; (b) ada dasar peraturannya tetapi di luar korpus v1; (c) bukan wilayah situs ini. Tidak satu pun jawaban sudah diverifikasi ahli pajak.",
+  "kasus": [
+    {
+      "id": "npwp-belum-bekerja",
+      "pertanyaan": "Bagaimana cara daftar NPWP online untuk orang yang belum bekerja?",
+      "golongan": "a",
+      "jawaban": [
+        { "dokumen": "pmk-147-2017", "pasal": "pmk-147-2017--b002-3",
+          "kutipan": "Orang pribadi yang belum memenuhi persyaratan subjektif atau objektif dapat mendaftarkan diri pada KPP atau KP2KP yang wilayah kerjanya meliputi tempat tinggal Wajib Pajak." },
+        { "dokumen": "pmk-147-2017", "pasal": "pmk-147-2017--b004-5",
+          "kutipan": "Pendaftaran sebagaimana dimaksud dalam Pasal 3 dilakukan dengan mengajukan permohonan secara elektronik atau tertulis." }
+      ],
+      "catatan": "Langkah di aplikasinya sendiri tidak ada di peraturan. Ketentuan pendaftaran yang lebih baru di kategori KUP berada di luar korpus v1."
+    },
+    {
+      "id": "spt-1770ss-online",
+      "pertanyaan": "Langkah-langkah lapor SPT Tahunan Pribadi 1770 SS melalui DJP Online",
+      "golongan": "a",
+      "jawaban": [
+        { "dokumen": "per-djp-34-2010", "pasal": "per-djp-34-2010--b002-3",
+          "kutipan": "Bentuk Formulir SPT Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Sangat Sederhana (Formulir 1770 SS)" },
+        { "dokumen": "per-djp-2-2019", "pasal": "per-djp-2-2019--b005-6",
+          "kutipan": "Penyampaian SPT oleh Wajib Pajak sebagaimana dimaksud dalam Pasal 3 ayat (1) dapat dilakukan melalui: a. e-Filing" }
+      ],
+      "catatan": "Dasar formulir dan saluran e-Filing ada di korpus; langkah-langkah di DJP Online adalah panduan aplikasi, bukan isi peraturan (sebagian golongan c)."
+    },
+    {
+      "id": "efin-hilang",
+      "pertanyaan": "Apa itu EFIN pajak dan bagaimana cara mengurus EFIN yang hilang atau lupa?",
+      "golongan": "a",
+      "jawaban": [
+        { "dokumen": "per-djp-6-2019", "pasal": "per-djp-6-2019--b001-4",
+          "kutipan": "Dalam hal Wajib Pajak lupa EFIN, Wajib Pajak dapat memperoleh EFIN dengan cara:" }
+      ]
+    },
+    {
+      "id": "pph21-ter",
+      "pertanyaan": "Cara menghitung potongan Pajak Penghasilan (PPh 21) karyawan sesuai tarif TER terbaru",
+      "golongan": "a",
+      "jawaban": [
+        { "dokumen": "pp-58-2023", "pasal": "pp-58-2023--b001-2",
+          "kutipan": "Tarif efektif pemotongan Pajak Penghasilan Pasal 21 sebagaimana dimaksud pada ayat (1) huruf b terdiri atas: a. tarif efektif bulanan; atau b. tarif efektif harian." },
+        { "dokumen": "pmk-168-2023", "pasal": "pmk-168-2023--b012-13",
+          "kutipan": "Tarif pemotongan Pajak Penghasilan Pasal 21 terdiri atas: a. tarif efektif pemotongan Pajak Penghasilan Pasal 21; dan b. tarif berdasarkan Pasal 17 ayat (1) huruf a UndangUndang Pajak Penghasilan." }
+      ],
+      "catatan": "\"TER\" adalah singkatan lisan untuk tarif efektif rata-rata; peraturannya menulis \"tarif efektif\"."
+    },
+    {
+      "id": "batas-waktu-spt",
+      "pertanyaan": "Kapan batas waktu maksimal pelaporan SPT Tahunan untuk orang pribadi dan badan?",
+      "golongan": "a",
+      "jawaban": [
+        { "dokumen": "per-djp-11-2025", "pasal": "per-djp-11-2025--b096-96",
+          "kutipan": "Batas waktu penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan sebagai berikut: a. untuk Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak orang pribadi, paling lama 3 (tiga) bulan setelah akhir Tahun Pajak" }
+      ],
+      "catatan": "Ketentuan asalnya UU KUP Pasal 3 ayat (3), di luar korpus v1. PER-DJP 11/2025 berstatus tidak pasti di situs ini."
+    },
+    {
+      "id": "pkb-online",
+      "pertanyaan": "Cara cek dan bayar pajak kendaraan bermotor (motor/mobil) secara online",
+      "golongan": "c",
+      "dasar_di_luar_situs": "Pajak kendaraan bermotor adalah pajak daerah provinsi (UU 1/2022 tentang Hubungan Keuangan Pusat dan Daerah dan peraturan daerah); pembayarannya lewat layanan pemerintah daerah."
+    },
+    {
+      "id": "denda-telat-spt",
+      "pertanyaan": "Berapa rincian denda jika telat atau tidak melaporkan SPT Tahunan?",
+      "golongan": "b",
+      "dasar_di_luar_situs": "UU KUP Pasal 7 ayat (1) (sanksi denda keterlambatan SPT) dan Pasal 38/39 untuk tidak menyampaikan SPT; kategori KUP, di luar cakupan v1 (M6).",
+      "catatan": "KEP-DJP 79/2025 di korpus hanya menghapus sanksi keterlambatan untuk Tahun Pajak 2024; bukan rincian dendanya."
+    },
+    {
+      "id": "pemadanan-nik",
+      "pertanyaan": "Tutorial cara melakukan pemadanan NIK menjadi NPWP melalui HP",
+      "golongan": "b",
+      "dasar_di_luar_situs": "PMK 112/PMK.03/2022 tentang NPWP bagi Wajib Pajak orang pribadi (NIK sebagai NPWP), kategori KUP, di luar cakupan v1. Langkah di HP adalah panduan aplikasi (golongan c)."
+    },
+    {
+      "id": "umkm-500-juta",
+      "pertanyaan": "Bagaimana ketentuan bebas pajak untuk UMKM dengan omzet di bawah Rp500 juta setahun?",
+      "golongan": "a",
+      "jawaban": [
+        { "dokumen": "pp-55-2022", "pasal": "pp-55-2022--b059-60",
+          "kutipan": "atas bagian peredaran bruto dari usaha sampai dengan Rp500.000.000,00 (lima ratus juta rupiah) dalam 1 (satu) Tahun Pajak tidak dikenai Pajak Penghasilan." }
+      ]
+    },
+    {
+      "id": "pbb-mbanking",
+      "pertanyaan": "Cara cek tagihan dan bayar Pajak Bumi dan Bangunan (PBB) lewat m-banking atau e-wallet",
+      "golongan": "c",
+      "dasar_di_luar_situs": "PBB perdesaan dan perkotaan (PBB-P2) adalah pajak daerah kabupaten/kota; tagihan dan pembayarannya lewat pemerintah daerah. PBB sektor perkebunan, perhutanan, pertambangan (P5L) memang pajak pusat, tetapi kategori PBB, bukan PPh."
+    }
+  ]
+}

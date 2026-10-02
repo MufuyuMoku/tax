@@ -2,7 +2,8 @@
 //
 // With an empty query the filters act on the full list that is already on the page. With a query
 // the list is replaced by ranked results from the worker. The query and filters live in the URL
-// (?q=...&jenis=...), so a search can be bookmarked or sent to a colleague.
+// fragment (#q=...&jenis=...), so a search can be bookmarked or sent to a colleague without the
+// query ever reaching a server.
 import { statusLabel, typeLabel } from "../labels.js";
 
 const PAGE = 30;
@@ -74,18 +75,24 @@ export function startSearch({ base }) {
     };
   }
 
+  // The search lives in the fragment (#q=...), which browsers never send to the server: a reload
+  // or a shared link does not put the query in any request or server log (K-028).
   function writeUrl() {
     const params = new URLSearchParams();
     if (input.value.trim()) params.set("q", input.value.trim());
     for (const [name, select] of Object.entries(selects)) if (select.value) params.set(name, select.value);
-    const query = params.toString();
-    history.replaceState(null, "", query ? `?${query}` : location.pathname);
+    const state = params.toString();
+    history.replaceState(null, "", location.pathname + (state ? `#${state}` : ""));
   }
 
   function readUrl() {
-    const params = new URLSearchParams(location.search);
+    // Links from before K-028 carry the search in ?q=...; read them once, then move it to the
+    // fragment so the next reload no longer sends it.
+    const legacy = new URLSearchParams(location.search);
+    const params = legacy.toString() ? legacy : new URLSearchParams(location.hash.slice(1));
     input.value = params.get("q") || "";
     for (const [name, select] of Object.entries(selects)) select.value = params.get(name) || "";
+    if (legacy.toString()) writeUrl();
   }
 
   /** Empty query: show the full list, hiding cards the filters exclude. No worker needed. */
@@ -263,6 +270,12 @@ export function startSearch({ base }) {
   form.addEventListener("submit", (event) => {
     event.preventDefault();
     clearTimeout(timer);
+    run();
+  });
+
+  // A #q= link opened while the page is already showing (replaceState does not fire this).
+  window.addEventListener("hashchange", () => {
+    readUrl();
     run();
   });
 

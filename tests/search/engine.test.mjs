@@ -98,3 +98,18 @@ test("a word found as typed outranks the same word found only through a padanan"
   assert.deepEqual(synonymEngine.page(0, 2).map((r) => r.id), ["typed", "padanan"]);
   assert.deepEqual(synonymEngine.search("pegawai bonus") && synonymEngine.page(0, 2).map((r) => r.id), ["padanan", "typed"]);
 });
+
+test("a title-only padanan reaches titles of documents without text, never pasal text", () => {
+  const scoped = new SearchEngine({
+    ...payload,
+    docs: [
+      doc("tanpa-teks", { title: "Pengalihan Hak atas Tanah", hasText: false, pasal: 0 }),
+      doc("berteks", { title: "Lain" }),
+    ],
+    units: [{ id: "berteks--b000-1", doc: 1, label: "Pasal 1", section: "b" }],
+    texts: ["Pasal 1\nPengalihan hak atas tanah dikenai pajak."],
+    synonyms: { weight: 0.6, groups: [["jual", "pengalihan hak atas tanah"]], scopes: ["judul_tanpa_teks"] },
+  });
+  scoped.search("jual");
+  assert.deepEqual(scoped.page(0, 5).map((r) => r.id), ["tanpa-teks"]);
+});

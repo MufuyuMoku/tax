@@ -58,7 +58,7 @@ function concatenate(texts, ocr) {
  * Weighted term frequency of one alternative in every segment of `field`. Single long words also
  * match as prefix (0.7) or inside a word (0.5); everything else must match whole tokens.
  */
-function countInto(field, alternative, tf, positions = null, factor = 1, typedHits = null) {
+function countInto(field, alternative, tf, positions = null, factor = 1, typedHits = null, allow = null) {
   const single = alternative.length === 1 && alternative[0].length >= MIN_INFIX && !isNumeric(alternative[0]);
   const needle = single ? alternative[0] : " " + alternative.join(" ") + " ";
   const text = field.text;
@@ -66,6 +66,7 @@ function countInto(field, alternative, tf, positions = null, factor = 1, typedHi
   let segment = 0;
   for (let at = text.indexOf(needle); at !== -1; at = text.indexOf(needle, at + 1)) {
     while (starts[segment + 1] <= at) segment++;
+    if (allow && !allow[segment]) continue;
     let weight = 1;
     if (single) {
       const before = text.charCodeAt(at - 1) === 32;
@@ -107,7 +108,12 @@ export class SearchEngine {
     this.stopwords = payload.stopwords;
     this.terms = compileTerms(payload.terms, this.ocr);
     // Padanan (K-030): forms that count as the typed word, at a lower weight.
-    this.synonyms = compileTerms(payload.synonyms ? payload.synonyms.groups : [], this.ocr);
+    this.synonyms = compileTerms(
+      payload.synonyms ? payload.synonyms.groups : [],
+      this.ocr,
+      payload.synonyms ? payload.synonyms.scopes || null : null
+    );
+    this.withoutText = Uint8Array.from(this.docs, (d) => (d.hasText ? 0 : 1));
     this.synonymWeight = payload.synonyms ? payload.synonyms.weight : 1;
     this.body = concatenate(this.texts, this.ocr);
     this.titles = concatenate(
@@ -173,6 +179,10 @@ export class SearchEngine {
       const titleTypedHits = new Uint8Array(nDocs);
       concept.alternatives.forEach((alternative, k) => {
         const factor = concept.weights ? concept.weights[k] : 1;
+        if (concept.scopes && concept.scopes[k] === "judul_tanpa_teks") {
+          countInto(this.titles, alternative, titleTf, null, factor, titleTypedHits, this.withoutText);
+          return;
+        }
         countInto(this.body, alternative, tf, found, factor, typed);
         countInto(this.titles, alternative, titleTf, null, factor, titleTypedHits);
       });

@@ -427,7 +427,8 @@ diukur; pemilik proyek yang memutuskan.
 panjang seperti "Peraturan Pemerintah" tetap dikenali sebagai istilah.
 
 ## K-028 — Saringan dan pencarian di halaman daftar, keadaannya di URL
-Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
+Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku; diperbarui 2026-10-02 (sebelum M4): keadaan
+pindah ke fragmen
 
 **Keputusan:** kotak cari dan saringan (jenis, dari tahun, sampai tahun, status) ada di halaman
 daftar, di atas segalanya. Tanpa kata kunci, saringan menyembunyikan kartu di daftar lengkap;
@@ -438,6 +439,11 @@ fragment (`#:~:text=`) supaya browser yang mendukungnya langsung menggulir ke ka
 **Alasan:** satu tempat untuk menelusuri dan mencari; URL bisa dikirim ke rekan atau disimpan.
 Tanpa JavaScript, daftar lengkap tetap tampil dan halaman menyebut bahwa pencarian butuh
 JavaScript.
+**Pembaruan (sebelum M4):** kueri dan saringan kini ditulis ke fragmen (`#q=...&jenis=...`), bukan
+ke query string. Browser tidak pernah mengirim fragmen ke server, jadi memuat ulang halaman atau
+membuka tautan tidak menaruh kueri di permintaan mana pun maupun di log server. Tautan lama
+`?q=...` tetap dibaca sekali, lalu ditulis ulang ke fragmen dengan `history.replaceState`. Membuka
+tautan `#q=` saat halaman sudah terbuka (`hashchange`) langsung menjalankan pencarian.
 
 ## K-029 — Tes pencarian memakai node:test dan dijalankan di CI sebelum build
 Tanggal: 2026-10-02 · Milestone: M3 · Status: berlaku
@@ -505,3 +511,39 @@ token, bukan string; (d) penjelasan tidak masuk indeks bawaan; (e) teks disimpan
 dan dibaca per bagian, bukan seluruhnya ke memori. Pilihan (b) dan (e) tetap memenuhi "tanpa
 permintaan jaringan saat mencari" karena bacaan dari penyimpanan perangkat bukan permintaan jaringan.
 **Akibat:** tidak ada yang dirombak sekarang. Keputusan diambil paling lambat sebelum M6.
+
+## K-032 — "Teks 2010-an 100%" hanya berlaku untuk katalog DJP; padanan khusus judul tanpa teks
+Tanggal: 2026-10-02 · Milestone: sebelum M4 · Status: berlaku
+
+**Temuan:** PP 34/2016 tidak berteks karena hanya tercatat di JDIH, dan JDIH berhenti sebelum
+teksnya diambil. Ia bukan catatan kembar: tidak ada di 2.468 baris daftar PPh DJP
+(`poc/data/djp_pph_list.jsonl`), dan tidak ada dokumen lain di korpus dengan judul yang sama.
+Angka laporan tidak keliru: tabel di `poc/LAPORAN.md` bagian 4 berjudul "Sebaran ketersediaan teks
+di DJP per dekade", jadi 0% tanpa teks itu dihitung atas dokumen katalog DJP saja. SPEC bagian 5
+meringkasnya tanpa kata "di DJP". Di korpus: dokumen 2010-an yang tercatat DJP semuanya berteks
+(239), sedangkan 38 dokumen 2010-an dan 9 dokumen 2020-an yang hanya tercatat JDIH tidak berteks.
+Selisih 239 dengan 236 di laporan berasal dari penggabungan identitas di pipa (K-013, K-014).
+**Usulan untuk pemilik (SPEC tidak diubah sendiri):** kalimat SPEC bagian 5 menjadi "untuk dokumen
+di katalog DJP, teks 2010-an dan 2020-an tersedia 100%; dokumen yang hanya tercatat di JDIH tidak
+berteks".
+**Keputusan:** `padanan.json` mendukung `"lingkup": "judul_tanpa_teks"`: bentuk lain kelompok itu
+hanya dicocokkan ke judul dokumen yang tidak berteks, tidak pernah ke teks pasal. Dua kelompok
+dimasukkan: jual ~ pengalihan hak atas tanah dan/atau bangunan, dan rumah ~ tanah dan/atau
+bangunan. Di set evaluasi, "jual rumah kena pajak berapa" naik 157 → 42; tidak ada pertanyaan lain
+yang berubah. Satu kelompok sendirian hanya 157 → 151; jual~pengalihan di mana saja (pembanding)
+justru memburuk ke 177, sesuai K-030.
+**Alasan:** dokumen tanpa teks hanya punya judul berbahasa peraturan, jadi kosakata awam tidak
+pernah bertemu dengannya. Membatasi padanan ke judul itu menolong tanpa menambah derau di teks.
+
+## K-033 — Set uji tahan dari pemilik, dibekukan terhadap penyetelan
+Tanggal: 2026-10-02 · Milestone: sebelum M4 · Status: berlaku
+
+**Keputusan:** 10 pertanyaan pemilik disimpan apa adanya di `tests/search/kasus-tahan.json`,
+masing-masing digolongkan (a) jawaban ada di korpus, (b) dasar peraturannya di luar korpus v1, atau
+(c) bukan wilayah situs. Padanan dan mesin tidak diubah karena hasil set ini. `npm test` hanya
+memeriksa bahwa kutipannya ada di korpus; peringkatnya dilaporkan `scripts/search-tahan.mjs`,
+tidak dijadikan gerbang.
+**Alasan:** set yang dipakai untuk menyetel tidak bisa lagi mengukur apakah penyetelannya umum.
+**Set evaluasi lama:** kutipan "buruh harian lepas" diganti ke PMK 168/2023 Pasal 5 (penghasilan
+Pegawai Tidak Tetap berupa upah harian) dan PP 58/2023 Pasal 2 (tarif efektif harian); "warisan"
+diterima pemilik. Tidak satu pun jawaban sudah diverifikasi ahli, dan berkasnya mengatakan begitu.

@@ -82,6 +82,24 @@
         "warga negara asing"
       ],
       "bukti": "orang asing 54 kali (10 dokumen); warga negara asing 80 kali (26 dokumen)"
+    },
+    {
+      "bentuk": [
+        "jual",
+        "pengalihan hak atas tanah dan/atau bangunan"
+      ],
+      "lingkup": "judul_tanpa_teks",
+      "bukti": "di judul 549 dokumen tanpa teks: 'pengalihan hak atas tanah dan/atau bangunan' 6, 'jual' 2",
+      "catatan": "hanya mencocokkan judul dokumen tanpa teks; di teks peraturan, jual=pengalihan merusak (K-030)"
+    },
+    {
+      "bentuk": [
+        "rumah",
+        "tanah dan/atau bangunan"
+      ],
+      "lingkup": "judul_tanpa_teks",
+      "bukti": "di judul 549 dokumen tanpa teks: 'tanah dan/atau bangunan' 12, 'rumah' 1",
+      "catatan": "bersama kelompok sebelumnya: 'jual rumah kena pajak berapa' 157 ke 42; sendirian tidak berarti"
     }
   ]
 }

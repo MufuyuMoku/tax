@@ -19,12 +19,13 @@ function unitLabel(unit) {
 
 /** padanan.json, optionally narrowed for evaluation by SEARCH_PADANAN (JSON list of group indexes). */
 function synonymsFrom(data) {
-  let groups = data.kelompok.map((g) => g.bentuk);
+  let kept = data.kelompok;
   if (process.env.SEARCH_PADANAN) {
     const keep = JSON.parse(process.env.SEARCH_PADANAN);
-    groups = groups.filter((_, i) => keep.includes(i));
+    kept = kept.filter((_, i) => keep.includes(i));
   }
-  return { weight: data.bobot, groups };
+  // `lingkup: "judul_tanpa_teks"` limits a group's other forms to titles of documents without text.
+  return { weight: data.bobot, groups: kept.map((g) => g.bentuk), scopes: kept.map((g) => g.lingkup || null) };
 }
 
 export function buildSearchPayload() {
