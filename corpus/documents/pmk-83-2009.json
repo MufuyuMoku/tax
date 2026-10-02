@@ -26,8 +26,15 @@
   "revoked_by": [
    {
     "id": "pmk-167-2018",
+    "key": [
+     "PMK",
+     "167",
+     "2018",
+     null
+    ],
     "number_as_written": "167/PMK.03/2018",
-    "quote": "Peraturan Menteri Keuangan Nomor 83/PMK.03/2009",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 83/PMK.03/2009 tentang Penyediaan Makanan dan Minuman bagi Seluruh Pegawai serta Penggantian atau Imbalan Dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu dan yang Berkaitan dengan Pelaksanaan Pekerjaan Yang Dapat Dikurangkan dari Penghasilan Bruto Pemberi Kerja, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENYEDIAAN MAKANAN DAN MINUMAN BAGI SELURUH PEGAWAI SERTA PENGGANTIAN ATAU IMBALAN DALAM BENTUK NATURA DAN KENIKMATAN DI DAERAH TERTENTU DAN YANG BERKAITAN DENGAN PELAKSANAAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEMBERI KERJA"
    }
@@ -40,7 +47,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 466/KMK.04/2000",
+    "name": "Keputusan Menteri Keuangan Nomor 466/KMK.04/2000",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 466/KMK.04/2000 tentang Penyediaan Makanan Dan Minuman Bagi Seluruh Pegawai Dan Penggantian Atau Imbalan Sehubungan Dengan Pekerjaan Atau Jasa Yang Diberikan Dalam Bentuk Natura Dan Kenikmatan Di Daerah Tertentu Serta Yang Berkaitan Dengan Pelaksanaan Pekerjaan Yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-466-kmk-04-2000"
    }

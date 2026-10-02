@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-53-2008-ralat",
+    "key": [
+     "PER-DJP",
+     "53",
+     "2008",
+     "ralat"
+    ],
     "number_as_written": "PER-53/PJ/2008",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-535/PJ./2000",
+    "quote": "Pasal 14 Pada saat Peraturan Diretur Jenderal Pajak ini mulai berlaku maka: … 2. Keputusan Direktur Jenderal Pajak Nomor KEP-535/PJ./2000 tentang Bentuk Formulir tanda Bukti Pembayaran Fiskal Luar Negeri; … 22. Ketentuan-ketentuan lain yang bertentangan dengan Peraturan ini. Dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
    }

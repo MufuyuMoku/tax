@@ -45,8 +45,15 @@
   "revoked_by": [
    {
     "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
     "number_as_written": "PER-11/PJ/2025",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2021",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 19. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2021 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan/Pemungutan Unifikasi serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }
@@ -59,7 +66,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2020",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2020",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2020 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan/Pemungutan Unifikasi serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-23-2020"
    }
@@ -80,7 +89,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-11/PJ/2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

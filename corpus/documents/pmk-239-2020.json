@@ -43,8 +43,15 @@
   "revoked_by": [
    {
     "id": "pmk-226-2021",
+    "key": [
+     "PMK",
+     "226",
+     "2021",
+     null
+    ],
     "number_as_written": "226/PMK.03/2021",
-    "quote": "Peraturan Menteri Keuangan Nomor 239/PMK.03/2020",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 239/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam Rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 1754) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 83/PMK.03/2021 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 239/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2021 Nomor 744), … tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam Rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 1754) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 83/PMK.03/2021 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 239/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2021 Nomor 744), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PEMBERIAN INSENTIF PAJAK TERHADAP BARANG YANG DIPERLUKAN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 DAN PERPANJANGAN PEMBERLAKUAN FASILITAS PAJAK PENGHASILAN BAGI SUMBER DAYA MANUSIA DI BIDANG KESEHATAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 2020 TENTANG FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)"
    }
@@ -57,7 +64,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 143/PMK.03/2020",
+    "name": "Peraturan Menteri Keuangan Nomor 143/PMK.03/2020",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 143/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 1132), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-143-2020"
    },
@@ -68,7 +77,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 29 Tahun 2020",
+    "name": "Peraturan Pemerintah Nomor 29 Tahun 2020",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 143/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 1132), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "rejected": "hierarki: PMK tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-29-2020"
@@ -103,7 +114,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 226/PMK.03/2021 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 226/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

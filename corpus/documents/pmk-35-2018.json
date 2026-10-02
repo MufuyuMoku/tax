@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-150-2018",
+    "key": [
+     "PMK",
+     "150",
+     "2018",
+     null
+    ],
     "number_as_written": "150/PMK.010/2018",
-    "quote": "Peraturan Menteri Keuangan Nomor 35/PMK.010/2018",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 35/PMK.010/2018 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan (Berita Negara Republik Indonesia Tahun 2018 Nomor 451), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
    }

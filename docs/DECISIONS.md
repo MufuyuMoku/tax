@@ -290,3 +290,53 @@ seperti kerusakan aplikasi, sedangkan menebak tahunnya melanggar prinsip yang sa
 **Alternatif yang ditolak:** menyembunyikan kedua dokumen itu dari daftar. Invarian 3 melarang
 menyembunyikan dokumen.
 **Akibat:** keduanya tetap bisa dibuka dan tetap membawa tautan ke sumbernya.
+
+## K-020 — Kutipan relasi adalah kalimat sumber, dipotong hanya di daftar panjang
+Tanggal: 2026-10-02 · Milestone: koreksi M2 · Status: berlaku
+
+**Keputusan:** kutipan relasi kini kalimat di teks peraturan yang memuat pencabutan atau
+perubahannya, bukan nama peraturan sasarannya. Kalimat pencabutan yang berupa daftar panjang
+("Pada saat ... mulai berlaku: a. ...; b. ...; dicabut dan dinyatakan tidak berlaku") dipotong
+menjadi kalimat pembuka, butir yang menyebut sasaran, dan klausa pencabutnya; bagian yang dibuang
+diganti "…" dan halaman menyebut bahwa kutipannya dipotong. Kalimat perubahan diambil dari batang
+tubuh ("Beberapa ketentuan dalam ... diubah sebagai berikut:"), tidak pernah dari konsiderans.
+Bila kalimatnya tidak ditemukan, `quote` kosong, `quote_unavailable` menyebut alasannya, dan
+halaman mengatakannya terang-terangan.
+**Alasan:** versi M2 menyimpan `match.group(0)` sebagai kutipan, yaitu nama peraturan saja. Itu
+melanggar invarian 5 secara halus: pembaca tidak bisa melihat apakah pencabutannya penuh atau
+"ketentuan Pasal 2A ..." saja. Pemeriksa invarian juga hanya memeriksa kutipan tidak kosong.
+**Alternatif yang ditolak:** (a) selalu menampilkan kalimat utuh — Pasal 146 PER-11/PJ/2025
+mencabut puluhan peraturan dalam satu kalimat, ribuan karakter per relasi; (b) memotong di jumlah
+karakter tetap — bisa membuang justru bagian "sepanjang mengatur ...".
+**Akibat:** seluruh 564 relasi terdampak. Sekarang 348 berkutipan kalimat utuh, 197 berkutipan
+potongan, 10 berkutipan kalimat perubahan yang nomor sasarannya tidak terbaca otomatis (sasarannya
+diambil dari judul, dan halaman menyebutnya), 9 tanpa kutipan dengan alasan tertulis. `checks.py`
+kini menggagalkan build bila kutipan sama dengan nama peraturan, atau kosong tanpa alasan. Kutipan
+yang benar juga memperlihatkan salah baca pipa yang dulu tersembunyi, misalnya "PP 9/2021" yang
+terbaca dicabut PP 55/2022 padahal hanya disebut sebagai pengubah PP 94/2010; itulah gunanya.
+
+## K-021 — Label peraturan ditulis "PP 55/2022", jenis DJP tanpa kode seri
+Tanggal: 2026-10-02 · Milestone: koreksi M2 · Status: berlaku
+
+**Keputusan:** label relasi, judul halaman dokumen, dan alasan status memakai bentuk pendek dari
+kunci identitas: "PP 55/2022", "PMK 168/2023", "KMK 44/KMK.04/1998", "PER-DJP 11/2025". Nomor
+seperti yang ditulis sumber tetap tampil di bawah judul ("Nomor menurut sumber: 55 TAHUN 2022").
+Bila jenisnya tidak terbaca, labelnya "Jenis tidak terbaca" disertai tulisan sumber.
+**Alasan:** "55 TAHUN 2022" tidak menyebut jenis. Untuk peraturan DJP, bentuk lazim
+"PER-11/PJ/2025" memuat kode seri (PJ, PJ.1, PJ.31) yang tidak disimpan di kunci identitas;
+menuliskannya berarti mengarang bagian nomor.
+**Alternatif yang ditolak:** menulis "PER-11/PJ/2025" untuk semua — benar untuk sebagian besar,
+salah untuk seri lama, dan tidak bisa dibedakan.
+**Akibat:** fungsi label ada dua salinan, `regulationLabel()` di `src/lib/labels.js` dan
+`short_label()` di `pipeline/build.py`, dan harus dijaga sama.
+
+## K-022 — Dokumen kembar tanpa teks menunjuk kembarannya yang berteks di bagian teks
+Tanggal: 2026-10-02 · Milestone: koreksi M2 · Status: berlaku
+
+**Keputusan:** bila sebuah dokumen tidak berteks dan salah satu anggota grup `identity_conflicts`-nya
+berteks, kotak "Teks tidak tersedia di sumber" memuat tautan ke kembaran itu beserta sumber dan
+jumlah pasalnya, plus pengingat bahwa situs ini tidak memastikan keduanya peraturan yang sama.
+**Alasan:** PP 20/2026 versi JDIH tanpa teks, sedangkan dua catatan DJP-nya berteks. Penunjuk di
+bagian atas halaman mudah terlewat oleh orang yang langsung menggulir ke batang tubuh.
+**Akibat:** berlaku untuk seluruh grup: saat ini PP 20/2026, KEP-425/PJ/2019, KEP-95/PJ/2019, dan
+KEP-8/PJ/2023 (catatan JDIH-nya tanpa teks). Grup PP/Keppres 28/1990 tidak berteks di kedua sisi.

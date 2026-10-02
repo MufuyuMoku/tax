@@ -48,8 +48,15 @@
   "amended_by": [
    {
     "id": "pmk-69-2024",
+    "key": [
+     "PMK",
+     "69",
+     "2024",
+     null
+    ],
     "number_as_written": "69 TAHUN 2024",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 130/PMK.010/2020 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan (Berita Negara Republik Indonesia Tahun 2020 Nomor 1088), diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.010/2020 TENTANG PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
    }
@@ -64,7 +71,9 @@
      "2018",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 150/PMK.010/2018",
+    "name": "Peraturan Menteri Keuangan Nomor 150/PMK.010/2018",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 150/PMK.010/2018 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan (Berita Negara Republik Indonesia Tahun 2018 Nomor 1553), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-150-2018"
    }

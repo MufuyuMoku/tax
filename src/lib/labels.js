@@ -45,6 +45,50 @@ export const TYPE_LABEL = {
   UUD: "Undang-Undang Dasar",
 };
 
+// The short names officers write: "PP 55/2022", "PMK 168/2023". DJP regulations keep the type
+// code instead of "PER-11/PJ/2025", because the series after the number ("PJ", "PJ.1", "PJ.31")
+// is not part of the identity and writing one would invent it.
+const TYPE_SHORT = {
+  UU: "UU",
+  PERPU: "Perpu",
+  PP: "PP",
+  PERPRES: "Perpres",
+  KEPPRES: "Keppres",
+  INPRES: "Inpres",
+  PMK: "PMK",
+  KMK: "KMK",
+  "PER-DJP": "PER-DJP",
+  "KEP-DJP": "KEP-DJP",
+  "INS-DJP": "INS-DJP",
+  "ND-DJP": "ND-DJP",
+  SE: "SE",
+  "PER-ESELON1": "Per. Eselon I",
+  "KEP-ESELON1": "Kep. Eselon I",
+  UUD: "UUD",
+  PERBER: "Peraturan Bersama",
+  KEPBER: "Keputusan Bersama",
+};
+
+const VARIANT_LABEL = { ralat: "ralat", konsolidasi: "naskah konsolidasi" };
+
+/**
+ * "PP 55/2022" from an identity key [code, number, year, variant]. A KMK number already carries
+ * its series ("44/KMK.04"), which gives "KMK 44/KMK.04/1998", the way it is written officially.
+ * When the identity could not be read the label says so and shows the number as the source wrote
+ * it, instead of guessing a type or year.
+ */
+export function regulationLabel(key, numberAsWritten = null) {
+  if (!key) return null;
+  const [code, number, year, variant] = Array.isArray(key) ? key : [key.code, key.number, key.year, key.variant];
+  if (code === "?" || !code) {
+    return `Jenis tidak terbaca · ditulis sumber "${(numberAsWritten || number || "").trim()}"`;
+  }
+  const type = TYPE_SHORT[code] || code;
+  const numberPart = year ? `${number}/${year}` : `${number} (tahun tidak terbaca)`;
+  const suffix = variant ? ` (${VARIANT_LABEL[variant] || variant})` : "";
+  return `${type} ${numberPart}${suffix}`;
+}
+
 export function typeLabel(code) {
   if (code === "?") return "Jenis tidak terbaca dari sumber";
   return TYPE_LABEL[code] || code;

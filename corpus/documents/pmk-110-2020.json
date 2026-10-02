@@ -35,7 +35,9 @@
      "2020",
      null
     ],
-    "quote": "PERATURAN MENTERI KEUANGAN  NOMOR 86/PMK.03/2020",
+    "name": "PERATURAN MENTERI KEUANGAN  NOMOR 86/PMK.03/2020",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 86/PMK.03/2020 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019 (Berita Negara Republik Indonesia Tahun 2020 Nomor 781) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-86-2020"
    }
@@ -43,8 +45,15 @@
   "revoked_by": [
    {
     "id": "pmk-9-2021",
+    "key": [
+     "PMK",
+     "9",
+     "2021",
+     null
+    ],
     "number_as_written": "9/PMK.03/2021",
-    "quote": "Peraturan Menteri Keuangan Nomor 110/PMK.03/2020",
+    "quote": "Pasal 21 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 86/PMK.03/2020 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019 (Berita Negara Republik Indonesia Tahun 2020 Nomor 781) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 110/PMK.03/2020 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 86/PMK.03/2020 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019 (Berita Negara Republik Indonesia Tahun 2019 Nomor 918), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019"
    }
@@ -76,7 +85,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 9/PMK.03/2021 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 9/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

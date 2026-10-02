@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-22-2010",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2010",
+     null
+    ],
     "number_as_written": "PER-22/PJ/2010",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-238/PJ./2001",
+    "quote": "Pasal 1 Keputusan Direktur Jenderal Pajak Nomor KEP-238/PJ./2001 tentang Penghapusan Piutang yang Nyata-nyata Tidak Dapat Ditagih, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-238/PJ./2001 TENTANG PENGHAPUSAN PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH"
    }

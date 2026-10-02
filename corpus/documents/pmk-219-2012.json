@@ -24,7 +24,9 @@
      "2009",
      null
     ],
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 81/PMK.03/2009",
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 81/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 81/PMK.03/2009 tentang Pembentukan atau Pemupukan Dana Cadangan yang Boleh Dikurangkan Sebagai Biaya diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-81-2009"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "pmk-74-2024",
+    "key": [
+     "PMK",
+     "74",
+     "2024",
+     null
+    ],
     "number_as_written": "74 TAHUN 2024",
-    "quote": "Peraturan Menteri Keuangan Nomor 219/PMK.011/2012",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku, ketentuan Pasal 1 huruf a dan Pasal 2 sampai dengan Pasal 11 Peraturan Menteri Keuangan Nomor 81/PMK.03/2009 tentang Pembentukan atau Pemupukan Dana Cadangan yang Boleh Dikurangkan sebagai Biaya sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 219/PMK.011/2012 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 81/PMK.03/2009 tentang Pembentukan atau Pemupukan Dana Cadangan yang Boleh Dikurangkan sebagai Biaya (Berita Negara Republik Indonesia Tahun 2012 Nomor 1307), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBENTUKAN CADANGAN PIUTANG TAK TERTAGIH YANG BOLEH DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -55,7 +64,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 74 TAHUN 2024 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 74/2024 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

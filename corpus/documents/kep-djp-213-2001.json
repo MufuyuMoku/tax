@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-51-2009",
+    "key": [
+     "PER-DJP",
+     "51",
+     "2009",
+     null
+    ],
     "number_as_written": "PER-51/PJ./2009",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-213/PJ./2001",
+    "quote": "Pasal 13 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-213/PJ./2001 tentang Perlakuan Perpajakan atas Penyediaan Makanan dan Minuman Bagi Seluruh Pegawai dan Penggantian atau Imbalan Sehubungan Dengan Pekerjaan atau Jasa yang Diberikan Dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu Serta yang Berkaitan Dengan Pelaksanaan Pekerjaan yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBERIAN DAN PENETAPAN BESARAN KUPON MAKANAN DAN/ATAU MINUMAN BAGI PEGAWAI, KRITERIA DAN TATA CARA PENETAPAN DAERAH TERTENTU DAN BATASAN MENGENAI SARANA DAN FASILITAS DI LOKASI KERJA"
    }

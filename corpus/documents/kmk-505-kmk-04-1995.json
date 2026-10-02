@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-213-2018",
+    "key": [
+     "PMK",
+     "213",
+     "2018",
+     null
+    ],
     "number_as_written": "213 /PMK.03/2018",
-    "quote": "Keputusan Menteri Keuangan Nomor 505/KMK.04/1995",
+    "quote": "… x. Keputusan Menteri Keuangan Nomor 505/KMK.04/1995 tentang Pegangan Penyusunan Norma Penghitungan Peredaran Bruto dan Norma Penghitungan Penghasilan Neto; … an. Peraturan Menteri Keuangan Nomor 124/PMK.011/2013 tentang Pengurangan Besarnya Pajak Penghasilan Pasal 25 dan Penundaan Pembayaran Pajak Penghasilan Pasal 29 Tahun 2013 bagi Wajib Pajak Industri Tertentu (Berita Negara Republik Indonesia Tahun 2013 Nomor 1066), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
    }
@@ -53,7 +60,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 213/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

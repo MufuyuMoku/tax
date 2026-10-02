@@ -356,7 +356,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 1 Tahun 2020",
+    "name": "Peraturan Pemerintah Nomor 1 Tahun 2020",
+    "quote": "Pasal 164 Pada saat Peraturan Pemerintah ini mulai berlaku: Peraturan Pemerintah Nomor 1 Tahun 2020 tentang Penyelenggaraan Kawasan Ekonomi Khusus (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 6453); dan Peraturan Pemerintah Nomor 12 Tahun 2020 tentang Fasilitas dan Kemudahan di Kawasan Ekonomi Khusus (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 6472), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-1-2020"
    },
@@ -367,7 +369,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 12 Tahun 2020",
+    "name": "Peraturan Pemerintah Nomor 12 Tahun 2020",
+    "quote": "Pasal 164 Pada saat Peraturan Pemerintah ini mulai berlaku: … Peraturan Pemerintah Nomor 12 Tahun 2020 tentang Fasilitas dan Kemudahan di Kawasan Ekonomi Khusus (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 6472), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "pp-12-2020"
    }

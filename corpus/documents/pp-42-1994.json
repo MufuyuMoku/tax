@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-132-2000",
+    "key": [
+     "PP",
+     "132",
+     "2000",
+     null
+    ],
     "number_as_written": "132 TAHUN 2000",
-    "quote": "Peraturan Pemerintah Nomor 42 Tahun 1994",
+    "quote": "Pasal 5 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 42 Tahun 1994 tentang Pajak Penghasilan atas Hadiah Undian (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 71, Tambahan Lembaran Negara Nomor 3575) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS HADIAH UNDIAN"
    }
@@ -53,7 +60,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 132 TAHUN 2000 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 132/2000 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

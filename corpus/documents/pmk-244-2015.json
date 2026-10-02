@@ -43,7 +43,9 @@
      "2011",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 16/PMK.03/2011",
+    "name": "Peraturan Menteri Keuangan Nomor 16/PMK.03/2011",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini berlaku: 1. Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak; 2. Peraturan Menteri Keuangan Nomor 185/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-16-2011"
    },
@@ -54,7 +56,9 @@
      "2015",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 185/PMK.03/2015",
+    "name": "Peraturan Menteri Keuangan Nomor 185/PMK.03/2015",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini berlaku: … 2. Peraturan Menteri Keuangan Nomor 185/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "pmk-185-2015"
    }

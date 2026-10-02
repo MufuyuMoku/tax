@@ -31,7 +31,9 @@
      "1983",
      null
     ],
-    "quote": "Undang-Undang Nomor 7 Tahun 1983",
+    "name": "Undang-Undang Nomor 7 Tahun 1983",
+    "quote": "huruf c Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 17 tahun 2000; 2. Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995 tentang Pajak Penghasilan Pasal 23 atas Persewaan Alat Angkutan Darat; 3. Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998 tentang Perlakuan Perpajakan atas Perusahaan Periklanan; 4. Keputusan Direktur Jenderal Pajak dan Surat Edaran Direktur Jenderal Pajak serta Surat Penegasan, yang bertentangan dengan Peraturan Direktur Jenderal Pajak ini; dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": false,
     "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah UU",
     "source_of_reading": "DJP",
     "target_id": "uu-7-1983"
@@ -43,7 +45,9 @@
      "2000",
      null
     ],
-    "quote": "Undang-Undang Nomor 17 tahun 2000",
+    "name": "Undang-Undang Nomor 17 tahun 2000",
+    "quote": "huruf c Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 17 tahun 2000; 2. Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995 tentang Pajak Penghasilan Pasal 23 atas Persewaan Alat Angkutan Darat; 3. Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998 tentang Perlakuan Perpajakan atas Perusahaan Periklanan; 4. Keputusan Direktur Jenderal Pajak dan Surat Edaran Direktur Jenderal Pajak serta Surat Penegasan, yang bertentangan dengan Peraturan Direktur Jenderal Pajak ini; dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": false,
     "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah UU",
     "source_of_reading": "DJP",
     "target_id": "uu-17-2000"
@@ -55,7 +59,9 @@
      "1995",
      null
     ],
-    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995",
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995",
+    "quote": "… 2. Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995 tentang Pajak Penghasilan Pasal 23 atas Persewaan Alat Angkutan Darat; 3. Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998 tentang Perlakuan Perpajakan atas Perusahaan Periklanan; 4. Keputusan Direktur Jenderal Pajak dan Surat Edaran Direktur Jenderal Pajak serta Surat Penegasan, yang bertentangan dengan Peraturan Direktur Jenderal Pajak ini; dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "se-8-1995"
    },
@@ -66,7 +72,9 @@
      "1998",
      null
     ],
-    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998",
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998",
+    "quote": "… 3. Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998 tentang Perlakuan Perpajakan atas Perusahaan Periklanan; 4. Keputusan Direktur Jenderal Pajak dan Surat Edaran Direktur Jenderal Pajak serta Surat Penegasan, yang bertentangan dengan Peraturan Direktur Jenderal Pajak ini; dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "se-10-1998"
    }

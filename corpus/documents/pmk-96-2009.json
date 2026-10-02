@@ -23,8 +23,15 @@
   "revoked_by": [
    {
     "id": "pmk-72-2023",
+    "key": [
+     "PMK",
+     "72",
+     "2023",
+     null
+    ],
     "number_as_written": "72 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 96/PMK.03/2009",
+    "quote": "Pasal 34 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 96/PMK.03/2009 tentang Jenis-jenis Harta yang Termasuk dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan (Berita Negara Republik Indonesia Tahun 2009 Nomor 105), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD"
    }
@@ -37,7 +44,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan nomor 520/KMK.04/2000",
+    "name": "Keputusan Menteri Keuangan nomor 520/KMK.04/2000",
+    "quote": "Pasal 4 Pada saat berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan nomor 520/KMK.04/2000 tentang Jenis-Jenis Harta yang Termasuk Dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor KMK.138/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-520-kmk-04-2000"
    }
@@ -58,7 +67,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 72 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 72/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

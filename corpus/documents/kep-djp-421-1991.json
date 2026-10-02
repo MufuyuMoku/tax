@@ -21,8 +21,15 @@
   "revoked_by": [
    {
     "id": "kep-djp-50-1994",
+    "key": [
+     "KEP-DJP",
+     "50",
+     "1994",
+     null
+    ],
     "number_as_written": "KEP-50/PJ./1994",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-421/PJ.43/1991",
+    "quote": "Pasal 4 Dengan berlakunya Keputusan ini, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-421/PJ.43/1991 tanggal 27 Desember 1991 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENUNJUKAN WAJIB PAJAK ORANG PRIBADI DALAM NEGERI TERTENTU SEBAGAI PEMOTONG PAJAK PENGHASILAN PASAL 23"
    }

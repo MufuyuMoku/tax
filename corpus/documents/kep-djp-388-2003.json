@@ -25,8 +25,15 @@
   "revoked_by": [
    {
     "id": "per-djp-15-2014",
+    "key": [
+     "PER-DJP",
+     "15",
+     "2014",
+     null
+    ],
     "number_as_written": "PER-15/PJ/2014",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-388/PJ/2003",
+    "quote": "Pasal 5 Pada saat peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-388/PJ/2003 tentang Penggunaan Stempel Tanda Tangan Pada Bukti Pemotongan Pajak Penghasilan Pasal 23 dan/atau Pasal 26 Atas Pembayaran Dividen Kepada Para Pemegang Saham sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-117/PJ/2004, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PAJAK PENGHASILAN ATAS PEMBAYARAN DIVIDEN KEPADA PARA PEMEGANG SAHAM"
    }

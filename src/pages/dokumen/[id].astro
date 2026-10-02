@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { loadIndex, loadDocument, loadPasal } from "../../lib/corpus.js";
-import { statusLabel, typeLabel, yearLabel, formatDate, flagNote, STRUCTURE_NOTE } from "../../lib/labels.js";
+import { statusLabel, typeLabel, yearLabel, formatDate, flagNote, regulationLabel, STRUCTURE_NOTE } from "../../lib/labels.js";
 
 export function getStaticPaths() {
   return loadIndex().map((entry) => ({ params: { id: entry.id } }));
@@ -14,7 +14,13 @@ const base = import.meta.env.BASE_URL;
 const units = doc.pasal_ids.map((pasalId) => loadPasal(pasalId));
 const body = units.filter((u) => u.section === "batang_tubuh");
 const explanation = units.filter((u) => u.section === "penjelasan");
-const number = doc.source_records.find((r) => r.number_as_written)?.number_as_written || doc.id;
+const numberAsWritten = doc.source_records.find((r) => r.number_as_written)?.number_as_written;
+const number = regulationLabel(doc.identity, numberAsWritten);
+// Documents the sources record under different types stay separate (K-014). When this record has
+// no text but a twin does, the text section says where to read it.
+const twinsWithText = doc.identity_conflicts
+  .map((c) => loadDocument(c.id))
+  .filter((twin) => twin.text.available);
 // 27% of the regulations named in these sentences sit outside the PPh corpus, so a link would
 // lead nowhere. Those are shown as plain text with a note instead of a dead link.
 const knownIds = new Set(loadIndex().map((entry) => entry.id));
@@ -31,6 +37,7 @@ const relations = [
 
   <h1>{number}</h1>
   <p class="judul-dokumen">{doc.title}</p>
+  {numberAsWritten && <p class="hint">Nomor menurut sumber: {numberAsWritten}</p>}
   <p class="kartu-tanda">
     <span class={`tanda status-${doc.status.value}`}>{statusLabel(doc.status.value, true)}</span>
     <span class="tanda netral">{typeLabel(doc.identity.code)}</span>
@@ -45,7 +52,10 @@ const relations = [
         {doc.identity_conflicts.map((c, i) => (
           <>
             {i > 0 && ", "}
-            <a href={`${base}dokumen/${c.id}/`}>{c.id}</a> ({typeLabel(c.code)})
+            <a href={`${base}dokumen/${c.id}/`}>
+              {regulationLabel([c.code, doc.identity.number, doc.identity.year, doc.identity.variant])}
+            </a>{" "}
+            ({typeLabel(c.code)})
           </>
         ))}
         , dengan nomor, tahun, dan judul yang sama tetapi jenis yang berbeda. Keduanya sengaja tidak
@@ -113,30 +123,51 @@ const relations = [
         <>
           <h3>{group.label}</h3>
           <ul class="relasi">
-            {group.items.map((item) => (
-              <li>
-                <p class="relasi-sasaran">
-                  {knownIds.has(item.target_id || item.id) ? (
-                    <a href={`${base}dokumen/${item.target_id || item.id}/`}>
-                      {item.number_as_written || (item.key ? item.key.slice(0, 3).join(" ") : item.id)}
-                    </a>
-                  ) : (
+            {group.items.map((item) => {
+              const targetId = item.target_id || item.id;
+              const label = regulationLabel(item.key);
+              return (
+                <li>
+                  <p class="relasi-sasaran">
+                    {knownIds.has(targetId) ? (
+                      <a href={`${base}dokumen/${targetId}/`}>{label}</a>
+                    ) : (
+                      <>
+                        <span>{label}</span>
+                        <span class="hint"> — di luar korpus PPh, tidak ada halamannya di sini</span>
+                      </>
+                    )}
+                    {item.title && <span class="hint"> — {item.title}</span>}
+                  </p>
+                  {item.quote ? (
                     <>
-                      <span>
-                        {item.number_as_written || (item.key ? item.key.slice(0, 3).join(" ") : item.id)}
-                      </span>
-                      <span class="hint"> — di luar korpus PPh, tidak ada halamannya di sini</span>
+                      <blockquote>“{item.quote}”</blockquote>
+                      {item.quote_excerpt && (
+                        <p class="hint">
+                          Kalimat aslinya panjang. Bagian yang tidak menyangkut peraturan ini diganti
+                          tanda “…”; kalimat utuhnya ada di teks{" "}
+                          {group.kind === "revoked_by" || group.kind === "amended_by" ? (
+                            <a href={`${base}dokumen/${item.id}/`}>{regulationLabel(item.key)}</a>
+                          ) : (
+                            "peraturan ini"
+                          )}.
+                        </p>
+                      )}
+                      {item.quote_note && <p class="hint">Catatan: {item.quote_note}.</p>}
                     </>
+                  ) : (
+                    <p class="peringatan-blok">
+                      <strong>Kalimat sumbernya tidak bisa diambil.</strong> {item.quote_unavailable}.
+                      Periksa sendiri teks peraturannya sebelum memakai relasi ini.
+                    </p>
                   )}
-                  {item.title && <span class="hint"> — {item.title}</span>}
-                </p>
-                <blockquote>“{item.quote}”</blockquote>
-                <p class="hint">
-                  dibaca dari teks {item.source_of_reading || "peraturan"}
-                  {item.rejected ? ` · diabaikan: ${item.rejected}` : ""}
-                </p>
-              </li>
-            ))}
+                  <p class="hint">
+                    dibaca dari teks {item.source_of_reading || "peraturan"}
+                    {item.rejected ? ` · diabaikan: ${item.rejected}` : ""}
+                  </p>
+                </li>
+              );
+            })}
           </ul>
         </>
       ))}
@@ -194,6 +225,19 @@ const relations = [
         <strong>Teks tidak tersedia di sumber.</strong> {doc.text.unavailable_reason}. Yang bisa
         ditampilkan hanya metadata di atas. Buka halaman sumbernya untuk memastikan sendiri.
       </p>
+      {twinsWithText.length > 0 && (
+        <p>
+          <strong>Teksnya ada pada catatan kembarannya.</strong> Peraturan dengan nomor, tahun, dan
+          judul yang sama dicatat sumber lain dengan jenis berbeda, dan catatan itu berteks:{" "}
+          {twinsWithText.map((twin, i) => (
+            <>
+              {i > 0 && ", "}
+              <a href={`${base}dokumen/${twin.id}/`}>{regulationLabel(twin.identity)}</a>
+              {` (${twin.source_records.map((r) => r.source).join(", ")}, ${twin.pasal_ids.filter((p) => p.includes("--b")).length} pasal)`}
+            </>
+          ))}. Situs ini tidak memastikan bahwa keduanya peraturan yang sama; bandingkan sendiri.
+        </p>
+      )}
     </div>
   ) : (
     <>

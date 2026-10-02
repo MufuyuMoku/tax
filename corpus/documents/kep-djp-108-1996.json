@@ -15,8 +15,15 @@
   "amended_by": [
    {
     "id": "per-djp-42-2008",
+    "key": [
+     "PER-DJP",
+     "42",
+     "2008",
+     null
+    ],
     "number_as_written": "42/PJ/2008",
-    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996",
+    "quote": "1. Mengubah Formulir Bukti Pemotongan PPh Pasal 23 kode Formulir F.1.1.33.06 sebagaimana Lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-506/PJ./2001 tentang Perubahan Atas Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996 tentang Bentuk Formulir Pemotongan/Pemungutan Pajak Penghasilan sebagaimana telah diubah dengan KEP-02/PJ.1/2000 menjadi Formulir Bukti Pemotongan PPh Pasal 23 kode formulir F.1.1.33.06 sebagaimana Lampiran I Peraturan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN"
    }
@@ -25,8 +32,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996",
+    "quote": "… u. Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996 tentang Bentuk Formulir Pemotongan/Pemungutan Pajak Penghasilan yang telah beberapa kali diubah dengan: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-02/PJ.1/2000 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996 tentang Bentuk Formulir Pemotongan/Pemungutan Pajak Penghasilan; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }

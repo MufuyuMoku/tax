@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-70-2007",
+    "key": [
+     "PER-DJP",
+     "70",
+     "2007",
+     null
+    ],
     "number_as_written": "PER-70/PJ/2007",
-    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995",
+    "quote": "… 2. Surat Edaran Direktur Jenderal Pajak Nomor SE-08/PJ.313/1995 tentang Pajak Penghasilan Pasal 23 atas Persewaan Alat Angkutan Darat; 3. Surat Edaran Direktur Jenderal Pajak Nomor SE-10/PJ.3/1998 tentang Perlakuan Perpajakan atas Perusahaan Periklanan; 4. Keputusan Direktur Jenderal Pajak dan Surat Edaran Direktur Jenderal Pajak serta Surat Penegasan, yang bertentangan dengan Peraturan Direktur Jenderal Pajak ini; dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000"
    }
@@ -54,7 +61,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-70/PJ/2007 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 70/2007 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

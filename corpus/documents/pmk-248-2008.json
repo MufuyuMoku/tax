@@ -21,8 +21,15 @@
   "revoked_by": [
    {
     "id": "pmk-72-2023",
+    "key": [
+     "PMK",
+     "72",
+     "2023",
+     null
+    ],
     "number_as_written": "72 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 248/PMK.03/2008",
+    "quote": "Pasal 34 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 248/PMK.03/2008 tentang Amortisasi atas Pengeluaran untuk Memperoleh Harta Tak Berwujud dan Pengeluaran Lainnya untuk Bidang Usaha Tertentu; … c. Peraturan Menteri Keuangan Nomor 96/PMK.03/2009 tentang Jenis-jenis Harta yang Termasuk dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan (Berita Negara Republik Indonesia Tahun 2009 Nomor 105), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD"
    }
@@ -44,7 +51,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 72 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 72/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

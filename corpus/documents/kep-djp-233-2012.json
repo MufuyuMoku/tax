@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "per-djp-12-2022",
+    "key": [
+     "PER-DJP",
+     "12",
+     "2022",
+     null
+    ],
     "number_as_written": "PER-12/PJ/2022",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-233/PJ/2012",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-233/PJ/2012 tentang Klasifikasi Lapangan Usaha Wajib Pajak sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-321/PJ/2012 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-233/PJ/2012 tentang Klasifikasi Lapangan Usaha Wajib Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK"
    }
@@ -36,7 +43,9 @@
      "2003",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-34/PJ/2003",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-34/PJ/2003",
+    "quote": "KETIGA : Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, maka Keputusan Direktur Jenderal Pajak Nomor KEP-34/PJ/2003 tanggal 14 Pebruari 2003 tentang Klasifikasi Lapangan Usaha Wajib Pajak dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-34-2003"
    }

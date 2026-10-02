@@ -20,8 +20,15 @@
   "revoked_by": [
    {
     "id": "pmk-138-2005",
+    "key": [
+     "PMK",
+     "138",
+     "2005",
+     null
+    ],
     "number_as_written": "138/PMK.03/2005",
-    "quote": "Peraturan Menteri Keuangan Nomor 10/PMK.03/2005",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 447/KMK.03/2002 tentang Bagian Penghasilan Sehubungan Dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya Yang Tidak Dikenakan Pemotongan Pajak Penghasilan sebagaimana telah diubah denganPeraturan Menteri Keuangan Nomor 10/PMK.03/2005 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENETAPAN BAGIAN PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI HARIAN DAN MINGGUAN SERTA PEGAWAI TIDAK TETAP LAINNYA YANG TIDAK DIKENAKAN PEMOTONGAN PAJAK PENGHASILAN"
    }

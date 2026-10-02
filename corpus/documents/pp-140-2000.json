@@ -30,8 +30,15 @@
   "revoked_by": [
    {
     "id": "pp-51-2008",
+    "key": [
+     "PP",
+     "51",
+     "2008",
+     null
+    ],
     "number_as_written": "51 TAHUN 2008",
-    "quote": "Peraturan Pemerintah Nomor 140 Tahun 2000",
+    "quote": "Pasal 11 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 140 Tahun 2000 tentang Pajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
    }
@@ -44,7 +51,9 @@
      "1996",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 73 Tahun 1996",
+    "name": "Peraturan Pemerintah Nomor 73 Tahun 1996",
+    "quote": "Pasal 5 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 73 Tahun 1996 tentang Pajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi dan Jasa Konsultan (Lembaran Negara Republik Indonesia Tahun 1996 Nomor 112, Tambahan Lembaran Negara Nomor 3664), dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-73-1996"
    }

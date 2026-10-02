@@ -27,8 +27,15 @@
   "revoked_by": [
    {
     "id": "pmk-52-2017",
+    "key": [
+     "PMK",
+     "52",
+     "2017",
+     null
+    ],
     "number_as_written": "52/PMK.010/2017",
-    "quote": "Peraturan Menteri Keuangan Nomor 43/PMK.03/2008",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 43/PMK.03/2008 tentang Penggunaan Nilai Buku atas Pengalihan Harta dalam rangka Penggabungan, Peleburan, atau Pemekaran Usaha (Berita Negara Republik Indonesia Tahun 2008 Nomor 30), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENGGUNAAN NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA"
    }
@@ -41,7 +48,9 @@
      "1998",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 422/KMK.04/1998",
+    "name": "Keputusan Menteri Keuangan Nomor 422/KMK.04/1998",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 422/KMK.04/1998 tentang Penggunaan Nilai Buku Atas Pengalihan Harta Dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 75/PMK.03/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-422-kmk-04-1998"
    },
@@ -52,7 +61,9 @@
      "2005",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 75/PMK.03/2005",
+    "name": "Peraturan Menteri Keuangan Nomor 75/PMK.03/2005",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 422/KMK.04/1998 tentang Penggunaan Nilai Buku Atas Pengalihan Harta Dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 75/PMK.03/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-75-2005"
    }

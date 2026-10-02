@@ -25,8 +25,15 @@
   "revoked_by": [
    {
     "id": "per-djp-4-2026",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2026",
+     null
+    ],
     "number_as_written": "PER-4/PJ/2026",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2011",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2011 tentang Pelaksanaan Pembayaran dan Pembuatan Bukti Pembayaran atas Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan Dari Penghasilan Bruto; … b. Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2025 tentang Perubahan Kelima atas Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -39,7 +46,9 @@
      "2003",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-163/PJ/2003",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-163/PJ/2003",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-163/PJ/2003 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-163-2003"
    }
@@ -60,7 +69,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-4/PJ/2026 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 4/2026 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

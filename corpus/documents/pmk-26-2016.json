@@ -24,7 +24,10 @@
      "2015",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 123 Tahun 2015",
+    "name": "Peraturan Pemerintah Nomor 123 Tahun 2015",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 51/KMK.04/2001 tentang Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
     "rejected": "hierarki: PMK tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-123-2015"
@@ -33,8 +36,15 @@
   "revoked_by": [
    {
     "id": "pmk-212-2018",
+    "key": [
+     "PMK",
+     "212",
+     "2018",
+     null
+    ],
     "number_as_written": "212/PMK.03/2018",
-    "quote": "Peraturan Menteri Keuangan Nomor 26/PMK.010/2016",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 51/KMK.04/2001 tentang Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 26/PMK.010/2016 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 51/KMK.04/2001 tentang Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
    }

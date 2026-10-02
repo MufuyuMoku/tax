@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-486-kmk-03-2003",
+    "key": [
+     "KMK",
+     "486/KMK.03",
+     "2003",
+     null
+    ],
     "number_as_written": "486/KMK.03/2003",
-    "quote": "Keputusan Menteri Keuangan Nomor 70/KMK.03/2003",
+    "quote": "Pasal 4 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 70/KMK.03/2003 tentang Pajak Penghasilan atas Penghasilan yang Diterima oleh Pekerja sampai dengan Sebesar Upah Minimum Propinsi atau Upah Minimum Kabupaten/Kota dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN YANG DITANGGUNG OLEH PEMERINTAH ATAS PENGHASILAN PEKERJA DARI PEKERJAAN"
    }

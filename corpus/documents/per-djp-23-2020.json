@@ -48,8 +48,15 @@
   "revoked_by": [
    {
     "id": "per-djp-24-2021",
+    "key": [
+     "PER-DJP",
+     "24",
+     "2021",
+     null
+    ],
     "number_as_written": "PER-24/PJ/2021",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2020",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2020 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan/Pemungutan Unifikasi serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN/PEMUNGUTAN UNIFIKASI SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN UNIFIKASI"
    }
@@ -62,7 +69,9 @@
      "2019",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2019",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2019",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2019 tentang Bentuk, Isi, Tata Cara Pengisian dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi serta Format Bukti Pemotongan/Pemungutan Unifikasi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-20-2019"
    }
@@ -95,7 +104,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-24/PJ/2021 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 24/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

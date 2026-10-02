@@ -25,8 +25,15 @@
   "revoked_by": [
    {
     "id": "pmk-213-2018",
+    "key": [
+     "PMK",
+     "213",
+     "2018",
+     null
+    ],
     "number_as_written": "213 /PMK.03/2018",
-    "quote": "Keputusan Menteri Keuangan Nomor 486/KMK.03/2003",
+    "quote": "… ag. Keputusan Menteri Keuangan Nomor 486/KMK.03/2003 tentang Pajak Penghasilan yang Ditanggung oleh Pemerintah atas Penghasilan Pekerja dari Pekerjaan; … an. Peraturan Menteri Keuangan Nomor 124/PMK.011/2013 tentang Pengurangan Besarnya Pajak Penghasilan Pasal 25 dan Penundaan Pembayaran Pajak Penghasilan Pasal 29 Tahun 2013 bagi Wajib Pajak Industri Tertentu (Berita Negara Republik Indonesia Tahun 2013 Nomor 1066), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
    }
@@ -39,7 +46,9 @@
      "2003",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 70/KMK.03/2003",
+    "name": "Keputusan Menteri Keuangan Nomor 70/KMK.03/2003",
+    "quote": "Pasal 4 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 70/KMK.03/2003 tentang Pajak Penghasilan atas Penghasilan yang Diterima oleh Pekerja sampai dengan Sebesar Upah Minimum Propinsi atau Upah Minimum Kabupaten/Kota dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-70-kmk-03-2003"
    }
@@ -74,7 +83,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 213/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

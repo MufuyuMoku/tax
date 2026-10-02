@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-254-kmk-03-2001",
+    "key": [
+     "KMK",
+     "254/KMK.03",
+     "2001",
+     null
+    ],
     "number_as_written": "254/KMK.03/2001",
-    "quote": "Keputusan Menteri Keuangan Nomor 444/KMK.04/1999",
+    "quote": "Pasal 10 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, maka Keputusan Menteri Keuangan Nomor 450/KMK.04/1997 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 444/KMK.04/1999 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
    }

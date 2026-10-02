@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-635-kmk-04-1994",
+    "key": [
+     "KMK",
+     "635/KMK.04",
+     "1994",
+     null
+    ],
     "number_as_written": "635/KMK.04/1994",
-    "quote": "Keputusan Menteri Keuangan Nomor 85/KMK.04/1994",
+    "quote": "Pasal 6 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor 85/KMK.04/1994 tanggal 22 Maret 1994 tentang Tata Cara Pembayaran, Penyetoran dan Pelaporan Pajak Penghasilan yang Diterima atau Diperoleh Wajib Pajak dan Tata Cara Penyampaian Laporan Pejabat Pembuat Akta Tanah dan Bendaharawan atau Pejabat yang Melakukan Pembayaran Sehubungan dengan Pengalihan Hak atas Tanah atau Tanah dan Bangunan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PELAKSANAAN PEMBAYARAN DAN PEMUNGUTAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    }

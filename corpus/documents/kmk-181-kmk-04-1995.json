@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-416-kmk-04-1996",
+    "key": [
+     "KMK",
+     "416/KMK.04",
+     "1996",
+     null
+    ],
     "number_as_written": "416/KMK.04/1996",
-    "quote": "Keputusan Menteri Keuangan Nomor : 181/KMK.04/1995",
+    "quote": "Pasal 4 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor : 181/KMK.04/1995 tanggal 1 Mei 1995 yang berkenaan dengan Wajib Pajak perusahaan pelayaran dalam negeri dinyatakan tidak berlaku lagi",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK PERUSAHAAN PELAYARAN DALAM NEGERI"
    }

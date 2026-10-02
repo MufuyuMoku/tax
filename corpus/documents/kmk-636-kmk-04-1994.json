@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-262-2010",
+    "key": [
+     "PMK",
+     "262",
+     "2010",
+     null
+    ],
     "number_as_written": "262/PMK.03/2010",
-    "quote": "Keputusan Menteri Keuangan Nomor 636/KMK.04/1994",
+    "quote": "Pasal 21 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 636/KMK.04/1994 tentang Pengenaan Pajak Penghasilan bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota Angkatan Bersenjata Republik Indonesia, dan para Pensiunan atas Penghasilan yang Dibebankan kepada Keuangan Negara atau Keuangan Daerah, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 BAGI PEJABAT NEGARA,PNS, ANGGOTA TNI,ANGGOTA POLRI,DAN PENSIUNANNYA ATAS PENGHASILAN YANG MENJADI BEBAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA ATAU ANGGARAN PENDAPATAN DAN BELANJA DAERAH"
    }

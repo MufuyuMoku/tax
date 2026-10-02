@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-601/PJ./2001",
+    "quote": "… 2. Keputusan Direktur Jenderal Pajak Nomor KEP-506/PJ/2001 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996 tentang Bentuk Formulir Pemotongan/Pemungutan Pajak Penghasilan sebagaimana telah diubah dengan KEP-02/PJ.1/2000 3. Keputusan Direktur Jenderal Pajak Nomor KEP-601/PJ./2001 tentang Perubahan Ketiga atas Keputusan Direktur Jenderal Pajak Nomor KEP-108/PJ.1/1996 tentang Bentuk Formulir Pemotongan/Pemungutan Pajak Penghasilan; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }

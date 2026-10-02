@@ -95,7 +95,9 @@
      "2012",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2014, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-24-2012"
    },
@@ -106,7 +108,9 @@
      "2014",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2014",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2014",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2014, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-17-2014"
    }

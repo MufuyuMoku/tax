@@ -23,8 +23,15 @@
   "revoked_by": [
    {
     "id": "per-djp-41-2013",
+    "key": [
+     "PER-DJP",
+     "41",
+     "2013",
+     null
+    ],
     "number_as_written": "PER-41/PJ/2013",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-67/PJ/2007",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-67/PJ/2007 tentang Tata Cara Pemberian Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu, dinyatakan tidak berlaku kecuali untuk usulan pemberian fasilitas Pajak Penghasilan berdasarkan Peraturan Pemerintah Nomor 1 Tahun 2007 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 62 Tahun 2008 yang telah disampaikan oleh Kepala Badan Koordinasi Penanaman Modal kepada Menteri Keuangan melalui Direktur Jenderal Pajak yang telah diproses berdasarkan Peraturan Menteri Keuangan Nomor 16/PMK.03/2007.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PENGHASILAN, PENETAPAN REALISASI PENANAMAN MODAL, PENYAMPAIAN KEWAJIBAN PELAPORAN, DAN PENCABUTAN KEPUTUSAN PERSETUJUAN PEMBERIAN FASILITAS PAJAK PENGHASILAN UNTUK WAJIB PAJAK YANG MELAKUKAN PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
    }
@@ -46,7 +53,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-41/PJ/2013 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 41/2013 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

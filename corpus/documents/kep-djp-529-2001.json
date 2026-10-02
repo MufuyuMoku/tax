@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-52-2008",
+    "key": [
+     "PER-DJP",
+     "52",
+     "2008",
+     null
+    ],
     "number_as_written": "PER-52/PJ/2008",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-529/PJ./2001",
+    "quote": "Pasal 4 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Keputusan Direktur Jenderal Pajak Nomor KEP-529/PJ./2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Rokok di Dalam Negeri dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGHASILAN PENYALUR/DISTRIBUTOR ROKOK"
    }

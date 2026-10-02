@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "per-djp-5-2014",
+    "key": [
+     "PER-DJP",
+     "5",
+     "2014",
+     null
+    ],
     "number_as_written": "PER-05/PJ/2014",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2011",
+    "quote": "Pasal 13 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2011 tentang Bentuk Dan Isi Surat Pemberitahuan Tahunan Pajak Penghasilan bagi Wajib Pajak yang Melakukan Kegiatan di Bidang Usaha Hulu Minyak dan/atau Gas Bumi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BENTUK DAN ISI SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN BAGI WAJIB PAJAK YANG MELAKUKAN KEGIATAN DI BIDANG USAHA HULU MINYAK DAN/ATAU GAS BUMI"
    }

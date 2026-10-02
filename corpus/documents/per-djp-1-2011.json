@@ -26,8 +26,15 @@
   "amended_by": [
    {
     "id": "per-djp-21-2014",
+    "key": [
+     "PER-DJP",
+     "21",
+     "2014",
+     null
+    ],
     "number_as_written": "PER-21/PJ/2014",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-1/PJ/2011",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-1/PJ/2011 tentang Tata Cara Pengajuan Permohonan Pembebasan dari Pemotongan dan/atau Pemungutan Pajak Penghasilan oleh Pihak Lain diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-1/PJ/2011 TENTANG TATA CARA PENGAJUAN PERMOHONAN PEMBEBASAN DARI PEMOTONGAN DAN/ ATAU PEMUNGUTAN PAJAK PENGHASILAN OLEH PIHAK LAIN"
    }
@@ -42,7 +49,9 @@
      "2002",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-192/PJ/2002",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-192/PJ/2002",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-192/PJ/2002 tentang Tata Cara Penerbitan Surat Keterangan Bebas (SKB) Pemotongan dan/atau Pemungutan Pajak Penghasilan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-192-2002"
    }

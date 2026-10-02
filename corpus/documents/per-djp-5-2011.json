@@ -32,8 +32,15 @@
   "revoked_by": [
    {
     "id": "per-djp-18-2013",
+    "key": [
+     "PER-DJP",
+     "18",
+     "2013",
+     null
+    ],
     "number_as_written": "PER-18/PJ/2013",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2011",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2011 tentang Tata Cara Pengajuan dan Penelitian Permohonan Pengembalian Kelebihan Pembayaran Pajak Penghasilan yang Seharusnya Tidak Terutang bagi Wajib Pajak Dalam Negeri dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-5/PJ/2011 TENTANG TATA CARA PENGAJUAN DAN PENELITIAN PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PENGHASILAN YANG  SEHARUSNYA TIDAK TERUTANG BAGI WAJIB PAJAK DALAM NEGERI"
    }

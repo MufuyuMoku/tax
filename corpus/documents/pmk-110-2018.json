@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-199-2019",
+    "key": [
+     "PMK",
+     "199",
+     "2019",
+     null
+    ],
     "number_as_written": "199/PMK.010/2019",
-    "quote": "Peraturan Menteri Keuangan Nomor 110/PMK.010/2018",
+    "quote": "huruf b angka 9 sepanjang mengenai impor barang kiriman sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 110/PMK.010/2018 tentang Perubahan 34/PMK.010/2017 Menteri Tentang Keuangan Nomor Pemungutan Pajak Atas Peraturan Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegtatan Usaha di Bidang Lain, sepanjang telah diatur dalam Peraturan Menteri ini; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN"
    }

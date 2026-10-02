@@ -37,8 +37,15 @@
   "revoked_by": [
    {
     "id": "pp-131-2000",
+    "key": [
+     "PP",
+     "131",
+     "2000",
+     null
+    ],
     "number_as_written": "131 TAHUN 2000",
-    "quote": "Peraturan Pemerintah Nomor 51 Tahun 1994",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 51 Tahun 1994 tentang Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia (Lembaran Negara Republik lndonesia Tahun 1994 Nomor 80, Tambahan Lembaran Negara Nomor 3582) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
    }
@@ -51,7 +58,9 @@
      "1991",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 74 Tahun 1991",
+    "name": "Peraturan Pemerintah Nomor 74 Tahun 1991",
+    "quote": "Pasal 7 Dengan berlakunya Peraturan Pemerintah ini maka Peraturan Pemerintah Nomor 74 Tahun 1991 Tentang Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Bank Indonesia, Sertifikat Deposito dan Tabungan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-74-1991"
    }
@@ -86,7 +95,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 131 TAHUN 2000 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 131/2000 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -27,8 +27,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2013",
+    "quote": "l. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2013 tentang Tata Cara Pelaksanaan Pengurangan Besarnya Pajak Penghasilan Pasal 25 dan Penundaan Pembayaran Pajak Penghasilan Pasal 29 Tahun 2013 bagi Wajib Pajak Industri Tertentu; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }

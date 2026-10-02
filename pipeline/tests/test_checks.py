@@ -58,6 +58,19 @@ class TestInvariants(unittest.TestCase):
         with self.assertRaises(checks.InvariantViolation):
             checks.check_documents([doc])
 
+    def test_relation_with_reason_instead_of_quote_passes(self):
+        doc = document(relations={"revokes": [], "amends": [{"key": ["PP", "55", "2022", None], "quote": None,
+                                                             "quote_unavailable": "kalimat tidak ditemukan"}],
+                                  "revoked_by": [], "amended_by": []})
+        checks.check_documents([doc])
+
+    def test_name_used_as_quote_fails(self):
+        name = "Peraturan Pemerintah Nomor 30 Tahun 2020"
+        doc = document(relations={"revokes": [{"key": ["PP", "30", "2020", None], "name": name, "quote": name}],
+                                  "amends": [], "revoked_by": [], "amended_by": []})
+        with self.assertRaises(checks.InvariantViolation):
+            checks.check_documents([doc])
+
     def test_attachment_without_match_result_fails(self):
         doc = document(attachments=[{"url": "https://example.test/x.pdf"}])
         with self.assertRaises(checks.InvariantViolation):

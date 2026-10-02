@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak NomorKEP-106/PJ.431/1991",
+    "quote": "… r. Keputusan Direktur Jenderal Pajak NomorKEP-106/PJ.431/1991 tentang Buku Petunjuk Pemotongan Penghasilan atas Pembayaran Gaji, Upah, Honorarium dan Lain-Lain Sehubungan dengan Pekerjaan atau Jasa Pribadi Tahun 1991 dan Selanjutnya (Buku Petunjuk Pemotongan PPh Pasal 21 dan Pasal 26); … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }
@@ -40,7 +47,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 30/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

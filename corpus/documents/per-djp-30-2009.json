@@ -25,8 +25,15 @@
   "revoked_by": [
    {
     "id": "per-djp-8-2023",
+    "key": [
+     "PER-DJP",
+     "8",
+     "2023",
+     null
+    ],
     "number_as_written": "PER-8/PJ/2023",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2009",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2009 tentang Tata Cara Pemberian Pengecualian dari Kewajiban Pembayaran atau Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
    }
@@ -62,7 +69,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks PER-8/PJ/2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 8/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

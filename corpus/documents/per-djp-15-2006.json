@@ -21,8 +21,15 @@
   "revoked_by": [
    {
     "id": "per-djp-31-2009",
+    "key": [
+     "PER-DJP",
+     "31",
+     "2009",
+     null
+    ],
     "number_as_written": "PER-31/PJ/2009",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ./2006",
+    "quote": "Pasal 27 Dengan berlakunya Peraturan Direktur Jenderal Pajak ini, Keputusan Direktur Jenderal Pajak Nomor KEP-545/PJ./2000 tentang Petunjuk Pelaksanaan Pemotongan, penyetoran, dan Pelaporan Pajak Penghasilan Pasal 21 dan Pasal 26 Sehubungan dengan pekerjaan, Jasa, dan Kegiatan Orang Pribadi sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ./2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
    }

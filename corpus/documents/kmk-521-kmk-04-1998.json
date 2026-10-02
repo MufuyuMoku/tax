@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-250-2008",
+    "key": [
+     "PMK",
+     "250",
+     "2008",
+     null
+    ],
     "number_as_written": "250/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 521/KMK.04/1998",
+    "quote": "Pasal 2 Pada saat berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 521/KMK.04/1998 tentang Besarnya Biaya Jabatan Atau Biaya Pensiun yang Dapat Dikurangkan Dari Penghasilan Bruto Pegawai Tetap atau Pensiunan, dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BESARNYA BIAYA JABATAN ATAU BIAYA PENSIUN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEGAWAI TETAP ATAU PENSIUNAN"
    }

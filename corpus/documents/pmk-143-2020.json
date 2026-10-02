@@ -42,8 +42,15 @@
   "revoked_by": [
    {
     "id": "pmk-239-2020",
+    "key": [
+     "PMK",
+     "239",
+     "2020",
+     null
+    ],
     "number_as_written": "239/PMK.03/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 143/PMK.03/2020",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 143/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 1132), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBERIAN FASILITAS PAJAK TERHADAP BARANG DAN JASA YANG DIPERLUKAN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 DAN PERPANJANGAN PEMBERLAKUAN FASILITAS PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 2020 TENTANG FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)"
    }
@@ -56,7 +63,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 28/PMK.03/2020",
+    "name": "Peraturan Menteri Keuangan Nomor 28/PMK.03/2020",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 28/PMK.03/2020 tentang Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (Berita Negara Republik Indonesia Tahun 2020 Nomor 335), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-28-2020"
    }

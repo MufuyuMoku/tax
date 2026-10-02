@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-187-2008",
+    "key": [
+     "PMK",
+     "187",
+     "2008",
+     null
+    ],
     "number_as_written": "187/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 559/KMK.04/2000",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 559/KMK.04/2000 tentang Pajak Penghasilan atas Penghasilan dari Usaha Jasa Konstruksi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATACARA PEMOTONGAN, PENYETORAN, PELAPORAN DAN PENATAUSAHAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
    }

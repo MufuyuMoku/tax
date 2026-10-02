@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-12-2009",
+    "key": [
+     "PER-DJP",
+     "12",
+     "2009",
+     null
+    ],
     "number_as_written": "PER-12/PJ/2009",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-519/PJ./2002",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-519/PJ./2002 tentang Tata Cara dan Prosedur Pelaksanaan Penilaian Kembali Aktiva Tetap Perusahaan Untuk Tujuan Perpajakan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENGAJUAN PERMOHONAN DAN PENGADMINISTRASIAN PENILAIAN KEMBALI AKTIVA TETAP PERUSAHAAN UNTUK TUJUAN PERPAJAKAN"
    }

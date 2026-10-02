@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-45-2008",
+    "key": [
+     "PMK",
+     "45",
+     "2008",
+     null
+    ],
     "number_as_written": "45/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 553/KMK.04/2000",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 553/KMK.04/2000 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan Neto sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 252/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO"
    }

@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "pmk-16-2010",
+    "key": [
+     "PMK",
+     "16",
+     "2010",
+     null
+    ],
     "number_as_written": "16/PMK.03/2010",
-    "quote": "Keputusan Menteri Keuangan Nomor 112/KMK.03/2001",
+    "quote": "Pasal 12 Pada saat berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 112/KMK.03/2001 Tentang Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan Berupa Uang Pesangon, Uang Tebusan Pensiun, dan Tunjangan Hari Tua atau Jaminan Hari Tua, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA, DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS"
    }
@@ -36,7 +43,9 @@
      "1998",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 462/KMK.04/1998",
+    "name": "Keputusan Menteri Keuangan Nomor 462/KMK.04/1998",
+    "quote": "Pasal 3 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 462/KMK.04/1998 dinyatakan tidak berlaku",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-462-kmk-04-1998"
    }

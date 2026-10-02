@@ -24,7 +24,9 @@
      "1998",
      null
     ],
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 422/KMK.04/1998",
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 422/KMK.04/1998",
+    "quote": "Keputusan Menteri Keuangan Nomor 422/KMK.04/1998 tentang Penggunaan Nilai Buku Atas Pengalihan Harta Dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha yang telah beberapa kali diubah dengan Keputusan Menteri Keuangan : a. Keputusan Menteri Keuangan Nomor 469/KMK.04/1998; b. Keputusan Menteri Keuangan Nomor 211/KMK.03/211, diubah sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-422-kmk-04-1998"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "pmk-43-2008",
+    "key": [
+     "PMK",
+     "43",
+     "2008",
+     null
+    ],
     "number_as_written": "43/PMK.03/2008",
-    "quote": "Peraturan Menteri Keuangan Nomor 75/PMK.03/2005",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 422/KMK.04/1998 tentang Penggunaan Nilai Buku Atas Pengalihan Harta Dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 75/PMK.03/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, ATAU PEMEKARAN USAHA"
    }

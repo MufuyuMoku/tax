@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-649/PJ./2001",
+    "quote": "… aa. Keputusan Direktur Jenderal Pajak Nomor KEP-350/PJ./2001 tentang Perlakuan Perpajakan atas Uang Pesangon yang Dialihkan Kepada Pengelola Dana Pesangon Tenaga Kerja sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-649/PJ./2001 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-350/PJ./2001 tentang Perlakuan Perpajakan atas Uang Pesangon yang Dialihkan Kepada Pengelola Dana Pesangon Tenaga Kerja; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }
@@ -40,7 +47,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 30/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

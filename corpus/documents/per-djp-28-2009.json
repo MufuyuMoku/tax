@@ -28,7 +28,10 @@
      "1994",
      null
     ],
-    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "name": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
     "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-48-1994"
@@ -37,8 +40,15 @@
   "revoked_by": [
    {
     "id": "per-djp-8-2023",
+    "key": [
+     "PER-DJP",
+     "8",
+     "2023",
+     null
+    ],
     "number_as_written": "PER-8/PJ/2023",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2009",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2009 tentang Pelaksanaan Ketentuan Peralihan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan; dan b. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2009 tentang Tata Cara Pemberian Pengecualian dari Kewajiban Pembayaran atau Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
    }
@@ -72,7 +82,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-8/PJ/2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 8/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

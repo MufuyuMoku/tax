@@ -42,22 +42,43 @@
   "amended_by": [
    {
     "id": "pp-27-1996",
+    "key": [
+     "PP",
+     "27",
+     "1996",
+     null
+    ],
     "number_as_written": "27 TAHUN 1996",
-    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "quote": "Mengubah beberapa ketentuan dan menambah satu ketentuan baru dalam Peraturan Pemerintah Nomor 48 Tahun 1994, sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    },
    {
     "id": "pp-71-2008",
+    "key": [
+     "PP",
+     "71",
+     "2008",
+     null
+    ],
     "number_as_written": "71 TAHUN 2008",
-    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 3580) sebagaimana telah beberapa kali diubah dengan Peraturan Pemerintah: Nomor 27 Tahun 1996 tentang Perubahan Atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayar … unan (Lembaran Negara Republik Indonesia Tahun 1996 Nomor 44, Tambahan Lembaran Negara Republik Indonesia Nomor 3634); Nomor 79 Tahun 1999 tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan Atas Penghasilan Dari Pengalihan Hak Atas Tanah Dan/Atau Bangunan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 170, Tambahan Lembaran Negara Republik Indonesia Nomor 3891); diubah sebagai berikut:",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    },
    {
     "id": "pp-79-1999",
+    "key": [
+     "PP",
+     "79",
+     "1999",
+     null
+    ],
     "number_as_written": "79 TAHUN 1999",
-    "quote": "PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 27 Tahun 1996, diubah sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    }
@@ -72,7 +93,9 @@
      "1994",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 3 Tahun 1994",
+    "name": "Peraturan Pemerintah Nomor 3 Tahun 1994",
+    "quote": "Pasal 12 Dengan berlakunya Peraturan Pemerintah ini maka Peraturan Pemerintah Nomor 3 Tahun 1994 tentang Pembayaran Pajak Penghasilan Dalam Tahun Berjalan Atas Penghasilan Dari Pengalihan Hak Atas Tanah atau Tanah dan Bangunan, dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-3-1994"
    }

@@ -34,15 +34,29 @@
   "amended_by": [
    {
     "id": "pp-52-2011",
+    "key": [
+     "PP",
+     "52",
+     "2011",
+     null
+    ],
     "number_as_written": "52 TAHUN 2011",
-    "quote": "PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4675), sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 62 Tahun 2008 tentang Perubahan atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 4892), diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAHDAERAH TERTENTU"
    },
    {
     "id": "pp-62-2008",
+    "key": [
+     "PP",
+     "62",
+     "2008",
+     null
+    ],
     "number_as_written": "62 TAHUN 2008",
-    "quote": "PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4675) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 1 TAHUN 2007 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
    }
@@ -51,8 +65,15 @@
   "revoked_by": [
    {
     "id": "pp-18-2015",
+    "key": [
+     "PP",
+     "18",
+     "2015",
+     null
+    ],
     "number_as_written": "18 TAHUN 2015",
-    "quote": "Peraturan Pemerintah Nomor 1 Tahun 2007",
+    "quote": "Pasal 12 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik lndonesia Tahun 2007 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4675) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 52 Tahun 2011 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik lndonesia Tahun 2011 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5264), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
    }
@@ -65,7 +86,9 @@
      "2000",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 148 Tahun 2000",
+    "name": "Peraturan Pemerintah Nomor 148 Tahun 2000",
+    "quote": "Pasal 8 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 148 Tahun 2000 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan atau Di Daerah-Daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 265 Tambahan Lembaran Negara Republik Indonesia Nomor 4066), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-148-2000"
    }
@@ -99,7 +122,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 18 TAHUN 2015 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 18/2015 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -46,8 +46,15 @@
   "revoked_by": [
    {
     "id": "pmk-22-2020",
+    "key": [
+     "PMK",
+     "22",
+     "2020",
+     null
+    ],
     "number_as_written": "22/PMK.03/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 7/PMK.03/2015",
+    "quote": "Pasal 26 Pada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 7/PMK.03/2015 tentang Tata Cara Pembentukan dan Pelaksanaan Kesepakatan Harga Transfer ( Advance Pricing Agreement ) (Berita Negara Republik Indonesia Tahun 2015 Nomor 39) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PELAKSANAAN KESEPAKATAN HARGA TRANSFER (ADVANCE PRICING AGREEMENT)"
    }

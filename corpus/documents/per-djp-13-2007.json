@@ -25,7 +25,10 @@
      "2000",
      null
     ],
-    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-407/PJ/2000",
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-407/PJ/2000",
+    "quote": "Mengubah ketentuan Pasal 1 ayat (3), sehingga keseluruhan Pasal 1 berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
     "source_of_reading": "DJP",
     "target_id": "kep-djp-407-2000"
    }
@@ -33,8 +36,15 @@
   "revoked_by": [
    {
     "id": "per-djp-53-2008-ralat",
+    "key": [
+     "PER-DJP",
+     "53",
+     "2008",
+     "ralat"
+    ],
     "number_as_written": "PER-53/PJ/2008",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2007",
+    "quote": "Pasal 14 Pada saat Peraturan Diretur Jenderal Pajak ini mulai berlaku maka: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-407/PJ./2000 tentang Pedoman Administrasi Pelaksanaan Fiskal Luar Negeri sebagiman telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2007; … 22. Ketentuan-ketentuan lain yang bertentangan dengan Peraturan ini. Dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
    }

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-215-2008",
+    "key": [
+     "PMK",
+     "215",
+     "2008",
+     null
+    ],
     "number_as_written": "215/PMK.03/2008",
-    "quote": "Peraturan Menteri Keuangan Nomor 87/PMK.03/2007",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 87/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    }

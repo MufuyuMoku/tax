@@ -30,8 +30,15 @@
   "amended_by": [
    {
     "id": "pp-123-2015",
+    "key": [
+     "PP",
+     "123",
+     "2015",
+     null
+    ],
     "number_as_written": "123 TAHUN 2015",
-    "quote": "PERATURAN PEMERINTAH NOMOR 131 TAHUN 2000",
+    "quote": "Ketentuan Pasal 2 Peraturan Pemerintah Nomor 131 Tahun 2000 tentang Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 236, Tambahan Lembaran Negara Republik Indonesia Nomor 4039) diubah, sehingga Pasal 2 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 131 TAHUN 2000 TENTANG PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
    }
@@ -40,8 +47,15 @@
   "revoked_by": [
    {
     "id": "pp-22-2024",
+    "key": [
+     "PP",
+     "22",
+     "2024",
+     null
+    ],
     "number_as_written": "22 TAHUN 2024",
-    "quote": "Peraturan Pemerintah Nomor 131 Tahun 2000",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, ketentuan Pasal 2 Peraturan Pemerintah Nomor 131 Tahun 2000 tentang Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 236, Tambahan Lembaran Negara Republik Indonesia Nomor 4039) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 123 Tahun 2015 tentang Perubahan atas Peraturan Pemerintah Nomor 131 Tahun 2000 tentang Pajak Penghasilan Atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank lndonesia (lembaran Negara Republik Indonesia Tahun 2015 Nomor 346, Tambahan Lembaran Negara Republik Indonesia Nomor 5803), yang mengatur mengenai pengenaan Pajak Penghasilan atas bunga dari deposito yang dananya bersumber dari DHE SDA, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENEMPATAN DEVISA HASIL EKSPOR SUMBER DAYA ALAM PADA INSTRUMEN MONETER DAN/ATAU INSTRUMEN KEUANGAN TERTENTU DI INDONESIA"
    }
@@ -54,7 +68,9 @@
      "1994",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 51 Tahun 1994",
+    "name": "Peraturan Pemerintah Nomor 51 Tahun 1994",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 51 Tahun 1994 tentang Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia (Lembaran Negara Republik lndonesia Tahun 1994 Nomor 80, Tambahan Lembaran Negara Nomor 3582) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-51-1994"
    }
@@ -88,7 +104,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 22 TAHUN 2024 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 22/2024 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

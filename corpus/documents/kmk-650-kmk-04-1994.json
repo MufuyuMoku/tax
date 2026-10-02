@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-256-2008",
+    "key": [
+     "PMK",
+     "256",
+     "2008",
+     null
+    ],
     "number_as_written": "256/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 650/KMK.04/1994",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 650/KMK.04/1994 tentang Penetapan Saat Diperolehnya Dividen Atas Penyertaan Modal Pada Badan Usaha di Luar Negeri yang Sahamnya Tidak Diperdagangkan di Bursa Efek, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENETAPAN SAAT DIPEROLEHNYA DEVIDEN OLEH WAJIB PAJAK DALAM NEGERI ATAS PENYERTAAN MODAL PADA BADAN USAHA DI LUAR NEGERI SELAIN BADAN USAHA YANG MENJUAL SAHAMNYA DI BURSA EFEK"
    }

@@ -40,8 +40,15 @@
   "amended_by": [
    {
     "id": "per-djp-32-2011",
+    "key": [
+     "PER-DJP",
+     "32",
+     "2011",
+     null
+    ],
     "number_as_written": "PER-32/PJ/2011",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-43/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-43/PJ/2010 tentang Penerapan Prinsip Kewajaran dan Kelaziman Usaha Dalam Transaksi Antara Wajib Pajak Dengan Pihak Yang Mempunyai Hubungan Istimewa, diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-43/PJ/2010 TENTANG PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI ANTARA WAJIB PAJAK DENGAN PIHAK YANG MEMPUNYAI HUBUNGAN ISTIMEWA"
    }

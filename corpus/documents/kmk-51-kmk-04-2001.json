@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "pmk-212-2018",
+    "key": [
+     "PMK",
+     "212",
+     "2018",
+     null
+    ],
     "number_as_written": "212/PMK.03/2018",
-    "quote": "Keputusan Menteri Keuangan Nomor 51/KMK.04/2001",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 51/KMK.04/2001 tentang Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 26/PMK.010/2016 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 51/KMK.04/2001 tentang Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
    }
@@ -42,7 +49,9 @@
      "1994",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 652/KMK.04/1994",
+    "name": "Keputusan Menteri Keuangan Nomor 652/KMK.04/1994",
+    "quote": "Pasal 9 Dengan berlakunya Keputusan Menteri Keuangan ini maka Keputusan Menteri Keuangan Nomor 652/KMK.04/1994 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-652-kmk-04-1994"
    }

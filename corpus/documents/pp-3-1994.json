@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-48-1994",
+    "key": [
+     "PP",
+     "48",
+     "1994",
+     null
+    ],
     "number_as_written": "48 TAHUN 1994",
-    "quote": "Peraturan Pemerintah Nomor 3 Tahun 1994",
+    "quote": "Pasal 12 Dengan berlakunya Peraturan Pemerintah ini maka Peraturan Pemerintah Nomor 3 Tahun 1994 tentang Pembayaran Pajak Penghasilan Dalam Tahun Berjalan Atas Penghasilan Dari Pengalihan Hak Atas Tanah atau Tanah dan Bangunan, dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    }

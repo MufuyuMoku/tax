@@ -46,8 +46,15 @@
   "revoked_by": [
    {
     "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
     "number_as_written": "PER-11/PJ/2025",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 16. Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019 tentang Tata Cara Penyampaian, Penerimaan, dan Pengolahan Surat Pemberitahuan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }
@@ -60,7 +67,9 @@
      "2001",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-215/PJ/2001",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-215/PJ/2001",
+    "quote": "Pasal 27 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-215/PJ/2001 tentang Tata Cara Penerimaan Surat Pemberitahuan; 2. Peraturan Direktur Jenderal Nomor PER-179/PJ/2007 tentang Tempat Lain yang Dapat Digunakan Untuk Menerima Surat Pemberitahuan Direktur Jenderal Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2009; 3. Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011 tentang Tata Cara Penerimaan Surat Pemberitahuan Masa PPN sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nom or PER-21/PJ/2013; 4. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016 tentang Tata Cara Penerimaan dan Pengolahan SPTTahunan; dan 5. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017 tentang Penyampaian SPT Elektronik, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-215-2001"
    },
@@ -71,7 +80,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2009",
+    "quote": "Pasal 27 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 2. Peraturan Direktur Jenderal Nomor PER-179/PJ/2007 tentang Tempat Lain yang Dapat Digunakan Untuk Menerima Surat Pemberitahuan Direktur Jenderal Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2009; 3. Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011 tentang Tata Cara Penerimaan Surat Pemberitahuan Masa PPN sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nom or PER-21/PJ/2013; 4. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016 tentang Tata Cara Penerimaan dan Pengolahan SPTTahunan; dan 5. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017 tentang Penyampaian SPT Elektronik, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-11-2009"
    },
@@ -82,7 +93,9 @@
      "2011",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011",
+    "quote": "Pasal 27 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 3. Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011 tentang Tata Cara Penerimaan Surat Pemberitahuan Masa PPN sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nom or PER-21/PJ/2013; 4. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016 tentang Tata Cara Penerimaan dan Pengolahan SPTTahunan; dan 5. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017 tentang Penyampaian SPT Elektronik, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-2-2011"
    },
@@ -93,7 +106,9 @@
      "2016",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016",
+    "quote": "Pasal 27 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 4. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016 tentang Tata Cara Penerimaan dan Pengolahan SPTTahunan; dan 5. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017 tentang Penyampaian SPT Elektronik, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-1-2016"
    },
@@ -104,7 +119,9 @@
      "2017",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017",
+    "quote": "Pasal 27 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 5. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017 tentang Penyampaian SPT Elektronik, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-1-2017"
    }
@@ -125,7 +142,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-11/PJ/2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

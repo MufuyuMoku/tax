@@ -26,8 +26,15 @@
   "revoked_by": [
    {
     "id": "pmk-2-2010",
+    "key": [
+     "PMK",
+     "2",
+     "2010",
+     null
+    ],
     "number_as_written": "02/PMK.03/2010",
-    "quote": "Peraturan Menteri Keuangan Nomor 104/PMK.03/2009",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 104/PMK.03/2009 tentang Biaya Promosi dan Penjualan yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BIAYA PROMOSI YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }

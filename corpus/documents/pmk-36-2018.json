@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-135-2020",
+    "key": [
+     "PMK",
+     "135",
+     "2020",
+     null
+    ],
     "number_as_written": "135/PMK.010/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 36/PMK.010/2018",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 36/PMK.010/2018 tentang Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2018 (Berita Negara Republik Indonesia Tahun 2018 Nomor 470); dan d. Peraturan Menteri Keuangan Nomor 95/PMK.010/2019 tentang Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2019 (Berita Negara Republik Indonesia Tahun 2019 Nomor 681), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN DITANGGUNG PEMERINTAH ATAS PENGHASILAN DARI PENGHAPUSAN SECARA MUTLAK PIUTANG NEGARA NONPOKOK YANG DITERIMA PERUSAHAAN DAERAH AIR MINUM TERTENTU"
    }

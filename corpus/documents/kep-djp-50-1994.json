@@ -23,8 +23,15 @@
   "revoked_by": [
    {
     "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
     "number_as_written": "PER-11/PJ/2025",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1994",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 23. Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1994 tentang Penunjukan Wajib Pajak Orang Pribadi Dalam Negeri Tertentu sebagai Pemotong Pajak Penghasilan Pasal 23; 24. Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1996 tentang Penunjukan Wajib Pajak Orang Pribadi Dalam Negeri Tertentu sebagai Pemotong Pajak Penghasilan atas Penghasilan dari Persewaan Tanah dan/atau Bangunan; dan 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }
@@ -37,7 +44,9 @@
      "1991",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-421/PJ.43/1991",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-421/PJ.43/1991",
+    "quote": "Pasal 4 Dengan berlakunya Keputusan ini, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-421/PJ.43/1991 tanggal 27 Desember 1991 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-421-1991"
    }
@@ -58,7 +67,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-11/PJ/2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

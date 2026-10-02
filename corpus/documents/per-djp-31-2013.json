@@ -31,7 +31,9 @@
      "2011",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011",
+    "quote": "Pasal 6 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, a. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional; dan b. Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2012 tentang Perubahan Atas Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-30-2011"
    },
@@ -42,7 +44,9 @@
      "2012",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2012",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2012",
+    "quote": "… b. Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2012 tentang Perubahan Atas Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-9-2012"
    }

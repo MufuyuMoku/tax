@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "pp-77-2013",
+    "key": [
+     "PP",
+     "77",
+     "2013",
+     null
+    ],
     "number_as_written": "77 TAHUN 2013",
-    "quote": "Peraturan Pemerintah Nomor 81 Tahun 2007",
+    "quote": "Pasal 5 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 81 Tahun 2007 tentang Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 170, Tambahan Lembaran Negara Republik Indonesia Nomor 4798), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
    }

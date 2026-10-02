@@ -38,7 +38,9 @@
      "2008",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 246/PMK.03/2008",
+    "name": "Peraturan Menteri Keuangan Nomor 246/PMK.03/2008",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini berlaku: 1. Peraturan Menteri Keuangan Nomor 246/PMK.03/2008 tentang Beasiswa yang Dikecualikan dari Objek Pajak Penghasilan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 154/PMK.03/2009 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 246/PMK.03/2008 tentang Beasiswa yang Dikecualikan dari Objek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2009 Nomor 336); 2. Peraturan Menteri Keuangan Nomor 80/PMK.03/2009 tentang Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan dan/atau Bidang Penelitian dan Pengembangan, yang Dikecualikan dari Objek Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-246-2008"
    },
@@ -49,7 +51,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 154/PMK.03/2009",
+    "name": "Peraturan Menteri Keuangan Nomor 154/PMK.03/2009",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini berlaku: 1. Peraturan Menteri Keuangan Nomor 246/PMK.03/2008 tentang Beasiswa yang Dikecualikan dari Objek Pajak Penghasilan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 154/PMK.03/2009 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 246/PMK.03/2008 tentang Beasiswa yang Dikecualikan dari Objek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2009 Nomor 336); 2. Peraturan Menteri Keuangan Nomor 80/PMK.03/2009 tentang Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan dan/atau Bidang Penelitian dan Pengembangan, yang Dikecualikan dari Objek Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-154-2009"
    },
@@ -60,7 +64,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 80/PMK.03/2009",
+    "name": "Peraturan Menteri Keuangan Nomor 80/PMK.03/2009",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini berlaku: … 2. Peraturan Menteri Keuangan Nomor 80/PMK.03/2009 tentang Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan dan/atau Bidang Penelitian dan Pengembangan, yang Dikecualikan dari Objek Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "pmk-80-2009"
    }

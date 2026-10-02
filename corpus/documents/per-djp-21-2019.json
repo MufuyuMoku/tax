@@ -35,7 +35,10 @@
      "2017",
      null
     ],
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-18/PJ/2017",
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-18/PJ/2017",
+    "quote": "Beberapa ketentuan dalam Peraturan Dircktur Jenderal Pajak Nomor PER-18/PJ/2017 tentang Tata Cara Penelitian Bukti Pemenuhan Kewajiban Penyetoran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya sebagaimana telah diubah dengan Peraturan DirekturJenderal Pajak Nomor PER-26/PJ/2018 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
     "source_of_reading": "DJP",
     "target_id": "per-djp-18-2017"
    }
@@ -43,8 +46,15 @@
   "revoked_by": [
    {
     "id": "per-djp-8-2022",
+    "key": [
+     "PER-DJP",
+     "8",
+     "2022",
+     null
+    ],
     "number_as_written": "PER-08/PJ/2022",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2019",
+    "quote": "Pasal 14 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-18/PJ/2017 tentang Tata Cara Penelitian Bukti Pemenuhan Kewajiban Penyetoran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2019 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor PER-18/PJ/2017 tentang Tata Cara Penelitian Bukti Pemenuhan Kewajiban Penyetoran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENELITIAN BUKTI PEMENUHAN KEWAJIBAN PENYETORAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN, DAN PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA"
    }
@@ -78,7 +88,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-08/PJ/2022 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 8/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

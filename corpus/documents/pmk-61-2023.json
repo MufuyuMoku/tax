@@ -175,7 +175,9 @@
      "2002",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 85/KMK.03/2002",
+    "name": "Keputusan Menteri Keuangan Nomor 85/KMK.03/2002",
+    "quote": "Pasal 150 Pada saat Peraturan Menteri ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang dalam rangka Penagihan Pajak dengan Surat Paksa; b. Peraturan Menteri Keuangan Nomor 23/PMK.03/2006 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang dalam rangka Penagihan Pajak dengan Surat Paksa; dan c. Peraturan Menteri Keuangan Nomor 189/PMK.03/2020 tentang Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar (Berita Negara Negara Republik Indonesia Tahun 2020 Nomor 1394), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-85-kmk-03-2002"
    },
@@ -186,7 +188,9 @@
      "2006",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 23/PMK.03/2006",
+    "name": "Peraturan Menteri Keuangan Nomor 23/PMK.03/2006",
+    "quote": "Pasal 150 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 23/PMK.03/2006 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang dalam rangka Penagihan Pajak dengan Surat Paksa; dan c. Peraturan Menteri Keuangan Nomor 189/PMK.03/2020 tentang Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar (Berita Negara Negara Republik Indonesia Tahun 2020 Nomor 1394), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "pmk-23-2006"
    },
@@ -197,7 +201,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 189/PMK.03/2020",
+    "name": "Peraturan Menteri Keuangan Nomor 189/PMK.03/2020",
+    "quote": "Pasal 150 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 189/PMK.03/2020 tentang Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar (Berita Negara Negara Republik Indonesia Tahun 2020 Nomor 1394), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "pmk-189-2020"
    }

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-1-2011",
+    "key": [
+     "PER-DJP",
+     "1",
+     "2011",
+     null
+    ],
     "number_as_written": "PER-1/PJ/2011",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-192/PJ/2002",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-192/PJ/2002 tentang Tata Cara Penerbitan Surat Keterangan Bebas (SKB) Pemotongan dan/atau Pemungutan Pajak Penghasilan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENGAJUAN PERMOHONAN PEMBEBASAN DARI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN OLEH PIHAK LAIN"
    }

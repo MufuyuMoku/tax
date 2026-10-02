@@ -22,8 +22,15 @@
   "amended_by": [
    {
     "id": "per-djp-36-2015",
+    "key": [
+     "PER-DJP",
+     "36",
+     "2015",
+     null
+    ],
     "number_as_written": "PER-36/PJ/2015",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-34/PJ/2010",
+    "quote": "Mengubah Lampiran II, IV, dan V Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Forrnulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2014 sehingga menjadi sebagaimana tercantum dalam Lampiran II, IV, dan V yang merupakan bagian yang tidak terpisahkan dari Peraturan Direktur Jenderal ini.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KETIGA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-34/PJ/2010 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI DAN WAJIB PAJAK BADAN BESERTA PETUNJUK PENGISIANNYA"
    }
@@ -32,8 +39,15 @@
   "revoked_by": [
    {
     "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
     "number_as_written": "PER-11/PJ/2025",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 7. Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }

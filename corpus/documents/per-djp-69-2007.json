@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-44-2013",
+    "key": [
+     "PER-DJP",
+     "44",
+     "2013",
+     null
+    ],
     "number_as_written": "PER-44/PJ/2013",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007",
+    "quote": "Pasal 9 Pada saat ditetapkannya Peraturan Direktur Jenderal ini, Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001 tentang Tata Cara Pemberian Surat Keterangan Fiskal sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001 tentang Tata Cara Pemberian Surat Keterangan Fiskal, dinyatakan dicabut dan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL DALAM RANGKA PENGADAAN BARANG DAN/ATAU JASA UNTUK KEPERLUAN INSTANSI PEMERINTAH"
    }

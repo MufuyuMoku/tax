@@ -39,11 +39,15 @@ def check_documents(documents):
         if not text["available"] and not doc["source_records"]:
             problems.append(f"{where}: tanpa teks dan tanpa tautan ke sumber")
 
-        # Invariant 5: every relation carries the sentence it was read from.
+        # Invariant 5: every relation carries the sentence it was read from, or says why it cannot.
+        # The bare name of the target regulation is not a quote and must never pass as one.
         for kind in ("revokes", "amends", "revoked_by", "amended_by"):
             for relation in doc["relations"][kind]:
-                if not relation.get("quote"):
-                    problems.append(f"{where}: relasi {kind} tanpa kutipan sumber")
+                quote = relation.get("quote")
+                if not quote and not relation.get("quote_unavailable"):
+                    problems.append(f"{where}: relasi {kind} tanpa kutipan sumber dan tanpa alasan")
+                if quote and relation.get("name") and quote.strip() == relation["name"].strip():
+                    problems.append(f"{where}: relasi {kind} memakai nama peraturan sebagai kutipan")
 
         # Invariant 6: every attachment carries a match result.
         for attachment in doc["attachments"]:

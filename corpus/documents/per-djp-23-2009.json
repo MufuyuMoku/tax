@@ -24,7 +24,9 @@
      "2001",
      null
     ],
-    "quote": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-523/PJ./2001",
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-523/PJ./2001",
+    "quote": "Ketentuan Pasal 2 Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ./2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-25/PJ./2003 diubah sehingga Pasal 2 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-523-2001"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "per-djp-57-2010",
+    "key": [
+     "PER-DJP",
+     "57",
+     "2010",
+     null
+    ],
     "number_as_written": "PER-57/PJ/2010",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
    }
@@ -68,7 +77,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-57/PJ/2010 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 57/2010 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

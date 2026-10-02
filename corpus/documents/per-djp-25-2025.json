@@ -31,7 +31,9 @@
      "2017",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2017",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2017",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2017 tentang Akuntansi Pendapatan dan Beban dalam Penyusunan Laporan Keuangan di Lingkungan Direktorat Jenderal Pajak; b. Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2018 tentang Akuntansi Utang Kelebihan Pembayaran Pendapatan Pajak dalam Laporan Keuangan Direktorat Jenderal Pajak; c. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020 tentang Penggolongan Kualitas Piutang Pajak dan Tata Cara Penghitungan Penyisihan Piutang Pajak; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020 tentang Pedoman Akuntansi Piutang Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-21-2017"
    },
@@ -42,7 +44,9 @@
      "2018",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2018",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2018",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2018 tentang Akuntansi Utang Kelebihan Pembayaran Pendapatan Pajak dalam Laporan Keuangan Direktorat Jenderal Pajak; c. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020 tentang Penggolongan Kualitas Piutang Pajak dan Tata Cara Penghitungan Penyisihan Piutang Pajak; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020 tentang Pedoman Akuntansi Piutang Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-13-2018"
    },
@@ -53,7 +57,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … c. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020 tentang Penggolongan Kualitas Piutang Pajak dan Tata Cara Penghitungan Penyisihan Piutang Pajak; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020 tentang Pedoman Akuntansi Piutang Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-1-2020"
    },
@@ -64,7 +70,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … d. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020 tentang Pedoman Akuntansi Piutang Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-20-2020"
    }

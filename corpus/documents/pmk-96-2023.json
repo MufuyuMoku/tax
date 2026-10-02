@@ -104,8 +104,15 @@
   "amended_by": [
    {
     "id": "pmk-111-2023",
+    "key": [
+     "PMK",
+     "111",
+     "2023",
+     null
+    ],
     "number_as_written": "111 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 96 Tahun 2023",
+    "quote": "Ketentuan Pasal 76 Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman (Berita Negara Republik Indonesia Tahun 2023 Nomor 740), diubah sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 96 TAHUN 2023 TENTANG KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR DAN EKSPOR BARANG KIRIMAN"
    }
@@ -120,7 +127,9 @@
      "2019",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 199/PMK.010/2019",
+    "name": "Peraturan Menteri Keuangan Nomor 199/PMK.010/2019",
+    "quote": "Pasal 75 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 199/PMK.010/2019 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor Barang Kiriman (Berita Negara Republik Indonesia Tahun 2019 Nomor 1 709), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-199-2019"
    }

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-140-2000",
+    "key": [
+     "PP",
+     "140",
+     "2000",
+     null
+    ],
     "number_as_written": "140 TAHUN 2000",
-    "quote": "Peraturan Pemerintah Nomor 73 Tahun 1996",
+    "quote": "Pasal 5 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 73 Tahun 1996 tentang Pajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi dan Jasa Konsultan (Lembaran Negara Republik Indonesia Tahun 1996 Nomor 112, Tambahan Lembaran Negara Nomor 3664), dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
    }

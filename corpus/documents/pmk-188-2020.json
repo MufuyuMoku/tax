@@ -30,8 +30,15 @@
   "revoked_by": [
    {
     "id": "pmk-127-2023",
+    "key": [
+     "PMK",
+     "127",
+     "2023",
+     null
+    ],
     "number_as_written": "127 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 188/PMK.04/2020",
+    "quote": "Pasal 1 Peraturan Menteri Keuangan Nomor 188/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Pengadaan Vaksin dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 1393), dicabut clan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 188/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
    }
@@ -53,7 +60,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 127 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 127/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

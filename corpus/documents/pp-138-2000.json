@@ -49,8 +49,15 @@
   "revoked_by": [
    {
     "id": "pp-94-2010",
+    "key": [
+     "PP",
+     "94",
+     "2010",
+     null
+    ],
     "number_as_written": "94 TAHUN 2010",
-    "quote": "Peraturan Pemerintah Nomor 138 Tahun 2000",
+    "quote": "Pasal 34 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 138 Tahun 2000 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan Dalam Tahun Berjalan (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 253, Tambahan Lembaran Negara Republik Indonesia Nomor 4055), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN"
    }
@@ -63,7 +70,9 @@
      "1994",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 47 Tahun 1994",
+    "name": "Peraturan Pemerintah Nomor 47 Tahun 1994",
+    "quote": "Pasal 15 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 47 Tahun 1994 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan Dalam Tahun Berjalan (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 76, Tambahan Lembaran Negara Nomor 3579) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 83 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 196, Tambahan Lembaran Negara Nomor 3798), dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-47-1994"
    },
@@ -74,7 +83,9 @@
      "1998",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 83 Tahun 1998",
+    "name": "Peraturan Pemerintah Nomor 83 Tahun 1998",
+    "quote": "Pasal 15 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 47 Tahun 1994 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan Dalam Tahun Berjalan (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 76, Tambahan Lembaran Negara Nomor 3579) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 83 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 196, Tambahan Lembaran Negara Nomor 3798), dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-83-1998"
    }

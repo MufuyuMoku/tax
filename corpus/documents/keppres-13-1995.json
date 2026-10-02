@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-42-1995",
+    "key": [
+     "PP",
+     "42",
+     "1995",
+     null
+    ],
     "number_as_written": "42 TAHUN 1995",
-    "quote": "Keputusan Presiden Nomor 13 Tahun 1995",
+    "quote": "Pasal 5 Dengan berlakunya Peraturan Pemerintah ini, Keputusan Presiden Nomor 13 Tahun 1995 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BEA MASUK, BEA MASUK TAMBAHAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
    }
@@ -40,7 +47,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 42 TAHUN 1995 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 42/1995 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

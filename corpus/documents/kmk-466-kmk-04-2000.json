@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-83-2009",
+    "key": [
+     "PMK",
+     "83",
+     "2009",
+     null
+    ],
     "number_as_written": "83/PMK.03/2009",
-    "quote": "Keputusan Menteri Keuangan Nomor 466/KMK.04/2000",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 466/KMK.04/2000 tentang Penyediaan Makanan Dan Minuman Bagi Seluruh Pegawai Dan Penggantian Atau Imbalan Sehubungan Dengan Pekerjaan Atau Jasa Yang Diberikan Dalam Bentuk Natura Dan Kenikmatan Di Daerah Tertentu Serta Yang Berkaitan Dengan Pelaksanaan Pekerjaan Yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENYEDIAAN MAKANAN DAN MINUMAN BAGI SELURUH PEGAWAI SERTA PENGGANTIAN ATAU IMBALAN DALAM BENTUK NATURA DAN KENIKMATAN DI DAERAH TERTENTU DAN YANG BERKAITAN DENGAN PELAKSANAAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEMBERI KERJA"
    }

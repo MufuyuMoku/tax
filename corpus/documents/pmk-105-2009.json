@@ -23,8 +23,15 @@
   "amended_by": [
    {
     "id": "pmk-57-2010",
+    "key": [
+     "PMK",
+     "57",
+     "2010",
+     null
+    ],
     "number_as_written": "57/PMK.03/2010",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 105/PMK.03/2009 tentang Piutang yang Nyata-nyata Tidak Dapat Ditagih yang Dapat Dikurangkan Dari Penghasilan Bruto diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009 TENTANG PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -39,7 +46,9 @@
      "1998",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 130/KMK.04/1998",
+    "name": "Keputusan Menteri Keuangan Nomor 130/KMK.04/1998",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 130/KMK.04/1998 tentang Penghapusan Piutang Tak Tertagih yang Boleh Dikurangkan Sebagai Biaya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-130-kmk-04-1998"
    }

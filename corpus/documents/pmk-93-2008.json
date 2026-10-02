@@ -26,7 +26,10 @@
      "2007",
      null
     ],
-    "quote": "Undang-Undang Nomor 45 Tahun 2007",
+    "name": "Undang-Undang Nomor 45 Tahun 2007",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
     "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
     "source_of_reading": "DJP",
     "target_id": "uu-45-2007"

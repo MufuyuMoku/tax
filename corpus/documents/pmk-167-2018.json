@@ -29,8 +29,15 @@
   "revoked_by": [
    {
     "id": "pmk-66-2023",
+    "key": [
+     "PMK",
+     "66",
+     "2023",
+     null
+    ],
     "number_as_written": "66 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 167/PMK.03/2018",
+    "quote": "Pasal 26 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 167/PMK.03/2018 tentang Penyediaan Makanan dan Minuman bagi Seluruh Pegawai serta Penggantian atau Imbalan dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu dan yang Berkaitan dengan Pelaksanaan Pekerjaan yang Dapat Dikurangkan dari Penghasilan Bruto Pemberi Kerja (Berita Negara Republik Indonesia Tahun 2018 Nomor 1683), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PAJAK PENGHASILAN ATAS PENGGANTIAN ATAU IMBALAN SEHUBUNGAN DENGAN PEKERJAAN ATAU JASA YANG DITERIMA ATAU DIPEROLEH DALAM BENTUK NATURA DAN/ATAU KENIKMATAN"
    }
@@ -43,7 +50,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 83/PMK.03/2009",
+    "name": "Peraturan Menteri Keuangan Nomor 83/PMK.03/2009",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 83/PMK.03/2009 tentang Penyediaan Makanan dan Minuman bagi Seluruh Pegawai serta Penggantian atau Imbalan Dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu dan yang Berkaitan dengan Pelaksanaan Pekerjaan Yang Dapat Dikurangkan dari Penghasilan Bruto Pemberi Kerja, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-83-2009"
    }
@@ -77,7 +86,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 66 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 66/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

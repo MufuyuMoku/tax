@@ -20,8 +20,15 @@
   "amended_by": [
    {
     "id": "pmk-126-2012",
+    "key": [
+     "PMK",
+     "126",
+     "2012",
+     null
+    ],
     "number_as_written": "126/PMK.011/2012",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 249/PMK.03/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 249/PMK.03/2008 tentang Penyusutan atas Pengeluaran Untuk Memperoleh Harta Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu, diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 249/PMK.03/2008 TENTANG PENYUSUTAN ATAS PENGELUARAN UNTUK MEMPEROLEH HARTA BERWUJUD YANG DIMILIKI DAN DIGUNAKAN DALAM BIDANG USAHA TERTENTU"
    }
@@ -30,8 +37,15 @@
   "revoked_by": [
    {
     "id": "pmk-72-2023",
+    "key": [
+     "PMK",
+     "72",
+     "2023",
+     null
+    ],
     "number_as_written": "72 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 249/PMK.03/2008",
+    "quote": "Pasal 34 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 249/PMK.03/2008 tentang Penyusutan atas Pengeluaran untuk Memperoleh Harta Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 126/PMK.011/2012 tentang Perubahan Peraturan Menteri Keuangan Nomor 249/PMK.03/2008 tentang Penyusutan atas Pengeluaran untuk Memperoleh Harta Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu (Berita Negara Republik Indonesia Tahun 2012 Nomor 782); dan c. Peraturan Menteri Keuangan Nomor 96/PMK.03/2009 tentang Jenis-jenis Harta yang Termasuk dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan (Berita Negara Republik Indonesia Tahun 2009 Nomor 105), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENYUSUTAN HARTA BERWUJUD DAN/ATAU AMORTISASI HARTA TAK BERWUJUD"
    }

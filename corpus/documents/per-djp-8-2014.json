@@ -27,8 +27,15 @@
   "revoked_by": [
    {
     "id": "per-djp-19-2021",
+    "key": [
+     "PER-DJP",
+     "19",
+     "2021",
+     null
+    ],
     "number_as_written": "PER-19/PJ/2021",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2014",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2014 tentang Pengawasan terhadap Pemotongan/Pemungutan dan Penyetoran Pajak yang Dilakukan oleh Bendahara Pengeluaran Satuan Kerja Perangkat Daerah/Kuasa Bendahara Umum Daerah,dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERHITUNGAN POTENSI PAJAK ATAS BELANJA DAERAH"
    }
@@ -50,7 +57,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-19/PJ/2021 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 19/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

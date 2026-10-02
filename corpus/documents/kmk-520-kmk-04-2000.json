@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-96-2009",
+    "key": [
+     "PMK",
+     "96",
+     "2009",
+     null
+    ],
     "number_as_written": "96/PMK.03/2009",
-    "quote": "Keputusan Menteri Keuangan nomor 520/KMK.04/2000",
+    "quote": "Pasal 4 Pada saat berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan nomor 520/KMK.04/2000 tentang Jenis-Jenis Harta yang Termasuk Dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor KMK.138/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "JENIS-JENIS HARTA YANG TERMASUK DALAM KELOMPOK HARTA BERWUJUD BUKAN BANGUNAN UNTUK KEPERLUAN PENYUSUTAN"
    }

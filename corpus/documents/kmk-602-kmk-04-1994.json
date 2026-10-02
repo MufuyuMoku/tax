@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-113-kmk-03-2002",
+    "key": [
+     "KMK",
+     "113/KMK.03",
+     "2002",
+     null
+    ],
     "number_as_written": "113/KMK.03/2002",
-    "quote": "Keputusan Menteri Keuangan Nomor 602/KMK.04/1994",
+    "quote": "Pasal 7 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 602/KMK.04/1994 tentang Perlakuan Perpajakan atas Penghasilan Kena Pajak Sesudah Dikurangi Pajak dari Suatu Bentuk Usaha Tetap yang Ditanamkan Kembali di Indonesia dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PERPAJAKAN ATAS PENGHASILAN KENA PAJAK SESUDAH DIKURANGI PAJAK DARI SUATU BENTUK USAHA TETAP"
    }

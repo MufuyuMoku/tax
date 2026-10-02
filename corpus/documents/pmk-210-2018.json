@@ -33,8 +33,15 @@
   "revoked_by": [
    {
     "id": "pmk-31-2019",
+    "key": [
+     "PMK",
+     "31",
+     "2019",
+     null
+    ],
     "number_as_written": "31/PMK.010/2019",
-    "quote": "Peraturan Menteri Keuangan Nomor 210/PMK.010/2018",
+    "quote": "Pasal 1 Peraturan Menteri Keuangan Nomor 210/PMK.010/2018 tentang Perlakuan Perpajakan atas Transaksi Perdagangan melalui Sistem Elektronik ( E-Commerce ) (Berita Negara Republik Indonesia Tahun 2018 Nomor 1855), ditarik kembali dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 210/PMK.010/2018 TENTANG PERLAKUAN PERPAJAKAN ATAS TRANSAKSI PERDAGANGAN MELALUI SISTEM ELEKTRONIK (E-COMMERCE)"
    }

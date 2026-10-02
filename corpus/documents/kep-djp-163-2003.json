@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-6-2011",
+    "key": [
+     "PER-DJP",
+     "6",
+     "2011",
+     null
+    ],
     "number_as_written": "PER-6/PJ/2011",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-163/PJ/2003",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-163/PJ/2003 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PELAKSANAAN PEMBAYARAN DAN PEMBUATAN BUKTI PEMBAYARAN ATAS ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }

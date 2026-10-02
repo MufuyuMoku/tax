@@ -24,8 +24,15 @@
   "revoked_by": [
    {
     "id": "pmk-254-2008",
+    "key": [
+     "PMK",
+     "254",
+     "2008",
+     null
+    ],
     "number_as_written": "254/PMK.03/2008",
-    "quote": "Peraturan Menteri Keuangan Nomor 138/PMK.03/2005",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 138/PMK.03/2005 tentang Penetapan Bagian Penghasilan Sehubungan Dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya Yang Tidak Dikenakan Pemotongan Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENETAPAN BAGIAN PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI HARIAN DAN MINGGUAN SERTA PEGAWAI TIDAK TETAP LAINNYA YANG TIDAK DIKENAKAN PEMOTONGAN PAJAK PENGHASILAN"
    }
@@ -38,7 +45,9 @@
      "2002",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 447/KMK.03/2002",
+    "name": "Keputusan Menteri Keuangan Nomor 447/KMK.03/2002",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 447/KMK.03/2002 tentang Bagian Penghasilan Sehubungan Dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya Yang Tidak Dikenakan Pemotongan Pajak Penghasilan sebagaimana telah diubah denganPeraturan Menteri Keuangan Nomor 10/PMK.03/2005 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-447-kmk-03-2002"
    },
@@ -49,7 +58,9 @@
      "2005",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 10/PMK.03/2005",
+    "name": "Peraturan Menteri Keuangan Nomor 10/PMK.03/2005",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 447/KMK.03/2002 tentang Bagian Penghasilan Sehubungan Dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya Yang Tidak Dikenakan Pemotongan Pajak Penghasilan sebagaimana telah diubah denganPeraturan Menteri Keuangan Nomor 10/PMK.03/2005 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-10-2005"
    }

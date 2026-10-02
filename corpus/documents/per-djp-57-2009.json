@@ -24,7 +24,9 @@
      "2009",
      null
     ],
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-31/PJ/2009",
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-31/PJ/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2009 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran dan Pelaporan Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, dan Kegiatan Orang Pribadi diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-31-2009"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "per-djp-31-2012",
+    "key": [
+     "PER-DJP",
+     "31",
+     "2012",
+     null
+    ],
     "number_as_written": "PER-31/PJ/2012",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-57/PJ/2009",
+    "quote": "Pasal 27 Dengan berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2009 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran dan Pelaporan Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, dan Kegiatan Orang Pribadi sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-57/PJ/2009 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
    }

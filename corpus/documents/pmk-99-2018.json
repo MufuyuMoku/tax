@@ -31,8 +31,15 @@
   "revoked_by": [
    {
     "id": "pmk-164-2023",
+    "key": [
+     "PMK",
+     "164",
+     "2023",
+     null
+    ],
     "number_as_written": "164 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 99/PMK.03/2018",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 99/PMK.03/2018 tentang Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2018 Nomor 1146), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENGENAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK YANG MEMILIKI PEREDARAN BRUTO TERTENTU DAN KEWAJIBAN PELAPORAN USAHA UNTUK DIKUKUHKAN SEBAGAI PENGUSAHA KENA PAJAK"
    }
@@ -45,7 +52,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 107/PMK.011/2013",
+    "name": "Peraturan Menteri Keuangan Nomor 107/PMK.011/2013",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulru. berlaku, Peraturan Menteri Keuangan Nomor 107/PMK.011/2013 tentang Tata Cara Penghitungan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2013 Nomor 984), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-107-2013"
    }
@@ -78,7 +87,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 164 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 164/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

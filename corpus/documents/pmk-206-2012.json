@@ -24,8 +24,15 @@
   "revoked_by": [
    {
     "id": "pmk-152-2015",
+    "key": [
+     "PMK",
+     "152",
+     "2015",
+     null
+    ],
     "number_as_written": "152/PMK.010/2015",
-    "quote": "Peraturan Menteri Keuangan Nomor 206/PMK.011/2012",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 206/PMK.011/2012 tentang Penetapan Bagian Penghasilan Sehubungan Dengan Pekerjaan dari Pegawai Harian dan Mingguan serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENETAPAN BAGIAN PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI HARIAN DAN MINGGUAN SERTA PEGAWAI TIDAK TETAP LAINNYA YANG TIDAK DIKENAKAN PEMOTONGAN PAJAK PENGHASILAN"
    }
@@ -38,7 +45,9 @@
      "2008",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 254/PMK.03/2008",
+    "name": "Peraturan Menteri Keuangan Nomor 254/PMK.03/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 254/PMK.03/2008 tentang Penetapan Bagian Penghasilan Sehubungan Dengan Pekerjaan dari Pegawai Harian dan Mingguan serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-254-2008"
    }

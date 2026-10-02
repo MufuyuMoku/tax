@@ -56,7 +56,9 @@
      "2022",
      null
     ],
-    "quote": "PERATURAN PEMERINTAH NOMOR 55 TAHUN 2022",
+    "name": "PERATURAN PEMERINTAH NOMOR 55 TAHUN 2022",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 231, Tambahan Lembaran Negara Republik Indonesia Nomor 6836), diubah sebagai berikut:",
+    "quote_excerpt": false,
     "rejected": "hierarki: PERPRES tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-55-2022"

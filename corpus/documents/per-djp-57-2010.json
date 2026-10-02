@@ -24,22 +24,44 @@
   "amended_by": [
    {
     "id": "per-djp-15-2011",
+    "key": [
+     "PER-DJP",
+     "15",
+     "2011",
+     null
+    ],
     "number_as_written": "PER-15/PJ/2011",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010",
+    "quote": "Ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-57/PJ/2010 tentang Tata Cara dan Prosedur Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain diubah dengan menyisipkan 7 (tujuh) Pasal diantara Pasal 3 dan Pasal 4 yaitu Pasal 3A, Pasal 3B, Pasal 3C, Pasal 3D, Pasal 3E, Pasal 3F, dan Pasal 3G, yang berbunyi sebagai berikut : Pasal 3A (1) Dikecualikan dari pemungutan Pajak Penghasilan Pasal 22 yaitu atas impor emas batangan yang akan diproses untuk menghasilkan barang perhiasan dari emas untuk tujuan ekspor.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER 57/PJ/2010 TENTANG TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DIBIDANG IMPOR ATAU KEGIATAN USAHA DIBIDANG LAIN"
    },
    {
     "id": "per-djp-31-2015",
+    "key": [
+     "PER-DJP",
+     "31",
+     "2015",
+     null
+    ],
     "number_as_written": "PER-31/PJ/2015",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR  PER-57/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-57/PJ/2010 tentang Tata Cara dan Prosedur Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain sebagaimana telah beberapa kali diubah dengan: a. Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2011; dan b. Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2013, diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KETIGA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010 TENTANG TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
    },
    {
     "id": "per-djp-6-2013",
+    "key": [
+     "PER-DJP",
+     "6",
+     "2013",
+     null
+    ],
     "number_as_written": "PER-06/PJ/2013",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010",
+    "quote": "2. Ketentuan Pasal 2 diubah, sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-57/PJ/2010 TENTANG TATA CARA DAN PROSEDUR PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
    }
@@ -54,7 +76,9 @@
      "1995",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-32/PJ./1995",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-32/PJ./1995",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: 1 Keputusan Direktur Jenderal Pajak Nomor KEP-32/PJ./1995 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Otomotif di Dalam Negeri sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-65/PJ./1995; … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-32-1995"
    },
@@ -65,7 +89,9 @@
      "1995",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-65/PJ./1995",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-65/PJ./1995",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: 1 Keputusan Direktur Jenderal Pajak Nomor KEP-32/PJ./1995 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Otomotif di Dalam Negeri sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-65/PJ./1995; … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-65-1995"
    },
@@ -76,7 +102,9 @@
      "1995",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-69/PJ./1995",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-69/PJ./1995",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 2. Keputusan Direktur Jenderal Pajak Nomor KEP-69/PJ./1995 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Kertas di Dalam Negeri; … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-69-1995"
    },
@@ -87,7 +115,9 @@
      "1996",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ./1996",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ./1996",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 3. Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ./1996 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Baja di Dalam Negeri; … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-1-1996"
    },
@@ -98,7 +128,9 @@
      "2001",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-401/PJ./2001",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-401/PJ./2001",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 4. Keputusan Direktur Jenderal Pajak Nomor KEP-401/PJ./2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 atas Penjualan Hasil Produksi Industri Semen di Dalam Negeri; … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-401-2001"
    },
@@ -109,7 +141,9 @@
      "2001",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-417/PJ./2001",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-417/PJ./2001",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 5. Keputusan Direktur Jenderal Pajak Nomor KEP-417/PJ./2001 tentang Petunjuk Pemungutan Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan, Serta Tata Cara Penyetoran dan Pelaporannya; 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-417-2001"
    },
@@ -120,7 +154,9 @@
      "2001",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-523-2001"
    },
@@ -131,7 +167,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … 6. Keputusan Direktur Jenderal Pajak Nomor KEP-523/PJ/2001 tentang Tarif dan Tata Cara Pemungutan, Penyetoran, Serta Pelaporan Pajak Penghasilan Pasal 22 oleh Industri dan Eksportir yang Bergerak Dalam Sektor Perhutanan, Perkebunan, Pertanian, dan Perikanan, atas Pembelian Bahan-Bahan Untuk Keperluan Industri atau Ekspor Mereka dari Pedagang Pengumpul sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-23-2009"
    }

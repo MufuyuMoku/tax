@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-53-2008-ralat",
+    "key": [
+     "PER-DJP",
+     "53",
+     "2008",
+     "ralat"
+    ],
     "number_as_written": "PER-53/PJ/2008",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-36/PJ./2001",
+    "quote": "Pasal 14 Pada saat Peraturan Diretur Jenderal Pajak ini mulai berlaku maka: … 7. Keputusan Direktur Jenderal Pajak Nomor KEP-36/PJ./2001 tentang Pengecualian dari Kewajiban Pembayaran Pajak Penghasilan Orang Pribadi yang akan Bertolak ke Luar Negeri sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-527/PJ./2001; … 22. Ketentuan-ketentuan lain yang bertentangan dengan Peraturan ini. Dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
    }

@@ -37,8 +37,15 @@
   "revoked_by": [
    {
     "id": "pmk-89-2015",
+    "key": [
+     "PMK",
+     "89",
+     "2015",
+     null
+    ],
     "number_as_written": "89/PMK.010/2015",
-    "quote": "Peraturan Menteri Keuangan Nomor 144/PMK.011/2012",
+    "quote": "Pasal 20 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 144/PMK.011/2012 tentang Pemberian Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU SERTA PENGALIHAN AKTIVA DAN SANKSI BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG DIBERIKAN FASILITAS PAJAK PENGHASILAN"
    }
@@ -51,7 +58,9 @@
      "2007",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 16/PMK.03/2007",
+    "name": "Peraturan Menteri Keuangan Nomor 16/PMK.03/2007",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 16/PMK.03/2007 tentang Pemberian Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-16-2007"
    }

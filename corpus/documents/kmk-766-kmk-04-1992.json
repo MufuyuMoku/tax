@@ -33,8 +33,15 @@
   "amended_by": [
    {
     "id": "kmk-209-kmk-04-1998",
+    "key": [
+     "KMK",
+     "209/KMK.04",
+     "1998",
+     null
+    ],
     "number_as_written": "209/KMK.04/1998",
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992",
+    "quote": "Mengubah beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor : 766/KMK.04/1992, sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATACARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBERDAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
    }
@@ -49,7 +56,9 @@
      "1981",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 746/KMK.012/1981",
+    "name": "Keputusan Menteri Keuangan Nomor 746/KMK.012/1981",
+    "quote": "Pasal 15 Dengan berlakunya Keputusan ini, Keputusan Menteri Keuangan Nomor 746/KMK.012/1981 tentang Tata Cara Penghitungan dan Pembayaran Pajak Perseroan, Pajak atas Bunga, Dividen dan Royalty, pengenaan pajak dan pungutan lain serta pemberian kelonggaran terhadap Kontraktor yang melakukan Kontrak Operasi Bersama (Joint operation Contract) Dalam Pengusahaan Sumberdaya Panasbumi Dengan Perusahaan Pertambangan Minyak dan Gas Bumi Negara (PERTAMINA) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-746-kmk-012-1981"
    }

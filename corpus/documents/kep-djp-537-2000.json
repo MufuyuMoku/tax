@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
     "number_as_written": "PER-11/PJ/2025",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }
@@ -42,7 +49,9 @@
      "1995",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995",
+    "quote": "Pasal 8 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995 tanggal 9 Januari 1995 sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999 tanggal 22 April 1999, Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995 tanggal 8 Februari 1995 sebagaimana telah diubah dengan Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999 tanggal 22 April 1999, serta Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998 tanggal 8 Agustus 1998, dinyatakan tidak berlaku, kecuali dalam hal sebagaimana dimaksud dalam Pasal 9.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-3-1995"
    },
@@ -53,7 +62,9 @@
      "1999",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999",
+    "quote": "Pasal 8 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995 tanggal 9 Januari 1995 sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999 tanggal 22 April 1999, Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995 tanggal 8 Februari 1995 sebagaimana telah diubah dengan Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999 tanggal 22 April 1999, serta Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998 tanggal 8 Agustus 1998, dinyatakan tidak berlaku, kecuali dalam hal sebagaimana dimaksud dalam Pasal 9.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-89-1999"
    },
@@ -64,7 +75,9 @@
      "1995",
      null
     ],
-    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995",
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995",
+    "quote": "Pasal 8 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995 tanggal 9 Januari 1995 sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999 tanggal 22 April 1999, Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995 tanggal 8 Februari 1995 sebagaimana telah diubah dengan Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999 tanggal 22 April 1999, serta Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998 tanggal 8 Agustus 1998, dinyatakan tidak berlaku, kecuali dalam hal sebagaimana dimaksud dalam Pasal 9.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "se-3-1995"
    },
@@ -75,7 +88,9 @@
      "1999",
      null
     ],
-    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999",
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999",
+    "quote": "Pasal 8 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995 tanggal 9 Januari 1995 sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999 tanggal 22 April 1999, Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995 tanggal 8 Februari 1995 sebagaimana telah diubah dengan Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999 tanggal 22 April 1999, serta Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998 tanggal 8 Agustus 1998, dinyatakan tidak berlaku, kecuali dalam hal sebagaimana dimaksud dalam Pasal 9.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "se-17-1999"
    },
@@ -86,7 +101,9 @@
      "1998",
      null
     ],
-    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998",
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998",
+    "quote": "Pasal 8 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-03/PJ./1995 tanggal 9 Januari 1995 sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-89/PJ./1999 tanggal 22 April 1999, Surat Edaran Direktur Jenderal Pajak Nomor : SE-03/PJ.4/1995 tanggal 8 Februari 1995 sebagaimana telah diubah dengan Surat Edaran Direktur Jenderal Pajak Nomor : SE-17/PJ.41/1999 tanggal 22 April 1999, serta Surat Edaran Direktur Jenderal Pajak Nomor : SE-24/PJ.42/1998 tanggal 8 Agustus 1998, dinyatakan tidak berlaku, kecuali dalam hal sebagaimana dimaksud dalam Pasal 9.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "se-24-1998"
    }
@@ -107,7 +124,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-11/PJ/2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "per-djp-32-2014",
+    "key": [
+     "PER-DJP",
+     "32",
+     "2014",
+     null
+    ],
     "number_as_written": "PER-32/PJ/2014",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2013",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2013 tentang Tata Cara Pemberian Surat Keterangan Fiskal Dalam Rangka Pengadaan Barang dan/atau Jasa Untuk Keperluan Instansi Pemerintah, dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL"
    }
@@ -42,7 +49,9 @@
      "2001",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001",
+    "quote": "Pasal 9 Pada saat ditetapkannya Peraturan Direktur Jenderal ini, Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001 tentang Tata Cara Pemberian Surat Keterangan Fiskal sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001 tentang Tata Cara Pemberian Surat Keterangan Fiskal, dinyatakan dicabut dan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-447-2001"
    },
@@ -53,7 +62,9 @@
      "2007",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007",
+    "quote": "Pasal 9 Pada saat ditetapkannya Peraturan Direktur Jenderal ini, Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001 tentang Tata Cara Pemberian Surat Keterangan Fiskal sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ./2007 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-447/PJ./2001 tentang Tata Cara Pemberian Surat Keterangan Fiskal, dinyatakan dicabut dan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-69-2007"
    }

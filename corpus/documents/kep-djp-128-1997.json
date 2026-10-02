@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kep-djp-176-2000",
+    "key": [
+     "KEP-DJP",
+     "176",
+     "2000",
+     null
+    ],
     "number_as_written": "KEP-176/PJ./2000",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-128/PJ./1997",
+    "quote": "Pasal 5 Dengan berlakunya Keputusan ini maka Keputusan Direktur Jenderal Pajak Nomor : KEP-128/PJ./1997 tanggal 22 Juli 1997 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 10 TAHUN 1994"
    }

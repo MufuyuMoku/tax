@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-85-2011",
+    "key": [
+     "PMK",
+     "85",
+     "2011",
+     null
+    ],
     "number_as_written": "85/PMK.03/2011",
-    "quote": "Keputusan Menteri Keuangan Nomor 121/KMK.03/2002",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 121/KMK.03/2002 tentang Tata Cara Pelaksanaan Pemotongan Pajak Penghasilan atas Bunga dan Diskonto Obligasi yang Diperdagangkan dan atau Dilaporkan Perdagangannya di Bursa Efek, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN ATAS BUNGA OBLIGASI"
    }

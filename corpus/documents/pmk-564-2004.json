@@ -21,8 +21,15 @@
   "revoked_by": [
    {
     "id": "pmk-137-2005",
+    "key": [
+     "PMK",
+     "137",
+     "2005",
+     null
+    ],
     "number_as_written": "137/PMK.03/2005",
-    "quote": "Peraturan Menteri Keuangan Nomor 564/KMK.03/2004",
+    "quote": "Pasal 3 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 564/KMK.03/2004 tentang Penyesuaian Besarnya Penghasilan Tidak Kena Pajak dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK"
    }

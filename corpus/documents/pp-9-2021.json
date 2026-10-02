@@ -54,8 +54,15 @@
   "revoked_by": [
    {
     "id": "pp-55-2022",
+    "key": [
+     "PP",
+     "55",
+     "2022",
+     null
+    ],
     "number_as_written": "55 TAHUN 2022",
-    "quote": "Peraturan Pemerintah Nomor 9 Tahun 2021",
+    "quote": "Pasal 72 Pada saat Peraturan Pemerintah ini mulai berlaku: … ketentuan Pasal 2A Peraturan Pemerintah Nomor 94 Tahun 2010 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 161, Tambahan Lembaran Negara Republik Indonesia Nomor 5183) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 9 Tahun 2021 tentang Perlakuan Perpajakan untuk Mendukung Kemudahan Berusaha (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 6621), dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
    }
@@ -77,7 +84,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 55/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

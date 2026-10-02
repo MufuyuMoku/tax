@@ -35,8 +35,15 @@
   "revoked_by": [
    {
     "id": "pp-51-1994",
+    "key": [
+     "PP",
+     "51",
+     "1994",
+     null
+    ],
     "number_as_written": "51 TAHUN 1994",
-    "quote": "Peraturan Pemerintah Nomor 74 Tahun 1991",
+    "quote": "Pasal 7 Dengan berlakunya Peraturan Pemerintah ini maka Peraturan Pemerintah Nomor 74 Tahun 1991 Tentang Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Bank Indonesia, Sertifikat Deposito dan Tabungan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
    }
@@ -49,7 +56,9 @@
      "1989",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 21 Tahun 1989",
+    "name": "Peraturan Pemerintah Nomor 21 Tahun 1989",
+    "quote": "Pasal 8 Dengan berlakunya Peraturan Pemerintah ini, Peraturan Pemerintah Nomor 21 Tahun 1989 tentang Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Deposito dan Tabungan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 54 Tahun 1990 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-21-1989"
    },
@@ -60,7 +69,9 @@
      "1990",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 54 Tahun 1990",
+    "name": "Peraturan Pemerintah Nomor 54 Tahun 1990",
+    "quote": "Pasal 8 Dengan berlakunya Peraturan Pemerintah ini, Peraturan Pemerintah Nomor 21 Tahun 1989 tentang Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Deposito dan Tabungan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 54 Tahun 1990 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-54-1990"
    }

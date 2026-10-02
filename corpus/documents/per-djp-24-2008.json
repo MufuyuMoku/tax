@@ -15,8 +15,15 @@
   "amended_by": [
    {
     "id": "per-djp-7-2009",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2009",
+     null
+    ],
     "number_as_written": "PER-7/PJ./2009",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 24/PJ/2008",
+    "quote": "Ketentuan Pasal 3 ayat (1) dalam Peraturan Direktur Jenderal Pajak Nomor 24/PJ/2008 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan dan Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang, Pribadi Beserta Petunjuk Pengisiannya, diubah sehingga berbunyi sebagai berikut. \" Pasal 3 (1) Bentuk Formulir Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Sangat Sederhana (Formulir 1770 SS) bagi Wajib Pajak yang mempunyai penghasilan hanya dari satu pemberi kerja dengan jumlah penghasilan bruto dari tidak lebih dari Rp. 60.000.000,00 (enam puluh juta rupiah) setahun dan tidak mempunyai penghasilan lain kecuali penghasilan bunga bank dan/atau bunga koperasi adalah sebagaimana tercantum dalam Lampiran III Peraturan Direktur Jenderal Pajak ini.\"",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PER-24/PJ/2008 TENTANG SPT PPH BADAN DAN SPT TAHUNAN PPH WPOP BESERTA PETUNJUK PENGISIANNYA"
    }
@@ -25,8 +32,15 @@
   "revoked_by": [
    {
     "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
     "number_as_written": "PER-11/PJ/2025",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan dan Surat Pemberitahuan Tahunan Pajak Penghasilan Orang Pribadi beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }

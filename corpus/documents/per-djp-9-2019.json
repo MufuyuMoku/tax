@@ -41,7 +41,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2013",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2013",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2013 tentang Tata Cara Pembebasan dari Pemotongan dan/atau Pemungutan Pajak Penghasilan bagi Wajib Pajak yang Dikenai Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 46 Tahun 2013 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-32-2013"
    },
@@ -52,7 +54,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 46 Tahun 2013",
+    "name": "Peraturan Pemerintah Nomor 46 Tahun 2013",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2013 tentang Tata Cara Pembebasan dari Pemotongan dan/atau Pemungutan Pajak Penghasilan bagi Wajib Pajak yang Dikenai Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 46 Tahun 2013 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-46-2013"

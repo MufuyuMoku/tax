@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-14-2013",
+    "key": [
+     "PER-DJP",
+     "14",
+     "2013",
+     null
+    ],
     "number_as_written": "PER-14/PJ/2013",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2009",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2009 tentang Bentuk Formulir Surat Pemberitahuan Masa Pajak Penghasilan Pasal 21 dan/atau Pasal 26 dan Bukti Pemotongan/Pemungutan Pajak Penghasilan Pasal 21 dan/atau Pasal 26 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BENTUK, ISI, TATA CARA PENGISIAN DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26 SERTA BENTUK BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PASAL 26"
    }

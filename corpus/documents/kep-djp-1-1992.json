@@ -21,8 +21,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.43/1992",
+    "quote": "… s. Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.43/1992 tentang Bentuk, Ukuran, Kode dan Warna Formulir Pemotongan, Pelaporan dan Restitusi Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Bank Indonesia, Sertifikat Deposito dan Bangunan; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }
@@ -35,7 +42,9 @@
      "1989",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989",
+    "quote": "Pasal 3 Dengan berlakunya Keputusan ini, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989 tentang Bentuk, Ukuran, Kode dan Warna Formulir Pemotongan dan Restitusi Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Deposito dan Tabungan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-62-1989"
    }
@@ -56,7 +65,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 30/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

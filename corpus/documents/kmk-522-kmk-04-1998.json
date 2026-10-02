@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-112-2010",
+    "key": [
+     "PMK",
+     "112",
+     "2010",
+     null
+    ],
     "number_as_written": "112/PMK.03/2010",
-    "quote": "Keputusan Menteri Keuangan Nomor 522/KMK.04/1998",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 522/KMK.04/1998 tentang Batas Bunga Simpanan Anggota Koperasi yang Tidak Dipotong Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMOTONGAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN ATAS BUNGA SIMPANAN YANG DIBAYARKAN OLEH KOPERASI KEPADA ANGGOTA KOPERASI ORANG PRIBADI"
    }

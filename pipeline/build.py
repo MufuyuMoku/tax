@@ -179,13 +179,21 @@ def build():
                         f"hierarki: {key[0]} tidak dapat mencabut/mengubah {relation['key'][0]}"
                     )
                 else:
-                    (revoked_by if kind == "revokes" else amended_by)[relation["key"]].append({
+                    # The reverse side carries the acting document's own identity so the page can
+                    # write "PP 55/2022" rather than the source's "55 TAHUN 2022".
+                    reverse = {
                         "id": doc_id,
+                        "key": list(key),
                         "number_as_written": next((r["number_as_written"] for r in entry["source_records"]), None),
                         "title": title,
                         "quote": relation["quote"],
+                        "quote_excerpt": relation["quote_excerpt"],
                         "source_of_reading": relation["source_of_reading"],
-                    })
+                    }
+                    for optional in ("quote_unavailable", "quote_note"):
+                        if relation.get(optional):
+                            reverse[optional] = relation[optional]
+                    (revoked_by if kind == "revokes" else amended_by)[relation["key"]].append(reverse)
                 relation["key"] = list(relation["key"])
 
         document = {
@@ -279,13 +287,26 @@ def build():
     # Status last: it depends on what other documents' texts say about this one.
     for document in documents:
         key = tuple(document["identity"].values())
-        revokers = [e["number_as_written"] or e["id"] for e in revoked_by.get(key, [])]
+        revokers = [short_label(e["key"]) for e in revoked_by.get(key, [])]
         document["status"] = status.resolve(document["status_claims"], revokers)
 
     checks.check_documents(documents)
     checks.check_units(units, {d["id"] for d in documents})
     write(documents, units)
     return documents, units
+
+
+# Mirrors regulationLabel() in src/lib/labels.js: "PP 55/2022" rather than the source's "55 TAHUN 2022".
+SHORT_TYPE = {"PER-ESELON1": "Per. Eselon I", "KEP-ESELON1": "Kep. Eselon I", "PERPU": "Perpu",
+              "PERPRES": "Perpres", "KEPPRES": "Keppres", "INPRES": "Inpres"}
+
+
+def short_label(key):
+    code, number, year, variant = key
+    if code == "?":
+        return "peraturan yang jenisnya tidak terbaca"
+    label = f"{SHORT_TYPE.get(code, code)} {number}/{year}" if year else f"{SHORT_TYPE.get(code, code)} {number}"
+    return label + (f" ({variant})" if variant else "")
 
 
 def _same_title(a, b):

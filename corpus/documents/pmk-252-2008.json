@@ -43,8 +43,15 @@
   "revoked_by": [
    {
     "id": "pmk-168-2023",
+    "key": [
+     "PMK",
+     "168",
+     "2023",
+     null
+    ],
     "number_as_written": "168 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 252/PMK.03/2008",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 252/PMK.03/2008 tentang Petunjuk Pelaksanaan Pemotongan Pajak atas Penghasilan Sehubungan dengan Pekerjaan Jasa, dan Kegiatan Orang Pribadi; … d. Pasal 5, Pasal 8, Bagian Pertama angka I, dan Bagian Kedua angka I Lampiran Peraturan Menteri Keuangan Nomor 262/PMK.03/2010 tentang Tata Cara Pemotongan Pajak Penghasilan Pasal 21 bagi Pejabat Negara, PNS, Anggota TNI, Anggota POLRI, dan Pensiunannya atas Penghasilan yang Menjadi Beban Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan dan Belanja Daerah (Berita Negara Republik Indonesia Tahun 2010 Nomor 601), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PETUNJUK PELAKSANAAN PEMOTONGAN PAJAK ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN ORANG PRIBADI"
    }
@@ -79,7 +86,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 168 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 168/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

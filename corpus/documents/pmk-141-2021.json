@@ -80,7 +80,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000",
+    "name": "Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000",
+    "quote": "Izin pembubuhan tanda Bea Meterai lunas dengan mesin teraan Meterai digital yang diterbitkan berdasarkan Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000 tentang Pelunasan Bea Meterai dengan Menggunakan Cara Lain masih berlaku sampai dengan izin dicabut.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-133b-kmk-04-2000"
    },
@@ -91,7 +93,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 133a/KMK.04/2000",
+    "name": "Keputusan Menteri Keuangan Nomor 133a/KMK.04/2000",
+    "quote": "Pasal 44 Pada saat Peraturan Menteri ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 133a/KMK.04/2000 tentang Pengadaan, Pengelolaan, dan Penjualan Benda Meterai; dan b. Keputusan Menteri Keuangan Nomor 133c/KMK.04/2000 tentang Pemusnahan Benda Meterai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-133a-kmk-04-2000"
    },
@@ -102,7 +106,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 133c/KMK.04/2000",
+    "name": "Keputusan Menteri Keuangan Nomor 133c/KMK.04/2000",
+    "quote": "Pasal 44 Pada saat Peraturan Menteri ini mulai berlaku: … b. Keputusan Menteri Keuangan Nomor 133c/KMK.04/2000 tentang Pemusnahan Benda Meterai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kmk-133c-kmk-04-2000"
    }

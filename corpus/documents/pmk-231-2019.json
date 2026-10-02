@@ -46,8 +46,15 @@
   "amended_by": [
    {
     "id": "pmk-59-2022",
+    "key": [
+     "PMK",
+     "59",
+     "2022",
+     null
+    ],
     "number_as_written": "59/PMK.03/2022",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 231/PMK.03/2019",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 231/PMK.03/2019 tentang Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak, Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak, serta Pemotongan dan/atau Pemungutan, Penyetoran, dan Pelaporan Pajak bagi Instansi Pemerintah (Berita Negara Republik Indonesia Tahun 2019 Nomor 1746), diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 231/PMK.03/2019 TENTANG TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PEMOTONGAN DAN/ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK BAGI INSTANSI PEMERINTAH"
    }
@@ -62,7 +69,9 @@
      "2003",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 563/KMK.03/2003",
+    "name": "Keputusan Menteri Keuangan Nomor 563/KMK.03/2003",
+    "quote": "Pasal 29 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 563/KMK.03/2003 tentang Penunjukan Bendaharawan Pemerintah dan Kantor Perbendaharaan dan Kas Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-563-kmk-03-2003"
    }

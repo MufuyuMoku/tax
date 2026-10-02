@@ -15,8 +15,15 @@
   "amended_by": [
    {
     "id": "kmk-601-kmk-03-2005",
+    "key": [
+     "KMK",
+     "601/KMK.03",
+     "2005",
+     null
+    ],
     "number_as_written": "601/KMK.03/2005",
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000",
+    "quote": "Mengubah Lampiran I butir V dalam Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 243/KMK.03/2003 dengan mencabut angka Romawi V Nomor Urut 31, sehingga keseluruhan butir V berbunyi sebagai berikut : V. Organisasi-Organisasi Internasional Lainnya: 1. Asean Secretariat 2. EEC (European Economic Community) 3. SEAMEO (South East Asian Minister of Education Organization) 4. ACE (The ASEAN Centre for Energy) 5. NORAD (The Norwegian Agency for International Development) 6. FPP Int.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
    }
@@ -25,8 +32,15 @@
   "revoked_by": [
    {
     "id": "pmk-215-2008",
+    "key": [
+     "PMK",
+     "215",
+     "2008",
+     null
+    ],
     "number_as_written": "215/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 574/KMK.04/2000",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 87/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    }
@@ -62,7 +76,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 215/PMK.03/2008 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 215/2008 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

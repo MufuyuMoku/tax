@@ -28,7 +28,9 @@
      "2013",
      null
     ],
-    "quote": "PERATURAN PEMERINTAH NOMOR 77 TAHUN 2013",
+    "name": "PERATURAN PEMERINTAH NOMOR 77 TAHUN 2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 186, Tambahan Lembaran Negara Republik Indonesia Nomor 5465) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-77-2013"
    }
@@ -36,8 +38,15 @@
   "revoked_by": [
    {
     "id": "pp-30-2020",
+    "key": [
+     "PP",
+     "30",
+     "2020",
+     null
+    ],
     "number_as_written": "30 TAHUN 2020",
-    "quote": "Peraturan Pemerintah Nomor 56 Tahun 2015",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 186, Tambahan Lembaran Negara Republik Indonesia Nomor 5465) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 56 Tahun 2015 tentang Perubahan atas Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 180, Tambahan Lembaran Negara Republik Indonesia Nomor 5725), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA"
    }
@@ -72,7 +81,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 30 TAHUN 2020 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 30/2020 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

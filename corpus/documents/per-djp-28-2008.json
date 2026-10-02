@@ -29,8 +29,15 @@
   "revoked_by": [
    {
     "id": "per-djp-3-2021",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2021",
+     null
+    ],
     "number_as_written": "PER-03/PJ/2021",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2008",
+    "quote": "huruf c. 2. Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2008 tentang Persyaratan dan Tata Cara Pemberian Izin Penggunaan Nilai Buku atas Pengalihan Harta Dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENGAJUAN DAN PENERBITAN KEPUTUSAN MENGENAI PENGGUNAAN  NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA"
    }
@@ -52,7 +59,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-03/PJ/2021 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 3/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

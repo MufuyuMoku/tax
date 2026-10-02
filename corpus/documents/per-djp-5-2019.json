@@ -21,8 +21,15 @@
   "revoked_by": [
    {
     "id": "per-djp-15-2020",
+    "key": [
+     "PER-DJP",
+     "15",
+     "2020",
+     null
+    ],
     "number_as_written": "PER-15/PJ/2020",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2019",
+    "quote": "Pasal 2 Pada saat mulai berlakunya Peraturan Direktur Jenderalini, Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2019 tentang Badan/Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan Sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BADAN/LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -35,7 +42,9 @@
      "2018",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2018",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2018",
+    "quote": "Pasal 2 Pada saat mulai berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2018 tentang Badan/Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan Sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-11-2018"
    }

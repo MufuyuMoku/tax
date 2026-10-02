@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-255-2008",
+    "key": [
+     "PMK",
+     "255",
+     "2008",
+     null
+    ],
     "number_as_written": "255/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 84/KMK.03/2002",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 522/KMK.04/2000 tentang Penghitungan Besarnya Angsuran Pajak Penghasilan Dalam Tahun Berjalan yang Harus Dibayar Sendiri Bagi Wajib Pajak Baru, Bank, Sewa Guna Usaha Dengan Hak Opsi, Badan Usaha Milik Negara, Badan Usaha Milik Daerah dan Wajib Pajak Lainnya Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 84/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK DAERAH, WAJIB PAJAK MASUK BURSA DAN WAJIB PAJAK LAINNYA YANG BERDASARKAN KETENTUAN DIHARUSKAN MEMBUAT LAPORAN KEUANGAN BERKALA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
    }

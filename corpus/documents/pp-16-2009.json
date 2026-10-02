@@ -15,15 +15,29 @@
   "amended_by": [
    {
     "id": "pp-100-2013",
+    "key": [
+     "PP",
+     "100",
+     "2013",
+     null
+    ],
     "number_as_written": "100 TAHUN 2013",
-    "quote": "PERATURAN PEMERINTAH NOMOR 16 TAHUN 2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan Atas Penghasilan Berupa Bunga Obligasi (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 4982) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 16 TAHUN 2009 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI"
    },
    {
     "id": "pp-55-2019",
+    "key": [
+     "PP",
+     "55",
+     "2019",
+     null
+    ],
     "number_as_written": "55 TAHUN 2019",
-    "quote": "PERATURAN PEMERINTAH NOMOR 16 TAHUN 2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 4982) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 100 Tahun 2013 tentang Perubahan atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 259, Tambahan Lembaran Negara Republik Indonesia Tahun 2013 Nomor 5488) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 16 TAHUN 2009 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI"
    }
@@ -32,8 +46,15 @@
   "revoked_by": [
    {
     "id": "pp-91-2021",
+    "key": [
+     "PP",
+     "91",
+     "2021",
+     null
+    ],
     "number_as_written": "91 TAHUN 2021",
-    "quote": "Peraturan Pemerintah Nomor 16 Tahun 2009",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 33, Tambahan Lembaran Negara Nomor 4982) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 55 Tahun 2019 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 147, Tambahan Lembaran Negara Nomor 6373), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK DALAM NEGERI DAN BENTUK USAHA TETAP"
    }

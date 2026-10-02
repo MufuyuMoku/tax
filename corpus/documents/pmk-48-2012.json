@@ -36,8 +36,15 @@
   "amended_by": [
    {
     "id": "pmk-42-2020",
+    "key": [
+     "PMK",
+     "42",
+     "2020",
+     null
+    ],
     "number_as_written": "PMK-42/PMK.04/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 48/PMK.04/2012",
+    "quote": "Beberapa ketentuart dalam Peraturan Menteri Keuangan Nomor 48/PMK.04/2012 tentang Pemberitahuan Pabean dalam rangka Pemasukan dan Pengeluaran Barang ke dan dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas (Berita Negara Republik Indonesia Tahun 2012 Nomor 3.32), diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 48/PMK.04/2012 TENTANG PEMBERITAHUAN PABEAN DALAM RANGKA PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN YANG TELAH DITETAPKAN SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS"
    }
@@ -46,8 +53,15 @@
   "revoked_by": [
    {
     "id": "pmk-42-2020",
+    "key": [
+     "PMK",
+     "42",
+     "2020",
+     null
+    ],
     "number_as_written": "PMK-42/PMK.04/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 48/PMK.04/2012",
+    "quote": "Pasal II 1. Pada saat Peraturan Menteri ini mulai berlaku: a. terhadap Pemberitahuan Pabean yang telah disampaikan dan telah mendapatkan nomor pendaftaran berdasarkan Peraturan Menteri Keuangan Nomor 48/PMK.04/2012 tentang Pemberitahuan Pabean dalam rangka Pemasukan dan Pengeluaran Barang ke dan dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas (Berita Negara Republik Indonesia Tahun 2012 Nomor 332), masih tetap berlaku sampai dengan 30 (tiga puluh) hari terhitung sejak berlakunya Peraturan Menteri ini; … b. Pasal 122 Peraturan Menteri Keuangan Nomor 47 /PMK.04/2012 tentang Tata Laksana Pemasukan dan Pengeluaran Barang ke dan dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas dan Pembebasan Cukai (Berita Negara Republik Indonesia Tahun 2012 Nomor 331) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 120/PMK.04/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 47/PMK.04/2012 tentang Tata Laksana Pemasukan dan Pengeluaran Barang ke dan dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas dan Pembebasan Cukai (Berita Negara Republik Indonesia Tahun 2017 Nomor 1214), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 48/PMK.04/2012 TENTANG PEMBERITAHUAN PABEAN DALAM RANGKA PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN YANG TELAH DITETAPKAN SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS"
    }
@@ -60,7 +74,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 46/PMK.04/2009",
+    "name": "Peraturan Menteri Keuangan Nomor 46/PMK.04/2009",
+    "quote": "Pasal 19 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 46/PMK.04/2009 tentang Pemberitahuan Pabean Dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang telah Ditunjuk sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 241/PMK.04/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-46-2009"
    },
@@ -71,7 +87,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 241/PMK.04/2009",
+    "name": "Peraturan Menteri Keuangan Nomor 241/PMK.04/2009",
+    "quote": "Pasal 19 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 46/PMK.04/2009 tentang Pemberitahuan Pabean Dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang telah Ditunjuk sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 241/PMK.04/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-241-2009"
    }

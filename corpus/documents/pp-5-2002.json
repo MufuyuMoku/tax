@@ -28,7 +28,9 @@
      "1996",
      null
     ],
-    "quote": "PERATURAN PEMERINTAH NOMOR 29 TAHUN 1996",
+    "name": "PERATURAN PEMERINTAH NOMOR 29 TAHUN 1996",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 29 Tahun 1996 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Persewaan Tanah dan/ atau Bangunan, diubah sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-29-1996"
    }
@@ -36,8 +38,15 @@
   "revoked_by": [
    {
     "id": "pp-34-2017",
+    "key": [
+     "PP",
+     "34",
+     "2017",
+     null
+    ],
     "number_as_written": "34 TAHUN 2017",
-    "quote": "Peraturan Pemerintah Nomor 5 Tahun 2002",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 29 Tahun 1996 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Persewaan Tanah dan/atau Bangunan (Lembaran Negara Republik Indonesia Tahun 1996 Nomor 46, Tambahan Lembaran Negara Republik Indonesia Nomor 3636) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 5 Tahun 2002 tentang Perubahan atas Peraturan Pemerintah Nomor 29 Tahun 1996 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Persewaan Tanah dan/atau Bangunan (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 10, Tambahan Lembaran Negara Republik Indonesia Nomor 4174), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI PERSEWAAN TANAH DAN/ATAU BANGUNAN"
    }

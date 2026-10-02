@@ -35,8 +35,15 @@
   "revoked_by": [
    {
     "id": "pmk-99-2018",
+    "key": [
+     "PMK",
+     "99",
+     "2018",
+     null
+    ],
     "number_as_written": "99/PMK.03/2018",
-    "quote": "Peraturan Menteri Keuangan Nomor 107/PMK.011/2013",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulru. berlaku, Peraturan Menteri Keuangan Nomor 107/PMK.011/2013 tentang Tata Cara Penghitungan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2013 Nomor 984), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 23 TAHUN 2018 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK YANG MEMILIKI PEREDARAN BRUTO TERTENTU"
    }
@@ -72,7 +79,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 99/PMK.03/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 99/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-243-2008",
+    "key": [
+     "PMK",
+     "243",
+     "2008",
+     null
+    ],
     "number_as_written": "243/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 566/KMK.04/1999",
+    "quote": "Pasal II Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 566/KMK.04/1999 tentang Pajak Penghasilan Wajib Pajak Badan yang Usaha Pokoknya Melakukan Transaksi Penjualan atau Pengalihan Hak Atas Tanah dan atau Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 635/KMK.04/1994 TENTANG PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    }

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-80-2010",
+    "key": [
+     "PP",
+     "80",
+     "2010",
+     null
+    ],
     "number_as_written": "80 TAHUN 2010",
-    "quote": "Peraturan Pemerintah Nomor 45 Tahun 1994",
+    "quote": "Pasal 8 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 45 Tahun 1994 tentang Pajak Penghasilan bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota Angkatan Bersenjata Republik Indonesia, dan Para Pensiunan atas Penghasilan yang Dibebankan kepada Keuangan Negara atau Keuangan Daerah (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 3577), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TARIF PEMOTONGAN DAN PENGENAAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN YANG MENJADI BEBAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA ATAU ANGGARAN PENDAPATAN DAN BELANJA DAERAH"
    }

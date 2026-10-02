@@ -24,8 +24,15 @@
   "revoked_by": [
    {
     "id": "per-djp-178-2006",
+    "key": [
+     "PER-DJP",
+     "178",
+     "2006",
+     null
+    ],
     "number_as_written": "PER-178/PJ/2006",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-170/PJ./2002",
+    "quote": "Pasal 6 Pada saat mulai berlakunya Peraturan Direktur Jenderal Pajak ini, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-170/PJ./2002 tanggal 28 Maret 2002 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "JENIS JASA LAIN DAN PERKIRAAN PENGHASILAN NETO SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000"
    }
@@ -38,7 +45,9 @@
      "2001",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-305/PJ/2001",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-305/PJ/2001",
+    "quote": "Pasal 5 Pada saat mulai berlakunya Keputusan Direktur Jenderal Pajak ini, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-305/PJ/2001 tanggal 18 April 2001 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-305-2001"
    }

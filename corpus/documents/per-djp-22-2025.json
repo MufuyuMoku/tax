@@ -24,7 +24,9 @@
      "2022",
      null
     ],
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022",
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022",
+    "quote": "Ketentuan dalam Lampiran I Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-3/PJ/2025 tentang Perubahan Keempat atas Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto diubah sehingga menjadi sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-4-2022"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "per-djp-4-2026",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2026",
+     null
+    ],
     "number_as_written": "PER-4/PJ/2026",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2025",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2025 tentang Perubahan Kelima atas Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -55,7 +64,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-4/PJ/2026 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 4/2026 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

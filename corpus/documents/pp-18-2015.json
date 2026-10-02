@@ -42,8 +42,15 @@
   "amended_by": [
    {
     "id": "pp-9-2016",
+    "key": [
+     "PP",
+     "9",
+     "2016",
+     null
+    ],
     "number_as_written": "9 TAHUN 2016",
-    "quote": "PERATURAN PEMERINTAH NOMOR 18 TAHUN 2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 18 Tahun 2015 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Tahun 2015 Nomor 77, Tambahan Lembaran Negara Nomor 5638) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 18 TAHUN 2015 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
    }
@@ -52,8 +59,15 @@
   "revoked_by": [
    {
     "id": "pp-78-2019",
+    "key": [
+     "PP",
+     "78",
+     "2019",
+     null
+    ],
     "number_as_written": "78 TAHUN 2019",
-    "quote": "Peraturan Pemerintah Nomor 18 Tahun 2015",
+    "quote": "Pasal 12 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 18 Tahun 2015 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 5688) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 9 Tahun 2016 tentang Perubahan atas Peraturan Pemerintah Nomor 18 Tahun 2015 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 72, Tambahan Lembaran Negara Republik Indonesia Nomor 5873), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
    }
@@ -66,7 +80,9 @@
      "2007",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 1 Tahun 2007",
+    "name": "Peraturan Pemerintah Nomor 1 Tahun 2007",
+    "quote": "Pasal 12 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik lndonesia Tahun 2007 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4675) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 52 Tahun 2011 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik lndonesia Tahun 2011 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5264), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-1-2007"
    },
@@ -77,7 +93,9 @@
      "2011",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 52 Tahun 2011",
+    "name": "Peraturan Pemerintah Nomor 52 Tahun 2011",
+    "quote": "Pasal 12 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik lndonesia Tahun 2007 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4675) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 52 Tahun 2011 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 1 Tahun 2007 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu (Lembaran Negara Republik lndonesia Tahun 2011 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5264), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-52-2011"
    }

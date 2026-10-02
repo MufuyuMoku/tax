@@ -24,7 +24,9 @@
      "2008",
      null
     ],
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008",
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008",
+    "quote": "Mengubah Lampiran angka romawi IV dengan menambah 1 (satu) butir menjadi butir 64 dalam Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 15/PMK.03/2010, sehingga Lampiran angka romawi IV berbunyi sebagai berikut: Organisasi -Organisasi Internasional Lainnya: Asean Secretariat SEAMEO (South East Asian Minister of Education Organization) ACE (The ASEAN Centre for Energy) NORAD (The Norwegian Agency for International Development) Plan International Inc.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-215-2008"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "pmk-235-2020",
+    "key": [
+     "PMK",
+     "235",
+     "2020",
+     null
+    ],
     "number_as_written": "235/PMK.010/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 142/PMK.03/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 142/PMK.03/2010 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2010 Nomor 398); … 4. Peraturan Menteri Keuangan Nomor 156/PMK.010/2015 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2010 Nomor 1051), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    }

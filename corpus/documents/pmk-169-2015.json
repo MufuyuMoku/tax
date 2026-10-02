@@ -33,7 +33,9 @@
      "1985",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 254/KMK.01/1985",
+    "name": "Keputusan Menteri Keuangan Nomor 254/KMK.01/1985",
+    "quote": "Keputusan Menteri Keuangan Nomor 254/KMK.01/1985 tentang Penundaan Pelaksanaan Keputusan Menteri Keuangan Nomor 1002/KMK.04/1984 tentang Penentuan Perbandingan antara Utang dan Modal Sendiri Untuk Keperluan Pengenaan Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-254-kmk-01-1985"
    },
@@ -44,7 +46,9 @@
      "1984",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 1002/KMK.04/1984",
+    "name": "Keputusan Menteri Keuangan Nomor 1002/KMK.04/1984",
+    "quote": "Keputusan Menteri Keuangan Nomor 254/KMK.01/1985 tentang Penundaan Pelaksanaan Keputusan Menteri Keuangan Nomor 1002/KMK.04/1984 tentang Penentuan Perbandingan antara Utang dan Modal Sendiri Untuk Keperluan Pengenaan Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-1002-kmk-04-1984"
    }

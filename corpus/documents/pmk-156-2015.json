@@ -24,7 +24,9 @@
      "2008",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "name": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk subjek Pajak Penghasilan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 15/PMK.03/2010; 2. Nomor 142/PMK.03/2010; 3. Nomor 166/PMK.011/2012, diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-215-2008"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "pmk-235-2020",
+    "key": [
+     "PMK",
+     "235",
+     "2020",
+     null
+    ],
     "number_as_written": "235/PMK.010/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 156/PMK.010/2015",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 4. Peraturan Menteri Keuangan Nomor 156/PMK.010/2015 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2010 Nomor 1051), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    }

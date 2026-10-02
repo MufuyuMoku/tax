@@ -36,8 +36,15 @@
   "amended_by": [
    {
     "id": "pmk-219-2012",
+    "key": [
+     "PMK",
+     "219",
+     "2012",
+     null
+    ],
     "number_as_written": "219/PMK.011/2012",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 81/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 81/PMK.03/2009 tentang Pembentukan atau Pemupukan Dana Cadangan yang Boleh Dikurangkan Sebagai Biaya diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 81/PMK.03/2009 TENTANG PEMBENTUKAN ATAU PEMUPUKAN DANA CADANGAN YANG BOLEH DIKURANGKAN SEBAGAI BIAYA"
    }
@@ -46,8 +53,15 @@
   "revoked_by": [
    {
     "id": "pmk-74-2024",
+    "key": [
+     "PMK",
+     "74",
+     "2024",
+     null
+    ],
     "number_as_written": "74 TAHUN 2024",
-    "quote": "Peraturan Menteri Keuangan Nomor 81/PMK.03/2009",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku, ketentuan Pasal 1 huruf a dan Pasal 2 sampai dengan Pasal 11 Peraturan Menteri Keuangan Nomor 81/PMK.03/2009 tentang Pembentukan atau Pemupukan Dana Cadangan yang Boleh Dikurangkan sebagai Biaya sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 219/PMK.011/2012 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 81/PMK.03/2009 tentang Pembentukan atau Pemupukan Dana Cadangan yang Boleh Dikurangkan sebagai Biaya (Berita Negara Republik Indonesia Tahun 2012 Nomor 1307), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBENTUKAN CADANGAN PIUTANG TAK TERTAGIH YANG BOLEH DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -60,7 +74,9 @@
      "1995",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 80/KMK.04/1995",
+    "name": "Keputusan Menteri Keuangan Nomor 80/KMK.04/1995",
+    "quote": "Pasal 19 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 80/KMK.04/1995 tentang Besarnya Dana Cadangan yang Boleh Dikurangkan sebagai Biaya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 83/PMK.03/2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-80-kmk-04-1995"
    },
@@ -71,7 +87,9 @@
      "2006",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 83/PMK.03/2006",
+    "name": "Peraturan Menteri Keuangan Nomor 83/PMK.03/2006",
+    "quote": "Pasal 19 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 80/KMK.04/1995 tentang Besarnya Dana Cadangan yang Boleh Dikurangkan sebagai Biaya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 83/PMK.03/2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-83-2006"
    }

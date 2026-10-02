@@ -32,8 +32,15 @@
   "revoked_by": [
    {
     "id": "per-djp-4-2022",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2022",
+     null
+    ],
     "number_as_written": "PER-04/PJ/2022",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2021",
+    "quote": "Pasal 3 Pada saat mulai berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2021 tentang Badan/Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }
@@ -46,7 +53,9 @@
      "2020",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2020",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2020",
+    "quote": "Pasal 2 Pada saat mulai berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2020 tentang Badan/Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan Sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-15-2020"
    }
@@ -67,7 +76,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-04/PJ/2022 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 4/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

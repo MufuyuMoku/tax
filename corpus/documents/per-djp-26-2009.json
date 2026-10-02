@@ -20,8 +20,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2009",
+    "quote": "… i. Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2009 tentang Pelaksanaan Pemberian Pajak Penghasilan Pasal 21 Ditanggung Pemerintah atas Penghasilan Pekerja pada Pemberi Kerja yang Berusaha pada Kategori Usaha Tertentu sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2009 tentang Perubahan Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2009 tentang Pelaksanaan Pemberian Pajak Penghasilan Pasal 21 Ditanggung Pemerintah atas Penghasilan Pekerja pada Pemberi Kerja yang Berusaha pada Kategori Usaha Tertentu; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }
@@ -56,7 +63,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 30/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

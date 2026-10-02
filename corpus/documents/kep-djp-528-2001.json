@@ -25,7 +25,10 @@
      "2000",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 42 Tahun 2000",
+    "name": "Peraturan Pemerintah Nomor 42 Tahun 2000",
+    "quote": "Mengubah ketentuan dalam Lampiran I huruf A angka 2 huruf b Keputusan Direktur Jenderal Pajak Nomor KEP-407/PJ./2000, sehingga keseluruhan Lampiran I huruf A angka 2 huruf b berbunyi sebagai berikut : \"b.",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
     "rejected": "hierarki: KEP-DJP tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-42-2000"

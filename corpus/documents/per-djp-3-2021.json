@@ -50,8 +50,15 @@
   "amended_by": [
    {
     "id": "per-djp-21-2021",
+    "key": [
+     "PER-DJP",
+     "21",
+     "2021",
+     null
+    ],
     "number_as_written": "PER-21/PJ/2021",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-03/PJ/2021",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-03/PJ/2021 tentang Tata Cara Pengajuan dan Penerbitan Keputusan Mengenai Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta dalam rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-03/PJ/2021 TENTANG TATA CARA PENGAJUAN DAN PENERBITAN KEPUTUSAN MENGENAI PENGGUNAAN NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA"
    }
@@ -66,7 +73,9 @@
      "2008",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2008",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2008",
+    "quote": "huruf c. 2. Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2008 tentang Persyaratan dan Tata Cara Pemberian Izin Penggunaan Nilai Buku atas Pengalihan Harta Dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-28-2008"
    }

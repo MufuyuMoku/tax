@@ -27,22 +27,43 @@
   "amended_by": [
    {
     "id": "pmk-154-2007",
+    "key": [
+     "PMK",
+     "154",
+     "2007",
+     null
+    ],
     "number_as_written": "154/PMK.03/2007",
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan serta Tata Cara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah dengan Keputusan Menteri Keuangan: a. Nomor 392/KMK.03/2001; b. Nomor 236/KMK.03/2003; diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
    },
    {
     "id": "pmk-210-2008",
+    "key": [
+     "PMK",
+     "210",
+     "2008",
+     null
+    ],
     "number_as_written": "210/PMK.03/2008",
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "quote": "Ketentuan Pasal 1 angka 5 Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22. Sifat dan Besarnya Pungutan serta Tata Cara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah dengan Keputusan Menteri Keuangan dan/atau Peraturan Menteri Keuangan: 1. Nomor 392/KMK.03/2001; 2. Nomor 236/KMK.03/2003; 3. Nomor 154/PMK.03/2007; 4. Nomor 08/PMK.03/2008, diubah sehingga Pasal 1 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
    },
    {
     "id": "pmk-8-2008",
+    "key": [
+     "PMK",
+     "8",
+     "2008",
+     null
+    ],
     "number_as_written": "08/PMK.03/2008",
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "quote": "Ketentuan Pasal 2 ayat (1) Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan serta Tata Cara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah dengan Keputusan Menteri Keuangan dan/atau Peraturan Menteri Keuangan: a. Nomor 392/KMK.03/2001; b. Nomor 236/KMK.03/2003; c. Nomor 154/PMK.03/2007, diubah dengan menambah 1 (satu) huruf yakni huruf d, sehingga Pasal 2 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEEMPAT ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA"
    }
@@ -51,8 +72,15 @@
   "revoked_by": [
    {
     "id": "pmk-154-2010",
+    "key": [
+     "PMK",
+     "154",
+     "2010",
+     null
+    ],
     "number_as_written": "154/PMK.03/2010",
-    "quote": "Keputusan Menteri Keuangan Nomor 254/KMK.03/2001",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukkan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tata Cara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 210/PMK.03/2008, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
    }
@@ -65,7 +93,9 @@
      "1997",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 450/KMK.04/1997",
+    "name": "Keputusan Menteri Keuangan Nomor 450/KMK.04/1997",
+    "quote": "Pasal 10 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, maka Keputusan Menteri Keuangan Nomor 450/KMK.04/1997 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 444/KMK.04/1999 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-450-kmk-04-1997"
    },
@@ -76,7 +106,9 @@
      "1999",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 444/KMK.04/1999",
+    "name": "Keputusan Menteri Keuangan Nomor 444/KMK.04/1999",
+    "quote": "Pasal 10 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, maka Keputusan Menteri Keuangan Nomor 450/KMK.04/1997 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 444/KMK.04/1999 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-444-kmk-04-1999"
    }

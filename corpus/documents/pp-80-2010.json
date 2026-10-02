@@ -36,8 +36,15 @@
   "revoked_by": [
    {
     "id": "pp-58-2023",
+    "key": [
+     "PP",
+     "58",
+     "2023",
+     null
+    ],
     "number_as_written": "58 TAHUN 2023",
-    "quote": "Peraturan Pemerintah Nomor 80 Tahun 2010",
+    "quote": "Peraturan Pemerintah Nomor 80 Tahun 2010 tentang Tarif Pemotongan dan Pengenaan Pajak Penghasilan Pasal 21 atas Penghasilan yang Menjadi Beban Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan dan Belanja Daerah (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5174), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TARIF PEMOTONGAN PAJAK PENGHASII.AN PASAL 21 ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATANWAJIB PAJAK ORANG PRIBADI"
    }
@@ -50,7 +57,9 @@
      "1994",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 45 Tahun 1994",
+    "name": "Peraturan Pemerintah Nomor 45 Tahun 1994",
+    "quote": "Pasal 8 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 45 Tahun 1994 tentang Pajak Penghasilan bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota Angkatan Bersenjata Republik Indonesia, dan Para Pensiunan atas Penghasilan yang Dibebankan kepada Keuangan Negara atau Keuangan Daerah (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 3577), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-45-1994"
    }
@@ -83,7 +92,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 58 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 58/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -27,8 +27,15 @@
   "amended_by": [
    {
     "id": "pmk-192-2014",
+    "key": [
+     "PMK",
+     "192",
+     "2014",
+     null
+    ],
     "number_as_written": "192/PMK.011/2014",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.011/2011",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 130/PMK.011/2011 tentang Pemberian Fasilitas Pembebasan atau Pengurangan Pajak Penghasilan diubah sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.011/2011 TENTANG PEMBERIAN FASILITAS PEMBEBASAN ATAU PENGURANGAN PAJAK PENGHASILAN BADAN"
    }
@@ -37,8 +44,15 @@
   "revoked_by": [
    {
     "id": "pmk-159-2015",
+    "key": [
+     "PMK",
+     "159",
+     "2015",
+     null
+    ],
     "number_as_written": "159/PMK.010/2015",
-    "quote": "Peraturan Menteri Keuangan Nomor 130/PMK.011/2011",
+    "quote": "Pasal 15 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 130/PMK.011/2011 tentang Pemberian Fasilitas Pembebasan atau Pengurangan Pajak Penghasilan Badan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 192/PMK.011/2014, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBERIAN FASILITAS PENGURANGAN PAJAK PENGHASILAN BADAN"
    }

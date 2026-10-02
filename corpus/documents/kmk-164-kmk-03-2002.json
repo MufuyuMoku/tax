@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-192-2018",
+    "key": [
+     "PMK",
+     "192",
+     "2018",
+     null
+    ],
     "number_as_written": "192/PMK.03/2018",
-    "quote": "Keputusan Menteri Keuangan Nomor 164/KMK.03/2002",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 164/KMK.03/2002 tentang Kredit Pajak Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PELAKSANAAN PENGKREDITAN PAJAK ATAS PENGHASILAN DARI LUAR NEGERI"
    }

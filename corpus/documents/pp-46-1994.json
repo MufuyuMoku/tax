@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-42-2000",
+    "key": [
+     "PP",
+     "42",
+     "2000",
+     null
+    ],
     "number_as_written": "42 TAHUN 2000",
-    "quote": "Peraturan Pemerintah Nomor 46 Tahun 1994",
+    "quote": "Pasal 6 Dengan berlakunya Peraturan Pemerintah ini, Peraturan Pemerintah Nomor 46 Tahun 1994 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 78 Tahun 1999 dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMBAYARAN PAJAK PENGHASILAN ORANG PRIBADI YANG AKAN BERTOLAK KELUAR NEGERI"
    }

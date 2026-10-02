@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "per-djp-20-2014",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2014",
+     null
+    ],
     "number_as_written": "PER-20/PJ/2014",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-55/PJ/2009",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-55/PJ/2009 tentang Tata Cara Permohonan dan Penetapan Masa Manfaat yang Sesungguhnya atas Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PERMOHONAN DAN PENETAPAN MASA MANFAAT YANG SESUNGGUHNYA ATAS HARTA BERWUJUD BUKAN BANGUNAN UNTUK KEPERLUAN PENYUSUTAN"
    }

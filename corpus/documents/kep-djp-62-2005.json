@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-62/PJ./2005",
+    "quote": "… ah. Keputusan Direktur Jenderal Pajak Nomor KEP-62/PJ./2005 tentang Angsuran Bulanan Pajak Penghasilan Pasal 25 Tahun 2005 Sehubungan dengan Penyesuaian Besarnya Penghasilan Tidak Kena Pajak; dan ai. Keputusan Direktur Jenderal Pajak Nomor KEP-139/PJ/2005 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan, Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi, dan Surat Pemberitahuan Tahunan Pajak Penghasilan Pasal 21 Tahun 2005 Beserta Petunjuk Pengisiannya; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }
@@ -40,7 +47,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 30/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

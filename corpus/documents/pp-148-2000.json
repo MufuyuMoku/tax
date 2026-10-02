@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-1-2007",
+    "key": [
+     "PP",
+     "1",
+     "2007",
+     null
+    ],
     "number_as_written": "1 TAHUN 2007",
-    "quote": "Peraturan Pemerintah Nomor 148 Tahun 2000",
+    "quote": "Pasal 8 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 148 Tahun 2000 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan atau Di Daerah-Daerah Tertentu (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 265 Tambahan Lembaran Negara Republik Indonesia Nomor 4066), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU"
    }

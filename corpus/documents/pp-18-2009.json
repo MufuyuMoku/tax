@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "pp-55-2022",
+    "key": [
+     "PP",
+     "55",
+     "2022",
+     null
+    ],
     "number_as_written": "55 TAHUN 2022",
-    "quote": "Peraturan Pemerintah Nomor 18 Tahun 2009",
+    "quote": "Pasal 72 Pada saat Peraturan Pemerintah ini mulai berlaku: Peraturan Pemerintah Nomor 18 Tahun 2009 tentang Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dikecualikan dari Objek Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 35, Tambahan Lembaran Negara Republik Indonesia Nomor 4984), dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
    }
@@ -65,7 +72,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 55/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

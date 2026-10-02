@@ -21,22 +21,43 @@
   "amended_by": [
    {
     "id": "pmk-142-2010",
+    "key": [
+     "PMK",
+     "142",
+     "2010",
+     null
+    ],
     "number_as_written": "142/PMK.03/2010",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008",
+    "quote": "Mengubah Lampiran angka romawi IV dengan menambah 1 (satu) butir menjadi butir 64 dalam Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 15/PMK.03/2010, sehingga Lampiran angka romawi IV berbunyi sebagai berikut: Organisasi -Organisasi Internasional Lainnya: Asean Secretariat SEAMEO (South East Asian Minister of Education Organization) ACE (The ASEAN Centre for Energy) NORAD (The Norwegian Agency for International Development) Plan International Inc.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    },
    {
     "id": "pmk-156-2015",
+    "key": [
+     "PMK",
+     "156",
+     "2015",
+     null
+    ],
     "number_as_written": "156/PMK.010/2015",
-    "quote": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk subjek Pajak Penghasilan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 15/PMK.03/2010; 2. Nomor 142/PMK.03/2010; 3. Nomor 166/PMK.011/2012, diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    },
    {
     "id": "pmk-166-2012",
+    "key": [
+     "PMK",
+     "166",
+     "2012",
+     null
+    ],
     "number_as_written": "166/PMK.011/2012",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 15/PMK.03/2010; 2. Nomor 142/PMK.03/2010, diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    }
@@ -45,8 +66,15 @@
   "revoked_by": [
    {
     "id": "pmk-235-2020",
+    "key": [
+     "PMK",
+     "235",
+     "2020",
+     null
+    ],
     "number_as_written": "235/PMK.010/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 215/PMK.03/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 15/PMK.03/2010 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasiorganisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2010 Nomor 32); … 4. Peraturan Menteri Keuangan Nomor 156/PMK.010/2015 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-organisasi Internasional dan Pejabat-pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2010 Nomor 1051), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
    }
@@ -59,7 +87,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 574/KMK.04/2000",
+    "name": "Keputusan Menteri Keuangan Nomor 574/KMK.04/2000",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 87/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-574-kmk-04-2000"
    },
@@ -70,7 +100,9 @@
      "2007",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 87/PMK.03/2007",
+    "name": "Peraturan Menteri Keuangan Nomor 87/PMK.03/2007",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 87/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-87-2007"
    }

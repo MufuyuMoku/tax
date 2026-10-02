@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "pp-27-2008",
+    "key": [
+     "PP",
+     "27",
+     "2008",
+     null
+    ],
     "number_as_written": "27 TAHUN 2008",
-    "quote": "Peraturan Pemerintah Nomor 11 Tahun 2006",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 11 Tahun 2006 tentang Pajak Penghasilan atas Diskonto Surat Perbendaharaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN ATAS DISKONTO SURAT PERBENDAHARAN NEGARA"
    }

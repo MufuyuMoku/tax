@@ -38,8 +38,15 @@
   "revoked_by": [
    {
     "id": "pp-55-2022",
+    "key": [
+     "PP",
+     "55",
+     "2022",
+     null
+    ],
     "number_as_written": "55 TAHUN 2022",
-    "quote": "Peraturan Pemerintah Nomor 30 Tahun 2020",
+    "quote": "Pasal 72 Pada saat Peraturan Pemerintah ini mulai berlaku: … Peraturan Pemerintah Nomor 30 Tahun 2020 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 152, Tambahan Lembaran Negara Republik Indonesia Nomor 6530), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
    }
@@ -52,7 +59,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 77 Tahun 2013",
+    "name": "Peraturan Pemerintah Nomor 77 Tahun 2013",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 186, Tambahan Lembaran Negara Republik Indonesia Nomor 5465) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 56 Tahun 2015 tentang Perubahan atas Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 180, Tambahan Lembaran Negara Republik Indonesia Nomor 5725), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-77-2013"
    },
@@ -63,7 +72,9 @@
      "2015",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 56 Tahun 2015",
+    "name": "Peraturan Pemerintah Nomor 56 Tahun 2015",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 186, Tambahan Lembaran Negara Republik Indonesia Nomor 5465) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 56 Tahun 2015 tentang Perubahan atas Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 180, Tambahan Lembaran Negara Republik Indonesia Nomor 5725), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pp-56-2015"
    }
@@ -97,7 +108,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 55 TAHUN 2022 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PP 55/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

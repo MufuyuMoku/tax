@@ -35,8 +35,15 @@
   "amended_by": [
    {
     "id": "pmk-205-2018",
+    "key": [
+     "PMK",
+     "205",
+     "2018",
+     null
+    ],
     "number_as_written": "205/PMK.010/2018",
-    "quote": "PERATURAN MENTERI KEUANGAN NOMOR 52/PMK.010/2017",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 52/PMK.010/2017 tentang Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha (Berita Negara Republik Indonesia Tahun 2017 Nomor 586) diubah sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 52/PMK.010/2017 TENTANG PENGGUNAAN NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA"
    }
@@ -51,7 +58,9 @@
      "2008",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 43/PMK.03/2008",
+    "name": "Peraturan Menteri Keuangan Nomor 43/PMK.03/2008",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 43/PMK.03/2008 tentang Penggunaan Nilai Buku atas Pengalihan Harta dalam rangka Penggabungan, Peleburan, atau Pemekaran Usaha (Berita Negara Republik Indonesia Tahun 2008 Nomor 30), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-43-2008"
    }

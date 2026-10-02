@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pp-68-2009",
+    "key": [
+     "PP",
+     "68",
+     "2009",
+     null
+    ],
     "number_as_written": "68 TAHUN 2009",
-    "quote": "Peraturan Pemerintah Nomor 149 Tahun 2000",
+    "quote": "Pasal 12 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 149 Tahun 2000 tentang Pemotongan Pajak Penghasilan Pasal 21 atas Penghasilan berupa Uang Pesangon, Uang Tebusan Pensiun, dan Tunjangan Hari Tua atau Jaminan Hari Tua (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 266, Tambahan Lembaran Negara Republik Indonesia Nomor 4067), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TARIF PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG MANFAAT PENSIUN, TUNJANGAN HARI TUA DAN JAMINAN HARI TUA YANG DIBAYARKAN SEKALIGUS"
    }

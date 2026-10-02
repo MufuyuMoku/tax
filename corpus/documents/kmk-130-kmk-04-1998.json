@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-105-2009",
+    "key": [
+     "PMK",
+     "105",
+     "2009",
+     null
+    ],
     "number_as_written": "105/PMK.03/2009",
-    "quote": "Keputusan Menteri Keuangan Nomor 130/KMK.04/1998",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 130/KMK.04/1998 tentang Penghapusan Piutang Tak Tertagih yang Boleh Dikurangkan Sebagai Biaya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    }

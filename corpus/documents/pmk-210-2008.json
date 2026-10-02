@@ -24,7 +24,9 @@
      "2001",
      null
     ],
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001",
+    "quote": "Ketentuan Pasal 1 angka 5 Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22. Sifat dan Besarnya Pungutan serta Tata Cara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah dengan Keputusan Menteri Keuangan dan/atau Peraturan Menteri Keuangan: 1. Nomor 392/KMK.03/2001; 2. Nomor 236/KMK.03/2003; 3. Nomor 154/PMK.03/2007; 4. Nomor 08/PMK.03/2008, diubah sehingga Pasal 1 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-254-kmk-03-2001"
    }
@@ -32,8 +34,15 @@
   "revoked_by": [
    {
     "id": "pmk-154-2010",
+    "key": [
+     "PMK",
+     "154",
+     "2010",
+     null
+    ],
     "number_as_written": "154/PMK.03/2010",
-    "quote": "Peraturan Menteri Keuangan Nomor 210/PMK.03/2008",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukkan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tata Cara Penyetoran dan Pelaporannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 210/PMK.03/2008, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEHUBUNGAN DENGAN PEMBAYARAN ATAS PENYERAHAN BARANG DAN KEGIATAN DI BIDANG IMPOR ATAU KEGIATAN USAHA DI BIDANG LAIN"
    }

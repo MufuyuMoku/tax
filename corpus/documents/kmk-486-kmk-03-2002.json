@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-79-2008",
+    "key": [
+     "PMK",
+     "79",
+     "2008",
+     null
+    ],
     "number_as_written": "79/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 486/KMK.03/2002",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 486/KMK.03/2002 tentang Penilaian Kembali Aktiva Tetap Perusahaan Untuk Tujuan Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENILAIAN KEMBALI AKTIVA TETAP PERUSAHAAN UNTUK TUJUAN PERPAJAKAN"
    }

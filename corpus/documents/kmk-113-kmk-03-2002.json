@@ -26,8 +26,15 @@
   "revoked_by": [
    {
     "id": "pmk-257-2008",
+    "key": [
+     "PMK",
+     "257",
+     "2008",
+     null
+    ],
     "number_as_written": "257/PMK.03/2008",
-    "quote": "Keputusan Menteri Keuangan Nomor 113/KMK.03/2002",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 113/KMK.03/2002 tentang Perlakuan Perpajakan atas Penghasilan Kena Pajak Sesudah Dikurangi Pajak dari Suatu Bentuk Usaha Tetap, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PERPAJAKAN ATAS PENGHASILAN KENA PAJAK SESUDAH DIKURANGI PAJAK DARI SUATU BENTUK USAHA TETAP"
    }
@@ -40,7 +47,9 @@
      "1994",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 602/KMK.04/1994",
+    "name": "Keputusan Menteri Keuangan Nomor 602/KMK.04/1994",
+    "quote": "Pasal 7 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 602/KMK.04/1994 tentang Perlakuan Perpajakan atas Penghasilan Kena Pajak Sesudah Dikurangi Pajak dari Suatu Bentuk Usaha Tetap yang Ditanamkan Kembali di Indonesia dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-602-kmk-04-1994"
    }

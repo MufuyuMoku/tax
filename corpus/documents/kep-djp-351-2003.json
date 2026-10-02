@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-53-2008-ralat",
+    "key": [
+     "PER-DJP",
+     "53",
+     "2008",
+     "ralat"
+    ],
     "number_as_written": "PER-53/PJ/2008",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-351/PJ./2003",
+    "quote": "Pasal 14 Pada saat Peraturan Diretur Jenderal Pajak ini mulai berlaku maka: … 3. Keputusan Direktur Jenderal Pajak Nomor KEP-156/PJ./2000 tentang Bentuk Formulir Surat Keterangan Bebas Fiskal Luar Negeri sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-351/PJ./2003; … 22. Ketentuan-ketentuan lain yang bertentangan dengan Peraturan ini. Dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "RALAT PERATURAN DIRJEN PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI YANG AKAN BERTOLAK KE LUAR NEGERI"
    }
@@ -40,7 +47,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-53/PJ/2008 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 53/2008 (ralat) mencabutnya"
   ],
   "value": "tidak_pasti"
  },

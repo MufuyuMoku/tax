@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-112-kmk-03-2001",
+    "key": [
+     "KMK",
+     "112/KMK.03",
+     "2001",
+     null
+    ],
     "number_as_written": "112/KMK.03/2001",
-    "quote": "Keputusan Menteri Keuangan Nomor 462/KMK.04/1998",
+    "quote": "Pasal 3 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 462/KMK.04/1998 dinyatakan tidak berlaku",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMOTONGAN PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN BERUPA UANG PESANGON, UANG TEBUSAN PENSIUN, DAN TUNJANGAN HARI TUA ATAU JAMINAN HARI TUA"
    }

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-32-2010",
+    "key": [
+     "PER-DJP",
+     "32",
+     "2010",
+     null
+    ],
     "number_as_written": "PER-32/PJ/2010",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-171/PJ./2002",
+    "quote": "Pasal 6 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Keputusan Direktur Jenderal Pajak Nomor KEP-171/PJ./2002 tentang Pelaksanaan Pengenaan Pajak Penghasilan Pasal 25 Bagi Wajib Pajak Orang Pribadi Pengusaha Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PELAKSANAAN PENGENAAN PAJAK PENGHASILAN PASAL 25 BAGI WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU"
    }

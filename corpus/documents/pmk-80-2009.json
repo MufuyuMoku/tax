@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "pmk-68-2020",
+    "key": [
+     "PMK",
+     "68",
+     "2020",
+     null
+    ],
     "number_as_written": "68/PMK.03/2020",
-    "quote": "Peraturan Menteri Keuangan Nomor 80/PMK.03/2009",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini berlaku: … 2. Peraturan Menteri Keuangan Nomor 80/PMK.03/2009 tentang Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan dan/atau Bidang Penelitian dan Pengembangan, yang Dikecualikan dari Objek Pajak Penghasilan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PAJAK PENGHASILAN ATAS BEASISWA YANG MEMENUHI PERSYARATAN TERTENTU DAN SISA LEBIH YANG DITERIMA ATAU DIPEROLEH BADAN ATAU LEMBAGA NIRLABA YANG BERGERAK DALAM BIDANG PENDIDIKAN DAN/ATAU BIDANG PENELITIAN DAN PENGEMBANGAN"
    }

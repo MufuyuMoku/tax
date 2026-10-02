@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kep-djp-1-1992",
+    "key": [
+     "KEP-DJP",
+     "1",
+     "1992",
+     null
+    ],
     "number_as_written": "KEP - 01/PJ.43/1992",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989",
+    "quote": "Pasal 3 Dengan berlakunya Keputusan ini, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-62/PJ.3/1989 tentang Bentuk, Ukuran, Kode dan Warna Formulir Pemotongan dan Restitusi Pajak Penghasilan atas Bunga Deposito Berjangka, Sertifikat Deposito dan Tabungan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "BENTUK, UKURAN, KODE DAN WARNA FORMULIR PEMOTONGAN, PELAPORAN DAN RESITUSI PAJAK PENGHASILAN ATAS BUNGA DEPOSITO BERJANGKA, SERTIFIKAT BANK INDONESIA, SERTIFIKAT DEPOSITO DAN TABUNGAN"
    }

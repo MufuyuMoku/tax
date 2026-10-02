@@ -15,8 +15,15 @@
   "amended_by": [
    {
     "id": "per-djp-39-2010",
+    "key": [
+     "PER-DJP",
+     "39",
+     "2010",
+     null
+    ],
     "number_as_written": "PER-39/PJ/2010",
-    "quote": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-160/PJ/2005",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-160/PJ/2005 Tentang Tata Cara Penerbitan Surat Keterangan Bebas (SKB) Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun Yang Pendiriannya Telah Disahkan oleh Menteri Keuangan, diubah sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-160/PJ/2005 TENTANG TATA CARA PENERBITAN SURAT KETERANGAN BEBAS (SKB) PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN"
    }
@@ -25,8 +32,15 @@
   "revoked_by": [
    {
     "id": "per-djp-1-2013",
+    "key": [
+     "PER-DJP",
+     "1",
+     "2013",
+     null
+    ],
     "number_as_written": "PER-01/PJ/2013",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-160/PJ/2005",
+    "quote": "Pasal 11 Dengan berlakunya Peraturan Direktur Jenderal Pajak ini, maka Peraturan Direktur Jenderal Pajak Nomor PER-160/PJ/2005 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2010, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRLANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN"
    }

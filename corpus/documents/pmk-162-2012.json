@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "pmk-122-2015",
+    "key": [
+     "PMK",
+     "122",
+     "2015",
+     null
+    ],
     "number_as_written": "122/PMK.010/2015",
-    "quote": "Peraturan Menteri Keuangan Nomor 162/PMK.011/2012",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 162/PMK.011/2012 tentang Penyesuaian Besarnya Penghasilan Tidak Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK"
    }

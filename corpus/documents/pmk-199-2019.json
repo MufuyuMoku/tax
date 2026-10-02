@@ -67,8 +67,15 @@
   "revoked_by": [
    {
     "id": "pmk-96-2023",
+    "key": [
+     "PMK",
+     "96",
+     "2023",
+     null
+    ],
     "number_as_written": "96 TAHUN 2023",
-    "quote": "Peraturan Menteri Keuangan Nomor 199/PMK.010/2019",
+    "quote": "Pasal 75 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 199/PMK.010/2019 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor Barang Kiriman (Berita Negara Republik Indonesia Tahun 2019 Nomor 1 709), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN"
    }
@@ -81,7 +88,9 @@
      "2017",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 34/PMK.010/2017",
+    "name": "Peraturan Menteri Keuangan Nomor 34/PMK.010/2017",
+    "quote": "huruf b angka 9 sepanjang mengenai impor barang kiriman sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 110/PMK.010/2018 tentang Perubahan 34/PMK.010/2017 Menteri Tentang Keuangan Nomor Pemungutan Pajak Atas Peraturan Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegtatan Usaha di Bidang Lain, sepanjang telah diatur dalam Peraturan Menteri ini; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-34-2017"
    },
@@ -92,7 +101,9 @@
      "2018",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 110/PMK.010/2018",
+    "name": "Peraturan Menteri Keuangan Nomor 110/PMK.010/2018",
+    "quote": "huruf b angka 9 sepanjang mengenai impor barang kiriman sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 110/PMK.010/2018 tentang Perubahan 34/PMK.010/2017 Menteri Tentang Keuangan Nomor Pemungutan Pajak Atas Peraturan Penghasilan Pasal 22 Sehubungan Dengan Pembayaran Atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegtatan Usaha di Bidang Lain, sepanjang telah diatur dalam Peraturan Menteri ini; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-110-2018"
    }
@@ -113,7 +124,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks 96 TAHUN 2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 96/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

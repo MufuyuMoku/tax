@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-61-2005",
+    "key": [
+     "PMK",
+     "61",
+     "2005",
+     null
+    ],
     "number_as_written": "61/PMK.03/2005",
-    "quote": "Keputusan Menteri Keuangan Nomor 616/KMK.01/1996",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 616/KMK.01/1996 tentang Pembebasan Bea Masuk dan Perlakuan Perpajakan Dalam Rangka Pengembangan Pulau Bintan dan Karimun sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 346/KMK.04/1998 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN DALAM RANGKA PROYEK PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN"
    }

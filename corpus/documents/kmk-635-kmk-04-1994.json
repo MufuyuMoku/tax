@@ -24,8 +24,15 @@
   "amended_by": [
    {
     "id": "pmk-243-2008",
+    "key": [
+     "PMK",
+     "243",
+     "2008",
+     null
+    ],
     "number_as_written": "243/PMK.03/2008",
-    "quote": "KEPUTUSAN MENTERI KEUANGAN NOMOR 635/KMK.04/1994",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 635/KMK.04/1994 tentang Pelaksanaan Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak Atas Tanah dan/atau Bangunan sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 392/KMK.04/1996 diubah sebagai berikut :",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 635/KMK.04/1994 TENTANG PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    }
@@ -34,8 +41,15 @@
   "revoked_by": [
    {
     "id": "pmk-261-2016",
+    "key": [
+     "PMK",
+     "261",
+     "2016",
+     null
+    ],
     "number_as_written": "261/PMK.03/2016",
-    "quote": "Keputusan Menteri Keuangan Nomor 635/KMK.04/1994",
+    "quote": "Pasal 17 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 635/KMK.04/1994 tentang Pelaksanaan Pembayaran dan Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan sebagaimana telah diubah dengan Keputusan Menteri Keuangan/Peraturan Menteri Keuangan: a. Nomor 392/KMK.04/1996 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 635/KMK.04/1994 tentang Pelaksanaan Pembayaran dan Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/ atau Bangunan; dan b. Nomor 243/PMK.03/2008 tentang Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 635/KMK.04/1994 tentang Pelaksanaan Pembayaran dan Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/ atau Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENYETORAN, PELAPORAN, DAN PENGECUALIAN PENGENAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ ATAU BANGUNAN, DAN PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA"
    }
@@ -48,7 +62,9 @@
      "1994",
      null
     ],
-    "quote": "Keputusan Menteri Keuangan Nomor 85/KMK.04/1994",
+    "name": "Keputusan Menteri Keuangan Nomor 85/KMK.04/1994",
+    "quote": "Pasal 6 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor 85/KMK.04/1994 tanggal 22 Maret 1994 tentang Tata Cara Pembayaran, Penyetoran dan Pelaporan Pajak Penghasilan yang Diterima atau Diperoleh Wajib Pajak dan Tata Cara Penyampaian Laporan Pejabat Pembuat Akta Tanah dan Bendaharawan atau Pejabat yang Melakukan Pembayaran Sehubungan dengan Pengalihan Hak atas Tanah atau Tanah dan Bangunan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "kmk-85-kmk-04-1994"
    }

@@ -190,8 +190,15 @@
   "revoked_by": [
    {
     "id": "per-djp-3-2026",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2026",
+     null
+    ],
     "number_as_written": "PER-3/PJ/2026",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2025",
+    "quote": "huruf g, Pasal 95 sampai dengan Pasal 112, Pasal 127 dan Pasal 128 Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2025 tentang Ketentuan Pelaporan Pajak Penghasilan, Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah, dan Bea Meterai dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN"
    }
@@ -204,7 +211,9 @@
      "2008",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan dan Surat Pemberitahuan Tahunan Pajak Penghasilan Orang Pribadi beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-24-2008"
    },
@@ -215,7 +224,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-7/PJ./2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-7/PJ./2009",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 2. Peraturan Direktur Jenderal Pajak Nomor PER-7/PJ./2009 tentang Perubahan atas Perubahan Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2008 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan dan Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-7-2009"
    },
@@ -226,7 +237,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2009",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 3. Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2009 tentang Tata Cara Penyampaian Pemberitahuan Perpanjangan Surat Pemberitahuan Tahunan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-21-2009"
    },
@@ -237,7 +250,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ./2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ./2009",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 4. Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ./2009 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-34-2009"
    },
@@ -248,7 +263,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ./2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ./2009",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 5. Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ./2009 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-39-2009"
    },
@@ -259,7 +276,9 @@
      "2009",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-66/PJ./2009",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-66/PJ./2009",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 6. Peraturan Direktur Jenderal Pajak Nomor PER-66/PJ./2009 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ./2009 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-66-2009"
    },
@@ -270,7 +289,9 @@
      "2010",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 7. Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-34-2010"
    },
@@ -281,7 +302,9 @@
      "2010",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 8. Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) bagi Pengusaha Kena Pajak yang Menggunakan Pedoman Penghitungan Pengkreditan Pajak Masukan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-45-2010"
    },
@@ -292,7 +315,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2013",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2013",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 9. Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2013 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) bagi Pengusaha Kena Pajak yang Menggunakan Pedoman Penghitungan Pengkreditan Pajak Masukan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-10-2013"
    },
@@ -303,7 +328,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2013",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2013",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 10. Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2013 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak PenghasiIan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-26-2013"
    },
@@ -314,7 +341,9 @@
      "2014",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2014",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2014",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 11. Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2014 tentang Bentuk dan Isi Surat Pemberitahuan Tahunan Pajak Penghasilan bagi Wajib Pajak yang Melakukan Kegiatan di Bidang Usaha Hulu Minyak dan/atau Gas Bumi; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-5-2014"
    },
@@ -325,7 +354,9 @@
      "2014",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2014",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2014",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 12. Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2014 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-19-2014"
    },
@@ -336,7 +367,9 @@
      "2015",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-29/PJ/2015",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-29/PJ/2015",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 13. Peraturan Direktur Jenderal Pajak Nomor PER-29/PJ/2015 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-29-2015"
    },
@@ -347,7 +380,9 @@
      "2015",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-36/PJ/2015",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-36/PJ/2015",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 14. Peraturan Direktur Jenderal Pajak Nomor PER-36/PJ/2015 tentang Perubahan Ketiga atas Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-36-2015"
    },
@@ -358,7 +393,9 @@
      "2017",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2017",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2017",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 15. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2017 tentang Perubahan Keempat atas Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-30-2017"
    },
@@ -369,7 +406,9 @@
      "2019",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 16. Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2019 tentang Tata Cara Penyampaian, Penerimaan, dan Pengolahan Surat Pemberitahuan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-2-2019"
    },
@@ -380,7 +419,9 @@
      "2021",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2021",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2021",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 17. Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2021 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-16-2021"
    },
@@ -391,7 +432,9 @@
      "2021",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 18. Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan dan/atau Pemungutan Pajak, serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa bagi Instansi Pemerintah; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-17-2021"
    },
@@ -402,7 +445,9 @@
      "2021",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2021",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2021",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 19. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2021 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan/Pemungutan Unifikasi serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-24-2021"
    },
@@ -413,7 +458,9 @@
      "2022",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2022",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2022",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 20. Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2022 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai bagi Pemungut Pajak Pertambahan Nilai selain Instansi Pemerintah dan bagi Pihak Lain; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-14-2022"
    },
@@ -424,7 +471,9 @@
      "2024",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2024",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2024",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 21. Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2024 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 serta Bentuk, Isi, Tata Cara Pengisian, dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-2-2024"
    },
@@ -435,7 +484,9 @@
      "2024",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2024",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2024",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 22. Peraturan Direktur Jenderal Pajak Nomor PER-5/PJ/2024 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan dan/atau Pemungutan Pajak, serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa bagi Instansi Pemerintah; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "per-djp-5-2024"
    },
@@ -446,7 +497,9 @@
      "1994",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1994",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1994",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 23. Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1994 tentang Penunjukan Wajib Pajak Orang Pribadi Dalam Negeri Tertentu sebagai Pemotong Pajak Penghasilan Pasal 23; 24. Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1996 tentang Penunjukan Wajib Pajak Orang Pribadi Dalam Negeri Tertentu sebagai Pemotong Pajak Penghasilan atas Penghasilan dari Persewaan Tanah dan/atau Bangunan; dan 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-50-1994"
    },
@@ -457,7 +510,9 @@
      "1996",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1996",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1996",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 24. Keputusan Direktur Jenderal Pajak Nomor KEP-50/PJ/1996 tentang Penunjukan Wajib Pajak Orang Pribadi Dalam Negeri Tertentu sebagai Pemotong Pajak Penghasilan atas Penghasilan dari Persewaan Tanah dan/atau Bangunan; dan 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-50-1996"
    },
@@ -468,7 +523,9 @@
      "2000",
      null
     ],
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000",
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "kep-djp-537-2000"
    }
@@ -501,7 +558,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-3/PJ/2026 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 3/2026 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

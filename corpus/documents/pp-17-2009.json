@@ -28,8 +28,15 @@
   "revoked_by": [
    {
     "id": "pp-31-2011",
+    "key": [
+     "PP",
+     "31",
+     "2011",
+     null
+    ],
     "number_as_written": "31 TAHUN 2011",
-    "quote": "Peraturan Pemerintah Nomor 17 Tahun 2009",
+    "quote": "Pasal 1 Peraturan Pemerintah Nomor 17 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan dari Transaksi Derivatif Berupa Kontrak Berjangka yang Diperdagangkan di Bursa (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 34, Tambahan Lembaran Negara Republik Indonesia Nomor 4983) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN PEMERINTAH NOMOR 17 TAHUN 2009 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI TRANSAKSI DERIVATIF BERUPA KONTRAK BERJANGKA YANG DIPERDAGANGKAN DI BURSA"
    }

@@ -57,7 +57,9 @@
      "2010",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 68/PMK.03/2010",
+    "name": "Peraturan Menteri Keuangan Nomor 68/PMK.03/2010",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: a. ketentuan Pasal 4 dan Pasal 5 Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2010 Nomor 146) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 197/PMK.03/2013 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2013 Nomor 1521); dan b. Peraturan Menteri Keuangan Nomor 99/PMK.03/2018 tentang Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2018 Nomor 1146), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-68-2010"
    },
@@ -68,7 +70,9 @@
      "2013",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 197/PMK.03/2013",
+    "name": "Peraturan Menteri Keuangan Nomor 197/PMK.03/2013",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: a. ketentuan Pasal 4 dan Pasal 5 Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2010 Nomor 146) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 197/PMK.03/2013 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2013 Nomor 1521); dan b. Peraturan Menteri Keuangan Nomor 99/PMK.03/2018 tentang Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2018 Nomor 1146), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-197-2013"
    },
@@ -79,7 +83,9 @@
      "2018",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 99/PMK.03/2018",
+    "name": "Peraturan Menteri Keuangan Nomor 99/PMK.03/2018",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 99/PMK.03/2018 tentang Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2018 Nomor 1146), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "target_id": "pmk-99-2018"
    },
@@ -90,7 +96,9 @@
      "2018",
      null
     ],
-    "quote": "Peraturan Pemerintah Nomor 23 Tahun 2018",
+    "name": "Peraturan Pemerintah Nomor 23 Tahun 2018",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 99/PMK.03/2018 tentang Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2018 Nomor 1146), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "rejected": "hierarki: PMK tidak dapat mencabut/mengubah PP",
     "source_of_reading": "DJP",
     "target_id": "pp-23-2018"

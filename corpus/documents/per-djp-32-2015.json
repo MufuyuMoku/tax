@@ -48,8 +48,15 @@
   "revoked_by": [
    {
     "id": "per-djp-16-2016",
+    "key": [
+     "PER-DJP",
+     "16",
+     "2016",
+     null
+    ],
     "number_as_written": "PER-16/PJ/2016",
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2015",
+    "quote": "Pasal 28 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2015 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran dan Pelaporan Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 Sehubungan dengan Pekerjaan, Jasa, dan Kegiatan Orang Pribadi dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEDOMAN TEKNIS TATA CARA PEMOTONGAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, DAN KEGIATAN ORANG PRIBADI"
    }
@@ -62,7 +69,9 @@
      "2012",
      null
     ],
-    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2012",
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2012",
+    "quote": "Pasal 28 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2012 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran dan Pelaporan Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 Sehubungan dengan Pekerjaan , Jasa, dan Kegiatan Orang Pribadi dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "per-djp-31-2012"
    }

@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-237/PJ.23/1984",
+    "quote": "… o. Keputusan Direktur Jenderal Pajak Nomor KEP-237/PJ.23/1984 tentang Nilai Pendapatan Berupa Pemberian dalam Bentuk Natura dalam Tahun 1984, Berkenaan Para Majikan dan Pengusaha yang Terhadapnya Masih Berlaku Ordonansi Pajak Pendapatan Tahun 1944 p. Keputusan Direktur Jenderal Pajak Nomor KEP-02/PJ.5/1984 tentang Norma Penghitungan Pajak Penghasilan; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }
@@ -40,7 +47,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-30/PJ/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 30/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -22,8 +22,15 @@
   "revoked_by": [
    {
     "id": "pmk-213-2018",
+    "key": [
+     "PMK",
+     "213",
+     "2018",
+     null
+    ],
     "number_as_written": "213 /PMK.03/2018",
-    "quote": "Peraturan Menteri Keuangan Nomor 137 /PMK.03/2005",
+    "quote": "… aj. Peraturan Menteri Keuangan Nomor 137 /PMK.03/2005 tentang Penyesuaian Besarnya Penghasilan Tidak Kena Pajak; … an. Peraturan Menteri Keuangan Nomor 124/PMK.011/2013 tentang Pengurangan Besarnya Pajak Penghasilan Pasal 25 dan Penundaan Pembayaran Pajak Penghasilan Pasal 29 Tahun 2013 bagi Wajib Pajak Industri Tertentu (Berita Negara Republik Indonesia Tahun 2013 Nomor 1066), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PAJAK PENGHASILAN"
    }
@@ -36,7 +43,9 @@
      "2004",
      null
     ],
-    "quote": "Peraturan Menteri Keuangan Nomor 564/KMK.03/2004",
+    "name": "Peraturan Menteri Keuangan Nomor 564/KMK.03/2004",
+    "quote": "Pasal 3 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 564/KMK.03/2004 tentang Penyesuaian Besarnya Penghasilan Tidak Kena Pajak dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "target_id": "pmk-564-2004"
    }
@@ -70,7 +79,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 213 /PMK.03/2018 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 213/2018 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

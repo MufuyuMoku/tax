@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "per-djp-30-2018",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2018",
+     null
+    ],
     "number_as_written": "PER-30/PJ/2018",
-    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-1927/PJ.23/1983",
+    "quote": "… n. Keputusan Direktur Jenderal Pajak Nomor KEP-1927/PJ.23/1983 tentang Buku Petunjuk Berkenaan dengan Pemotongan Pajak Penghasilan atas Pembayaran Gaji, Upah, Honorarium, dan Lain-Lain Sehubungan dengan Pekerjaan (Seri PPh Pasal 21-01) sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-444/PJ.23/1984 tentang Perubahan Pasal 12 Keputusan Direktur Jenderal Pajak Nomor : KEP-1927/PJ.23/1983 Mengenai Buku Petunjuk Pemotongan PPh Pasal 21 (Seri PPh Pasal 21- 10); … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
    }

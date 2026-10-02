@@ -30,8 +30,15 @@
   "revoked_by": [
    {
     "id": "pmk-114-2025",
+    "key": [
+     "PMK",
+     "114",
+     "2025",
+     null
+    ],
     "number_as_written": "114 TAHUN 2025",
-    "quote": "Peraturan Menteri Keuangan Nomor 90/PMK.03/2020",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: … d. Peraturan Menteri Keuangan Nomor 90/PMK.03/2020 tentang Bantuan atau Sumbangan, serta Harta Hibahan yang Dikecualikan sebagai Objek Pajak Penghasilan (Berita Negara Republik Indonesia Tahun 2020 Nomor 807), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
     "source_of_reading": "DJP",
     "title": "PERLAKUAN ATAS BANTUAN ATAU SUMBANGAN TERMASUK ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB, SERTA HARTA HIBAHAN DALAM PAJAK PENGHASILAN"
    }
@@ -66,7 +73,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks 114 TAHUN 2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 114/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

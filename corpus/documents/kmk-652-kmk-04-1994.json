@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "kmk-51-kmk-04-2001",
+    "key": [
+     "KMK",
+     "51/KMK.04",
+     "2001",
+     null
+    ],
     "number_as_written": "51/KMK.04/2001",
-    "quote": "Keputusan Menteri Keuangan Nomor 652/KMK.04/1994",
+    "quote": "Pasal 9 Dengan berlakunya Keputusan Menteri Keuangan ini maka Keputusan Menteri Keuangan Nomor 652/KMK.04/1994 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA"
    }

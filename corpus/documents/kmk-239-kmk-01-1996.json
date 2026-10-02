@@ -17,8 +17,15 @@
   "revoked_by": [
    {
     "id": "pmk-80-2024",
+    "key": [
+     "PMK",
+     "80",
+     "2024",
+     null
+    ],
     "number_as_written": "80 TAHUN 2024",
-    "quote": "Keputusan Menteri Keuangan Nomor 239/KMK.01/1996",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 239/KMK.01/1996 tentang Pelaksanaan Peraturan Pemerintah Nomor 42 Tahun 1995 Tentang Bea Masuk, Bea Masuk Tambahan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, dan Pajak Penghasilan dalam rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 486/KMK.04/2000 tentang Perubahan Kedua Keputusan Menteri Keuangan Nomor 239/KMK.01/1996 tentang Pelaksanaan Peraturan Pemerintah Nomor 42 Tahun 1995 Tentang Bea Masuk, Bea Masuk Tambahan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, dan Pajak Penghasilan dalam rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN DALAM RANGKA PELAKSANAAN PROYEK PEMERINTAH YANG DIBIAYAI DENGAN HIBAH ATAU DANA PINJAMAN LUAR NEGERI"
    }
