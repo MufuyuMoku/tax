@@ -30,3 +30,9 @@ Thumbs.db
 # runtime lock files of the fetcher
 poc/data/*.lock
 poc/data/fetch.run.lock
+
+# M5 fetcher: HTTP cache and runtime lock files (fetched data itself is committed)
+harvest/cache/
+harvest/*.lock
+harvest/*.log
+harvest/*.log.err

@@ -2,8 +2,9 @@
 
 Pipa data Tax: mengubah arsip bukti konsep di `poc/` menjadi korpus baku di `corpus/`.
 
-**Tidak ada permintaan jaringan sama sekali.** Seluruh masukannya sudah ada di repo. Pengambilan
-jaringan baru baru muncul di M6 dan tunduk penuh pada SPEC bagian 8.
+**Pembangunan korpus (`pipeline.build`) tidak membuat permintaan jaringan sama sekali.** Seluruh
+masukannya ada di repo. Satu-satunya bagian yang mengambil dari jaringan adalah pengambil KUP dan
+PPN (`pipeline.harvest`, M5), yang tunduk penuh pada SPEC bagian 8; lihat bagian di bawah.
 
 ## Menjalankan
 
@@ -57,3 +58,56 @@ dengan induknya, jadi variannya ikut (`...-ralat`, `...-konsolidasi`).
   dihapus dari berkas yang di-commit (K-010).
 - `poc/select_pph.py` tidak dijalankan lagi. Pemilihan dokumen PPh sudah selesai dan hasilnya
   dipakai apa adanya dari `poc/data/jdih_pph_candidates.jsonl`.
+
+## Pengambilan KUP dan PPN (M5)
+
+Pengambil butuh `requests`, `beautifulsoup4`, dan `lxml`. Pasang sekali di lingkungan terpisah:
+
+```
+python -m venv .venv
+.venv\Scripts\python -m pip install -r pipeline/requirements-ambil.txt
+```
+
+**Perintah malam, dijalankan pemilik** (melanjutkan dari titik terakhir, berhenti sendiri saat kuota
+24 jam habis, saat kegagalan menumpuk, atau saat semuanya selesai):
+
+```
+.venv\Scripts\python -m pipeline.harvest jalan --tanpa-vpn
+```
+
+`--tanpa-vpn` adalah pernyataan Anda bahwa koneksi ini tanpa VPN (termasuk Cloudflare WARP) dan
+tanpa proxy. Tanpa tanda itu, perintah menanyakannya. Pengambil tetap memeriksa sendiri adapter VPN,
+proxy sistem, variabel proxy, dan status WARP, dan menolak jalan bila ada yang aktif.
+
+**Melihat kemajuan** (tanpa jaringan):
+
+```
+.venv\Scripts\python -m pipeline.harvest kemajuan
+```
+
+Perintah lain: `uji` (satu permintaan, robots.txt) dan `intai` (halaman pertama dan terakhir daftar
+tiap kategori). `--batas N` membatasi jumlah permintaan halaman dalam satu putaran.
+
+**Aturan yang dijaga kode** (`polite.py`, `net_guard.py`):
+
+- robots.txt dibaca dan dipatuhi; jeda 20 detik per host; paling banyak 1.500 permintaan per host
+  dalam 24 jam bergulir, dihitung dari `harvest/fetch_log.jsonl`.
+- HTTP 401, 403, 429, atau 503 menghentikan host untuk selamanya, tercatat di
+  `harvest/host_stopped.json`. Hanya manusia yang menghapus entrinya. Penghentian lama di
+  `poc/data/host_stopped.json` tetap dihormati.
+- Koneksi terputus atau waktu habis tanpa kode itu dicatat, dan itemnya diulang di putaran
+  berikutnya. Bila lebih dari 6 dari 20 permintaan terakhir gagal, putaran berhenti tanpa
+  menghentikan host. Hanya 8 kegagalan sambung berturut-turut yang dianggap host berhenti melayani
+  kita, dan menghentikannya untuk selamanya.
+- Satu proses pengambil pada satu waktu; user agent jujur; proxy dari lingkungan diabaikan.
+
+**Berkas** di `harvest/`: `state.json` (kemajuan), `djp_list.jsonl` (baris katalog beserta daftar
+kategori tempat baris itu ditemukan), `djp_detail.jsonl` (halaman detail beserta teksnya),
+`fetch_log.jsonl`. Ketiganya di-commit seperti `poc/data`. `cache/` dan berkas kunci tidak.
+Bidang `kategori` dan `tag` milik halaman sumber tidak pernah disimpan (K-010).
+
+Tes pengambil berjalan tanpa jaringan dan butuh dependensi di atas:
+
+```
+.venv\Scripts\python -m unittest discover -s pipeline/tests -t .
+```

@@ -741,3 +741,55 @@ Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
 PPN (bagian 3); M5 KUP dan PPN, M6 pemasangan dan luring, M7 kategori lain dan pipa pembaruan malam,
 M8 penyiapan rilis (bagian 7); kalimat ketersediaan teks dari K-032 (bagian 5); syarat jam 21.00 WIB
 dicabut dan VPN dinyatakan termasuk proxy (bagian 8). CLAUDE.md diselaraskan.
+
+## K-049 — Penolakan bukti konsep dibaca ulang: DJP dicabut, JDIH tidak dicoba
+Tanggal: 2026-10-03 · Milestone: M5 · Status: berlaku
+
+**Bukti DJP:** `poc/data/fetch_log.jsonl` mencatat 1.988 permintaan ke `www.pajak.go.id` berstatus
+200 dan 25 kegagalan, semuanya `RemoteDisconnected` atau `ReadTimeout`. Tidak ada 401, 403, 429,
+atau 503. Penghentian 26 September dipicu pemutus sirkuit kita sendiri (4 dari 20 gagal), bukan
+penolakan dari DJP; SPEC bagian 8 sendiri menyebut pemutusan sporadis DJP normal.
+**Tindakan DJP:** golongan (a). Atas izin pemilik, entri `www.pajak.go.id` dihapus dari
+`poc/data/host_stopped.json` (2026-10-03), lalu satu permintaan uji ke robots.txt: HTTP 200.
+**Bukti JDIH:** 884 permintaan pada 21 September 13.59–15.01 UTC dengan jeda median 4 detik (aturan
+20 detik belum berlaku), semuanya berhasil. Sekitar 9 jam kemudian, 00.15 UTC, seluruh koneksi ke
+`jdih.kemenkeu.go.id` dan `www.kemenkeu.go.id` gagal di tahap TLS (curl exit 35), juga 30 menit
+kemudian. Tidak ada kode HTTP, karena koneksinya tidak pernah terbentuk. Tidak tercatat uji dari
+browser biasa, dan tidak tercatat apakah VPN aktif saat itu.
+**Tindakan JDIH:** tidak dicoba. Pola "seluruh domain terputus setelah semburan permintaan rapat"
+cocok dengan blokir terhadap pengambil kita (golongan b), dan juga dengan blokir alamat VPN
+(golongan a); keduanya tidak bisa dibedakan dari data yang ada. Mencoba lagi dari koneksi lain saat
+blokir terhadap kita masih berlaku berarti mengakali pembatasan. Pemilik diminta memeriksa sendiri
+dengan browser biasa (lihat laporan sesi); entri JDIH di `poc/data/host_stopped.json` tetap.
+**Juga diperiksa:** Cloudflare WARP terpasang di mesin ini, berstatus *Disconnected (Manual
+Disconnection)* saat pengambilan dimulai; tidak ada adapter VPN aktif; proxy sistem Windows
+nonaktif.
+
+## K-050 — Pengambil M5: putus koneksi mengakhiri putaran, bukan menghentikan host selamanya
+Tanggal: 2026-10-03 · Milestone: M5 · Status: berlaku
+
+**Keputusan:** `pipeline/polite.py`, turunan `poc/fetch.py`, dengan aturan bagian 8 utuh (robots.txt,
+jeda 20 detik, 1.500 per host per 24 jam bergulir, satu proses, user agent jujur). Bedanya:
+(1) HTTP 401/403/429/503 menghentikan host selamanya, seperti dulu; (2) koneksi terputus atau waktu
+habis tanpa kode itu dicatat dan itemnya diulang putaran berikutnya; lebih dari 6 dari 20 gagal
+mengakhiri putaran tanpa menulis penghentian; (3) 8 kegagalan sambung berturut-turut, pola host yang
+berhenti melayani kita, menghentikan host selamanya; (4) proxy dari variabel lingkungan diabaikan
+(`trust_env = False`) dan `net_guard.py` menolak jalan bila ada VPN, proxy sistem, atau WARP aktif,
+lalu meminta konfirmasi manusia untuk yang tidak bisa diperiksa (VPN di router).
+**Alasan:** aturan lama (lebih dari 3 dari 20 gagal = berhenti selamanya) menghentikan DJP karena
+perilaku yang SPEC sebut normal, dan pencabutannya butuh manusia. Aturan baru membedakan
+penolakan dari gangguan biasa, tanpa melonggarkan penolakan.
+**Dependensi:** `requests`, `beautifulsoup4`, `lxml` di `.venv` (`pipeline/requirements-ambil.txt`).
+`pipeline.build` tetap tanpa dependensi. Tes pengambil luring dan dilewati bila dependensinya tidak
+ada.
+
+## K-051 — Daftar kategori disimpan sebagai asal pengambilan, bukan klasifikasi sumber
+Tanggal: 2026-10-03 · Milestone: M5 · Status: berlaku untuk data; tampilan menunggu pemilik
+
+**Keputusan:** `harvest/djp_list.jsonl` mencatat di daftar kategori mana sebuah baris ditemukan
+(`_kategori_daftar`: KUP atau PPN, beserta `_list_url`), sama seperti `_list_url` yang sudah ada
+untuk PPh di `poc/data`. Bidang `kategori` dan `tag` di halaman detail tidak disimpan, sesuai K-010.
+**Pertanyaan untuk pemilik sebelum B4:** M5 meminta label dan saringan kategori. K-010 menghapus
+`kategori` DJP dari repo karena klasifikasi buatan sumber tetap dilindungi (SPEC bagian 9). Apakah
+menampilkan "ditemukan di daftar KUP katalog DJP" dianggap menerbitkan ulang klasifikasi itu? Data
+untuk kedua jawaban sudah ada; yang perlu diputuskan hanya tampilannya.

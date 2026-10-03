@@ -29,3 +29,8 @@ OUT_OF_SCOPE_TITLE = (
     r"nilai\s+kurs\s+sebagai\s+dasar|tarif\s+bunga\s+sebagai\s+dasar|"
     r"nilai\s+dasar\s+perhitungan\s+bea\s+masuk"
 )
+
+# M5: KUP and PPN are fetched from the DJP catalogue by pipeline/harvest.py. Fetched lists and
+# details (text included) are committed here, like poc/data, so the corpus can be rebuilt without
+# the network. The HTTP cache and lock files are not committed.
+HARVEST = ROOT / "harvest"
