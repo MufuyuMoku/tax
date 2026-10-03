@@ -516,3 +516,9 @@ nav.atas {
   color: var(--fg);
   cursor: pointer;
 }
+
+.pilihan {
+  display: block;
+  margin-top: 0.5rem;
+  font-weight: 400;
+}

@@ -70,3 +70,19 @@ Daftar koreksi yang dihitung otomatis bisa dilihat dengan:
 ```
 node scripts/search-ocr-list.mjs
 ```
+
+## `pajak-daerah.json` — keterangan pajak daerah
+
+Bila kueri memuat istilah pajak daerah (pajak kendaraan bermotor, PBB perdesaan dan perkotaan,
+BPHTB, pajak hotel, dan sejenisnya), hasil pencarian diberi keterangan bahwa pajak itu dikelola
+pemerintah daerah dan peraturannya tidak ada di situs ini.
+
+- `istilah`: bentuk yang memicu keterangan. Hindari kata yang juga dipakai pajak pusat:
+  "kendaraan bermotor" saja muncul ratusan kali di peraturan PPnBM dan PPh Pasal 22, jadi yang
+  dipakai "pajak kendaraan bermotor", "PKB", "Samsat".
+- `pesan`: kalimat yang ditampilkan.
+- `batal_bila`: bila kueri juga memuat salah satu kata ini, keterangan tidak muncul. Dipakai
+  supaya PBB sektor perkebunan, perhutanan, dan pertambangan (PBB-P5L), yang masih urusan DJP,
+  tidak diberi keterangan pajak daerah.
+- Bila dua kelompok cocok dan istilah yang satu bagian dari istilah yang lain ("PBB" dalam
+  "PBB perdesaan"), hanya keterangan yang lebih khusus yang tampil.

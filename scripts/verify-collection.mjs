@@ -94,6 +94,7 @@ async function importFile(file, kind, number, subject) {
   await waitFor("!document.getElementById('hasil-baca').hidden && !document.getElementById('ringkas-baca').textContent.startsWith('Membaca')", `membaca ${file}`);
   const summary = await evaluate("document.getElementById('ringkas-baca').textContent");
   const scanWarning = await evaluate("!document.getElementById('peringatan-pindai').hidden");
+  const garbledWarning = await evaluate("!document.getElementById('peringatan-rusak').hidden");
   await evaluate(`(() => {
     document.getElementById('isi-jenis').value = ${JSON.stringify(kind)};
     document.getElementById('isi-nomor').value = ${JSON.stringify(number)};
@@ -104,7 +105,7 @@ async function importFile(file, kind, number, subject) {
   })()`);
   expected++;
   await waitFor(`document.querySelectorAll('#daftar-koleksi > li').length === ${expected}`, `menyimpan ${file}`);
-  return { file, summary, scanWarning };
+  return { file, summary, scanWarning, garbledWarning };
 }
 const imports = [];
 for (const [kind, [code, number]] of Object.entries(KINDS)) {
@@ -112,9 +113,14 @@ for (const [kind, [code, number]] of Object.entries(KINDS)) {
   imports.push(await importFile(`${kind}-pindai.pdf`, code, number, `Perihal tiruan ${kind} pindai`));
 }
 imports.push(await importFile("nd.txt", "ND", "ND-902/PJ.03/2026", "Perihal tiruan nd txt"));
+imports.push(await importFile("se-tanpa-tounicode.pdf", "SE", "SE-901/PJ/2026", "Perihal tiruan se rusak"));
 await evaluate(`(() => {
   document.getElementById('tempel').value = 'Teks tempel tiruan: bonus tahunan pegawai mengikuti PMK 168 Tahun 2023.';
   document.getElementById('baca').click();
+})()`);
+// Reading pasted text waits for the worker's quality check before the form is ready.
+await waitFor("document.getElementById('ringkas-baca').textContent.startsWith('Teks tempel')", "membaca teks tempel");
+await evaluate(`(() => {
   document.getElementById('isi-perihal').value = 'Catatan tempel tiruan';
   document.getElementById('simpan').click();
 })()`);
@@ -226,7 +232,10 @@ for (const line of consoleLines) for (const s of secrets) if (line.includes(s)) 
 for (const t of titles) for (const s of secrets) if (t.title.includes(s)) leaks.push(`judul tab memuat "${s}"`);
 
 console.log("== Impor");
-for (const i of imports) console.log(`  ${i.file}: ${i.summary}${i.scanWarning ? " [peringatan pindaian tampil]" : ""}`);
+for (const i of imports) {
+  const notes = `${i.scanWarning ? " [peringatan pindaian tampil]" : ""}${i.garbledWarning ? " [peringatan teks tak terbaca tampil]" : ""}`;
+  console.log(`  ${i.file}: ${i.summary}${notes}`);
+}
 console.log(`  penyimpanan: ${storageLine}`);
 console.log("== Tampilan dokumen");
 console.log(`  ${documentView.replace(/\n+/g, " | ").slice(0, 300)}`);

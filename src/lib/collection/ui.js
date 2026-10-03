@@ -59,36 +59,60 @@ export function startCollection({ base }) {
   const ready = ask({ type: "load", url: `${base}cari/data.json` });
 
   // ---------- storage ----------
+  const installed = () => window.matchMedia && window.matchMedia("(display-mode: standalone)").matches;
+
   async function showStorage(requested = null) {
     const info = await storageInfo();
     if (!info.supported) {
       $("info-simpan").textContent = "Browser ini tidak memberi keterangan penyimpanan.";
       return;
     }
-    const persisted = info.persisted
-      ? "permanen: browser tidak akan menghapusnya sendiri saat ruang penyimpanan menipis"
-      : "belum permanen: browser bisa menghapusnya saat ruang penyimpanan menipis";
-    const asked = requested === null ? "" : requested ? " Permintaan penyimpanan permanen dikabulkan." : " Permintaan penyimpanan permanen ditolak browser.";
-    $("info-simpan").textContent =
-      `Penyimpanan ${persisted}. Terpakai ${size(info.usage)} dari kuota ${size(info.quota)} untuk situs ini.${asked}`;
+    const used = `Terpakai ${size(info.usage)} dari kuota ${size(info.quota)} untuk situs ini.`;
+    if (info.persisted) {
+      $("info-simpan").textContent =
+        `Penyimpanan permanen: browser tidak akan menghapus koleksi ini sendiri. ${used}`;
+    } else {
+      $("info-simpan").textContent =
+        `Penyimpanan belum permanen${requested === false ? " (permintaan ditolak browser)" : ""}. ` +
+        "Ini lazim untuk situs yang belum dipasang di perangkat. Koleksi tetap tersimpan; browser hanya " +
+        "menghapusnya bila ruang perangkat hampir habis. Ekspor cadangan secara berkala supaya aman. " +
+        "Setelah situs dipasang, permintaan penyimpanan permanen diulang otomatis. " +
+        used;
+    }
     $("minta-permanen").hidden = Boolean(info.persisted);
   }
   $("minta-permanen").addEventListener("click", async () => showStorage(await requestPersistence()));
 
   // ---------- import ----------
-  let incoming = null; // { source, file, extracted }
+  let incoming = null; // { source, file, extracted, quality }
 
-  function startForm(source, file, extracted) {
-    incoming = { source, file, extracted };
+  function startForm(source, file, extracted, quality) {
+    incoming = { source, file, extracted, quality };
+    const unreadable = extracted.hasTextLayer && quality && !quality.readable;
     $("hasil-baca").hidden = false;
     $("peringatan-pindai").hidden = extracted.hasTextLayer;
+    $("peringatan-rusak").hidden = !unreadable;
+    $("timpa-mutu").checked = false;
     $("pesan-impor").textContent = "";
     const what = file ? `"${file.name}" (${size(file.bytes.byteLength)})` : "Teks tempel";
-    $("ringkas-baca").textContent = extracted.hasTextLayer
-      ? `${what}: ${extracted.text.length.toLocaleString("id-ID")} karakter teks terbaca` +
+    if (!extracted.hasTextLayer) {
+      $("ringkas-baca").textContent = `${what}: tidak ada teks yang bisa dibaca.`;
+    } else if (unreadable) {
+      $("ringkas-baca").textContent =
+        `${what}: ada lapisan teks, tetapi isinya tidak terbaca ` +
+        `(${Math.round(quality.knownRatio * 100)}% kata dikenal, ${Math.round(quality.oddRatio * 100)}% karakter janggal).`;
+    } else {
+      $("ringkas-baca").textContent =
+        `${what}: ${extracted.text.length.toLocaleString("id-ID")} karakter teks terbaca` +
         (extracted.pages ? ` dari ${extracted.pages} halaman.` : ".") +
-        " Isinya akan ikut tercari."
-      : `${what}: tidak ada teks yang bisa dibaca.`;
+        " Isinya akan ikut tercari.";
+    }
+  }
+
+  async function judge(extracted) {
+    if (!extracted.hasTextLayer) return null;
+    await ready;
+    return (await ask({ type: "mutu", text: extracted.text })).quality;
   }
 
   $("berkas").addEventListener("change", async () => {
@@ -106,14 +130,15 @@ export function startCollection({ base }) {
       } else {
         extracted = extractPlain(decodeTextFile(bytes));
       }
-      startForm(isPdf ? "pdf" : "txt", { name: chosen.name, type: chosen.type || (isPdf ? "application/pdf" : "text/plain"), bytes }, extracted);
+      const file = { name: chosen.name, type: chosen.type || (isPdf ? "application/pdf" : "text/plain"), bytes };
+      startForm(isPdf ? "pdf" : "txt", file, extracted, await judge(extracted));
     } catch (error) {
       $("ringkas-baca").textContent = `Berkas tidak bisa dibaca: ${error.message}`;
       incoming = null;
     }
   });
 
-  $("baca").addEventListener("click", () => {
+  $("baca").addEventListener("click", async () => {
     const extracted = extractPlain($("tempel").value);
     if (!extracted.hasTextLayer) {
       $("hasil-baca").hidden = false;
@@ -122,7 +147,7 @@ export function startCollection({ base }) {
       return;
     }
     $("berkas").value = "";
-    startForm("tempel", null, extracted);
+    startForm("tempel", null, extracted, await judge(extracted));
   });
 
   $("simpan").addEventListener("click", async () => {
@@ -134,22 +159,26 @@ export function startCollection({ base }) {
       subject: $("isi-perihal").value,
       note: $("isi-catatan").value,
     };
-    if (!incoming.extracted.hasTextLayer && !meta.number.trim() && !meta.subject.trim()) {
-      $("pesan-impor").textContent = "Dokumen tanpa teks hanya bisa ditemukan lewat isian ini: isi nomor atau perihal.";
+    const override = $("timpa-mutu").checked;
+    const quality = incoming.quality;
+    const usable = incoming.extracted.hasTextLayer && (!quality || quality.readable || override);
+    if (!usable && !meta.number.trim() && !meta.subject.trim()) {
+      $("pesan-impor").textContent = "Dokumen yang isinya tidak tercari hanya bisa ditemukan lewat isian ini: isi nomor atau perihal.";
       return;
     }
     $("pesan-impor").textContent = "Menyimpan…";
     await ready;
-    const { references } = incoming.extracted.hasTextLayer
-      ? await ask({ type: "rujukan", text: incoming.extracted.text, own: meta.number })
-      : { references: [] };
+    const matched = usable ? await ask({ type: "rujukan", text: incoming.extracted.text, own: meta.number }) : null;
     const record = await makeRecord({
       id: newId(),
       meta,
       source: incoming.source,
       file: incoming.file,
       extracted: incoming.extracted,
-      references,
+      quality,
+      readableOverride: override,
+      references: matched ? matched.references : [],
+      referencesCorpus: matched ? matched.corpus : null,
       importedAt: new Date().toISOString(),
     });
     await putRecord(record);
@@ -240,7 +269,7 @@ export function startCollection({ base }) {
 
     view.append(el("h3", null, "Rujukan ke peraturan publik"));
     if (!record.hasText) {
-      view.append(el("p", "hint", "Dokumen tanpa teks: rujukannya tidak bisa dibaca otomatis."));
+      view.append(el("p", "hint", "Isi dokumen ini tidak tercari, jadi rujukannya tidak bisa dibaca otomatis."));
     } else if (!record.references.length) {
       view.append(el("p", "hint", "Tidak ada nomor peraturan yang terbaca di teks dokumen ini."));
     } else {
@@ -272,7 +301,27 @@ export function startCollection({ base }) {
 
     view.append(el("h3", null, "Isi dokumen"));
     if (record.hasText) {
+      if (record.readableOverride) {
+        view.append(
+          el(
+            "p",
+            "hint",
+            "Penilaian otomatis menyatakan teks ini tidak terbaca; Anda menandainya terbaca saat impor, jadi teks ini ditampilkan dan ikut dicari."
+          )
+        );
+      }
       view.append(el("div", "teks-pasal", record.text));
+    } else if (record.unreadableText) {
+      const q = record.textQuality;
+      view.append(
+        el(
+          "p",
+          "peringatan-blok",
+          "Teks PDF ini tidak terbaca" +
+            (q ? ` (${Math.round(q.knownRatio * 100)}% kata dikenal, ${Math.round(q.oddRatio * 100)}% karakter janggal)` : "") +
+            ". Teksnya disimpan tetapi tidak ditampilkan sebagai isi dan tidak ikut dicari. Buka PDF aslinya untuk membacanya."
+        )
+      );
     } else {
       view.append(
         el(
@@ -366,6 +415,9 @@ export function startCollection({ base }) {
     $("pesan-cadangan").textContent = "Seluruh koleksi dihapus dari perangkat ini.";
   });
 
-  showStorage();
+  // Once the site is installed, browsers usually grant persistence; ask again then.
+  (installed() ? requestPersistence() : Promise.resolve(null)).then((granted) => showStorage(granted));
+  // Recompute references whose corpus has changed since import (K-042), then show the page.
+  ready.then(() => ask({ type: "koleksi" })).then(route, route);
   route();
 }

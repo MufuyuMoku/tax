@@ -68,3 +68,18 @@ export function findReferences(text, docs, ownNumber = "") {
   }
   return found;
 }
+
+/**
+ * Records whose references were matched against another corpus than `fingerprint`, matched again.
+ * Returns only the records that changed, so the caller writes just those (K-042).
+ */
+export function refreshReferences(records, docs, fingerprint) {
+  const changed = [];
+  for (const record of records) {
+    if (!record.hasText || record.referencesCorpus === fingerprint) continue;
+    record.references = findReferences(record.text, docs, record.number);
+    record.referencesCorpus = fingerprint;
+    changed.push(record);
+  }
+  return changed;
+}

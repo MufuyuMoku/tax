@@ -12,7 +12,7 @@
 // - Regulation numbers are matched on the document identity, so documents without text are found
 //   by number as well as by title (SPEC invariant 3).
 import { normToken, normalizeText, tokensWithOffsets } from "./normalize.js";
-import { citationPattern, compileTerms, numberMatches, parseNumber, parseQuery } from "./query.js";
+import { citationPattern, compileTerms, detectLocalTax, numberMatches, parseNumber, parseQuery } from "./query.js";
 
 const K1 = 1.2;
 const B = 0.75;
@@ -106,6 +106,7 @@ export class SearchEngine {
     this.texts = payload.texts;
     this.ocr = payload.ocr;
     this.stopwords = payload.stopwords;
+    this.localTax = payload.localTax || [];
     this.terms = compileTerms(payload.terms, this.ocr);
     // Padanan (K-030): forms that count as the typed word, at a lower weight.
     this.synonyms = compileTerms(
@@ -342,13 +343,16 @@ export class SearchEngine {
         this.docs[a.d].id.localeCompare(this.docs[b.d].id)
     );
 
-    this.last = { results, active, number, unitScore, unitMask, titleMask };
+    this.last = { results, active, number, unitScore, unitMask, titleMask, idfs, unseenIdf: idfOf(0, nUnits) };
     return {
       total: results.length,
       took: Date.now() - started,
       number: number ? { serial: number.serial, year: number.year, codes: number.codes, text: number.text } : null,
       concepts: active.map((c) => ({ label: c.label, kind: c.kind, forms: c.forms || null })),
       ignored,
+      // Regional taxes are not on this site; say so instead of letting near-miss results look like
+      // answers (pajak-daerah.json).
+      localTax: detectLocalTax(query, this.localTax, this.ocr),
     };
   }
 
@@ -359,7 +363,9 @@ export class SearchEngine {
     return results.slice(offset, offset + limit).map((entry) => {
       const doc = this.docs[entry.d];
       const matched = active.filter((_, i) => entry.mask & (1 << i)).map((c) => c.label);
-      const missing = active.filter((_, i) => !(entry.mask & (1 << i))).map((c) => c.label);
+      const missingIndexes = active.map((_, i) => i).filter((i) => !(entry.mask & (1 << i)));
+      const missing = missingIndexes.map((i) => active[i].label);
+      const missingIdf = missingIndexes.map((i) => Math.round(this.last.idfs[i] * 100) / 100);
       const reasons = [];
       if (entry.number) reasons.push("nomor");
       if (entry.cites) reasons.push("menyebut");
@@ -372,6 +378,7 @@ export class SearchEngine {
         conceptCount: active.length,
         matched,
         missing,
+        missingIdf,
         cites: entry.cites,
         unitCount: entry.units.length,
         units: entry.units.slice(0, UNITS_PER_RESULT).map((u) => ({

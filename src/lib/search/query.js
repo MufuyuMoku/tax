@@ -242,3 +242,27 @@ export function parseQuery(query, { terms, synonyms = null, synonymWeight = 1, s
   }
   return unique;
 }
+
+/**
+ * Local (regional) tax terms in the query, from src/data/search/pajak-daerah.json. Returns the
+ * messages to show, at most one per group. A group is skipped when the query also names something
+ * in its `batal_bila` list (PBB for plantations, forestry, mining stays with DJP), or when the term
+ * it matched is part of a longer term an earlier group already matched ("PBB" in "PBB perdesaan").
+ */
+export function detectLocalTax(query, groups, ocr) {
+  const tokens = ` ${phraseTokens(query, ocr).join(" ")} `;
+  const has = (phrase) => {
+    const norm = phraseTokens(phrase, ocr).join(" ");
+    return norm && tokens.includes(` ${norm} `) ? norm : null;
+  };
+  const messages = [];
+  const matched = [];
+  for (const group of groups || []) {
+    if ((group.batal_bila || []).some(has)) continue;
+    const hit = group.istilah.map(has).find(Boolean);
+    if (!hit || matched.some((longer) => ` ${longer} `.includes(` ${hit} `))) continue;
+    matched.push(hit);
+    messages.push({ term: hit, message: group.pesan });
+  }
+  return messages;
+}

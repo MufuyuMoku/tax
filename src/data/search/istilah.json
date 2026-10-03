@@ -65,6 +65,7 @@
     ["PHK", "Pemutusan Hubungan Kerja"],
     ["JHT", "Jaminan Hari Tua"],
     ["WNA", "Warga Negara Asing"],
-    ["WNI", "Warga Negara Indonesia"]
+    ["WNI", "Warga Negara Indonesia"],
+    ["TER", "Tarif Efektif Rata-rata", "tarif efektif"]
   ]
 }

@@ -33,7 +33,20 @@ export async function sha256(bytes) {
  * A collection record. `file` is { name, type, bytes: ArrayBuffer } for an imported file, or null
  * for pasted text. `extracted` is the result of extract.js. Metadata come from the user.
  */
-export async function makeRecord({ id, meta, source, file, extracted, references, importedAt }) {
+export async function makeRecord({
+  id,
+  meta,
+  source,
+  file,
+  extracted,
+  quality = null,
+  readableOverride = false,
+  references,
+  referencesCorpus = null,
+  importedAt,
+}) {
+  // A text layer counts only when it reads as text, or when the user says it does (K-043).
+  const usable = extracted.hasTextLayer && (!quality || quality.readable || readableOverride);
   return {
     id,
     kind: KINDS[meta.kind] ? meta.kind : "lainnya",
@@ -45,10 +58,15 @@ export async function makeRecord({ id, meta, source, file, extracted, references
     file: file
       ? { name: file.name, type: file.type, size: file.bytes.byteLength, sha256: await sha256(file.bytes), bytes: file.bytes }
       : null,
-    text: extracted.hasTextLayer ? extracted.text : null,
-    hasText: extracted.hasTextLayer,
+    text: usable ? extracted.text : null,
+    hasText: usable,
+    // Unreadable text is kept for the record, never shown as content and never searched.
+    unreadableText: extracted.hasTextLayer && !usable ? extracted.text : null,
+    textQuality: quality,
+    readableOverride: Boolean(readableOverride && extracted.hasTextLayer && quality && !quality.readable),
     pages: extracted.pages,
-    references: references || [],
+    references: usable ? references || [] : [],
+    referencesCorpus,
     importedAt,
     verified: false,
   };
@@ -84,7 +102,9 @@ export function collectionPayload(records, publicPayload) {
       status: "pribadi",
       hasText: record.hasText,
       pasal: record.hasText ? 1 : 0,
-      noTextReason: "PDF tanpa lapisan teks; isi dokumen tidak tercari, hanya isian jenis, nomor, tanggal, perihal, dan catatan",
+      noTextReason: record.unreadableText
+        ? "teks PDF tidak terbaca; isi dokumen tidak tercari, hanya isian jenis, nomor, tanggal, perihal, dan catatan"
+        : "PDF tanpa lapisan teks; isi dokumen tidak tercari, hanya isian jenis, nomor, tanggal, perihal, dan catatan",
       sources: [],
       twins: [],
       private: true,

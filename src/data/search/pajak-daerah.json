@@ -1,0 +1,27 @@
+{
+  "keterangan": "Istilah pajak daerah. Bila kueri memuat salah satu istilah, hasil pencarian diberi keterangan bahwa pajak itu dikelola pemerintah daerah dan peraturannya tidak ada di situs ini. 'batal_bila' mencegah keterangan muncul bila kueri jelas tentang pajak pusat (misalnya PBB sektor perkebunan, perhutanan, pertambangan). Huruf besar-kecil dan tanda baca tidak berpengaruh. Lihat README.md di folder ini.",
+  "kelompok": [
+    {
+      "istilah": ["pajak kendaraan bermotor", "PKB", "pajak motor", "pajak mobil", "Samsat", "e-Samsat", "STNK", "bea balik nama kendaraan bermotor", "BBNKB", "balik nama kendaraan", "pajak alat berat", "pajak bahan bakar kendaraan bermotor", "PBBKB", "opsen"],
+      "pesan": "Pajak kendaraan bermotor, bea balik nama kendaraan bermotor, dan pajak bahan bakar kendaraan bermotor adalah pajak daerah provinsi, dikelola pemerintah provinsi (pembayarannya lewat Samsat). Peraturannya tidak ada di situs ini. Peraturan di bawah adalah peraturan pajak pusat yang kebetulan memuat kata yang sama, misalnya PPnBM atau PPh Pasal 22 atas kendaraan."
+    },
+    {
+      "istilah": ["PBB-P2", "PBB P2", "PBB perdesaan", "PBB perkotaan", "pajak bumi dan bangunan perdesaan", "pajak bumi dan bangunan perkotaan", "SPPT PBB", "SPPT"],
+      "pesan": "PBB perdesaan dan perkotaan (rumah, tanah, dan bangunan biasa) adalah pajak daerah kabupaten/kota. Tagihan dan pembayarannya diurus pemerintah daerah, dan peraturannya tidak ada di situs ini.",
+      "batal_bila": ["perkebunan", "perhutanan", "pertambangan", "migas", "minyak dan gas bumi", "panas bumi", "P5L", "PBB-P5L", "PBB P5L", "sektor lainnya"]
+    },
+    {
+      "istilah": ["PBB", "pajak bumi dan bangunan"],
+      "pesan": "PBB untuk rumah, tanah, dan bangunan biasa (PBB perdesaan dan perkotaan) dikelola pemerintah kabupaten/kota, dan peraturannya tidak ada di situs ini. PBB sektor perkebunan, perhutanan, pertambangan, dan sektor lain (PBB-P5L) masih dikelola DJP.",
+      "batal_bila": ["perkebunan", "perhutanan", "pertambangan", "migas", "minyak dan gas bumi", "panas bumi", "P5L", "PBB-P5L", "PBB P5L", "sektor lainnya"]
+    },
+    {
+      "istilah": ["BPHTB", "bea perolehan hak atas tanah dan bangunan"],
+      "pesan": "Sejak 2011 BPHTB adalah pajak daerah kabupaten/kota. Peraturannya yang berlaku tidak ada di situs ini; peraturan pusat tentang BPHTB yang mungkin muncul di bawah berasal dari masa sebelum BPHTB dialihkan ke daerah."
+    },
+    {
+      "istilah": ["pajak hotel", "pajak restoran", "pajak hiburan", "pajak parkir", "pajak reklame", "pajak air tanah", "pajak penerangan jalan", "PBJT", "pajak barang dan jasa tertentu", "pajak sarang burung walet", "pajak mineral bukan logam dan batuan", "pajak rokok"],
+      "pesan": "Pajak ini adalah pajak daerah, dikelola pemerintah provinsi atau kabupaten/kota. Peraturannya tidak ada di situs ini."
+    }
+  ]
+}

@@ -51,6 +51,16 @@ const base = import.meta.env.BASE_URL;
           akan tercari, dan situs ini tidak melakukan OCR. Yang tercari hanya isian di bawah, jadi
           isi paling tidak nomor atau perihal. PDF aslinya tetap disimpan dan bisa dibuka.
         </div>
+        <div id="peringatan-rusak" class="peringatan-blok" hidden>
+          <strong>Teks PDF ini tidak terbaca.</strong> PDF ini punya lapisan teks, tetapi isinya kacau
+          (biasanya karena fontnya tidak membawa peta huruf). Teks itu disimpan apa adanya, tetapi tidak
+          ditampilkan sebagai isi dan tidak ikut dicari. Isi paling tidak nomor atau perihal. PDF aslinya
+          tetap disimpan dan bisa dibuka.
+          <label class="pilihan">
+            <input type="checkbox" id="timpa-mutu" /> Teksnya sebenarnya terbaca; perlakukan sebagai PDF
+            berteks
+          </label>
+        </div>
         <div class="saringan formulir">
           <label>Jenis
             <select id="isi-jenis">

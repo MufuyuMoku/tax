@@ -48,8 +48,8 @@ Rincian dan alasannya di SPEC bagian 4. Ringkasnya, tidak boleh dilanggar apa pu
 
 Berlaku penuh, warisan bukti konsep (SPEC bagian 8): hanya sumber resmi, hormati robots.txt, jeda
 20 detik, batas dalam jendela 24 jam bergulir, berhenti total bila host menolak, **tidak pernah**
-mengakali pembatasan (tidak ganti IP, tidak proxy, tidak memalsukan user agent), jalankan di atas
-pukul 21.00 WIB. Koneksi yang diputus DJP sporadis itu normal: catat, lanjutkan, ulang di putaran
+mengakali pembatasan (tidak ganti IP, tidak proxy, tidak VPN, tidak memalsukan user agent). Syarat
+jam 21.00 WIB dicabut pemilik pada 2026-10-03. Koneksi yang diputus DJP sporadis itu normal: catat, lanjutkan, ulang di putaran
 berikutnya. `poc/data/host_stopped.json` hanya boleh diubah manusia.
 
 ## Jangan dibangun

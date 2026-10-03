@@ -27,6 +27,7 @@ export function startSearch({ base }) {
   const summaryLine = document.getElementById("hasil-ringkas");
   const resultList = document.getElementById("hasil-daftar");
   const publicBlock = document.getElementById("hasil-publik");
+  const localTaxNote = document.getElementById("catatan-daerah");
   const more = document.getElementById("lagi");
   const privateBlock = document.getElementById("hasil-pribadi");
   const privateSummaryLine = document.getElementById("hasil-pribadi-ringkas");
@@ -167,12 +168,23 @@ export function startSearch({ base }) {
         "Semuanya belum terverifikasi dan tidak pernah dikirim ke mana pun.";
       appendPrivate(reply.privateResults);
     }
+    showLocalTax(reply.summary ? reply.summary.localTax : []);
     publicBlock.hidden = !reply.summary;
     if (reply.summary) {
       describe(reply.summary, query);
       append(reply.results);
     } else {
       state.textContent = `Dicari di perangkat ini dalam ${reply.privateSummary ? reply.privateSummary.took : 0} md.`;
+    }
+  }
+
+  function showLocalTax(notes) {
+    localTaxNote.replaceChildren();
+    localTaxNote.hidden = !notes || !notes.length;
+    for (const note of notes || []) {
+      const p = el("p");
+      p.append(el("strong", null, "Pajak daerah. "), note.message);
+      localTaxNote.append(p);
     }
   }
 

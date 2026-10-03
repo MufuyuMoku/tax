@@ -3,14 +3,23 @@
 // same site, and never makes another request. The personal collection is read from this device's
 // IndexedDB and searched with the same engine; it is never sent anywhere (invariant 7).
 import { SearchEngine } from "./engine.js";
+import { normToken } from "./normalize.js";
+import { assessText } from "../collection/extract.js";
 import { collectionPayload } from "../collection/records.js";
-import { findReferences } from "../collection/references.js";
-import { allRecords } from "../collection/store.js";
+import { findReferences, refreshReferences } from "../collection/references.js";
+import { allRecords, putRecord } from "../collection/store.js";
 
 let payload = null;
 let engine = null;
 let privateEngine = null;
 let ready = null;
+let vocabulary = null;
+
+/** Whether a word occurs in the corpus, for judging imported text (K-043). */
+function isKnown(word) {
+  if (!vocabulary) vocabulary = new Set(engine.body.text.split(" "));
+  return vocabulary.has(normToken(word, payload.ocr));
+}
 
 function load(url) {
   if (!ready) {
@@ -32,6 +41,10 @@ function load(url) {
 async function loadCollection() {
   await ready;
   const records = await allRecords();
+  // References were matched against the corpus of the day they were imported. When the corpus
+  // has changed since, match them again (K-042). Nothing leaves the device: it is IndexedDB to
+  // IndexedDB, inside this worker.
+  for (const record of refreshReferences(records, payload.docs, payload.corpus.fingerprint)) await putRecord(record);
   privateEngine = records.length ? new SearchEngine(collectionPayload(records, payload)) : null;
   return records.length;
 }
@@ -69,7 +82,15 @@ self.onmessage = async (event) => {
       self.postMessage({ id, type: "results", results, offset: event.data.offset });
     } else if (type === "rujukan") {
       await ready;
-      self.postMessage({ id, type: "rujukan", references: findReferences(event.data.text, payload.docs, event.data.own) });
+      self.postMessage({
+        id,
+        type: "rujukan",
+        references: findReferences(event.data.text, payload.docs, event.data.own),
+        corpus: payload.corpus.fingerprint,
+      });
+    } else if (type === "mutu") {
+      await ready;
+      self.postMessage({ id, type: "mutu", quality: assessText(event.data.text, isKnown) });
     } else {
       throw new Error(`jenis pesan tidak dikenal: ${type}`);
     }

@@ -649,3 +649,95 @@ pengguna, hanya pada impor PDF pertama di halaman itu. Berpindah halaman memuat 
 9 dari 9 berkas cocok SHA-256.
 **Juga:** `<link rel="icon" href="data:,">` di tata letak, supaya browser tidak meminta
 `/favicon.ico` sendiri.
+
+## K-042 — Rujukan koleksi pribadi mengikuti sidik jari korpus
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku; menggantikan catatan "diketahui" di K-038
+
+**Keputusan:** `cari/data.json` membawa `corpus.fingerprint`, 16 heksadesimal pertama SHA-256 dari
+identitas seluruh dokumen (id, label, jenis, nomor, tahun). Setiap catatan koleksi menyimpan sidik
+jari korpus tempat rujukannya dicocokkan. Saat halaman cari atau halaman koleksi dibuka, worker
+mencocokkan ulang rujukan semua catatan yang sidik jarinya berbeda, lalu menulisnya kembali ke
+IndexedDB. Pencocokan ulang memakai `refreshReferences`, fungsi murni yang dites.
+**Alasan:** setelah M5 menambah KUP dan PPN, rujukan yang dulu tampil sebagai teks "tidak ada di
+korpus" bisa menjadi tautan. Sidik jari dihitung dari identitas, bukan isi, karena rujukan hanya
+bergantung pada nomor dan jenis dokumen.
+
+## K-043 — Mutu teks PDF: teks yang tidak terbaca diperlakukan seperti pindaian
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
+
+**Masalah:** PDF dengan font tanpa peta Unicode punya lapisan teks yang berisi derau. Pemilik
+menemukannya pada PDF sungguhan; tiruannya `tests/fixtures/koleksi/se-tanpa-tounicode.pdf`, font
+Type3 dengan bentuk huruf yang benar di layar, nama glyph karangan, kode karakter teracak, tanpa
+ToUnicode. pdf.js mengembalikan 775 karakter acak dari berkas itu dan menganggapnya berteks.
+**Keputusan:** `assessText` mengukur dua hal. (1) Rasio karakter janggal: karakter bukan spasi
+yang bukan huruf, angka, atau tanda baca biasa, termasuk U+FFFD, karakter kendali, dan area pakai
+pribadi. (2) Rasio kata (3 huruf atau lebih) yang ada di kosakata korpus. Teks dianggap terbaca bila
+karakter janggal paling banyak 10% dan kata dikenal paling sedikit 50%; di bawah 15 kata, cukup
+syarat pertama. Teks yang tidak terbaca disimpan di `unreadableText`, tidak ditampilkan sebagai isi,
+tidak dicari, dan tidak dibaca rujukannya; pengguna diminta mengisi nomor atau perihal. Pengguna bisa
+menimpa penilaian ("teksnya sebenarnya terbaca"), dan halaman dokumen mencatat timpaan itu.
+**Kalibrasi:** dokumen tiruan normal 91–97% kata dikenal, 0% karakter janggal; PDF rusak 0% kata
+dikenal, 14% karakter janggal. Unit korpus: minimum 97%. Karena kosakata berasal dari korpus itu
+sendiri, diuji juga dengan 10% dokumen yang tidak ikut membentuk kosakata: minimum 86%, persentil 1
+91%, tidak satu pun di bawah ambang. Ambang 50% memberi jarak lebar di kedua sisi.
+**Diketahui:** dokumen kiriman yang penuh nama orang, alamat, atau istilah di luar PPh bisa punya
+rasio kata dikenal lebih rendah daripada korpus. Bila itu terjadi, tombol timpa yang menanganinya.
+Ambang perlu ditinjau ulang setelah KUP dan PPN memperluas kosakata.
+
+## K-044 — Tanda "cocok lemah" tidak dipasang: data tidak bisa memisahkannya
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: ditolak setelah diuji
+
+**Permintaan:** tandai hasil yang tidak memuat kata kueri yang jarang; pertanyaan 6 dan 10 di set
+uji tahan harus bertanda, jawaban yang benar tidak boleh.
+**Hasil uji** (`scripts/search-weak.mjs`): tidak ada ambang yang memenuhi keduanya. Hasil teratas
+pertanyaan 6 hanya kehilangan 33% bobot kata kueri yang ada di korpus (cek, online). Beberapa
+jawaban yang benar kehilangan lebih banyak: zakat 66%, pajak luar negeri 61%, kontraktor 53%, batas
+tidak kena pajak 52%, SPT 1770 SS 47%, TER 45%, EFIN 43%. Pertanyaan 10 (61%) setara dengan pajak
+luar negeri. Kata yang sama sekali tidak ada di korpus (siang, gratis, ruko, kuliah) tidak membantu:
+jawaban benar juga kehilangannya. Ambang yang menangkap pertanyaan 6 akan menandai sekitar 10
+jawaban benar.
+**Keputusan:** tanda tidak dipasang. Tanda yang salah pada jawaban benar lebih merugikan daripada
+tidak ada tanda. Yang membuat pertanyaan 6 dan 10 keliru adalah wilayahnya, pajak daerah; itu
+ditangani K-045. Daftar "tidak ditemukan" di kartu tetap ada, dan hasil halaman kini membawa idf
+tiap kata yang hilang (`missingIdf`) untuk analisis berikutnya.
+
+## K-045 — Keterangan pajak daerah dari berkas data
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
+
+**Keputusan:** `src/data/search/pajak-daerah.json` berisi kelompok istilah, kalimat keterangan,
+dan `batal_bila`. Bila kueri memuat istilahnya, kotak "Pajak daerah" tampil di atas hasil. PBB
+punya dua kelompok: yang khusus (PBB-P2, PBB perdesaan/perkotaan, SPPT) dan yang umum ("PBB"
+saja), dengan kalimat yang menyebut bahwa PBB-P5L masih dikelola DJP; keduanya batal bila kueri
+memuat perkebunan, perhutanan, pertambangan, migas, panas bumi, atau P5L. Hanya keterangan yang
+lebih khusus yang tampil bila keduanya cocok.
+**Alasan memilih istilah:** "kendaraan bermotor" sendiri muncul 240 kali di 30 dokumen pajak pusat
+(PPnBM, PPh Pasal 22), jadi pemicunya "pajak kendaraan bermotor", PKB, Samsat, STNK, BBNKB.
+**Hasil:** di kedua set, hanya pertanyaan 6 dan 10 yang memicu keterangan; tidak ada pertanyaan set
+evaluasi yang ikut. PBB perkebunan, PBB P5L pertambangan, PPnBM kendaraan bermotor, dan PPh 22
+importir kendaraan bermotor tidak memicu.
+
+## K-046 — Singkatan TER, dan set uji tahan tidak lagi bersih untuk pertanyaan 4
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
+
+**Keputusan:** `["TER", "Tarif Efektif Rata-rata", "tarif efektif"]` di `istilah.json`. "Tarif
+efektif rata-rata" hanya muncul 6 kali di 1 dokumen; PP 58/2023 dan PMK 168/2023 menulis "tarif
+efektif" (28 kali, 3 dokumen), dan TER dalam pemakaian sehari-hari menunjuk tarif itu. Pertanyaan 4
+set uji tahan naik dari 11 ke 1. Karena singkatan ini ditambahkan setelah set itu menunjukkan
+kegagalannya, pertanyaan 4 diberi tanda `tidak_bersih` di berkasnya. Set evaluasi tidak berubah
+(median 5, 18 dari 25 di 10 besar).
+
+## K-047 — Pesan penyimpanan belum permanen, dan permintaan ulang setelah dipasang
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
+
+**Keputusan:** bila penyimpanan belum permanen, halaman koleksi menjelaskan bahwa ini lazim untuk
+situs yang belum dipasang, bahwa koleksi hanya terhapus bila ruang perangkat hampir habis, dan
+mengingatkan untuk mengekspor cadangan. Saat halaman dibuka dalam mode terpasang
+(`display-mode: standalone`), `navigator.storage.persist()` diminta ulang otomatis.
+
+## K-048 — Perubahan SPEC: cakupan PPh, KUP, PPN; urutan milestone; jam dan VPN
+Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
+
+**Keputusan pemilik, diterapkan di SPEC dengan riwayat perubahan bertanggal:** cakupan v1 PPh, KUP,
+PPN (bagian 3); M5 KUP dan PPN, M6 pemasangan dan luring, M7 kategori lain dan pipa pembaruan malam,
+M8 penyiapan rilis (bagian 7); kalimat ketersediaan teks dari K-032 (bagian 5); syarat jam 21.00 WIB
+dicabut dan VPN dinyatakan termasuk proxy (bagian 8). CLAUDE.md diselaraskan.

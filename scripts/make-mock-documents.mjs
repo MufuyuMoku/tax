@@ -188,10 +188,53 @@ function imagePdf(lines) {
   ]);
 }
 
+// A PDF that reads fine on screen but whose text cannot be extracted: a Type3 font whose glyphs are
+// drawn shapes, with made-up glyph names, scrambled character codes, and no ToUnicode map. This is
+// what some real office PDFs look like to a text extractor: a text layer exists, but it is noise.
+function garbledPdf(lines) {
+  const printable = Array.from({ length: 95 }, (_, i) => 32 + i);
+  // Code c draws the glyph of character SCRAMBLE[c]; the content stream uses the inverse.
+  const scrambled = printable.map((c) => 32 + (((c - 32) * 37 + 11) % 95));
+  const drawOf = new Map(printable.map((c, i) => [scrambled[i], c]));
+  const codeOf = new Map(printable.map((c, i) => [c, scrambled[i]]));
+  const procs = [];
+  const names = [];
+  for (const code of printable) {
+    const glyph = GLYPHS[String.fromCharCode(drawOf.get(code)).toUpperCase()];
+    const rects = [];
+    if (glyph) {
+      glyph.forEach((bits, y) => {
+        for (let x = 0; x < 5; x++) if (bits & (16 >> x)) rects.push(`${x} ${6 - y} 1 1 re`);
+      });
+    }
+    procs.push(Buffer.from(`6 0 0 0 5 7 d1\n${rects.join("\n")}${rects.length ? "\nf" : ""}`, "latin1"));
+    names.push(`/q${code}`);
+  }
+  const hex = (line) => [...line].map((ch) => (codeOf.get(ch.charCodeAt(0)) ?? 32).toString(16).padStart(2, "0")).join("");
+  const content = ["BT", "/F1 9 Tf", "12 TL", "56 780 Td"];
+  for (const line of lines) content.push(`<${hex(line)}> Tj T*`);
+  content.push("ET");
+  // Objects: 1 catalog, 2 pages, 3 page, 4 font, 5 content, 6.. one per glyph procedure.
+  const first = 6;
+  const charProcs = printable.map((code, i) => `/q${code} ${first + i} 0 R`).join(" ");
+  return pdf([
+    "<< /Type /Catalog /Pages 2 0 R >>",
+    "<< /Type /Pages /Kids [3 0 R] /Count 1 >>",
+    "<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>",
+    `<< /Type /Font /Subtype /Type3 /FontBBox [0 0 6 7] /FontMatrix [0.1 0 0 0.1 0 0] ` +
+      `/CharProcs << ${charProcs} >> /Encoding << /Type /Encoding /Differences [32 ${names.join(" ")}] >> ` +
+      `/FirstChar 32 /LastChar 126 /Widths [${printable.map(() => 6).join(" ")}] /Resources << >> >>`,
+    stream("", Buffer.from(content.join("\n"), "latin1")),
+    ...procs.map((data) => stream("", data)),
+  ]);
+}
+
 fs.mkdirSync(OUT, { recursive: true });
 for (const [kind, lines] of Object.entries(DOCUMENTS)) {
   fs.writeFileSync(path.join(OUT, `${kind}-teks.pdf`), textPdf(lines));
   fs.writeFileSync(path.join(OUT, `${kind}-pindai.pdf`), imagePdf(lines));
   fs.writeFileSync(path.join(OUT, `${kind}.txt`), lines.join("\n") + "\n");
 }
-console.log(`${Object.keys(DOCUMENTS).length * 3} berkas tiruan ditulis ke ${OUT}`);
+// One garbled document per kind would add nothing; the SE text is enough to test the threshold.
+fs.writeFileSync(path.join(OUT, "se-tanpa-tounicode.pdf"), garbledPdf(DOCUMENTS.se));
+console.log(`${Object.keys(DOCUMENTS).length * 3 + 1} berkas tiruan ditulis ke ${OUT}`);

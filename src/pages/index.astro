@@ -87,6 +87,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   </form>
 
   <div id="hasil" hidden>
+    <div class="notice" id="catatan-daerah" hidden></div>
     <section class="blok-pribadi" id="hasil-pribadi" hidden aria-label="Hasil dari koleksi pribadi">
       <h2>Koleksi pribadi</h2>
       <p class="hasil-ringkas" id="hasil-pribadi-ringkas"></p>

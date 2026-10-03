@@ -4,6 +4,18 @@ Versi 1, disusun pada M0 (2026-09-27). Sumber rujukan utama: `poc/LAPORAN.md`, l
 yang memuat seluruh angka dan temuan yang mendasari keputusan di sini. Setiap rujukan "laporan"
 di bawah menunjuk ke berkas itu.
 
+**Riwayat perubahan**
+
+- **2026-10-03**, keputusan pemilik atas permintaan pengguna:
+  - Cakupan v1 menjadi PPh, KUP, dan PPN (bagian 3).
+  - Urutan milestone diubah: M5 KUP dan PPN, M6 pemasangan dan luring, M7 kategori lain dan pipa
+    pembaruan malam, M8 penyiapan rilis (bagian 7).
+  - Kalimat ketersediaan teks di bagian 5 diperjelas: angka 100% hanya berlaku untuk katalog DJP
+    (K-032).
+  - Syarat jam pengambilan "di atas pukul 21.00 WIB" dicabut, dan VPN dinyatakan termasuk proxy
+    (bagian 8). Alasannya: pola kegagalan per jam di laporan bagian 12 kemungkinan tercampur
+    pemakaian VPN di mesin pemilik saat itu.
+
 ---
 
 ## 1. Apa ini
@@ -27,10 +39,11 @@ Tax adalah alat pencari peraturan pajak Indonesia.
 
 ## 3. Cakupan v1
 
-**Kategori PPh saja.** Datanya sudah lengkap terkumpul di `poc/`, jadi v1 dibangun di atas data itu
-dan tidak menunggu pengambilan baru. Kategori pajak lain masuk di M6.
+**Kategori PPh, KUP, dan PPN.** Data PPh sudah lengkap terkumpul di `poc/`, jadi v1 dimulai dari data
+itu. KUP dan PPN diambil di M5, didahulukan atas permintaan pengguna (terutama KUP). Kategori pajak
+lain masuk di M7.
 
-Ukuran data yang sudah ada (laporan bagian 4):
+Ukuran data PPh yang sudah ada (laporan bagian 4):
 
 | Hal | Angka |
 |---|---|
@@ -80,8 +93,10 @@ Tidak boleh dilanggar, apa pun alasannya. Setiap milestone diperiksa terhadap da
 
 Ringkasan dari laporan; angka lengkapnya ada di sana.
 
-- **Teks hanya lengkap untuk 2010 ke atas.** Ketersediaan teks: 2010-an dan 2020-an 100%, 2000-an
-  49%, 1990-an 10%, 1980-an 4%. Dokumen lama tampil sebagai metadata dengan tautan ke sumber.
+- **Teks hanya lengkap untuk 2010 ke atas, dan hanya untuk dokumen di katalog DJP.** Untuk dokumen di
+  katalog DJP, teks 2010-an dan 2020-an tersedia 100%; 2000-an 49%, 1990-an 10%, 1980-an 4%.
+  Dokumen yang hanya tercatat di JDIH tidak berteks, karena JDIH berhenti sebelum teksnya diambil.
+  Dokumen tanpa teks tampil sebagai metadata dengan tautan ke sumber.
 - **Status tidak sejajar antar sumber.** Dari 337 dokumen yang bisa dibandingkan, 121 (36%) berbeda.
   Kosakata DJP "Diubah/Disempurnakan/Dicabut sebagian" mencampur dua keadaan hukum yang berbeda.
 - **Teks DJP sebagian hasil OCR yang tidak dikoreksi.** 23 dari 570 berkas memuat galat khas OCR
@@ -141,17 +156,24 @@ dirujuknya.
 **Selesai bila:** berkas pengguna tidak pernah dikirim ke mana pun; hasil impor ditandai sebagai
 belum terverifikasi; ekspor cadangan bisa dipulihkan; rujukan ke peraturan publik tertaut.
 
-### M5 — pemasangan dan luring
+### M5 — KUP dan PPN
+Kategori KUP dan PPN dari katalog DJP masuk korpus. Satu peraturan yang tercatat di beberapa
+kategori tetap satu dokumen dengan daftar kategorinya. Saringan dan label kategori di situs.
+**Selesai bila:** korpus memuat KUP dan PPN dengan jumlah yang cocok dengan hasil pengambilan;
+pengambilan mematuhi bagian 8; status dari satu sumber ditampilkan sebagai klaim satu sumber, tidak
+pernah sebagai kepastian; set evaluasi pencarian tidak memburuk; ukuran data dan beban diukur ulang.
+
+### M6 — pemasangan dan luring
 Bisa dipasang di HP dan jalan tanpa internet.
 **Selesai bila:** situs bisa dipasang; setelah dipasang, daftar, halaman, dan pencarian tetap jalan
 dalam keadaan luring; ada penanda kapan data terakhir diperbarui.
 
-### M6 — seluruh kategori
-Perluasan ke seluruh kategori pajak, ditambah pipa pembaruan bertahap yang jalan malam hari.
+### M7 — kategori lain dan pipa pembaruan malam
+Perluasan ke kategori pajak lainnya, ditambah pipa pembaruan bertahap yang jalan malam hari.
 **Selesai bila:** pipa hanya mengambil yang baru dan berubah, mematuhi seluruh aturan pengambilan
 di bagian 8, dan berhenti sendiri bila host menolak.
 
-### M7 — penyiapan rilis
+### M8 — penyiapan rilis
 Halaman tentang sumber dan batasan, lalu penyerahan ke pemintanya.
 **Selesai bila:** halaman batasan memuat angka nyata (cakupan, ketidakpastian status, ketepatan
 relasi) dan tanggal data; penyerahan tercatat.
@@ -166,8 +188,9 @@ Berlaku penuh, warisan bukti konsep, dan tidak boleh dilonggarkan:
 - Batas permintaan per host dalam **jendela 24 jam bergulir**, bukan per hari kalender.
 - Berhenti total bila host menolak; status berhenti tersimpan di berkas dan hanya dicabut manusia.
 - **Tidak pernah mengakali pembatasan dengan cara apa pun**: tidak ganti IP, tidak proxy, tidak
-  memalsukan user agent, tidak menembus deteksi bot.
-- Jalankan di atas pukul 21.00 WIB (pola kegagalan mengikuti jam kerja, laporan bagian 12).
+  memalsukan user agent, tidak menembus deteksi bot. **VPN termasuk proxy.** Pengambil memeriksa
+  bahwa koneksi tidak lewat VPN atau proxy sebelum jalan, dan meminta konfirmasi manusia untuk hal
+  yang tidak bisa dipastikan otomatis.
 - **DJP memutus koneksi secara sporadis tanpa mengirim 403 atau 429. Ini normal**: catat yang gagal,
   lanjutkan, ulang di putaran berikutnya.
 

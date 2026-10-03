@@ -1,5 +1,6 @@
 // Build time only (Node). Assembles everything the browser needs to search, in one file: the
 // document list, every pasal's text, the OCR correction map, and the editable term lists.
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import { listPasalIds, loadDocument, loadIndex, loadPasal, loadMeta } from "../corpus.js";
@@ -26,6 +27,11 @@ function synonymsFrom(data) {
   }
   // `lingkup: "judul_tanpa_teks"` limits a group's other forms to titles of documents without text.
   return { weight: data.bobot, groups: kept.map((g) => g.bentuk), scopes: kept.map((g) => g.lingkup || null) };
+}
+
+function corpusFingerprint(docs) {
+  const identities = docs.map((d) => [d.id, d.label, d.code, d.number, d.year]);
+  return crypto.createHash("sha256").update(JSON.stringify(identities)).digest("hex").slice(0, 16);
 }
 
 export function buildSearchPayload() {
@@ -69,7 +75,9 @@ export function buildSearchPayload() {
   return {
     payload: {
       format: 1,
-      corpus: { documents: meta.documents, units: units.length },
+      // Changes whenever a document is added or its identity changes; references in the personal
+      // collection are recomputed when it does (K-042).
+      corpus: { documents: meta.documents, units: units.length, fingerprint: corpusFingerprint(docs) },
       docs,
       units,
       texts,
@@ -77,6 +85,7 @@ export function buildSearchPayload() {
       terms: readData("istilah.json").kelompok,
       synonyms: synonymsFrom(readData("padanan.json")),
       stopwords: readData("kata-umum.json").kata,
+      localTax: readData("pajak-daerah.json").kelompok,
     },
     ocrGenerated: ocr.generated,
   };
