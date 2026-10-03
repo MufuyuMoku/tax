@@ -2,6 +2,7 @@
 import Base from "../layouts/Base.astro";
 import { buildListing, loadMeta } from "../lib/corpus.js";
 import { statusLabel, typeLabel, yearLabel, regulationLabel } from "../lib/labels.js";
+import { KINDS } from "../lib/collection/records.js";
 
 const rows = buildListing();
 const meta = loadMeta();
@@ -56,6 +57,19 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
           {years.map((year) => <option value={year}>{year}</option>)}
         </select>
       </label>
+      <label>Sumber
+        <select name="sumber" id="sumber">
+          <option value="">Peraturan publik dan koleksi pribadi</option>
+          <option value="publik">Hanya peraturan publik</option>
+          <option value="pribadi">Hanya koleksi pribadi</option>
+        </select>
+      </label>
+      <label>Jenis koleksi
+        <select name="koleksi" id="jenis-koleksi">
+          <option value="">Semua jenis koleksi</option>
+          {Object.entries(KINDS).map(([value, label]) => <option value={value}>{label}</option>)}
+        </select>
+      </label>
       <label>Status
         <select name="status" id="status">
           <option value="">Semua status</option>
@@ -73,9 +87,17 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   </form>
 
   <div id="hasil" hidden>
-    <p class="hasil-ringkas" id="hasil-ringkas"></p>
-    <ol class="daftar" id="hasil-daftar"></ol>
-    <button type="button" class="tombol-lagi" id="lagi" hidden>Tampilkan lebih banyak</button>
+    <section class="blok-pribadi" id="hasil-pribadi" hidden aria-label="Hasil dari koleksi pribadi">
+      <h2>Koleksi pribadi</h2>
+      <p class="hasil-ringkas" id="hasil-pribadi-ringkas"></p>
+      <ol class="daftar" id="hasil-pribadi-daftar"></ol>
+      <button type="button" class="tombol-lagi" id="lagi-pribadi" hidden>Tampilkan lebih banyak</button>
+    </section>
+    <section id="hasil-publik" aria-label="Hasil dari peraturan publik">
+      <p class="hasil-ringkas" id="hasil-ringkas"></p>
+      <ol class="daftar" id="hasil-daftar"></ol>
+      <button type="button" class="tombol-lagi" id="lagi" hidden>Tampilkan lebih banyak</button>
+    </section>
   </div>
 
 

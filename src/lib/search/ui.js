@@ -5,6 +5,7 @@
 // fragment (#q=...&jenis=...), so a search can be bookmarked or sent to a colleague without the
 // query ever reaching a server.
 import { statusLabel, typeLabel } from "../labels.js";
+import { kindLabel, UNVERIFIED } from "../collection/records.js";
 
 const PAGE = 30;
 
@@ -16,6 +17,8 @@ export function startSearch({ base }) {
     dari: document.getElementById("dari"),
     sampai: document.getElementById("sampai"),
     status: document.getElementById("status"),
+    sumber: document.getElementById("sumber"),
+    koleksi: document.getElementById("jenis-koleksi"),
   };
   const state = document.getElementById("keadaan");
   const all = document.getElementById("semua");
@@ -23,7 +26,15 @@ export function startSearch({ base }) {
   const results = document.getElementById("hasil");
   const summaryLine = document.getElementById("hasil-ringkas");
   const resultList = document.getElementById("hasil-daftar");
+  const publicBlock = document.getElementById("hasil-publik");
   const more = document.getElementById("lagi");
+  const privateBlock = document.getElementById("hasil-pribadi");
+  const privateSummaryLine = document.getElementById("hasil-pribadi-ringkas");
+  const privateList = document.getElementById("hasil-pribadi-daftar");
+  const privateMore = document.getElementById("lagi-pribadi");
+  let privateShown = 0;
+  let privateTotal = 0;
+  let collectionSize = 0;
 
   const worker = new Worker(new URL("./worker.js", import.meta.url), { type: "module" });
   let nextId = 1;
@@ -52,13 +63,18 @@ export function startSearch({ base }) {
   const ready = ask({ type: "load", url: `${base}cari/data.json` }).then(
     (reply) => {
       loaded = true;
-      if (!input.value.trim()) {
-        state.textContent =
-          `Siap: ${reply.info.documents.toLocaleString("id-ID")} dokumen dan ` +
-          `${reply.info.units.toLocaleString("id-ID")} pasal dimuat dalam ` +
-          `${((Date.now() - loadStarted) / 1000).toLocaleString("id-ID", { maximumFractionDigits: 1 })} detik. ` +
-          "Mengetik tidak mengirim apa pun ke mana pun.";
-      }
+      const seconds = ((Date.now() - loadStarted) / 1000).toLocaleString("id-ID", { maximumFractionDigits: 1 });
+      // The personal collection is read from this device's IndexedDB, inside the worker.
+      return ask({ type: "koleksi" }).then((collection) => {
+        collectionSize = collection.count;
+        if (!input.value.trim()) {
+          state.textContent =
+            `Siap: ${reply.info.documents.toLocaleString("id-ID")} dokumen dan ` +
+            `${reply.info.units.toLocaleString("id-ID")} pasal dimuat dalam ${seconds} detik` +
+            (collectionSize ? `, ditambah ${collectionSize} dokumen koleksi pribadi dari perangkat ini` : "") +
+            ". Mengetik tidak mengirim apa pun ke mana pun.";
+        }
+      });
     },
     (error) => {
       state.textContent = `Pencarian tidak bisa dipakai: ${error.message}. Daftar dan saringan tetap berfungsi.`;
@@ -72,6 +88,8 @@ export function startSearch({ base }) {
       statuses: selects.status.value ? [selects.status.value] : null,
       from: Number(selects.dari.value) || null,
       to: Number(selects.sampai.value) || null,
+      source: selects.sumber.value || null,
+      collectionKind: selects.koleksi.value || null,
     };
   }
 
@@ -102,6 +120,7 @@ export function startSearch({ base }) {
     for (const card of cards) {
       const year = Number(card.dataset.tahun);
       const show =
+        f.source !== "pribadi" &&
         (!f.codes || f.codes.includes(card.dataset.code)) &&
         (!f.statuses || f.statuses.includes(card.dataset.statusValue)) &&
         (!f.from || year >= f.from) &&
@@ -112,7 +131,12 @@ export function startSearch({ base }) {
     results.hidden = true;
     all.hidden = false;
     const filtered = Object.values(f).some(Boolean);
-    if (filtered) state.textContent = `${visible.toLocaleString("id-ID")} dokumen sesuai saringan.`;
+    if (f.source === "pribadi") {
+      state.textContent =
+        "Tanpa kata kunci, koleksi pribadi ditampilkan di halaman Koleksi pribadi. Ketik kata kunci untuk mencarinya di sini.";
+    } else if (filtered) {
+      state.textContent = `${visible.toLocaleString("id-ID")} dokumen sesuai saringan.`;
+    }
   }
 
   async function run() {
@@ -130,12 +154,39 @@ export function startSearch({ base }) {
     const reply = await ask({ type: "search", query, filters: filters(), limit: PAGE });
     if (reply.id < current) return;
     current = reply.id;
-    total = reply.summary.total;
+    total = reply.summary ? reply.summary.total : 0;
     shown = 0;
     resultList.replaceChildren();
-    describe(reply.summary, query);
-    append(reply.results);
+    privateList.replaceChildren();
+    privateShown = 0;
+    privateTotal = reply.privateSummary ? reply.privateSummary.total : 0;
+    privateBlock.hidden = !reply.privateSummary;
+    if (reply.privateSummary) {
+      privateSummaryLine.textContent =
+        `${privateTotal.toLocaleString("id-ID")} dokumen dari koleksi pribadi di perangkat ini. ` +
+        "Semuanya belum terverifikasi dan tidak pernah dikirim ke mana pun.";
+      appendPrivate(reply.privateResults);
+    }
+    publicBlock.hidden = !reply.summary;
+    if (reply.summary) {
+      describe(reply.summary, query);
+      append(reply.results);
+    } else {
+      state.textContent = `Dicari di perangkat ini dalam ${reply.privateSummary ? reply.privateSummary.took : 0} md.`;
+    }
   }
+
+  function appendPrivate(items) {
+    for (const item of items) privateList.append(privateCard(item));
+    privateShown += items.length;
+    privateMore.hidden = privateShown >= privateTotal;
+    privateMore.textContent = `Tampilkan ${Math.min(PAGE, privateTotal - privateShown)} lagi dari koleksi pribadi`;
+  }
+
+  privateMore.addEventListener("click", async () => {
+    const reply = await ask({ type: "more", which: "pribadi", offset: privateShown, limit: PAGE });
+    appendPrivate(reply.results);
+  });
 
   function describe(summary, query) {
     const parts = [`${summary.total.toLocaleString("id-ID")} dokumen untuk “${query}”`];
@@ -257,6 +308,35 @@ export function startSearch({ base }) {
         note.append(link(`${base}dokumen/${twin.id}/`, twin.label));
       });
       li.append(note);
+    }
+    return li;
+  }
+
+  // A document from the personal collection looks different from a public regulation, and always
+  // says it is unverified. It links to its own page by fragment, so its id stays on the device.
+  function privateCard(item) {
+    const li = el("li", "kartu pribadi");
+    const head = el("p", "kartu-nomor");
+    head.append(link(`${base}koleksi/#dok=${item.id}`, item.label), el("span", "jenis", kindLabel(item.kind)));
+    li.append(head);
+    const tags = el("p", "kartu-tanda");
+    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED));
+    if (!item.hasText) tags.append(el("span", "tanda tanpa-teks", "Isi tidak tercari"));
+    li.append(tags);
+    if (item.conceptCount > 1 && item.missing.length) {
+      li.append(el("p", "hint", `Cocok: ${item.matched.join(", ")} · tidak ditemukan: ${item.missing.join(", ")}`));
+    }
+    if (item.units.length) {
+      const quote = el("p", "cuplikan");
+      const unit = item.units[0];
+      if (unit.before) quote.append("…");
+      for (const segment of unit.segments) quote.append(segment.mark ? el("mark", null, segment.text) : segment.text);
+      if (unit.after) quote.append("…");
+      li.append(quote);
+    } else {
+      li.append(
+        el("p", "kartu-catatan", "PDF tanpa lapisan teks: hanya jenis, nomor, tanggal, perihal, dan catatan yang Anda isi yang tercari.")
+      );
     }
     return li;
   }

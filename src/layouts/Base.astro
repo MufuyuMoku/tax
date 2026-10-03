@@ -16,9 +16,15 @@ const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <!-- No icon file: without this line browsers request /favicon.ico on their own. -->
+    <link rel="icon" href="data:," />
   </head>
   <body>
     <div class="wrap">
+      <nav class="atas" aria-label="Navigasi utama">
+        <a href={import.meta.env.BASE_URL}>Peraturan</a>
+        <a href={`${import.meta.env.BASE_URL}koleksi/`}>Koleksi pribadi</a>
+      </nav>
       <slot />
       <!-- Invariant: the site must always state that it is not an official government site
            and must name the sources of its data. -->

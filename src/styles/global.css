@@ -434,3 +434,85 @@ mark {
 .tombol-lagi {
   margin: 0.5rem 0 var(--space);
 }
+
+/* ---------- personal collection ---------- */
+nav.atas {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.875rem;
+  margin-bottom: 0.5rem;
+}
+
+:root {
+  --private-bg: #f3effa;
+  --private-line: #7a5ab8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --private-bg: #221d2e;
+    --private-line: #a58ad8;
+  }
+}
+
+.blok-pribadi {
+  border-left: 4px solid var(--private-line);
+  padding-left: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.kartu.pribadi {
+  background: var(--private-bg);
+  border: 1px dashed var(--private-line);
+}
+
+.tanda.pribadi {
+  border-color: var(--private-line);
+  color: var(--private-line);
+  font-weight: 600;
+}
+
+.tanda.belum-verifikasi {
+  background: var(--warn-bg);
+  border-color: var(--warn-line);
+  font-weight: 600;
+}
+
+.formulir label.lebar {
+  flex-basis: 100%;
+}
+
+.cari textarea,
+.cari input[type="text"],
+.cari input[type="date"],
+.cari input[type="file"] {
+  font: inherit;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.35rem 0.5rem;
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.cari h2 {
+  margin-top: 0;
+}
+
+.cari button {
+  margin: 0.25rem 0.4rem 0.25rem 0;
+}
+
+.tombol-bahaya,
+.cari .tombol-bahaya {
+  font: inherit;
+  margin-top: 0.75rem;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid var(--alert-line);
+  border-radius: 4px;
+  background: var(--alert-bg);
+  color: var(--fg);
+  cursor: pointer;
+}

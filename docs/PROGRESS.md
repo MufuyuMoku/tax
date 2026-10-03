@@ -17,6 +17,71 @@ angka nyata, bukan klaim.
 
 ---
 
+## M4 — koleksi pribadi
+Tanggal: 2026-10-02
+Status: selesai
+
+**Dibangun:**
+- Halaman `/koleksi/`: impor PDF, .txt, atau teks tempel; isian jenis, nomor, tanggal, perihal,
+  catatan; daftar koleksi; tampilan dokumen di `#dok=<id>`; status penyimpanan; ekspor, pulihkan
+  (gabung atau ganti), dan hapus semua. Tautan "Koleksi pribadi" di setiap halaman.
+- `src/lib/collection/`: ekstraksi (pdf.js dimuat hanya saat impor PDF, di-host di situs sendiri),
+  rujukan ke peraturan publik, catatan dan payload pencarian, cadangan, IndexedDB.
+- Pencarian di halaman daftar mencari koleksi dengan mesin yang sama, menampilkannya di bagian
+  sendiri yang tampil berbeda, dengan saringan Sumber dan Jenis koleksi. Setiap dokumen koleksi
+  berlabel "Belum terverifikasi" di kartu hasil, daftar koleksi, dan halaman dokumennya.
+- 12 dokumen tiruan (SE, ND, penegasan, putusan × PDF berteks, PDF gambar, .txt) dari
+  `scripts/make-mock-documents.mjs`.
+- `scripts/verify-collection.mjs`: uji ujung ke ujung di Chrome dengan rekaman jaringan.
+
+**Verifikasi:**
+- Ekstraksi: keempat PDF berteks terbaca (440–769 karakter); keempat PDF gambar memberi 0 karakter,
+  memunculkan peringatan "tidak punya lapisan teks", dan hanya tercari lewat isian.
+- Rujukan: SE tiruan menautkan PMK 168/2023, PP 58/2023, PER-DJP 11/2025, masing-masing dengan
+  kalimatnya; PMK 81/2024 tampil sebagai teks "tidak ada di korpus PPh situs ini".
+- Pencarian: "majelis" menemukan putusan berteks tetapi tidak versi pindaiannya; "Perihal tiruan
+  putusan pindai" menemukan versi pindaian di peringkat 1; "SE-901/PJ/2026" hanya mengenai koleksi.
+- Pulang-pergi: impor → ekspor → hapus semua → pulihkan (ganti) → ekspor lagi: kedua cadangan
+  70.656 byte dan sama persis; 9 dari 9 berkas tersimpan cocok SHA-256 dengan berkas tiruan.
+- Invarian 7 (K-041): 0 permintaan jaringan saat mencari, membuka dokumen, mengekspor, menghapus,
+  memulihkan; saat impor 2 permintaan berkas statis pdf.js pada PDF pertama. Tidak ada id atau isi
+  dokumen di URL permintaan, isi permintaan, judul tab, atau konsol (konsol 0 pesan).
+- Tampilan: lebar 320px tanpa gulir samping di halaman koleksi dan hasil pencarian.
+- Tes: `npm test` 41 tes (11 baru untuk koleksi: ekstraksi, rujukan, pencarian, cadangan, tiruan).
+
+**Diputuskan sendiri:** K-034 sampai K-041.
+
+**Belum dikerjakan / diketahui pincang:**
+- Rujukan dihitung terhadap korpus saat impor dan tidak diperbarui otomatis (K-038).
+- Cadangan tidak terenkripsi (K-040).
+- Dokumen tidak bisa disunting setelah diimpor; hanya dihapus dan diimpor ulang.
+- Impor PDF pertama di tiap kunjungan masih mengambil berkas pdf.js; di M5 berkas itu disimpan di
+  perangkat.
+
+## Perbaikan sebelum M4
+Tanggal: 2026-10-02
+Status: selesai
+
+**Kueri di fragmen:** pencarian dan saringan kini di `#q=...`; tautan lama `?q=` dibaca sekali lalu
+ditulis ulang. Dibuktikan di browser: setelah tautan lama dibuka, memuat ulang hanya meminta
+`GET /tax/` tanpa kueri. K-028 diperbarui.
+
+**PP 34/2016:** bukan catatan kembar dan bukan salah angka laporan. Dokumen itu hanya tercatat di
+JDIH (tidak ada di 2.468 baris daftar PPh DJP), dan "teks 2010-an 100%" di LAPORAN dihitung atas
+katalog DJP saja; SPEC bagian 5 menghilangkan kata "di DJP". Di korpus ada 38 dokumen 2010-an dan
+9 dokumen 2020-an yang hanya tercatat JDIH dan tidak berteks. Usulan perbaikan kalimat SPEC di
+K-032. Padanan khusus judul dokumen tanpa teks: "jual rumah kena pajak berapa" 157 → 42, tidak ada
+pertanyaan lain yang berubah; dipakai (K-032).
+
+**Set evaluasi:** kutipan "buruh harian lepas" diganti ke PMK 168/2023 Pasal 5 dan PP 58/2023 Pasal
+2; "warisan" diterima pemilik; semua tetap "belum diverifikasi ahli". Median 5, 10 besar 18 dari
+25, tidak ada yang memburuk.
+
+**Set uji tahan (K-033):** 10 pertanyaan pemilik di `tests/search/kasus-tahan.json`. Golongan (a)
+6 pertanyaan: peringkat jawaban 3, 1, 1, 11, 1, 1. Golongan (b) 2: denda telat SPT (UU KUP Pasal
+7) dan pemadanan NIK (PMK 112/2022), keduanya di luar cakupan v1. Golongan (c) 2: pajak kendaraan
+bermotor dan PBB-P2, pajak daerah. Penilaian kartu hasil untuk (b) dan (c) ada di laporan sesi.
+
 ## Koreksi M3
 Tanggal: 2026-10-02
 Status: selesai

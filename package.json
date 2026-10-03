@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "astro": "^5.14.1"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.3.289"
   }
 }

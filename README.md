@@ -6,8 +6,8 @@ di HP untuk dipakai tanpa internet.
 **Bukan situs resmi pemerintah.** Sumber data: katalog peraturan Direktorat Jenderal Pajak dan JDIH
 Kementerian Keuangan. Setiap dokumen membawa URL sumber dan tanggal pengambilannya.
 
-Status: **M3 — pencarian.** Daftar, halaman dokumen dan pasal, serta pencarian di perangkat sudah
-ada. Belum ada koleksi pribadi (M4) dan pemasangan luring (M5).
+Status: **M4 — koleksi pribadi.** Daftar, halaman dokumen dan pasal, pencarian di perangkat, dan
+koleksi pribadi yang tersimpan hanya di perangkat sudah ada. Belum ada pemasangan luring (M5).
 
 | Berkas | Isi |
 |---|---|
@@ -17,7 +17,8 @@ ada. Belum ada koleksi pribadi (M4) dan pemasangan luring (M5).
 | `CLAUDE.md` | Konteks tetap proyek dan aturan kerja |
 | `pipeline/` | Pipa data Python: arsip `poc/` menjadi korpus `corpus/` |
 | `src/data/search/` | Singkatan, kata umum, dan toleransi OCR untuk pencarian; boleh disunting |
-| `tests/` | Tes pencarian (`npm test`) |
+| `src/lib/collection/` | Koleksi pribadi: impor, IndexedDB, rujukan, cadangan |
+| `tests/` | Tes pencarian dan koleksi (`npm test`); `tests/fixtures/koleksi/` hanya berisi dokumen tiruan |
 | `poc/` | Arsip bukti konsep, termasuk `poc/LAPORAN.md` |
 
 Pengembangan: `npm install`, lalu `npm run dev` atau `npm run build`. Tes: `npm test` untuk

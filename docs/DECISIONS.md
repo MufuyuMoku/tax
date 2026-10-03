@@ -547,3 +547,105 @@ tidak dijadikan gerbang.
 **Set evaluasi lama:** kutipan "buruh harian lepas" diganti ke PMK 168/2023 Pasal 5 (penghasilan
 Pegawai Tidak Tetap berupa upah harian) dan PP 58/2023 Pasal 2 (tarif efektif harian); "warisan"
 diterima pemilik. Tidak satu pun jawaban sudah diverifikasi ahli, dan berkasnya mengatakan begitu.
+
+## K-034 — Dokumen tiruan ditulis skrip, PDF dibuat tanpa pustaka
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** `scripts/make-mock-documents.mjs` menulis 12 berkas di `tests/fixtures/koleksi/`:
+SE, ND, surat penegasan, dan putusan, masing-masing sebagai PDF berlapis teks, PDF berisi gambar
+saja (huruf 5×7 digambar ke bitmap abu-abu dengan bintik, meniru pindaian), dan .txt. Isinya
+karangan penyusun dengan nomor fiktif, dan setiap berkas diawali "DOKUMEN TIRUAN UNTUK PENGUJIAN -
+BUKAN DOKUMEN ASLI"; tes memeriksa tanda itu. Skrip ditulis tanpa pustaka sehingga keluarannya sama
+persis setiap kali dijalankan (dicek dengan SHA-256 dua kali jalan).
+**Alasan:** `samples-local/` masih kosong, dan invarian 10 melarang dokumen kiriman masuk repo.
+Tiruan memuat rujukan ke peraturan yang ada di korpus (PMK 168/2023, PP 58/2023, PER-11/PJ/2025,
+PMK 66/2023, PP 55/2022, PMK 164/2023, PMK 141/2015, UU 36/2008) dan satu yang tidak ada (PMK
+81/2024), supaya pencocokan rujukan teruji di kedua arah.
+
+## K-035 — pdf.js di-host di situs sendiri dan dimuat hanya saat PDF diimpor
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** dependensi `pdfjs-dist` 6.3. `src/lib/collection/pdf-browser.js` diimpor secara
+dinamis saat pengguna memilih berkas PDF; Vite memecahnya menjadi `pdf-browser.*.js` dan
+`pdf.worker.min.*.mjs` di folder situs. Satu `PDFWorker` dipakai bersama untuk semua impor dalam
+satu halaman. Ekstraksi hanya memakai `getTextContent`, tanpa font, eval, maupun gambar.
+**Ambang lapisan teks:** PDF dianggap tanpa lapisan teks bila kurang dari 20 karakter bukan spasi
+bisa dibaca. Tidak ada OCR (SPEC bagian 10).
+**Alternatif yang ditolak:** CDN (dilarang pemilik, dan bocor ke pihak ketiga); memuat pdf.js
+bersama halaman (membebani setiap kunjungan, padahal impor jarang).
+
+## K-036 — Koleksi pribadi disimpan di IndexedDB, penyimpanan permanen diminta setelah impor pertama
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** basis data `tax-koleksi-pribadi`, satu object store `dokumen`. Tiap catatan memuat
+id acak (`k` + 24 heksadesimal, tidak diturunkan dari isi), jenis, nomor, tanggal, perihal,
+catatan, sumber (pdf, txt, tempel), berkas asli (nama, jenis, ukuran, SHA-256, byte utuh), teks
+terbaca atau `null`, rujukan, tanggal impor, dan `verified: false`. `navigator.storage.persist()`
+diminta otomatis saat dokumen pertama disimpan, dan bisa diminta lagi lewat tombol; hasilnya,
+pemakaian, dan kuota ditampilkan.
+**Diketahui:** Chrome headless menolak permintaan permanen, jadi yang teruji otomatis hanya
+tampilan "belum permanen". Di browser biasa keputusan ada di tangan browser.
+
+## K-037 — Koleksi dicari dengan mesin yang sama, dalam instans dan bagian hasil sendiri
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** worker pencarian membaca IndexedDB sendiri, membentuk payload koleksi dengan bentuk
+yang sama seperti korpus publik (`collectionPayload`), dan menjalankan `SearchEngine` kedua. Hasil
+koleksi tampil di bagian "Koleksi pribadi" di atas hasil publik, dengan kartu berwarna dan bergaris
+putus-putus, tanda "Koleksi pribadi" dan "Belum terverifikasi". Saringan baru: Sumber (keduanya,
+hanya publik, hanya pribadi) dan Jenis koleksi. Dokumen pindaian tidak punya unit teks, jadi hanya
+isian pengguna yang tercari, dan kartunya mengatakan itu.
+**Alasan:** skor dua mesin dengan idf berbeda tidak bisa dibandingkan; menggabungkan peringkatnya
+akan pura-pura presisi. Bagian terpisah juga membuat asal setiap hasil tidak mungkin tertukar.
+**Alternatif yang ditolak:** satu indeks gabungan — dokumen pribadi akan ikut memengaruhi idf
+peraturan publik.
+
+## K-038 — Rujukan dari dokumen impor dibaca dengan parseNumber, disimpan saat impor
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** `findReferences` mencari pola nomor di teks impor, memberi `parseNumber` konteks
+paling banyak 80 karakter sebelum nomor dan tidak melewati nomor sebelumnya (supaya jenis satu
+peraturan tidak terbawa ke nomor berikutnya), lalu mencocokkan ke identitas korpus. Nomor dokumen
+itu sendiri dilewati. Yang cocok ditautkan ke halaman peraturannya; yang tidak cocok tampil sebagai
+teks "tidak ada di korpus PPh situs ini". Setiap rujukan membawa kalimat sumbernya dan kotak
+"petunjuk, bukan kepastian" (invarian 5).
+**Diketahui:** rujukan dihitung terhadap korpus saat impor. Bila korpus diperbarui (M6), rujukan
+lama tidak ikut berubah sampai dokumen diimpor ulang.
+
+## K-039 — Halaman dokumen pribadi beralamat fragmen, judul tab tidak pernah berubah
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** `/koleksi/#dok=<id>`. Fragmen tidak pernah dikirim browser, jadi id tidak muncul di
+permintaan mana pun. Judul tab tetap "Koleksi pribadi — Tax" untuk setiap dokumen. Berkas asli
+dibuka lewat URL `blob:` yang dibuat di perangkat. Halaman tidak menulis apa pun ke konsol.
+**Tafsir:** id memang terlihat di bilah alamat, karena rute berbasis fragmen memang meletakkannya
+di sana; yang dijamin adalah id tidak pernah meninggalkan perangkat lewat permintaan jaringan.
+
+## K-040 — Cadangan satu berkas JSON deterministik, pemulihan gabung atau ganti
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** `exportBackup` menulis JSON dengan kunci terurut dan dokumen terurut menurut tanggal
+impor, berkas asli dalam base64 beserta SHA-256-nya. Tanggal ekspor hanya ada di nama berkas, jadi
+koleksi yang sama selalu menghasilkan byte yang sama. Pemulihan menolak seluruh cadangan bila satu
+berkas di dalamnya tidak cocok dengan SHA-256-nya. Pengguna memilih "gabungkan" (dokumen dengan id
+yang sudah ada dibiarkan, yang baru ditambahkan) atau "ganti seluruh koleksi"; penulisan ke
+IndexedDB dalam satu transaksi.
+**Diketahui:** cadangan tidak terenkripsi; halaman mengatakan itu. Enkripsi menambah kata sandi
+yang bisa lupa dan memutus pemulihan; diputuskan pemilik bila perlu.
+
+## K-041 — Bukti invarian 7 lewat Chrome sungguhan, per langkah
+Tanggal: 2026-10-02 · Milestone: M4 · Status: berlaku
+
+**Keputusan:** `scripts/verify-collection.mjs` mengendalikan Chrome lewat DevTools Protocol,
+mencatat setiap permintaan (halaman dan worker), pesan konsol, dan judul tab, lalu menjalankan
+impor 9 berkas tiruan plus teks tempel, membuka dokumen, mencari, mengekspor, menghapus semua,
+memulihkan, dan mengekspor lagi. Skrip gagal bila ada permintaan, pesan konsol, atau judul yang
+memuat id atau isi dokumen, bila cadangan kedua tidak sama persis dengan yang pertama, atau bila
+berkas tersimpan berbeda dari berkas tiruan.
+**Hasil:** 0 permintaan saat mencari, membuka dokumen, mengekspor, menghapus, dan memulihkan.
+Saat impor ada 2 permintaan: pustaka pdf.js dan worker-nya, berkas statis situs ini tanpa data
+pengguna, hanya pada impor PDF pertama di halaman itu. Berpindah halaman memuat halaman statis dan
+`cari/data.json`. Konsol 0 pesan. Kebocoran 0. Cadangan 70.656 byte, sama persis byte demi byte;
+9 dari 9 berkas cocok SHA-256.
+**Juga:** `<link rel="icon" href="data:,">` di tata letak, supaya browser tidak meminta
+`/favicon.ico` sendiri.

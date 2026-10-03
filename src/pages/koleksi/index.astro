@@ -1,0 +1,101 @@
+---
+import Base from "../../layouts/Base.astro";
+import { KINDS } from "../../lib/collection/records.js";
+
+const base = import.meta.env.BASE_URL;
+---
+
+<!-- The tab title stays the same for every document: nothing about a personal document is ever
+     put where the browser could show or send it. -->
+<Base title="Koleksi pribadi — Tax" description="Dokumen pribadi yang disimpan di perangkat ini">
+  <p class="breadcrumb"><a href={base}>Daftar peraturan</a></p>
+  <h1>Koleksi pribadi</h1>
+
+  <div class="notice">
+    <p>
+      <strong>Dokumen di sini hanya ada di perangkat ini.</strong> Berkas yang Anda impor dibaca dan
+      disimpan oleh browser ini saja, tidak dikirim ke server mana pun, dan tidak ikut terbit di
+      situs. Semua dokumen koleksi berlabel <strong>belum terverifikasi</strong>: situs ini tidak
+      memeriksa keaslian maupun keberlakuannya.
+    </p>
+  </div>
+
+  <noscript><p class="peringatan-blok">Koleksi pribadi membutuhkan JavaScript.</p></noscript>
+
+  <!-- Document view, shown when the fragment is #dok=<id>. -->
+  <section id="tampilan-dokumen" hidden></section>
+
+  <div id="halaman-koleksi">
+    <section class="cari" aria-labelledby="judul-simpan">
+      <h2 id="judul-simpan">Penyimpanan</h2>
+      <p id="info-simpan" class="hint">Memeriksa penyimpanan…</p>
+      <button type="button" id="minta-permanen">Minta penyimpanan permanen</button>
+    </section>
+
+    <section class="cari" aria-labelledby="judul-impor">
+      <h2 id="judul-impor">Impor dokumen</h2>
+      <p class="hint">
+        PDF, berkas .txt, atau teks yang ditempel. PDF dibaca di browser ini; pustaka pembaca PDF
+        diambil dari situs ini sendiri saat pertama kali Anda mengimpor PDF.
+      </p>
+      <label for="berkas">Pilih berkas</label>
+      <input id="berkas" type="file" accept=".pdf,.txt,application/pdf,text/plain" />
+      <label for="tempel">atau tempel teks</label>
+      <textarea id="tempel" rows="5"></textarea>
+      <button type="button" id="baca">Baca teks yang ditempel</button>
+
+      <div id="hasil-baca" hidden>
+        <p id="ringkas-baca" class="hint"></p>
+        <div id="peringatan-pindai" class="peringatan-blok" hidden>
+          <strong>PDF ini tidak punya lapisan teks</strong> (kemungkinan hasil pindaian). Isinya tidak
+          akan tercari, dan situs ini tidak melakukan OCR. Yang tercari hanya isian di bawah, jadi
+          isi paling tidak nomor atau perihal. PDF aslinya tetap disimpan dan bisa dibuka.
+        </div>
+        <div class="saringan formulir">
+          <label>Jenis
+            <select id="isi-jenis">
+              {Object.entries(KINDS).map(([value, label]) => <option value={value}>{label}</option>)}
+            </select>
+          </label>
+          <label>Nomor <input id="isi-nomor" type="text" autocomplete="off" /></label>
+          <label>Tanggal <input id="isi-tanggal" type="date" /></label>
+          <label class="lebar">Perihal <input id="isi-perihal" type="text" autocomplete="off" /></label>
+          <label class="lebar">Catatan <textarea id="isi-catatan" rows="2"></textarea></label>
+        </div>
+        <button type="button" id="simpan">Simpan ke koleksi</button>
+        <p id="pesan-impor" class="hint" aria-live="polite"></p>
+      </div>
+    </section>
+
+    <section aria-labelledby="judul-daftar">
+      <h2 id="judul-daftar">Isi koleksi</h2>
+      <p id="kosong" class="hint">Belum ada dokumen.</p>
+      <ol class="daftar" id="daftar-koleksi"></ol>
+    </section>
+
+    <section class="cari" aria-labelledby="judul-cadangan">
+      <h2 id="judul-cadangan">Cadangan</h2>
+      <p class="hint">
+        Cadangan adalah satu berkas berisi seluruh koleksi, termasuk PDF aslinya. Berkas itu dibuat
+        di perangkat ini dan disimpan ke tempat yang Anda pilih; isinya tidak terenkripsi, jadi
+        simpan seperti Anda menyimpan dokumen aslinya.
+      </p>
+      <button type="button" id="ekspor">Ekspor cadangan</button>
+      <label for="pulihkan">Pulihkan dari cadangan</label>
+      <input id="pulihkan" type="file" accept=".json,application/json" />
+      <div id="pilihan-pulih" hidden>
+        <p id="ringkas-pulih"></p>
+        <button type="button" id="pulih-gabung">Gabungkan dengan koleksi sekarang</button>
+        <button type="button" id="pulih-ganti">Ganti seluruh koleksi</button>
+      </div>
+      <p id="pesan-cadangan" class="hint" aria-live="polite"></p>
+      <button type="button" id="hapus-semua" class="tombol-bahaya">Hapus seluruh koleksi</button>
+    </section>
+  </div>
+</Base>
+
+<script>
+  import { startCollection } from "../../lib/collection/ui.js";
+
+  startCollection({ base: import.meta.env.BASE_URL });
+</script>
