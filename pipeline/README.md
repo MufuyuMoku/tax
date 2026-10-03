@@ -85,6 +85,14 @@ proxy sistem, variabel proxy, dan status WARP, dan menolak jalan bila ada yang a
 .venv\Scripts\python -m pipeline.harvest kemajuan
 ```
 
+**Menghentikan putaran dengan rapi** (misalnya sebelum internet dimatikan): buat berkas kosong
+`harvest/BERHENTI`. Putaran berhenti setelah permintaan yang sedang berjalan, menyimpan catatannya,
+dan perintah `jalan` berikutnya menghapus berkas itu lalu melanjutkan dari titik berhenti.
+
+```
+type nul > harvest\BERHENTI
+```
+
 Perintah lain: `uji` (satu permintaan, robots.txt) dan `intai` (halaman pertama dan terakhir daftar
 tiap kategori). `--batas N` membatasi jumlah permintaan halaman dalam satu putaran.
 

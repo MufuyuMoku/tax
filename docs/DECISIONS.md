@@ -793,3 +793,13 @@ untuk PPh di `poc/data`. Bidang `kategori` dan `tag` di halaman detail tidak dis
 `kategori` DJP dari repo karena klasifikasi buatan sumber tetap dilindungi (SPEC bagian 9). Apakah
 menampilkan "ditemukan di daftar KUP katalog DJP" dianggap menerbitkan ulang klasifikasi itu? Data
 untuk kedua jawaban sudah ada; yang perlu diputuskan hanya tampilannya.
+
+## K-052 — Putaran pengambilan bisa dihentikan rapi dengan berkas sinyal
+Tanggal: 2026-10-03 · Milestone: M5 · Status: berlaku
+
+**Keputusan:** bila `harvest/BERHENTI` ada, putaran berhenti di antara dua permintaan, menyimpan
+keadaan dan catatan putarannya. Perintah `jalan` berikutnya menghapus berkas itu dan melanjutkan.
+**Alasan:** pada 2026-10-03 internet pemilik harus mati pukul 11.30, sedangkan daftar katalog baru
+selesai sekitar 14.45. Mematikan proses secara paksa memang tidak merusak data (keadaan disimpan per
+halaman), tetapi catatan putarannya hilang. Mempercepat dengan jeda di bawah 20 detik tidak
+dipertimbangkan (SPEC bagian 8).

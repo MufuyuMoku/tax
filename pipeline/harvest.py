@@ -38,6 +38,7 @@ BASE = config.DJP_BASE
 LIST = BASE + "/id/peraturan"
 CATEGORIES = {"KUP": "13927", "PPN": "13929"}  # ids as in poc/djp_enum.py
 STATE = config.HARVEST / "state.json"
+STOP_SIGNAL = config.HARVEST / "BERHENTI"  # created by a human to end the current round cleanly
 LIST_OUT = config.HARVEST / "djp_list.jsonl"
 DETAIL_OUT = config.HARVEST / "djp_detail.jsonl"
 OUT_OF_SCOPE = re.compile(config.OUT_OF_SCOPE_TITLE, re.I)
@@ -187,6 +188,9 @@ def run(fetcher, state, limit=None, pages=None):
     retry_lists = []
 
     def budget():
+        # A human can end a round between two requests by creating harvest/BERHENTI.
+        if STOP_SIGNAL.exists():
+            return False
         return limit is None or done < limit
 
     # Lists first, for both categories: they are cheap and show the whole picture (which documents
@@ -286,6 +290,8 @@ def main(argv=None):
         return 0
 
     net_guard.require_plain_connection(args.tanpa_vpn)
+    if STOP_SIGNAL.exists():
+        STOP_SIGNAL.unlink()  # left over from the previous round's clean stop
     fetcher = Fetcher()
     started = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
     ending = "selesai"
@@ -300,6 +306,8 @@ def main(argv=None):
             ending = "pengintaian"
         else:
             count = run(fetcher, state, limit=args.batas)
+            if STOP_SIGNAL.exists():
+                ending = "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan"
     except (CapReached, RoundOver) as error:
         ending = f"berhenti untuk putaran ini: {error}"
     except HostStopped as error:

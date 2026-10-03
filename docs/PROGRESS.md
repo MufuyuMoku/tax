@@ -17,6 +17,59 @@ angka nyata, bukan klaim.
 
 ---
 
+## M5 — KUP dan PPN
+Tanggal: 2026-10-03
+Status: sebagian — pengintaian dan pengambil selesai; pengambilan berjalan (dilanjutkan Senin 5 Oktober)
+
+**Dibangun:** `pipeline/polite.py` (pengambil sopan, turunan `poc/fetch.py`), `pipeline/net_guard.py`
+(pemeriksaan VPN/proxy lokal), `pipeline/harvest.py` (daftar dan detail KUP/PPN, bisa dilanjutkan,
+berkas keadaan `harvest/state.json`, sinyal berhenti `harvest/BERHENTI`). 13 tes luring baru.
+
+**Penolakan bukti konsep (K-049):** DJP tidak pernah menolak (0 kode 4xx/503 dari 1.988 permintaan),
+jadi penghentiannya dicabut atas izin pemilik; uji robots.txt HTTP 200. JDIH tidak dicoba: putusnya
+TLS seluruh domain 9 jam setelah 884 permintaan berjeda 4 detik tidak bisa dibedakan antara blokir
+terhadap kita dan blokir alamat VPN.
+
+**Pengintaian (2026-10-03):** katalog DJP punya kategori KUP (254 halaman, 1.268 baris) dan PPN
+(496 halaman, 2.480 baris), sama dengan 21 September.
+
+**Hasil sementara, dihentikan rapi 11.13 WIB karena internet pemilik dimatikan 11.30:**
+- Daftar KUP lengkap: 1.268 baris, 1.266 dokumen unik, **275 sudah ada di korpus PPh**, 140 KMK
+  kurs/bunga di luar cakupan. Detail yang perlu diambil: 892.
+- Daftar PPN: 19 dari 496 halaman (95 dokumen, 69 sudah di korpus PPh). Belum bisa disimpulkan.
+- 13 dokumen sejauh ini tercatat di KUP dan PPN sekaligus.
+- 285 permintaan ke `www.pajak.go.id` dalam 24 jam; 1 putus koneksi (diulang); tidak dihentikan.
+
+**Perkiraan sisa:** 477 halaman daftar PPN dan sekitar 890 detail KUP plus detail PPN. Dengan
+jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran malam.
+
+**Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
+pemilik tentang label kategori (K-051).
+
+## Perbaikan sebelum M5
+Tanggal: 2026-10-03
+Status: selesai
+
+**Urutan milestone diubah pemilik:** M5 KUP dan PPN, M6 pemasangan dan luring, M7 kategori lain dan
+pipa malam, M8 rilis. SPEC bagian 3, 5, 7, 8 diperbarui dengan riwayat bertanggal (K-048).
+
+- **Rujukan koleksi mengikuti korpus (K-042):** sidik jari korpus di `cari/data.json`; rujukan
+  dicocokkan ulang saat sidik jari berubah. Tes: rujukan PMK 81/2024 yang tadinya teks menjadi
+  tautan saat korpus "baru" memuatnya.
+- **TER (K-046):** masuk `istilah.json`; pertanyaan 4 set uji tahan 11 → 1 dan ditandai tidak bersih.
+- **Cocok lemah (K-044):** diuji, tidak dipasang. Tidak ada ambang yang menandai pertanyaan 6 dan 10
+  tanpa menandai jawaban benar: hasil teratas pertanyaan 6 hanya kehilangan 33% bobot kata,
+  sedangkan tujuh jawaban benar kehilangan 43–66%.
+- **Pajak daerah (K-045):** `pajak-daerah.json`; hanya pertanyaan 6 dan 10 yang memicu keterangan,
+  PBB-P5L dan PPnBM kendaraan tidak.
+- **Mutu teks PDF (K-043):** tiruan PDF tanpa ToUnicode (pdf.js mengembalikan 775 karakter acak);
+  dinilai tidak terbaca (0% kata dikenal, 14% karakter janggal), diperlakukan seperti pindaian,
+  bisa ditimpa pengguna. Dokumen tiruan normal 91–97% kata dikenal; 10% korpus yang ditahan dari
+  kosakata minimal 86%.
+- **Pesan penyimpanan (K-047):** penjelasan bila belum permanen; diminta ulang otomatis saat terpasang.
+- **Verifikasi:** `npm test` 51 tes; `scripts/verify-collection.mjs` lulus dengan 11 dokumen tiruan
+  (cadangan 105.315 byte sama persis, 10 dari 10 berkas cocok, konsol 0 pesan, kebocoran 0).
+
 ## M4 — koleksi pribadi
 Tanggal: 2026-10-02
 Status: selesai
