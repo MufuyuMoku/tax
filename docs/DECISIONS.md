@@ -700,6 +700,7 @@ jawaban benar.
 tidak ada tanda. Yang membuat pertanyaan 6 dan 10 keliru adalah wilayahnya, pajak daerah; itu
 ditangani K-045. Daftar "tidak ditemukan" di kartu tetap ada, dan hasil halaman kini membawa idf
 tiap kata yang hilang (`missingIdf`) untuk analisis berikutnya.
+**Pemilik (2026-10-04):** diterima.
 
 ## K-045 — Keterangan pajak daerah dari berkas data
 Tanggal: 2026-10-03 · Milestone: sebelum M5 · Status: berlaku
@@ -793,6 +794,13 @@ untuk PPh di `poc/data`. Bidang `kategori` dan `tag` di halaman detail tidak dis
 `kategori` DJP dari repo karena klasifikasi buatan sumber tetap dilindungi (SPEC bagian 9). Apakah
 menampilkan "ditemukan di daftar KUP katalog DJP" dianggap menerbitkan ulang klasifikasi itu? Data
 untuk kedua jawaban sudah ada; yang perlu diputuskan hanya tampilannya.
+**Keputusan pemilik (2026-10-04):** boleh, dengan batas. Label kategori dipakai untuk saringan dan
+kartu, hanya dalam bentuk asal daftar ("Dari daftar KUP katalog DJP") dan hanya tiga nilai: PPh, KUP,
+PPN. Tag, klasifikasi rinci, dan abstrak sumber tetap tidak diterbitkan (SPEC bagian 9, K-010).
+**Alasan:** keterangan di daftar mana dokumen ditemukan adalah asal-usul pengambilan, sejenis URL
+sumber dan tanggal ambil yang memang wajib tampil (invarian 2). Itu bukan penerbitan ulang susunan
+klasifikasi sumber: tiga nilai yang kami pilih sendiri sebagai cakupan, bukan pohon kategori DJP.
+SPEC bagian 9 diberi penegasan ini.
 
 ## K-052 — Putaran pengambilan bisa dihentikan rapi dengan berkas sinyal
 Tanggal: 2026-10-03 · Milestone: M5 · Status: berlaku
@@ -803,3 +811,32 @@ keadaan dan catatan putarannya. Perintah `jalan` berikutnya menghapus berkas itu
 selesai sekitar 14.45. Mematikan proses secara paksa memang tidak merusak data (keadaan disimpan per
 halaman), tetapi catatan putarannya hilang. Mempercepat dengan jeda di bawah 20 detik tidak
 dipertimbangkan (SPEC bagian 8).
+
+## K-053 — Urutan pengambilan: KUP sampai tuntas dulu, lalu PPN
+Tanggal: 2026-10-04 · Milestone: M5 · Status: berlaku
+
+**Keputusan pemilik:** urutan putaran menjadi daftar KUP, detail KUP, daftar PPN, detail PPN
+(sebelumnya kedua daftar dulu). Begitu detail KUP lengkap, B3–B5 dikerjakan untuk KUP saja dan
+diterbitkan; PPN menyusul sebagai tahap kedua M5 (SPEC bagian 7).
+**Alasan:** KUP adalah prioritas pengguna. Dengan urutan lama, sisa 477 halaman daftar PPN harus
+selesai dulu sebelum satu pun detail KUP diambil.
+
+## K-054 — JDIH diuji ulang: lulus; keadaan dan batasnya terpisah per host
+Tanggal: 2026-10-04 · Milestone: M5 · Status: berlaku
+
+**Bukti dari pemilik:** `jdih.kemenkeu.go.id` terbuka di browser biasa tanpa VPN, dari jaringan rumah
+dan dari data seluler. Menurut kriteria di laporan sesi 2026-10-03, blokir lama sudah tidak berlaku.
+Atas izin pemilik, entri JDIH dihapus dari `poc/data/host_stopped.json`; entri `setpp` tetap.
+**Uji** (`pipeline/jdih_probe.py`): dua permintaan pada 2026-10-04 02.55 UTC, robots.txt (HTTP 200,
+halaman uji diizinkan) lalu `/dok/pmk-81-tahun-2024` (HTTP 200, 458 KB). Tidak ada penolakan.
+Halaman masih memuat data dokumen yang sama dengan bukti konsep: masa berlaku ("01 Jan 2025 - s.d.
+Dicabut"), relasi terstruktur, dan 8 berkas unduhan.
+**Keadaan per host:** `Fetcher(root=...)` memberi JDIH log, berkas penghentian, kunci proses, dan
+cache sendiri di `harvest/jdih/`, sehingga batas 24 jam dan penghentiannya terpisah dari DJP.
+Penghentian yang tertulis di mana pun tetap dihormati semua pengambil.
+**Catatan pemilik:** kegagalan bukti konsep terjadi setelah sekitar 884 permintaan berjeda 3–4 detik,
+jadi kemungkinan besar dulu pengambil kitalah yang diblokir. Karena itu penolakan sekecil apa pun
+dari JDIH berarti berhenti total tanpa coba ulang. Pengambilan JDIH sungguhan dijadwalkan setelah
+detail KUP, dengan jeda 20 detik.
+**Pengintaian luring** (`pipeline/jdih_scout.py`, dari daftar JDIH bukti konsep, 8.647 dokumen):
+lihat laporan M5 di PROGRESS.

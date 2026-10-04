@@ -15,6 +15,10 @@ di bawah menunjuk ke berkas itu.
   - Syarat jam pengambilan "di atas pukul 21.00 WIB" dicabut, dan VPN dinyatakan termasuk proxy
     (bagian 8). Alasannya: pola kegagalan per jam di laporan bagian 12 kemungkinan tercampur
     pemakaian VPN di mesin pemilik saat itu.
+- **2026-10-04**, keputusan pemilik:
+  - M5 dikerjakan dalam dua tahap: KUP dulu (diambil, masuk korpus, dan terbit), PPN menyusul
+    (bagian 7).
+  - Label kategori boleh tampil sebagai keterangan asal daftar, dengan batasnya (bagian 9, K-051).
 
 ---
 
@@ -162,6 +166,9 @@ kategori tetap satu dokumen dengan daftar kategorinya. Saringan dan label katego
 **Selesai bila:** korpus memuat KUP dan PPN dengan jumlah yang cocok dengan hasil pengambilan;
 pengambilan mematuhi bagian 8; status dari satu sumber ditampilkan sebagai klaim satu sumber, tidak
 pernah sebagai kepastian; set evaluasi pencarian tidak memburuk; ukuran data dan beban diukur ulang.
+**Dua tahap** (pemilik, 2026-10-04): KUP lebih dulu, karena itulah yang paling dibutuhkan pengguna.
+Begitu detail KUP lengkap, kriteria di atas dikerjakan untuk KUP saja dan diterbitkan; PPN menyusul
+sebagai tahap kedua dengan kriteria yang sama.
 
 ### M6 — pemasangan dan luring
 Bisa dipasang di HP dan jalan tanpa internet.
@@ -202,6 +209,12 @@ masih mencatat status itu sebagai dugaan yang belum diverifikasi.
 
 Yang tetap dilindungi dan **tidak boleh diterbitkan ulang**: abstrak, metadata, klasifikasi, naskah
 konsolidasi, dan tata letak situs sumber. Aplikasi ini gratis dan nonkomersial.
+
+**Penegasan untuk label kategori** (pemilik, 2026-10-04, K-051): keterangan di daftar kategori mana
+sebuah dokumen ditemukan boleh dipakai untuk saringan dan kartu, **hanya** dalam bentuk asal daftar,
+misalnya "Dari daftar KUP katalog DJP", dan **hanya** tiga nilai: PPh, KUP, PPN. Ini keterangan
+asal-usul, sejenis URL sumber dan tanggal ambil, bukan penerbitan ulang susunan klasifikasi sumber.
+Tag, klasifikasi rinci, dan abstrak sumber tetap tidak diterbitkan (K-010).
 
 ## 10. Tidak dibangun di v1
 

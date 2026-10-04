@@ -95,9 +95,18 @@ def _unlock(handle):
 
 
 class Fetcher:
-    def __init__(self):
+    def __init__(self, root=None):
+        """`root` gives a host its own log, stop file, run lock and cache (e.g. harvest/jdih/), so that
+        each host has a separate limit and state. Stops written anywhere are honoured everywhere."""
+        global_stops = [LEGACY_STOPPED, STOPPED]
+        if root is None:
+            self.log_path, self.stop_path, self.lock_path, self.cache = LOG, STOPPED, RUNLOCK, CACHE
+        else:
+            self.log_path, self.stop_path = root / "fetch_log.jsonl", root / "host_stopped.json"
+            self.lock_path, self.cache = root / "fetch.run.lock", root / "cache"
+        self.stop_files = global_stops + ([self.stop_path] if self.stop_path not in global_stops else [])
         config.HARVEST.mkdir(parents=True, exist_ok=True)
-        CACHE.mkdir(exist_ok=True)
+        self.cache.mkdir(parents=True, exist_ok=True)
         self.session = requests.Session()
         self.session.trust_env = False  # never pick up a proxy from the environment
         self.session.headers["User-Agent"] = UA
@@ -110,12 +119,12 @@ class Fetcher:
     def acquire(self):
         if self.runlock:
             return
-        handle = open(RUNLOCK, "a+")
+        handle = open(self.lock_path, "a+")
         try:
             _lock(handle, blocking=False)
         except OSError:
             handle.close()
-            raise AlreadyRunning(f"proses pengambil lain sedang berjalan ({RUNLOCK})")
+            raise AlreadyRunning(f"proses pengambil lain sedang berjalan ({self.lock_path})")
         self.runlock = handle
 
     def release(self):
@@ -125,10 +134,10 @@ class Fetcher:
 
     def log(self, record):
         line = json.dumps(record, ensure_ascii=False) + "\n"
-        with open(str(LOG) + ".lock", "a+") as lock:
+        with open(str(self.log_path) + ".lock", "a+") as lock:
             _lock(lock)
             try:
-                with LOG.open("a", encoding="utf8") as handle:
+                with self.log_path.open("a", encoding="utf8") as handle:
                     handle.write(line)
                     handle.flush()
                     os.fsync(handle.fileno())
@@ -136,25 +145,23 @@ class Fetcher:
                 _unlock(lock)
 
     # ---------- host state ----------
-    @staticmethod
-    def stopped():
+    def stopped(self):
         merged = {}
-        for path in (LEGACY_STOPPED, STOPPED):
+        for path in self.stop_files:
             if path.exists():
                 merged.update(json.loads(path.read_text(encoding="utf8")))
         return merged
 
     def stop(self, host, reason):
-        current = json.loads(STOPPED.read_text(encoding="utf8")) if STOPPED.exists() else {}
+        current = json.loads(self.stop_path.read_text(encoding="utf8")) if self.stop_path.exists() else {}
         if host not in current:
             current[host] = {"alasan": reason, "sejak": now(), "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"}
-            STOPPED.write_text(json.dumps(current, indent=1, ensure_ascii=False) + "\n", encoding="utf8")
+            self.stop_path.write_text(json.dumps(current, indent=1, ensure_ascii=False) + "\n", encoding="utf8")
 
-    @staticmethod
-    def host_records(host):
+    def host_records(self, host):
         records = []
-        if LOG.exists():
-            with LOG.open(encoding="utf8") as handle:
+        if self.log_path.exists():
+            with self.log_path.open(encoding="utf8") as handle:
                 for line in handle:
                     try:
                         record = json.loads(line)
@@ -234,7 +241,7 @@ class Fetcher:
     def get(self, url, params=None, use_cache=True):
         """(text, meta). Raises PermissionError when robots.txt forbids the URL."""
         key = hashlib.sha1((url + json.dumps(params or {}, sort_keys=True)).encode()).hexdigest()
-        body_path, meta_path = CACHE / key, CACHE / (key + ".meta.json")
+        body_path, meta_path = self.cache / key, self.cache / (key + ".meta.json")
         if use_cache and body_path.exists():
             return body_path.read_bytes().decode("utf-8", "replace"), json.loads(meta_path.read_text(encoding="utf8"))
         if not self.allowed(url):

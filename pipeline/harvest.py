@@ -7,8 +7,8 @@ The owner runs this; it can also be run from a session. It resumes where it stop
     .venv/Scripts/python -m pipeline.harvest jalan --tanpa-vpn     one round, until done or a limit is hit
     .venv/Scripts/python -m pipeline.harvest kemajuan              progress, no network
 
-Order of work in a round: KUP list, PPN list, KUP details, PPN details. Lists first because they are
-cheap and show what exists; KUP before PPN, as the users asked. A list page or detail that fails
+Order of work in a round: KUP list, KUP details, PPN list, PPN details. KUP is finished first because
+it is what the users need first (owner, 2026-10-04, K-053). A list page or detail that fails
 without a refusal stays in the queue for the next round.
 
 Files (harvest/):
@@ -193,9 +193,8 @@ def run(fetcher, state, limit=None, pages=None):
             return False
         return limit is None or done < limit
 
-    # Lists first, for both categories: they are cheap and show the whole picture (which documents
-    # exist, which are already in the PPh corpus). Then details, KUP before PPN.
-    for name in CATEGORIES:
+    def lists(name):
+        nonlocal done
         category = state["categories"][name]
         todo = [0] if category["last_page"] is None else []
         while budget():
@@ -214,11 +213,11 @@ def run(fetcher, state, limit=None, pages=None):
                 done += 1
                 retry_lists.append((name, page))
                 print(f"daftar {name} halaman {page}: gagal ({error}); diulang di putaran berikutnya", flush=True)
-    if pages is not None:
-        return done
-    for name in CATEGORIES:
+
+    def details(name):
+        nonlocal done
         if not list_complete(state, name):
-            continue
+            return
         for path in detail_queue(name):
             if not budget():
                 break
@@ -236,6 +235,16 @@ def run(fetcher, state, limit=None, pages=None):
             except PermissionError as error:
                 print(f"detail {name}: {error}", flush=True)
             save_state(state)
+
+    if pages is not None:
+        for name in CATEGORIES:
+            lists(name)
+        return done
+    # Owner's order (2026-10-04, K-053): KUP completely first (list, then details), because KUP is
+    # what the users need first; then the PPN list and the PPN details.
+    for name in CATEGORIES:
+        lists(name)
+        details(name)
     return done
 
 
@@ -266,12 +275,17 @@ def report(state):
     fetcher = Fetcher()
     host = "www.pajak.go.id"
     host_state = fetcher.state(host)
-    stopped = Fetcher.stopped()
+    stopped = fetcher.stopped()
     lines.append(f"{host}: {host_state['n_24h']} permintaan dalam 24 jam terakhir (batas {CAP_24H}); "
                  f"{'DIHENTIKAN: ' + stopped[host]['alasan'] if host in stopped else 'tidak dihentikan'}")
     if host_state["oldest_24h"] and host_state["n_24h"] >= CAP_24H:
         oldest = datetime.datetime.fromisoformat(host_state["oldest_24h"])
         lines.append(f"  kuota pulih bertahap mulai {(oldest + datetime.timedelta(hours=24)).isoformat()}")
+    jdih = Fetcher(root=config.HARVEST / "jdih")  # JDIH keeps its own log and limit (K-054)
+    jdih_host = "jdih.kemenkeu.go.id"
+    jdih_stops = jdih.stopped()
+    jdih_note = "DIHENTIKAN: " + jdih_stops[jdih_host]["alasan"] if jdih_host in jdih_stops else "tidak dihentikan"
+    lines.append(f"{jdih_host}: {jdih.state(jdih_host)['n_24h']} permintaan dalam 24 jam terakhir (batas {CAP_24H}); {jdih_note}")
     for entry in state["rounds"][-5:]:
         lines.append(f"putaran {entry['mulai']} - {entry['selesai']}: {entry['permintaan']} permintaan, {entry['akhir']}")
     return "\n".join(lines)

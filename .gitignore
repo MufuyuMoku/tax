@@ -36,3 +36,5 @@ harvest/cache/
 harvest/*.lock
 harvest/*.log
 harvest/*.log.err
+harvest/jdih/cache/
+harvest/jdih/*.lock

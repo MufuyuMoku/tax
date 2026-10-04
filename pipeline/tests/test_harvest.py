@@ -155,6 +155,16 @@ class TestPoliteFetcher(unittest.TestCase):
             self.fetcher.get("https://www.pajak.go.id/search/apa")
         self.assertEqual(self.fetcher.session.get.call_count, 1, "hanya robots.txt yang diminta")
 
+    def test_a_host_root_keeps_its_own_log_and_stop(self):
+        jdih = self.polite.Fetcher(root=self.tmp / "jdih")
+        jdih.session.get = mock.Mock(side_effect=[FakeResponse(403, url="https://jdih.kemenkeu.go.id/")])
+        with self.assertRaises(self.polite.HostStopped):
+            jdih.request("https://jdih.kemenkeu.go.id/")
+        jdih.release()
+        self.assertTrue((self.tmp / "jdih" / "fetch_log.jsonl").exists())
+        self.assertFalse((self.tmp / "fetch_log.jsonl").exists(), "log DJP tidak tersentuh")
+        self.assertIn("jdih.kemenkeu.go.id", jdih.stopped())
+
     def test_only_one_fetcher_process(self):
         self.fetcher.acquire()
         other = self.polite.Fetcher()
