@@ -93,6 +93,9 @@ dan perintah `jalan` berikutnya menghapus berkas itu lalu melanjutkan dari titik
 type nul > harvest\BERHENTI
 ```
 
+Urutan kerja tiap putaran (K-053): daftar KUP, detail KUP, daftar PPN, detail PPN. KUP diselesaikan
+dulu karena itulah yang paling dibutuhkan pengguna.
+
 Perintah lain: `uji` (satu permintaan, robots.txt) dan `intai` (halaman pertama dan terakhir daftar
 tiap kategori). `--batas N` membatasi jumlah permintaan halaman dalam satu putaran.
 
@@ -113,6 +116,14 @@ tiap kategori). `--batas N` membatasi jumlah permintaan halaman dalam satu putar
 kategori tempat baris itu ditemukan), `djp_detail.jsonl` (halaman detail beserta teksnya),
 `fetch_log.jsonl`. Ketiganya di-commit seperti `poc/data`. `cache/` dan berkas kunci tidak.
 Bidang `kategori` dan `tag` milik halaman sumber tidak pernah disimpan (K-010).
+
+**JDIH** (K-054) punya batas dan berkas keadaannya sendiri di `harvest/jdih/` (log, penghentian,
+kunci, cache), terpisah dari DJP. Belum ada pengambilan JDIH sungguhan; yang ada:
+
+```
+.venv\Scripts\python -m pipeline.jdih_probe --tanpa-vpn    robots.txt dan satu halaman, tanpa coba ulang
+python -m pipeline.jdih_scout                               hitungan luring dari daftar JDIH bukti konsep
+```
 
 Tes pengambil berjalan tanpa jaringan dan butuh dependensi di atas:
 

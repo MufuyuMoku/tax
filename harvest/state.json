@@ -286,7 +286,13 @@
    ]
   }
  },
- "detail_retry": [],
+ "detail_retry": [
+  "/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-70pmk032017-tentang-petunjuk-0",
+  "/id/peraturan/surat-daftar-dan-formulir-yang-digunakan-dalam-pelaksanaan-penagihan-pajak-atas-jumlah",
+  "/index.php/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-18pj2017-tentang-tata-cara",
+  "/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk-0",
+  "/id/peraturan/penentuan-kualitas-piutang-dan-pembentukan-penyisihan-piutang-tidak-tertagih-pada"
+ ],
  "rounds": [
   {
    "akhir": "pengintaian",
@@ -305,6 +311,12 @@
    "mulai": "2026-10-03T03:52:11+00:00",
    "permintaan": 60,
    "selesai": "2026-10-03T04:13:07+00:00"
+  },
+  {
+   "akhir": "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan",
+   "mulai": "2026-10-04T02:52:53+00:00",
+   "permintaan": 274,
+   "selesai": "2026-10-04T04:28:01+00:00"
   }
  ]
 }

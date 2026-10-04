@@ -46,6 +46,30 @@ jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran ma
 **Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
 pemilik tentang label kategori (K-051).
 
+## M5 — KUP dan PPN, lanjutan
+Tanggal: 2026-10-04
+Status: sebagian — detail KUP berjalan; dihentikan rapi 11.28 WIB (internet pemilik mati 11.40)
+
+**Keputusan pemilik hari ini:** urutan menjadi detail KUP, sisa daftar PPN, detail PPN (K-053);
+M5 dua tahap, KUP terbit dulu (SPEC bagian 7); label kategori boleh sebagai asal daftar, tiga nilai
+saja (K-051, SPEC bagian 9); tanda "cocok lemah" yang tidak dipasang diterima (K-044).
+
+**Pengambilan DJP** (putaran 09.52–11.28 WIB, 274 permintaan): detail KUP **269 dari 892**, 623
+tersisa, 5 putus koneksi menunggu diulang. Tidak ada 4xx/503; host tidak dihentikan. Daftar PPN
+masih 19/496.
+
+**JDIH (K-054):** blokir lama dicabut atas izin pemilik; uji 2 permintaan (robots.txt 200, halaman
+PMK 81/2024 200), tanpa penolakan. Keadaan dan batas JDIH terpisah di `harvest/jdih/`.
+Pengintaian luring dari daftar JDIH bukti konsep (`pipeline/jdih_scout.py`):
+- KUP: 448 dari 1.264 nomor DJP ada di JDIH, semuanya berstatus JDIH (244 Berlaku, 204 Tidak
+  Berlaku), jadi untuk 448 dokumen itu status bisa dua sumber. Sisanya (kebanyakan PER/SE DJP)
+  hanya klaim DJP.
+- PPN (dari 95 baris daftar yang sudah ada): 46 ada di JDIH.
+- PPh JDIH-only: 99 dokumen, semuanya tanpa teks di korpus, semuanya punya berkas teks penuh di
+  JDIH: 69 HTML (teks pasti), 30 hanya PDF (lapisan teks baru diketahui saat diambil).
+
+**Permintaan 24 jam:** `www.pajak.go.id` 275, `jdih.kemenkeu.go.id` 2.
+
 ## Perbaikan sebelum M5
 Tanggal: 2026-10-03
 Status: selesai

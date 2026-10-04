@@ -43,15 +43,18 @@ def main():
 
     index = json.loads((config.ROOT / "corpus" / "index.json").read_text(encoding="utf8"))
     only = [d for d in index if d["sources"] == ["JDIH"]]
-    with_pdf = with_text_now = 0
+    with_pdf = with_text_now = html_text = 0
     for doc in only:
         record = json.loads((config.ROOT / "corpus" / "documents" / (doc["id"] + ".json")).read_text(encoding="utf8"))
         slugs = [r["url"].rsplit("/", 1)[-1] for r in record["source_records"] if r["source"] == "JDIH"]
-        if any(by_slug.get(s, {}).get("full_text_pdf") for s in slugs):
+        files = [by_slug.get(s, {}).get("full_text_pdf") or "" for s in slugs]
+        if any(files):
             with_pdf += 1
+        if any(f.lower().endswith((".htm", ".html")) for f in files):
+            html_text += 1  # full-text HTML: text certain; a PDF may turn out to be a scan
         with_text_now += doc["text_available"]
     print(f"PPh JDIH-only di korpus: {len(only)} dokumen, {with_text_now} sudah berteks, "
-          f"{with_pdf} punya berkas teks penuh di daftar JDIH")
+          f"{with_pdf} punya berkas teks penuh di daftar JDIH ({html_text} HTML, {with_pdf - html_text} hanya PDF)")
 
 
 if __name__ == "__main__":
