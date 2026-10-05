@@ -130,6 +130,15 @@ class TestPoliteFetcher(unittest.TestCase):
             self.fetcher.request("https://www.pajak.go.id/a")
         self.assertFalse((self.tmp / "host_stopped.json").exists())
 
+    def test_failures_of_an_earlier_round_do_not_block_a_new_round(self):
+        old = {"host": "www.pajak.go.id", "status": None, "error": "x", "retrieved_at": "2026-01-01T00:00:00+00:00"}
+        with (self.tmp / "fetch_log.jsonl").open("w", encoding="utf8") as handle:
+            for _ in range(20):
+                handle.write(json.dumps(old) + chr(10))
+        self.answer(FakeResponse(200))
+        response, _ = self.fetcher.request("https://www.pajak.go.id/a")
+        self.assertEqual(response.status_code, 200)
+
     def test_a_long_unbroken_run_of_failures_stops_the_host(self):
         import requests
         self.answer(*[requests.ConnectionError("TLS")] * 8)

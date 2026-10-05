@@ -117,7 +117,18 @@ kategori tempat baris itu ditemukan), `djp_detail.jsonl` (halaman detail beserta
 `fetch_log.jsonl`. Ketiganya di-commit seperti `poc/data`. `cache/` dan berkas kunci tidak.
 Bidang `kategori` dan `tag` milik halaman sumber tidak pernah disimpan (K-010).
 
-**JDIH** (K-054) punya batas dan berkas keadaannya sendiri di `harvest/jdih/` (log, penghentian,
+**JDIH** (K-054, K-058) berjalan bersamaan dengan DJP:
+
+```
+.venv\Scripts\python -m pipeline.jdih_harvest jalan --tanpa-vpn
+.venv\Scripts\python -m pipeline.jdih_harvest kemajuan
+node scripts/jdih-pdf-text.mjs        teks berkas JDIH, dinilai dengan aturan mutu yang sama (K-055)
+```
+
+Kegagalan apa pun dari JDIH, termasuk putus koneksi, menghentikannya selamanya. `harvest/BERHENTI`
+menghentikan kedua pengambil.
+
+JDIH punya batas dan berkas keadaannya sendiri di `harvest/jdih/` (log, penghentian,
 kunci, cache), terpisah dari DJP. Belum ada pengambilan JDIH sungguhan; yang ada:
 
 ```

@@ -1,0 +1,14 @@
+Pengingat aturan pengambilan (SPEC bagian 8): VPN termasuk proxy. Pastikan koneksi ini koneksi biasa,
+tanpa VPN (termasuk Cloudflare WARP), tanpa proxy, dan bukan jaringan yang menyamarkan alamat.
+Yang tidak bisa diperiksa otomatis:
+- VPN atau proxy di router atau jaringan kantor tidak bisa dilihat dari mesin ini
+Dikonfirmasi dengan --tanpa-vpn.
+KUP pmk-55-tahun-2026: 24 Agu 2026 - s.d. Dicabut
+KUP uu-6-tahun-1983: 31 Des 1983 - s.d. Dicabut
+KUP pmk-44-tahun-2026: 06 Jul 2026 - s.d. Dicabut
+KUP pmk-43-tahun-2026: 22 Jun 2026 - 05 Jul 2026
+KUP per-6pj2026: 04 Mei 2026 - s.d. Dicabut
+KUP pmk-28-tahun-2026: 01 Mei 2026 - s.d. Dicabut
+KUP pmk-24-tahun-2026: 27 Apr 2026 - s.d. Dicabut
+KUP per-5pj2026: 20 Apr 2026 - s.d. Dicabut
+KUP per-4pj2026: 30 Mar 2026 - s.d. Dicabut

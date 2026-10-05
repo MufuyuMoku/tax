@@ -114,6 +114,10 @@ class Fetcher:
         self.robots = {}
         self.runlock = None
         self.consecutive = {}
+        # The failure window covers this round only: failures from an earlier round must not block
+        # every later round (2026-10-05: a stale 7-of-20 window stopped five rounds at 0 requests).
+        self.started = now()
+        self.host_delay = {}  # from a robots.txt Crawl-delay, when the host gives one (owner, 2026-10-05)
 
     # ---------- run lock and log ----------
     def acquire(self):
@@ -175,7 +179,7 @@ class Fetcher:
         records = self.host_records(host)
         cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
         recent = [r for r in records if datetime.datetime.fromisoformat(r["retrieved_at"]) >= cutoff]
-        window = records[-FAIL_WINDOW:]
+        window = [r for r in records if r["retrieved_at"] >= self.started][-FAIL_WINDOW:]
         return {
             "n_24h": len(recent),
             "fails_window": sum(1 for r in window if r.get("status") is None),
@@ -198,7 +202,7 @@ class Fetcher:
         self.acquire()
         host = urlparse(url).netloc
         self.check(host)
-        wait = DELAY - (time.time() - self.last.get(host, 0))
+        wait = self.host_delay.get(host, DELAY) - (time.time() - self.last.get(host, 0))
         if wait > 0:
             time.sleep(wait)
         base = {"host": host, "requested_url": url, "params": params}
@@ -231,19 +235,24 @@ class Fetcher:
             response, _ = self.request(origin + "/robots.txt")
             if response.status_code == 200:
                 parser.parse(response.text.splitlines())
+                (self.cache / ("robots-" + parts.netloc + ".txt")).write_text(response.text, encoding="utf8")
             elif 400 <= response.status_code < 500:
                 parser.parse([])  # no robots.txt: everything is allowed
             else:
                 raise TransientError(f"robots.txt {origin} menjawab HTTP {response.status_code}")
             self.robots[origin] = parser
+            crawl_delay = parser.crawl_delay(UA)
+            if crawl_delay:
+                self.host_delay[parts.netloc] = float(crawl_delay)
         return self.robots[origin].can_fetch(UA, url)
 
-    def get(self, url, params=None, use_cache=True):
-        """(text, meta). Raises PermissionError when robots.txt forbids the URL."""
+    def get(self, url, params=None, use_cache=True, binary=False):
+        """(text, meta), or (bytes, meta) with `binary`. Raises PermissionError when robots.txt forbids the URL."""
         key = hashlib.sha1((url + json.dumps(params or {}, sort_keys=True)).encode()).hexdigest()
         body_path, meta_path = self.cache / key, self.cache / (key + ".meta.json")
         if use_cache and body_path.exists():
-            return body_path.read_bytes().decode("utf-8", "replace"), json.loads(meta_path.read_text(encoding="utf8"))
+            body = body_path.read_bytes()
+            return (body if binary else body.decode("utf-8", "replace")), json.loads(meta_path.read_text(encoding="utf8"))
         if not self.allowed(url):
             raise PermissionError("robots.txt melarang: " + url)
         response, meta = self.request(url, params=params)
@@ -251,4 +260,4 @@ class Fetcher:
             raise TransientError(f"HTTP {response.status_code} pada {url}")
         body_path.write_bytes(response.content)
         meta_path.write_text(json.dumps(meta), encoding="utf8")
-        return response.content.decode("utf-8", "replace"), meta
+        return (response.content if binary else response.content.decode("utf-8", "replace")), meta

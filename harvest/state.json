@@ -286,13 +286,7 @@
    ]
   }
  },
- "detail_retry": [
-  "/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-70pmk032017-tentang-petunjuk-0",
-  "/id/peraturan/surat-daftar-dan-formulir-yang-digunakan-dalam-pelaksanaan-penagihan-pajak-atas-jumlah",
-  "/index.php/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-18pj2017-tentang-tata-cara",
-  "/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk-0",
-  "/id/peraturan/penentuan-kualitas-piutang-dan-pembentukan-penyisihan-piutang-tidak-tertagih-pada"
- ],
+ "detail_retry": [],
  "rounds": [
   {
    "akhir": "pengintaian",
@@ -317,6 +311,60 @@
    "mulai": "2026-10-04T02:52:53+00:00",
    "permintaan": 274,
    "selesai": "2026-10-04T04:28:01+00:00"
+  },
+  {
+   "akhir": "selesai",
+   "mulai": "2026-10-04T04:44:01+00:00",
+   "permintaan": 0,
+   "selesai": "2026-10-04T04:44:16+00:00"
+  },
+  {
+   "akhir": "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan",
+   "mulai": "2026-10-04T05:56:28+00:00",
+   "permintaan": 19,
+   "selesai": "2026-10-04T06:03:09+00:00"
+  },
+  {
+   "akhir": "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan",
+   "mulai": "2026-10-04T06:49:25+00:00",
+   "permintaan": 29,
+   "selesai": "2026-10-04T06:59:31+00:00"
+  },
+  {
+   "akhir": "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan",
+   "mulai": "2026-10-04T07:36:30+00:00",
+   "permintaan": 394,
+   "selesai": "2026-10-05T03:25:20+00:00"
+  },
+  {
+   "akhir": "berhenti untuk putaran ini: www.pajak.go.id: 7 dari 20 permintaan terakhir gagal",
+   "mulai": "2026-10-05T06:01:42+00:00",
+   "permintaan": 0,
+   "selesai": "2026-10-05T06:04:29+00:00"
+  },
+  {
+   "akhir": "berhenti untuk putaran ini: www.pajak.go.id: 7 dari 20 permintaan terakhir gagal",
+   "mulai": "2026-10-05T06:08:09+00:00",
+   "permintaan": 0,
+   "selesai": "2026-10-05T06:08:09+00:00"
+  },
+  {
+   "akhir": "berhenti untuk putaran ini: www.pajak.go.id: 7 dari 20 permintaan terakhir gagal",
+   "mulai": "2026-10-05T06:09:23+00:00",
+   "permintaan": 0,
+   "selesai": "2026-10-05T06:09:23+00:00"
+  },
+  {
+   "akhir": "berhenti untuk putaran ini: www.pajak.go.id: 7 dari 20 permintaan terakhir gagal",
+   "mulai": "2026-10-05T06:10:10+00:00",
+   "permintaan": 0,
+   "selesai": "2026-10-05T06:10:10+00:00"
+  },
+  {
+   "akhir": "berhenti untuk putaran ini: www.pajak.go.id: 7 dari 20 permintaan terakhir gagal",
+   "mulai": "2026-10-05T06:13:21+00:00",
+   "permintaan": 0,
+   "selesai": "2026-10-05T06:13:21+00:00"
   }
  ]
 }

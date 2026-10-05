@@ -840,3 +840,68 @@ dari JDIH berarti berhenti total tanpa coba ulang. Pengambilan JDIH sungguhan di
 detail KUP, dengan jeda 20 detik.
 **Pengintaian luring** (`pipeline/jdih_scout.py`, dari daftar JDIH bukti konsep, 8.647 dokumen):
 lihat laporan M5 di PROGRESS.
+
+## K-055 — Satu aturan mutu teks untuk koleksi pribadi dan berkas JDIH
+Tanggal: 2026-10-05 · Milestone: M5 · Status: berlaku
+
+**Keputusan (permintaan pemilik):** teks berkas teks penuh JDIH (terutama 30 dokumen PPh JDIH-only
+yang hanya berupa PDF) dinilai dengan aturan K-043 yang sama persis: `scripts/jdih-pdf-text.mjs`
+memanggil `extractPdf` dan `assessText` dari `src/lib/collection/extract.js`, dengan kosakata korpus
+yang sama seperti di browser. Ambang tetap: karakter janggal ≤ 10%, kata dikenal ≥ 50%, minimal 15
+kata. Teks di bawah ambang, atau PDF tanpa lapisan teks, tidak masuk korpus; dokumennya tampil
+sebagai tanpa teks dengan tautan ke PDF asli (invarian 3 dan 4).
+**Alasan memakai Node, bukan versi Python:** satu kode berarti satu aturan; versi kedua dalam bahasa
+lain bisa menyimpang diam-diam. pdf.js sudah ada di repo, PyMuPDF tidak. Diuji pada 9 PDF tiruan:
+4 terbaca (kata dikenal 91–97%), 4 tanpa lapisan teks, 1 tanpa ToUnicode ditolak (0% kata dikenal,
+13,8% karakter janggal).
+
+## K-056 — robots.txt DJP dan JDIH: tidak ada Crawl-delay, jeda tetap 20 detik
+Tanggal: 2026-10-05 · Milestone: M5 · Status: berlaku
+
+**Diperiksa:** robots.txt `www.pajak.go.id` (bawaan Drupal: hanya Disallow untuk /admin/, /search/,
+/user/, dan sejenisnya) dan `jdih.kemenkeu.go.id` (`Allow: /`, Disallow /api/auth, /api/health,
+/pdfjs). Keduanya tanpa Crawl-delay. Sesuai arahan pemilik, jeda tetap 20 detik; kuota 1.500/24 jam
+tidak berubah. `polite.py` kini menyimpan salinan robots.txt di cache tiap host dan memakai
+Crawl-delay bila suatu saat ada.
+
+## K-057 — Jendela kegagalan hanya menghitung putaran yang sedang berjalan
+Tanggal: 2026-10-05 · Milestone: M5 · Status: berlaku (memperbaiki K-050)
+
+**Masalah:** aturan "lebih dari 6 dari 20 permintaan terakhir gagal" menghitung 20 catatan terakhir di
+log tanpa melihat umurnya. Pagi ini (10.23–10.25 WIB) DJP memberi 1 putus koneksi lalu 5 galat TLS
+(`SSLEOFError`, `UNEXPECTED_EOF_WHILE_READING`) berturut-turut, sehingga putaran berakhir. Pukul 13.01
+robots.txt dan satu detail kembali HTTP 200, lalu satu waktu habis membuat jendela tetap 7 dari 20,
+dan lima putaran berikutnya berhenti tanpa satu permintaan pun. Jendela itu tidak akan pernah pulih.
+**Keputusan:** jendela hanya memuat permintaan sejak putaran ini dimulai. Aturan lain tidak berubah.
+**Catatan bukti:** galat TLS beruntun itu bukan kode penolakan (401/403/429/503), jadi bukan alasan
+berhenti total menurut bagian 8; DJP kembali melayani 2,5 jam kemudian. Polanya mirip awal kegagalan
+JDIH di bukti konsep, jadi dicatat dan dilaporkan ke pemilik. Aturan 8 kegagalan sambung
+berturut-turut tetap menghentikan host selamanya.
+
+## K-058 — Pengambil JDIH: tiga antrean, kegagalan apa pun menghentikannya
+Tanggal: 2026-10-05 · Milestone: M5 · Status: berlaku
+
+**Keputusan:** `pipeline/jdih_harvest.py`, berjalan bersamaan dengan pengambil DJP, dengan log, kunci,
+cache, dan penghentian sendiri di `harvest/jdih/`. Urutan pemilik: (a) halaman dokumen JDIH untuk
+dokumen KUP yang juga ada di JDIH, (b) sama untuk PPN dari daftar yang sudah diambil, (c) halaman dan
+berkas teks penuh dokumen PPh yang hanya ada di JDIH (HTML bila ada, karena teksnya pasti; PDF bila
+tidak). Pencocokan DJP ke JDIH lewat nomor, seperti `pipeline.build`.
+- KMK kurs dan bunga dibuang dari antrean (SPEC bagian 3). Dua sempat terambil sebelum ini diperbaiki;
+  rekamannya dibuang.
+- **Kegagalan apa pun dari JDIH, termasuk putus koneksi tanpa kode, menghentikannya selamanya**, lebih
+  ketat dari DJP. Alasannya arahan pemilik ("penolakan sekecil apa pun") dan riwayat bukti konsep:
+  JDIH dulu gagal di tahap TLS, bukan dengan kode HTTP.
+- `Label` di halaman JDIH adalah klasifikasi sumber dan tidak disimpan (K-010). Berkas unduhan
+  disimpan di `harvest/jdih/files/` dan tidak di-commit; teksnya diambil oleh K-055.
+
+## K-059 — Halaman daftar tidak bisa menggantikan halaman detail
+Tanggal: 2026-10-05 · Milestone: M5 · Status: diperiksa, tidak ada perubahan
+
+**Pertanyaan pemilik:** apakah daftar KUP/PPN sudah memuat cukup data sehingga sebagian detail tidak
+perlu diambil? **Hasil (luring, 709 detail):** daftar memuat nomor, judul, jenis, tanggal, dan
+status, dan nilainya sama persis dengan detail (709 dari 709). Yang hanya ada di detail: teks batang
+tubuh, tautan lampiran, dan peraturan terkait. 96 detail (14%) ternyata tidak menambah apa pun (tanpa
+teks, lampiran, maupun relasi), tetapi daftar tidak memberi petunjuk mana yang begitu.
+**Kesimpulan:** tidak ada penghematan aman di luar yang sudah dilakukan: 275 dokumen yang sudah ada di
+korpus PPh, 140 KMK kurs/bunga, dan dokumen yang tercatat di dua kategori hanya diambil sekali.
+
