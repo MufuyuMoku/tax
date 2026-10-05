@@ -1,0 +1,109 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PP_49_Tahun_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PP",
+    "number": "49",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PP_49_Tahun_2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-49-2021",
+ "identity": {
+  "code": "PP",
+  "number": "49",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-49-2021--b000-1",
+  "pp-49-2021--b001-2",
+  "pp-49-2021--b002-3",
+  "pp-49-2021--b003-4",
+  "pp-49-2021--b004-5",
+  "pp-49-2021--b005-6",
+  "pp-49-2021--b006-7",
+  "pp-49-2021--b007-8",
+  "pp-49-2021--b008-9",
+  "pp-49-2021--b009-10",
+  "pp-49-2021--b010-11",
+  "pp-49-2021--b011-12",
+  "pp-49-2021--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-02",
+   "detail_error": null,
+   "number_as_written": "49 TAHUN 2021",
+   "retrieved_at": "2026-10-04T03:19:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN ATAS TRANSAKSI YANG MELIBATKAN LEMBAGA PENGELOLA INVESTASI DAN/ATAU ENTITAS YANG DIMILIKINYA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-atas-transaksi-yang-melibatkan-lembaga-pengelola-investasi-danatau"
+  },
+  {
+   "date_as_written": "2021-02-02 00:00:00",
+   "number_as_written": "PP 49 TAHUN 2021",
+   "retrieved_at": "2026-09-21T14:06:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan atas Transaksi yang Melibatkan Lembaga Pengelola Investasi dan/atau Entitas yang Dimilikinya",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-49-tahun-2021"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=32",
+   "retrieved_at": "2026-10-03T02:44:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-atas-transaksi-yang-melibatkan-lembaga-pengelola-investasi-danatau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=9",
+   "retrieved_at": "2026-09-21T14:06:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-49-tahun-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14189,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:19:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-atas-transaksi-yang-melibatkan-lembaga-pengelola-investasi-danatau"
+ },
+ "title": "PERLAKUAN PERPAJAKAN ATAS TRANSAKSI YANG MELIBATKAN LEMBAGA PENGELOLA INVESTASI DAN/ATAU ENTITAS YANG DIMILIKINYA"
+}

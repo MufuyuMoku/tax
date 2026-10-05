@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-55-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "55",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-55-2016--b000-1",
+  "pmk-55-2016--b001-2",
+  "pmk-55-2016--b002-3",
+  "pmk-55-2016--b003-4",
+  "pmk-55-2016--b004-5",
+  "pmk-55-2016--b005-6",
+  "pmk-55-2016--b006-7",
+  "pmk-55-2016--b007-8",
+  "pmk-55-2016--b008-9",
+  "pmk-55-2016--b009-10",
+  "pmk-55-2016--b010-11",
+  "pmk-55-2016--b011-12",
+  "pmk-55-2016--b012-13",
+  "pmk-55-2016--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-17-2025",
+    "key": [
+     "PMK",
+     "17",
+     "2025",
+     null
+    ],
+    "number_as_written": "17 TAHUN 2025",
+    "quote": "Pasal 36 Pada saat Peraturan Menteri ini berlaku: a. Peraturan Menteri Keuangan Nomor 55/PMK.03/2016 tentang Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara (Berita Negara Republik Indonesia Tahun 2016 Nomor 538); dan b. Pasal 108 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "129",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 129/PMK.03/2012",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 129/PMK.03/2012 tentang Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan Untuk Kepentingan Penerimaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-129-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-04-08",
+   "detail_error": null,
+   "number_as_written": "55/PMK.03/2016",
+   "retrieved_at": "2026-10-04T05:57:57+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERMINTAAN PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk-0"
+  },
+  {
+   "date_as_written": "2016-04-08 00:00:00",
+   "number_as_written": "55/PMK.03/2016",
+   "retrieved_at": "2026-09-21T14:29:21+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/55-pmk-03-2016"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 17/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=68",
+   "retrieved_at": "2026-10-03T02:56:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=209",
+   "retrieved_at": "2026-09-21T14:29:21+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/55-pmk-03-2016",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13711,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T05:57:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk-0"
+ },
+ "title": "TATA CARA PERMINTAAN PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA"
+}

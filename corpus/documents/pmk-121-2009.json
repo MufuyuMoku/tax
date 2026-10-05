@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-121-2009",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2009"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -28,10 +39,19 @@
    "title_as_written": "PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PROYEK PEMERINTAH UNTUK REHABILITASI DAN REKONSTRUKSI WILAYAH DAN KEHIDUPAN MASYARAKAT PROVINSI NANGGROE ACEH DARUSSALAM DAN KEPULAUAN NIAS PROVINSI SUMATERA UTARA PASCA BENCANA ALAM GEMPA BUMI DAN TSUNAMI YANG DIBIAYAI DENGAN HIBAH LUAR NEGERI YANG PELAKSANAANNYA BELUM SELESAI SAMPAI DENGAN TANGGAL 31 MARET 2009",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-proyek"
+  },
+  {
+   "date_as_written": "2009-07-10 00:00:00",
+   "number_as_written": "121/PMK.03/2009",
+   "retrieved_at": "2026-09-21T14:41:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Proyek Pemerintah untuk Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara\r\n Pascabencana Alam Gempa Bumi dan Tsunami yang Dibiayai dengan Hibah Luar Negeri yang Pelaksanaannya Belum Selesai Sampai dengan Tanggal 31 Maret 2009.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-03-2009"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -43,6 +63,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-proyek",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=382",
+   "retrieved_at": "2026-09-21T14:41:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-03-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

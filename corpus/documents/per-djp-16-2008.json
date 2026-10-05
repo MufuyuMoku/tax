@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-16-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "16",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-16-2008--b000-1",
+  "per-djp-16-2008--b001-2",
+  "per-djp-16-2008--b002-3",
+  "per-djp-16-2008--b003-4",
+  "per-djp-16-2008--b004-5",
+  "per-djp-16-2008--b005-6",
+  "per-djp-16-2008--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-04-17",
+   "detail_error": null,
+   "number_as_written": "PER-16/PJ/2008",
+   "retrieved_at": "2026-10-05T02:12:11+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENELITIAN SURAT SETORAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penelitian-surat-setoran-bea-perolehan-hak-atas-tanah-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=168",
+   "retrieved_at": "2026-10-03T03:33:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penelitian-surat-setoran-bea-perolehan-hak-atas-tanah-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9162,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:12:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penelitian-surat-setoran-bea-perolehan-hak-atas-tanah-dan-bangunan"
+ },
+ "title": "TATA CARA PENELITIAN SURAT SETORAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

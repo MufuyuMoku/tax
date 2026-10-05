@@ -1,0 +1,98 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK94TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "94",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK94TAHUN2023.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-94-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "94",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-94-2023--b000-i",
+  "pmk-94-2023--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-09-15",
+   "detail_error": null,
+   "number_as_written": "94 TAHUN 2023",
+   "retrieved_at": "2026-10-04T03:07:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.03/2018 TENTANG PEDOMAN PELAKSANAAN PEMERIKSAAN BERSAMA ATAS PELAKSANAAN KONTRAK KERJA SAMA BERBENTUK KONTRAK BAGI HASIL DENGAN PENGEMBALIAN BIAYA OPERAS! DI BIDANG USAHA HULU MINYAK DAN GAS BUMI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-34pmk032018-tentang-pedoman-pelaksanaan"
+  },
+  {
+   "date_as_written": "2023-09-15 00:00:00",
+   "number_as_written": "PMK 94 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:00+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.03/2018 tentang Pedoman Pelaksanaan Pemeriksaan Bersama atas Pelaksanaan Kontrak Bagi Hasil dengan Pengembalian Biaya Operasi di Bidang Usaha Hulu Minyak dan Gas Bumi",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-94-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=15",
+   "retrieved_at": "2026-10-03T02:38:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-34pmk032018-tentang-pedoman-pelaksanaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=41",
+   "retrieved_at": "2026-09-21T14:18:00+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-94-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 48062,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:07:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-34pmk032018-tentang-pedoman-pelaksanaan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.03/2018 TENTANG PEDOMAN PELAKSANAAN PEMERIKSAAN BERSAMA ATAS PELAKSANAAN KONTRAK KERJA SAMA BERBENTUK KONTRAK BAGI HASIL DENGAN PENGEMBALIAN BIAYA OPERAS! DI BIDANG USAHA HULU MINYAK DAN GAS BUMI"
+}

@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-eselon1-425-2019",
  "identity": {
@@ -16,6 +22,7 @@
    "title": "PENETAPAN PEMOTONG PPH PASAL 23 DAN/ATAU PASAL 26 YANG DIHARUSKAN MEMBUAT BUKTI PEMOTONGAN DAN DIWAJIBKAN MENYAMPAIKAN SPT MASA PPH PASAL 23 DAN/ATAU PASAL 26 BERDASARKAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2017"
   }
  ],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -40,7 +47,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

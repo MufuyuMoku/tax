@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-11-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "11",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-11-2013--b000-1",
+  "pmk-11-2013--b001-2",
+  "pmk-11-2013--b002-3",
+  "pmk-11-2013--b003-4",
+  "pmk-11-2013--b004-5",
+  "pmk-11-2013--b005-6",
+  "pmk-11-2013--b006-7",
+  "pmk-11-2013--b007-8",
+  "pmk-11-2013--b008-9",
+  "pmk-11-2013--b009-10",
+  "pmk-11-2013--b010-11",
+  "pmk-11-2013--b011-12",
+  "pmk-11-2013--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-118-2024",
+    "key": [
+     "PMK",
+     "118",
+     "2024",
+     null
+    ],
+    "number_as_written": "118 TAHUN 2024",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 11/PMK.03/2013 tentang Tata Cara Pembetulan (Berita Negara Republik Indonesia Tahun 2013 Nomor 14); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "19",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 19/PMK.03/2008",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 19/PMK.03/2008 tentang Tata Cara Pembetulan Kesalahan Tulis, Kesalahan Hitung, dan/atau Kekeliruan Penerapan Ketentuan Tertentu Dalam Peraturan Perundang Undangan Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-19-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-01-02",
+   "detail_error": null,
+   "number_as_written": "11/PMK.03/2013",
+   "retrieved_at": "2026-10-04T06:00:01+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBETULAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan"
+  },
+  {
+   "date_as_written": "2013-01-02 00:00:00",
+   "number_as_written": "11/PMK.03/2013",
+   "retrieved_at": "2026-09-21T14:35:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembetulan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2013"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 118/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=105",
+   "retrieved_at": "2026-10-03T03:11:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=292",
+   "retrieved_at": "2026-09-21T14:35:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17359,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:00:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan"
+ },
+ "title": "TATA CARA PEMBETULAN"
+}

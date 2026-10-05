@@ -1,0 +1,142 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-10-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "10",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-10-2013--b000-1",
+  "pmk-10-2013--b001-2",
+  "pmk-10-2013--b002-3",
+  "pmk-10-2013--b003-4",
+  "pmk-10-2013--b004-5",
+  "pmk-10-2013--b005-6",
+  "pmk-10-2013--b006-7",
+  "pmk-10-2013--b007-8",
+  "pmk-10-2013--b008-9",
+  "pmk-10-2013--b009-10",
+  "pmk-10-2013--b010-11",
+  "pmk-10-2013--b011-12",
+  "pmk-10-2013--b012-13",
+  "pmk-10-2013--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-187-2015",
+    "key": [
+     "PMK",
+     "187",
+     "2015",
+     null
+    ],
+    "number_as_written": "187/PMK.03/2015",
+    "quote": "Pasal 26 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 10/PMK.03/2013 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGEMBALIAN ATAS KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG"
+   },
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 14. Peraturan Menteri Keuangan Nomor 10/PMK.03/2013 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang, dicabut dan dinyatakan tidak berlaku (Berita Negara Republik Indonesia Tahun 2013 Nomor 13);",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "190",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 190/PMK.03/2007",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 190/PMK.03/2007 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak Yang Seharusnya Tidak Terutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-190-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-01-02",
+   "detail_error": null,
+   "number_as_written": "10/PMK.03/2013",
+   "retrieved_at": "2026-10-04T06:00:22+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGEMBALIAN ATAS KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-atas-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang"
+  },
+  {
+   "date_as_written": "2013-01-02 00:00:00",
+   "number_as_written": "10/PMK.03/2013",
+   "retrieved_at": "2026-09-21T14:35:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-03-2013"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=106",
+   "retrieved_at": "2026-10-03T03:12:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-atas-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=292",
+   "retrieved_at": "2026-09-21T14:35:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-03-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25691,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:00:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-atas-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang"
+ },
+ "title": "TATA CARA PENGEMBALIAN ATAS KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG"
+}

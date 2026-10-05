@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-183-2007",
  "identity": {
@@ -9,16 +19,63 @@
   "year": "2007"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-183-2007--b000-1",
+  "pmk-183-2007--b001-2",
+  "pmk-183-2007--b002-3",
+  "pmk-183-2007--b003-4",
+  "pmk-183-2007--b004-5",
+  "pmk-183-2007--b005-6"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
-  "revokes": [],
+  "revoked_by": [
+   {
+    "id": "pmk-243-2014",
+    "key": [
+     "PMK",
+     "243",
+     "2014",
+     null
+    ],
+    "number_as_written": "243/PMK.03/2014",
+    "quote": "Pasal 25 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 183/PMK.03/2007 tentang Wajib Pajak Pajak Penghasilan Tertentu yang Dikecualikan dari Kewajiban Menyampaikan Surat Pemberitahuan Pajak Penghasilan; d. Peraturan Menteri Keuangan Nomor 185/PMK.03/2007 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan; e. Peraturan Menteri Keuangan Nomor 186/PMK.03/2007 tentang Wajib Pajak Tertentu yang Dikecualikan dari Pengenaan Sanksi Administrasi Berupa Denda karena Tidak Menyampaikan Surat Pemberitahuan dalam Jangka Waktu yang Ditentukan; dan f. Peraturan Menteri Keuangan Nomor 152/PMK.03/2009 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 181/PMK.03/2007 tentang Bentuk dan isi Surat Pemberitahuan, serta Tata Cara Pengambilan, Pengisian, Penandatanganan, dan Penyampaian Surat Pemberitahuan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "SURAT PEMBERITAHUAN (SPT)"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "535/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 535/KMK.04/2000",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 535/KMK.04/2000 tentang Wajib Pajak Tertentu yang Dikecualikan dari Kewajiban Menyampaikan Surat Pemberitahuan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-535-kmk-04-2000"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "183/PMK.03/2007",
+   "retrieved_at": "2026-10-05T02:31:36+00:00",
+   "source": "DJP",
+   "title_as_written": "WAJIB PAJAK PAJAK PENGHASILAN TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-pajak-penghasilan-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan"
+  },
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "183/PMK.03/2007",
@@ -34,11 +91,19 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=179",
+   "retrieved_at": "2026-10-03T03:37:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-pajak-penghasilan-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=422",
    "retrieved_at": "2026-09-21T14:43:51+00:00",
@@ -48,16 +113,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3629,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T02:31:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-pajak-penghasilan-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan"
  },
- "title": "Wajib Pajak Pajak Penghasilan Tertentu yang Dikecualikan Dari Kewajiban Menyampaikan Surat Pemberitahuan Pajak Penghasilan"
+ "title": "WAJIB PAJAK PAJAK PENGHASILAN TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN PAJAK PENGHASILAN"
 }

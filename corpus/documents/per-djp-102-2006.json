@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-102-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "102",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-102-2006--b000-i",
+  "per-djp-102-2006--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2006",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ./2006",
+    "quote": "Mengubah ayat (1) dan ayat (3) pada Pasal 8 Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ./2006 tentang Bentuk Surat Setoran Pajak, sehingga keseluruhan Pasal 8 berbunyi sebagai berikut : 1. Surat Setoran Pajak (SSP) sebagaimana ditetapkan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-169/PJ./2001 tentang Bentuk Surat Setoran Pajak sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Direktur Jenderal Pajak Nomor KEP-384/PJ./2003 dapat digunakan sampai dengan tanggal 31 Desember 2006.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2006"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-38-2009",
+    "key": [
+     "PER-DJP",
+     "38",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-38/PJ/2009",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ./2006 tentang Bentuk Surat Setoran Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-102/PJ/2006 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-07-04",
+   "detail_error": null,
+   "number_as_written": "PER-102/PJ/2006",
+   "retrieved_at": "2026-10-05T02:50:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ./2006 TENTANG BENTUK SURAT SETORAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-01pj2006-tentang-bentuk-surat"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=192",
+   "retrieved_at": "2026-10-03T03:44:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-01pj2006-tentang-bentuk-surat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4761,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:50:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-01pj2006-tentang-bentuk-surat"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ./2006 TENTANG BENTUK SURAT SETORAN PAJAK"
+}

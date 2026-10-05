@@ -1,0 +1,156 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-239-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "239",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-239-2014--b000-1",
+  "pmk-239-2014--b001-2",
+  "pmk-239-2014--b002-3",
+  "pmk-239-2014--b003-4",
+  "pmk-239-2014--b004-5",
+  "pmk-239-2014--b005-6",
+  "pmk-239-2014--b006-7",
+  "pmk-239-2014--b007-8",
+  "pmk-239-2014--b008-9",
+  "pmk-239-2014--b009-10",
+  "pmk-239-2014--b010-11",
+  "pmk-239-2014--b011-12",
+  "pmk-239-2014--b012-13",
+  "pmk-239-2014--b013-14",
+  "pmk-239-2014--b014-15",
+  "pmk-239-2014--b015-16",
+  "pmk-239-2014--b016-17",
+  "pmk-239-2014--b017-18",
+  "pmk-239-2014--b018-19",
+  "pmk-239-2014--b019-20",
+  "pmk-239-2014--b020-21",
+  "pmk-239-2014--b021-22",
+  "pmk-239-2014--b022-23",
+  "pmk-239-2014--b023-24",
+  "pmk-239-2014--b024-25",
+  "pmk-239-2014--b025-26",
+  "pmk-239-2014--b026-27",
+  "pmk-239-2014--b027-28",
+  "pmk-239-2014--b028-29",
+  "pmk-239-2014--b029-30",
+  "pmk-239-2014--b030-31",
+  "pmk-239-2014--b031-32",
+  "pmk-239-2014--b032-33",
+  "pmk-239-2014--b033-34",
+  "pmk-239-2014--b034-35",
+  "pmk-239-2014--b035-36",
+  "pmk-239-2014--b036-37",
+  "pmk-239-2014--b037-38",
+  "pmk-239-2014--b038-39",
+  "pmk-239-2014--b039-40"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-177-2022",
+    "key": [
+     "PMK",
+     "177",
+     "2022",
+     null
+    ],
+    "number_as_written": "177/PMK.03/2022",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 239/PMK.03/2014 tentang Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan (Berita Negara Republik Indonesia Tahun 2014 Nomor 1951); dan 2. Pasal 107 dan Pasal 114 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "18",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 18/PMK.03/2013",
+    "quote": "Pasal 39 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 18/PMK.03/2013 tentang Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-18-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-12-22",
+   "detail_error": null,
+   "number_as_written": "239/PMK.03/2014",
+   "retrieved_at": "2026-10-04T04:07:25+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-1"
+  },
+  {
+   "date_as_written": "2014-12-22 00:00:00",
+   "number_as_written": "239/PMK.03/2014",
+   "retrieved_at": "2026-09-21T14:32:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/239-pmk-03-2014"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 177/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=86",
+   "retrieved_at": "2026-10-03T03:02:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=246",
+   "retrieved_at": "2026-09-21T14:32:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/239-pmk-03-2014",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 44312,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:07:25+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-1"
+ },
+ "title": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+}

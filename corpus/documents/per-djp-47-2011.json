@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-47-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "47",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-47-2011--b000-1",
+  "per-djp-47-2011--b001-2",
+  "per-djp-47-2011--b002-3",
+  "per-djp-47-2011--b003-4",
+  "per-djp-47-2011--b004-5",
+  "per-djp-47-2011--b005-6",
+  "per-djp-47-2011--b006-7",
+  "per-djp-47-2011--b007-8",
+  "per-djp-47-2011--b008-9",
+  "per-djp-47-2011--b009-10",
+  "per-djp-47-2011--b010-11",
+  "per-djp-47-2011--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-19-2012",
+    "key": [
+     "PER-DJP",
+     "19",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-19/PJ/2012",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2011 tentang Tata Cara Pelaksanaan Uji Coba Penerapan Sistem Pembayaran Pajak Secara Elektronik (Billing System) , diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-47/PJ/2011 TENTANG TATA CARA PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-26-2014",
+    "key": [
+     "PER-DJP",
+     "26",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-26/PJ/2014",
+    "quote": "Pasal 10 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2011 tentang Tata Cara Pelaksanaan Uji Coba Penerapan Sistem Pembayaran Pajak secara Elektronik ( Billing System ) dalam Sistem Modul Penerimaan Negara; dan b. Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2012 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2011 tentang Tata Cara Pelaksanaan Uji Coba Penerapan Sistem Pembayaran Pajak secara Elektronik ( Billing System ) dalam Sistem Modul Penerimaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-29",
+   "detail_error": null,
+   "number_as_written": "PER-47/PJ/2011",
+   "retrieved_at": "2026-10-04T07:39:01+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=119",
+   "retrieved_at": "2026-10-03T03:16:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10632,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:39:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik"
+ },
+ "title": "TATA CARA PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA"
+}

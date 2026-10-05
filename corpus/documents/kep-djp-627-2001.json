@@ -1,0 +1,172 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-627-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "627",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-24-2014",
+    "key": [
+     "PER-DJP",
+     "24",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-24/PJ/2014",
+    "quote": "Pasal 23 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: a. Keputusan Direktur Jenderal Pajak Nomor KEP-627/PJ/2001 tentang Tata Cara Pelaksanaan Pemblokiran dan Penyitaan Harta Kekayaan Penanggung Pajak yang Tersimpan pada Bank Dalam Rangka Penagihan Pajak dengan Surat Paka; … d. Formulir dalam KEP-474/PJ./2002 dan KEP-645/PJ./2001 yang diperbaharui dengan Peraturan Direktur Jenderal Pajak ini, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-09-24",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-627/PJ./2001",
+   "retrieved_at": "2026-10-03T03:54:37+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-1"
+  },
+  {
+   "date_as_written": "2001-09-24",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-627/PJ./2001",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang"
+  },
+  {
+   "date_as_written": "2001-09-24",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-627/PJ./2001",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-4"
+  },
+  {
+   "date_as_written": "2001-09-24",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-627/PJ./2001",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-2"
+  },
+  {
+   "date_as_written": "2001-09-24",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-627/PJ./2001",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-0"
+  },
+  {
+   "date_as_written": "2001-09-24",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-627/PJ./2001",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-3"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=216",
+   "retrieved_at": "2026-10-03T03:54:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=217",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=217",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-4",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=217",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=217",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=217",
+   "retrieved_at": "2026-10-03T03:54:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PELAKSANAAN PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+}

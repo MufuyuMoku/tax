@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-91-2005",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "91",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-91-2005--b000-i",
+  "per-djp-91-2005--b001-ii",
+  "per-djp-91-2005--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "67",
+     "2004",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-67/PJ./2004",
+    "quote": "Mengubah ketentuan dalam Pasal 2 ayat (1) huruf h, huruf i, huruf l Keputusan Direktur Jenderal Pajak KEP-67/PJ./2004 sehingga menjadi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-67-2004"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-05-19",
+   "detail_error": null,
+   "number_as_written": "PER - 91/PJ/2005",
+   "retrieved_at": "2026-10-05T03:01:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-67/PJ./2004 TENTANG TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-67pj2004-tentang-tempat"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=199",
+   "retrieved_at": "2026-10-03T03:46:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-67pj2004-tentang-tempat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5543,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:01:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-67pj2004-tentang-tempat"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-67/PJ./2004 TENTANG TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU"
+}

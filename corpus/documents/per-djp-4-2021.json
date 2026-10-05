@@ -1,0 +1,125 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PER_04_PJ_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "4",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PER_04_PJ_2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-4-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "4",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-4-2021--b000-1",
+  "per-djp-4-2021--b001-2",
+  "per-djp-4-2021--b002-3",
+  "per-djp-4-2021--b003-4",
+  "per-djp-4-2021--b004-5",
+  "per-djp-4-2021--b005-6",
+  "per-djp-4-2021--b006-7",
+  "per-djp-4-2021--b007-8",
+  "per-djp-4-2021--b008-9",
+  "per-djp-4-2021--b009-10",
+  "per-djp-4-2021--b010-11",
+  "per-djp-4-2021--b011-12",
+  "per-djp-4-2021--b012-13",
+  "per-djp-4-2021--b013-14",
+  "per-djp-4-2021--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "15",
+     "2018",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2018",
+    "quote": "Pasal 14 Pada saat Peraturan Direktur Jenderal ini mulai berlaku Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2018 tentang Penetapan Wajib Pajak Kriteria Tertentu atau Pengusaha Kena Pajak Berisiko Rendah dan Perlakuan atas Selisih Kelebihan Pembayaran Pajak yang Belum Dikembalikan Dalam Surat Keputusan Pengembalian Pendahuluan Kelebihan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-15-2018"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-03-16",
+   "detail_error": null,
+   "number_as_written": "PER-04/PJ/2021",
+   "retrieved_at": "2026-10-04T03:17:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PENGUSAHA KENA PAJAK BERISIKO RENDAH DAN PELAKSANAAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK TERHADAP WAJIB PAJAK KRITERIA TERTENTU, WAJIB PAJAK PERSYARATAN TERTENTU, DAN PENGUSAHA KENA PAJAK BERISIKO RENDAH SERTA SPECIAL PURPOSE COMPANY ATAU KONTRAK INVESTASI KOLEKTIF SEBAGAI PENGUSAHA KENA PAJAK BERISIKO RENDAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-berisiko-rendah-dan-pelaksanaan-pengembalian-pendahuluan"
+  },
+  {
+   "date_as_written": "2021-03-16 00:00:00",
+   "number_as_written": "PER-04/PJ/2021",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Pengusaha Kena Pajak Berisiko Rendah dan Pelaksanaan Pengembalian Pendahuluan Kelebihan Pajak terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Kena Pajak Berisiko Rendah",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-04-pj-2021"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=30",
+   "retrieved_at": "2026-10-03T02:43:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-berisiko-rendah-dan-pelaksanaan-pengembalian-pendahuluan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-04-pj-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 34251,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:17:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-berisiko-rendah-dan-pelaksanaan-pengembalian-pendahuluan"
+ },
+ "title": "PENETAPAN PENGUSAHA KENA PAJAK BERISIKO RENDAH DAN PELAKSANAAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK TERHADAP WAJIB PAJAK KRITERIA TERTENTU, WAJIB PAJAK PERSYARATAN TERTENTU, DAN PENGUSAHA KENA PAJAK BERISIKO RENDAH SERTA SPECIAL PURPOSE COMPANY ATAU KONTRAK INVESTASI KOLEKTIF SEBAGAI PENGUSAHA KENA PAJAK BERISIKO RENDAH"
+}

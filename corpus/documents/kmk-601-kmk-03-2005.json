@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-601-kmk-03-2005",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2005"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kmk-601-kmk-03-2005--b000-i",
   "kmk-601-kmk-03-2005--b001-ii"
@@ -48,7 +55,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },

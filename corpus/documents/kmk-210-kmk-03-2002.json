@@ -1,0 +1,136 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-210-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "210/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-210-kmk-03-2002--b000-1"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "5/KMK.01",
+     "1993",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 5/KMK.01/1993",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 5/KMK.01/1993 tentang Penunjukan Bank Sebagai Bank Persepsi Dalam Rangka Pengelolaan Setoran Penerimaan Negara, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-5-kmk-01-1993"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "338/KMK.01",
+     "1985",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 338/KMK.01/1985",
+    "quote": "Dengan berlakunya Keputusan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 338/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 323/KMK.01/1989 dan Keputusan Menteri Keuangan Nomor 346/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 324/KMK.01/1989 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-338-kmk-01-1985"
+   },
+   {
+    "key": [
+     "KMK",
+     "323/KMK.01",
+     "1989",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 323/KMK.01/1989",
+    "quote": "Dengan berlakunya Keputusan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 338/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 323/KMK.01/1989 dan Keputusan Menteri Keuangan Nomor 346/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 324/KMK.01/1989 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-323-kmk-01-1989"
+   },
+   {
+    "key": [
+     "KMK",
+     "346/KMK.01",
+     "1985",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 346/KMK.01/1985",
+    "quote": "Dengan berlakunya Keputusan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 338/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 323/KMK.01/1989 dan Keputusan Menteri Keuangan Nomor 346/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 324/KMK.01/1989 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-346-kmk-01-1985"
+   },
+   {
+    "key": [
+     "KMK",
+     "324/KMK.01",
+     "1989",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 324/KMK.01/1989",
+    "quote": "Dengan berlakunya Keputusan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 338/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 323/KMK.01/1989 dan Keputusan Menteri Keuangan Nomor 346/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 324/KMK.01/1989 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-324-kmk-01-1989"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-05-06",
+   "detail_error": null,
+   "number_as_written": "210/KMK.03/2002",
+   "retrieved_at": "2026-10-05T06:18:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 5/KMK.01/1993 TENTANG PENUNJUKAN BANK SEBAGAI BANK PERSEPSI DALAM RANGKA PENGELOLAAN SETORAN PENERIMAAN NEGARA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-5kmk011993-tentang-penunjukan-bank"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=214",
+   "retrieved_at": "2026-10-03T03:51:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-5kmk011993-tentang-penunjukan-bank",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9186,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:18:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-5kmk011993-tentang-penunjukan-bank"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 5/KMK.01/1993 TENTANG PENUNJUKAN BANK SEBAGAI BANK PERSEPSI DALAM RANGKA PENGELOLAAN SETORAN PENERIMAAN NEGARA"
+}

@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-158-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "158",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-158-2006--b000-1",
+  "per-djp-158-2006--b001-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "16",
+     "2005",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-16/PJ./2005",
+    "quote": "Mengubah ketentuan Pasal 1 huruf a angka 2 dalam Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ./2005 tentang Tata Cara Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan, sehingga Pasal 1 seluruhnya berbunyi sebagai berikut : \"Pasal I Atas permohonan Wajib Pajak, dapat diberikan pengurangan Bea Perolehan Hak atas Tanah dan Bangunan dalam hal: a. Kondisi tertentu Wajib Pajak yang ada hubungannya dengan Objek Pajak yaitu: 1. Wajib Pajak orang pribadi yang memperoleh hak baru melalui Program pemerintah di bidang pertahanan dan tidak mempunyai kemampuan secara ekonomis;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-16-2005"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-10-31",
+   "detail_error": null,
+   "number_as_written": "PER-158/PJ./2006",
+   "retrieved_at": "2026-10-05T02:48:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PERATURAN DIRJEN PAJAK TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-16/PJ./2005 TENTANG TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-dirjen-pajak-tentang-perubahan-atas-peraturan-direktur-jenderal-pajak-nomor"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=191",
+   "retrieved_at": "2026-10-03T03:43:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-dirjen-pajak-tentang-perubahan-atas-peraturan-direktur-jenderal-pajak-nomor",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6647,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:48:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-dirjen-pajak-tentang-perubahan-atas-peraturan-direktur-jenderal-pajak-nomor"
+ },
+ "title": "PERATURAN DIRJEN PAJAK TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-16/PJ./2005 TENTANG TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

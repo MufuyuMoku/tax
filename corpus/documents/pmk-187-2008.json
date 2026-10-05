@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-187-2008",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2008"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-187-2008--b000-1",
   "pmk-187-2008--b001-2",
@@ -23,7 +38,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-153-2009",
+    "key": [
+     "PMK",
+     "153",
+     "2009",
+     null
+    ],
+    "number_as_written": "153/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 187/PMK.03/2008 tentang Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan Pajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 187/PMK03/2008TENTANG TATACARA PEMOTONGAN, PENYETORAN, PELAPORAN DAN PENATAUSAHAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [

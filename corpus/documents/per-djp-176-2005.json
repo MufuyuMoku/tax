@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-176-2005",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "176",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-176-2005--b000-1",
+  "per-djp-176-2005--b001-2",
+  "per-djp-176-2005--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-50-2009",
+    "key": [
+     "PER-DJP",
+     "50",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-50/PJ./2009",
+    "quote": "Pasal 10 Peraturan Direktur Jenderal Pajak Nomor PER-176/PJ/2005 Tentang Tempat Terutangnya Pajak Bagi Pengusaha Kena Pajak Yang Dikukuhkan Di Kantor Pelayanan Pajak Madya Batam dicabut dan dinyatakan tidak berlaku sejak tanggal 01 November 2009.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK DAN TATA CARA PENERBITAN SURAT KEPUTUSAN PEMUSATAN TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG BAGI PENGUSAHA KENA PAJAK YANG TEMPAT KEGIATAN USAHA ATAU TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG DI KAWASAN BEBAS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-12-30",
+   "detail_error": null,
+   "number_as_written": "PER-176/PJ/2005",
+   "retrieved_at": "2026-10-05T02:56:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT TERUTANGNYA PAJAK BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KANTOR PELAYANAN PAJAK MADYA BATAM",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-terutangnya-pajak-bagi-pengusaha-kena-pajak-yang-dikukuhkan-di-kantor-pelayanan-3"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=196",
+   "retrieved_at": "2026-10-03T03:45:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-terutangnya-pajak-bagi-pengusaha-kena-pajak-yang-dikukuhkan-di-kantor-pelayanan-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3992,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:56:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-terutangnya-pajak-bagi-pengusaha-kena-pajak-yang-dikukuhkan-di-kantor-pelayanan-3"
+ },
+ "title": "TEMPAT TERUTANGNYA PAJAK BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KANTOR PELAYANAN PAJAK MADYA BATAM"
+}

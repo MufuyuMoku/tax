@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-35-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "35",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-35-2019--b000-1",
+  "pmk-35-2019--b001-2",
+  "pmk-35-2019--b002-3",
+  "pmk-35-2019--b003-4",
+  "pmk-35-2019--b004-5",
+  "pmk-35-2019--b005-6",
+  "pmk-35-2019--b006-7",
+  "pmk-35-2019--b007-8",
+  "pmk-35-2019--b008-9",
+  "pmk-35-2019--b009-10",
+  "pmk-35-2019--b010-11",
+  "pmk-35-2019--b011-12",
+  "pmk-35-2019--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-04-01",
+   "detail_error": null,
+   "number_as_written": "35/PMK.03/2019",
+   "retrieved_at": "2026-10-04T03:38:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN BENTUK USAHA TETAP",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-bentuk-usaha-tetap"
+  },
+  {
+   "date_as_written": "2019-04-01 00:00:00",
+   "number_as_written": "35/PMK.03/2019",
+   "retrieved_at": "2026-09-21T14:24:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penentuan Bentuk Usaha Tetap",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-03-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=53",
+   "retrieved_at": "2026-10-03T02:51:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-bentuk-usaha-tetap",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=140",
+   "retrieved_at": "2026-09-21T14:24:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-03-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17312,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:38:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penentuan-bentuk-usaha-tetap"
+ },
+ "title": "PENENTUAN BENTUK USAHA TETAP"
+}

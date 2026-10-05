@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-32-2007",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2007"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pp-32-2007--b000-1",
   "pp-32-2007--b001-2",
@@ -46,10 +57,19 @@
    "title_as_written": "PEMBERIAN FASILITAS PERPAJAKAN DALAM RANGKA PENANGANAN BENCANA ALAM DI PROVINSI NANGGROE ACEH DARUSSALAM DAN KEPULAUAN NIAS PROVINSI SUMATERA UTARA",
    "type_as_written": "Peraturan Pemerintah",
    "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-perpajakan-dalam-rangka-penanganan-bencana-alam-di-provinsi-nanggroe"
+  },
+  {
+   "date_as_written": "2007-05-22 00:00:00",
+   "number_as_written": "PP 32 TAHUN 2007",
+   "retrieved_at": "2026-09-21T14:10:29+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Perpajakan dalam Rangka Penanganan Bencana Alam di Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-32-tahun-2007"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -61,6 +81,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-perpajakan-dalam-rangka-penanganan-bencana-alam-di-provinsi-nanggroe",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=73",
+   "retrieved_at": "2026-09-21T14:10:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-32-tahun-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

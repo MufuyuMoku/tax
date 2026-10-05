@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-80-2008",
  "identity": {
@@ -9,16 +19,70 @@
   "year": "2008"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-80-2008--b000-1",
+  "pp-80-2008--b001-2",
+  "pp-80-2008--b002-3",
+  "pp-80-2008--b003-4",
+  "pp-80-2008--b004-5",
+  "pp-80-2008--b005-6",
+  "pp-80-2008--b006-7",
+  "pp-80-2008--b007-8",
+  "pp-80-2008--p008-1",
+  "pp-80-2008--p009-3",
+  "pp-80-2008--p010-4",
+  "pp-80-2008--p011-5",
+  "pp-80-2008--p012-6",
+  "pp-80-2008--p013-7",
+  "pp-80-2008--p014-8"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "42",
+     "2000",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 42 Tahun 2000",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 41 Tahun 2001 tentang Perubahan Atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-42-2000"
+   },
+   {
+    "key": [
+     "PP",
+     "41",
+     "2001",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 41 Tahun 2001",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 41 Tahun 2001 tentang Perubahan Atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-41-2001"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "80 TAHUN 2008",
+   "retrieved_at": "2026-10-05T01:58:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI DALAM NEGERI YANG BERTOLAK KE LUAR NEGERI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-wajib-pajak-orang-pribadi-dalam-negeri-yang-bertolak-ke-luar"
+  },
   {
    "date_as_written": "2008-12-31 00:00:00",
    "number_as_written": "PP 80 TAHUN 2008",
@@ -34,11 +98,19 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=157",
+   "retrieved_at": "2026-10-03T03:29:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-wajib-pajak-orang-pribadi-dalam-negeri-yang-bertolak-ke-luar",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=67",
    "retrieved_at": "2026-09-21T14:10:05+00:00",
@@ -48,16 +120,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 10629,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T01:58:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-wajib-pajak-orang-pribadi-dalam-negeri-yang-bertolak-ke-luar"
  },
- "title": "Pajak Penghasilan Bali Wajib Pajak Orang Pribadi dalam Negeri yang Bertolak Ke Luar Negeri."
+ "title": "PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI DALAM NEGERI YANG BERTOLAK KE LUAR NEGERI"
 }

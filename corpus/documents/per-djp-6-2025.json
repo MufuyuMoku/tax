@@ -8,6 +8,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/PERATURAN%20DIREKTUR%20JENDERAL%20PAJAK%20TENTANG%20PELAKSANAAN%20PENGEMBALIAN%20%20PENDAHULUAN%20KELEBIHAN%20PEMBAYARAN%20PAJAK%20TERHADAP%20WAJIB%20PAJAK%20KRITERIA%20TERTENTU%20WAJI%20%281%29.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-6-2025",
  "identity": {
@@ -17,6 +27,7 @@
   "year": "2025"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-6-2025--b000-1",
   "per-djp-6-2025--b001-2"
@@ -39,10 +50,19 @@
    "title_as_written": "PELAKSANAAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK TERHADAP WAJIB PAJAK KRITERIA TERTENTU, WAJIB PAJAK PERSYARATAN TERTENTU, DAN PENGUSAHA KENA PAJAK BERISIKO RENDAH, SERTA SPECIAL PURPOSE COMPANY ATAU KONTRAK INVESTASI KOLEKTIF SEBAGAI PENGUSAHA KENA PAJAK BERISIKO RENDAH",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengembalian-pendahuluan-kelebihan-pembayaran-pajak-terhadap-wajib-pajak"
+  },
+  {
+   "date_as_written": "2025-05-21 12:00:00",
+   "number_as_written": "PER-6/PJ/2025",
+   "retrieved_at": "2026-09-21T14:55:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak Terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah, serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Berisiko Rendah",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-6pj2025"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -54,6 +74,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengembalian-pendahuluan-kelebihan-pembayaran-pajak-terhadap-wajib-pajak",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=4",
+   "retrieved_at": "2026-09-21T14:55:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-6pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

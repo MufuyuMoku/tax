@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-1-2013",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2013"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-1-2013--b000-1",
   "per-djp-1-2013--b001-2",
@@ -27,7 +34,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2020",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2020",
+    "quote": "Pasal 10 Dengan berlakunya Peraturan Direktur Jenderal ini, maka Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2013 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN ATAU TELAH MENDAPATKAN IZIN DARI OTORITAS JASA KEUANGAN"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -71,7 +93,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

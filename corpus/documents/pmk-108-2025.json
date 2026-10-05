@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-108-2025",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2025"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-108-2025--b000-1",
   "pmk-108-2025--b001-2",
@@ -105,7 +116,26 @@
     "target_id": "pmk-47-2024"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 70/PMK.03/2017 — Petunjuk Teknis Mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 19/PMK.03/2018 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis Mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/19-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PMK 47 TAHUN 2024 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-47-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -117,10 +147,31 @@
    "title_as_written": "PETUNJUK TEKNIS MENGENAI AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-mengenai-akses-informasi-keuangan-untuk-kepentingan-perpajakan-0"
+  },
+  {
+   "date_as_written": "2025-12-29",
+   "detail_error": null,
+   "number_as_written": "108 TAHUN 2025",
+   "retrieved_at": "2026-10-04T02:58:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK TEKNIS MENGENAI AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/petunjuk-teknis-mengenai-akses-informasi-keuangan-untuk-kepentingan-perpajakan-0"
+  },
+  {
+   "date_as_written": "2025-12-29 00:00:00",
+   "number_as_written": "PMK 108 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T06:23:00+00:00",
+   "retrieved_at": "2026-09-21T14:15:48+00:00",
+   "source": "JDIH",
+   "title_as_written": "Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-108-tahun-2025",
+   "validity_as_written": "01 Jan 2026 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -132,6 +183,22 @@
    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-mengenai-akses-informasi-keuangan-untuk-kepentingan-perpajakan-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=4",
+   "retrieved_at": "2026-10-03T02:32:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/petunjuk-teknis-mengenai-akses-informasi-keuangan-untuk-kepentingan-perpajakan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=8",
+   "retrieved_at": "2026-09-21T14:15:48+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-108-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",
@@ -139,7 +206,15 @@
   "available": true,
   "chars": 153185,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 153185,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-04T02:58:08+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/petunjuk-teknis-mengenai-akses-informasi-keuangan-untuk-kepentingan-perpajakan-0"
+   }
+  ],
   "retrieved_at": "2026-09-21T14:49:08+00:00",
   "source": "DJP",
   "unavailable_reason": null,

@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-19-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "19",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-19-2008--b000-1",
+  "pmk-19-2008--b001-2",
+  "pmk-19-2008--b002-3",
+  "pmk-19-2008--b003-4",
+  "pmk-19-2008--b004-5",
+  "pmk-19-2008--b005-6",
+  "pmk-19-2008--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-11-2013",
+    "key": [
+     "PMK",
+     "11",
+     "2013",
+     null
+    ],
+    "number_as_written": "11/PMK.03/2013",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 19/PMK.03/2008 tentang Tata Cara Pembetulan Kesalahan Tulis, Kesalahan Hitung, dan/atau Kekeliruan Penerapan Ketentuan Tertentu Dalam Peraturan Perundang Undangan Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBETULAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-02-06",
+   "detail_error": null,
+   "number_as_written": "19/PMK.03/2008",
+   "retrieved_at": "2026-10-05T02:22:37+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBETULAN KESALAHAN TULIS, KESALAHAN HITUNG, DAN/ATAU KEKELIRUAN PENERAPAN KETENTUAN TERTENTU DALAM PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-kesalahan-tulis-kesalahan-hitung-danatau-kekeliruan-penerapan"
+  },
+  {
+   "date_as_written": "2008-02-06 00:00:00",
+   "number_as_written": "19/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembetulan Kesalahan Tulis, Kesalahan Hitung, dan/atau Kekeliruan Penerapan Ketentuan Tertentu dalam Peraturan Perundang-Undangan Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/19-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=174",
+   "retrieved_at": "2026-10-03T03:35:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-kesalahan-tulis-kesalahan-hitung-danatau-kekeliruan-penerapan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=417",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/19-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8764,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:22:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-kesalahan-tulis-kesalahan-hitung-danatau-kekeliruan-penerapan"
+ },
+ "title": "TATA CARA PEMBETULAN KESALAHAN TULIS, KESALAHAN HITUNG, DAN/ATAU KEKELIRUAN PENERAPAN KETENTUAN TERTENTU DALAM PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN"
+}

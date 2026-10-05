@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-42-2020",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-42-2020--b000-1",
   "pmk-42-2020--b001-5",
@@ -100,12 +111,32 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 48/PMK.04/2012 TENTANG PEMBERITAHUAN PABEAN DALAM RANGKA PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN YANG TELAH DITETAPKAN SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-48pmk042012-tentang-pemberitahuan-pabean"
+  },
+  {
+   "date_as_written": "2020-04-24",
+   "detail_error": null,
+   "number_as_written": "PMK-42/PMK.04/2020",
+   "retrieved_at": "2026-10-04T03:27:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 48/PMK.04/2012 TENTANG PEMBERITAHUAN PABEAN DALAM RANGKA PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN YANG TELAH DITETAPKAN SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-48pmk042012-tentang-pemberitahuan-pabean"
+  },
+  {
+   "date_as_written": "2020-04-24 00:00:00",
+   "number_as_written": "42/PMK.04/2020",
+   "retrieved_at": "2026-09-21T14:23:06+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan  Nomor 48/PMK.04/2012 tentang Pemberitahuan Pabean dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditetapkan Sebagai Kawasan \r\nPerdagangan Bebas dan Pelabuhan Bebas",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/42-pmk-04-2020"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -115,6 +146,22 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-48pmk042012-tentang-pemberitahuan-pabean",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=40",
+   "retrieved_at": "2026-10-03T02:46:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-48pmk042012-tentang-pemberitahuan-pabean",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=116",
+   "retrieved_at": "2026-09-21T14:23:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/42-pmk-04-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",
@@ -122,7 +169,15 @@
   "available": true,
   "chars": 20822,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 20822,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-04T03:27:54+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-48pmk042012-tentang-pemberitahuan-pabean"
+   }
+  ],
   "retrieved_at": "2026-09-22T00:40:36+00:00",
   "source": "DJP",
   "unavailable_reason": null,

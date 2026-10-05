@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-53-1994",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "53",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-29",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 53/PJ./1994",
+   "retrieved_at": "2026-10-03T04:02:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-pembuatan-bentuk-ukuran-pengadaan-tata-cara-penyampaian-dan-tata-cara"
+  },
+  {
+   "date_as_written": "1994-12-29 00:00:00",
+   "number_as_written": "KEP-53/PJ/1994",
+   "retrieved_at": "2026-09-21T14:59:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, dan Tata Cara Pembetulan Faktur Pajak Standar",
+   "type_as_written": "Keputusan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-53-pj-1994"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=240",
+   "retrieved_at": "2026-10-03T04:02:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-saat-pembuatan-bentuk-ukuran-pengadaan-tata-cara-penyampaian-dan-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=16",
+   "retrieved_at": "2026-09-21T14:59:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-53-pj-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PENETAPAN SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
+}

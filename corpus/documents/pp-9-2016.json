@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-9-2016",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2016"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pp-9-2016--b000-i",
   "pp-9-2016--b001-ii",
@@ -65,7 +72,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

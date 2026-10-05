@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-74-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "74",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-74-2012--b000-1",
+  "pmk-74-2012--b001-2",
+  "pmk-74-2012--b002-3",
+  "pmk-74-2012--b003-4",
+  "pmk-74-2012--b004-5",
+  "pmk-74-2012--b005-6",
+  "pmk-74-2012--b006-7",
+  "pmk-74-2012--b007-8",
+  "pmk-74-2012--b008-9",
+  "pmk-74-2012--b009-10",
+  "pmk-74-2012--b010-11",
+  "pmk-74-2012--b011-12",
+  "pmk-74-2012--b012-13",
+  "pmk-74-2012--b013-14",
+  "pmk-74-2012--b014-15",
+  "pmk-74-2012--b015-16",
+  "pmk-74-2012--b016-17",
+  "pmk-74-2012--b017-18"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "192",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 192/PMK.03/2007",
+    "quote": "Pasal 17 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 192/PMK.03/2007 tentang Tata Cara Penetapan Wajib Pajak dengan Kriteria Tertentu Dalam Rangka Pengembalian Pendahuluan Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-192-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-05-15",
+   "detail_error": null,
+   "number_as_written": "74/PMK.03/2012",
+   "retrieved_at": "2026-10-04T06:55:02+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENETAPAN DAN PENCABUTAN PENETAPAN WAJIB PAJAK DENGAN KRITERIA TERTENTU DALAM RANGKA PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-dan-pencabutan-penetapan-wajib-pajak-dengan-kriteria-tertentu-dalam"
+  },
+  {
+   "date_as_written": "2012-05-14 00:00:00",
+   "number_as_written": "74/PMK.03/2012",
+   "retrieved_at": "2026-09-21T14:36:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penetapan dan Pencabutan Penetapan Wajib Pajak dengan Kriteria Tertentu dalam Rangka Pengembalian Pendahuluan Kelebihan Pembayaran Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2012"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=113",
+   "retrieved_at": "2026-10-03T03:14:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-dan-pencabutan-penetapan-wajib-pajak-dengan-kriteria-tertentu-dalam",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=311",
+   "retrieved_at": "2026-09-21T14:36:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18532,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:55:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-dan-pencabutan-penetapan-wajib-pajak-dengan-kriteria-tertentu-dalam"
+ },
+ "title": "TATA CARA PENETAPAN DAN PENCABUTAN PENETAPAN WAJIB PAJAK DENGAN KRITERIA TERTENTU DALAM RANGKA PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK"
+}

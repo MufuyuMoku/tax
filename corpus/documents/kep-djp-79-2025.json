@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/KEP79PJ2025.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-79-2025",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2025"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-79-2025--b000-kesatu",
   "kep-djp-79-2025--b001-kedua",

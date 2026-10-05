@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1050,
+ "document_id": "per-djp-26-2014",
+ "document_number": "PER-26/PJ/2014",
+ "document_title": "SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK",
+ "id": "per-djp-26-2014--b004-5",
+ "label": "5",
+ "order": 4,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 5\n(1)\nWajib Pajak membuat sendiri Kode\nBilling\nsebagaimana dimaksud dalam Pasal 4 angka 1 dengan melakukan input data setoran pajak yang akan dibayarkan.\n(2)\nInput data sebagaimana dimaksud pada ayat (1) dilakukan atas nama dan NPWP sendiri, atau atas nama dan NPWP Wajib Pajak lain sehubungan dengan kewajiban sebagai Wajib Pungut.\n(3)\nWajib Pajak dalam melakukan input data sebagaimana dimaksud pada ayat (1) terlebih dahulu melakukan\nlog-in\ndengan memasukkan\nUser ID\ndan PIN akun pengguna Aplikasi\nBilling\nDJP yang telah aktif.\n(4)\nWajib Pajak dapat mendaftarkan diri untuk memperoleh\nUser ID\ndan PIN secara\nonline\nmelalui menu daftar baru Aplikasi\nBilling\nDJP dan mengaktifkan akun pengguna melalui konfirmasi\ne-mail\n.\n(5)\nDalam hal terdapat indikasi penyalahgunaan, Direktur Jenderal Pajak dapat melakukan penutupan secara jabatan atas akun pengguna Aplikasi\nBilling\nDJP.\n(6)\nDalam hal terjadi pemindahan tempat terdaftar Wajib Pajak yang mengakibatkan perubahan NPWP, Aplikasi\nBilling\nDJP akan menyesuaikan akun pengguna dengan NPWP baru.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T04:08:47+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/sistem-pembayaran-pajak-secara-elektronik"
+ }
+}

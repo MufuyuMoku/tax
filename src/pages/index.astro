@@ -1,7 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import { buildListing, loadMeta } from "../lib/corpus.js";
-import { statusLabel, typeLabel, yearLabel, regulationLabel } from "../lib/labels.js";
+import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote, CATEGORIES } from "../lib/labels.js";
 import { KINDS } from "../lib/collection/records.js";
 
 const rows = buildListing();
@@ -21,11 +21,14 @@ const statusOrder = ["berlaku", "diubah_atau_dicabut_sebagian", "tidak_berlaku",
 const statusCounts = [...countBy((r) => r.status)].sort(
   (a, b) => (statusOrder.indexOf(a[0]) + 99) % 99 - (statusOrder.indexOf(b[0]) + 99) % 99
 );
+const categoryCounts = CATEGORIES.map((name) => [name, rows.filter((r) => r.categories.includes(name)).length]).filter(
+  ([, count]) => count > 0
+);
 const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort((a, b) => b - a);
 ---
 
-<Base title="Daftar peraturan PPh — Tax">
-  <h1>Peraturan Pajak Penghasilan</h1>
+<Base title="Daftar peraturan pajak — Tax">
+  <h1>Peraturan PPh dan KUP</h1>
   <p class="lead">
     {rows.length.toLocaleString("id-ID")} dokumen dari katalog Direktorat Jenderal Pajak dan JDIH
     Kementerian Keuangan.
@@ -39,6 +42,12 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
       <button type="submit">Cari</button>
     </div>
     <div class="saringan">
+      <label>Kategori
+        <select name="kategori" id="kategori">
+          <option value="">Semua kategori</option>
+          {categoryCounts.map(([name, count]) => <option value={name}>{name} ({count})</option>)}
+        </select>
+      </label>
       <label>Jenis
         <select name="jenis" id="jenis">
           <option value="">Semua jenis</option>
@@ -133,6 +142,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
         data-jenis={typeLabel(row.code)}
         data-status={statusLabel(row.status, true)}
         data-code={row.code}
+        data-kategori={row.categories.join(" ")}
         data-status-value={row.status}
         data-group={row.group_key}
         data-id={row.id}
@@ -142,6 +152,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
           <span class="jenis">{typeLabel(row.code)}</span>
         </p>
         <p class="kartu-judul">{row.title}</p>
+        {row.category_list.length > 0 && <p class="kartu-asal">{categoryNote(row.category_list)}</p>}
         <p class="kartu-tanda">
           <span class={`tanda status-${row.status}`}>{statusLabel(row.status, true)}</span>
           <span class="tanda netral">{yearLabel(row.year)}</span>

@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-23-2025--b000-1",
+  "per-djp-23-2025--b001-2",
+  "per-djp-23-2025--b002-3",
+  "per-djp-23-2025--b003-4",
+  "per-djp-23-2025--b004-5",
+  "per-djp-23-2025--b005-6",
+  "per-djp-23-2025--b006-7",
+  "per-djp-23-2025--b007-8",
+  "per-djp-23-2025--b008-9",
+  "per-djp-23-2025--b009-10",
+  "per-djp-23-2025--b010-11",
+  "per-djp-23-2025--b011-12",
+  "per-djp-23-2025--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2009",
+    "quote": "Pasal 12 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2009 tentang Perlakuan Pajak Penghasilan Bagi Pekerja Indonesia di Luar Negeri; dan 2. Peraturan Direktur Jenderal Pajak Nomor PER-43/PJ/2011 tentang Penentuan Subjek Pajak Dalam Negeri dan Subjek Pajak Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "43",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-43/PJ/2011",
+    "quote": "Pasal 12 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 2. Peraturan Direktur Jenderal Pajak Nomor PER-43/PJ/2011 tentang Penentuan Subjek Pajak Dalam Negeri dan Subjek Pajak Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-43-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-12-09",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2025",
+   "retrieved_at": "2026-10-04T02:59:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN SUBJEK PAJAK DALAM NEGERI DAN SUBJEK PAJAK LUAR NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-subjek-pajak-dalam-negeri-dan-subjek-pajak-luar-negeri-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=5",
+   "retrieved_at": "2026-10-03T02:32:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-subjek-pajak-dalam-negeri-dan-subjek-pajak-luar-negeri-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17890,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:59:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penentuan-subjek-pajak-dalam-negeri-dan-subjek-pajak-luar-negeri-0"
+ },
+ "title": "PENENTUAN SUBJEK PAJAK DALAM NEGERI DAN SUBJEK PAJAK LUAR NEGERI"
+}

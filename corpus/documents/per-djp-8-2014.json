@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-8-2014",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2014"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-8-2014--b000-1",
   "per-djp-8-2014--b001-2",
@@ -53,6 +64,16 @@
    "title_as_written": "PENGAWASAN TERHADAP PEMOTONGAN/PEMUNGUTAN DAN PENYETORAN PAJAK YANG DILAKUKAN OLEH BENDAHARA PENGELUARAN SATUAN KERJA PERANGKAT DAERAH/ KUASA BENDAHARA UMUM DAERAH",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh"
+  },
+  {
+   "date_as_written": "2014-03-21",
+   "detail_error": null,
+   "number_as_written": "PER-08/PJ/2014",
+   "retrieved_at": "2026-10-04T04:16:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAWASAN TERHADAP PEMOTONGAN/PEMUNGUTAN DAN PENYETORAN PAJAK YANG DILAKUKAN OLEH BENDAHARA PENGELUARAN SATUAN KERJA PERANGKAT DAERAH/ KUASA BENDAHARA UMUM DAERAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh"
   }
  ],
  "status": {
@@ -69,6 +90,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=92",
+   "retrieved_at": "2026-10-03T03:04:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
   }
  ],
  "structure": "biasa",
@@ -76,7 +105,15 @@
   "available": true,
   "chars": 13702,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 13702,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-04T04:16:52+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan-oleh"
+   }
+  ],
   "retrieved_at": "2026-09-22T02:30:32+00:00",
   "source": "DJP",
   "unavailable_reason": null,

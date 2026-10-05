@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-4-2020",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-4-2020--b000-1",
   "per-djp-4-2020--b001-2",
@@ -86,7 +97,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2025",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-7/PJ/2025",
+    "quote": "Pasal 94 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 4. Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2019 tentang Tata Cara Pendaftaran dan Kewajiban Pengusaha Kena Pajak Toko Retail yang Berpartisipasi dalam Skema Pengembalian Pajak Pertambahan Nilai kepada Turis Asing, 5. Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak; … 7. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2021 tentang Jenis Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan Secara Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik, Persyaratan Dokumen Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik yang Digunakan, Tata Cara Penyampaian Dokumen Elektronik dan Saluran yang Digunakan, serta Tata Cara Tindak Lanjut atas Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan secara Elektronik. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, PENGUSAHA KENA PAJAK, OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SERTA PERINCIAN JENIS, DOKUMEN, DAN SALURAN UNTUK PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -127,12 +153,22 @@
    "title_as_written": "PETUNJUK TEKNIS PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, SERTIFIKAT ELEKTRONIK, DAN PENGUKUHAN PENGUSAHA KENA PAJAK",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pelaksanaan-administrasi-nomor-pokok-wajib-pajak-sertifikat-elektronik"
+  },
+  {
+   "date_as_written": "2020-03-13 00:00:00",
+   "number_as_written": "PER-04/PJ/2020",
+   "retrieved_at": "2026-09-21T14:57:01+00:00",
+   "source": "JDIH",
+   "title_as_written": "Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-04-pj-2020"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -142,6 +178,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pelaksanaan-administrasi-nomor-pokok-wajib-pajak-sertifikat-elektronik",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=26",
+   "retrieved_at": "2026-09-21T14:57:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-04-pj-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

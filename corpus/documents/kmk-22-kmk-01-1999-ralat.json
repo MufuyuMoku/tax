@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-22-kmk-01-1999-ralat",
+ "identity": {
+  "code": "KMK",
+  "number": "22/KMK.01",
+  "variant": "ralat",
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-01-29",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "22/KMK.01/1999",
+   "retrieved_at": "2026-10-03T03:59:29+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 22/KMK.01/1999 TANGGAL 15 JANUARI 1999 TENTANG PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 234/KMK.05/1996 TENTANG TATA CARA PENAGIHAN PIUTANG BEA MASUK, CUKAI, DENDA ADMINISTRASI, BUNGA, DAN PAJAK DALAM RANGKA IMPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-22kmk011999-tanggal-15-januari"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=230",
+   "retrieved_at": "2026-10-03T03:59:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-22kmk011999-tanggal-15-januari",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 22/KMK.01/1999 TANGGAL 15 JANUARI 1999 TENTANG PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 234/KMK.05/1996 TENTANG TATA CARA PENAGIHAN PIUTANG BEA MASUK, CUKAI, DENDA ADMINISTRASI, BUNGA, DAN PAJAK DALAM RANGKA IMPOR"
+}

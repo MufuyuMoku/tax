@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-16-2005",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "16",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-158-2006",
+    "key": [
+     "PER-DJP",
+     "158",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-158/PJ./2006",
+    "quote": "Mengubah ketentuan Pasal 1 huruf a angka 2 dalam Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ./2005 tentang Tata Cara Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan, sehingga Pasal 1 seluruhnya berbunyi sebagai berikut : \"Pasal I Atas permohonan Wajib Pajak, dapat diberikan pengurangan Bea Perolehan Hak atas Tanah dan Bangunan dalam hal: a. Kondisi tertentu Wajib Pajak yang ada hubungannya dengan Objek Pajak yaitu: 1. Wajib Pajak orang pribadi yang memperoleh hak baru melalui Program pemerintah di bidang pertahanan dan tidak mempunyai kemampuan secara ekonomis;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERATURAN DIRJEN PAJAK TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-16/PJ./2005 TENTANG TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+   },
+   {
+    "id": "per-djp-29-2009",
+    "key": [
+     "PER-DJP",
+     "29",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-29/PJ/2009",
+    "quote": "1. Mengubah ketentuan Pasal 6 Peraturan Direktur Jenderal Pajak Nomor 16/PJ./2005 tentang Tata Cara Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-158/PJ./2006, sehingga Pasal 6 berbunyi sebagai berikut: Pasal 6 (1) Wajib Pajak mengajukan permohonan pengurangan Bea Perolehan Hak atas Tanah dan Bangunan kepada Kepala Kantor Pelayanan Pajak Pratama yang wil … tusan Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan berada pada Kepala Kantor Wilayah Direktorat Jenderal Pajak sebagaimana dimaksud dalam Pasal 5 ayat (2), Kepala Kantor Pelayanan Pajak Pratama meneruskan permohonan pengurangan Bea Perolehan Hak atas Tanah dan Bangunan kepada Kepala Kantor Wilayah Direktorat Jenderal Pajak atasannya dalam jangka waktu paling lama 14 (empat belas) hari sejak tanggal diterimanya surat permohonan.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 16/PJ./2005 TENTANG TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-01-19",
+   "detail_error": null,
+   "number_as_written": "PER-16/PJ./2005",
+   "retrieved_at": "2026-10-05T01:57:36+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan-2"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=156",
+   "retrieved_at": "2026-10-03T03:29:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan-2",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

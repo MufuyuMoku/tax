@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-27-2008",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2008"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-27-2008--b000-1",
   "per-djp-27-2008--b001-2",
@@ -26,7 +37,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-13-2009",
+    "key": [
+     "PER-DJP",
+     "13",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-13/PJ./2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor 27/PJ/2008 tentang Tata Cara Penyampaian, Pengadministrasian, serta Penghapusan Sanksi Administrasi Sehubungan Dengan Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Untuk Tahun Pajak 2007 dan Sebelumnya, dan Sehubungan Dengan Pembetulan Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi atau Wajib Pajak Badan Untuk Tahun Pajak Sebelum Tahun Pajak 2007 sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor 30/PJ/2008, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 27/PJ./2008 TENTANG TATA CARA PENYAMPAIAN, PENGADMINISTRASIAN, SERTA PENGHAPUSAN SANKSI ADMINISTRASI SEHUBUNGAN DENGAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI UNTUK TAHUN PAJAK 2007 DAN SEBELUMNYA, DAN SEHUBUNGAN DENGAN PEMBETULAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI ATAU WAJIB PAJAK BADAN UNTUK TAHUN PAJAK SEBELUM TAHUN PAJAK 2007"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [],
@@ -45,7 +71,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },

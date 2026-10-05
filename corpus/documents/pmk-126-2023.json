@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-126-2023",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2023"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-126-2023--b000-1",
   "pmk-126-2023--b001-2"
@@ -60,10 +71,19 @@
    "title_as_written": "PENCABUTANPERATURANMENTERIKEUANGANNOMOR34/PMK.04/2020TENTANGPEMBERIANFASILITASKEPABEANANDAN/ATAUCUKAISERTAPERPAJAKANATASIMP.ORBARANGUNTUKKEPERLUANPENANGANANPANDEMICORONAVIRUSDISEASE2019(COVID-19)SEBAGAIMANATELAHBEBERAPAKALIDIUBAHTERAKHIRDENGANPERATURANMENTERIKEUANGANNOMOR164/PMK.04/2022TENTANGPERUBAHANKEEMPATATASPERATURANMENTERIKEUANGANNOMOR34/PMK.04/2020TENTANGPEMBERIANFASILITASKEPABEANANDAN/ATAUCUKAISERTAPERPAJAKANATASIMPORBARANGUNTUKKEPERLUANPENANGANANPANDEMICORONAVIRUSDISEASE2019(COVID-19)",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan-6"
+  },
+  {
+   "date_as_written": "2023-11-27 00:00:00",
+   "number_as_written": "PMK 126 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:17:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 164/PMK.04/2022 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-126-tahun-2023"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -75,6 +95,14 @@
    "url": "https://www.pajak.go.id/id/peraturan-6",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=38",
+   "retrieved_at": "2026-09-21T14:17:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-126-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

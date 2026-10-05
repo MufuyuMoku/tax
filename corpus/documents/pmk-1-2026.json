@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-1-2026",
+ "identity": {
+  "code": "PMK",
+  "number": "1",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-1-2026--b000-i",
+  "pmk-1-2026--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 81 TAHUN 2024",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan (Berita Negara Republik Indonesia Tahun 2024 Nomor 771) yang telah beberapa kali diubah dengan: a. Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahu … ntuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2025 Nomor 551); dan c. Peraturan Menteri Keuangan Nomor 54 Tahun 2025 tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan (Berita Negara Republik Indonesia Tahun 2025 Nomor 552), diubah sebagai berikut:",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-81-2024"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 53 TAHUN 2025 — Perubahan atas Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-53-tahun-2025"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 54 TAHUN 2025 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-54-tahun-2025"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-01-22",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 2026",
+   "retrieved_at": "2026-10-04T02:56:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI KEUANGAN NOMOR 81 TAHUN 2024 TENTANG KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keempat-atas-peraturan-menteri-keuangan-nomor-81-tahun-2024-tentang-ketentuan"
+  },
+  {
+   "date_as_written": "2026-01-22 12:00:00",
+   "number_as_written": "PMK 1 TAHUN 2026",
+   "page_retrieved_at": "2026-10-05T06:21:56+00:00",
+   "retrieved_at": "2026-09-21T14:15:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 81 Tahun 2024 Tentang Ketentuan Perpajakan dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-1-tahun-2026",
+   "validity_as_written": "22 Jan 2026 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=3",
+   "retrieved_at": "2026-10-03T02:32:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keempat-atas-peraturan-menteri-keuangan-nomor-81-tahun-2024-tentang-ketentuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=7",
+   "retrieved_at": "2026-09-21T14:15:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-1-tahun-2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 77519,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:56:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-keempat-atas-peraturan-menteri-keuangan-nomor-81-tahun-2024-tentang-ketentuan"
+ },
+ "title": "PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI KEUANGAN NOMOR 81 TAHUN 2024 TENTANG KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+}

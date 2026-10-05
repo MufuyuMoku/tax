@@ -1,0 +1,83 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER7PJ2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "7",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER7PJ2023.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-7-2023",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "7",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-7-2023--b000-1",
+  "per-djp-7-2023--b001-2",
+  "per-djp-7-2023--b002-3",
+  "per-djp-7-2023--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-08",
+   "detail_error": null,
+   "number_as_written": "PER-7/PJ/2023",
+   "retrieved_at": "2026-10-04T03:06:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAJUAN KEBERATAN DAN PERPANJANGAN SURAT KEPUTUSAN PENETAPAN BERLOKASI USAHA DI DAERAH TERTENTU SETELAH BERAKHIRNYA KEADAAN KAHAR AKIBAT PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengajuan-keberatan-dan-perpanjangan-surat-keputusan-penetapan-berlokasi-usaha-di-daerah"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=14",
+   "retrieved_at": "2026-10-03T02:37:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengajuan-keberatan-dan-perpanjangan-surat-keputusan-penetapan-berlokasi-usaha-di-daerah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6553,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:06:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengajuan-keberatan-dan-perpanjangan-surat-keputusan-penetapan-berlokasi-usaha-di-daerah"
+ },
+ "title": "PENGAJUAN KEBERATAN DAN PERPANJANGAN SURAT KEPUTUSAN PENETAPAN BERLOKASI USAHA DI DAERAH TERTENTU SETELAH BERAKHIRNYA KEADAAN KAHAR AKIBAT PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

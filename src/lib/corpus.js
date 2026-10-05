@@ -65,6 +65,7 @@ export function buildListing() {
       conflicts: (doc.identity_conflicts || []).map((c) => ({ id: c.id, code: c.code })),
       source_urls: doc.source_records.map((r) => ({ source: r.source, url: r.url })),
       text_unavailable_reason: doc.text.unavailable_reason,
+      category_list: doc.categories || [],
     };
   });
 

@@ -1,0 +1,172 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-254-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "254",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-254-2011--b000-1",
+  "pmk-254-2011--b001-2",
+  "pmk-254-2011--b002-3",
+  "pmk-254-2011--b003-4",
+  "pmk-254-2011--b004-5",
+  "pmk-254-2011--b005-6",
+  "pmk-254-2011--b006-7",
+  "pmk-254-2011--b007-8",
+  "pmk-254-2011--b008-9",
+  "pmk-254-2011--b009-10",
+  "pmk-254-2011--b010-11",
+  "pmk-254-2011--b011-12",
+  "pmk-254-2011--b012-13",
+  "pmk-254-2011--b013-14",
+  "pmk-254-2011--b014-15",
+  "pmk-254-2011--b015-16",
+  "pmk-254-2011--b016-17",
+  "pmk-254-2011--b017-18",
+  "pmk-254-2011--b018-19",
+  "pmk-254-2011--b019-20",
+  "pmk-254-2011--b020-21",
+  "pmk-254-2011--b021-22",
+  "pmk-254-2011--b022-23",
+  "pmk-254-2011--b023-24",
+  "pmk-254-2011--b024-25",
+  "pmk-254-2011--b025-26",
+  "pmk-254-2011--b026-27",
+  "pmk-254-2011--b027-28",
+  "pmk-254-2011--b028-29"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-160-2018",
+    "key": [
+     "PMK",
+     "160",
+     "2018",
+     null
+    ],
+    "number_as_written": "160/PMK.04/2018",
+    "quote": "… b. Peraturan Menteri Keuangan Nomor 254/PMK.04/2011 tentang Pembebasan Bea Masuk atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 176/PMK.04/2013 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 254/PMK.04/2011 tentang Pembebasan Bea Masuk atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR"
+   },
+   {
+    "id": "pmk-161-2018",
+    "key": [
+     "PMK",
+     "161",
+     "2018",
+     null
+    ],
+    "number_as_written": "PMK-161/PMK.04/2018",
+    "quote": "… b. Peraturan Menteri Keuangan Nomor 254/PMK.04/2011 tentang Pembebasan Bea Masuk atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 176/PMK.04/2013 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 254/PMK.04/2011 tentang Pembebasan Bea Masuk atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENGEMBALIAN BEA MASUK YANG TELAH DIBAYAR ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "580/KMK.04",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 580/KMK.04/2003",
+    "quote": "Pasal 27 Dengan berlakunya Peraturan Menteri ini, berlaku ketentuan sebagai berikut: a. Terhadap badan usaha yang telah memiliki NIPER berdasarkan Keputusan Menteri Keuangan Nomor 580/KMK.04/2003 tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 15/PMK.011/2011, untuk memperoleh Pembebasan wajib mengajukan permohonan untuk memperoleh NIPER Pembebasan berdasarkan Peraturan Menteri ini dalam jangka waktu paling lama tanggal 31 Desember 2012. b. Dalam hal badan usaha tidak mengajukan permohonan NIPER Pembebasan sampai batas waktu sebagaimana dimaksud pada huruf a, NIPER yang telah dimiliki oleh badan usaha dibekukan sampai proses pencabutan selesai. c. Dalam hal NIPER dibekukan, ketentuan mengenai kewajiban badan usaha untuk melakukan realisasi Ekspor dan menyerahkan laporan pertanggung-jawaban tetap berlaku. d. Dalam hal NIPER … tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 15/PMK.011/2011, untuk memperoleh Pembebasan wajib mengajukan permohonan untuk memperoleh NIPER Pembebasan berdasarkan Peraturan Menteri ini dalam jangka waktu paling lama tanggal 31 Desember 2012. b. Dalam hal badan usaha tidak mengajukan permohonan NIPER Pembebasan sampai batas waktu sebagaimana dimaksud pada huruf a, NIPER yang telah dimiliki oleh badan usaha dibekukan sampai proses pencabutan selesai. c. Dalam hal NIPER dibekukan, ketentuan mengenai kewajiban badan usaha untuk melakukan realisasi Ekspor dan menyerahkan laporan pertanggung-jawaban tetap berlaku. d. Dalam hal NIPER dicabut, jaminan atas Bahan Baku yang belum dipertanggungjawabkan dicairkan.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-580-kmk-04-2003"
+   },
+   {
+    "key": [
+     "PMK",
+     "15",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 15/PMK.011/2011",
+    "quote": "Pasal 27 Dengan berlakunya Peraturan Menteri ini, berlaku ketentuan sebagai berikut: a. Terhadap badan usaha yang telah memiliki NIPER berdasarkan Keputusan Menteri Keuangan Nomor 580/KMK.04/2003 tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 15/PMK.011/2011, untuk memperoleh Pembebasan wajib mengajukan permohonan untuk memperoleh NIPER Pembebasan berdasarkan Peraturan Menteri ini dalam jangka waktu paling lama tanggal 31 Desember 2012. b. Dalam hal badan usaha tidak mengajukan permohonan NIPER Pembebasan sampai batas waktu sebagaimana dimaksud pada huruf a, NIPER yang telah dimiliki oleh badan usaha dibekukan sampai proses pencabutan selesai. c. Dalam hal NIPER dibekukan, ketentuan mengenai kewajiban badan usaha untuk melakukan realisasi Ekspor dan menyerahkan laporan pertanggung-jawaban tetap berlaku. d. Dalam hal NIPER … , untuk memperoleh Pembebasan wajib mengajukan permohonan untuk memperoleh NIPER Pembebasan berdasarkan Peraturan Menteri ini dalam jangka waktu paling lama tanggal 31 Desember 2012. b. Dalam hal badan usaha tidak mengajukan permohonan NIPER Pembebasan sampai batas waktu sebagaimana dimaksud pada huruf a, NIPER yang telah dimiliki oleh badan usaha dibekukan sampai proses pencabutan selesai. c. Dalam hal NIPER dibekukan, ketentuan mengenai kewajiban badan usaha untuk melakukan realisasi Ekspor dan menyerahkan laporan pertanggung-jawaban tetap berlaku. d. Dalam hal NIPER dicabut, jaminan atas Bahan Baku yang belum dipertanggungjawabkan dicairkan.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-15-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-28",
+   "detail_error": null,
+   "number_as_written": "254/PMK.04/2011",
+   "retrieved_at": "2026-10-04T07:39:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN BEA MASUK ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-atas-impor-barang-dan-bahan-untuk-diolah-dirakit-atau-dipasang-pada"
+  },
+  {
+   "date_as_written": "2011-12-28 00:00:00",
+   "number_as_written": "254/PMK.04/2011",
+   "retrieved_at": "2026-09-21T14:36:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembebasan Bea Masuk atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/254-pmk-04-2011"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 160/2018, PMK 161/2018 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=119",
+   "retrieved_at": "2026-10-03T03:16:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-atas-impor-barang-dan-bahan-untuk-diolah-dirakit-atau-dipasang-pada",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=318",
+   "retrieved_at": "2026-09-21T14:36:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/254-pmk-04-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 34555,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:39:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-atas-impor-barang-dan-bahan-untuk-diolah-dirakit-atau-dipasang-pada"
+ },
+ "title": "PEMBEBASAN BEA MASUK ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR"
+}

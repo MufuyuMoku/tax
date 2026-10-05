@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-54-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "54",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-54-2008--b000-1",
+  "pmk-54-2008--b001-2",
+  "pmk-54-2008--b002-3",
+  "pmk-54-2008--b003-4",
+  "pmk-54-2008--b004-5",
+  "pmk-54-2008--b005-6",
+  "pmk-54-2008--b006-7",
+  "pmk-54-2008--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-04-17",
+   "detail_error": null,
+   "number_as_written": "54/PMK.09/2008",
+   "retrieved_at": "2026-10-05T06:17:17+00:00",
+   "source": "DJP",
+   "title_as_written": "KOMITE PENGAWAS PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/komite-pengawas-perpajakan"
+  },
+  {
+   "date_as_written": "2008-04-17 00:00:00",
+   "number_as_written": "54/PMK.09/2008",
+   "retrieved_at": "2026-09-21T14:43:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Komite Pengawas Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/54-pmk-09-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=168",
+   "retrieved_at": "2026-10-03T03:33:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/komite-pengawas-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=414",
+   "retrieved_at": "2026-09-21T14:43:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/54-pmk-09-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5657,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:17:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/komite-pengawas-perpajakan"
+ },
+ "title": "KOMITE PENGAWAS PERPAJAKAN"
+}

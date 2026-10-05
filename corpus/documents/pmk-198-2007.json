@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-198-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "198",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-198-2007--b000-1",
+  "pmk-198-2007--b001-2",
+  "pmk-198-2007--b002-3",
+  "pmk-198-2007--b003-4",
+  "pmk-198-2007--b004-5",
+  "pmk-198-2007--b005-6",
+  "pmk-198-2007--b006-7",
+  "pmk-198-2007--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-17-2013",
+    "key": [
+     "PMK",
+     "17",
+     "2013",
+     null
+    ],
+    "number_as_written": "17/PMK.03/2013",
+    "quote": "Pasal 95 Pada saat Peraturan Menteri ini berlaku: … b. Peraturan Menteri Keuangan Nomor 198/PMK.03/2007 tentang Tata Cara Penyegelan Dalam Rangka Pemeriksaan di Bidang Perpajakan; c. Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak; d. Peraturan Menteri Keuangan Nomor 82/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMERIKSAAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "198/PMK.03/2007",
+   "retrieved_at": "2026-10-05T02:25:45+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYEGELAN DALAM RANGKA PEMERIKSAAN DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyegelan-dalam-rangka-pemeriksaan-di-bidang-perpajakan-1"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "198/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Penyegelan dalam Rangka Pemeriksaan di Bidang Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=176",
+   "retrieved_at": "2026-10-03T03:36:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyegelan-dalam-rangka-pemeriksaan-di-bidang-perpajakan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=420",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6919,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:25:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyegelan-dalam-rangka-pemeriksaan-di-bidang-perpajakan-1"
+ },
+ "title": "TATA CARA PENYEGELAN DALAM RANGKA PEMERIKSAAN DI BIDANG PERPAJAKAN"
+}

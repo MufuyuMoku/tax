@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-104-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "104",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-104-2012--b000-kedua",
+  "kep-djp-104-2012--b001-ketiga",
+  "kep-djp-104-2012--b002-keempat",
+  "kep-djp-104-2012--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "62",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "rejected": "hierarki: KEP-DJP tidak dapat mencabut/mengubah PMK",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-62-2009"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-03-29",
+   "detail_error": null,
+   "number_as_written": "KEP-104/PJ/2012",
+   "retrieved_at": "2026-10-04T06:57:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN DAN PENGGUNAAN KODE KANTOR, KODE SURAT, DAN/ATAU CAP DINAS SEMENTARA PADA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK YANG MENGALAMI REORGANISASI BERDASARKAN PERATURAN MENTERI KEUANGAN NOMOR 29/PMK.01/ 2012 TENTANG PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009 TENTANG ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-dan-penggunaan-kode-kantor-kode-surat-danatau-cap-dinas-sementara-pada-instansi"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=115",
+   "retrieved_at": "2026-10-03T03:15:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-dan-penggunaan-kode-kantor-kode-surat-danatau-cap-dinas-sementara-pada-instansi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5771,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:57:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-dan-penggunaan-kode-kantor-kode-surat-danatau-cap-dinas-sementara-pada-instansi"
+ },
+ "title": "PENETAPAN DAN PENGGUNAAN KODE KANTOR, KODE SURAT, DAN/ATAU CAP DINAS SEMENTARA PADA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK YANG MENGALAMI REORGANISASI BERDASARKAN PERATURAN MENTERI KEUANGAN NOMOR 29/PMK.01/ 2012 TENTANG PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009 TENTANG ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK"
+}

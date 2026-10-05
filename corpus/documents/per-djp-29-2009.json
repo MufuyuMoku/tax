@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-29-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "29",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-29-2009--b000-i",
+  "per-djp-29-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "16",
+     "2005",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 16/PJ./2005",
+    "quote": "1. Mengubah ketentuan Pasal 6 Peraturan Direktur Jenderal Pajak Nomor 16/PJ./2005 tentang Tata Cara Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-158/PJ./2006, sehingga Pasal 6 berbunyi sebagai berikut: Pasal 6 (1) Wajib Pajak mengajukan permohonan pengurangan Bea Perolehan Hak atas Tanah dan Bangunan kepada Kepala Kantor Pelayanan Pajak Pratama yang wil … tusan Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan berada pada Kepala Kantor Wilayah Direktorat Jenderal Pajak sebagaimana dimaksud dalam Pasal 5 ayat (2), Kepala Kantor Pelayanan Pajak Pratama meneruskan permohonan pengurangan Bea Perolehan Hak atas Tanah dan Bangunan kepada Kepala Kantor Wilayah Direktorat Jenderal Pajak atasannya dalam jangka waktu paling lama 14 (empat belas) hari sejak tanggal diterimanya surat permohonan.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-16-2005"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-04-27",
+   "detail_error": null,
+   "number_as_written": "PER-29/PJ/2009",
+   "retrieved_at": "2026-10-05T01:45:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 16/PJ./2005 TENTANG TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-16pj2005-tentang-tata-cara"
+  },
+  {
+   "date_as_written": "2009-04-27 00:00:00",
+   "number_as_written": "PerDJP 29/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor 16/Pj/2005 tentang Tata Cara Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-29-pj-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=149",
+   "retrieved_at": "2026-10-03T03:26:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-16pj2005-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-29-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7893,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:45:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-16pj2005-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 16/PJ./2005 TENTANG TATA CARA PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 3489,
+ "document_id": "per-djp-5-2025",
+ "document_number": "5/PJ/2025",
+ "document_title": "PENYEDIA JASA APLIKASI PERPAJAKAN",
+ "id": "per-djp-5-2025--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal ini yang dimaksud dengan:\n1.\nWajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong pajak, dan pemungut pajak, yang mempunyai hak dan kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan perpajakan.\n2.\nPenyedia Jasa Aplikasi Perpajakan adalah pihak yang ditunjuk oleh Direktur Jenderal Pajak untuk menyediakan jasa aplikasi perpajakan bagi Wajib Pajak dan dapat menyediakan jasa aplikasi penunjang bagi Wajib Pajak.\n3.\nAplikasi Perpajakan adalah aplikasi yang dapat digunakan Wajib Pajak untuk melaksanakan hak dan/atau memenuhi kewajiban perpajakan yang meliputi pendaftaran sebagai Wajib Pajak, pemotongan dan pemungutan pajak, pelaporan surat pemberitahuan, dan dukungan pembayaran pajak.\n4.\nValidasi Status Wajib Pajak adalah kegiatan validasi data nomor pokok wajib pajak melalui sistem Penyedia Jasa Aplikasi Perpajakan yang terintegrasi dengan sistem Direktorat Jenderal Pajak.\n5.\nPenyediaan Aplikasi Pembuatan dan Penyaluran Bukti Pemotongan atau Pemungutan Elektronik adalah kegiatan penyediaan perangkat lunak, laman, atau aplikasi elektronik yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak untuk membuat bukti pemotongan atau pemungutan pajak penghasilan dalam bentuk dokumen elektronik.\n6.\nPenyelenggaraan Modul e-Faktur adalah kegiatan penyediaan laman atau aplikasi elektronik yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak untuk membuat faktur pajak oleh pengusaha kena pajak.\n7.\nPenyediaan Aplikasi Pembuatan Kode Billing adalah kegiatan penyediaan laman atau aplikasi elektronik yang terintegrasi dengan sistem\nbilling\nDirektorat Jenderal Pajak untuk melakukan permintaan penerbitan kode\nbilling\natas suatu jenis pembayaran atau penyetoran pajak.\n8.\nSurat Pemberitahuan adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundangan-undangan perpajakan.\n9.\nPenyaluran Surat Pemberitahuan dalam Bentuk Dokumen Elektronik adalah kegiatan penyaluran Surat Pemberitahuan dalam bentuk dokumen elektronik kepada Direktorat Jenderal Pajak.\n10.\nAplikasi Penunjang adalah aplikasi yang digunakan untuk mendukung penggunaan Aplikasi Perpajakan.\n11.\nNomor Pokok Wajib Pajak adalah nomor yang diberikan kepada Wajib Pajak sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajiban perpajakannya.\n12.\nPengusaha Kena Pajak adalah pengusaha yang melakukan penyerahan barang kena pajak dan/atau penyerahan jasa kena pajak yang dikenai pajak berdasarkan peraturan perundang-undangan mengenai pajak pertambahan nilai.\n13.\nService Level Agreement\nadalah pernyataan kesepakatan antara Direktorat Jenderal Pajak dan Penyedia Jasa Aplikasi Perpajakan yang mencantumkan layanan yang diberikan, pengukuran kualitas layanan, serta pelaporan dan penanganan kondisi pengecualian (\nexception handling\n).\n14.\nPetunjuk Pengembangan Aplikasi (\nDevelopment Guide\n) adalah dokumen yang menjelaskan dan mendefinisikan keseluruhan proses dalam pengembangan Aplikasi Perpajakan, serta merupakan referensi teknis dalam mempersiapkan berbagai perangkat yang dibutuhkan, baik perangkat keras, perangkat lunak, dan jaringan untuk mendukung implementasi Aplikasi Perpajakan.\nBAB II\nRUANG LINGKUP PENYEDIA JASA APLIKASI PERPAJAKAN",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:02:56+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan-0"
+ }
+}

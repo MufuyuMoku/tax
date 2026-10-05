@@ -1,0 +1,135 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-231-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "231",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-231-2008--b000-1",
+  "pmk-231-2008--b001-2",
+  "pmk-231-2008--b002-3",
+  "pmk-231-2008--b003-4",
+  "pmk-231-2008--b004-5",
+  "pmk-231-2008--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-246-2009",
+    "key": [
+     "PMK",
+     "246",
+     "2009",
+     null
+    ],
+    "number_as_written": "246/PMK.011/2009",
+    "quote": "Pasal 1 Peraturan Menteri Keuangan Nomor 231/PMK.011/2008 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Sawit di Dalam Negeri untuk Tahun Anggaran 2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 31/PMK.011/2008 TENTANG  PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN  MINYAK GORENG SAWIT DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2009"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "14",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 14/PMK.011/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Peraturan Menteri Keuangan Nomor 14/PMK.011/2008 tentang Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Curah di Dalam Negeri; dan 2. Peraturan Menteri Keuangan Nomor 15/PMK.011/2008 tentang Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Dalam Kemasan di Dalam Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-14-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "15",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 15/PMK.011/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : … 2. Peraturan Menteri Keuangan Nomor 15/PMK.011/2008 tentang Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Dalam Kemasan di Dalam Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-15-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-23",
+   "detail_error": null,
+   "number_as_written": "231/PMK.011/2008",
+   "retrieved_at": "2026-10-05T02:00:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG SAWIT DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2009",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-sawit-di"
+  },
+  {
+   "date_as_written": "2008-12-23 00:00:00",
+   "number_as_written": "231/PMK.011/2008",
+   "retrieved_at": "2026-09-21T14:42:06+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Sawit di dalam Negeri untuk Tahun Anggaran 2009",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-011-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 246/2009 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=159",
+   "retrieved_at": "2026-10-03T03:30:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-sawit-di",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=396",
+   "retrieved_at": "2026-09-21T14:42:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-011-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4853,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:00:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-sawit-di"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG SAWIT DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2009"
+}

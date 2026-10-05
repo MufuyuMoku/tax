@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 524,
+ "document_id": "per-djp-47-2011",
+ "document_number": "PER-47/PJ/2011",
+ "document_title": "TATA CARA PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+ "id": "per-djp-47-2011--b008-9",
+ "label": "9",
+ "order": 8,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 9\n1.\nSetiap transaksi pembayaran melalui sistem pembayaran pajak secara elektronik (\nbilling system\n) akan dilakukan rekonsiliasi\nbilling\n.\n2.\nRekonsiliasi\nbilling\ndilakukan atas data Kode\nBilling\nyang terbayar dan terreversal menurut\ndatabase\nModul Penerimaan Negara dibandingkan dengan data Kode\nBilling\nterbayar dan ter-reversal yang diakui oleh kantor pusat Bank/Pos Persepsi.\n3.\nHasil rekonsiliasi\nbilling\nsebagaimana dimaksud pada ayat (1) akan didistribusikan ke dalam sistem informasi Direktorat Jenderal Pajak",
+ "text_source": {
+  "retrieved_at": "2026-10-04T07:39:01+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik"
+ }
+}

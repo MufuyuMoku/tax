@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-535-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "535/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-183-2007",
+    "key": [
+     "PMK",
+     "183",
+     "2007",
+     null
+    ],
+    "number_as_written": "183/PMK.03/2007",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 535/KMK.04/2000 tentang Wajib Pajak Tertentu yang Dikecualikan dari Kewajiban Menyampaikan Surat Pemberitahuan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "WAJIB PAJAK PAJAK PENGHASILAN TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN PAJAK PENGHASILAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-22",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "535/KMK.04/2000",
+   "retrieved_at": "2026-10-03T03:57:46+00:00",
+   "source": "DJP",
+   "title_as_written": "WAJIB PAJAK TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan-surat-pemberitahuan"
+  },
+  {
+   "date_as_written": "2000-12-22 00:00:00",
+   "number_as_written": "535/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Wajib Pajak Tertentu yang Dikecualikan Dari Kewajiban Menyampaikan Surat Pemberitahuan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/535-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=225",
+   "retrieved_at": "2026-10-03T03:57:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan-surat-pemberitahuan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:49:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/535-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "WAJIB PAJAK TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN"
+}

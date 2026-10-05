@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-315-2018",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "315",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-315-2018--b000-kesatu",
+  "kep-djp-315-2018--b001-kedua",
+  "kep-djp-315-2018--b002-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-11-09",
+   "detail_error": null,
+   "number_as_written": "KEP-315/PJ/2018",
+   "retrieved_at": "2026-10-05T06:20:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-madya"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=58",
+   "retrieved_at": "2026-10-03T03:52:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-madya",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 2763,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:20:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-madya"
+ },
+ "title": "PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK MADYA"
+}

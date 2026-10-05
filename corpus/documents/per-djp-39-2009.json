@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-39-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "39",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-39-2009--b000-1",
+  "per-djp-39-2009--b001-2",
+  "per-djp-39-2009--b002-3",
+  "per-djp-39-2009--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 5. Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ./2009 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-07-02",
+   "detail_error": null,
+   "number_as_written": "PER-39/PJ./2009",
+   "retrieved_at": "2026-10-05T01:41:31+00:00",
+   "source": "DJP",
+   "title_as_written": "SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN BESERTA PETUNJUK PENGISIANNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-tahunan-pajak-penghasilan-wajib-pajak-badan-beserta-petunjuk"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=146",
+   "retrieved_at": "2026-10-03T03:25:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-tahunan-pajak-penghasilan-wajib-pajak-badan-beserta-petunjuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3744,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:41:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-tahunan-pajak-penghasilan-wajib-pajak-badan-beserta-petunjuk"
+ },
+ "title": "SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN BESERTA PETUNJUK PENGISIANNYA"
+}

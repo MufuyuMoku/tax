@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-537-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "537/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-22",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "537/KMK.04/2000",
+   "retrieved_at": "2026-10-03T03:57:46+00:00",
+   "source": "DJP",
+   "title_as_written": "WAJIB PAJAK TERTENTU YANG DIKECUALIKAN DARI PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA KARENA TIDAK MENYAMPAIKAN SURAT PEMBERITAHUAN DALAM JANGKA WAKTU YANG DITENTUKAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-tertentu-yang-dikecualikan-dari-pengenaan-sanksi-administrasi-berupa-denda"
+  },
+  {
+   "date_as_written": "2000-12-22 00:00:00",
+   "number_as_written": "537/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Wajib Pajak Tertentu yang Dikecualikan Dari Pengenaan Sanksi Administrasi Berupa Denda Karena Tidak Menyampaikan Surat Pemberitahuan dalam Jangka Waktu yang Ditentukan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/537-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=225",
+   "retrieved_at": "2026-10-03T03:57:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-tertentu-yang-dikecualikan-dari-pengenaan-sanksi-administrasi-berupa-denda",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:49:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/537-kmk-04-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "WAJIB PAJAK TERTENTU YANG DIKECUALIKAN DARI PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA KARENA TIDAK MENYAMPAIKAN SURAT PEMBERITAHUAN DALAM JANGKA WAKTU YANG DITENTUKAN"
+}

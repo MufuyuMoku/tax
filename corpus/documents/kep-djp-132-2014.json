@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-132-2014",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "132",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-132-2014--b000-kedua",
+  "kep-djp-132-2014--b001-ketiga",
+  "kep-djp-132-2014--b002-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-06-05",
+   "detail_error": null,
+   "number_as_written": "KEP-132/PJ/2014",
+   "retrieved_at": "2026-10-04T04:14:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-di-lingkungan-kantor-wilayah-1"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=91",
+   "retrieved_at": "2026-10-03T03:04:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-di-lingkungan-kantor-wilayah-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3381,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:14:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-di-lingkungan-kantor-wilayah-1"
+ },
+ "title": "PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR"
+}

@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-6-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "6",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-6-2009--b000-1",
+  "per-djp-6-2009--b001-2",
+  "per-djp-6-2009--b002-3",
+  "per-djp-6-2009--b003-4",
+  "per-djp-6-2009--b004-5",
+  "per-djp-6-2009--b005-6",
+  "per-djp-6-2009--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2015",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2015",
+    "quote": "… b. Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2009 tentang Tata Cara Penyampaian Surat Pemberitahuan dalam Bentuk Elektronik; … e. Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2014 tentang Tata Cara Penyampaian Surat Pemberitahuan Tahunan Bagi Wajib Pajak Orang Pribadi yang Menggunakan Formulir 1770S Atau 1770SS Secara e-Filing dan Merupakan Pegawai Tetap pada Pemberi Kerja Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-01-20",
+   "detail_error": null,
+   "number_as_written": "PER-6/PJ/2009",
+   "retrieved_at": "2026-10-05T01:57:15+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN DALAM BENTUK ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-dalam-bentuk-elektronik"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=155",
+   "retrieved_at": "2026-10-03T03:28:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-dalam-bentuk-elektronik",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5473,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:57:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-dalam-bentuk-elektronik"
+ },
+ "title": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN DALAM BENTUK ELEKTRONIK"
+}

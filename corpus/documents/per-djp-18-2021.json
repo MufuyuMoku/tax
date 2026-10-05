@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER18PJ2021.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-18-2021",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2021"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-18-2021--b000-1",
   "per-djp-18-2021--b001-2",
@@ -52,7 +59,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

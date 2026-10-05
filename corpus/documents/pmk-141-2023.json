@@ -21,6 +21,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/PMK141TAHUN2023.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-141-2023",
  "identity": {
@@ -30,6 +36,7 @@
   "year": "2023"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-141-2023--b000-1",
   "pmk-141-2023--b001-2",
@@ -75,7 +82,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

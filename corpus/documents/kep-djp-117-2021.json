@@ -1,0 +1,98 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran KEP117PJ2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "KEP-DJP",
+    "number": "117",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20KEP117PJ2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-117-2021",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "117",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-117-2021--b000-kedua",
+  "kep-djp-117-2021--b001-ketiga",
+  "kep-djp-117-2021--b002-keempat",
+  "kep-djp-117-2021--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-177-2021",
+    "key": [
+     "KEP-DJP",
+     "177",
+     "2021",
+     null
+    ],
+    "number_as_written": "KEP-177/PJ/2021",
+    "quote": "Beberapa ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-117/PJ/2021 tentang Pemindahan Wajib Pajak dari Kantor Pelayanan Pajak Madya diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-117/PJ/2021 TENTANG PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK MADYA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-03-22",
+   "detail_error": null,
+   "number_as_written": "KEP-117/PJ/2021",
+   "retrieved_at": "2026-10-04T03:16:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-madya-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=30",
+   "retrieved_at": "2026-10-03T02:43:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-madya-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3526,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:16:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemindahan-wajib-pajak-dari-kantor-pelayanan-pajak-madya-0"
+ },
+ "title": "PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK MADYA"
+}

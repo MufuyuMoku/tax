@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2007",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-1-2007--b000-1",
+  "per-djp-1-2007--b001-2",
+  "per-djp-1-2007--b002-3",
+  "per-djp-1-2007--b003-4",
+  "per-djp-1-2007--b004-5",
+  "per-djp-1-2007--b005-6",
+  "per-djp-1-2007--b006-7",
+  "per-djp-1-2007--b007-8",
+  "per-djp-1-2007--b008-9",
+  "per-djp-1-2007--b009-10",
+  "per-djp-1-2007--b010-11",
+  "per-djp-1-2007--b011-12",
+  "per-djp-1-2007--b012-13",
+  "per-djp-1-2007--b013-14",
+  "per-djp-1-2007--b014-15",
+  "per-djp-1-2007--b015-16",
+  "per-djp-1-2007--b016-17",
+  "per-djp-1-2007--b017-18",
+  "per-djp-1-2007--b018-19",
+  "per-djp-1-2007--b019-20",
+  "per-djp-1-2007--b020-21",
+  "per-djp-1-2007--b021-22",
+  "per-djp-1-2007--b022-23",
+  "per-djp-1-2007--b023-24",
+  "per-djp-1-2007--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-48-2009",
+    "key": [
+     "PER-DJP",
+     "48",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-48/PJ/2009",
+    "quote": "Pasal 12 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ.07/2007 tentang Prosedur Pengajuan dan Penyelesaian Permohonan Pembetulan Ketetapan Pajak, Keberatan, Pengurangan atau Penghapusan Sanksi Administrasi, dan Pengurangan atau Pembatalan Ketetapan Pajak yang Tidak Benar Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dinyatakan tidak berlaku sepanjang mengenai prosedur pengajuan dan penyelesaian permohonan pembetulan ketetapan pajak.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBETULAN KESALAHAN TULIS, KESALAHAN HITUNG, DAN/ATAU KEKELIRUAN PENERAPAN KETENTUAN TERTENTU DALAM PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN"
+   },
+   {
+    "id": "per-djp-49-2009",
+    "key": [
+     "PER-DJP",
+     "49",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-49/PJ./2009",
+    "quote": "Pasal 15 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ.04/2007 tentang Prosedur Pengajuan dan Penyelesaian Permohonan Pembetulan Ketetapan Pajak, Keberatan, Pengurangan atau Penghapusan Sanksi Administrasi, dan Pengurangan atau Pembatalan Ketetapan Pajak yang tidak Benar Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dinyatakan tidak berlaku sepanjang mengenai prosedur pengajuan dan penyelesaian keberatan, BAB IV KETENTUAN PENUTUP",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-10-08",
+   "detail_error": null,
+   "number_as_written": "PER-01/PJ.07/2007",
+   "retrieved_at": "2026-10-05T02:33:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PROSEDUR PENGAJUAN DAN PENYELESAIAN PERMOHONAN PEMBETULAN KETETAPAN PAJAK, KEBERATAN, PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI, DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK YANG TIDAK BENAR PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/prosedur-pengajuan-dan-penyelesaian-permohonan-pembetulan-ketetapan-pajak-keberatan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=180",
+   "retrieved_at": "2026-10-03T03:37:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/prosedur-pengajuan-dan-penyelesaian-permohonan-pembetulan-ketetapan-pajak-keberatan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21798,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:33:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/prosedur-pengajuan-dan-penyelesaian-permohonan-pembetulan-ketetapan-pajak-keberatan"
+ },
+ "title": "PROSEDUR PENGAJUAN DAN PENYELESAIAN PERMOHONAN PEMBETULAN KETETAPAN PAJAK, KEBERATAN, PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI, DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK YANG TIDAK BENAR PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-172-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "172",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-172-2023--b000-i",
+  "pmk-172-2023--b001-2",
+  "pmk-172-2023--b002-3",
+  "pmk-172-2023--b003-8",
+  "pmk-172-2023--b004-5",
+  "pmk-172-2023--b005-6",
+  "pmk-172-2023--b006-7",
+  "pmk-172-2023--b007-8",
+  "pmk-172-2023--b008-9",
+  "pmk-172-2023--b009-10",
+  "pmk-172-2023--b010-11",
+  "pmk-172-2023--b011-12",
+  "pmk-172-2023--b012-13",
+  "pmk-172-2023--b013-14",
+  "pmk-172-2023--b014-15",
+  "pmk-172-2023--b015-16",
+  "pmk-172-2023--b016-17",
+  "pmk-172-2023--b017-18",
+  "pmk-172-2023--b018-19",
+  "pmk-172-2023--b019-20",
+  "pmk-172-2023--b020-21",
+  "pmk-172-2023--b021-22",
+  "pmk-172-2023--b022-23",
+  "pmk-172-2023--b023-24",
+  "pmk-172-2023--b024-25",
+  "pmk-172-2023--b025-26",
+  "pmk-172-2023--b026-27",
+  "pmk-172-2023--b027-28",
+  "pmk-172-2023--b028-29",
+  "pmk-172-2023--b029-30",
+  "pmk-172-2023--b030-31",
+  "pmk-172-2023--b031-32",
+  "pmk-172-2023--b032-33",
+  "pmk-172-2023--b033-34",
+  "pmk-172-2023--b034-35",
+  "pmk-172-2023--b035-36",
+  "pmk-172-2023--b036-37",
+  "pmk-172-2023--b037-38",
+  "pmk-172-2023--b038-39",
+  "pmk-172-2023--b039-40"
+ ],
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-29",
+   "detail_error": null,
+   "number_as_written": "172 TAHUN 2023",
+   "retrieved_at": "2026-10-04T03:06:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+  },
+  {
+   "date_as_written": "2023-12-29 00:00:00",
+   "number_as_written": "PMK 172 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:17:28+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha dalam Transaksi yang Dipengaruhi Hubungan Istimewa",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-172-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=14",
+   "retrieved_at": "2026-10-03T02:37:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=33",
+   "retrieved_at": "2026-09-21T14:17:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-172-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 81927,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ },
+ "title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA"
+}

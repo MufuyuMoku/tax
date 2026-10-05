@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-21-2007",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "21",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-21-2007--b000-1",
+  "kep-djp-21-2007--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-21-2008",
+    "key": [
+     "KEP-DJP",
+     "21",
+     "2008",
+     null
+    ],
+    "number_as_written": "KEP-21/PJ./2008",
+    "quote": "KEDUA : Pada saat Keputusan Direktur Jenderal Pajak ini berlaku, maka Keputusan Direktur Jenderal Pajak Nomor KEP-21/PJ/2007 tentang Tempat Pendaftaran dan Pelaporan Usaha bagi Wajib Pajak Tertentu pada Kantor Pelayanan Pajak Madya Jakarta Barat sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-120/PJ/2007 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK MADYA JAKARTA BARAT"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-01-26",
+   "detail_error": null,
+   "number_as_written": "KEP-21/PJ/2007",
+   "retrieved_at": "2026-10-05T06:24:44+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK MADYA JAKARTA BARAT",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-tertentu-pada-kantor-pelayanan-8"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=188",
+   "retrieved_at": "2026-10-03T03:53:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-tertentu-pada-kantor-pelayanan-8",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3065,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:24:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-tertentu-pada-kantor-pelayanan-8"
+ },
+ "title": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK MADYA JAKARTA BARAT"
+}

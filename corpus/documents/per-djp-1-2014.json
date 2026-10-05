@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-1-2014--b000-1",
+  "per-djp-1-2014--b001-2",
+  "per-djp-1-2014--b002-3",
+  "per-djp-1-2014--b003-4",
+  "per-djp-1-2014--b004-5",
+  "per-djp-1-2014--b005-6",
+  "per-djp-1-2014--b006-7",
+  "per-djp-1-2014--b007-8",
+  "per-djp-1-2014--b008-9",
+  "per-djp-1-2014--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2015",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2015",
+    "quote": "… d. Peraturan Direktur Jenderal Pajak Nomor PER-1/PJ/2014 tentang Tata Cara Penyampaian Surat Pemberitahuan Tahunan Bagi Wajib Pajak Orang Pribadi yang Menggunakan Formulir 1770S atau 1770SS Secara e-Filing Melalui Website Direktorat Jenderal Pajak (www.pajak.go.id ); dan e. Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2014 tentang Tata Cara Penyampaian Surat Pemberitahuan Tahunan Bagi Wajib Pajak Orang Pribadi yang Menggunakan Formulir 1770S Atau 1770SS Secara e-Filing dan Merupakan Pegawai Tetap pada Pemberi Kerja Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "39",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2011",
+    "quote": "Pasal 9 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2011 tentang Tata Cara Penyampaian Surat Pemberitahuan Tahunan Bagi Wajib Pajak Orang Pribadi yang Menggunakan Formulir 1770S atau 1770SS secara e-Filing melalui Website Direktorat Jenderal Pajak (www.pajak.go.id) dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-39-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-01-06",
+   "detail_error": null,
+   "number_as_written": "PER-1/PJ/2014",
+   "retrieved_at": "2026-10-04T04:19:16+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENGGUNAKAN FORMULIR 1770S ATAU 1770SS SECARA E-FILING MELALUI WEBSITE DIREKTORAT JENDERAL PAJAK (WWW.PAJAK.GO.ID)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-tahunan-bagi-wajib-pajak-orang-pribadi-yang-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=94",
+   "retrieved_at": "2026-10-03T03:05:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-tahunan-bagi-wajib-pajak-orang-pribadi-yang-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11480,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:19:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-tahunan-bagi-wajib-pajak-orang-pribadi-yang-0"
+ },
+ "title": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENGGUNAKAN FORMULIR 1770S ATAU 1770SS SECARA E-FILING MELALUI WEBSITE DIREKTORAT JENDERAL PAJAK (WWW.PAJAK.GO.ID)"
+}

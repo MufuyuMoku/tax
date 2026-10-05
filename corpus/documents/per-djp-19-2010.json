@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-19-2010",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2010"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-19-2010--b000-1",
   "per-djp-19-2010--b001-2",
@@ -30,7 +41,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2020",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2020",
+    "quote": "Pasal 19 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini: a. Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2010 tentang Penetapan Satu Tempat atau Lebih Sebagai Tempat Pajak Pertambahan Nilai Terutang, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT PEMUSATAN PAJAK PERTAMBAHAN NILAI TERUTANG"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -61,7 +87,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

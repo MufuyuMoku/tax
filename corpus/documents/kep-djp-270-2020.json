@@ -1,0 +1,82 @@
+{
+ "attachments": [
+  {
+   "file_name": "KEP-270.PJ.2020 tg Penerbitan NPWP Bagi Instansi Pemerintah Daerah Secara Jabatan-4-849.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/KEP-270.PJ.2020%20tg%20Penerbitan%20NPWP%20Bagi%20Instansi%20Pemerintah%20Daerah%20Secara%20Jabatan-4-849.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-270-2020",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "270",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-270-2020--b000-kedua",
+  "kep-djp-270-2020--b001-ketiga",
+  "kep-djp-270-2020--b002-keempat",
+  "kep-djp-270-2020--b003-kelima",
+  "kep-djp-270-2020--b004-keenam",
+  "kep-djp-270-2020--b005-ketujuh"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-06-10",
+   "detail_error": null,
+   "number_as_written": "KEP-270/PJ/2020",
+   "retrieved_at": "2026-10-04T03:25:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERBITAN NOMOR POKOK WAJIB PAJAK BAGI INSTANSI PEMERINTAH DAERAH SECARA JABATAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penerbitan-nomor-pokok-wajib-pajak-bagi-instansi-pemerintah-daerah-secara-jabatan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=38",
+   "retrieved_at": "2026-10-03T02:46:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penerbitan-nomor-pokok-wajib-pajak-bagi-instansi-pemerintah-daerah-secara-jabatan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4282,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:25:09+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penerbitan-nomor-pokok-wajib-pajak-bagi-instansi-pemerintah-daerah-secara-jabatan"
+ },
+ "title": "PENERBITAN NOMOR POKOK WAJIB PAJAK BAGI INSTANSI PEMERINTAH DAERAH SECARA JABATAN"
+}

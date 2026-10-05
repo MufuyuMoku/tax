@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1489,
+ "document_id": "per-djp-46-2008",
+ "document_number": "PER-46/PJ/2008",
+ "document_title": "TATA CARA PENGAWASAN PEMINDAHBUKUAN PENERIMAAN PAJAK BUMI DAN BANGUNAN PADA TEMPAT PEMBAYARAN ELEKTRONIK",
+ "id": "per-djp-46-2008--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini yang dimaksud dengan :\n1.\nPajak Bumi dan Bangunan yang selanjutnya disebut dengan PBB adalah pajak yang dikenakan atas bumi dan/atau bangunan.\n2.\nTempat Pembayaran Elektronik yang selanjutnya disebut dengan TP Elektronik adalah Bank Umum/Kantor Pos yang ditunjuk oleh Menteri Keuangan untuk menerima pembayaran PBB secara elektronik dan memindahbukukan ke Bank Persepsi Elektronik/Pos Persepsi Elektronik.\n3.\nBank Persepsi Elektronik/Pos Persepsi Elektronik, yang selanjutnya disebut Bank/Pos Persepsi Elektronik, adalah Bank Umum/Kantor Pos yang ditunjuk oleh Menteri Keuangan untuk menerima pemindahbukuan hasil penerimaan PBB dari TP Elektronik dan melimpahkan hasil penerimaan PBB ke Bank Operasional III.\n4.\nData Pembayaran PBB Elektronik adalah data transaksi pembayaran PBB per objek pajak yang dilakukan melalui TP Elektronik.\n5.\nTabel Relasi adalah tabel yang menghubungkan antara kode wilayah objek pajak dengan Bank/Pos Persepsi Elektronik yang disusun oleh Direktorat Jenderal Pajak sebagai referensi bagi TP Elektronik dalam memindahbukukan pembayaran PBB ke Bank/Pos Persepsi Elektronik.\n6.\nKantor Pelayanan Pajak Bumi dan Bangunan atau Kantor Pelayanan Pajak Pratama yang selanjutnya disebut dengan KPPBB atau KPP Pratama adalah KPPBB atau KPP Pratama yang wilayah kerjanya meliputi letak tanah dan/atau bangunan.\n7.\nSurat Tagihan Bunga adalah surat yang digunakan untuk melakukan tagihan sanksi administrasi berupa bunga.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T02:02:27+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengawasan-pemindahbukuan-penerimaan-pajak-bumi-dan-bangunan-pada-tempat"
+ }
+}

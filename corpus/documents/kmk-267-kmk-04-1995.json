@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-267-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "267/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-06-26",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "267/KMK.04/1995",
+   "retrieved_at": "2026-10-03T04:01:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 608/KMK.04/1994 TENTANG TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-608kmk041994-tentang-tata"
+  },
+  {
+   "date_as_written": "1995-06-26 00:00:00",
+   "number_as_written": "267/KMK.04/1995",
+   "retrieved_at": "2026-09-21T14:53:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor: 608/KMK.04/1994 tentang Tata Cara Pelaksanaan Pelaksanaan Penagihan Pajak dan Penunjukan Pejabat yang Berwenang Mengeluarkan Surat Paksa",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/267-kmk-04-1995"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=236",
+   "retrieved_at": "2026-10-03T04:01:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-608kmk041994-tentang-tata",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:53:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/267-kmk-04-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 608/KMK.04/1994 TENTANG TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA"
+}

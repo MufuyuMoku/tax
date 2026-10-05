@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-29-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "29",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-29-2020--b000-1",
+  "pmk-29-2020--b001-2",
+  "pmk-29-2020--b002-3",
+  "pmk-29-2020--b003-4",
+  "pmk-29-2020--b004-5",
+  "pmk-29-2020--b005-6",
+  "pmk-29-2020--b006-7",
+  "pmk-29-2020--b007-8",
+  "pmk-29-2020--b008-9",
+  "pmk-29-2020--b009-10",
+  "pmk-29-2020--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-04-07",
+   "detail_error": null,
+   "number_as_written": "29/PMK.03/2020",
+   "retrieved_at": "2026-10-04T03:30:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PELAYANAN ADMINISTRASI PERPAJAKAN DALAM KEADAAN KAHAR AKIBAT PANDEMI CORONA VIRUS DISEASE 2019",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pelayanan-administrasi-perpajakan-dalam-keadaan-kahar-akibat-pandemi-corona"
+  },
+  {
+   "date_as_written": "2020-04-07 00:00:00",
+   "number_as_written": "29/PMK.03/2020",
+   "retrieved_at": "2026-09-21T14:23:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pelayanan Administrasi Perpajakan dalam Keadaan Kahar Akibat Pandemi Corona Virus Disease 2019",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/29-pmk-03-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=42",
+   "retrieved_at": "2026-10-03T02:47:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pelayanan-administrasi-perpajakan-dalam-keadaan-kahar-akibat-pandemi-corona",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=118",
+   "retrieved_at": "2026-09-21T14:23:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/29-pmk-03-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16970,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:30:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pelayanan-administrasi-perpajakan-dalam-keadaan-kahar-akibat-pandemi-corona"
+ },
+ "title": "PELAKSANAAN PELAYANAN ADMINISTRASI PERPAJAKAN DALAM KEADAAN KAHAR AKIBAT PANDEMI CORONA VIRUS DISEASE 2019"
+}

@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-6-2018",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "6",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-6-2018--b000-i",
+  "per-djp-6-2018--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "41",
+     "2015",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-41/PJ/2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-41/PJ/2015 tentang Pengamanan Transaksi Elektronik Layanan Pajak Online sebagaimana telah diubah dengan PER-32/PJ/2017 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-41/PJ/2015 tentang Pengamanan Transaksi Elektronik Layanan Pajak Online , diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-41-2015"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-02-21",
+   "detail_error": null,
+   "number_as_written": "PER-06/PJ/2018",
+   "retrieved_at": "2026-10-04T03:41:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-41/PJ/2015 TENTANG PENGAMANAN TRANSAKSI ELEKTRONIK LAYANAN PAJAK ONLINE",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-41pj2015-tentang-pengamanan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=60",
+   "retrieved_at": "2026-10-03T02:53:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-41pj2015-tentang-pengamanan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 15978,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:41:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-41pj2015-tentang-pengamanan"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-41/PJ/2015 TENTANG PENGAMANAN TRANSAKSI ELEKTRONIK LAYANAN PAJAK ONLINE"
+}

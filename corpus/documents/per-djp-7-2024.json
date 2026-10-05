@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/PER7PJ2024%20lampiran.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-7-2024",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2024"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-7-2024--b000-1",
   "per-djp-7-2024--b001-8",
@@ -67,7 +78,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/PMK%2028%20Tahun%202026.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-28-2026",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2026"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-28-2026--b000-1",
   "pmk-28-2026--b001-2",
@@ -108,7 +119,32 @@
     "target_id": "pmk-209-2021"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 39/PMK.03/2018 — Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 117/PMK.03/2019 — Perubahan atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/117-pmk-03-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 209/PMK.03/2021 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/209-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PMK 119 TAHUN 2024 — Perubahan ketiga atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-119-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -120,10 +156,21 @@
    "title_as_written": "TATA CARA PENGEMBALIAN PENDAHULUANKELEBIHAN PEMBAYARAN PAJAK",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-pendahuluankelebihan-pembayaran-pajak"
+  },
+  {
+   "date_as_written": "2026-04-29 12:00:00",
+   "number_as_written": "PMK 28 TAHUN 2026",
+   "page_retrieved_at": "2026-10-05T06:20:12+00:00",
+   "retrieved_at": "2026-09-21T14:15:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-28-tahun-2026",
+   "validity_as_written": "01 Mei 2026 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -135,6 +182,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-pendahuluankelebihan-pembayaran-pajak",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=4",
+   "retrieved_at": "2026-09-21T14:15:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-28-tahun-2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 3167,
+ "document_id": "per-djp-19-2009",
+ "document_number": "PER-19/PJ/2009",
+ "document_title": "TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SPT TAHUNAN",
+ "id": "per-djp-19-2009--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini, yang dimaksud dengan:\n1.\nSurat Pemberitahuan yang selanjutnya disebut dengan SPT Tahunan adalah Surat Pemberitahuan untuk suatu tahun pajak atau bagian tahun pajak yang meliputi SPT Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi (SPT 1770, SPT 1770 S, SPT 1770 SS), SPT Tahunan Pajak Penghasilan Wajib Pajak Badan (SPT 1771 dan SPT 1771/$), termasuk SPT Tahunan Pembetulan.\n2.\nSPT Tahunan Elektronik yang selanjutnya disebut dengan e-SPT Tahunan adalah data SPT Wajib Pajak sebagaimana dimaksud pada angka 1 dalam bentuk elektronik yang dibuat oleh Wajib Pajak denganmenggunakan aplikasi e-SPT yang disediakan oleh Direktorat Jenderal Pajak.\n3.\nSPT Lengkap adalah SPT yang semua elemen SPT Induk dan lampirannya telah diisi dengan lengkap, SPT Induk telah ditandatangani oleh Wajib Pajak atau kuasanya, dan telah dilengkapi dengan lampiran khusus, serta keterangan dan/atau dokumen yang disyaratkan.\n4.\ne-SPT Lengkap adalah SPT sebagaimana dimaksud pada angka 2 yang semua elemen SPT Induk dan lampirannya telah diisi dengan lengkap dan dapat diproses dalam Sistem Informasi Perpajakan di Direktorat Jenderal Pajak, dan telah dilengkapi dengan lampiran khusus, serta keterangan dan/atau dokumen lain yang tidak dapat disampaikan secara elektronik.\n5.\ne-Filing adalah suatu cara penyampaian SPT atau penyampaian Pemberitahuan Perpanjangan SPT Tahunan secara elektronik yang dilakukan secara on-line yang real time melalui Penyedia Jasa Aplikasi atau Aplication Service Provider (ASP).\n6.\nTempat Pelayanan Terpadu yang selanjutnya disebut dengan TPT adalah tempat pelayanan perpajakan yang terintegrasi pada KPP termasuk Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan (KP2KP) untuk memberikan pelayanan perpajakan.\n7.\nPojok Pajak/Mobil Pajak/Tempat Khusus Penerimaan Surat Pemberitahuan Tahunan (Drop Box) adalah tempat lain yang dapat digunakan untuk menerima SPT Tahunan/e-SPT Tahunan.\n8.\nMedia Eletronik adalah sarana penyimpan data digital yang dapat dibaca oleh Sistem Informasi Perpajakan di Direktorat Jenderal Pajak.\n9.\nTanda Terima SPT adalah tanda bukti penerimaan SPT Tahunan/e-SPT Tahunan yang diberikan petugas kepada Wajib Pajak.\n10.\nPengolahan SPT adalah serangkaian kegiatan yang meliputi penelitian SPT dan perekaman SPT.\n11.\nPenelitian SPT atau e-SPT adalah kegiatan yang dilakukan untuk menilai kelengkapan pengisian SPTTahunan atau e-SPT Tahunan dan lampiran-lampirannya serta kelengkapan lampiran yang disyaratkan dan penilaian tentang kebenaran penulisan dan perhitungannya termasuk menerbitkan Surat Permintaan Kelengkapan SPT Tahunan apabila SPT yang diterima tidak lengkap.\n12.\nValidasi adalah kegiatan penelitian kebenaran data/informasi atas SPT Tahunan yang disampaikan dengan menggunakan aplikasi e-SPT.\n13.\nPerekaman SPT adalah serangkaian kegiatan yang dilakukan untuk memasukkan semua unsur SPT ke dalam basis data perpajakan dengan cara antara lain merekam, uploading, dan/atau memindai (scanning).\n14.\nLoading adalah kegiatan memindahkan data/informasi digital dari media elektronik/jaringan komunikasi data ke Sistem Informasi Perpajakan di Direktorat Jenderal Pajak.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T01:53:01+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tentang-tata-cara-penerimaan-dan-pengolahan-spt-tahunan"
+ }
+}

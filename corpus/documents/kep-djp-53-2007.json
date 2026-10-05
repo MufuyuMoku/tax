@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-53-2007",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "53",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-53-2007--b000-i",
+  "kep-djp-53-2007--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "30",
+     "2007",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-30/PJ/2007",
+    "quote": "Mengubah Lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-30/PJ/2007 sehingga menjadi sebagaimana ditetapkan dalam Lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-30-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-03-29",
+   "detail_error": null,
+   "number_as_written": "KEP-53/PJ/2007",
+   "retrieved_at": "2026-10-05T02:40:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-30/PJ./2007 TENTANG TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK MADYA BALIKPAPAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-30pj2007-tentang-tempat"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=184",
+   "retrieved_at": "2026-10-03T03:39:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-30pj2007-tentang-tempat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3157,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:40:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-30pj2007-tentang-tempat"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-30/PJ./2007 TENTANG TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK MADYA BALIKPAPAN"
+}

@@ -1,0 +1,121 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER02PJ2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "2",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER02PJ2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-2-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "2",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-2-2021--b000-1",
+  "per-djp-2-2021--b001-2",
+  "per-djp-2-2021--b002-3",
+  "per-djp-2-2021--b003-4",
+  "per-djp-2-2021--b004-5",
+  "per-djp-2-2021--b005-6",
+  "per-djp-2-2021--b006-7",
+  "per-djp-2-2021--b007-8",
+  "per-djp-2-2021--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2025",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-7/PJ/2025",
+    "quote": "Pasal 94 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 6. Pasal 4 dan Pasal 5 Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2021 tentang Tata Cara Pemberian dan Penggunaan Nomor Identitas Subunit Organisasi Instansi Pemerintah serta Kewajiban Pelaporan Pajak Instansi Pemerintah sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2021 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2021 tentang Tata Cara Pemberian dan Penggunaan Nomor Identitas Subunit Organisasi Instansi Pemerintah serta Kewajiban Pelaporan Pajak Instansi Pemerintah Direktur Jenderal Pajak; … 7. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2021 tentang Jenis Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan Secara Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik, Persyaratan Dokumen Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik yang Digunakan, Tata Cara Penyampaian Dokumen Elektronik dan Saluran yang Digunakan, serta Tata Cara Tindak Lanjut atas Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan secara Elektronik. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, PENGUSAHA KENA PAJAK, OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SERTA PERINCIAN JENIS, DOKUMEN, DAN SALURAN UNTUK PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-18",
+   "detail_error": null,
+   "number_as_written": "PER-02/PJ/2021",
+   "retrieved_at": "2026-10-04T03:18:35+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN DAN PENGGUNAAN NOMOR IDENTITAS SUBUNIT ORGANISASI INSTANSI PEMERINTAH SERTA KEWAJIBAN PELAPORAN PAJAK INSTANSI PEMERINTAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penggunaan-nomor-identitas-subunit-organisasi-instansi-pemerintah"
+  },
+  {
+   "date_as_written": "2021-02-18 00:00:00",
+   "number_as_written": "PER-02/PJ/2021",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian dan Penggunaan Nomor Identitas Subunit Organisasi Instansi Pemerintah serta Kewajiban Pelaporan Pajak Instansi Pemerintah",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-02-pj-2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=31",
+   "retrieved_at": "2026-10-03T02:43:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penggunaan-nomor-identitas-subunit-organisasi-instansi-pemerintah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-02-pj-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17077,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:18:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penggunaan-nomor-identitas-subunit-organisasi-instansi-pemerintah"
+ },
+ "title": "TATA CARA PEMBERIAN DAN PENGGUNAAN NOMOR IDENTITAS SUBUNIT ORGANISASI INSTANSI PEMERINTAH SERTA KEWAJIBAN PELAPORAN PAJAK INSTANSI PEMERINTAH"
+}

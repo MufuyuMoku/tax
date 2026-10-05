@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-85-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "85",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-85-2010--b000-i",
+  "pmk-85-2010--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "24",
+     "2008",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 24/PMK.03/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 24/PMK.03/2008 tentang Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-24-2008"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-189-2020",
+    "key": [
+     "PMK",
+     "189",
+     "2020",
+     null
+    ],
+    "number_as_written": "189/PMK.03/2020",
+    "quote": "Pasal 87 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 85/PMK.03/2010 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 24/PMK.03/2008 tentang Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus (Berita Negara Republik Indonesia Tahun 2010 Nomor 189), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-04-13",
+   "detail_error": null,
+   "number_as_written": "85/PMK.03/2010",
+   "retrieved_at": "2026-10-05T01:18:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 24/PMK.03/2008 TENTANG TATA CARA PELAKSANAAN PENAGIHAN DENGAN SURAT PAKSA DAN PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-24pmk032008-tentang-tata-cara-pelaksanaan"
+  },
+  {
+   "date_as_written": "2010-04-13 00:00:00",
+   "number_as_written": "85/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:39:48+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 24/PMK.03/2008 tentang Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=130",
+   "retrieved_at": "2026-10-03T03:20:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-24pmk032008-tentang-tata-cara-pelaksanaan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=361",
+   "retrieved_at": "2026-09-21T14:39:48+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9211,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:18:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-24pmk032008-tentang-tata-cara-pelaksanaan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 24/PMK.03/2008 TENTANG TATA CARA PELAKSANAAN PENAGIHAN DENGAN SURAT PAKSA DAN PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS"
+}

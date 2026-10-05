@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-1-2015--b000-i",
+  "per-djp-1-2015--b001-ii",
+  "per-djp-1-2015--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "53",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009",
+    "quote": "1. Ketentuan Lampiran I dalam Peraturan Direktur Jenderal Pajak Nomor PER-53/PJ/2009 tentang Bentuk Formulir Surat Pemberitahuan Masa Pajak Penghasilan Final Pasal 4 Ayat (2), Surat Pemberitahuan Masa Pajak Penghasilan Pasal 15, Pasal 22, Pasal 23 dan/atau Pasal 26 serta Bukti Pemotongan/Pemungutannya diubah dengan Lampiran I Peraturan Direktur Jenderal ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-53-2009"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-14-2015",
+    "key": [
+     "PER-DJP",
+     "14",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-14/PJ/2015",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2015 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-53/PJ/2009 tentang Bentuk Formulir Surat Pemberitahuan Masa Pajak Penghasilan Final Pasal 4 Ayat (2), Surat Pemberitahuan Masa Pajak Penghasilan Pasal 15, Pasal 22, Pasal 23 dan/atau Pasal 26 serta Bukti Pemotongan/Pemungutannya dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ/2015 TENTANG PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/PEMUNGUTANNYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-01-26",
+   "detail_error": null,
+   "number_as_written": "PER-01/PJ/2015",
+   "retrieved_at": "2026-10-04T04:04:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/ PEMUNGUTANNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-53pj2009-tentang-bentuk-formulir"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=83",
+   "retrieved_at": "2026-10-03T03:01:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-53pj2009-tentang-bentuk-formulir",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 11879,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:04:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-53pj2009-tentang-bentuk-formulir"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-53/PJ/2009 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/ PEMUNGUTANNYA"
+}

@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-11-1994",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "11",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2012",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-30/PJ/2012",
+    "quote": "Pasal 1 Keputusan Direktur Jenderal Pajak Nomor KEP-11/PJ./1994 tentang Pedoman Induk Tata Usaha Penerimaan dan Restitusi Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-11/PJ./1994 TENTANG PEDOMAN INDUK TATA USAHA PENERIMAAN DAN RESTITUSI PAJAK"
+   },
+   {
+    "id": "per-djp-89-2006",
+    "key": [
+     "PER-DJP",
+     "89",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER - 89/PJ/2006",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-11/PJ./1994 tentang Pedoman Induk Tata Usaha Penerimaan dan Restitusi Pajak (TUPRP) yang berkenaan dengan SPMKP Lewat Waktu, SPMKP/SPMKPP Hilang, SPMKP Hilang dalam Perjalanan, dan SPMKP Rusak, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBATALAN/PENGGANTIAN SURAT PERINTAH MEMBAYAR KELEBIHAN PAJAK (SMKP) DAN SURAT PERINTAH MEMBAYAR IMBALAN BUNGA (SPMIB) YANG TIDAK DAPAT DITERBITKAN SURAT PERINTAH PENCAIRAN DANA (SP2D)"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-02-21",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-11/PJ./1994",
+   "retrieved_at": "2026-10-03T04:03:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN INDUK TATA USAHA PENERIMAAN DAN RESTITUSI PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-induk-tata-usaha-penerimaan-dan-restitusi-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=242",
+   "retrieved_at": "2026-10-03T04:03:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-induk-tata-usaha-penerimaan-dan-restitusi-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PEDOMAN INDUK TATA USAHA PENERIMAAN DAN RESTITUSI PAJAK"
+}

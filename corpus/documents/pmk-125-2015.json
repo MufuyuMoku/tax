@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-125-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "125",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-125-2015--b000-i",
+  "pmk-125-2015--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "60",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 60/PMK.03/2014",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 60/PMK.03/2014 tentang Tata Cara Pertukaran Informasi (Exchange of Information) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-60-2014"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-07-07",
+   "detail_error": null,
+   "number_as_written": "125/PMK.010/2015",
+   "retrieved_at": "2026-10-04T03:58:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 60/PMK.03/2014 TENTANG TATA CARA PERTUKARAN INFORMASI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-60pmk032014-tentang-tata-cara-pertukaran"
+  },
+  {
+   "date_as_written": "2015-07-07 00:00:00",
+   "number_as_written": "125/PMK.010/2015",
+   "retrieved_at": "2026-09-21T14:30:43+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 60/PMK.03/2014 tentang Tata Cara Pertukaran Informasi (Exchange Of Information)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/125-pmk-010-2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=77",
+   "retrieved_at": "2026-10-03T02:59:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-60pmk032014-tentang-tata-cara-pertukaran",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=229",
+   "retrieved_at": "2026-09-21T14:30:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/125-pmk-010-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 28337,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:58:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-60pmk032014-tentang-tata-cara-pertukaran"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 60/PMK.03/2014 TENTANG TATA CARA PERTUKARAN INFORMASI"
+}

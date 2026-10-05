@@ -1,0 +1,189 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-55-2026",
+ "identity": {
+  "code": "PMK",
+  "number": "55",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-55-2026--b000-1",
+  "pmk-55-2026--b001-2",
+  "pmk-55-2026--b002-3",
+  "pmk-55-2026--b003-4",
+  "pmk-55-2026--b004-5",
+  "pmk-55-2026--b005-6",
+  "pmk-55-2026--b006-7",
+  "pmk-55-2026--b007-8",
+  "pmk-55-2026--b008-9",
+  "pmk-55-2026--b009-10",
+  "pmk-55-2026--b010-11",
+  "pmk-55-2026--b011-12",
+  "pmk-55-2026--b012-13",
+  "pmk-55-2026--b013-14",
+  "pmk-55-2026--b014-15",
+  "pmk-55-2026--b015-16",
+  "pmk-55-2026--b016-17",
+  "pmk-55-2026--b017-18",
+  "pmk-55-2026--b018-19",
+  "pmk-55-2026--b019-20",
+  "pmk-55-2026--b020-21",
+  "pmk-55-2026--b021-22",
+  "pmk-55-2026--b022-23",
+  "pmk-55-2026--b023-24",
+  "pmk-55-2026--b024-25",
+  "pmk-55-2026--b025-26",
+  "pmk-55-2026--b026-27",
+  "pmk-55-2026--b027-28",
+  "pmk-55-2026--b028-29",
+  "pmk-55-2026--b029-30",
+  "pmk-55-2026--b030-31",
+  "pmk-55-2026--b031-32",
+  "pmk-55-2026--b032-33",
+  "pmk-55-2026--b033-34",
+  "pmk-55-2026--b034-35",
+  "pmk-55-2026--b035-36",
+  "pmk-55-2026--b036-37",
+  "pmk-55-2026--b037-38",
+  "pmk-55-2026--b038-39",
+  "pmk-55-2026--b039-40",
+  "pmk-55-2026--b040-41",
+  "pmk-55-2026--b041-42",
+  "pmk-55-2026--b042-43",
+  "pmk-55-2026--b043-44",
+  "pmk-55-2026--b044-45",
+  "pmk-55-2026--b045-46",
+  "pmk-55-2026--b046-47",
+  "pmk-55-2026--b047-48",
+  "pmk-55-2026--b048-49",
+  "pmk-55-2026--b049-50",
+  "pmk-55-2026--b050-51",
+  "pmk-55-2026--b051-52",
+  "pmk-55-2026--b052-53",
+  "pmk-55-2026--b053-54",
+  "pmk-55-2026--b054-55",
+  "pmk-55-2026--b055-56",
+  "pmk-55-2026--b056-57",
+  "pmk-55-2026--b057-58",
+  "pmk-55-2026--b058-59",
+  "pmk-55-2026--b059-60",
+  "pmk-55-2026--b060-61",
+  "pmk-55-2026--b061-62"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "111",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 111/PMK.03/2014",
+    "quote": "2. Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 761) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 175/PMK.01/2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2022 Nomor 1203), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-111-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "175",
+     "2022",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 175/PMK.01/2022",
+    "quote": "2. Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 761) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 175/PMK.01/2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2022 Nomor 1203), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-175-2022"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 111/PMK.03/2014 — Konsultan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/111-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 175/PMK.01/2022 — Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-01-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-07-22",
+   "detail_error": null,
+   "number_as_written": "55 TAHUN 2026",
+   "retrieved_at": "2026-10-04T02:54:00+00:00",
+   "source": "DJP",
+   "title_as_written": "KONSULTAN PAJAK DAN PIHAK LAIN YANG BERTINDAK SEBAGAI KUASA WAJIB PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/konsultan-pajak-dan-pihak-lain-yang-bertindak-sebagai-kuasa-wajib-pajak"
+  },
+  {
+   "date_as_written": "2026-07-22 12:00:00",
+   "number_as_written": "PMK 55 TAHUN 2026",
+   "page_retrieved_at": "2026-10-05T06:17:56+00:00",
+   "retrieved_at": "2026-09-21T14:15:21+00:00",
+   "source": "JDIH",
+   "title_as_written": "Konsultan Pajak dan Pihak Lain yang Bertindak sebagai Kuasa Wajib Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-55-tahun-2026",
+   "validity_as_written": "24 Agu 2026 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=0",
+   "retrieved_at": "2026-10-03T02:29:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/konsultan-pajak-dan-pihak-lain-yang-bertindak-sebagai-kuasa-wajib-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=1",
+   "retrieved_at": "2026-09-21T14:15:21+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-55-tahun-2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 77627,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:54:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/konsultan-pajak-dan-pihak-lain-yang-bertindak-sebagai-kuasa-wajib-pajak"
+ },
+ "title": "KONSULTAN PAJAK DAN PIHAK LAIN YANG BERTINDAK SEBAGAI KUASA WAJIB PAJAK"
+}

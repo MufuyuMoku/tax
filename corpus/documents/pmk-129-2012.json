@@ -1,0 +1,138 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-129-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "129",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-129-2012--b000-1",
+  "pmk-129-2012--b001-2",
+  "pmk-129-2012--b002-3",
+  "pmk-129-2012--b003-4",
+  "pmk-129-2012--b004-5",
+  "pmk-129-2012--b005-6",
+  "pmk-129-2012--b006-7",
+  "pmk-129-2012--b007-8",
+  "pmk-129-2012--b008-9",
+  "pmk-129-2012--b009-10",
+  "pmk-129-2012--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-55-2016",
+    "key": [
+     "PMK",
+     "55",
+     "2016",
+     null
+    ],
+    "number_as_written": "55/PMK.03/2016",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 129/PMK.03/2012 tentang Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan Untuk Kepentingan Penerimaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PERMINTAAN PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "130",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 130/PMK.03/2009",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara; 2. Peraturan Menteri Keuangan Nomor 189/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-130-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "189",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 189/PMK.03/2011",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 189/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-189-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-08-07",
+   "detail_error": null,
+   "number_as_written": "129/PMK.03/2012",
+   "retrieved_at": "2026-10-04T06:52:17+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERMINTAAN PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk"
+  },
+  {
+   "date_as_written": "2012-08-07 00:00:00",
+   "number_as_written": "129/PMK.03/2012",
+   "retrieved_at": "2026-09-21T14:36:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/129-pmk-03-2012"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=110",
+   "retrieved_at": "2026-10-03T03:13:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=305",
+   "retrieved_at": "2026-09-21T14:36:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/129-pmk-03-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11992,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:52:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permintaan-penghentian-penyidikan-tindak-pidana-di-bidang-perpajakan-untuk"
+ },
+ "title": "TATA CARA PERMINTAAN PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA"
+}

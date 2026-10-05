@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-15-2008-ralat",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "15",
+  "variant": "ralat",
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-08-19",
+   "detail_error": null,
+   "number_as_written": "PER - 15/PJ/2008",
+   "retrieved_at": "2026-10-05T02:06:58+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER - 15/PJ/2008 TENTANG TATA CARA PENATAUSAHAAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK DALAM RANGKA PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK DARI DAN KE KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-atas-peraturan-direktur-jenderal-pajak-nomor-15pj2008-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=164",
+   "retrieved_at": "2026-10-03T03:32:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-atas-peraturan-direktur-jenderal-pajak-nomor-15pj2008-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER - 15/PJ/2008 TENTANG TATA CARA PENATAUSAHAAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK DALAM RANGKA PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK DARI DAN KE KANTOR PELAYANAN PAJAK MADYA"
+}

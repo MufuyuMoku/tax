@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-91-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "91",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-91-2015--b000-1",
+  "pmk-91-2015--b001-2",
+  "pmk-91-2015--b002-3",
+  "pmk-91-2015--b003-4",
+  "pmk-91-2015--b004-5",
+  "pmk-91-2015--b005-6",
+  "pmk-91-2015--b006-7",
+  "pmk-91-2015--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-68-2017",
+    "key": [
+     "PMK",
+     "68",
+     "2017",
+     null
+    ],
+    "number_as_written": "68/PMK.03/2017",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 91/PMK.03/2015 tentang Pengurangan atau Penghapusan Sanksi Administrasi atas Keterlambatan Penyampaian Surat Pemberitahuan, Pembetulan Surat Pemberitahuan, dan Keterlambatan Pembayaran atau Penyetoran Pajak (Berita Negara Republik Indonesia Tahun 2015 Nomor 671), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 91/PMK.03/2015 TENTANG PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN, PEMBETULAN SURAT PEMBERITAHUAN, DAN KETERLAMBATAN PEMBAYARAN ATAU PENYETORAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-04-30",
+   "detail_error": null,
+   "number_as_written": "91/PMK.03/2015",
+   "retrieved_at": "2026-10-04T04:01:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN, PEMBETULAN SURAT PEMBERITAHUAN, DAN KETERLAMBATAN PEMBAYARAN ATAU PENYETORAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-atau-penghapusan-sanksi-administrasi-atas-keterlambatan-penyampaian-surat"
+  },
+  {
+   "date_as_written": "2015-04-30 00:00:00",
+   "number_as_written": "91/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:31:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengurangan atau Penghapusan Sanksi Administrasi atas Keterlambatan Penyampaian Surat Pemberitahuan,Pembetulan Surat Pemberitahuan, dan Keterlambatan\r\nPembayaran atau Penyetoran Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=79",
+   "retrieved_at": "2026-10-03T03:00:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-atau-penghapusan-sanksi-administrasi-atas-keterlambatan-penyampaian-surat",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=233",
+   "retrieved_at": "2026-09-21T14:31:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13366,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:01:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengurangan-atau-penghapusan-sanksi-administrasi-atas-keterlambatan-penyampaian-surat"
+ },
+ "title": "PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN, PEMBETULAN SURAT PEMBERITAHUAN, DAN KETERLAMBATAN PEMBAYARAN ATAU PENYETORAN PAJAK"
+}

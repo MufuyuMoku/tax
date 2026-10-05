@@ -1,0 +1,89 @@
+{
+ "attachments": [
+  {
+   "file_name": "KEP185PJ2026.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "KEP-DJP",
+    "number": "185",
+    "year": "2026"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/KEP185PJ2026.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-185-2026",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "185",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-185-2026--b000-kesatu",
+  "kep-djp-185-2026--b001-kedua",
+  "kep-djp-185-2026--b002-ketiga",
+  "kep-djp-185-2026--b003-keempat",
+  "kep-djp-185-2026--b004-kelima",
+  "kep-djp-185-2026--b005-keenam",
+  "kep-djp-185-2026--b006-ketujuh",
+  "kep-djp-185-2026--b007-kedelapan",
+  "kep-djp-185-2026--b008-kesembilan",
+  "kep-djp-185-2026--b009-kesepuluh"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-09-02",
+   "detail_error": null,
+   "number_as_written": "KEP-185/PJ/2026",
+   "retrieved_at": "2026-10-04T02:53:19+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN ADMINISTRASI PERPAJAKAN SEHUBUNGAN DENGAN BENCANA ALAM DI WILAYAH PROVINSI NUSA TENGGARA TIMUR TAHUN 2026",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-administrasi-perpajakan-sehubungan-dengan-bencana-alam-di-wilayah-provinsi-nusa"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=0",
+   "retrieved_at": "2026-10-03T02:29:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-administrasi-perpajakan-sehubungan-dengan-bencana-alam-di-wilayah-provinsi-nusa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 8344,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:53:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-administrasi-perpajakan-sehubungan-dengan-bencana-alam-di-wilayah-provinsi-nusa"
+ },
+ "title": "KEBIJAKAN ADMINISTRASI PERPAJAKAN SEHUBUNGAN DENGAN BENCANA ALAM DI WILAYAH PROVINSI NUSA TENGGARA TIMUR TAHUN 2026"
+}

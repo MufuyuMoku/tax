@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-eselon1-486-2019",
  "identity": {
@@ -8,7 +14,15 @@
   "variant": null,
   "year": "2019"
  },
- "identity_conflicts": [],
+ "identity_conflicts": [
+  {
+   "code": "KEP-DJP",
+   "id": "kep-djp-486-2019",
+   "note": "nomor, tahun, dan judul sama tetapi jenisnya berbeda antar sumber; kemungkinan satu peraturan yang sama, tidak digabungkan otomatis",
+   "title": "KEBIJAKAN PERPAJAKAN TERHADAP PENYETORAN ATAS PEMOTONGAN ATAU PEMUNGUTAN PAJAK PENGHASILAN YANG JATUH TEMPO PADA TANGGAL 10 JUNI 2019"
+  }
+ ],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -33,7 +47,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

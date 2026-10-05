@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-27-2021",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "27",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-27-2021--b000-kedua",
+  "kep-djp-27-2021--b001-ketiga",
+  "kep-djp-27-2021--b002-keempat",
+  "kep-djp-27-2021--b003-kelima",
+  "kep-djp-27-2021--b004-keenam",
+  "kep-djp-27-2021--b005-ketujuh",
+  "kep-djp-27-2021--b006-kedelapan",
+  "kep-djp-27-2021--b007-kesembilan",
+  "kep-djp-27-2021--b008-kesepuluh",
+  "kep-djp-27-2021--b009-kesebelas",
+  "kep-djp-27-2021--b010-kedua",
+  "kep-djp-27-2021--b011-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-05",
+   "detail_error": null,
+   "number_as_written": "KEP-27/PJ/2021",
+   "retrieved_at": "2026-10-04T03:18:56+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN  BENCANA ALAM DI PROVINSI KALIMANTAN SELATAN DAN PROVINSI SULAWESI BARAT",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-bencana-alam-di-provinsi-kalimantan-selatan-dan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=32",
+   "retrieved_at": "2026-10-03T02:44:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-bencana-alam-di-provinsi-kalimantan-selatan-dan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 9393,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:18:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-bencana-alam-di-provinsi-kalimantan-selatan-dan-0"
+ },
+ "title": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN  BENCANA ALAM DI PROVINSI KALIMANTAN SELATAN DAN PROVINSI SULAWESI BARAT"
+}

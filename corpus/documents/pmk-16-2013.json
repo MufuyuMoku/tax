@@ -1,0 +1,164 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-16-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "16",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-16-2013--b000-1",
+  "pmk-16-2013--b001-2",
+  "pmk-16-2013--b002-3",
+  "pmk-16-2013--b003-4",
+  "pmk-16-2013--b004-5",
+  "pmk-16-2013--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-132-2013",
+    "key": [
+     "PMK",
+     "132",
+     "2013",
+     null
+    ],
+    "number_as_written": "132/PMK.03/2013",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 16/PMK.03/2013 TENTANG RINCIAN JENIS DATA DAN INFORMASI SERTA TATA CARA PENYAMPAIAN DATA DAN INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN"
+   },
+   {
+    "id": "pmk-191-2014",
+    "key": [
+     "PMK",
+     "191",
+     "2014",
+     null
+    ],
+    "number_as_written": "191/PMK.03/2014",
+    "quote": "Mengubah angka 10, 13, 17, 25, 26 dan 29 serta menambah 22 (dua puluh dua) angka yaitu angka 40 sampai dengan angka 61 pada kolom 1 Lampiran Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan Dengan Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 132/PMK.03/2013, sehingga angka 10, 13, 17, 25, 26 dan 29 serta angka 40 sampai dengan angka 61 menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI KEUANGAN NOMOR 16/PMK.03/2013 TENTANG RINCIAN JENIS DATA DAN INFORMASI SERTA TATA CARA  PENYAMPAIAN DATA DAN INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN"
+   },
+   {
+    "id": "pmk-39-2016",
+    "key": [
+     "PMK",
+     "39",
+     "2016",
+     null
+    ],
+    "number_as_written": "39/PMK.03/2016",
+    "quote": "Mengubah angka 2, 28, 30, 37, 38, 40, 41, 54, 55, dan 59 serta menambah 6 (enam) angka yaitu angka 62 sampai dengan angka 67 pada kolom 1 Lampiran Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data Dan Informasi Serta Tata Cara Penyampaian Data Dan Informasi Yang Berkaitan Dengan Perpajakan sebagaimana telah diubah dengan: 1. Peraturan Menteri Keuangan Nomor 79/PMK.03/2013;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KELIMA ATAS PERATURAN MENTERI KEUANGAN NOMOR 16/PMK.03/2013 TENTANG RINCIAN JENIS DATA DAN INFORMASI SERTA TATA CARA PENYAMPAIAN DATA DAN INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN"
+   },
+   {
+    "id": "pmk-79-2013",
+    "key": [
+     "PMK",
+     "79",
+     "2013",
+     null
+    ],
+    "number_as_written": "79/PMK.03/2013",
+    "quote": "Mengubah kolom 1 angka 13 dan menambah 5 (lima) angka pada kolom 1 Lampiran Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan Dengan Perpajakan, sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 16/PMK.03/2013 TENTANG RINCIAN JENIS DATA DAN INFORMASI SERTA TATA CARA PENYAMPAIAN DATA DAN INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN"
+   },
+   {
+    "id": "pmk-95-2013",
+    "key": [
+     "PMK",
+     "95",
+     "2013",
+     null
+    ],
+    "number_as_written": "95/PMK.03/2013",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS  PERATURAN MENTERI KEUANGAN NOMOR  16/PMK.03/2013 TENTANG RINCIAN  JENIS DATA DAN  INFORMASI SERTA TATA CARA PENYAMPAIAN DATA DAN  INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-01-04",
+   "detail_error": null,
+   "number_as_written": "16/PMK.03/2013",
+   "retrieved_at": "2026-10-04T05:58:59+00:00",
+   "source": "DJP",
+   "title_as_written": "RINCIAN JENIS DATA DAN INFORMASI SERTA TATA CARA PENYAMPAIAN DATA DAN INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/rincian-jenis-data-dan-informasi-serta-tata-cara-penyampaian-data-dan-informasi-yang"
+  },
+  {
+   "date_as_written": "2013-01-04 00:00:00",
+   "number_as_written": "16/PMK.03/2013",
+   "retrieved_at": "2026-09-21T14:35:10+00:00",
+   "source": "JDIH",
+   "title_as_written": "Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2013"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=105",
+   "retrieved_at": "2026-10-03T03:11:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/rincian-jenis-data-dan-informasi-serta-tata-cara-penyampaian-data-dan-informasi-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=291",
+   "retrieved_at": "2026-09-21T14:35:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7282,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T05:58:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/rincian-jenis-data-dan-informasi-serta-tata-cara-penyampaian-data-dan-informasi-yang"
+ },
+ "title": "RINCIAN JENIS DATA DAN INFORMASI SERTA TATA CARA PENYAMPAIAN DATA DAN INFORMASI YANG BERKAITAN DENGAN PERPAJAKAN"
+}

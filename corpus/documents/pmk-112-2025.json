@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-112-2025",
  "identity": {
@@ -9,7 +19,38 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-112-2025--b000-1",
+  "pmk-112-2025--b001-2",
+  "pmk-112-2025--b002-3",
+  "pmk-112-2025--b003-4",
+  "pmk-112-2025--b004-5",
+  "pmk-112-2025--b005-6",
+  "pmk-112-2025--b006-7",
+  "pmk-112-2025--b007-8",
+  "pmk-112-2025--b008-9",
+  "pmk-112-2025--b009-10",
+  "pmk-112-2025--b010-11",
+  "pmk-112-2025--b011-12",
+  "pmk-112-2025--b012-13",
+  "pmk-112-2025--b013-14",
+  "pmk-112-2025--b014-15",
+  "pmk-112-2025--b015-16",
+  "pmk-112-2025--b016-17",
+  "pmk-112-2025--b017-18",
+  "pmk-112-2025--b018-19",
+  "pmk-112-2025--b019-20",
+  "pmk-112-2025--b020-21",
+  "pmk-112-2025--b021-22",
+  "pmk-112-2025--b022-23",
+  "pmk-112-2025--b023-24",
+  "pmk-112-2025--b024-25",
+  "pmk-112-2025--b025-26",
+  "pmk-112-2025--b026-27",
+  "pmk-112-2025--b027-28",
+  "pmk-112-2025--b028-29"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -20,8 +61,19 @@
  },
  "source_records": [
   {
+   "date_as_written": "2025-12-29",
+   "detail_error": null,
+   "number_as_written": "112 TAHUN 2025",
+   "retrieved_at": "2026-10-04T02:58:49+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerapan-persetujuan-penghindaran-pajak-berganda-2"
+  },
+  {
    "date_as_written": "2025-12-30 00:00:00",
    "number_as_written": "PMK 112 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T06:23:41+00:00",
    "retrieved_at": "2026-09-21T14:15:45+00:00",
    "selected_because": [
     "judul"
@@ -29,15 +81,24 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Penerapan Persetujuan Penghindaran Pajak Berganda",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-112-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-112-tahun-2025",
+   "validity_as_written": "31 Des 2025 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=5",
+   "retrieved_at": "2026-10-03T02:32:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerapan-persetujuan-penghindaran-pajak-berganda-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=7",
    "retrieved_at": "2026-09-21T14:15:45+00:00",
@@ -47,16 +108,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 54646,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-04T02:58:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerapan-persetujuan-penghindaran-pajak-berganda-2"
  },
- "title": "Tata Cara Penerapan Persetujuan Penghindaran Pajak Berganda"
+ "title": "TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA"
 }

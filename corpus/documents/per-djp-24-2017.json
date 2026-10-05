@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-24-2017",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "24",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-24-2017--b000-1",
+  "per-djp-24-2017--b001-2",
+  "per-djp-24-2017--b002-3",
+  "per-djp-24-2017--b003-4",
+  "per-djp-24-2017--b004-5",
+  "per-djp-24-2017--b005-6",
+  "per-djp-24-2017--b006-7",
+  "per-djp-24-2017--b007-8",
+  "per-djp-24-2017--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-27-2025",
+    "key": [
+     "PER-DJP",
+     "27",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-27/PJ/2025",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2017 tentang Petunjuk Pelaksanaan Pemberian Rekomendasi Terkait Akses Kepabeanan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN REKOMENDASI DAN/ATAU PERMOHONAN PEMBATASAN ATAU PEMBLOKIRAN LAYANAN PUBLIK TERTENTU DALAM RANGKA PENAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-11-27",
+   "detail_error": null,
+   "number_as_written": "PER-24/PJ/2017",
+   "retrieved_at": "2026-10-04T03:42:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMBERIAN REKOMENDASI TERKAIT AKSES KEPABEANAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemberian-rekomendasi-terkait-akses-kepabeanan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 27/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=60",
+   "retrieved_at": "2026-10-03T02:53:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemberian-rekomendasi-terkait-akses-kepabeanan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14331,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:42:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pemberian-rekomendasi-terkait-akses-kepabeanan"
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMBERIAN REKOMENDASI TERKAIT AKSES KEPABEANAN"
+}

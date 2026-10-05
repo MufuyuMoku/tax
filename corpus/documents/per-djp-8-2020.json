@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-8-2020",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-8-2020--b000-1",
   "per-djp-8-2020--b001-2",
@@ -40,10 +51,20 @@
    "title_as_written": "PENGHITUNGAN ANGSURAN PAJAK PENGHASILAN UNTUK TAHUN PAJAK BERJALAN SEHUBUNGAN DENGAN PENYESUAIAN TARIF PAJAK PENGHASILAN WAJIB PAJAK BADAN",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/penghitungan-angsuran-pajak-penghasilan-untuk-tahun-pajak-berjalan-sehubungan-dengan"
+  },
+  {
+   "date_as_written": "2020-04-21",
+   "detail_error": null,
+   "number_as_written": "PER-08/PJ/2020",
+   "retrieved_at": "2026-10-04T03:28:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHITUNGAN ANGSURAN PAJAK PENGHASILAN UNTUK TAHUN PAJAK BERJALAN SEHUBUNGAN DENGAN PENYESUAIAN TARIF PAJAK PENGHASILAN WAJIB PAJAK BADAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penghitungan-angsuran-pajak-penghasilan-untuk-tahun-pajak-berjalan-sehubungan-dengan"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },
@@ -55,6 +76,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penghitungan-angsuran-pajak-penghasilan-untuk-tahun-pajak-berjalan-sehubungan-dengan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=40",
+   "retrieved_at": "2026-10-03T02:46:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penghitungan-angsuran-pajak-penghasilan-untuk-tahun-pajak-berjalan-sehubungan-dengan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
   }
  ],
  "structure": "biasa",
@@ -62,7 +91,15 @@
   "available": true,
   "chars": 13404,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 13404,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-04T03:28:15+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/penghitungan-angsuran-pajak-penghasilan-untuk-tahun-pajak-berjalan-sehubungan-dengan"
+   }
+  ],
   "retrieved_at": "2026-09-22T00:40:40+00:00",
   "source": "DJP",
   "unavailable_reason": null,

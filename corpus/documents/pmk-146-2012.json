@@ -1,0 +1,126 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-146-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "146",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-146-2012--b000-1",
+  "pmk-146-2012--b001-2",
+  "pmk-146-2012--b002-3",
+  "pmk-146-2012--b003-4",
+  "pmk-146-2012--b004-5",
+  "pmk-146-2012--b005-6",
+  "pmk-146-2012--b006-7",
+  "pmk-146-2012--b007-8",
+  "pmk-146-2012--b008-9",
+  "pmk-146-2012--b009-10",
+  "pmk-146-2012--b010-11",
+  "pmk-146-2012--b011-12",
+  "pmk-146-2012--b012-13",
+  "pmk-146-2012--b013-14",
+  "pmk-146-2012--b014-15",
+  "pmk-146-2012--b015-16",
+  "pmk-146-2012--b016-17",
+  "pmk-146-2012--b017-18",
+  "pmk-146-2012--b018-19",
+  "pmk-146-2012--b019-20",
+  "pmk-146-2012--b020-21",
+  "pmk-146-2012--b021-22",
+  "pmk-146-2012--b022-23",
+  "pmk-146-2012--b023-24",
+  "pmk-146-2012--b024-25",
+  "pmk-146-2012--b025-26"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-238-2016",
+    "key": [
+     "PMK",
+     "238",
+     "2016",
+     null
+    ],
+    "number_as_written": "238/PMK.03/2016",
+    "quote": "Pasal I a. Keputusan Menteri Keuangan Nomor 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: … h. Peraturan Menteri Keuangan Nomor 146/PMK.03/2012 tentang Tata Cara Verifikasi (Berita Negara Republik Indonesia Tahun 2012 Nomor 903), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PERPAJAKAN MENIMBANG DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-09-10",
+   "detail_error": null,
+   "number_as_written": "146/PMK.03/2012",
+   "retrieved_at": "2026-10-04T06:50:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA VERIFIKASI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-verifikasi"
+  },
+  {
+   "date_as_written": "2012-09-10 00:00:00",
+   "number_as_written": "146/PMK.03/2012",
+   "retrieved_at": "2026-09-21T14:35:57+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Verifikasi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/146-pmk-03-2012"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=109",
+   "retrieved_at": "2026-10-03T03:13:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-verifikasi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=303",
+   "retrieved_at": "2026-09-21T14:35:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/146-pmk-03-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 34022,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:50:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-verifikasi"
+ },
+ "title": "TATA CARA VERIFIKASI"
+}

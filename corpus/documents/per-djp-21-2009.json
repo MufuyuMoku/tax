@@ -1,0 +1,126 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-21-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "21",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-21-2009--b000-1",
+  "per-djp-21-2009--b001-2",
+  "per-djp-21-2009--b002-3",
+  "per-djp-21-2009--b003-4",
+  "per-djp-21-2009--b004-5",
+  "per-djp-21-2009--b005-6",
+  "per-djp-21-2009--b006-7",
+  "per-djp-21-2009--b007-8",
+  "per-djp-21-2009--b008-9",
+  "per-djp-21-2009--b009-10",
+  "per-djp-21-2009--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 3. Peraturan Direktur Jenderal Pajak Nomor PER-21/PJ/2009 tentang Tata Cara Penyampaian Pemberitahuan Perpanjangan Surat Pemberitahuan Tahunan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "SE",
+     "4",
+     "1998",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-04/PJ.33/1998",
+    "quote": "Pasal 10 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, maka: 1. Surat Edaran Direktur Jenderal Pajak Nomor SE-04/PJ.33/1998 tentang Perpanjangan Jangka Waktu Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan. 2. Keputusan Direktur Jenderal Pajak dan Surat Edaran Direktur Jenderal Pajak serta Surat Penegasan, yang bertentangan dengan Peraturan Direktur Jenderal Pajak ini; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "se-4-1998"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-02",
+   "detail_error": null,
+   "number_as_written": "PER-21/PJ/2009",
+   "retrieved_at": "2026-10-05T01:52:39+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN PEMBERITAHUAN PERPANJANGAN SURAT PEMBERITAHUAN TAHUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-pemberitahuan-perpanjangan-surat-pemberitahuan-tahunan"
+  },
+  {
+   "date_as_written": "2009-03-02 00:00:00",
+   "number_as_written": "PerDJP 21/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penyampaian Pemberitahuan Perpanjangan Surat Pemberitahuan Tahunan.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-21-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=153",
+   "retrieved_at": "2026-10-03T03:28:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-pemberitahuan-perpanjangan-surat-pemberitahuan-tahunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=43",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-21-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10276,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:52:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-pemberitahuan-perpanjangan-surat-pemberitahuan-tahunan"
+ },
+ "title": "TATA CARA PENYAMPAIAN PEMBERITAHUAN PERPANJANGAN SURAT PEMBERITAHUAN TAHUNAN"
+}

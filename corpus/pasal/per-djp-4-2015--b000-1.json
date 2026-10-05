@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 2589,
+ "document_id": "per-djp-4-2015",
+ "document_number": "PER-04/PJ/2015",
+ "document_title": "PENGAMANAN TRANSAKSI ELEKTRONIK LAYANAN PAJAK ONLINE",
+ "id": "per-djp-4-2015--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini yang dimaksud dengan:\n1.\nTransaksi Elektronik adalah perbuatan hukum yang dilakukan dengan menggunakan komputer, jaringan komputer, dan/atau media elektronik lainnya.\n2.\nDJP\nOnline\nadalah suatu layanan yang ditujukan untuk Wajib Pajak melalui laman (\nwebsite\n) Direktorat Jenderal Pajak atau perangkat bergerak (\nmobile device\n).\n3.\ne-FIN adalah nomor identitas yang diterbitkan oleh Direktorat Jenderal Pajak kepada Wajib Pajak yang melakukan transaksi elektronik dengan Direktorat Jenderal Pajak.\n4.\nIdentitas Pengguna (\nusername\n) adalah identitas unik yang dimiliki oleh Wajib Pajak yang digunakan oleh Wajib Pajak sebagai salah satu alat autentikasi dalam penggunaan layanan elektronik yang ditunjuk atau disediakan oleh Direktorat Jenderal Pajak.\n5.\nSandi Lewat (\npassword\n) adalah serangkaian angka dan/atau huruf dan/atau karakter tertentu yang digunakan sebagai alat autentikasi Wajib Pajak dalam penggunaan layanan elektronik yang ditunjuk atau disediakan oleh Direktorat Jenderal Pajak.\n6.\nTanda Tangan Elektronik adalah tanda tangan yang terdiri atas informasi elektronik yang dilekatkan, terasosiasi atau terkait dengan informasi elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.\n7.\nSertifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam Transaksi Elektronik yang dikeluarkan oleh Direktorat Jenderal Pajak atau Penyelenggara Sertifikasi Elektronik.\n8.\nToken\nadalah serangkaian angka dan/atau huruf dan/atau karakter tertentu yang dikirimkan oleh sistem informasi Direktorat Jenderal Pajak melalui layanan pesan singkat dan/atau surat elektronik (\nemail\n) Wajib Pajak sebagai bentuk validasi transaksi elektronik yang dilakukan oleh Wajib Pajak dalam layanan elektronik yang ditunjuk atau disediakan oleh Direktorat Jenderal Pajak.\n9.\nSurat Pemberitahuan yang selanjutnya disebut SPT adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.\n10.\nSPT Elektronik adalah SPT dalam bentuk dokumen elektronik.\n11.\nPenyedia Layanan SPT Elektronik adalah pihak ketiga yang diberi wewenang oleh Direktur Jenderal Pajak untuk menyelenggarakan layanan yang berkaitan dengan proses penyampaian SPT Elektronik ke Direktorat Jenderal Pajak meliputi Penyedia Aplikasi SPT Elektronik dan Penyalur SPT Elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T04:04:18+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pengamanan-transaksi-elektronik-layanan-pajak-online"
+ }
+}

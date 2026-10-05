@@ -1,0 +1,24 @@
+{
+ "amendment_items": null,
+ "chars": 2029,
+ "document_id": "pmk-172-2023",
+ "document_number": "172 TAHUN 2023",
+ "document_title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+ "id": "pmk-172-2023--b010-11",
+ "label": "11",
+ "order": 10,
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 11\n(1)\nPembagian laba gabungan sebagaimana dimaksud dalam Pasal 10 ayat (4) dapat dilakukan di tingkat laba kotor atau laba operasi bersih.\n(2)\nTingkat laba gabungan yang dibagi sebagaimana dimaksud pada ayat (1) ditentukan oleh tingkat integrasi fungsi, penggunaan aset, dan/atau pembagian risiko bisnis yang signifikan secara ekonomi dari para pihak yang bertransaksi dalam Transaksi yang Dipengaruhi Hubungan Istimewa.\n(3)\nLaba gabungan sebagaimana dimaksud pada ayat (1) dapat dibagi dengan menggunakan:\na.\npendekatan berbasis kontribusi (\ncontribution analysis\n); atau\nb.\npendekatan berbasis laba residu (\nresidual analysis\n).\n(4)\nPendekatan berbasis kontribusi (\ncontribution analysis\n) sebagaimana dimaksud pada ayat (3) huruf a dilakukan dengan membagi laba gabungan sebagaimana dimaksud pada ayat (2) berdasarkan faktor pembagi.\n(5)\nPendekatan berbasis laba residu (\nresidual analysis\n) sebagaimana dimaksud pada ayat (3) huruf b dilakukan dengan memisahkan laba gabungan sebagaimana dimaksud pada ayat (1) menjadi:\na.\nlaba yang berasal dari kontribusi masing-masing pihak yang bertransaksi yang dapat diperoleh secara andal pembandingnya dalam Transaksi Independen; dan\nb.\nsisa laba gabungan setelah dikurangi laba sebagaimana dimaksud dalam huruf a, yang dapat bernilai positif ataupun negatif.\n(6)\nSisa laba gabungan sebagaimana dimaksud pada ayat (5) huruf b dibagi berdasarkan faktor pembagi.\n(7)\nFaktor pembagi sebagaimana dimaksud pada ayat (4) dan ayat (6) dapat berupa:\na.\npersentase pembagian laba oleh pihak-pihak dalam Transaksi Independen yang sebanding; atau\nb.\nyang bertransaksi dalam Transaksi yang Dipengaruhi Hubungan Istimewa, dalam hal data sebagaimana dimaksud dalam huruf a tidak tersedia.\n(8)\nFaktor pembagi sebagaimana dimaksud pada ayat (7) harus memenuhi kriteria sebagai berikut:\na.\nterbebas dari Transaksi yang Dipengaruhi Hubungan Istimewa;\nb.\ndapat diverifikasi; dan\nc.\ndidukung oleh data pembanding atau data internal pihak-pihak yang bertransaksi dan/atau data lainnya yang relevan.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ }
+}

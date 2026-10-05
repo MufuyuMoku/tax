@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 513,
+ "document_id": "per-djp-18-2020",
+ "document_number": "PER-18/PJ/2020",
+ "document_title": "TATA KELOLA SITUS WEB DIREKTORAT JENDERAL PAJAK",
+ "id": "per-djp-18-2020--b007-8",
+ "label": "8",
+ "order": 7,
+ "quality_flags": [
+  "urutan_loncat:15->17"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 8\n(1)\nImplementasi fitur baru maupun pembaruan perangkat lunak pada infrastruktur produksi yang mendukung operasional Situs Web DJP dilakukan oleh Administrator Peladen dengan bantuan Pengembang Situs Web DUP.\n(2)\nDalam hal pembaruan dilakukan atas dasar keadaan mendesak yang menyebabkan gangguan pada Situs Web DJP sebagaimana dimaksud dalam Pasal 5 ayat (3) huruf b, maka implementasi sebagaimana dimaksud pada ayat (1) diselesaikan selambat-lambatnya 48 (empat puluh delapan) jam sejak gangguan terjadi.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:22:03+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-kelola-situs-web-direktorat-jenderal-pajak"
+ }
+}

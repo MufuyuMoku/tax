@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "perpres-77-2019",
+ "identity": {
+  "code": "PERPRES",
+  "number": "77",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "perpres-77-2019--b000-1",
+  "perpres-77-2019--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-11-12",
+   "detail_error": null,
+   "number_as_written": "77 TAHUN 2019",
+   "retrieved_at": "2026-10-04T03:34:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGESAHAN MULTILATERAL CONVENTION TO IMPLEMENT TAX TREATY RELATED MEASURES TO PREVENT BASE EROSION AND PROFIT SHIFTING (KONVENSI MULTILATERAL UNTUK MENERAPKAN TINDAKAN-TINDAKAN TERKAIT DENGAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA UNTUK MENCEGAH PENGGERUSAN BASIS PEMAJAKAN DAN PENGGESERAN LABA)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-multilateral-convention-implement-tax-treaty-related-measures-prevent-base"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=46",
+   "retrieved_at": "2026-10-03T02:49:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-multilateral-convention-implement-tax-treaty-related-measures-prevent-base",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3919,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:34:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengesahan-multilateral-convention-implement-tax-treaty-related-measures-prevent-base"
+ },
+ "title": "PENGESAHAN MULTILATERAL CONVENTION TO IMPLEMENT TAX TREATY RELATED MEASURES TO PREVENT BASE EROSION AND PROFIT SHIFTING (KONVENSI MULTILATERAL UNTUK MENERAPKAN TINDAKAN-TINDAKAN TERKAIT DENGAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA UNTUK MENCEGAH PENGGERUSAN BASIS PEMAJAKAN DAN PENGGESERAN LABA)"
+}

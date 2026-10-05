@@ -8,6 +8,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/KEBIJAKAN%20PERPAJAKAN%20SEHUBUNGAN%20DENGAN%20IMPLEMENTASI%20SISTEM%20INTI%20ADMINISTRASI%20PERPAJAKAN%20DALAM%20RANGKA%20PENYAMPAIAN%20SURAT%20PEMBERITAHUAN%20TAHUNAN%20PAJAK%20PEN.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-55-2026",
  "identity": {
@@ -17,6 +27,7 @@
   "year": "2026"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-55-2026--b000-kesatu",
   "kep-djp-55-2026--b001-kedua",
@@ -47,7 +58,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-202-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "202",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-202-2015--b000-i",
+  "pmk-202-2015--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "9",
+     "2013",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-9-2013"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-118-2024",
+    "key": [
+     "PMK",
+     "118",
+     "2024",
+     null
+    ],
+    "number_as_written": "118 TAHUN 2024",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan (Berita Negara Republik Indonesia Tahun 2013 Nomor 12) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 202/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan (Berita Negara Republik Indonesia Tahun 2015 Nomor 1704); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-11",
+   "detail_error": null,
+   "number_as_written": "202/PMK.03/2015",
+   "retrieved_at": "2026-10-04T03:52:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2013 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032013-tentang-tata-cara-pengajuan"
+  },
+  {
+   "date_as_written": "2015-11-11 00:00:00",
+   "number_as_written": "202/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:30:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 118/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=71",
+   "retrieved_at": "2026-10-03T02:57:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032013-tentang-tata-cara-pengajuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=222",
+   "retrieved_at": "2026-09-21T14:30:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5962,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:52:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032013-tentang-tata-cara-pengajuan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2013 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN"
+}

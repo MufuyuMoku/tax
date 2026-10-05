@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-237-2020",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "237",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-237-2020--b000-kedua",
+  "kep-djp-237-2020--b001-ketiga",
+  "kep-djp-237-2020--b002-keempat",
+  "kep-djp-237-2020--b003-kelima",
+  "kep-djp-237-2020--b004-keenam",
+  "kep-djp-237-2020--b005-ketujuh",
+  "kep-djp-237-2020--b006-kedelapan",
+  "kep-djp-237-2020--b007-kesembilan",
+  "kep-djp-237-2020--b008-kesepuluh"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-05-13",
+   "detail_error": null,
+   "number_as_written": "KEP-237/PJ/2020",
+   "retrieved_at": "2026-10-04T03:26:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERBITAN NOMOR POKOK WAJIB PAJAK DAN/ATAU PENGUKUHAN PENGUSAHA KENA PAJAK BAGI INSTANSI PEMERINTAH PUSAT DAN INSTANSI PEMERINTAH DESA SECARA JABATAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penerbitan-nomor-pokok-wajib-pajak-danatau-pengukuhan-pengusaha-kena-pajak-bagi-instansi"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=39",
+   "retrieved_at": "2026-10-03T02:46:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penerbitan-nomor-pokok-wajib-pajak-danatau-pengukuhan-pengusaha-kena-pajak-bagi-instansi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5083,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:26:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/index.php/id/peraturan/penerbitan-nomor-pokok-wajib-pajak-danatau-pengukuhan-pengusaha-kena-pajak-bagi-instansi"
+ },
+ "title": "PENERBITAN NOMOR POKOK WAJIB PAJAK DAN/ATAU PENGUKUHAN PENGUSAHA KENA PAJAK BAGI INSTANSI PEMERINTAH PUSAT DAN INSTANSI PEMERINTAH DESA SECARA JABATAN"
+}

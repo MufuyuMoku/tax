@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-17-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "17",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-17-2021--b000-1",
+  "per-djp-17-2021--b001-2",
+  "per-djp-17-2021--b002-3",
+  "per-djp-17-2021--b003-4",
+  "per-djp-17-2021--b004-5",
+  "per-djp-17-2021--b005-6",
+  "per-djp-17-2021--b006-7",
+  "per-djp-17-2021--b007-8",
+  "per-djp-17-2021--b008-9",
+  "per-djp-17-2021--b009-10",
+  "per-djp-17-2021--b010-11",
+  "per-djp-17-2021--b011-12",
+  "per-djp-17-2021--b012-13",
+  "per-djp-17-2021--b013-14",
+  "per-djp-17-2021--b014-15",
+  "per-djp-17-2021--b015-16",
+  "per-djp-17-2021--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-5-2024",
+    "key": [
+     "PER-DJP",
+     "5",
+     "2024",
+     null
+    ],
+    "number_as_written": "5/PJ/2024",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan dan/atau Pemungutan Pajak, serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa bagi Instansi Pemerintah, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-17/PJ/2021 TENTANG BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK, SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA BAGI INSTANSI PEMERINTAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 18. Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2021 tentang Bentuk dan Tata Cara Pembuatan Bukti Pemotongan dan/atau Pemungutan Pajak, serta Bentuk, Isi, Tata Cara Pengisian, dan Penyampaian Surat Pemberitahuan Masa bagi Instansi Pemerintah; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-08-18",
+   "detail_error": null,
+   "number_as_written": "PER-17/PJ/2021",
+   "retrieved_at": "2026-10-04T03:14:27+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK, SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA BAGI INSTANSI PEMERINTAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pembuatan-bukti-pemotongan-danatau-pemungutan-pajak-serta-bentuk-isi"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=27",
+   "retrieved_at": "2026-10-03T02:42:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pembuatan-bukti-pemotongan-danatau-pemungutan-pajak-serta-bentuk-isi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 43005,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:14:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pembuatan-bukti-pemotongan-danatau-pemungutan-pajak-serta-bentuk-isi"
+ },
+ "title": "BENTUK DAN TATA CARA PEMBUATAN BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK, SERTA BENTUK, ISI, TATA CARA PENGISIAN, DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA BAGI INSTANSI PEMERINTAH"
+}

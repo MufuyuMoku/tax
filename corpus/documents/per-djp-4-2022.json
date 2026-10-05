@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PER04PJ2022_0.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-4-2022",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2022"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-4-2022--b000-1",
   "per-djp-4-2022--b001-2",
@@ -42,6 +49,20 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KELIMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022 TENTANG BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+   },
+   {
+    "id": "per-djp-3-2023",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2023",
+     null
+    ],
+    "number_as_written": "PER-3/PJ/2023",
+    "quote": "Ketentuan dalam Lampiran Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2022 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2022 tentang Badan atau Lembaga yang Dibentuk atau Disahkan oleh Pemerintah yang Ditetapkan sebagai Penerima Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan dari Penghasilan Bruto diubah sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022 TENTANG BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
    },
    {
     "id": "per-djp-3-2024",

@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2014--b000-1",
+  "per-djp-3-2014--b001-2",
+  "per-djp-3-2014--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "40",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-40/PJ/2009",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-40/PJ/2009 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pajak bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-40-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-02-03",
+   "detail_error": null,
+   "number_as_written": "PER-03/PJ/2014",
+   "retrieved_at": "2026-10-04T04:18:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-40/PJ/2009 TENTANG TATA CARA PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK BAGI WAJIB PAJAK YANG MEMENUHI PERSYARATAN TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-40pj2009-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=93",
+   "retrieved_at": "2026-10-03T03:05:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-40pj2009-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3914,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:18:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-40pj2009-tentang-tata-cara"
+ },
+ "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-40/PJ/2009 TENTANG TATA CARA PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK BAGI WAJIB PAJAK YANG MEMENUHI PERSYARATAN TERTENTU"
+}

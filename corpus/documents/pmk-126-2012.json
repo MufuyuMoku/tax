@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-126-2012",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2012"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-126-2012--b000-i",
   "pmk-126-2012--b001-ii"

@@ -1,0 +1,110 @@
+{
+ "attachments": [
+  {
+   "file_name": "PENETAPAN JENIS BARANG EKSPOR SUMBER DAYA ALAM DENGAN KEWAJIBAN MEMASUKKAN DEVISA HASIL EKSPOR KE DALAM SISTEM KEUANGAN INDONESIA.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/PENETAPAN%20JENIS%20BARANG%20EKSPOR%20SUMBER%20DAYA%20ALAM%20DENGAN%20KEWAJIBAN%20MEMASUKKAN%20DEVISA%20HASIL%20EKSPOR%20KE%20DALAM%20SISTEM%20KEUANGAN%20INDONESIA.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-272-2023",
+ "identity": {
+  "code": "KMK",
+  "number": "272",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-272-2023--b000-kesatu",
+  "kmk-272-2023--b001-kedua",
+  "kmk-272-2023--b002-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "744/KM.4",
+     "2020",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 744/KM.4/2020",
+    "quote": "KEDUA : Pada saat Keputusan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 744/KM.4/2020 tentang Penetapan Barang Ekspor Sumber Daya Alam dengan Kewajiban Memasukkan Devisa Hasil Ekspor ke dalam Sistem Keuangan Indonesia, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-744-km-4-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-07-27",
+   "detail_error": null,
+   "number_as_written": "272 TAHUN 2023",
+   "retrieved_at": "2026-10-04T03:08:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN JENIS BARANG EKSPOR SUMBER DAYA ALAM DENGAN KEWAJIBAN MEMASUKKAN DEVISA HASIL EKSPOR KE DALAM SISTEM KEUANGAN INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-barang-ekspor-sumber-daya-alam-dengan-kewajiban-memasukkan-devisa-hasil"
+  },
+  {
+   "date_as_written": "2023-07-27 00:00:00",
+   "number_as_written": "KMK 272 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:47:54+00:00",
+   "source": "JDIH",
+   "title_as_written": "\n\nPenetapan Jenis Barang Ekspor Sumber Daya Alam dengan Kewajiban Memasukkan Devisa Hasil Ekspor ke dalam Sistem Keuangan Indonesia",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/kmk-272-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=16",
+   "retrieved_at": "2026-10-03T02:38:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-barang-ekspor-sumber-daya-alam-dengan-kewajiban-memasukkan-devisa-hasil",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=14",
+   "retrieved_at": "2026-09-21T14:47:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kmk-272-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5378,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:08:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-barang-ekspor-sumber-daya-alam-dengan-kewajiban-memasukkan-devisa-hasil"
+ },
+ "title": "PENETAPAN JENIS BARANG EKSPOR SUMBER DAYA ALAM DENGAN KEWAJIBAN MEMASUKKAN DEVISA HASIL EKSPOR KE DALAM SISTEM KEUANGAN INDONESIA"
+}

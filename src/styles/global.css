@@ -186,6 +186,12 @@ a {
   border-left-color: var(--warn-line);
 }
 
+.kartu-asal {
+  margin: 0.15rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
 .kartu-tanda {
   display: flex;
   flex-wrap: wrap;

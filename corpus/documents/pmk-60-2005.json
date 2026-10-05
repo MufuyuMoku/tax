@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-60-2005",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2005"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-60-2005--b000-1",
   "pmk-60-2005--b001-2",
@@ -31,7 +38,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-47-2009",
+    "key": [
+     "PMK",
+     "47",
+     "2009",
+     null
+    ],
+    "number_as_written": "47/PMK.04/2009",
+    "quote": "Pasal 66 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 60/PMK.04/2005 tentang Tempat Penimbunan Berikat di Pulau Batam, Bintan, dan Karimun sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 89/PMK.04/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN YANG TELAH DITUNJUK SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -48,7 +70,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

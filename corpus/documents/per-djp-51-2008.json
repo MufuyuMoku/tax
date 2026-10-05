@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-51-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "51",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-51-2008--b000-1",
+  "per-djp-51-2008--b001-2",
+  "per-djp-51-2008--b002-3",
+  "per-djp-51-2008--b003-4",
+  "per-djp-51-2008--b004-5",
+  "per-djp-51-2008--b005-6",
+  "per-djp-51-2008--b006-7",
+  "per-djp-51-2008--b007-8",
+  "per-djp-51-2008--b008-9",
+  "per-djp-51-2008--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-20-2013",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-20/PJ/2013",
+    "quote": "… g. Peraturan Direktur Jenderal Pajak Nomor PER-51/PJ/2008 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak bagi Anggota Keluarga; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "78",
+     "1990",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-78/PJ.41/1990",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku maka: … Keputusan Direktur Jenderal Pajak Nomor KEP-78/PJ.41/1990 tentang Pemberian Nomor Pokok Wajib Pajak (NPWP) kepada Isteri Wajib Pajak yang Melakukan Kegiatan Usaha dan Atau Pekerjaan Bebas dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-78-1990"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "PER-51/PJ/2008",
+   "retrieved_at": "2026-10-05T02:00:02+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN NPWP BAGI ANGGOTA KELUARGA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-bagi-anggota-keluarga"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=158",
+   "retrieved_at": "2026-10-03T03:29:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-bagi-anggota-keluarga",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9770,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:00:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-bagi-anggota-keluarga"
+ },
+ "title": "TATA CARA PENDAFTARAN NPWP BAGI ANGGOTA KELUARGA"
+}

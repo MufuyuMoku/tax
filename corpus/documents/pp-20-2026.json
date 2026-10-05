@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-20-2026",
  "identity": {
@@ -22,6 +28,7 @@
    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 55 TAHUN 2022 TENTANG PENYESUAIAN PENGATURAN DI BIDANG PAJAK PENGHASILAN"
   }
  ],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -46,7 +53,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

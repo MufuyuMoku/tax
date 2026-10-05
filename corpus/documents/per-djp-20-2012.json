@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-20-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "20",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-20-2012--b000-i",
+  "per-djp-20-2012--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-09-11",
+   "detail_error": null,
+   "number_as_written": "PER-20/PJ/2012",
+   "retrieved_at": "2026-10-04T06:50:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-05/PJ/2012 TENTANG REGISTRASI ULANG PENGUSAHA KENA PAJAK TAHUN 2012",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-05pj2012-tentang-registrasi-ulang"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=109",
+   "retrieved_at": "2026-10-03T03:13:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-05pj2012-tentang-registrasi-ulang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4284,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:50:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-05pj2012-tentang-registrasi-ulang"
+ },
+ "title": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-05/PJ/2012 TENTANG REGISTRASI ULANG PENGUSAHA KENA PAJAK TAHUN 2012"
+}

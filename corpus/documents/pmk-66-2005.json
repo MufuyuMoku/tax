@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-66-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "66",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-66-2005--b000-i",
+  "pmk-66-2005--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "5",
+     "2005",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 05/PMK.03/2005",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 05/PMK.03/2005 tentang Tata Cara Pembayaran Kembali Kelebihan Pembayaran Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-5-2005"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-08-02",
+   "detail_error": null,
+   "number_as_written": "66/PMK.03/2005",
+   "retrieved_at": "2026-10-05T06:17:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 05/PMK.03/2005 TENTANG TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-05pmk032005-tentang-tata-cara-pembayaran"
+  },
+  {
+   "date_as_written": "2005-08-02 00:00:00",
+   "number_as_written": "66/PMK.03/2005",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan No.05/PMK.03/2005 tentang Tata Cara Pembayaran Kembali Kelebihan Pembayaran Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2005"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=198",
+   "retrieved_at": "2026-10-03T03:46:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-05pmk032005-tentang-tata-cara-pembayaran",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=462",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7350,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:17:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-05pmk032005-tentang-tata-cara-pembayaran"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 05/PMK.03/2005 TENTANG TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK"
+}

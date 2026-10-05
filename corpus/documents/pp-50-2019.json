@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-50-2019",
+ "identity": {
+  "code": "PP",
+  "number": "50",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-50-2019--b000-1",
+  "pp-50-2019--b001-2",
+  "pp-50-2019--b002-3",
+  "pp-50-2019--b003-4",
+  "pp-50-2019--b004-5",
+  "pp-50-2019--b005-6",
+  "pp-50-2019--b006-7",
+  "pp-50-2019--b007-8",
+  "pp-50-2019--b008-9",
+  "pp-50-2019--b009-10",
+  "pp-50-2019--p010-1",
+  "pp-50-2019--p011-2",
+  "pp-50-2019--p012-3",
+  "pp-50-2019--p013-4",
+  "pp-50-2019--p014-5",
+  "pp-50-2019--p015-6",
+  "pp-50-2019--p016-7",
+  "pp-50-2019--p017-8",
+  "pp-50-2019--p018-9",
+  "pp-50-2019--p019-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "69",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 69 Tahun 2015",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 69 Tahun 2015 tentang tentang Impor dan Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 211, Tambahan Lembaran Negara Republik Indonesia Nomor 5739), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-69-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-07-04",
+   "detail_error": null,
+   "number_as_written": "50 TAHUN 2019",
+   "retrieved_at": "2026-10-04T03:36:17+00:00",
+   "source": "DJP",
+   "title_as_written": "IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU SERTA PENYERAHAN DAN PEMANFAATAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-penyerahan-alat-angkutan-tertentu-serta-penyerahan-dan-pemanfaatan-jasa-kena"
+  },
+  {
+   "date_as_written": "2019-07-04 00:00:00",
+   "number_as_written": "PP 50 TAHUN 2019",
+   "retrieved_at": "2026-09-21T14:06:35+00:00",
+   "source": "JDIH",
+   "title_as_written": "Impor dan Penyerahan Alat Angkutan Tertentu Serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-50-tahun-2019"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=50",
+   "retrieved_at": "2026-10-03T02:50:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-penyerahan-alat-angkutan-tertentu-serta-penyerahan-dan-pemanfaatan-jasa-kena",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=15",
+   "retrieved_at": "2026-09-21T14:06:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-50-tahun-2019",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16003,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:36:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/impor-dan-penyerahan-alat-angkutan-tertentu-serta-penyerahan-dan-pemanfaatan-jasa-kena"
+ },
+ "title": "IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU SERTA PENYERAHAN DAN PEMANFAATAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI"
+}

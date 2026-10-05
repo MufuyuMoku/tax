@@ -8,6 +8,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran_237PMK0102020.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-237-2020",
  "identity": {
@@ -17,6 +27,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-237-2020--b000-1",
   "pmk-237-2020--b001-2",
@@ -48,10 +59,19 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0"
+  },
+  {
+   "date_as_written": "2020-12-30 00:00:00",
+   "number_as_written": "237/PMK.010/2020",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/237-pmk-010-2020"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -63,6 +83,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=97",
+   "retrieved_at": "2026-09-21T14:21:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/237-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

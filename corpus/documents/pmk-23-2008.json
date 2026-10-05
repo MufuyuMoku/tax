@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-23-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "23",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-23-2008--b000-1",
+  "pmk-23-2008--b001-2",
+  "pmk-23-2008--b002-3",
+  "pmk-23-2008--b003-4",
+  "pmk-23-2008--b004-5",
+  "pmk-23-2008--b005-6",
+  "pmk-23-2008--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-83-2010",
+    "key": [
+     "PMK",
+     "83",
+     "2010",
+     null
+    ],
+    "number_as_written": "83/PMK.03/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 23/PMK.03/2008 tentang Tata Cara Penerbitan Surat Ketetapan Pajak, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 23/PMK.03/2008 TENTANG TATA CARA PENERBITAN SURAT KETETAPAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-145-2012",
+    "key": [
+     "PMK",
+     "145",
+     "2012",
+     null
+    ],
+    "number_as_written": "145/PMK.03/2012",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 23/PMK.03/2008 tentang Tata Cara Penerbitan Surat Ketetapan Pajak; c. Peraturan Menteri Keuangan Nomor 83/PMK.03/2010 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 23/PMK.03/2008 tentang Tata Cara Penerbitan Surat Ketetapan Pajak; dan d. Peraturan Menteri Keuangan Nomor 84/PMK.03/2010 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 189/PMK.03/2007 tentang Tata Cara Penerbitan Surat Tagihan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-02-06",
+   "detail_error": null,
+   "number_as_written": "23/PMK.03/2008",
+   "retrieved_at": "2026-10-05T02:21:14+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-ketetapan-pajak"
+  },
+  {
+   "date_as_written": "2008-02-06 00:00:00",
+   "number_as_written": "23/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penerbitan Surat Ketetapan Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=173",
+   "retrieved_at": "2026-10-03T03:35:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-ketetapan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=417",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7485,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:21:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-ketetapan-pajak"
+ },
+ "title": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK"
+}

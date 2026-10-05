@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-136-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "136",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-136-2023--b000-i",
+  "pmk-136-2023--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "112",
+     "2022",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 112/PMK.03/2022",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 112/PMK.03/2022 tentang Nomor Pokok Wajib Pajak bagi Wajib Pajak Orang Pribadi, Wajib Pajak Badan, dan Wajib Pajak Instansi Pemerintah (Berita Negara Republik Indonesia Tahun 2022 Nomor 660) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-112-2022"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-08",
+   "detail_error": null,
+   "number_as_written": "136 TAHUN 2023",
+   "retrieved_at": "2026-10-04T03:06:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 112/PMK.03/2022 TENTANG NOMOR POKOK WAJIB PAJAK BAGI WAJIB PAJAK ORANG PRIBADI, WAJIB PAJAK BADAN, DAN WAJIB PAJAK INSTANSI PEMERINTAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-112pmk032022-tentang-nomor-pokok-wajib"
+  },
+  {
+   "date_as_written": "2023-12-08 00:00:00",
+   "number_as_written": "PMK 136 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:17:44+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Atas Peraturan Menteri Keuangan Nomor 112/PMK.03/2022 tentang Nomor Pokok Wajib Pajak Orang Pribadi, Wajib Pajak Badan, dan Wajib Pajak Instansi Pemerintah",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-136-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=14",
+   "retrieved_at": "2026-10-03T02:37:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-112pmk032022-tentang-nomor-pokok-wajib",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:17:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-136-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 12852,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:06:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-112pmk032022-tentang-nomor-pokok-wajib"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 112/PMK.03/2022 TENTANG NOMOR POKOK WAJIB PAJAK BAGI WAJIB PAJAK ORANG PRIBADI, WAJIB PAJAK BADAN, DAN WAJIB PAJAK INSTANSI PEMERINTAH"
+}

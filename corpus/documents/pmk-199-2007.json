@@ -1,0 +1,189 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-199-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "199",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-199-2007--b000-1",
+  "pmk-199-2007--b001-2",
+  "pmk-199-2007--b002-3",
+  "pmk-199-2007--b003-4",
+  "pmk-199-2007--b004-5",
+  "pmk-199-2007--b005-6",
+  "pmk-199-2007--b006-7",
+  "pmk-199-2007--b007-8",
+  "pmk-199-2007--b008-9",
+  "pmk-199-2007--b009-10",
+  "pmk-199-2007--b010-11",
+  "pmk-199-2007--b011-12",
+  "pmk-199-2007--b012-13",
+  "pmk-199-2007--b013-14",
+  "pmk-199-2007--b014-15",
+  "pmk-199-2007--b015-16",
+  "pmk-199-2007--b016-17",
+  "pmk-199-2007--b017-18",
+  "pmk-199-2007--b018-19",
+  "pmk-199-2007--b019-20",
+  "pmk-199-2007--b020-21",
+  "pmk-199-2007--b021-22",
+  "pmk-199-2007--b022-23",
+  "pmk-199-2007--b023-24",
+  "pmk-199-2007--b024-25",
+  "pmk-199-2007--b025-26",
+  "pmk-199-2007--b026-27",
+  "pmk-199-2007--b027-28",
+  "pmk-199-2007--b028-29",
+  "pmk-199-2007--b029-30",
+  "pmk-199-2007--b030-31",
+  "pmk-199-2007--b031-32",
+  "pmk-199-2007--b032-33",
+  "pmk-199-2007--b033-34",
+  "pmk-199-2007--b034-35",
+  "pmk-199-2007--b035-36",
+  "pmk-199-2007--b036-37",
+  "pmk-199-2007--b037-38",
+  "pmk-199-2007--b038-39",
+  "pmk-199-2007--b039-40",
+  "pmk-199-2007--b040-41",
+  "pmk-199-2007--b041-42",
+  "pmk-199-2007--b042-43",
+  "pmk-199-2007--b043-44",
+  "pmk-199-2007--b044-45",
+  "pmk-199-2007--b045-46",
+  "pmk-199-2007--b046-47"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-82-2011",
+    "key": [
+     "PMK",
+     "82",
+     "2011",
+     null
+    ],
+    "number_as_written": "82/PMK.03/2011",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 199/PMK.03/2007 TENTANG TATA CARA PEMERIKSAAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-17-2013",
+    "key": [
+     "PMK",
+     "17",
+     "2013",
+     null
+    ],
+    "number_as_written": "17/PMK.03/2013",
+    "quote": "Pasal 95 Pada saat Peraturan Menteri ini berlaku: … c. Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak; d. Peraturan Menteri Keuangan Nomor 82/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMERIKSAAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "545/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 545/KMK.04/2000",
+    "quote": "Pasal 46 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Terhadap Surat Perintah Pemeriksaan yang diterbitkan sebelum tanggal 1 Januari 2008 dan sampai dengan berlakunya Peraturan Menteri Keuangan ini belum selesai, Pemeriksaannya tetap dilakukan berdasarkan Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tata Cara Pemeriksaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.03/2006. 2. Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tata Cara Pemeriksaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.03/2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-545-kmk-04-2000"
+   },
+   {
+    "key": [
+     "PMK",
+     "123",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 123/PMK.03/2006",
+    "quote": "Pasal 46 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Terhadap Surat Perintah Pemeriksaan yang diterbitkan sebelum tanggal 1 Januari 2008 dan sampai dengan berlakunya Peraturan Menteri Keuangan ini belum selesai, Pemeriksaannya tetap dilakukan berdasarkan Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tata Cara Pemeriksaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.03/2006. 2. Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tata Cara Pemeriksaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.03/2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-123-2006"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "199/PMK.03/2007",
+   "retrieved_at": "2026-10-05T02:25:24+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-pajak-0"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "199/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Pemeriksaan Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=175",
+   "retrieved_at": "2026-10-03T03:35:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-pajak-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=420",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 60375,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:25:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-pajak-0"
+ },
+ "title": "TATA CARA PEMERIKSAAN PAJAK"
+}

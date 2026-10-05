@@ -14,6 +14,7 @@ export function startSearch({ base }) {
   const input = document.getElementById("q");
   const selects = {
     jenis: document.getElementById("jenis"),
+    kategori: document.getElementById("kategori"),
     dari: document.getElementById("dari"),
     sampai: document.getElementById("sampai"),
     status: document.getElementById("status"),
@@ -86,6 +87,7 @@ export function startSearch({ base }) {
   function filters() {
     return {
       codes: selects.jenis.value ? [selects.jenis.value] : null,
+      category: selects.kategori.value || null,
       statuses: selects.status.value ? [selects.status.value] : null,
       from: Number(selects.dari.value) || null,
       to: Number(selects.sampai.value) || null,
@@ -123,6 +125,7 @@ export function startSearch({ base }) {
       const show =
         f.source !== "pribadi" &&
         (!f.codes || f.codes.includes(card.dataset.code)) &&
+        (!f.category || card.dataset.kategori.split(" ").includes(f.category)) &&
         (!f.statuses || f.statuses.includes(card.dataset.statusValue)) &&
         (!f.from || year >= f.from) &&
         (!f.to || year <= f.to);
@@ -265,6 +268,7 @@ export function startSearch({ base }) {
     const head = el("p", "kartu-nomor");
     head.append(link(`${base}dokumen/${item.id}/`, item.label), el("span", "jenis", typeLabel(item.code)));
     li.append(head, el("p", "kartu-judul", item.title));
+    if (item.categoryNote) li.append(el("p", "kartu-asal", item.categoryNote));
 
     const tags = el("p", "kartu-tanda");
     tags.append(el("span", `tanda status-${item.status}`, statusLabel(item.status, true)));

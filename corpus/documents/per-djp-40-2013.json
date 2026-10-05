@@ -1,0 +1,92 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-40-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "40",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-40-2013--b000-1",
+  "per-djp-40-2013--b001-2",
+  "per-djp-40-2013--b002-3",
+  "per-djp-40-2013--b003-4",
+  "per-djp-40-2013--b004-5",
+  "per-djp-40-2013--b005-6",
+  "per-djp-40-2013--b006-7",
+  "per-djp-40-2013--b007-8",
+  "per-djp-40-2013--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-30-2016",
+    "key": [
+     "PER-DJP",
+     "30",
+     "2016",
+     null
+    ],
+    "number_as_written": "PER-30/PJ/2016",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-40/PJ/2013 tentang Pengawasan Pengusaha Kena Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2014 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-40/PJ/2013 TENTANG PENGAWASAN PENGUSAHA KENA PAJAK SEBAGAIMANA TELAH DIUBAH DENGAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-30/PJ/2014"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-11-26",
+   "detail_error": null,
+   "number_as_written": "PER-40/PJ/2013",
+   "retrieved_at": "2026-10-04T04:20:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAWASAN PENGUSAHA KENA PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengawasan-pengusaha-kena-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=95",
+   "retrieved_at": "2026-10-03T03:06:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengawasan-pengusaha-kena-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10461,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:20:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengawasan-pengusaha-kena-pajak"
+ },
+ "title": "PENGAWASAN PENGUSAHA KENA PAJAK"
+}

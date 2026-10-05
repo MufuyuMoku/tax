@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1313,
+ "document_id": "per-djp-5-2015",
+ "document_number": "PER-05/PJ/2015",
+ "document_title": "PENYEDIA LAYANAN SURAT PEMBERITAHUAN ELEKTRONIK",
+ "id": "per-djp-5-2015--b005-6",
+ "label": "6",
+ "order": 5,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 6\n(1)\nPenyalur SPT Elektronik menyediakan layanan untuk menyalurkan SPT Elektronik ke Direktorat Jenderal Pajak.\n(2)\nPenyalur SPT Elektronik harus menyediakan perangkat keras, perangkat lunak, dan jaringan komunikasi data yang dibutuhkan untuk mendukung operasional layanan.\n(3)\nPenyalur SPT Elektronik dapat menyediakan layanan setelah berhasil melalui uji kompatibilitas dengan sistem informasi Direktorat Jenderal Pajak yang dituangkan dalam suatu berita acara.\n(4)\nPenyalur SPT Elektronik mempunyai kewajiban sebagai berikut:\na.\nmenjamin kerahasiaan data SPT Elektronik Wajib Pajak;\nb.\nmenjamin ketersediaan layanan;\nc.\nmenjamin bahwa seluruh data SPT Elektronik terkirim;\nd.\nmencantumkan identitas Penyalur SPT Elektronik pada setiap SPT Elektronik yang dikirimkan;\ne.\nmenjamin bahwa sistem yang dimiliki menerapkan standar yang meliputi\nAuthentication, Confidentiality, Integrity,\ndan\nNon-Repudiation\n;\nf.\nmemberitahukan kepada pengguna dalam hal terdapat kendala atau gangguan yang menyebabkan kegagalan penyaluran SPT Elektronik;\ng.\nmemberitahukan kepada pejabat Direktorat Jenderal Pajak yang berwenang dalam hal terdapat kegagalan atau kendala dalam penyaluran SPT Elektronik; dan\nh.\nmelakukan perbaikan atas masalah teknis atau gangguan yang menyebabkan kegagalan dalam penyaluran SPT Elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T04:04:38+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-layanan-surat-pemberitahuan-elektronik"
+ }
+}

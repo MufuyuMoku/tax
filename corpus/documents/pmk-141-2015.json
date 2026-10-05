@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-141-2015",
  "identity": {
@@ -9,16 +19,61 @@
   "year": "2015"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-141-2015--b000-1",
+  "pmk-141-2015--b001-2",
+  "pmk-141-2015--b002-3",
+  "pmk-141-2015--b003-4"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983",
+     null
+    ],
+    "name": "Undang-Undang Nomor 7 Tahun 1983",
+    "quote": "Huruf c Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-7-1983"
+   },
+   {
+    "key": [
+     "UU",
+     "36",
+     "2008",
+     null
+    ],
+    "name": "Undang-Undang Nomor 36 Tahun 2008",
+    "quote": "Huruf c Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-36-2008"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
+  {
+   "date_as_written": "2015-07-24",
+   "detail_error": null,
+   "number_as_written": "PMK-141/PMK.03/2015",
+   "retrieved_at": "2026-10-04T03:57:25+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS JASA LAIN SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C ANGKA 2 UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 36 TAHUN 2008",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-sebagaimana-dimaksud-dalam-pasal-23-ayat-1-huruf-c-angka-2-undang-0"
+  },
   {
    "date_as_written": "2015-07-24 00:00:00",
    "number_as_written": "141/PMK.03/2015",
@@ -33,11 +88,19 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=76",
+   "retrieved_at": "2026-10-03T02:59:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-sebagaimana-dimaksud-dalam-pasal-23-ayat-1-huruf-c-angka-2-undang-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=228",
    "retrieved_at": "2026-09-21T14:30:39+00:00",
@@ -47,16 +110,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 17838,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-04T03:57:25+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-sebagaimana-dimaksud-dalam-pasal-23-ayat-1-huruf-c-angka-2-undang-0"
  },
- "title": "Jenis Jasa Lain Sebagaimana Dimaksud dalam Pasal 23 Ayat (1) Huruf C Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008."
+ "title": "JENIS JASA LAIN SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C ANGKA 2 UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 36 TAHUN 2008"
 }

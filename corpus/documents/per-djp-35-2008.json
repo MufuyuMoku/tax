@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-35-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "35",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-35-2008--b000-1",
+  "per-djp-35-2008--b001-2",
+  "per-djp-35-2008--b002-3",
+  "per-djp-35-2008--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-09-09",
+   "detail_error": null,
+   "number_as_written": "PER-35/PJ/2008",
+   "retrieved_at": "2026-10-05T02:05:56+00:00",
+   "source": "DJP",
+   "title_as_written": "KEWAJIBAN PEMILIKAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kewajiban-pemilikan-nomor-pokok-wajib-pajak-dalam-rangka-pengalihan-hak-atas-tanah"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=163",
+   "retrieved_at": "2026-10-03T03:31:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kewajiban-pemilikan-nomor-pokok-wajib-pajak-dalam-rangka-pengalihan-hak-atas-tanah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6216,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:05:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kewajiban-pemilikan-nomor-pokok-wajib-pajak-dalam-rangka-pengalihan-hak-atas-tanah"
+ },
+ "title": "KEWAJIBAN PEMILIKAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+}

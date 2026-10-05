@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-111-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "111",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-111-2025--b000-1",
+  "pmk-111-2025--b001-2",
+  "pmk-111-2025--b002-3",
+  "pmk-111-2025--b003-4",
+  "pmk-111-2025--b004-5",
+  "pmk-111-2025--b005-6",
+  "pmk-111-2025--b006-7",
+  "pmk-111-2025--b007-8",
+  "pmk-111-2025--b008-9",
+  "pmk-111-2025--b009-10",
+  "pmk-111-2025--b010-11",
+  "pmk-111-2025--b011-12",
+  "pmk-111-2025--b012-13",
+  "pmk-111-2025--b013-14",
+  "pmk-111-2025--b014-15",
+  "pmk-111-2025--b015-16",
+  "pmk-111-2025--b016-17",
+  "pmk-111-2025--b017-18",
+  "pmk-111-2025--b018-19",
+  "pmk-111-2025--b019-20",
+  "pmk-111-2025--b020-21",
+  "pmk-111-2025--b021-22",
+  "pmk-111-2025--b022-23",
+  "pmk-111-2025--b023-24",
+  "pmk-111-2025--b024-25",
+  "pmk-111-2025--b025-26",
+  "pmk-111-2025--b026-27",
+  "pmk-111-2025--b027-28",
+  "pmk-111-2025--b028-29",
+  "pmk-111-2025--b029-30"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-12-30",
+   "detail_error": null,
+   "number_as_written": "111 TAHUN 2025",
+   "retrieved_at": "2026-10-04T02:57:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGAWASAN KEPATUHAN WAJIB PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengawasan-kepatuhan-wajib-pajak"
+  },
+  {
+   "date_as_written": "2025-12-30 00:00:00",
+   "number_as_written": "PMK 111 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T06:22:39+00:00",
+   "retrieved_at": "2026-09-21T14:15:48+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengawasan Kepatuhan Wajib Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-111-tahun-2025",
+   "validity_as_written": "01 Jan 2026 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=4",
+   "retrieved_at": "2026-10-03T02:32:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengawasan-kepatuhan-wajib-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=8",
+   "retrieved_at": "2026-09-21T14:15:48+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-111-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 63862,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:57:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengawasan-kepatuhan-wajib-pajak"
+ },
+ "title": "PENGAWASAN KEPATUHAN WAJIB PAJAK"
+}

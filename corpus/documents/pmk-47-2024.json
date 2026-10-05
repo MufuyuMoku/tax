@@ -1,0 +1,118 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-47-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "47",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-47-2024--b000-i",
+  "pmk-47-2024--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "70",
+     "2017",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 70/PMK.03/2017",
+    "quote": "Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan (Berita Negara Republik Indonesia Tahun 2017 Nomor 771) yang telah beberapa kali diubah dengan: a. Peraturan Menteri Keuangan Nomor 73/PMK.03/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan (Berita Negara Republik Indonesia Tahun 2017 Nomor 837); dan b. Peraturan Menteri Keuangan Nomor 19/PMK.03/2018 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan (Berita Negara Republik Indonesia Tahun 2018 Nomor 281), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-70-2017"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-108-2025",
+    "key": [
+     "PMK",
+     "108",
+     "2025",
+     null
+    ],
+    "number_as_written": "108 TAHUN 2025",
+    "quote": "Pasal 60 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan (Berita Negara Republik Indonesia Tahun 2017 Nomor 771) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 47 Tahun 2024 tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan (Berita Negara Republik Indonesia Tahun 2024 Nomor 452), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK TEKNIS MENGENAI AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-07-18",
+   "detail_error": null,
+   "number_as_written": "47 TAHUN 2024",
+   "retrieved_at": "2026-10-04T05:56:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 70/PMK.03/2017 TENTANG PETUNJUK TEKNIS MENGENAI AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-70pmk032017-tentang-petunjuk-0"
+  },
+  {
+   "date_as_written": "2024-07-18 00:00:00",
+   "number_as_written": "PMK 47 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:17:08+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-47-tahun-2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 108/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=11",
+   "retrieved_at": "2026-10-03T02:36:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-70pmk032017-tentang-petunjuk-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=28",
+   "retrieved_at": "2026-09-21T14:17:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-47-tahun-2024",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 13121,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T05:56:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-70pmk032017-tentang-petunjuk-0"
+ },
+ "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 70/PMK.03/2017 TENTANG PETUNJUK TEKNIS MENGENAI AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN"
+}

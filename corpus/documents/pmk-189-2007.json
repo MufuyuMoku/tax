@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-189-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "189",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-189-2007--b000-1",
+  "pmk-189-2007--b001-2",
+  "pmk-189-2007--b002-3",
+  "pmk-189-2007--b003-4",
+  "pmk-189-2007--b004-5",
+  "pmk-189-2007--b005-6",
+  "pmk-189-2007--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-84-2010",
+    "key": [
+     "PMK",
+     "84",
+     "2010",
+     null
+    ],
+    "number_as_written": "84/PMK.03/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 189/PMK.03/2007 tentang Tata Cara Penerbitan Surat Tagihan Pajak, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 189/PMK.03/2007 TENTANG TATA CARA PENERBITAN SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-145-2012",
+    "key": [
+     "PMK",
+     "145",
+     "2012",
+     null
+    ],
+    "number_as_written": "145/PMK.03/2012",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 189/PMK.03/2007 tentang Tata Cara Penerbitan Surat Tagihan Pajak; b. Peraturan Menteri Keuangan Nomor 23/PMK.03/2008 tentang Tata Cara Penerbitan Surat Ketetapan Pajak; c. Peraturan Menteri Keuangan Nomor 83/PMK.03/2010 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 23/PMK.03/2008 tentang Tata Cara Penerbitan Surat Ketetapan Pajak; dan d. Peraturan Menteri Keuangan Nomor 84/PMK.03/2010 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 189/PMK.03/2007 tentang Tata Cara Penerbitan Surat Tagihan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "189/PMK.03/2007",
+   "retrieved_at": "2026-10-05T02:29:32+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT TAGIHAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "189/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:43:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Penerbitan Surat Tagihan Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/189-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=178",
+   "retrieved_at": "2026-10-03T03:37:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=421",
+   "retrieved_at": "2026-09-21T14:43:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/189-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5545,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:29:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak"
+ },
+ "title": "TATA CARA PENERBITAN SURAT TAGIHAN PAJAK"
+}

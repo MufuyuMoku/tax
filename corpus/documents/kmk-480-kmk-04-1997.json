@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-480-kmk-04-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "480/KMK.04",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-09-29",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "480/KMK.04/1997",
+   "retrieved_at": "2026-10-03T04:00:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHITUNGAN BESARNYA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK ATAS KELEBIHAN PEMBAYARAN YANG DIKEMBALIKAN KARENA KEPUTUSAN KEBERATAN ATAU PUTUSAN BANDING",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penghitungan-besarnya-pemberian-imbalan-bunga-kepada-wajib-pajak-atas-kelebihan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=232",
+   "retrieved_at": "2026-10-03T04:00:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penghitungan-besarnya-pemberian-imbalan-bunga-kepada-wajib-pajak-atas-kelebihan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PENGHITUNGAN BESARNYA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK ATAS KELEBIHAN PEMBAYARAN YANG DIKEMBALIKAN KARENA KEPUTUSAN KEBERATAN ATAU PUTUSAN BANDING"
+}

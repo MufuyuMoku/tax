@@ -1,0 +1,143 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-187-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "187",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-187-2015--b000-1",
+  "pmk-187-2015--b001-2",
+  "pmk-187-2015--b002-3",
+  "pmk-187-2015--b003-4",
+  "pmk-187-2015--b004-5",
+  "pmk-187-2015--b005-6",
+  "pmk-187-2015--b006-8",
+  "pmk-187-2015--b007-9",
+  "pmk-187-2015--b008-10",
+  "pmk-187-2015--b009-11",
+  "pmk-187-2015--b010-13",
+  "pmk-187-2015--b011-14",
+  "pmk-187-2015--b012-15",
+  "pmk-187-2015--b013-16",
+  "pmk-187-2015--b014-17",
+  "pmk-187-2015--b015-18",
+  "pmk-187-2015--b016-19",
+  "pmk-187-2015--b017-20",
+  "pmk-187-2015--b018-21",
+  "pmk-187-2015--b019-22",
+  "pmk-187-2015--b020-23",
+  "pmk-187-2015--b021-24",
+  "pmk-187-2015--b022-25",
+  "pmk-187-2015--b023-26",
+  "pmk-187-2015--b024-27"
+ ],
+ "quality_flags": [
+  "urutan_loncat:6->8,11->13"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 18. Peraturan Menteri Keuangan Nomor 187/PMK.03/2015 tentang Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang (Berita Negara Republik Indonesia Tahun 2015 Nomor 1471); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "10",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 10/PMK.03/2013",
+    "quote": "Pasal 26 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 10/PMK.03/2013 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-10-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-09-30",
+   "detail_error": null,
+   "number_as_written": "187/PMK.03/2015",
+   "retrieved_at": "2026-10-04T03:54:39+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGEMBALIAN ATAS KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-atas-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang-0"
+  },
+  {
+   "date_as_written": "2015-09-30 00:00:00",
+   "number_as_written": "187/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:30:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=74",
+   "retrieved_at": "2026-10-03T02:58:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-atas-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=223",
+   "retrieved_at": "2026-09-21T14:30:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 45351,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:54:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-atas-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang-0"
+ },
+ "title": "TATA CARA PENGEMBALIAN ATAS KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG"
+}

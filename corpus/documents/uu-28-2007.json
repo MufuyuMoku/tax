@@ -1,0 +1,167 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-28-2007",
+ "identity": {
+  "code": "UU",
+  "number": "28",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "uu-28-2007--b000-i",
+  "uu-28-2007--b001-ii",
+  "uu-28-2007--p002-i",
+  "uu-28-2007--p003-1",
+  "uu-28-2007--p004-2",
+  "uu-28-2007--p005-2a",
+  "uu-28-2007--p006-3",
+  "uu-28-2007--p007-4",
+  "uu-28-2007--p008-6",
+  "uu-28-2007--p009-7",
+  "uu-28-2007--p010-8",
+  "uu-28-2007--p011-9",
+  "uu-28-2007--p012-10",
+  "uu-28-2007--p013-11",
+  "uu-28-2007--p014-12",
+  "uu-28-2007--p015-13",
+  "uu-28-2007--p016-13a",
+  "uu-28-2007--p017-14",
+  "uu-28-2007--p018-15",
+  "uu-28-2007--p019-16",
+  "uu-28-2007--p020-17",
+  "uu-28-2007--p021-17a",
+  "uu-28-2007--p022-17b",
+  "uu-28-2007--p023-17c",
+  "uu-28-2007--p024-17d",
+  "uu-28-2007--p025-17e",
+  "uu-28-2007--p026-18",
+  "uu-28-2007--p027-19",
+  "uu-28-2007--p028-20",
+  "uu-28-2007--p029-21",
+  "uu-28-2007--p030-22",
+  "uu-28-2007--p031-23",
+  "uu-28-2007--p032-24",
+  "uu-28-2007--p033-25",
+  "uu-28-2007--p034-26",
+  "uu-28-2007--p035-26a",
+  "uu-28-2007--p036-27",
+  "uu-28-2007--p037-27a",
+  "uu-28-2007--p038-28",
+  "uu-28-2007--p039-29",
+  "uu-28-2007--p040-29a",
+  "uu-28-2007--p041-30",
+  "uu-28-2007--p042-31",
+  "uu-28-2007--p043-32",
+  "uu-28-2007--p044-33",
+  "uu-28-2007--p045-34",
+  "uu-28-2007--p046-35",
+  "uu-28-2007--p047-35a",
+  "uu-28-2007--p048-36",
+  "uu-28-2007--p049-36a",
+  "uu-28-2007--p050-36b",
+  "uu-28-2007--p051-36c",
+  "uu-28-2007--p052-36d",
+  "uu-28-2007--p053-37a",
+  "uu-28-2007--p054-38",
+  "uu-28-2007--p055-39",
+  "uu-28-2007--p056-39a",
+  "uu-28-2007--p057-41",
+  "uu-28-2007--p058-41a",
+  "uu-28-2007--p059-41b",
+  "uu-28-2007--p060-41c",
+  "uu-28-2007--p061-43",
+  "uu-28-2007--p062-43a",
+  "uu-28-2007--p063-44",
+  "uu-28-2007--p064-44b",
+  "uu-28-2007--p065-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "6",
+     "1983",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 6 TAHUN 1983",
+    "quote": "Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 198 3 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262) yang telah beberapa kali diubah dengan Undang-Undang: Nomor 9 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 3566); Nomor 16 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 3984), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "uu-6-1983"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-07-17",
+   "detail_error": null,
+   "number_as_written": "28 TAHUN 2007",
+   "retrieved_at": "2026-10-05T02:35:07+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata"
+  },
+  {
+   "date_as_written": "2007-07-17 00:00:00",
+   "number_as_written": "UU 28 TAHUN 2007",
+   "retrieved_at": "2026-09-21T14:03:53+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Undang-Undangan Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=181",
+   "retrieved_at": "2026-10-03T03:38:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:03:53+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 212223,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:35:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata"
+ },
+ "title": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN"
+}

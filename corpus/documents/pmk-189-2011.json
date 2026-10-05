@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-189-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "189",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-189-2011--b000-i",
+  "pmk-189-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "130",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana Di Bidang Perpajakan Untuk Kepentingan Penerimaan Negara diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-130-2009"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-129-2012",
+    "key": [
+     "PMK",
+     "129",
+     "2012",
+     null
+    ],
+    "number_as_written": "129/PMK.03/2012",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 189/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PERMINTAAN PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-15",
+   "detail_error": null,
+   "number_as_written": "189/PMK.03/2011",
+   "retrieved_at": "2026-10-04T07:40:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.03/2009 TENTANG TATA CARA PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-130pmk032009-tentang-tata-cara"
+  },
+  {
+   "date_as_written": "2011-11-23 00:00:00",
+   "number_as_written": "189/PMK.03/2011",
+   "retrieved_at": "2026-09-21T14:37:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/189-pmk-03-2011"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=120",
+   "retrieved_at": "2026-10-03T03:16:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-130pmk032009-tentang-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=325",
+   "retrieved_at": "2026-09-21T14:37:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/189-pmk-03-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 6051,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:40:25+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-130pmk032009-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 130/PMK.03/2009 TENTANG TATA CARA PENGHENTIAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN UNTUK KEPENTINGAN PENERIMAAN NEGARA"
+}

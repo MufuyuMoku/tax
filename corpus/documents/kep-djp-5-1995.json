@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-5-1995",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "1995"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -28,12 +39,22 @@
    "title_as_written": "BENTUK SURAT TAGIHAN PAJAK DAN SURAT KETETAPAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA PAJAK PENJUALAN ATAS BARANG MEWAH",
    "type_as_written": "Keputusan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/bentuk-surat-tagihan-pajak-dan-surat-ketetapan-pajak-penghasilan-pajak-pertambahan-nilai"
+  },
+  {
+   "date_as_written": "1995-01-26 00:00:00",
+   "number_as_written": "KEP-05/PJ/1995",
+   "retrieved_at": "2026-09-21T14:59:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Faktur Pajak Sederhana",
+   "type_as_written": "Keputusan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-05-pj-1995"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
-  "reasons": [],
-  "value": "tidak_berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -43,6 +64,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/bentuk-surat-tagihan-pajak-dan-surat-ketetapan-pajak-penghasilan-pajak-pertambahan-nilai",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=16",
+   "retrieved_at": "2026-09-21T14:59:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-05-pj-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

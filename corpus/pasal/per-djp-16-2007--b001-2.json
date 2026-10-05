@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 349,
+ "document_id": "per-djp-16-2007",
+ "document_number": "PER-16/PJ./2007",
+ "document_title": "PEMBERIAN NOMOR POKOK WAJIB PAJAK ORANG PRIBADI YANG BERSTATUS SEBAGAI PENGURUS, KOMISARIS, PEMEGANG SAHAM/PEMILIK DAN PEGAWAI MELALUI PEMBERI KERJA/BENDAHARAWAN PEMERINTAH",
+ "id": "per-djp-16-2007--b001-2",
+ "label": "2",
+ "order": 1,
+ "quality_flags": [
+  "urutan_loncat:7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 2\nSetiap Wajib Pajak Orang Pribadi yang berstatus sebagai Pengurus, Komisaris, Pemegang Saham/Pemilik dan Pegawai dengan penghasilan di atas PTKP wajib mendaftarkan diri pada KPP dan kepadanya diberikan NPWP. Atas permohonan untuk mendaftarkan diri sebagai Wajib Pajak di KPP Domisili diproses sesuai dengan tata cara pendaftaran yang berlaku.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T02:47:28+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-nomor-pokok-wajib-pajak-orang-pribadi-yang-berstatus-sebagai-pengurus-komisaris"
+ }
+}

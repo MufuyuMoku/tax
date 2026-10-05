@@ -1,0 +1,125 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-24-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "24",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-24-2009--b000-1",
+  "per-djp-24-2009--b001-2",
+  "per-djp-24-2009--b002-3",
+  "per-djp-24-2009--b003-4",
+  "per-djp-24-2009--b004-5",
+  "per-djp-24-2009--b005-6",
+  "per-djp-24-2009--b006-7",
+  "per-djp-24-2009--b007-8",
+  "per-djp-24-2009--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-20-2013",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-20/PJ/2013",
+    "quote": "… i. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2009 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak dan Perubahan Data Wajib Pajak dan/atau Pengusaha Kena Pajak Dengan Sistem e-Registration ; dan j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "173",
+     "2004",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-173/PJ/2004",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-173/PJ/2004 tentang Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak serta Pengukuhan dan Pencabutan Pengusaha Kena Pajak dengan Sistem e-Registration dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-173-2004"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-16",
+   "detail_error": null,
+   "number_as_written": "PER-24/PJ/2009",
+   "retrieved_at": "2026-10-05T01:50:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN NPWP DAN/ATAU PENGUKUHAN PKP DAN PERUBAHAN DATA WP DAN/ATAU PKP DENGAN SISTEM E-REGISTRATION",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-danatau-pengukuhan-pkp-dan-perubahan-data-wp-danatau-pkp"
+  },
+  {
+   "date_as_written": "2009-03-16 00:00:00",
+   "number_as_written": "PerDJP 24/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak dan Perubahan Data Wajib Pajak dan/atau Pengusaha Kena Pajak dengan Sistem E-Registration.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-24-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 20/2013 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=151",
+   "retrieved_at": "2026-10-03T03:27:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-danatau-pengukuhan-pkp-dan-perubahan-data-wp-danatau-pkp",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-24-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19842,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:50:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-danatau-pengukuhan-pkp-dan-perubahan-data-wp-danatau-pkp"
+ },
+ "title": "TATA CARA PENDAFTARAN NPWP DAN/ATAU PENGUKUHAN PKP DAN PERUBAHAN DATA WP DAN/ATAU PKP DENGAN SISTEM E-REGISTRATION"
+}

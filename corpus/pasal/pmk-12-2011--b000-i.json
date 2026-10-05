@@ -1,0 +1,44 @@
+{
+ "amendment_items": [
+  {
+   "action": "diubah",
+   "number": 1,
+   "target_pasal": [
+    "3",
+    "3",
+    "3"
+   ],
+   "text": "1.\nKetentuan Pasal 3 ayat (2) diubah, sehingga Pasal 3 ayat (2) berbunyi sebagai berikut:\nPasal 3\n(2)\nImbalan bunga yang diberikan kepada Wajib Pajak sebagaimana dimaksud dalam Pasal 2 huruf b adalah sebesar 2% (dua persen) per bulan dari jumlah kelebihan pembayaran pajak, dihitung sejak berakhirnya jangka waktu 1 (satu) bulan untuk penerbitan Surat Ketetapan Pajak Lebih Bayar (SKPLB) sesuai ketentuan sebagaimana diatur dalam Pasal 17B ayat (2) Undang-Undang KUP, sampai dengan diterbitkannya Surat Ketetapan Pajak Lebih Bayar (SKPLB)."
+  },
+  {
+   "action": "disisipkan",
+   "number": 2,
+   "target_pasal": [
+    "5",
+    "6",
+    "5A"
+   ],
+   "text": "2.\nDiantara Pasal 5 dan Pasal 6 disisipkan 1 (satu) pasal yakni Pasal 5A yang berbunyi sebagai berikut:\nPasal 5A\nDengan berlakunya Peraturan Menteri Keuangan ini, penghitungan imbalan bunga sebagaimana dimaksud dalam Pasal 3 ayat (2) Peraturan Menteri Keuangan Nomor 195/PMK.03/2007 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga yang belum diterbitkan SKPIB, dilakukan berdasarkan ketentuan sebagaimana diatur dalam Peraturan Menteri Keuangan ini."
+  }
+ ],
+ "chars": 1165,
+ "document_id": "pmk-12-2011",
+ "document_number": "12/PMK.03/2011",
+ "document_title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 195/PMK.03/2007 TENTANG TATA CARA PENGHITUNGAN DAN PEMBERIAN IMBALAN BUNGA.",
+ "id": "pmk-12-2011--b000-i",
+ "label": "I",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": [
+  "3",
+  "5A"
+ ],
+ "section": "batang_tubuh",
+ "structure": "perubahan",
+ "text": "Pasal I\nBeberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 195/PMK.03/2007 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga diubah sebagai berikut:\n1.\nKetentuan Pasal 3 ayat (2) diubah, sehingga Pasal 3 ayat (2) berbunyi sebagai berikut:\nPasal 3\n(2)\nImbalan bunga yang diberikan kepada Wajib Pajak sebagaimana dimaksud dalam Pasal 2 huruf b adalah sebesar 2% (dua persen) per bulan dari jumlah kelebihan pembayaran pajak, dihitung sejak berakhirnya jangka waktu 1 (satu) bulan untuk penerbitan Surat Ketetapan Pajak Lebih Bayar (SKPLB) sesuai ketentuan sebagaimana diatur dalam Pasal 17B ayat (2) Undang-Undang KUP, sampai dengan diterbitkannya Surat Ketetapan Pajak Lebih Bayar (SKPLB).\n2.\nDiantara Pasal 5 dan Pasal 6 disisipkan 1 (satu) pasal yakni Pasal 5A yang berbunyi sebagai berikut:\nPasal 5A\nDengan berlakunya Peraturan Menteri Keuangan ini, penghitungan imbalan bunga sebagaimana dimaksud dalam Pasal 3 ayat (2) Peraturan Menteri Keuangan Nomor 195/PMK.03/2007 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga yang belum diterbitkan SKPIB, dilakukan berdasarkan ketentuan sebagaimana diatur dalam Peraturan Menteri Keuangan ini.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T07:44:52+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-195pmk032007-tentang-tata-cara"
+ }
+}

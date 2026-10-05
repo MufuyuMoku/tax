@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-160-2007",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "160",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-160-2007--b000-i",
+  "per-djp-160-2007--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-20-2013",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-20/PJ/2013",
+    "quote": "… d. Peraturan Direktur Jenderal Pajak Nomor PER-160/PJ/2007 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-161/PJ/2001 Tentang Jangka Waktu Pendaftaran dan Pelaporan Kegiatan Usaha, Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak, serta Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-11-14",
+   "detail_error": null,
+   "number_as_written": "PER-160/PJ/2007",
+   "retrieved_at": "2026-10-05T02:32:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP - 161/PJ/2001 TENTANG JANGKA WAKTU PENDAFTARAN DAN PELAPORAN KEGIATAN USAHA, TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, SERTA PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-161pj2001-tentang-jangka-waktu"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=180",
+   "retrieved_at": "2026-10-03T03:37:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-161pj2001-tentang-jangka-waktu",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 2772,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:32:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-161pj2001-tentang-jangka-waktu"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP - 161/PJ/2001 TENTANG JANGKA WAKTU PENDAFTARAN DAN PELAPORAN KEGIATAN USAHA, TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, SERTA PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK"
+}

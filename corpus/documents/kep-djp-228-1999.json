@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-228-1999",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "228",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-645-2001",
+    "key": [
+     "KEP-DJP",
+     "645",
+     "2001",
+     null
+    ],
+    "number_as_written": "KEP-645/PJ./2001",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : … Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.7/1996 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan Piutang Pajak sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-228/PJ/1999; Keputusan Direktur Jenderal Pajak Nomor KEP-115/PJ/1997 tentang Bentuk-bentuk Formulir yang Digunakan untuk Penagihan Pajak sebagaimana tercantum pada lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ/1995 tentang Pedoman Tata Usaha Piutang dan Penagihan Pajak; Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-09-07",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 228/PJ./1999",
+   "retrieved_at": "2026-10-03T03:59:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN SEBAGIAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-01/PJ.7/1996 TANGGAL 3 OKTOBER 1996 TENTANG TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN PIUTANG PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-sebagian-keputusan-direktur-jenderal-pajak-nomor-kep-01pj71996-tanggal-3"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=229",
+   "retrieved_at": "2026-10-03T03:59:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-sebagian-keputusan-direktur-jenderal-pajak-nomor-kep-01pj71996-tanggal-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PERUBAHAN SEBAGIAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-01/PJ.7/1996 TANGGAL 3 OKTOBER 1996 TENTANG TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN PIUTANG PAJAK"
+}

@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-125-2015",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "125",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-125-2015--b000-kedua",
+  "kep-djp-125-2015--b001-ketiga",
+  "kep-djp-125-2015--b002-keempat",
+  "kep-djp-125-2015--b003-kelima",
+  "kep-djp-125-2015--b004-keenam",
+  "kep-djp-125-2015--b005-ketujuh",
+  "kep-djp-125-2015--b006-kedelapan"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-05-29",
+   "detail_error": null,
+   "number_as_written": "KEP-125/PJ/2015",
+   "retrieved_at": "2026-10-04T03:59:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PENGUSAHA KENA PAJAK YANG DIWAJIBKAN MEMBUAT FAKTUR PAJAK BERBENTUK ELEKTRONIK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-yang-diwajibkan-membuat-faktur-pajak-berbentuk-7"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=78",
+   "retrieved_at": "2026-10-03T03:00:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-yang-diwajibkan-membuat-faktur-pajak-berbentuk-7",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4159,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:59:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-yang-diwajibkan-membuat-faktur-pajak-berbentuk-7"
+ },
+ "title": "PENETAPAN PENGUSAHA KENA PAJAK YANG DIWAJIBKAN MEMBUAT FAKTUR PAJAK BERBENTUK ELEKTRONIK"
+}

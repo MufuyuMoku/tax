@@ -1,0 +1,174 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN PMK 17 TAHUN 2025.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "17",
+    "year": "2025"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%20PMK%2017%20TAHUN%202025.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-17-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "17",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-17-2025--b000-1",
+  "pmk-17-2025--b001-2",
+  "pmk-17-2025--b002-3",
+  "pmk-17-2025--b003-4",
+  "pmk-17-2025--b004-5",
+  "pmk-17-2025--b005-6",
+  "pmk-17-2025--b006-7",
+  "pmk-17-2025--b007-8",
+  "pmk-17-2025--b008-9",
+  "pmk-17-2025--b009-10",
+  "pmk-17-2025--b010-11",
+  "pmk-17-2025--b011-12",
+  "pmk-17-2025--b012-13",
+  "pmk-17-2025--b013-14",
+  "pmk-17-2025--b014-15",
+  "pmk-17-2025--b015-16",
+  "pmk-17-2025--b016-17",
+  "pmk-17-2025--b017-18",
+  "pmk-17-2025--b018-19",
+  "pmk-17-2025--b019-20",
+  "pmk-17-2025--b020-21",
+  "pmk-17-2025--b021-22",
+  "pmk-17-2025--b022-23",
+  "pmk-17-2025--b023-24",
+  "pmk-17-2025--b024-25",
+  "pmk-17-2025--b025-26",
+  "pmk-17-2025--b026-27",
+  "pmk-17-2025--b027-28",
+  "pmk-17-2025--b028-29",
+  "pmk-17-2025--b029-30",
+  "pmk-17-2025--b030-31",
+  "pmk-17-2025--b031-32",
+  "pmk-17-2025--b032-33",
+  "pmk-17-2025--b033-34",
+  "pmk-17-2025--b034-35",
+  "pmk-17-2025--b035-36",
+  "pmk-17-2025--b036-37"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "55",
+     "2016",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 55/PMK.03/2016",
+    "quote": "Pasal 36 Pada saat Peraturan Menteri ini berlaku: a. Peraturan Menteri Keuangan Nomor 55/PMK.03/2016 tentang Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara (Berita Negara Republik Indonesia Tahun 2016 Nomor 538); dan b. Pasal 108 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-55-2016"
+   },
+   {
+    "key": [
+     "PMK",
+     "18",
+     "2021",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 18/PMK.03/2021",
+    "quote": "Pasal 36 Pada saat Peraturan Menteri ini berlaku: … b. Pasal 108 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-18-2021"
+   },
+   {
+    "key": [
+     "UU",
+     "11",
+     "2020",
+     null
+    ],
+    "name": "Undang-Undang Nomor 11 Tahun 2020",
+    "quote": "Pasal 36 Pada saat Peraturan Menteri ini berlaku: … b. Pasal 108 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-11-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-02-19",
+   "detail_error": null,
+   "number_as_written": "17 TAHUN 2025",
+   "retrieved_at": "2026-10-05T06:19:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyidikan-tindak-pidana-di-bidang-perpajakan"
+  },
+  {
+   "date_as_written": "2025-02-19 00:00:00",
+   "number_as_written": "PMK 17 TAHUN 2025",
+   "retrieved_at": "2026-09-21T14:16:24+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyidikan Tindak Pidana di Bidang Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-17-tahun-2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=9",
+   "retrieved_at": "2026-10-03T03:52:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyidikan-tindak-pidana-di-bidang-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=17",
+   "retrieved_at": "2026-09-21T14:16:24+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-17-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 53187,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:19:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyidikan-tindak-pidana-di-bidang-perpajakan"
+ },
+ "title": "PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+}

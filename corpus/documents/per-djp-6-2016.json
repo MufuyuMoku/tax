@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-6-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "6",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-6-2016--b000-i",
+  "per-djp-6-2016--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "38",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-38-2009"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-9-2020",
+    "key": [
+     "PER-DJP",
+     "9",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-09/PJ/2020",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak sebagaimana telah beberapa kali diubah, dengan: 1. Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2010 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak, 2. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2013 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak, 3. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2015 tentang Perubahan Ketiga atas Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak, 4. Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2015 tentang Perubahan Keempat atas Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak, 5. Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2016 tentang Perubahan Kelima atas Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak; … 6. Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2017 tentang Perubahan Keenam atas Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2009 tentang Bentuk Formulir Surat Setoran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, ISI, DAN TATA CARA PENGISIAN SURAT SETORAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-07-15",
+   "detail_error": null,
+   "number_as_written": "PER-06/PJ/2016",
+   "retrieved_at": "2026-10-04T03:48:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KELIMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009 TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-direktur-jenderal-pajak-nomor-38pj2009-tentang-bentuk"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=67",
+   "retrieved_at": "2026-10-03T02:56:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-direktur-jenderal-pajak-nomor-38pj2009-tentang-bentuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 2624,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:48:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-direktur-jenderal-pajak-nomor-38pj2009-tentang-bentuk"
+ },
+ "title": "PERUBAHAN KELIMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-38/PJ/2009 TENTANG BENTUK FORMULIR SURAT SETORAN PAJAK"
+}

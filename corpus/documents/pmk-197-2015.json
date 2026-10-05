@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-197-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "197",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-197-2015--b000-1",
+  "pmk-197-2015--b001-2",
+  "pmk-197-2015--b002-3",
+  "pmk-197-2015--b003-5",
+  "pmk-197-2015--b004-6",
+  "pmk-197-2015--b005-7",
+  "pmk-197-2015--b006-8",
+  "pmk-197-2015--b007-9"
+ ],
+ "quality_flags": [
+  "urutan_loncat:3->5"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-02",
+   "detail_error": null,
+   "number_as_written": "197/PMK.03/2015",
+   "retrieved_at": "2026-10-05T06:21:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGURANGAN SANKSI ADMINISTRASI ATAS SURAT KETETAPAN PAJAK, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, DAN/ATAU SURAT TAGIHAN PAJAK YANG DITERBITKAN BERDASARKAN HASIL PEMERIKSAAN, VERIFIKASI, ATAU PENELITIAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-sanksi-administrasi-atas-surat-ketetapan-pajak-surat-ketetapan-pajak-pajak"
+  },
+  {
+   "date_as_written": "2015-11-02 00:00:00",
+   "number_as_written": "197/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:30:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengurangan Sanksi Administrasi atas Surat Ketetapan Pajak, Surat Ketetapan Pajak Pajak Bumi dan Bangunan , dan/atau Surat Tagihan Pajak yang Diterbitkan Berdasarkan Hasil Pemeriksaan, Verifikasi, atau Penelitian Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/197-pmk-03-2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=72",
+   "retrieved_at": "2026-10-03T03:53:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-sanksi-administrasi-atas-surat-ketetapan-pajak-surat-ketetapan-pajak-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=222",
+   "retrieved_at": "2026-09-21T14:30:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/197-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18684,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:21:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengurangan-sanksi-administrasi-atas-surat-ketetapan-pajak-surat-ketetapan-pajak-pajak"
+ },
+ "title": "PENGURANGAN SANKSI ADMINISTRASI ATAS SURAT KETETAPAN PAJAK, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, DAN/ATAU SURAT TAGIHAN PAJAK YANG DITERBITKAN BERDASARKAN HASIL PEMERIKSAAN, VERIFIKASI, ATAU PENELITIAN PAJAK BUMI DAN BANGUNAN"
+}

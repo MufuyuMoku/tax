@@ -1,0 +1,118 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-97-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "97",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-97-2005--b000-i",
+  "pmk-97-2005--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "576",
+     "2000",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 576/KMK.04/2000",
+    "quote": "Ketentuan Pasal 1 Peraturan Menteri Keuangan Nomor 576/KMK.04/2000 tentang Persyaratan Seorang Kuasa Untuk Menjalankan Hak dan Memenuhi Kewajiban Menurut Ketentuan Perundang-undangan Perpajakan diubah, sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-576-2000"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-22-2008",
+    "key": [
+     "PMK",
+     "22",
+     "2008",
+     null
+    ],
+    "number_as_written": "22/PMK.03/2008",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Keputusan Menteri Keuangan Nomor 576/KMK.01/2000 tentang Persyaratan Seorang Kuasa untuk Menjalankan Hak dan/atau Memenuhi Kewajiban Menurut Ketentuan Perundang-undangan Perpajakan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 97/PMK.03/2005 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERSYARATAN SERTA PELAKSANAAN HAK DAN KEWAJIBAN SEORANG KUASA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-10-13",
+   "detail_error": null,
+   "number_as_written": "97/PMK.03/2005",
+   "retrieved_at": "2026-10-05T02:58:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 576/KMK.04/2000 TENTANG PERSYARATAN SEORANG KUASA UNTUK MENJALANKAN HAK DAN MEMENUHI KEWAJIBAN MENURUT KETENTUAN PERUNDANG-UNDANGAN PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-576kmk042000-tentang-persyaratan-seorang"
+  },
+  {
+   "date_as_written": "2005-10-13 00:00:00",
+   "number_as_written": "97/PMK.03/2005",
+   "retrieved_at": "2026-09-21T14:46:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan Nomor 576/KMK.04/2000 tentang Persyaratan Seorang Kuasa untuk Menjalankan Hak dan Memenuhi Kewajiban Menurut Ketentuan Perundang-Undangan Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/97-pmk-03-2005"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 22/2008 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=197",
+   "retrieved_at": "2026-10-03T03:46:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-576kmk042000-tentang-persyaratan-seorang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=459",
+   "retrieved_at": "2026-09-21T14:46:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/97-pmk-03-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3209,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:58:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-576kmk042000-tentang-persyaratan-seorang"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 576/KMK.04/2000 TENTANG PERSYARATAN SEORANG KUASA UNTUK MENJALANKAN HAK DAN MEMENUHI KEWAJIBAN MENURUT KETENTUAN PERUNDANG-UNDANGAN PERPAJAKAN"
+}

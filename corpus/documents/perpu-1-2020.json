@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "perpu-1-2020",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "perpu-1-2020--b000-1",
   "perpu-1-2020--b001-2",
@@ -129,6 +140,15 @@
    "title_as_written": "KEBIJAKAN KEUANGAN NEGARA DAN STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN",
    "type_as_written": "Perpu",
    "url": "https://www.pajak.go.id/id/peraturan/kebijakan-keuangan-negara-dan-stabilitas-sistem-keuangan-untuk-penanganan-pandemi-corona"
+  },
+  {
+   "date_as_written": "2020-03-31 00:00:00",
+   "number_as_written": "PERPU 1 TAHUN 2020",
+   "retrieved_at": "2026-09-21T14:05:25+00:00",
+   "source": "JDIH",
+   "title_as_written": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan.",
+   "type_as_written": "Peraturan Pemerintah Pengganti Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpu-1-tahun-2020"
   }
  ],
  "status": {
@@ -145,6 +165,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/kebijakan-keuangan-negara-dan-stabilitas-sistem-keuangan-untuk-penanganan-pandemi-corona",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah+Pengganti+Undang-Undang&order=desc&page=1",
+   "retrieved_at": "2026-09-21T14:05:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpu-1-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

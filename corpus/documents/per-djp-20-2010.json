@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-20-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "20",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-20-2010--b000-1",
+  "per-djp-20-2010--b001-2",
+  "per-djp-20-2010--b002-3",
+  "per-djp-20-2010--b003-4",
+  "per-djp-20-2010--b004-5",
+  "per-djp-20-2010--b005-6",
+  "per-djp-20-2010--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-28-2013",
+    "key": [
+     "PER-DJP",
+     "28",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-28/PJ/2013",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku maka: a. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2010 tentang Tata Cara Pendaftaran dan Kewajiban Toko Retail serta Kantor Pelayanan Pajak yang Mengelola Administrasi Pengembalian Pajak Pertambahan Nilai Kepada Orang Pribadi Pemegang Paspor Luar Negeri; b. Keputusan Direktur Jenderal Pajak Nomor KEP-347/PJ/2010 tentang Penunjukan Toko Retail; c. Keputusan Direktur Jenderal Pajak Nomor KEP-386/PJ/2010 tentang Penunjukan Toko Retail; dan d. Keputusan Direktur Jenderal Pajak Nomor KEP-156/PJ/2011 tentang Penunjukan Toko Retail, dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN KEWAJIBAN PENGUSAHA KENA PAJAK TOKO RETAIL SERTA PENGELOLAAN ADMINISTRASI PENGEMBALIAN PAJAK PERTAMBAHAN NILAI KEPADA ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-31",
+   "detail_error": null,
+   "number_as_written": "PER-20/PJ/2010",
+   "retrieved_at": "2026-10-05T01:21:09+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN DAN KEWAJIBAN TOKO RETAIL SERTA KANTOR PELAYANAN PAJAK YANG MENGELOLA ADMINISTRASI PENGEMBALIAN PAJAK PERTAMBAHAN NILAI KEPADA ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-kewajiban-toko-retail-serta-kantor-pelayanan-pajak-yang"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=132",
+   "retrieved_at": "2026-10-03T03:20:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-kewajiban-toko-retail-serta-kantor-pelayanan-pajak-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7442,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:21:09+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-kewajiban-toko-retail-serta-kantor-pelayanan-pajak-yang"
+ },
+ "title": "TATA CARA PENDAFTARAN DAN KEWAJIBAN TOKO RETAIL SERTA KANTOR PELAYANAN PAJAK YANG MENGELOLA ADMINISTRASI PENGEMBALIAN PAJAK PERTAMBAHAN NILAI KEPADA ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+}

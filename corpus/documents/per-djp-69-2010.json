@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-69-2010",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2010"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-69-2010--b000-1",
   "per-djp-69-2010--b001-2",
@@ -36,7 +43,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-17-2020",
+    "key": [
+     "PER-DJP",
+     "17",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-17/PJ/2020",
+    "quote": "Pasal 9 Pada saat berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ/2010 tentang Kesepakatan Harga Transfer ( Advance Pricing Agreement ) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYELESAIAN PERMOHONAN, PELAKSANAAN, DAN EVALUASI KESEPAKATAN HARGA TRANSFER (ADVANCE PRICING AGREEMENT)"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -53,7 +75,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-34-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "34",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-34-2008--b000-1",
+  "per-djp-34-2008--b001-2",
+  "per-djp-34-2008--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-09-02",
+   "detail_error": null,
+   "number_as_written": "PER-34/PJ/2008",
+   "retrieved_at": "2026-10-05T02:06:16+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN ISI FORMULIR SURAT PEMBERITAHUAN PAJAK TERHUTANG PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-formulir-surat-pemberitahuan-pajak-terhutang-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2008-09-02 00:00:00",
+   "number_as_written": "PerDJP 34/PJ/2008",
+   "retrieved_at": "2026-09-21T14:58:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bentuk dan Isi Formulir Surat Pemberitahuan Pajak Terhutang Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-34-pj-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=163",
+   "retrieved_at": "2026-10-03T03:31:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-formulir-surat-pemberitahuan-pajak-terhutang-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=44",
+   "retrieved_at": "2026-09-21T14:58:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-34-pj-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4020,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:06:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-formulir-surat-pemberitahuan-pajak-terhutang-pajak-bumi-dan-bangunan"
+ },
+ "title": "BENTUK DAN ISI FORMULIR SURAT PEMBERITAHUAN PAJAK TERHUTANG PAJAK BUMI DAN BANGUNAN"
+}

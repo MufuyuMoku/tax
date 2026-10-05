@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-5-2026",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2026"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-5-2026--b000-1",
   "per-djp-5-2026--b001-2",
@@ -39,6 +54,7 @@
   {
    "date_as_written": "2026-04-20 12:00:00",
    "number_as_written": "PER-5/PJ/2026",
+   "page_retrieved_at": "2026-10-05T06:20:53+00:00",
    "retrieved_at": "2026-09-21T14:55:07+00:00",
    "selected_because": [
     "judul"
@@ -46,7 +62,8 @@
    "source": "JDIH",
    "title_as_written": "Pengakuan Penghasilan Dan Biaya Serta Penghitungan Penghasilan Kena Pajak Tahun Pajak 2025 Bagi Wajib Pajak Yang Menyelenggarakan Pembukuan Berdasarkan Standar Akuntansi Keuangan Mengenai Kontrak Asuransi",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-5pj2026"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-5pj2026",
+   "validity_as_written": "20 Apr 2026 - s.d. Dicabut"
   }
  ],
  "status": {

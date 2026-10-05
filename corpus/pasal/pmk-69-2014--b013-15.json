@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 503,
+ "document_id": "pmk-69-2014",
+ "document_number": "69/PMK.06/2014",
+ "document_title": "PENENTUAN KUALITAS PIUTANG DAN PEMBENTUKAN PENYISIHAN PIUTANG TIDAK TERTAGIH PADA KEMENTERIAN NEGARA/LEMBAGA DAN BENDAHARA UMUM NEGARA",
+ "id": "pmk-69-2014--b013-15",
+ "label": "15",
+ "order": 13,
+ "quality_flags": [
+  "urutan_loncat:10->12,18->20"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 15\n(1)\nDalam hal terdapat penghapusan Piutang, pencatatan perubahan jumlah Piutang dilakukan dengan cara mengurangi akun Piutang dan akun Penyisihan Piutang Tidak Tertagih sebesar jumlah yang tercantum dalam surat keputusan penghapusan.\n(2)\nPencatatan penghapusan Piutang sebagaimana dimaksud pada ayat (1) dilakukan segera setelah penerbitan surat keputusan penghapusan.\n(3)\nPiutang yang telah dihapuskan secara bersyarat dan alasan penghapusannya diungkapkan dalam catatan atas laporan keuangan.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T05:58:17+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penentuan-kualitas-piutang-dan-pembentukan-penyisihan-piutang-tidak-tertagih-pada"
+ }
+}

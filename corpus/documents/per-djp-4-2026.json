@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PER%204%20Tahun%202026.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-4-2026",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2026"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-4-2026--b000-1",
   "per-djp-4-2026--b001-2",
@@ -83,10 +94,21 @@
    "title_as_written": "BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/badan-atau-lembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-0"
+  },
+  {
+   "date_as_written": "2026-03-30 12:00:00",
+   "number_as_written": "PER-4/PJ/2026",
+   "page_retrieved_at": "2026-10-05T06:21:13+00:00",
+   "retrieved_at": "2026-09-21T14:55:07+00:00",
+   "source": "JDIH",
+   "title_as_written": "Badan Atau Lembaga Yang Dibentuk Atau Disahkan Oleh Pemerintah Yang Ditetapkan Sebagai Penerima Zakat Atau Sumbangan Keagamaan Yang Sifatnya Wajib Yang Dapat Dikurangkan Dari Penghasilan Bruto",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-4pj2026",
+   "validity_as_written": "30 Mar 2026 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -98,6 +120,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/badan-atau-lembaga-yang-dibentuk-atau-disahkan-oleh-pemerintah-yang-ditetapkan-sebagai-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=1",
+   "retrieved_at": "2026-09-21T14:55:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-4pj2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

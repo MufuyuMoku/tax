@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-49-1985",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "49",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-04-22",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 49/PJ.BT5/1985",
+   "retrieved_at": "2026-10-03T04:06:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BENTUK, JENIS DAN WARNA FORMULIR SURAT SETORAN SURAT TAGIHAN PAJAK BUNGA PENAGIHAN, DAN SURAT SETORAN ATAS SURAT KETETAPAN PAJAK-PAJAK KEKAYAAN, PAJAK PENDAPATAN, PAJAK PERSEROAN, PAJAK PENJUALAN DAN PAJAK LAIN DALAM MASA PERALIHAN BESERTA BUKU PENUNTUN KHUSUS CARA PENGISIANNYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bentuk-jenis-dan-warna-formulir-surat-setoran-surat-tagihan-pajak-bunga"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=250",
+   "retrieved_at": "2026-10-03T04:06:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bentuk-jenis-dan-warna-formulir-surat-setoran-surat-tagihan-pajak-bunga",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PENETAPAN BENTUK, JENIS DAN WARNA FORMULIR SURAT SETORAN SURAT TAGIHAN PAJAK BUNGA PENAGIHAN, DAN SURAT SETORAN ATAS SURAT KETETAPAN PAJAK-PAJAK KEKAYAAN, PAJAK PENDAPATAN, PAJAK PERSEROAN, PAJAK PENJUALAN DAN PAJAK LAIN DALAM MASA PERALIHAN BESERTA BUKU PENUNTUN KHUSUS CARA PENGISIANNYA"
+}

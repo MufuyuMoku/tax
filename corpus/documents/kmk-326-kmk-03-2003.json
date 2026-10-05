@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-326-kmk-03-2003",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2003"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kmk-326-kmk-03-2003--b000-i",
   "kmk-326-kmk-03-2003--b001-ii"
@@ -31,7 +42,22 @@
     "target_id": "kmk-541-kmk-04-2000"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-184-2007",
+    "key": [
+     "PMK",
+     "184",
+     "2007",
+     null
+    ],
+    "number_as_written": "184/PMK.03/2007",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 541/KMK.04/2000 tentang Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Tempat Pembayaran Pajak, Tata Cara Pembayaran, Penyetoran, dan Pelaporan Pajak, serta Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 326/KMK.03/2003, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, PENENTUAN TEMPAT PEMBAYARAN PAJAK, DAN TATA CARA PEMBAYARAN, PENYETORAN DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -48,7 +74,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

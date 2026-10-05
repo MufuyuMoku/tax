@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-325-2001",
  "identity": {
@@ -9,12 +19,28 @@
   "year": "2001"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-645-2001",
+    "key": [
+     "KEP-DJP",
+     "645",
+     "2001",
+     null
+    ],
+    "number_as_written": "KEP-645/PJ./2001",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : … Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -31,7 +57,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

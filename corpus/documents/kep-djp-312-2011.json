@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-312-2011",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "312",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-312-2011--b000-kedua",
+  "kep-djp-312-2011--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-01",
+   "detail_error": null,
+   "number_as_written": "KEP-312/PJ/2011",
+   "retrieved_at": "2026-10-04T07:41:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN NOMOR POKOK WAJIB PAJAK BARU BAGI WAJIB PAJAK YANG MEMILIKI NOMOR POKOK WAJIB PAJAK DENGAN PENGGUNA GANDA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-nomor-pokok-wajib-pajak-baru-bagi-wajib-pajak-yang-memiliki-nomor-pokok-wajib-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=120",
+   "retrieved_at": "2026-10-03T03:16:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-nomor-pokok-wajib-pajak-baru-bagi-wajib-pajak-yang-memiliki-nomor-pokok-wajib-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 2576,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:41:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-nomor-pokok-wajib-pajak-baru-bagi-wajib-pajak-yang-memiliki-nomor-pokok-wajib-0"
+ },
+ "title": "PEMBERIAN NOMOR POKOK WAJIB PAJAK BARU BAGI WAJIB PAJAK YANG MEMILIKI NOMOR POKOK WAJIB PAJAK DENGAN PENGGUNA GANDA"
+}

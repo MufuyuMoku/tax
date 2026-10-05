@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-1-1993",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "1993"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-1-1993--b000-1",
   "kep-djp-1-1993--b001-2"
@@ -17,7 +24,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2013",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2013",
+    "quote": "Pasal 3 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.07/1993 tentang Pedoman Pemeriksaan Pajak Terhadap Wajib Pajak Yang Mempunyai Hubungan Istimewa, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN PEMERIKSAAN TERHADAP WAJIB PAJAK YANG MEMPUNYAI HUBUNGAN ISTIMEWA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -34,7 +56,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

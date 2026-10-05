@@ -1,0 +1,127 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-4-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "4",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-4-2016--b000-1",
+  "per-djp-4-2016--b001-2",
+  "per-djp-4-2016--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-1-2022",
+    "key": [
+     "PER-DJP",
+     "1",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-01/PJ/2022",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … c. Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2016 tentang Surat, Daftar, Formulir, dan Laporan yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-03/PJ/2018 tentang Perubahan Keputusan Direktur Jenderal Pajak Nomor KEP-218/PJ/2003 tentang Petunjuk Pelaksanaan Penyanderaan dan Pemberian Rehabilitasi Nama Baik Penanggung Pajak yang Disandera; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "SURAT, DAFTAR, DAN FORMULIR YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "503",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ./2000",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Formulir yang ada pada Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ./2000 tentang Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan dan Tata Cara Pelaksanaan Penagihan Pajak Bumi dan Bangunan dan Bea Perolehan Hak Atas Tanah dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-503-2000"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "645",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ./2001",
+    "quote": "b. Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ./2001 tentang Bentuk, Jenis, dan Kode Kartu, Formulir, Surat, dan Buku yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-474/PJ./2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-645-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "474",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-474/PJ./2002",
+    "quote": "b. Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ./2001 tentang Bentuk, Jenis, dan Kode Kartu, Formulir, Surat, dan Buku yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-474/PJ./2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-474-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-03-31",
+   "detail_error": null,
+   "number_as_written": "PER-04/PJ/2016",
+   "retrieved_at": "2026-10-04T03:49:29+00:00",
+   "source": "DJP",
+   "title_as_written": "SURAT, DAFTAR, FORMULIR, DAN LAPORAN YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-daftar-formulir-dan-laporan-yang-digunakan-dalam-pelaksanaan-penagihan-pajak-dengan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 1/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=68",
+   "retrieved_at": "2026-10-03T02:56:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-daftar-formulir-dan-laporan-yang-digunakan-dalam-pelaksanaan-penagihan-pajak-dengan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9119,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:49:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/surat-daftar-formulir-dan-laporan-yang-digunakan-dalam-pelaksanaan-penagihan-pajak-dengan"
+ },
+ "title": "SURAT, DAFTAR, FORMULIR, DAN LAPORAN YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+}

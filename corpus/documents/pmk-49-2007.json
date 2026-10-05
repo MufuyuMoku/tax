@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-49-2007",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2007"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-49-2007--b000-1",
   "pmk-49-2007--b001-2",
@@ -30,7 +45,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-196-2007",
+    "key": [
+     "PMK",
+     "196",
+     "2007",
+     null
+    ],
+    "number_as_written": "196/PMK.03/2007",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 49/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan Dengan Menggunakan Bahasa Asing dan Mata Uang Selain Rupiah serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Badan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN"
+   }
+  ],
   "revokes": [
    {
     "key": [

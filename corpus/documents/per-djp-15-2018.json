@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-15-2018",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "15",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-15-2018--b000-1",
+  "per-djp-15-2018--b001-2",
+  "per-djp-15-2018--b002-3",
+  "per-djp-15-2018--b003-4",
+  "per-djp-15-2018--b004-5",
+  "per-djp-15-2018--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-4-2021",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2021",
+     null
+    ],
+    "number_as_written": "PER-04/PJ/2021",
+    "quote": "Pasal 14 Pada saat Peraturan Direktur Jenderal ini mulai berlaku Peraturan Direktur Jenderal Pajak Nomor PER-15/PJ/2018 tentang Penetapan Wajib Pajak Kriteria Tertentu atau Pengusaha Kena Pajak Berisiko Rendah dan Perlakuan atas Selisih Kelebihan Pembayaran Pajak yang Belum Dikembalikan Dalam Surat Keputusan Pengembalian Pendahuluan Kelebihan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN PENGUSAHA KENA PAJAK BERISIKO RENDAH DAN PELAKSANAAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK TERHADAP WAJIB PAJAK KRITERIA TERTENTU, WAJIB PAJAK PERSYARATAN TERTENTU, DAN PENGUSAHA KENA PAJAK BERISIKO RENDAH SERTA SPECIAL PURPOSE COMPANY ATAU KONTRAK INVESTASI KOLEKTIF SEBAGAI PENGUSAHA KENA PAJAK BERISIKO RENDAH"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "31",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2010 tentang Tata Cara Penetapan Pengusaha Kena Pajak Berisiko Rendah; dan 2. Peraturan Direktur Jenderal Pajak Nomor PER-63/PJ/2010 tentang Tata Cara Pengembalian Kelebihan Pajak Pertambahan Nilai Pengusaha Kena Pajak Berisiko Rendah, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-31-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "63",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-63/PJ/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 2. Peraturan Direktur Jenderal Pajak Nomor PER-63/PJ/2010 tentang Tata Cara Pengembalian Kelebihan Pajak Pertambahan Nilai Pengusaha Kena Pajak Berisiko Rendah, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-63-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-06-08",
+   "detail_error": null,
+   "number_as_written": "PER-15/PJ/2018",
+   "retrieved_at": "2026-10-04T03:41:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN WAJIB PAJAK KRITERIA TERTENTU ATAU PENGUSAHA KENA PAJAK BERISIKO RENDAH DAN PERLAKUAN ATAS SELISIH KELEBIHAN PEMBAYARAN PAJAK YANG BELUM DIKEMBALIKAN DALAM SURAT KEPUTUSAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-wajib-pajak-kriteria-tertentu-atau-pengusaha-kena-pajak-berisiko-rendah-dan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 4/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=59",
+   "retrieved_at": "2026-10-03T02:53:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-wajib-pajak-kriteria-tertentu-atau-pengusaha-kena-pajak-berisiko-rendah-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15171,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:41:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-wajib-pajak-kriteria-tertentu-atau-pengusaha-kena-pajak-berisiko-rendah-dan"
+ },
+ "title": "PENETAPAN WAJIB PAJAK KRITERIA TERTENTU ATAU PENGUSAHA KENA PAJAK BERISIKO RENDAH DAN PERLAKUAN ATAS SELISIH KELEBIHAN PEMBAYARAN PAJAK YANG BELUM DIKEMBALIKAN DALAM SURAT KEPUTUSAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK"
+}

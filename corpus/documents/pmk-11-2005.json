@@ -1,0 +1,112 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-11-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "11",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-11-2005--b000-1",
+  "pmk-11-2005--b001-2",
+  "pmk-11-2005--b002-3",
+  "pmk-11-2005--b003-4",
+  "pmk-11-2005--b004-5",
+  "pmk-11-2005--b005-6",
+  "pmk-11-2005--b006-7",
+  "pmk-11-2005--b007-8",
+  "pmk-11-2005--b008-9",
+  "pmk-11-2005--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-73-2010",
+    "key": [
+     "PMK",
+     "73",
+     "2010",
+     null
+    ],
+    "number_as_written": "73/PMK.03/2010",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri Keuangan ini berlaku, Peraturan Menteri Keuangan Nomor 11/PMK.03/2005 tentang Penunjukan Kontraktor Perjanjian Kerjasama Pengusahaan Pertambangan Minyak dan Gas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Beserta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENUNJUKAN KONTRAKTOR KONTRAK KERJA SAMA PENGUSAHAAN MINYAK DAN GAS BUMI DAN KONTRAKTOR ATAU PEMEGANG KUASA/PEMEGANG IZIN PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, SERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-01-31",
+   "detail_error": null,
+   "number_as_written": "11/PMK.03/2005",
+   "retrieved_at": "2026-10-05T03:05:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN KONTRAKTOR PERJANJIAN KERJASAMA PENGUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BESERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kontraktor-perjanjian-kerjasama-pengusahaan-pertambangan-minyak-dan-gas-bumi"
+  },
+  {
+   "date_as_written": "2005-01-31 00:00:00",
+   "number_as_written": "11/PMK.03/2005",
+   "retrieved_at": "2026-09-21T14:46:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penunjukan Kontraktor Perjanjian Kerjasama Pengusahaan Pertambangan Minyak dan Gas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Beserta Tata Cra Pemungutan, Penyetoran dan Pelaporannya",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2005"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 73/2010 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=202",
+   "retrieved_at": "2026-10-03T03:47:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kontraktor-perjanjian-kerjasama-pengusahaan-pertambangan-minyak-dan-gas-bumi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=467",
+   "retrieved_at": "2026-09-21T14:46:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10245,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:05:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kontraktor-perjanjian-kerjasama-pengusahaan-pertambangan-minyak-dan-gas-bumi"
+ },
+ "title": "PENUNJUKAN KONTRAKTOR PERJANJIAN KERJASAMA PENGUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BESERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA"
+}

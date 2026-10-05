@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20KMK52KMK0102022.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-52-kmk-010-2022",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2022"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kmk-52-kmk-010-2022--b000-kedua",
   "kmk-52-kmk-010-2022--b001-ketiga",
@@ -47,7 +54,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

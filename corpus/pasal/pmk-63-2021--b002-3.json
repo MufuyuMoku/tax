@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1939,
+ "document_id": "pmk-63-2021",
+ "document_number": "63/PMK.03/2021",
+ "document_title": "TATA CARA PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SERTA PENERBITAN, PENANDATANGANAN, DAN PENGIRIMAN KEPUTUSAN ATAU KETETAPAN PAJAK SECARA ELEKTRONIK",
+ "id": "pmk-63-2021--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [
+  "urutan_loncat:8->11,11->10",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\n(1)\nPelaksanaan hak dan pemenuhan kewajiban perpajakan secara elektronik sebagaimana dimaksud dalam Pasal 2 ayat (1) merupakan pelaksanaan hak dan pemenuhan kewajiban perpajakan yang merupakan lingkup kewenangan Direktorat Jenderal Pajak.\n(2)\nDokumen Elektronik yang digunakan dalam pelaksanaan hak dan pemenuhan kewajiban perpajakan secara elektronik ditandatangani oleh Wajib Pajak dengan menggunakan Tanda Tangan Elektronik.\n(3)\nTanda Tangan Elektronik sebagaimana dimaksud pada ayat (2) dapat berupa:\na.\nTanda Tangan Elektronik tersertifikasi; atau\nb.\nTanda Tangan Elektronik tidak tersertifikasi.\n(4)\nTanda Tangan Elektronik tersertifikasi sebagaimana dimaksud pada ayat (3) huruf a merupakan Tanda Tangan Elektronik yang dibuat dengan menggunakan Sertifikat Elektronik yang diterbitkan oleh:\na.\nPenyelenggara Sertifikasi Elektronik instansi, untuk Wajib Pajak Instansi Pemerintah yang diwakili oleh aparatur sipil negara, Tentara Nasional Indonesia, dan Kepolisian Negara Republik Indonesia dalam melaksanakan hak dan memenuhi kewajiban perpajakan secara elektronik; atau\nb.\nPenyelenggara Sertifikasi Elektronik non-instansi dalam hal Wajib Pajak merupakan Wajib Pajak selain sebagaimana dimaksud pada huruf a.\n(5)\nTanda Tangan Elektronik tidak tersertifikasi sebagaimana dimaksud pada ayat (3) huruf b merupakan Tanda Tangan Elektronik yang dibuat dengan menggunakan Kode Otorisasi DJP yang diterbitkan oleh Direktorat Jenderal Pajak.\n(6)\nPenyelenggara Sertifikasi Elektronik dimaksud pada ayat (4) merupakan Sertifikasi Elektronik yang:\na.\ntelah mendapatkan pengakuan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika; dan\ne.\nditunjuk oleh Menteri.\n(7)\nPenunjukan sebagai Penyelenggara Sertifikasi Elektronik oleh Menteri sebagaimana dimaksud pada ayat (6) huruf b ditetapkan dengan Keputusan Menteri Keuangan yang ditandatangani oleh Direktur Jenderal Pajak atas nama Menteri.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:15:09+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-serta-penerbitan"
+ }
+}

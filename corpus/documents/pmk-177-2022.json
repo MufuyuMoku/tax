@@ -1,0 +1,169 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK177PMK032022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "177",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK177PMK032022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-177-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "177",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-177-2022--b000-1",
+  "pmk-177-2022--b001-2",
+  "pmk-177-2022--b002-3",
+  "pmk-177-2022--b003-4",
+  "pmk-177-2022--b004-5",
+  "pmk-177-2022--b005-6",
+  "pmk-177-2022--b006-7",
+  "pmk-177-2022--b007-8",
+  "pmk-177-2022--b008-9",
+  "pmk-177-2022--b009-10",
+  "pmk-177-2022--b010-11",
+  "pmk-177-2022--b011-12",
+  "pmk-177-2022--b012-13",
+  "pmk-177-2022--b013-14",
+  "pmk-177-2022--b014-15",
+  "pmk-177-2022--b015-16",
+  "pmk-177-2022--b016-17",
+  "pmk-177-2022--b017-18",
+  "pmk-177-2022--b018-19",
+  "pmk-177-2022--b019-20",
+  "pmk-177-2022--b020-21",
+  "pmk-177-2022--b021-22",
+  "pmk-177-2022--b022-23",
+  "pmk-177-2022--b023-24",
+  "pmk-177-2022--b024-25",
+  "pmk-177-2022--b025-26",
+  "pmk-177-2022--b026-27",
+  "pmk-177-2022--b027-28",
+  "pmk-177-2022--b028-29",
+  "pmk-177-2022--b029-30",
+  "pmk-177-2022--b030-31",
+  "pmk-177-2022--b031-32"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "239",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 239/PMK.03/2014",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 239/PMK.03/2014 tentang Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan (Berita Negara Republik Indonesia Tahun 2014 Nomor 1951); dan 2. Pasal 107 dan Pasal 114 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-239-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "18",
+     "2021",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 18/PMK.03/2021",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Pasal 107 dan Pasal 114 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-18-2021"
+   },
+   {
+    "key": [
+     "UU",
+     "11",
+     "2020",
+     null
+    ],
+    "name": "Undang-Undang Nomor 11 Tahun 2020",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Pasal 107 dan Pasal 114 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-11-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-11-30",
+   "detail_error": null,
+   "number_as_written": "177/PMK.03/2022",
+   "retrieved_at": "2026-10-04T03:10:20+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-2"
+  },
+  {
+   "date_as_written": "2022-11-30 00:00:00",
+   "number_as_written": "177/PMK.03/2022",
+   "retrieved_at": "2026-09-21T14:18:58+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/177-pmk-03-2022"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=20",
+   "retrieved_at": "2026-10-03T02:39:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=56",
+   "retrieved_at": "2026-09-21T14:18:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/177-pmk-03-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 59928,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:10:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-2"
+ },
+ "title": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+}

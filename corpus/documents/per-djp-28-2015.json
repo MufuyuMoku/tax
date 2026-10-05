@@ -1,0 +1,79 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-28-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "28",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-28-2015--b000-1",
+  "per-djp-28-2015--b001-2",
+  "per-djp-28-2015--b002-3",
+  "per-djp-28-2015--b003-4",
+  "per-djp-28-2015--b004-5",
+  "per-djp-28-2015--b005-6",
+  "per-djp-28-2015--b006-7",
+  "per-djp-28-2015--b007-8",
+  "per-djp-28-2015--b008-9",
+  "per-djp-28-2015--b009-10",
+  "per-djp-28-2015--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-07-22",
+   "detail_error": null,
+   "number_as_written": "PER-28/PJ/2015",
+   "retrieved_at": "2026-10-04T03:57:45+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN DAN PENCABUTAN SERTIFIKAT ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-pencabutan-sertifikat-elektronik"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=76",
+   "retrieved_at": "2026-10-03T02:59:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-pencabutan-sertifikat-elektronik",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21558,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:57:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-pencabutan-sertifikat-elektronik"
+ },
+ "title": "TATA CARA PEMBERIAN DAN PENCABUTAN SERTIFIKAT ELEKTRONIK"
+}

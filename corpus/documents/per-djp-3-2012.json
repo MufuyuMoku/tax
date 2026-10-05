@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2012--b000-1",
+  "per-djp-3-2012--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-02-03",
+   "detail_error": null,
+   "number_as_written": "PER-03/PJ/2012",
+   "retrieved_at": "2026-10-04T07:37:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-68/PJ/2010 TENTANG TATA CARA PEMBENTUKAN TIM QUALITY ASSURANCE PEMERIKSAAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-68pj2010-tentang-tata-cara-pembentukan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=117",
+   "retrieved_at": "2026-10-03T03:15:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-68pj2010-tentang-tata-cara-pembentukan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2648,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:37:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-68pj2010-tentang-tata-cara-pembentukan"
+ },
+ "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-68/PJ/2010 TENTANG TATA CARA PEMBENTUKAN TIM QUALITY ASSURANCE PEMERIKSAAN"
+}

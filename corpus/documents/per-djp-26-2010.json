@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-26-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "26",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-26-2010--b000-1",
+  "per-djp-26-2010--b001-2",
+  "per-djp-26-2010--b002-3",
+  "per-djp-26-2010--b003-4",
+  "per-djp-26-2010--b004-5",
+  "per-djp-26-2010--b005-6",
+  "per-djp-26-2010--b006-7",
+  "per-djp-26-2010--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-18-2017",
+    "key": [
+     "PER-DJP",
+     "18",
+     "2017",
+     null
+    ],
+    "number_as_written": "PER-18/PJ/2017",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2010 tentang Tata Cara Penelitian Surat Setoran Pajak atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENELITIAN BUKTI PEMENUHAN KEWAJIBAN PENYETORAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN, DAN PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ ATAU BANGUNAN BESERTA PERUBAHANNYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-05-04",
+   "detail_error": null,
+   "number_as_written": "PER-26/PJ/2010",
+   "retrieved_at": "2026-10-05T01:18:24+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENELITIAN SURAT SETORAN PAJAK ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penelitian-surat-setoran-pajak-atas-penghasilan-dari-pengalihan-hak-atas-tanah"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=129",
+   "retrieved_at": "2026-10-03T03:19:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penelitian-surat-setoran-pajak-atas-penghasilan-dari-pengalihan-hak-atas-tanah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9686,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:18:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penelitian-surat-setoran-pajak-atas-penghasilan-dari-pengalihan-hak-atas-tanah"
+ },
+ "title": "TATA CARA PENELITIAN SURAT SETORAN PAJAK ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
+}

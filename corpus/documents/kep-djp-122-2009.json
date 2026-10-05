@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-122-2009",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "122",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-122-2009--b000-kedua",
+  "kep-djp-122-2009--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "41",
+     "2008",
+     null
+    ],
+    "name": "Undang-Undang Nomor 41 Tahun 2008",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "rejected": "hierarki: KEP-DJP tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-41-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-10-22",
+   "detail_error": null,
+   "number_as_written": "KEP-122/PJ./2009",
+   "retrieved_at": "2026-10-05T01:34:34+00:00",
+   "source": "DJP",
+   "title_as_written": "REVISI DISTRIBUSI PERUBAHAN RENCANA PENERIMAAN PPH NON MIGAS, PPN & PPNBM, PAJAK LAINNYA, SERTA PBB DAN BPHTB TAHUN ANGGARAN 2009",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/revisi-distribusi-perubahan-rencana-penerimaan-pph-non-migas-ppn-ppnbm-pajak-lainnya"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=141",
+   "retrieved_at": "2026-10-03T03:24:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/revisi-distribusi-perubahan-rencana-penerimaan-pph-non-migas-ppn-ppnbm-pajak-lainnya",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4791,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:34:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/revisi-distribusi-perubahan-rencana-penerimaan-pph-non-migas-ppn-ppnbm-pajak-lainnya"
+ },
+ "title": "REVISI DISTRIBUSI PERUBAHAN RENCANA PENERIMAAN PPH NON MIGAS, PPN & PPNBM, PAJAK LAINNYA, SERTA PBB DAN BPHTB TAHUN ANGGARAN 2009"
+}

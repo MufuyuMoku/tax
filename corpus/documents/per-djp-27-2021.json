@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-27-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "27",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-27-2021--b000-1",
+  "per-djp-27-2021--b001-2",
+  "per-djp-27-2021--b002-3",
+  "per-djp-27-2021--b003-4",
+  "per-djp-27-2021--b004-5",
+  "per-djp-27-2021--b005-6",
+  "per-djp-27-2021--b006-7",
+  "per-djp-27-2021--b007-8",
+  "per-djp-27-2021--b008-9",
+  "per-djp-27-2021--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2025",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-7/PJ/2025",
+    "quote": "Pasal 94 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 7. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2021 tentang Jenis Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan Secara Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik, Persyaratan Dokumen Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik yang Digunakan, Tata Cara Penyampaian Dokumen Elektronik dan Saluran yang Digunakan, serta Tata Cara Tindak Lanjut atas Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan secara Elektronik. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, PENGUSAHA KENA PAJAK, OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SERTA PERINCIAN JENIS, DOKUMEN, DAN SALURAN UNTUK PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-12-31",
+   "detail_error": null,
+   "number_as_written": "PER-27/PJ/2021",
+   "retrieved_at": "2026-10-04T03:12:23+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SECARA ELEKTRONIK, PERSYARATAN DOKUMEN ELEKTRONIK YANG HARUS DILAMPIRKAN, TANDA TANGAN ELEKTRONIK YANG DIGUNAKAN, TATA CARA PENYAMPAIAN DOKUMEN ELEKTRONIK DAN SALURAN YANG DIGUNAKAN, SERTA TATA CARA TINDAK LANJUT ATAS PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SECARA ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-secara-elektronik-persyaratan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=23",
+   "retrieved_at": "2026-10-03T02:41:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-secara-elektronik-persyaratan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18655,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:12:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-secara-elektronik-persyaratan"
+ },
+ "title": "JENIS PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SECARA ELEKTRONIK, PERSYARATAN DOKUMEN ELEKTRONIK YANG HARUS DILAMPIRKAN, TANDA TANGAN ELEKTRONIK YANG DIGUNAKAN, TATA CARA PENYAMPAIAN DOKUMEN ELEKTRONIK DAN SALURAN YANG DIGUNAKAN, SERTA TATA CARA TINDAK LANJUT ATAS PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SECARA ELEKTRONIK"
+}

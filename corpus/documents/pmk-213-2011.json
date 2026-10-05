@@ -1,0 +1,354 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-213-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "213",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-213-2011--b000-1",
+  "pmk-213-2011--b001-2",
+  "pmk-213-2011--b002-3",
+  "pmk-213-2011--b003-4",
+  "pmk-213-2011--b004-5",
+  "pmk-213-2011--b005-6",
+  "pmk-213-2011--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "110",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 110/PMK.010/2006",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 110/PMK.010/2006 tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor yang telah beberapa kali diubah dengan: 1. Peraturan Menteri Keuangan Nomor 110/PMK.011/2007; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-110-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "110",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 110/PMK.011/2007",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 110/PMK.010/2006 tentang Penetapan Sistem Klasifikasi Barang Dan Pembebanan Tarif Bea Masuk Atas Barang Impor yang telah beberapa kali diubah dengan: 1. Peraturan Menteri Keuangan Nomor 110/PMK.011/2007; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-110-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "233",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 233/PMK.011/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 233/PMK.011/2008; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-233-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "88",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 88/PMK.011/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 3. Peraturan Menteri Keuangan Nomor 88/PMK.011/2010; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-88-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "241",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 241/PMK.011/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 4. Peraturan Menteri Keuangan Nomor 241/PMK.011/2010; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-241-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "13",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 13/PMK.011/2011",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 5. Peraturan Menteri Keuangan Nomor 13/PMK.011/2011; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-13-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "65",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 65/PMK.011/2011",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 6. Peraturan Menteri Keuangan Nomor 65/PMK.011/2011; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-65-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "80",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 80/PMK.011/2011",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 7. Peraturan Menteri Keuangan Nomor 80/PMK.011/2011; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-80-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "90",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 90/PMK.011/2011",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 8. Peraturan Menteri Keuangan Nomor 90/PMK.011/2011; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-90-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "174",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 174/PMK.011/2011",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … 9. Peraturan Menteri Keuangan Nomor 174/PMK.011/2011; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-174-2011"
+   },
+   {
+    "key": [
+     "PMK",
+     "93",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 93/PMK.011/2007",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 93/PMK.011/2007 tentang Penetapan Tarif Bea Masuk Atas Impor Beras; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-93-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "179",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 179/PMK.011/2007",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 179/PMK.011/2007 tentang Penetapan Tarif Bea Masuk Atas Impor Platform Pengeboran Atau Produksi Terapung Atau Di Bawah Air; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-179-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "70",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 70/PMK.011/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … d. Peraturan Menteri Keuangan Nomor 70/PMK.011/2008 tentang Penetapan Tarif Bea Masuk Atas Barang Impor Produk-Produk Tertentu; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-70-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "128",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 128/PMK.011/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … e. Peraturan Menteri Keuangan Nomor 128/PMK.011/2008 tentang Penetapan Tarif Bea Masuk Atas Impor Produk Olahan Tembakau; … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-128-2008"
+   },
+   {
+    "key": [
+     "PMK",
+     "7",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 07/PMK.011/2009",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … f. Peraturan Menteri Keuangan Nomor 07/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Tepung Gandum; g. Peraturan Menteri Keuangan Nomor 19/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Barang Impor Produk-Produk Tertentu; h. Peraturan Menteri Keuangan Nomor 101/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Susu Tertentu; i. Peraturan Menteri Keuangan Nomor 150/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Gula sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 239/PMK.011/2009; dan j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-7-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "19",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 19/PMK.011/2009",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … g. Peraturan Menteri Keuangan Nomor 19/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Barang Impor Produk-Produk Tertentu; h. Peraturan Menteri Keuangan Nomor 101/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Susu Tertentu; i. Peraturan Menteri Keuangan Nomor 150/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Gula sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 239/PMK.011/2009; dan j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-19-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "101",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 101/PMK.011/2009",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … h. Peraturan Menteri Keuangan Nomor 101/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Susu Tertentu; i. Peraturan Menteri Keuangan Nomor 150/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Gula sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 239/PMK.011/2009; dan j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-101-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "150",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 150/PMK.011/2009",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … i. Peraturan Menteri Keuangan Nomor 150/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Gula sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 239/PMK.011/2009; dan j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-150-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "239",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 239/PMK.011/2009",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … i. Peraturan Menteri Keuangan Nomor 150/PMK.011/2009 tentang Penetapan Tarif Bea Masuk Atas Impor Gula sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 239/PMK.011/2009; dan j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-239-2009"
+   },
+   {
+    "key": [
+     "PMK",
+     "82",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 82/PMK.011/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … j. Peraturan Menteri Keuangan Nomor 82/PMK.011/2010 tentang Penetapan Tarif Bea Masuk Atas Impor Produk-Produk Minuman Yang Mengandung Etil Alkohol Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-82-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-14",
+   "detail_error": null,
+   "number_as_written": "213/PMK.011/2011",
+   "retrieved_at": "2026-10-04T07:40:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SISTEM KLASIFIKASI BARANG DAN PEMBEBANAN TARIF BEA MASUK ATAS BARANG IMPOR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-sistem-klasifikasi-barang-dan-pembebanan-tarif-bea-masuk-atas-barang-impor-0"
+  },
+  {
+   "date_as_written": "2011-12-14 00:00:00",
+   "number_as_written": "213/PMK.011/2011",
+   "retrieved_at": "2026-09-21T14:37:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Sistem Klasifikasi Barang dan Pembebanan Tarif Bea Masuk atas Barang Impor.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/213-pmk-011-2011"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=120",
+   "retrieved_at": "2026-10-03T03:16:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-sistem-klasifikasi-barang-dan-pembebanan-tarif-bea-masuk-atas-barang-impor-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=322",
+   "retrieved_at": "2026-09-21T14:37:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/213-pmk-011-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6687,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:40:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-sistem-klasifikasi-barang-dan-pembebanan-tarif-bea-masuk-atas-barang-impor-0"
+ },
+ "title": "PENETAPAN SISTEM KLASIFIKASI BARANG DAN PEMBEBANAN TARIF BEA MASUK ATAS BARANG IMPOR"
+}

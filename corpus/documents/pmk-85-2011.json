@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-85-2011",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2011"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-85-2011--b000-1",
   "pmk-85-2011--b001-2",
@@ -41,7 +56,22 @@
    }
   ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "Peraturan Menteri Keuangan Nomor 85/PMK.03/2011 tentang Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Bunga Obligasi (Berita Negara Republik Indonesia Tahun 2011 Nomor 307) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 7/PMK.011/2012 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2011 tentang Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Bunga Obligasi (Berita Negara Republik Indonesia Tahun 2012 Nomor 67); … 14. Peraturan Menteri Keuangan Nomor 10/PMK.03/2013 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang, dicabut dan dinyatakan tidak berlaku (Berita Negara Republik Indonesia Tahun 2013 Nomor 13);",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -86,7 +116,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

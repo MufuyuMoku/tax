@@ -1,0 +1,174 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-80-2007",
+ "identity": {
+  "code": "PP",
+  "number": "80",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-80-2007--b000-1",
+  "pp-80-2007--b001-2",
+  "pp-80-2007--b002-3",
+  "pp-80-2007--b003-4",
+  "pp-80-2007--b004-5",
+  "pp-80-2007--b005-6",
+  "pp-80-2007--b006-7",
+  "pp-80-2007--b007-8",
+  "pp-80-2007--b008-9",
+  "pp-80-2007--b009-10",
+  "pp-80-2007--b010-11",
+  "pp-80-2007--b011-12",
+  "pp-80-2007--b012-13",
+  "pp-80-2007--b013-14",
+  "pp-80-2007--b014-15",
+  "pp-80-2007--b015-16",
+  "pp-80-2007--b016-17",
+  "pp-80-2007--b017-18",
+  "pp-80-2007--b018-19",
+  "pp-80-2007--b019-20",
+  "pp-80-2007--b020-21",
+  "pp-80-2007--b021-22",
+  "pp-80-2007--b022-23",
+  "pp-80-2007--b023-24",
+  "pp-80-2007--b024-25",
+  "pp-80-2007--b025-26",
+  "pp-80-2007--b026-27",
+  "pp-80-2007--b027-28",
+  "pp-80-2007--b028-29",
+  "pp-80-2007--b029-30",
+  "pp-80-2007--b030-31",
+  "pp-80-2007--b031-32",
+  "pp-80-2007--b032-33",
+  "pp-80-2007--b033-34",
+  "pp-80-2007--b034-35",
+  "pp-80-2007--b035-36",
+  "pp-80-2007--b036-37",
+  "pp-80-2007--p037-1",
+  "pp-80-2007--p038-2",
+  "pp-80-2007--p039-3",
+  "pp-80-2007--p040-4",
+  "pp-80-2007--p041-5",
+  "pp-80-2007--p042-6",
+  "pp-80-2007--p043-7",
+  "pp-80-2007--p044-8",
+  "pp-80-2007--p045-9",
+  "pp-80-2007--p046-10",
+  "pp-80-2007--p047-11",
+  "pp-80-2007--p048-12",
+  "pp-80-2007--p049-13",
+  "pp-80-2007--p050-14",
+  "pp-80-2007--p051-15",
+  "pp-80-2007--p052-16",
+  "pp-80-2007--p053-17",
+  "pp-80-2007--p054-18",
+  "pp-80-2007--p055-19",
+  "pp-80-2007--p056-20",
+  "pp-80-2007--p057-21",
+  "pp-80-2007--p058-22",
+  "pp-80-2007--p059-23",
+  "pp-80-2007--p060-24",
+  "pp-80-2007--p061-25",
+  "pp-80-2007--p062-26",
+  "pp-80-2007--p063-27",
+  "pp-80-2007--p064-28",
+  "pp-80-2007--p065-29",
+  "pp-80-2007--p066-30",
+  "pp-80-2007--p067-31",
+  "pp-80-2007--p068-32",
+  "pp-80-2007--p069-33",
+  "pp-80-2007--p070-34",
+  "pp-80-2007--p071-35",
+  "pp-80-2007--p072-36",
+  "pp-80-2007--p073-37"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-74-2011",
+    "key": [
+     "PP",
+     "74",
+     "2011",
+     null
+    ],
+    "number_as_written": "74 TAHUN 2011",
+    "quote": "Pasal 66 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 80 Tahun 2007 tentang Tata Cara Pelaksanaan Hak dan Kewajiban Perpajakan Berdasarkan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 28 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 4797), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATACARA PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "80 TAHUN 2007",
+   "retrieved_at": "2026-10-05T02:24:00+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN HAK DAN KEWAJIBAN PERPAJAKAN BERDASARKAN UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 28 TAHUN 2007",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-hak-dan-kewajiban-perpajakan-berdasarkan-undang-undang-nomor-6"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "PP 80 TAHUN 2007",
+   "retrieved_at": "2026-09-21T14:10:25+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pelaksanaan Hak dan Kewajiban Perpajakan Berdasarkan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 28 Tahun 2007",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=175",
+   "retrieved_at": "2026-10-03T03:35:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-hak-dan-kewajiban-perpajakan-berdasarkan-undang-undang-nomor-6",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=72",
+   "retrieved_at": "2026-09-21T14:10:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 75657,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:24:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-hak-dan-kewajiban-perpajakan-berdasarkan-undang-undang-nomor-6"
+ },
+ "title": "TATA CARA PELAKSANAAN HAK DAN KEWAJIBAN PERPAJAKAN BERDASARKAN UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 28 TAHUN 2007"
+}

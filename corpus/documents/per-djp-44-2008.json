@@ -1,0 +1,144 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-44-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "44",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-44-2008--b000-1",
+  "per-djp-44-2008--b001-2",
+  "per-djp-44-2008--b002-3",
+  "per-djp-44-2008--b003-4",
+  "per-djp-44-2008--b004-5",
+  "per-djp-44-2008--b005-6",
+  "per-djp-44-2008--b006-7",
+  "per-djp-44-2008--b007-8",
+  "per-djp-44-2008--b008-9",
+  "per-djp-44-2008--b009-10",
+  "per-djp-44-2008--b010-11",
+  "per-djp-44-2008--b011-12",
+  "per-djp-44-2008--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-41-2009",
+    "key": [
+     "PER-DJP",
+     "41",
+     "2009",
+     null
+    ],
+    "number_as_written": "41/PJ/2009",
+    "quote": "Mengubah ketentuan Bab IV Pasal 6 Peraturan Direktur Jenderal Pajak Nomor 44/PJ./2008 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, sehingga keseluruhan Bab IV Pasal 6 berbunyi sebagai berikut: Pasal 6 (1) Dalam hal Wajib Pajak terdaftar dan/atau PKP terdaftar pindah tempat tinggal atau tempat kedudukan dan/atau tempat kegiatan usaha ke wilayah kerja KPP lain, Wajib Pajak dan/atau PKP wajib mengajukan permohonan pindah ke: a. KPP Lama, dalam hal pemohon adalah Wajib Pajak dan/atau PKP Badan atau Joint Operation atau Wajib Pajak Bendahara;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 44/PJ./2008 TENTANG TATA CARA PENDAFTARAN NOMOR POKOK WAJIB PAJAK DAN/ATAU PENGUKUHAN PENGUSAHA KENA PAJAK, PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK"
+   },
+   {
+    "id": "per-djp-62-2010",
+    "key": [
+     "PER-DJP",
+     "62",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-62/PJ/2010",
+    "quote": "Mengubah Ketentuan Bab V Pasal 8 Peraturan Direktur Jenderal Pajak Nomor 44/PJ/2008 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, sehingga keseluruhan Bab V Pasal 8 berbunyi sebagai berikut : Pasal 8 (1) KPP harus melakukan konfirmasi lapangan untuk: a. membuktikan kebenaran pengisian formulir sebagaimana dimaksud pada Pasal 4 ayat (1), Pasal 5 ayat (1), dan Pasal 6 ayat (1);",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 44/PJ/2008 TENTANG TATA CARA PENDAFTARAN NOMOR POKOK WAJIB PAJAK DAN/ATAU PENGUKUHAN PENGUSAHA KENA PAJAK,PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-20-2013",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-20/PJ/2013",
+    "quote": "… f. Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-10-20",
+   "detail_error": null,
+   "number_as_written": "PER-44/PJ/2008",
+   "retrieved_at": "2026-10-05T02:04:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN NPWP DAN/ATAU PENGUKUHAN PENGUSAHA KENA PAJAK, PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-danatau-pengukuhan-pengusaha-kena-pajak-perubahan-data-dan"
+  },
+  {
+   "date_as_written": "2008-10-20 00:00:00",
+   "number_as_written": "PerDJP 44/PJ/2008",
+   "retrieved_at": "2026-09-21T14:58:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-44-pj-2008"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 20/2013 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=162",
+   "retrieved_at": "2026-10-03T03:31:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-danatau-pengukuhan-pengusaha-kena-pajak-perubahan-data-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=44",
+   "retrieved_at": "2026-09-21T14:58:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-44-pj-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16852,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:04:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-npwp-danatau-pengukuhan-pengusaha-kena-pajak-perubahan-data-dan"
+ },
+ "title": "TATA CARA PENDAFTARAN NPWP DAN/ATAU PENGUKUHAN PENGUSAHA KENA PAJAK, PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK"
+}

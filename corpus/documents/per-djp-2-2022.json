@@ -1,0 +1,121 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER02PJ2022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "2",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER02PJ2022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-2-2022",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "2",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-2-2022--b000-1",
+  "per-djp-2-2022--b001-2",
+  "per-djp-2-2022--b002-3",
+  "per-djp-2-2022--b003-4",
+  "per-djp-2-2022--b004-5",
+  "per-djp-2-2022--b005-6",
+  "per-djp-2-2022--b006-7",
+  "per-djp-2-2022--b007-8",
+  "per-djp-2-2022--b008-9",
+  "per-djp-2-2022--b009-10",
+  "per-djp-2-2022--b010-11",
+  "per-djp-2-2022--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-10-2025",
+    "key": [
+     "PER-DJP",
+     "10",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-10/PJ/2025",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2022 tentang Tata Cara Pelaksanaan Competent Authority Meetings, Tax Examinations Abroad, dan Simultaneous Tax Examinations dalam Rangka Pertukaran Informasi Berdasarkan Perjanjian Internasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2020",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal mi mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2020 tentang Tata Cara Pelaksanaan Tax Examination Abroad dalam Rangka Pertukaran Informasi Berdasarkan Perjanjian Internasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-02-02",
+   "detail_error": null,
+   "number_as_written": "PER-02/PJ/2022",
+   "retrieved_at": "2026-10-04T03:11:42+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN COMPETENT AUTHORITY MEETINGS, TAX EXAMINATIONS ABROAD, DAN SIMULTANEOUS TAX EXAMINATIONS DALAM RANGKA PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-competent-authority-meetings-tax-examinations-abroad-dan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 10/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=23",
+   "retrieved_at": "2026-10-03T02:41:02+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-competent-authority-meetings-tax-examinations-abroad-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21119,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:11:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-competent-authority-meetings-tax-examinations-abroad-dan"
+ },
+ "title": "TATA CARA PELAKSANAAN COMPETENT AUTHORITY MEETINGS, TAX EXAMINATIONS ABROAD, DAN SIMULTANEOUS TAX EXAMINATIONS DALAM RANGKA PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL"
+}

@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-20-2018",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "20",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-20-2018--b000-1",
+  "per-djp-20-2018--b001-2",
+  "per-djp-20-2018--b002-3",
+  "per-djp-20-2018--b003-4",
+  "per-djp-20-2018--b004-5",
+  "per-djp-20-2018--b005-6",
+  "per-djp-20-2018--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2025",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-7/PJ/2025",
+    "quote": "Pasal 94 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Peraturan Direktur Jenderal Pajak NomorPER-20/PJ/2018 tentang Tata Cara Pendaftaran Wajib Pajak dan Pemberian Nomor Pokok Wajib Pajak Secara Elektronik Melalui Sistem Administrasi Badan Hukum dan Sistem Perizinan Berusaha Terintegrasi Secara Elektronik; … 7. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2021 tentang Jenis Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan Secara Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik, Persyaratan Dokumen Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik yang Digunakan, Tata Cara Penyampaian Dokumen Elektronik dan Saluran yang Digunakan, serta Tata Cara Tindak Lanjut atas Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan secara Elektronik. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, PENGUSAHA KENA PAJAK, OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SERTA PERINCIAN JENIS, DOKUMEN, DAN SALURAN UNTUK PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-09-10",
+   "detail_error": null,
+   "number_as_written": "PER-20/PJ/2018",
+   "retrieved_at": "2026-10-04T03:40:47+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN WAJIB PAJAK DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA ELEKTRONIK MELALUI SISTEM ADMINISTRASI BADAN HUKUM DAN SISTEM PERIZINAN BERUSAHA TERINTEGRASI SECARA ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-dan-pemberian-nomor-pokok-wajib-pajak-secara-elektronik"
+  },
+  {
+   "date_as_written": "2018-09-10 00:00:00",
+   "number_as_written": "PER-20/PJ/2018",
+   "retrieved_at": "2026-09-21T14:57:32+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pendaftaran Wajib Pajak dan Pemberian Nomor Pokok Wajib Pajak secara Elektronik melalui Sistem Administrasi Badan Hukum dan Sistem Perizinan Berusaha Terintegrasi secara Elektronik",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-20-pj-2018"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=59",
+   "retrieved_at": "2026-10-03T02:53:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-dan-pemberian-nomor-pokok-wajib-pajak-secara-elektronik",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:57:32+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-20-pj-2018",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8801,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:40:47+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-dan-pemberian-nomor-pokok-wajib-pajak-secara-elektronik"
+ },
+ "title": "TATA CARA PENDAFTARAN WAJIB PAJAK DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA ELEKTRONIK MELALUI SISTEM ADMINISTRASI BADAN HUKUM DAN SISTEM PERIZINAN BERUSAHA TERINTEGRASI SECARA ELEKTRONIK"
+}

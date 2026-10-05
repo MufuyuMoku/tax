@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-460-2019",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "460",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-460-2019--b000-kesatu",
+  "kep-djp-460-2019--b001-kedua",
+  "kep-djp-460-2019--b002-ketiga",
+  "kep-djp-460-2019--b003-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-05-17",
+   "detail_error": null,
+   "number_as_written": "KEP-460/PJ/2019",
+   "retrieved_at": "2026-10-04T03:37:40+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-di-2"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=52",
+   "retrieved_at": "2026-10-03T02:51:04+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-di-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3612,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:37:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-di-2"
+ },
+ "title": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS DAN KANTOR PELAYANAN PAJAK MADYA"
+}

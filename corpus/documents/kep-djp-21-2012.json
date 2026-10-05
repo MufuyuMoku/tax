@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-21-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "21",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-21-2012--b000-i",
+  "kep-djp-21-2012--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "26",
+     "2012",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-26/PJ/2012",
+    "quote": "Beberapa ketentuan dalam Lampiran KEP-26/PJ/2012 tentang Pemindahan Wajib Pajak dari Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya yang telah beberapa kali diubah dengan: Keputusan Direktur Jenderal Pajak Nomor KEP-86/PJ/2012; Keputusan Direktur Jenderal Pajak Nomor KEP-08/PJ.08/2012; Keputusan Direktur Jenderal Pajak Nomor KEP-10/PJ.08/2012; Keputusan Direktur Jenderal Pajak Nomor KEP-11/PJ.08/2012; dan Keputusan Direktur Jenderal Pajak Nomor KEP-17/PJ.08/2012; diubah menjadi sebagaimana ditetapkan dalam Lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-26-2012"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-06-11",
+   "detail_error": null,
+   "number_as_written": "KEP-21/PJ.08/2012",
+   "retrieved_at": "2026-10-04T06:53:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEENAM ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-26/PJ/2012 TENTANG PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keenam-atas-keputusan-direktur-jenderal-pajak-nomor-kep-26pj2012-tentang"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=111",
+   "retrieved_at": "2026-10-03T03:13:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keenam-atas-keputusan-direktur-jenderal-pajak-nomor-kep-26pj2012-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3857,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:53:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-keenam-atas-keputusan-direktur-jenderal-pajak-nomor-kep-26pj2012-tentang"
+ },
+ "title": "PERUBAHAN KEENAM ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-26/PJ/2012 TENTANG PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+}

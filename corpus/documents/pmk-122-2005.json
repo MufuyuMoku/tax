@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-122-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "122",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-12-05",
+   "detail_error": null,
+   "number_as_written": "122/PMK.06/2005",
+   "retrieved_at": "2026-10-05T02:58:37+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN IMBALAN BUNGA BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KEPADA WAJIB PAJA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-imbalan-bunga-bea-perolehan-hak-atas-tanah-dan-bangunan-kepada-wajib"
+  },
+  {
+   "date_as_written": "2005-12-05 00:00:00",
+   "number_as_written": "122/PMK.06/2005",
+   "retrieved_at": "2026-09-21T14:46:06+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Imbalan Bunga Bea Perolehan Hak atas Tanah dan Bangunan Kepada Wajib Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-06-2005"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=197",
+   "retrieved_at": "2026-10-03T03:46:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-imbalan-bunga-bea-perolehan-hak-atas-tanah-dan-bangunan-kepada-wajib",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=456",
+   "retrieved_at": "2026-09-21T14:46:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-06-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMBERIAN IMBALAN BUNGA BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KEPADA WAJIB PAJA"
+}

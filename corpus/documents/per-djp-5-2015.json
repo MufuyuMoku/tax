@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-5-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-5-2015--b000-1",
+  "per-djp-5-2015--b001-2",
+  "per-djp-5-2015--b002-3",
+  "per-djp-5-2015--b003-4",
+  "per-djp-5-2015--b004-5",
+  "per-djp-5-2015--b005-6",
+  "per-djp-5-2015--b006-7",
+  "per-djp-5-2015--b007-8",
+  "per-djp-5-2015--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2019",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2019",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, a. Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2015 tentang Penyedia Layanan Surat Pemberitahuan Elektronik, b. ketentuan mengenai Penyelenggara e -Faktur Host-to-Host (H2H) sebagaimana diatur dalam Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2017, dan c. ketentuan mengenai perusahaan Application Service Provider sebagai pembuat Kode Billing sebagaimana diatur dalam Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2017 tentang Pembayaran Secara Elektronik dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENYEDIA JASA APLIKASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-02-13",
+   "detail_error": null,
+   "number_as_written": "PER-05/PJ/2015",
+   "retrieved_at": "2026-10-04T04:04:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEDIA LAYANAN SURAT PEMBERITAHUAN ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penyedia-layanan-surat-pemberitahuan-elektronik"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2019 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=82",
+   "retrieved_at": "2026-10-03T03:01:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyedia-layanan-surat-pemberitahuan-elektronik",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8225,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:04:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-layanan-surat-pemberitahuan-elektronik"
+ },
+ "title": "PENYEDIA LAYANAN SURAT PEMBERITAHUAN ELEKTRONIK"
+}

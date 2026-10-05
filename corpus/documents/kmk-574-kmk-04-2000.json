@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-574-kmk-04-2000",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2000"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -26,6 +37,21 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
+   },
+   {
+    "id": "pmk-87-2007",
+    "key": [
+     "PMK",
+     "87",
+     "2007",
+     null
+    ],
+    "number_as_written": "87/PMK.03/2007",
+    "quote": "Mengubah Lampiran I angka Romawi III butir 11 Keputusan Menteri Keuangan Nomor 574/KMK04/2000 tentang Organisasi-Organisasi Internasioanal dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan yang telah beberapa kali diubah dengan Keputusan Menteri Keuangan : Nomor 230/KMK.03/2001;",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEENAM ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIOANL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
    }
   ],
   "amends": [],

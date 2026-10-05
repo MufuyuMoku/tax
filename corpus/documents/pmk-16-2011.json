@@ -1,0 +1,161 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-16-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "16",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-16-2011--b000-1",
+  "pmk-16-2011--b001-2",
+  "pmk-16-2011--b002-3",
+  "pmk-16-2011--b003-4",
+  "pmk-16-2011--b004-5",
+  "pmk-16-2011--b005-6",
+  "pmk-16-2011--b006-7",
+  "pmk-16-2011--b007-8",
+  "pmk-16-2011--b008-9",
+  "pmk-16-2011--b009-10",
+  "pmk-16-2011--b010-11",
+  "pmk-16-2011--b011-12",
+  "pmk-16-2011--b012-14",
+  "pmk-16-2011--b013-15",
+  "pmk-16-2011--b014-16",
+  "pmk-16-2011--b015-17"
+ ],
+ "quality_flags": [
+  "urutan_loncat:12->14"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-185-2015",
+    "key": [
+     "PMK",
+     "185",
+     "2015",
+     null
+    ],
+    "number_as_written": "185/PMK.03/2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nornor 16/PMK.03/2011 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 16/PMK.03/2011 TENTANG TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-244-2015",
+    "key": [
+     "PMK",
+     "244",
+     "2015",
+     null
+    ],
+    "number_as_written": "244/PMK.03/2015",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini berlaku: 1. Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak; 2. Peraturan Menteri Keuangan Nomor 185/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 tentang Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "29",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 29/PMK.03/2005",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku: 1. Peraturan Menteri Keuangan Nomor 29/PMK.03/2005 tentang Tata Cara Pembayaran Kembali Kelebihan Pembayaran Pajak Bumi dan Bangunan; 2. Peraturan Menteri Keuangan Nomor 188/PMK.03/2007 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-29-2005"
+   },
+   {
+    "key": [
+     "PMK",
+     "188",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 188/PMK.03/2007",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku: … 2. Peraturan Menteri Keuangan Nomor 188/PMK.03/2007 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-188-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-01-24",
+   "detail_error": null,
+   "number_as_written": "16/PMK.03/2011",
+   "retrieved_at": "2026-10-04T07:44:11+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pengembalian-kelebihan-pembayaran-pajak-1"
+  },
+  {
+   "date_as_written": "2011-01-24 00:00:00",
+   "number_as_written": "16/PMK.03/2011",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2011"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=124",
+   "retrieved_at": "2026-10-03T03:18:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pengembalian-kelebihan-pembayaran-pajak-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=342",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 27553,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:44:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pengembalian-kelebihan-pembayaran-pajak-1"
+ },
+ "title": "TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK"
+}

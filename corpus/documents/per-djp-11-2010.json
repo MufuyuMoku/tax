@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-11-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "11",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-11-2010--b000-1",
+  "per-djp-11-2010--b001-2",
+  "per-djp-11-2010--b002-3",
+  "per-djp-11-2010--b003-4",
+  "per-djp-11-2010--b004-5",
+  "per-djp-11-2010--b005-6",
+  "per-djp-11-2010--b006-7",
+  "per-djp-11-2010--b007-8",
+  "per-djp-11-2010--b008-9",
+  "per-djp-11-2010--b009-10",
+  "per-djp-11-2010--b010-11",
+  "per-djp-11-2010--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-10-2012",
+    "key": [
+     "PER-DJP",
+     "10",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-10/PJ/2012",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2010 tentang Tata Cara Permohonan, Pemberitahuan, Pemberian, dan Pembatalan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-11/PJ/2010 TENTANG TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, DAN PEMBATALAN IZIN MENYELENGGARAKAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-23-2015",
+    "key": [
+     "PER-DJP",
+     "23",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-23/PJ/2015",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2010 tentang Tata Cara Permohonan, Pemberitahuan, Pemberian, dan Pembatalan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2012, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, PEMBATALAN SERTA PERMOHONAN DAN PENERBITAN KEMBALI IZIN PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-09",
+   "detail_error": null,
+   "number_as_written": "PER-11/PJ/2010",
+   "retrieved_at": "2026-10-05T01:25:39+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, DAN PEMBATALAN IZIN MENYELENGGARAKAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-dan-pembatalan-izin-menyelenggarakan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=135",
+   "retrieved_at": "2026-10-03T03:21:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-dan-pembatalan-izin-menyelenggarakan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15160,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:25:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-dan-pembatalan-izin-menyelenggarakan"
+ },
+ "title": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, DAN PEMBATALAN IZIN MENYELENGGARAKAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT"
+}

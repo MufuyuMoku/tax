@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-22-kmk-01-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "22/KMK.01",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-01-22",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "22/KMK.01/1999",
+   "retrieved_at": "2026-10-03T03:59:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 234/KMK.05/1996 TENTANG TATA CARA PENAGIHAN PIUTANG BEA MASUK, CUKAI, DENDA ADMINISTRASI, BUNGA, DAN PAJAK DALAM RANGKA IMPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-234kmk051996-tentang-tata-cara-penagihan"
+  },
+  {
+   "date_as_written": "1999-01-15 00:00:00",
+   "number_as_written": "22/KMK.01/1999",
+   "retrieved_at": "2026-09-21T14:51:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kepmenkeu No.234/KMK.05/1996 tentang Tatacara Penagihan Piutang Bea Masuk, Cukai, Denda Administrasi, Bunga dan Pajak dalam Rangka Impor",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/22-kmk-01-1999"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=230",
+   "retrieved_at": "2026-10-03T03:59:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-234kmk051996-tentang-tata-cara-penagihan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=65",
+   "retrieved_at": "2026-09-21T14:51:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/22-kmk-01-1999",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 234/KMK.05/1996 TENTANG TATA CARA PENAGIHAN PIUTANG BEA MASUK, CUKAI, DENDA ADMINISTRASI, BUNGA, DAN PAJAK DALAM RANGKA IMPOR"
+}

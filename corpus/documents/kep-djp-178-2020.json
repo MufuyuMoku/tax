@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-178-2020",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "178",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-178-2020--b000-kedua",
+  "kep-djp-178-2020--b001-ketiga",
+  "kep-djp-178-2020--b002-keempat",
+  "kep-djp-178-2020--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-04-09",
+   "detail_error": null,
+   "number_as_written": "KEP-178/PJ/2020",
+   "retrieved_at": "2026-10-04T03:29:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PERPANJANGAN JANGKA WAKTU PENYELESAIAN PELAYANAN ADMINISTRASI PERPAJAKAN DALAM KEADAAN KAHAR AKIBAT PANDEMI CORONA VIRUS DISEASE 2019",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perpanjangan-jangka-waktu-penyelesaian-pelayanan-administrasi-perpajakan-dalam-keadaan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=42",
+   "retrieved_at": "2026-10-03T02:47:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perpanjangan-jangka-waktu-penyelesaian-pelayanan-administrasi-perpajakan-dalam-keadaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4715,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:29:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perpanjangan-jangka-waktu-penyelesaian-pelayanan-administrasi-perpajakan-dalam-keadaan"
+ },
+ "title": "PERPANJANGAN JANGKA WAKTU PENYELESAIAN PELAYANAN ADMINISTRASI PERPAJAKAN DALAM KEADAAN KAHAR AKIBAT PANDEMI CORONA VIRUS DISEASE 2019"
+}
