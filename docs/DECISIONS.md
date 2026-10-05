@@ -905,3 +905,36 @@ teks, lampiran, maupun relasi), tetapi daftar tidak memberi petunjuk mana yang b
 **Kesimpulan:** tidak ada penghematan aman di luar yang sudah dilakukan: 275 dokumen yang sudah ada di
 korpus PPh, 140 KMK kurs/bunga, dan dokumen yang tercatat di dua kategori hanya diambil sekali.
 
+
+## K-060 — Korpus KUP (tahap 1 M5): kategori sebagai asal daftar, status JDIH dari daftarnya
+Tanggal: 2026-10-05 · Milestone: M5 · Status: dikerjakan di cabang `m5-kup`, belum terbit
+
+**Keputusan:**
+- `pipeline.build` membaca daftar dan detail KUP dari `harvest/`; kategori yang masuk korpus diatur
+  `config.DJP_CATEGORIES` (kini `["KUP"]`, PPN ditambahkan di tahap 2). Dokumen yang ada di daftar
+  PPh dan KUP tetap satu dokumen dengan dua kategori.
+- Tiap dokumen membawa `categories`: daftar `{kategori, asal}` dengan asal `daftar_djp` (daftar
+  kategori katalog DJP tempat dokumen ditemukan) atau `pilihan_jdih` (kandidat PPh yang dipilih
+  bukti konsep dari JDIH). Situs menulisnya "Dari daftar KUP katalog DJP" atau "PPh menurut pilihan
+  situs ini dari JDIH", tidak pernah dengan klasifikasi sumber (K-051).
+- Klaim status JDIH untuk dokumen KUP yang juga ada di JDIH diambil dari daftar JDIH bukti konsep
+  (21 September), seperti untuk PPh. Halaman dokumen JDIH yang diambil di M5 menambah relasi dan masa
+  berlakunya bila sudah ada.
+- Status satu sumber kini ditulis "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk
+  dibandingkan", bukan "hanya satu sumber".
+- Dokumen JDIH yang berkasnya tidak lolos K-055 tampil tanpa teks dengan tautan ke PDF aslinya.
+- Detail KUP yang belum diambil diberi alasan "halaman detail sumber belum diambil", bukan "gagal".
+**Hasil build (detail KUP 712 dari 892 saat itu):** 1.970 dokumen (PPh 1.122, KUP 1.112, keduanya
+264), semua pemeriksaan invarian lulus.
+
+## K-061 — Set evaluasi memburuk dengan KUP: belum terbit
+Tanggal: 2026-10-05 · Milestone: M5 · Status: terbuka
+
+**Temuan:** dengan KUP di korpus, 4 dari 25 pertanyaan turun peringkat: honor pembicara 10 → 23,
+zakat 13 → 22, beasiswa 1 → 2, pajak luar negeri 7 → 11. Median tetap 5, 10 besar 18 → 16. Contoh
+penyebab: "honor jadi pembicara seminar dipotong pajak" kini dimenangkan PER-DJP 26/2020 (KUP,
+permohonan pegawai DJP menjadi pembicara), yang memang cocok kata per kata; kata "pembicara" juga
+kehilangan kelangkaannya karena muncul di lebih banyak dokumen.
+**Keputusan:** kriteria M5 "set evaluasi tidak memburuk" belum terpenuhi, jadi tahap KUP tidak
+diterbitkan dulu. Perbaikannya keputusan peringkat (misalnya bobot kategori atau padanan baru) dan
+dikerjakan di sesi berikutnya dengan data KUP lengkap; tidak ditebak di sesi ini.

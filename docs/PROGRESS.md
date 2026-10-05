@@ -46,6 +46,30 @@ jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran ma
 **Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
 pemilik tentang label kategori (K-051).
 
+## M5 — KUP dan PPN, putaran 5 Oktober
+Tanggal: 2026-10-05
+Status: sebagian — dihentikan rapi 14.20 WIB (internet pemilik mati 14.30)
+
+**DJP, detail KUP: 873 dari 892**, 19 tersisa dan 9 menunggu diulang (putus koneksi biasa). Pagi
+tadi sempat macet karena jendela kegagalan yang tidak pernah kedaluwarsa (K-057, sudah diperbaiki).
+Daftar PPN masih 19/496. 586 permintaan dalam 24 jam; tidak dihentikan.
+
+**JDIH, berjalan bersamaan (K-058): DIHENTIKAN 14.07 WIB.** 142 permintaan berhasil berjeda 20
+detik, lalu satu `ReadTimeout` (120 detik) pada `/dok/192-pmk-03-2018`. Sesuai aturan pemilik
+(penolakan sekecil apa pun = berhenti total, tanpa coba ulang), JDIH dihentikan di
+`harvest/jdih/host_stopped.json`; hanya pemilik yang mencabutnya. Antrean: status KUP 140 dari 441,
+status PPN 0 dari 16, teks PPh 0 dari 106. 144 permintaan dalam 24 jam.
+
+**Mutu PDF (K-055):** pemeriksa siap (`scripts/jdih-pdf-text.mjs`, aturan dan kode yang sama dengan
+koleksi pribadi); belum ada berkas JDIH yang diambil, jadi belum ada hasil nyata.
+
+**robots.txt (K-056):** DJP dan JDIH tanpa Crawl-delay; jeda tetap 20 detik.
+**Penghematan dari halaman daftar (K-059):** tidak ada yang aman; tidak diubah.
+
+**B3/B4 tahap KUP (K-060), di cabang lokal `m5-kup`, belum di-push dan belum terbit:** korpus 1.970
+dokumen (PPh 1.122, KUP 1.112), saringan Kategori, label asal daftar. Belum terbit karena set
+evaluasi memburuk (K-061) dan detail KUP belum lengkap.
+
 ## M5 — KUP dan PPN, lanjutan
 Tanggal: 2026-10-04
 Status: sebagian — detail KUP berjalan; dihentikan rapi 11.28 WIB (internet pemilik mati 11.40)

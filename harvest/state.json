@@ -286,7 +286,17 @@
    ]
   }
  },
- "detail_retry": [],
+ "detail_retry": [
+  "/id/peraturan/keterangan-dan-atau-dokumen-lain-yang-harus-dilampirkan-dalam-surat-pemberitahuan",
+  "/id/peraturan/tata-cara-pemeriksaan-pajak",
+  "/id/peraturan/perubahan-dan-pemberian-nomor-kode-kantor-pelayanan-pajak",
+  "/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-6",
+  "/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-608kmk041994-tentang-tata",
+  "/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-dan-penunjukan-pejabat-yang-berwenang-mengeluarkan",
+  "/id/peraturan/pelaksanaan-teknis-tata-cara-pembayaran-pajak-melalui-pemindahbukuan",
+  "/id/peraturan/bentuk-jenis-kode-formulir-laporan-dan-buku-buku-serta-petunjuk-pengisiannya-di-bidang",
+  "/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-bea-masuk-ppn-dan-ppn-barang-mewah-serta"
+ ],
  "rounds": [
   {
    "akhir": "pengintaian",
@@ -365,6 +375,12 @@
    "mulai": "2026-10-05T06:13:21+00:00",
    "permintaan": 0,
    "selesai": "2026-10-05T06:13:21+00:00"
+  },
+  {
+   "akhir": "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan",
+   "mulai": "2026-10-05T06:14:21+00:00",
+   "permintaan": 187,
+   "selesai": "2026-10-05T07:20:05+00:00"
   }
  ]
 }
