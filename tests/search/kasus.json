@@ -392,9 +392,14 @@
           "dokumen": "uu-28-2007",
           "pasal": "uu-28-2007--b000-i",
           "kutipan": "Atas permohonan Wajib Pajak, kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 17, Pasal 17B, Pasal 17C, atau Pasal 17D dikembalikan"
+        },
+        {
+          "dokumen": "kep-djp-28-1996",
+          "pasal": "kep-djp-28-1996--b003-4",
+          "kutipan": "Permohonan pengembalian kelebihan Pajak Masukan dapat disampaikan"
         }
       ],
-      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli. Jawaban sah kedua (pemilik, 2026-10-09, K-075): pertanyaannya juga berlaku untuk restitusi PPN; KEP-DJP 28/1996 berstatus tidak berlaku menurut sumber."
     },
     {
       "id": "pengungkapan-ketidakbenaran",
@@ -475,6 +480,161 @@
         }
       ],
       "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "faktur-pajak",
+      "pertanyaan": "kapan harus membuat faktur pajak",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-42-2009",
+          "pasal": "uu-42-2009--b000-i",
+          "kutipan": "Pengusaha Kena Pajak wajib membuat Faktur Pajak untuk setiap"
+        },
+        {
+          "dokumen": "per-djp-3-2022",
+          "pasal": "per-djp-3-2022--b002-3",
+          "kutipan": "Faktur Pajak sebagaimana dimaksud pada ayat (1) harus dibuat pada: a. saat penyerahan BKP dan/atau JKP"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "pkp",
+      "pertanyaan": "apa itu PKP",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b001-1",
+          "kutipan": "Pengusaha Kena Pajak adalah pengusaha yang melakukan penyerahan barang kena pajak dan/ atau penyerahan jasa kena pajak yang dikenai pajak"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "batas-omzet-pkp",
+      "pertanyaan": "omzet berapa harus jadi PKP",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "pmk-197-2013",
+          "pasal": "pmk-197-2013--b000-i",
+          "kutipan": "jumlah peredaran bruto dan/atau penerimaan bruto tidak lebih dari Rp4.800.000.000,00"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "ppn-impor",
+      "pertanyaan": "impor barang kena PPN tidak",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-42-2009",
+          "pasal": "uu-42-2009--b000-i",
+          "kutipan": "Pajak Pertambahan Nilai dikenakan atas: penyerahan Barang Kena Pajak di dalam Daerah Pabean yang dilakukan oleh Pengusaha; impor Barang Kena Pajak"
+        },
+        {
+          "dokumen": "pmk-131-2024",
+          "pasal": "pmk-131-2024--b001-2",
+          "kutipan": "Atas Impor Barang Kena Pajak dan/atau penyerahan Barang Kena Pajak di dalam Daerah Pabean oleh Pengusaha terutang Pajak Pertambahan Nilai."
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "ppn-digital",
+      "pertanyaan": "langganan aplikasi streaming dari luar negeri kena PPN",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b332-332",
+          "kutipan": "Pajak Pertambahan Nilai dikenakan atas pemanfaatan Barang Kena Pajak tidak berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "pajak-masukan",
+      "pertanyaan": "PPN waktu beli bahan bisa dikurangkan dari PPN penjualan",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b036-9",
+          "kutipan": "Pajak Masukan dalam suatu Masa Pajak dikreditkan dengan Pajak Keluaran dalam Masa Pajak yang sama"
+        },
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b375-375",
+          "kutipan": "Pajak Masukan dalam suatu Masa Pajak dikreditkan dengan Pajak Keluaran dalam Masa Pajak yang sama"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "barang-bebas-ppn",
+      "pertanyaan": "barang apa saja yang bebas PPN",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b038-16b",
+          "kutipan": "dibebaskan dari pengenaan pajak, baik untuk sementara waktu maupun selamanya"
+        },
+        {
+          "dokumen": "pp-49-2022",
+          "pasal": "pp-49-2022--b001-2",
+          "kutipan": "Impor dan/atau Penyerahan Barang Kena Pajak tertentu yang bersifat strategis yang dibebaskan dari pengenaan Pajak Pertambahan Nilai"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "tarif-ppn-12",
+      "pertanyaan": "tarif PPN sekarang 12 persen",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b034-7",
+          "kutipan": "sebesar 12% (dua belas persen) yang mulai berlaku paling lambat pada tanggal 1 Januari 2025"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "bangun-rumah-sendiri",
+      "pertanyaan": "bangun rumah sendiri kena PPN",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b323-323",
+          "kutipan": "Pajak Pertambahan Nilai dikenakan atas kegiatan membangun sendiri."
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "restitusi-ppn",
+      "pertanyaan": "kelebihan PPN bisa diminta kembali",
+      "kategori": "PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b036-9",
+          "kutipan": "atas kelebihan Pajak Masukan dapat diajukan permohonan pengembalian"
+        },
+        {
+          "dokumen": "uu-42-2009",
+          "pasal": "uu-42-2009--b000-i",
+          "kutipan": "atas kelebihan Pajak Masukan dapat diajukan permohonan pengembalian"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
     }
   ]
 }

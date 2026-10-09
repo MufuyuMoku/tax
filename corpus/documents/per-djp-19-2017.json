@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -35,7 +39,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-16-2018",
+    "key": [
+     "PER-DJP",
+     "16",
+     "2018",
+     null
+    ],
+    "number_as_written": "PER-16/PJ/2018",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2017 tentang Perlakuan Terhadap Penerbitan dan/atau Penggunaan Faktur Pajak Tidak Sah Oleh Wajib Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-19/PJ/2017 TENTANG PERLAKUAN TERHADAP PENERBITAN DAN/ ATAU PENGGUNAAN FAKTUR PAJAK TIDAK SAH OLEH WAJIB PAJAK"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {

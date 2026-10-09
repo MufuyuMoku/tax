@@ -1,0 +1,124 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-22-1985",
+ "identity": {
+  "code": "PP",
+  "number": "22",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-22-1985--b000-1",
+  "pp-22-1985--b001-2",
+  "pp-22-1985--b002-3",
+  "pp-22-1985--b003-4",
+  "pp-22-1985--b004-5",
+  "pp-22-1985--b005-6",
+  "pp-22-1985--b006-7",
+  "pp-22-1985--b007-8",
+  "pp-22-1985--b008-9",
+  "pp-22-1985--b009-10",
+  "pp-22-1985--b010-11",
+  "pp-22-1985--b011-12",
+  "pp-22-1985--b012-13",
+  "pp-22-1985--b013-14",
+  "pp-22-1985--b014-15",
+  "pp-22-1985--b015-16",
+  "pp-22-1985--b016-17",
+  "pp-22-1985--b017-18",
+  "pp-22-1985--b018-19",
+  "pp-22-1985--b019-20",
+  "pp-22-1985--b020-21",
+  "pp-22-1985--b021-22",
+  "pp-22-1985--b022-23",
+  "pp-22-1985--b023-24",
+  "pp-22-1985--b024-25",
+  "pp-22-1985--b025-26",
+  "pp-22-1985--b026-27",
+  "pp-22-1985--b027-28",
+  "pp-22-1985--p028-1",
+  "pp-22-1985--p029-2",
+  "pp-22-1985--p030-3",
+  "pp-22-1985--p031-4",
+  "pp-22-1985--p032-5",
+  "pp-22-1985--p033-6",
+  "pp-22-1985--p034-7",
+  "pp-22-1985--p035-8",
+  "pp-22-1985--p036-9",
+  "pp-22-1985--p037-10",
+  "pp-22-1985--p038-11",
+  "pp-22-1985--p039-12",
+  "pp-22-1985--p040-13",
+  "pp-22-1985--p041-14",
+  "pp-22-1985--p042-15",
+  "pp-22-1985--p043-16",
+  "pp-22-1985--p044-17",
+  "pp-22-1985--p045-18",
+  "pp-22-1985--p046-19",
+  "pp-22-1985--p047-20",
+  "pp-22-1985--p048-21",
+  "pp-22-1985--p049-22",
+  "pp-22-1985--p050-23",
+  "pp-22-1985--p051-24",
+  "pp-22-1985--p052-25",
+  "pp-22-1985--p053-26",
+  "pp-22-1985--p054-27",
+  "pp-22-1985--p055-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-03-13",
+   "detail_error": null,
+   "number_as_written": "22 TAHUN 1985",
+   "retrieved_at": "2026-10-06T06:35:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-pertambahan-nilai-1984"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=489",
+   "retrieved_at": "2026-10-06T02:22:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-pertambahan-nilai-1984",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 50058,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T06:35:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-pajak-pertambahan-nilai-1984"
+ },
+ "title": "PELAKSANAAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984"
+}

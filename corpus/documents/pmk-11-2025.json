@@ -1,0 +1,227 @@
+{
+ "attachments": [
+  {
+   "file_name": "PMK 11 Tahun 2025.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "11",
+    "year": "2025"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/PMK%2011%20Tahun%202025.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-11-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "11",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-11-2025--b000-1",
+  "pmk-11-2025--b001-2",
+  "pmk-11-2025--b002-3",
+  "pmk-11-2025--b003-4",
+  "pmk-11-2025--b004-2",
+  "pmk-11-2025--b005-5",
+  "pmk-11-2025--b006-2",
+  "pmk-11-2025--b007-3",
+  "pmk-11-2025--b008-6",
+  "pmk-11-2025--b009-13",
+  "pmk-11-2025--b010-7",
+  "pmk-11-2025--b011-15",
+  "pmk-11-2025--b012-19",
+  "pmk-11-2025--b013-20",
+  "pmk-11-2025--b014-8",
+  "pmk-11-2025--b015-5",
+  "pmk-11-2025--b016-9",
+  "pmk-11-2025--b017-4",
+  "pmk-11-2025--b018-10",
+  "pmk-11-2025--b019-4",
+  "pmk-11-2025--b020-11",
+  "pmk-11-2025--b021-6",
+  "pmk-11-2025--b022-12",
+  "pmk-11-2025--b023-13",
+  "pmk-11-2025--b024-14",
+  "pmk-11-2025--b025-6",
+  "pmk-11-2025--b026-15",
+  "pmk-11-2025--b027-3",
+  "pmk-11-2025--b028-16",
+  "pmk-11-2025--b029-2",
+  "pmk-11-2025--b030-17",
+  "pmk-11-2025--b031-3",
+  "pmk-11-2025--b032-18",
+  "pmk-11-2025--b033-3",
+  "pmk-11-2025--b034-19",
+  "pmk-11-2025--b035-14",
+  "pmk-11-2025--b036-15",
+  "pmk-11-2025--b037-20",
+  "pmk-11-2025--b038-313",
+  "pmk-11-2025--b039-324",
+  "pmk-11-2025--b040-343",
+  "pmk-11-2025--b041-354",
+  "pmk-11-2025--b042-21",
+  "pmk-11-2025--b043-23"
+ ],
+ "quality_flags": [
+  "urutan_loncat:4->2,2->5,5->2,3->6,6->13",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-53-2025",
+    "key": [
+     "PMK",
+     "53",
+     "2025",
+     null
+    ],
+    "number_as_written": "53 TAHUN 2025",
+    "quote": "Ketentuan Pasal 20 dalam Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2025 Nomor 78) diubah sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 11 TAHUN 2025 TENTANG KETENTUAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK DAN BESARAN TERTENTU PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 75/PMK.03/2010 — Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 121/PMK.03/2015 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai\r\nLain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 102/PMK.011/2011 — Nilai Lain Sebagai Dasar Pengenaan Pajak atas Pemanfaatan Barang Kena Pajak Tidak Berwujud Dari Luar Daerah Pabean di dalam Daerah Pabean Berupa Film Cerita Impor dan Penyerahan Film Cerita Impor, Serta Dasar Pemungutan Pajak Penghasilan Pasal 22 atas Kegiatan Impor Film Cerita Impor.",
+    "url": "https://jdih.kemenkeu.go.id/dok/102-pmk-011-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 6/PMK.03/2021 — Penghitungan dan Pemungutan Pajak Pertambahan Nilai serta Pajak Penghasilan atas Penyerahan/Penghasilan Sehubungan dengan Penjualan Pulsa, Kartu Perdana, Token, dan Voucer",
+    "url": "https://jdih.kemenkeu.go.id/dok/6-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 173/PMK.03/2021 — Tata Cara Pembayaran, Pelunasan, dan Pengadministrasian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Penyerahan Barang Kena Pajak dan/ atau Jasa Kena Pajak dari dan/atau ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+    "url": "https://jdih.kemenkeu.go.id/dok/173-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 62/PMK.03/2022 — Pajak Pertambahan Nilai atas Penyerahan Liquefied Petroleum Gas Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 63/PMK.03/2022 — Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau",
+    "url": "https://jdih.kemenkeu.go.id/dok/63-pmk-03-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 66/PMK.03/2022 —  Pajak Pertambahan Nilai atas Penyerahan Pupuk Bersubsidi untuk Sektor Pertanian",
+    "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 79 TAHUN 2024 — Perlakuan Perpajakan dalam Kerja Sama Operasi",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2024"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 53 TAHUN 2025 — Perubahan atas Peraturan Menteri Keuangan Nomor 11 Tahun 2025 tentang Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-53-tahun-2025"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 52 TAHUN 2025 — Perubahan Kedua atas\nPeraturan Menteri Keuangan Nomor 48 Tahun 2023 tentang  Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-52-tahun-2025"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-02-04",
+   "detail_error": null,
+   "number_as_written": "11 TAHUN 2025",
+   "retrieved_at": "2026-10-06T02:29:56+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK DAN BESARAN TERTENTU PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-nilai-lain-sebagai-dasar-pengenaan-pajak-dan-besaran-tertentu-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "2025-02-04 12:00:00",
+   "number_as_written": "PMK 11 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:45:30+00:00",
+   "retrieved_at": "2026-09-21T14:16:24+00:00",
+   "source": "JDIH",
+   "title_as_written": "Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025",
+   "validity_as_written": "04 Feb 2025 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=23",
+   "retrieved_at": "2026-10-05T07:30:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-nilai-lain-sebagai-dasar-pengenaan-pajak-dan-besaran-tertentu-pajak-pertambahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=17",
+   "retrieved_at": "2026-09-21T14:16:24+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 60272,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:29:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-nilai-lain-sebagai-dasar-pengenaan-pajak-dan-besaran-tertentu-pajak-pertambahan"
+ },
+ "title": "KETENTUAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK DAN BESARAN TERTENTU PAJAK PERTAMBAHAN NILAI"
+}

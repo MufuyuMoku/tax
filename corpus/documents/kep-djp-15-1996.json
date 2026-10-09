@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -21,7 +25,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-160-2006",
+    "key": [
+     "PER-DJP",
+     "160",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-160/PJ/2006",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal ini berlaku maka Keputusan Direktur Jenderal Pajak Nomor KEP-15/PJ./1996 tentang Tata Cara Penerimaan, Penelitian dan Pengolahan Surat Pemberitahuan Masa Pajak Pertambahan Nilai dan ketentuan lain yang bertentangan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },

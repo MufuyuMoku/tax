@@ -1,0 +1,221 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-44-2022",
+ "identity": {
+  "code": "PP",
+  "number": "44",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-44-2022--b000-1",
+  "pp-44-2022--b001-2",
+  "pp-44-2022--b002-3",
+  "pp-44-2022--b003-4",
+  "pp-44-2022--b004-5",
+  "pp-44-2022--b005-6",
+  "pp-44-2022--b006-7",
+  "pp-44-2022--b007-8",
+  "pp-44-2022--b008-9",
+  "pp-44-2022--b009-10",
+  "pp-44-2022--b010-11",
+  "pp-44-2022--b011-12",
+  "pp-44-2022--b012-13",
+  "pp-44-2022--b013-14",
+  "pp-44-2022--b014-15",
+  "pp-44-2022--b015-16",
+  "pp-44-2022--b016-17",
+  "pp-44-2022--b017-18",
+  "pp-44-2022--b018-19",
+  "pp-44-2022--b019-20",
+  "pp-44-2022--b020-21",
+  "pp-44-2022--b021-22",
+  "pp-44-2022--b022-23",
+  "pp-44-2022--b023-24",
+  "pp-44-2022--b024-25",
+  "pp-44-2022--b025-26",
+  "pp-44-2022--b026-27",
+  "pp-44-2022--b027-28",
+  "pp-44-2022--b028-29",
+  "pp-44-2022--b029-30",
+  "pp-44-2022--b030-31",
+  "pp-44-2022--b031-32",
+  "pp-44-2022--b032-33",
+  "pp-44-2022--p033-1",
+  "pp-44-2022--p034-2",
+  "pp-44-2022--p035-3",
+  "pp-44-2022--p036-4",
+  "pp-44-2022--p037-5",
+  "pp-44-2022--p038-6",
+  "pp-44-2022--p039-7",
+  "pp-44-2022--p040-8",
+  "pp-44-2022--p041-9",
+  "pp-44-2022--p042-10",
+  "pp-44-2022--p043-11",
+  "pp-44-2022--p044-12",
+  "pp-44-2022--p045-13",
+  "pp-44-2022--p046-14",
+  "pp-44-2022--p047-15",
+  "pp-44-2022--p048-16",
+  "pp-44-2022--p049-17",
+  "pp-44-2022--p050-18",
+  "pp-44-2022--p051-19",
+  "pp-44-2022--p052-20",
+  "pp-44-2022--p053-21",
+  "pp-44-2022--p054-22",
+  "pp-44-2022--p055-23",
+  "pp-44-2022--p056-24",
+  "pp-44-2022--p057-25",
+  "pp-44-2022--p058-26",
+  "pp-44-2022--p059-27",
+  "pp-44-2022--p060-28",
+  "pp-44-2022--p061-29",
+  "pp-44-2022--p062-30",
+  "pp-44-2022--p063-31",
+  "pp-44-2022--p064-32",
+  "pp-44-2022--p065-33"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "1",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 1 Tahun 2012",
+    "quote": "Pasal 32 Pada saat Peraturan Pemerintah ini mulai berlaku: a. Peraturan Pemerintah Nomor 1 Tahun 2012 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 5271); dan b. Pasal 5 Peraturan Pemerintah Nomor 9 Tahun 2021 tentang Perlakuan Perpajakan untuk Mendukung Kemudahan Berusaha (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 6621), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-1-2012"
+   },
+   {
+    "key": [
+     "UU",
+     "8",
+     "1983",
+     null
+    ],
+    "name": "Undang-Undang Nomor 8 Tahun 1983",
+    "quote": "Pasal 32 Pada saat Peraturan Pemerintah ini mulai berlaku: a. Peraturan Pemerintah Nomor 1 Tahun 2012 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 5271); dan b. Pasal 5 Peraturan Pemerintah Nomor 9 Tahun 2021 tentang Perlakuan Perpajakan untuk Mendukung Kemudahan Berusaha (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 6621), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PP tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-8-1983"
+   },
+   {
+    "key": [
+     "UU",
+     "42",
+     "2009",
+     null
+    ],
+    "name": "Undang-Undang Nomor 42 Tahun 2009",
+    "quote": "Pasal 32 Pada saat Peraturan Pemerintah ini mulai berlaku: a. Peraturan Pemerintah Nomor 1 Tahun 2012 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 5271); dan b. Pasal 5 Peraturan Pemerintah Nomor 9 Tahun 2021 tentang Perlakuan Perpajakan untuk Mendukung Kemudahan Berusaha (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 6621), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PP tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-42-2009"
+   },
+   {
+    "key": [
+     "PP",
+     "9",
+     "2021",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 9 Tahun 2021",
+    "quote": "Pasal 32 Pada saat Peraturan Pemerintah ini mulai berlaku: … b. Pasal 5 Peraturan Pemerintah Nomor 9 Tahun 2021 tentang Perlakuan Perpajakan untuk Mendukung Kemudahan Berusaha (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 6621), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pp-9-2021"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 1 TAHUN 2012 — Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 3264) Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-1-tahun-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : PP 9 TAHUN 2021 — Perlakuan Perpajakan Untuk Mendukung Kemudahan Berusaha",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-12-02",
+   "detail_error": null,
+   "number_as_written": "44 TAHUN 2022",
+   "retrieved_at": "2026-10-06T02:53:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERAPAN TERHADAP PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penerapan-terhadap-pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas"
+  },
+  {
+   "date_as_written": "2022-12-02 00:00:00",
+   "number_as_written": "PP 44 TAHUN 2022",
+   "page_retrieved_at": "2026-10-05T14:54:18+00:00",
+   "retrieved_at": "2026-09-21T14:05:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penerapan terhadap Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-44-tahun-2022",
+   "validity_as_written": "02 Des 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=56",
+   "retrieved_at": "2026-10-05T07:42:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penerapan-terhadap-pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=6",
+   "retrieved_at": "2026-09-21T14:05:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-44-tahun-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 106437,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:53:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-terhadap-pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas"
+ },
+ "title": "PENERAPAN TERHADAP PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

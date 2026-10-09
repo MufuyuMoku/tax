@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-31-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "31",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-31-2011--b000-i",
+  "pmk-31-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "36",
+     "2007",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 36/PMK.03/2007",
+    "quote": "Mengubah ketentuan Pasal 2 Peraturan Menteri Keuangan Nomor 36/PMK.03/2007 tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar serta Perumahan Lainnya yang atas Penyerahannya Dibebaskan dari Pengenaan Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 80/PMK.03/2008, dengan mengubah ayat (1) dan menghapus ayat (2), sehingga Pasal 2 berbunyi sebagai berikut: Pasal 2 (1) Rumah Sederhana dan Rumah Sangat Sederhana yang dibebaskan dari pengenaan Pajak Pertambahan Nilai sebagaimana dimaksud dalam Pasal 1 adalah rumah yang perolehannya secara tunai ataupun dibiayai melalui fasilitas kredit bersubsidi maupun tidak bersubsidi, atau melalui pembiayaan berdasarkan prinsip syariah, yang memenuhi ketentuan: a. luas bangunan tidak melebihi 36 m2 (tiga puluh enam meter persegi);",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-36-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 80/PMK.03/2008 — Perubahan atas Peraturan Menteri Keuangan Nomor 36/PMK.03/2007 tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar Serta Perumahan Lainnya yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 36/PMK.03/2007 — Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar Serta Perumahan Lainnya yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/36-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 113/PMK.03/2014 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 36/PMK.03/2007&#160;Tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar, Serta Perumahan Lainnya, yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/113-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 81/PMK.010/2019 — Batasan Rumah Umum, Pondok Boro, Asrama Mahasiswa dan Pelajar, Serta Perumahan Lainnya, yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-010-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 125/PMK.011/2012 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 36/PMK.03/2007 tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar Serta Perumahan Lainnya yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/125-pmk-011-2012"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-02-28",
+   "detail_error": null,
+   "number_as_written": "31/PMK.03/2011",
+   "retrieved_at": "2026-10-06T03:55:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 36/PMK.03/2007 TENTANG BATASAN RUMAH SEDERHANA, RUMAH SANGAT SEDERHANA, RUMAH SUSUN SEDERHANA, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR, SERTA PERUMAHAN LAINNYA, YANG ATAS PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-36pmk032007-tentang-batasan-rumah"
+  },
+  {
+   "date_as_written": "2011-02-28 00:00:00",
+   "number_as_written": "31/PMK.03/2011",
+   "page_retrieved_at": "2026-10-06T02:53:50+00:00",
+   "retrieved_at": "2026-09-21T14:38:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 36/PMK.03/2007 tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar Serta Perumahan Lainnya yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2011",
+   "validity_as_written": "28 Feb 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=211",
+   "retrieved_at": "2026-10-05T13:48:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-36pmk032007-tentang-batasan-rumah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=340",
+   "retrieved_at": "2026-09-21T14:38:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5446,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:55:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-36pmk032007-tentang-batasan-rumah"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 36/PMK.03/2007 TENTANG BATASAN RUMAH SEDERHANA, RUMAH SANGAT SEDERHANA, RUMAH SUSUN SEDERHANA, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR, SERTA PERUMAHAN LAINNYA, YANG ATAS PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

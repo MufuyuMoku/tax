@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-402-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "402/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BESARNYA STANDAR BIAYA INVESTASI TAMBAK",
+    "url": "https://www.pajak.go.id/id/peraturan/besarnya-standar-biaya-investasi-tambak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TEMPAT TERUTANGNYA PAJAK BAGI PENGUSAHA KENA PAJAK ORANG PRIBADI YANG DITEMPAT TINGGALNYA TIDAK MELAKUKAN KEGIATAN USAHA",
+    "url": "https://www.pajak.go.id/id/peraturan/tempat-terutangnya-pajak-bagi-pengusaha-kena-pajak-orang-pribadi-yang-ditempat-tinggalnya"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984-0"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-04-24",
+   "detail_error": null,
+   "number_as_written": "402/KMK.04/1985",
+   "retrieved_at": "2026-10-06T06:34:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAYARAN PAJAK PERTAMBAHAN NILAI YANG TERHUTANG OLEH KONTRAKTOR SEHUBUNGAN DENGAN PELAKSANAAN PROYEK PEMBANGUNAN MILIK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN LUAR NEGERI ATAU HIBAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-pertambahan-nilai-yang-terhutang-oleh-kontraktor-sehubungan-dengan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=488",
+   "retrieved_at": "2026-10-06T02:22:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-pajak-pertambahan-nilai-yang-terhutang-oleh-kontraktor-sehubungan-dengan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBAYARAN PAJAK PERTAMBAHAN NILAI YANG TERHUTANG OLEH KONTRAKTOR SEHUBUNGAN DENGAN PELAKSANAAN PROYEK PEMBANGUNAN MILIK PEMERINTAH YANG DIBIAYAI DENGAN DANA PINJAMAN LUAR NEGERI ATAU HIBAH"
+}

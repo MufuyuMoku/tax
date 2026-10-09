@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-597-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "597/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 568/KMK.04/2000 — Tatacara Penghitungan,Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan atau Usaha Kena Pajak Dari Luar Daerah Pabean.",
+    "url": "https://jdih.kemenkeu.go.id/dok/568-kmk-04-2000"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-21",
+   "detail_error": null,
+   "number_as_written": "597/KMK.04/1994",
+   "retrieved_at": "2026-10-06T05:56:08+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT DIMULAINYA PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN, PENGHITUNGAN, SERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-dimulainya-pemanfaatan-barang-kena-pajak-tidak-berwujud-atau-jasa-kena-pajak-dari"
+  },
+  {
+   "date_as_written": "1994-12-21 00:00:00",
+   "number_as_written": "597/KMK.04/1994",
+   "page_retrieved_at": "2026-10-06T03:51:22+00:00",
+   "retrieved_at": "2026-09-21T14:53:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Saat Dimulainya Pemanfaatan Barang Kena Pajak Tidak Berwujud atau Jasa Kena Pajak Dari Luar Daerah Pabean, Penghitungan, Serta Tata Cara Pemungutan, Penyetoran dan Pelaporannya",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/597-kmk-04-1994",
+   "validity_as_written": "21 Des 1994 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=456",
+   "retrieved_at": "2026-10-06T01:46:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-dimulainya-pemanfaatan-barang-kena-pajak-tidak-berwujud-atau-jasa-kena-pajak-dari",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=104",
+   "retrieved_at": "2026-09-21T14:53:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/597-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "SAAT DIMULAINYA PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN, PENGHITUNGAN, SERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA"
+}

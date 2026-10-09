@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-65-1991",
+ "identity": {
+  "code": "PP",
+  "number": "65",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-11-20",
+   "detail_error": null,
+   "number_as_written": "65 TAHUN 1991",
+   "retrieved_at": "2026-10-06T06:07:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 22 TAHUN 1985 TENTANG PELAKSANAAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984 SEBAGAIMANA TELAH DIUBAH DENGAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 1988",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-22-tahun-1985-tentang-pelaksanaan-undang-undang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=468",
+   "retrieved_at": "2026-10-06T01:51:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-22-tahun-1985-tentang-pelaksanaan-undang-undang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 22 TAHUN 1985 TENTANG PELAKSANAAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984 SEBAGAIMANA TELAH DIUBAH DENGAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 1988"
+}

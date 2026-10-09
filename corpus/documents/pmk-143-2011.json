@@ -1,0 +1,185 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-143-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "143",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-143-2011--b000-1",
+  "pmk-143-2011--b001-2",
+  "pmk-143-2011--b002-3",
+  "pmk-143-2011--b003-4",
+  "pmk-143-2011--b004-5",
+  "pmk-143-2011--b005-6",
+  "pmk-143-2011--b006-7",
+  "pmk-143-2011--b007-8",
+  "pmk-143-2011--b008-9",
+  "pmk-143-2011--b009-10",
+  "pmk-143-2011--b010-11",
+  "pmk-143-2011--b011-12",
+  "pmk-143-2011--b012-13",
+  "pmk-143-2011--b013-14",
+  "pmk-143-2011--b014-15",
+  "pmk-143-2011--b015-16",
+  "pmk-143-2011--b016-17",
+  "pmk-143-2011--b017-18",
+  "pmk-143-2011--b018-19",
+  "pmk-143-2011--b019-20",
+  "pmk-143-2011--b020-21",
+  "pmk-143-2011--b021-22",
+  "pmk-143-2011--b022-23",
+  "pmk-143-2011--b023-24",
+  "pmk-143-2011--b024-25",
+  "pmk-143-2011--b025-26",
+  "pmk-143-2011--b026-27",
+  "pmk-143-2011--b027-28",
+  "pmk-143-2011--b028-29",
+  "pmk-143-2011--b029-30",
+  "pmk-143-2011--b030-31",
+  "pmk-143-2011--b031-32",
+  "pmk-143-2011--b032-33",
+  "pmk-143-2011--b033-34",
+  "pmk-143-2011--b034-35",
+  "pmk-143-2011--b035-36",
+  "pmk-143-2011--b036-37"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-155-2019",
+    "key": [
+     "PMK",
+     "155",
+     "2019",
+     null
+    ],
+    "number_as_written": "155/PMK.04/2019",
+    "quote": "Pasal 51 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 143/PMK.04/2011 tentang Gudang Berikat (Berita Negara Republik Indonesia Tahun 2011 Nomor 549), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "GUDANG BERIKAT"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "399/KMK.01",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 399/KMK.01/1996",
+    "quote": "Pasal 36 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 399/KMK.01/1996 tentang Gudang Berikat sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 32/PMK.04/2008, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-399-kmk-01-1996"
+   },
+   {
+    "key": [
+     "PMK",
+     "32",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 32/PMK.04/2008",
+    "quote": "Pasal 36 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 399/KMK.01/1996 tentang Gudang Berikat sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 32/PMK.04/2008, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-32-2008"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 399/KMK.01/1996 — Gudang Berikat.",
+    "url": "https://jdih.kemenkeu.go.id/dok/399-kmk-01-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 32/PMK.04/2008 — Perubahan atas Keputusan Menteri Keuangan Nomor 399/KMK.01/1996 tentang Gudang Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/32-pmk-04-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 155/PMK.04/2019 — Gudang Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/155-pmk-04-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-08-26",
+   "detail_error": null,
+   "number_as_written": "143/PMK.04/2011",
+   "retrieved_at": "2026-10-06T03:53:49+00:00",
+   "source": "DJP",
+   "title_as_written": "GUDANG BERIKAT",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/gudang-berikat-0"
+  },
+  {
+   "date_as_written": "2011-08-26 00:00:00",
+   "number_as_written": "143/PMK.04/2011",
+   "page_retrieved_at": "2026-10-06T02:34:42+00:00",
+   "retrieved_at": "2026-09-21T14:37:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Gudang Berikat.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/143-pmk-04-2011",
+   "validity_as_written": "26 Agu 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=209",
+   "retrieved_at": "2026-10-05T13:48:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/gudang-berikat-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=329",
+   "retrieved_at": "2026-09-21T14:37:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/143-pmk-04-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 42998,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:53:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/gudang-berikat-0"
+ },
+ "title": "GUDANG BERIKAT"
+}

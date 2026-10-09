@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-160-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "160",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-160-2006--b000-1",
+  "per-djp-160-2006--b001-2",
+  "per-djp-160-2006--b002-3",
+  "per-djp-160-2006--b003-4",
+  "per-djp-160-2006--b004-5",
+  "per-djp-160-2006--b005-6",
+  "per-djp-160-2006--b006-7",
+  "per-djp-160-2006--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "15",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-15/PJ./1996",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal ini berlaku maka Keputusan Direktur Jenderal Pajak Nomor KEP-15/PJ./1996 tentang Tata Cara Penerimaan, Penelitian dan Pengolahan Surat Pemberitahuan Masa Pajak Pertambahan Nilai dan ketentuan lain yang bertentangan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-15-1996"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-11-06",
+   "detail_error": null,
+   "number_as_written": "PER-160/PJ/2006",
+   "retrieved_at": "2026-10-06T04:18:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-dan-pengolahan-surat-pemberitahuan-masa-pajak-pertambahan-nilai-spt"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=269",
+   "retrieved_at": "2026-10-05T14:09:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-dan-pengolahan-surat-pemberitahuan-masa-pajak-pertambahan-nilai-spt",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18327,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:18:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-dan-pengolahan-surat-pemberitahuan-masa-pajak-pertambahan-nilai-spt"
+ },
+ "title": "TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+}

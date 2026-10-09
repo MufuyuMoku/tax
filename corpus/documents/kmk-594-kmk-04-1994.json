@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-594-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "594/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-553-kmk-04-2000",
+    "key": [
+     "KMK",
+     "553/KMK.04",
+     "2000",
+     null
+    ],
+    "number_as_written": "553/KMK.04/2000",
+    "quote": "Pasal 9 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 594/KMK.04/1994 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak Yang Berdasarkan Undang-undang Pajak Penghasilan 1984 Memilih Dikenakan Pajak Dengan Norma Penghitungan Penghasilan Neto dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-21",
+   "detail_error": null,
+   "number_as_written": "594/KMK.04/1994",
+   "retrieved_at": "2026-10-06T05:56:48+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 10 TAHUN 1994 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=457",
+   "retrieved_at": "2026-10-06T01:47:04+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 10 TAHUN 1994 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN"
+}

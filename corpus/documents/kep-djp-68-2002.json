@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-68-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "68",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-68-2002--b000-1",
+  "kep-djp-68-2002--b001-2",
+  "kep-djp-68-2002--b002-3",
+  "kep-djp-68-2002--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-04",
+   "detail_error": null,
+   "number_as_written": "KEP-68/PJ/2002",
+   "retrieved_at": "2026-10-06T04:59:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PENJELASAN LEBIH LANJUT MENGENAI JENIS BARANG-BARANG KEBUTUHAN POKOK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penjelasan-lebih-lanjut-mengenai-jenis-barang-barang-kebutuhan-pokok"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=353",
+   "retrieved_at": "2026-10-05T14:38:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penjelasan-lebih-lanjut-mengenai-jenis-barang-barang-kebutuhan-pokok",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4254,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:59:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penjelasan-lebih-lanjut-mengenai-jenis-barang-barang-kebutuhan-pokok"
+ },
+ "title": "PENJELASAN LEBIH LANJUT MENGENAI JENIS BARANG-BARANG KEBUTUHAN POKOK"
+}

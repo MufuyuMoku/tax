@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -247,7 +251,20 @@
     "target_id": "pp-96-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 96 TAHUN 2015 — Fasilitas dan Kemudahan di Kawasan Ekonomi Khusus.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-96-tahun-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 40 TAHUN 2021 — Penyelenggaraan Kawasan Ekonomi Khusus",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-40-tahun-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -259,10 +276,22 @@
    "title_as_written": "FASILITAS DAN KEMUDAHAN DI KAWASAN EKONOMI KHUSUS",
    "type_as_written": "Peraturan Pemerintah",
    "url": "https://www.pajak.go.id/id/peraturan/fasilitas-dan-kemudahan-di-kawasan-ekonomi-khusus"
+  },
+  {
+   "date_as_written": "2020-02-20 00:00:00",
+   "number_as_written": "PP 12 TAHUN 2020",
+   "page_retrieved_at": "2026-10-06T01:44:17+00:00",
+   "retrieved_at": "2026-09-21T14:06:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Fasilitas dan Kemudahan di Kawasan Ekonomi Khusus",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-12-tahun-2020",
+   "validity_as_written": "20 Feb 2020 - 02 Feb 2021"
   }
  ],
  "status": {
   "reasons": [
+   "status berbeda antar sumber",
    "sumber menyatakan berlaku, tetapi teks PP 40/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
@@ -275,6 +304,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/fasilitas-dan-kemudahan-di-kawasan-ekonomi-khusus",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=14",
+   "retrieved_at": "2026-09-21T14:06:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-12-tahun-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

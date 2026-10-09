@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-1-1990",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "1",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "keppres-1-1990--b000-1",
+  "keppres-1-1990--b001-2",
+  "keppres-1-1990--b002-3",
+  "keppres-1-1990--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEPPRES",
+     "42",
+     "1988",
+     null
+    ],
+    "name": "Keputusan Presiden Nomor 42 Tahun 1988",
+    "quote": "Pasal 3 Dengan berlakunya Keputusan Presiden ini, maka Keputusan Presiden Nomor 42 Tahun 1988 dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "keppres-42-1988"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-01-04",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 1990",
+   "retrieved_at": "2026-10-06T06:12:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI YANG TERHUTANG ATAS IMPOR DAN PENYERAHAN KERTAS KORAN UNTUK PENERBITAN SURAT KABAR DAN MAJALAH, DAN ATAS PENYERAHAN SURAT KABAR SERTA MAJALAH",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terhutang-atas-impor-dan-penyerahan-kertas-koran-untuk-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=473",
+   "retrieved_at": "2026-10-06T02:17:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terhutang-atas-impor-dan-penyerahan-kertas-koran-untuk-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3109,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T06:12:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terhutang-atas-impor-dan-penyerahan-kertas-koran-untuk-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI YANG TERHUTANG ATAS IMPOR DAN PENYERAHAN KERTAS KORAN UNTUK PENERBITAN SURAT KABAR DAN MAJALAH, DAN ATAS PENYERAHAN SURAT KABAR SERTA MAJALAH"
+}

@@ -1,0 +1,79 @@
+{
+ "attachments": [
+  {
+   "file_name": "Salinan PER-13_2022.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Salinan%20PER-13_2022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-13-2022",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-13-2022--b000-1",
+  "per-djp-13-2022--b001-2",
+  "per-djp-13-2022--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-09-09",
+   "detail_error": null,
+   "number_as_written": "PER-13/PJ/2022",
+   "retrieved_at": "2026-10-06T02:54:36+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAPORAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BAGI REKANAN YANG TERGABUNG DALAM SISTEM INFORMASI PENGADAAN PEMERINTAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaporan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=59",
+   "retrieved_at": "2026-10-05T07:43:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaporan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4188,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:54:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaporan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+ },
+ "title": "TATA CARA PELAPORAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BAGI REKANAN YANG TERGABUNG DALAM SISTEM INFORMASI PENGADAAN PEMERINTAH"
+}

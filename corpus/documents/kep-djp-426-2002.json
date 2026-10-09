@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-426-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "426",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-09-17",
+   "detail_error": null,
+   "number_as_written": "KEP - 426/PJ.52/2002",
+   "retrieved_at": "2026-10-06T04:43:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR 315/PJ/2002 TENTANG PELAKSANAAN UJI COBA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PPN DAN PPn BM SECARA ON LINE",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-kedua-keputusan-direktur-jenderal-pajak-nomor-315pj2002-tentang-pelaksanaan-uji"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=337",
+   "retrieved_at": "2026-10-05T14:33:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-kedua-keputusan-direktur-jenderal-pajak-nomor-315pj2002-tentang-pelaksanaan-uji",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEDUA KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR 315/PJ/2002 TENTANG PELAKSANAAN UJI COBA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PPN DAN PPn BM SECARA ON LINE"
+}

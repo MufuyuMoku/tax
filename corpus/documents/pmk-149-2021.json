@@ -14,6 +14,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -66,7 +70,26 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 9/PMK.03/2021 — Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 82/PMK.03/2021 — Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2021 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 3/PMK.03/2022 — Insentif Pajak Untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/3-pmk-03-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -78,10 +101,22 @@
    "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak"
+  },
+  {
+   "date_as_written": "2021-10-25 00:00:00",
+   "number_as_written": "149/PMK.03/2021",
+   "page_retrieved_at": "2026-10-05T15:01:25+00:00",
+   "retrieved_at": "2026-09-21T14:20:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2021 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-03-2021",
+   "validity_as_written": "26 Okt 2021 - 02 Feb 2022"
   }
  ],
  "status": {
   "reasons": [
+   "status berbeda antar sumber",
    "sumber menyatakan berlaku, tetapi teks PMK 3/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
@@ -94,6 +129,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=82",
+   "retrieved_at": "2026-09-21T14:20:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-03-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "perubahan",

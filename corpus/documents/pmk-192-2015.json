@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-192-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "192",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-192-2015--b000-1",
+  "pmk-192-2015--b001-2",
+  "pmk-192-2015--b002-3",
+  "pmk-192-2015--b003-4",
+  "pmk-192-2015--b004-5",
+  "pmk-192-2015--b005-6",
+  "pmk-192-2015--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-41-2020",
+    "key": [
+     "PMK",
+     "41",
+     "2020",
+     null
+    ],
+    "number_as_written": "41/PMK.03/2020",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 192/PMK.03/2015 tentang Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai yang Seharusnya Tidak Mendapat Fasilitas Tidak Dipungut Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Alat Angkutan Tertentu yang Telah Mendapat Fasilitas Tidak Dipungut Pajak Pertambahan Nilai yang Digunakan Tidak Sesuai dengan Tujuan Semula atau Dipindahtangankan kepada Pihak Lain Baik Sebagian atau Seluruhnya serta Pengenaan Sanksi atas Keterlambatan Pembayaran Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1537); … b. Peraturan Menteri Keuangan Nomor 193/PMK.03/2015 tentang Tata Cara Pemberian Fasilitas Tidak Dipungut Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu (Berita Negara Republik Indonesia T ahun 2015 Nomor 1538), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PERSYARATAN DAN TATA CARA IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU SERTA PENYERAHAN DAN PEMANFAATAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 41/PMK.03/2020 — Persyaratan dan Tata Cara Impor dan Penyerahan Alat Angkutan Tertentu Serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/41-pmk-03-2020"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-10-20",
+   "detail_error": null,
+   "number_as_written": "192/PMK.03/2015",
+   "retrieved_at": "2026-10-06T03:27:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI PAJAK PERTAMBAHAN NILAI YANG SEHARUSNYA TIDAK MENDAPAT FASILITAS TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ ATAU PENYERAHAN ALAT ANGKUTAN TERTENTU YANG TELAH MENDAPAT FASILITAS TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI YANG DIGUNAKAN TIDAK SESUAI DENGAN TUJUAN SEMULA ATAU DIPINDAHTANGANKAN KEPADA PIHAK LAIN BAIK SEBAGIAN ATAU SELURUHNYA SERTA PENGENAAN SANKSI ATAS KETERLAMBATAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-yang-seharusnya-tidak-mendapat"
+  },
+  {
+   "date_as_written": "2015-10-20 00:00:00",
+   "number_as_written": "192/PMK.03/2015",
+   "page_retrieved_at": "2026-10-06T02:16:40+00:00",
+   "retrieved_at": "2026-09-21T14:30:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai yang Seharusnya Tidak Mendapat Fasilitas Tidak Dipungut Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Alat Angkutan Tertentu yang Telah Mendapat Fasilitas Tidak Dipungut Pajak Pertambahan Nilai yang Digunakan Tidak Sesuai dengan Tujuan Semula atau Dipindahtangankan Kepada Pihak Lain Baik Sebagian atau Seluruhnya Serta Pengenaan Sanksi atas Keterlambatan Pembayaran Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2015",
+   "validity_as_written": "20 Okt 2015 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=162",
+   "retrieved_at": "2026-10-05T13:32:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-yang-seharusnya-tidak-mendapat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=223",
+   "retrieved_at": "2026-09-21T14:30:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10341,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:27:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-yang-seharusnya-tidak-mendapat"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI PAJAK PERTAMBAHAN NILAI YANG SEHARUSNYA TIDAK MENDAPAT FASILITAS TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ ATAU PENYERAHAN ALAT ANGKUTAN TERTENTU YANG TELAH MENDAPAT FASILITAS TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI YANG DIGUNAKAN TIDAK SESUAI DENGAN TUJUAN SEMULA ATAU DIPINDAHTANGANKAN KEPADA PIHAK LAIN BAIK SEBAGIAN ATAU SELURUHNYA SERTA PENGENAAN SANKSI ATAS KETERLAMBATAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI"
+}

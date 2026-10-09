@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 200/KMK.05/2000 — Perlakuan Perpajakan dan Kepabeanan untuk Kawasan Pengembangan Ekonomi Terpadu (Kapet)",
+    "url": "https://jdih.kemenkeu.go.id/dok/200-kmk-05-2000"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,10 +46,21 @@
    "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 97/KMK.04/1998 TENTANG PERLAKUAN PERPAJAKAN DAN PEMBEBASAN BEA MASUK UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU BIAK",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-97kmk041998-tentang-perlakuan-perpajakan-dan"
+  },
+  {
+   "date_as_written": "1998-12-30 00:00:00",
+   "number_as_written": "588/KMK.01/1998",
+   "page_retrieved_at": "2026-10-06T03:36:33+00:00",
+   "retrieved_at": "2026-09-21T14:51:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kepmenkeu No. 97/KMK.01/1998 tentang Perlakuan Perpajakan dan Pembebasan Bea Masuk untuk Kawasan Pengembangan Ekonomi Terpadu Biak",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/588-kmk-01-1998",
+   "validity_as_written": "30 Des 1998 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -50,6 +72,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-97kmk041998-tentang-perlakuan-perpajakan-dan",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=65",
+   "retrieved_at": "2026-09-21T14:51:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/588-kmk-01-1998",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": null,

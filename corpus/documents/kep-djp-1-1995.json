@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -18,28 +22,32 @@
  "original_files": [],
  "pasal_ids": [
   "kep-djp-1-1995--b000-1",
-  "kep-djp-1-1995--b001-2"
+  "kep-djp-1-1995--b001-2",
+  "kep-djp-1-1995--b002-3",
+  "kep-djp-1-1995--b003-4",
+  "kep-djp-1-1995--b004-5",
+  "kep-djp-1-1995--b005-6"
  ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [
+  "amends": [],
+  "revoked_by": [
    {
+    "id": "kep-djp-28-1996",
     "key": [
      "KEP-DJP",
-     "36",
-     "1994",
+     "28",
+     "1996",
      null
     ],
-    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-36/PJ/1994",
-    "quote": "Mengubah Pasal 3 ayat (2) huruf b sehingga berbunyi sebagai berikut :",
+    "number_as_written": "KEP-28/PJ./1996",
+    "quote": "Pasal 8 Dengan berlakunya Keputusan ini, Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ./1995 tanggal 1 Januari 1995 dinyatakan tidak berlaku.",
     "quote_excerpt": false,
-    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
     "source_of_reading": "DJP",
-    "target_id": "kep-djp-36-1994"
+    "title": "PENGHITUNGAN DAN TATA CARA PENGEMBALIAN KELEBIHAN PAJAK MASUKAN"
    }
   ],
-  "revoked_by": [],
   "revokes": [],
   "source_listed_related": []
  },
@@ -53,12 +61,24 @@
    "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-36/PJ/1994 TENTANG PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC",
    "type_as_written": "Keputusan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-36pj1994-tentang-pemindahan"
+  },
+  {
+   "date_as_written": "1995-01-04",
+   "detail_error": null,
+   "number_as_written": "KEP-01/PJ./1995",
+   "retrieved_at": "2026-10-06T05:53:03+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHITUNGAN DAN TATA CARA PENGEMBALIAN KELEBIHAN PAJAK MASUKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-tata-cara-pengembalian-kelebihan-pajak-masukan"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda dalam satu sumber (rekaman ganda)",
+   "sumber menyatakan berlaku, tetapi teks KEP-DJP 28/1996 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -68,18 +88,34 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-36pj1994-tentang-pemindahan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=454",
+   "retrieved_at": "2026-10-06T01:45:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-tata-cara-pengembalian-kelebihan-pajak-masukan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
   }
  ],
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 1742,
+  "chars": 6515,
   "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T07:03:57+00:00",
+  "other_postings": [
+   {
+    "chars": 1742,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T07:03:57+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-36pj1994-tentang-pemindahan"
+   }
+  ],
+  "retrieved_at": "2026-10-06T05:53:03+00:00",
   "source": "DJP",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-36pj1994-tentang-pemindahan"
+  "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-tata-cara-pengembalian-kelebihan-pajak-masukan"
  },
  "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-36/PJ/1994 TENTANG PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC"
 }

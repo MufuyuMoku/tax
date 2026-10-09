@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 47/PMK.04/2009 — Tata Cara Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/47-pmk-04-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 47/PMK.04/2012 — Tata Laksana Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas dan Pembebasan Cukai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/47-pmk-04-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,12 +52,24 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 47/PMK.04/2009 TENTANG TATA CARA PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN YANG TELAH DITUNJUK SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-47pmk042009-tentang-tata-cara-pemasukan"
+  },
+  {
+   "date_as_written": "2009-12-30 00:00:00",
+   "number_as_written": "242/PMK.04/2009",
+   "page_retrieved_at": "2026-10-06T03:00:23+00:00",
+   "retrieved_at": "2026-09-21T14:40:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 47/PMK.04/2009 tentang Tata Cara Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-04-2009",
+   "validity_as_written": "30 Des 2009 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "diubah_atau_dicabut_sebagian"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +79,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-47pmk042009-tentang-tata-cara-pemasukan",
    "value_normalized": "diubah_atau_dicabut_sebagian",
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=370",
+   "retrieved_at": "2026-09-21T14:40:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-04-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": null,

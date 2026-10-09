@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-43-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "43",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-43-2007--b000-1",
+  "pmk-43-2007--b001-2",
+  "pmk-43-2007--b002-3",
+  "pmk-43-2007--b003-4",
+  "pmk-43-2007--b004-5",
+  "pmk-43-2007--b005-6",
+  "pmk-43-2007--b006-7",
+  "pmk-43-2007--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-04-23",
+   "detail_error": null,
+   "number_as_written": "43/PMK.03/2007",
+   "retrieved_at": "2026-10-06T04:16:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PELAKSANAAN PROYEK PEMERINTAH UNTUK REHABILITASI DAN REKONSTRUKSI WILAYAH DAN KEHIDUPAN MASYARAKAT PROVINSI NANGGROE ACEH DARUSSALAM DAN KEPULAUAN NIAS PROVINSI SUMATERA UTARA PASKA BENCANA ALAM GEMPA BUMI DAN TSUNAMI YANG DIBIAYAI HIBAH LUAR NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pelaksanaan"
+  },
+  {
+   "date_as_written": "2007-04-23 00:00:00",
+   "number_as_written": "43/PMK.03/2007",
+   "page_retrieved_at": "2026-10-06T03:06:32+00:00",
+   "retrieved_at": "2026-09-21T14:44:48+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Ppn dan Ppnbm atas Pelaksanaan Proyek Pemerintah untuk Rehabilitasi dan Rekunstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggro Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara Paska Bencana Alam Gempa Bumi dan Tsunami yang di Biayai Hibah Luar Negeri",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2007",
+   "validity_as_written": "23 Apr 2007 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=256",
+   "retrieved_at": "2026-10-05T14:04:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pelaksanaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=436",
+   "retrieved_at": "2026-09-21T14:44:48+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11089,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:16:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pelaksanaan"
+ },
+ "title": "PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PELAKSANAAN PROYEK PEMERINTAH UNTUK REHABILITASI DAN REKONSTRUKSI WILAYAH DAN KEHIDUPAN MASYARAKAT PROVINSI NANGGROE ACEH DARUSSALAM DAN KEPULAUAN NIAS PROVINSI SUMATERA UTARA PASKA BENCANA ALAM GEMPA BUMI DAN TSUNAMI YANG DIBIAYAI HIBAH LUAR NEGERI"
+}

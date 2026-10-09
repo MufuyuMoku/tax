@@ -1,0 +1,73 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-140-kmk-03-2009",
+ "identity": {
+  "code": "KMK",
+  "number": "140/KMK/03",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-140-kmk-03-2009--b000-kedua",
+  "kmk-140-kmk-03-2009--b001-ketiga",
+  "kmk-140-kmk-03-2009--b002-keempat",
+  "kmk-140-kmk-03-2009--b003-kelima",
+  "kmk-140-kmk-03-2009--b004-keenam"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-04-21",
+   "detail_error": null,
+   "number_as_written": "140/KMK/03/2009",
+   "retrieved_at": "2026-10-06T04:09:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUGASAN KEPADA PEJABAT/PEGAWAI DIREKTORAT JENDERAL PAJAK DALAM RANGKA PENGAWASAN ATAS PEMASUKAN BARANG DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penugasan-kepada-pejabatpegawai-direktorat-jenderal-pajak-dalam-rangka-pengawasan-atas"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=226",
+   "retrieved_at": "2026-10-05T13:54:12+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penugasan-kepada-pejabatpegawai-direktorat-jenderal-pajak-dalam-rangka-pengawasan-atas",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5052,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:09:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penugasan-kepada-pejabatpegawai-direktorat-jenderal-pajak-dalam-rangka-pengawasan-atas"
+ },
+ "title": "PENUGASAN KEPADA PEJABAT/PEGAWAI DIREKTORAT JENDERAL PAJAK DALAM RANGKA PENGAWASAN ATAS PEMASUKAN BARANG DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS"
+}

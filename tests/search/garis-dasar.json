@@ -1,5 +1,5 @@
 {
-  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP: pengukuran pertama, 2026-10-09 (M5). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063).",
+  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP dan PPN: pengukuran pertama, 2026-10-09 (M5). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063).",
   "peringkat": {
     "bonus-tahunan": 16,
     "thr": 84,
@@ -35,15 +35,26 @@
     "daluwarsa-penagihan": 36,
     "npwp-jabatan": 8,
     "pemeriksaan": 4,
-    "angsuran-tunggakan": 52
+    "angsuran-tunggakan": 52,
+    "faktur-pajak": 1,
+    "pkp": 146,
+    "batas-omzet-pkp": 65,
+    "ppn-impor": 2,
+    "ppn-digital": 50,
+    "pajak-masukan": 21,
+    "barang-bebas-ppn": 58,
+    "tarif-ppn-12": 3,
+    "bangun-rumah-sendiri": 38,
+    "restitusi-ppn": 11
   },
   "median_acuan": {
-    "keterangan": "Median peringkat yang tidak boleh terlampaui. pph: 25 pertanyaan PPh; 5 sebelum KUP, 6 sejak teks JDIH PPh masuk (disetujui pemilik 2026-10-09, K-068). semua: 35 pertanyaan, diukur 2026-10-09.",
+    "keterangan": "Median peringkat yang tidak boleh terlampaui, per himpunan pertanyaan yang sama (K-072). pph: 25 pertanyaan PPh (5 sebelum KUP; 6 sejak teks JDIH PPh, disetujui pemilik). pph_kup: pertanyaan PPh dan KUP (8 saat diukur 2026-10-09). semua: seluruh pertanyaan termasuk PPN, diukur saat PPN, padanan K-073, dan jawaban sah restitusi K-075 masuk.",
     "pph": 6,
-    "semua": 8
+    "pph_kup": 8,
+    "semua": 5
   },
   "penurunan_disetujui": {
-    "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",
+    "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068), lalu akibat PPN masuk korpus (K-075). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",
     "honor-pembicara": {
       "garis_dasar": 10,
       "paling_buruk": 24,
@@ -51,8 +62,8 @@
     },
     "zakat": {
       "garis_dasar": 13,
-      "paling_buruk": 22,
-      "penjelasan": "Dokumen KUP yang menyebut zakat dan pengurangan penghasilan bruto ikut bersaing; kelangkaan 'zakat' turun."
+      "paling_buruk": 28,
+      "penjelasan": "Dokumen KUP yang menyebut zakat dan pengurangan penghasilan bruto ikut bersaing; kelangkaan 'zakat' turun. PPN (2026-10-09, K-075): 10 dokumen ber-PPN tentang pembebasan PPN untuk barang keagamaan dan sosial ikut bersaing (sampai 28)."
     },
     "beasiswa": {
       "garis_dasar": 1,
@@ -61,8 +72,8 @@
     },
     "pajak-luar-negeri": {
       "garis_dasar": 7,
-      "paling_buruk": 13,
-      "penjelasan": "Dokumen KUP tentang pengkreditan dan Persetujuan Penghindaran Pajak Berganda ikut bersaing. Pada 2026-10-05 (detail KUP 712/892) peringkatnya 11; dengan detail lengkap 13."
+      "paling_buruk": 16,
+      "penjelasan": "Dokumen KUP tentang pengkreditan dan Persetujuan Penghindaran Pajak Berganda ikut bersaing. Pada 2026-10-05 (detail KUP 712/892) peringkatnya 11; dengan detail lengkap 13. PPN (2026-10-09, K-075): 6 dokumen ber-PPN tentang perlakuan pajak dari luar daerah pabean ikut bersaing (sampai 16)."
     },
     "denda-telat-lapor": {
       "garis_dasar": 7,
@@ -78,6 +89,16 @@
       "garis_dasar": 82,
       "paling_buruk": 83,
       "penjelasan": "Teks JDIH PPh yang sebelumnya kosong kini tercari (2026-10-09, K-068)."
+    },
+    "omzet-umkm": {
+      "garis_dasar": 20,
+      "paling_buruk": 23,
+      "penjelasan": "PPN (2026-10-09, K-075): 5 dokumen ber-PPN, antara lain PMK 197/2013 dan PER-DJP 12/2014 tentang batas pengusaha kecil Rp4,8 miliar, ikut menyebut peredaran bruto."
+    },
+    "makan-siang-kantor": {
+      "garis_dasar": 90,
+      "paling_buruk": 146,
+      "penjelasan": "PPN (2026-10-09, K-075): 62 dokumen PPN-saja tentang makanan, minuman, dan jasa boga (mis. PMK 70/2022) ikut bersaing."
     }
   },
   "toleransi": {

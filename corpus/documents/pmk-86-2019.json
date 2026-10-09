@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -38,7 +42,22 @@
     "target_id": "pmk-35-2017"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-96-2021",
+    "key": [
+     "PMK",
+     "96",
+     "2021",
+     null
+    ],
+    "number_as_written": "96/PMK.03/2021",
+    "quote": "Pasal 17 Pada saat Peraturan Menteri ini mulai berlaku Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2017 Nomor 362) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 86/PMK.010/2019 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2019 Nomor 640), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN JENIS BARANG KENA PAJAK SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGECUALIAN PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -80,7 +99,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 96/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

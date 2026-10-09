@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-993-kmk-03-2006",
+ "identity": {
+  "code": "KMK",
+  "number": "993/KMK.03",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-12-15",
+   "detail_error": null,
+   "number_as_written": "993/KMK.03/2006",
+   "retrieved_at": "2026-10-06T04:18:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI YANG TERUTANG TIDAK DIPUNGUT ATAS IMPOR PERALATAN STUDIO DAN KOMUNIKASI YANG DIGUNAKAN OLEH LEMBAGA SANDI NEGARA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terutang-tidak-dipungut-atas-impor-peralatan-studio-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=267",
+   "retrieved_at": "2026-10-05T14:08:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terutang-tidak-dipungut-atas-impor-peralatan-studio-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI YANG TERUTANG TIDAK DIPUNGUT ATAS IMPOR PERALATAN STUDIO DAN KOMUNIKASI YANG DIGUNAKAN OLEH LEMBAGA SANDI NEGARA"
+}

@@ -1,0 +1,173 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-70-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "70",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-70-2022--b000-1",
+  "pmk-70-2022--b001-2",
+  "pmk-70-2022--b002-3",
+  "pmk-70-2022--b003-4",
+  "pmk-70-2022--b004-5",
+  "pmk-70-2022--b005-6",
+  "pmk-70-2022--b006-7",
+  "pmk-70-2022--b007-8",
+  "pmk-70-2022--b008-9",
+  "pmk-70-2022--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "122",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 122/PMK.03/2012",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 122/PMK.03/2012 tentang Kriteria Jasa Penyediaan Tempat Parkir yang Termasuk dalam Jenis Jasa yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2012 Nomor 719); … d. Peraturan Menteri Keuangan Nomor 158/PMK.010/2015 tentang Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1190), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-122-2012"
+   },
+   {
+    "key": [
+     "PMK",
+     "18",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 18/PMK.010/2015",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 18/PMK.010/2015 tentang Kriteria Jasa Boga atau Katering yang Termasuk dalam Jenis Jasa yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 162); c. Peraturan Menteri Keuangan Nomor 43/PMK.010/2015 tentang Kriteria dan/atau Rincian Jasa Perhotelan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 361); dan d. Peraturan Menteri Keuangan Nomor 158/PMK.010/2015 tentang Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1190), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-18-2015"
+   },
+   {
+    "key": [
+     "PMK",
+     "43",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 43/PMK.010/2015",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 43/PMK.010/2015 tentang Kriteria dan/atau Rincian Jasa Perhotelan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 361); dan d. Peraturan Menteri Keuangan Nomor 158/PMK.010/2015 tentang Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1190), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-43-2015"
+   },
+   {
+    "key": [
+     "PMK",
+     "158",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 158/PMK.010/2015",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: … d. Peraturan Menteri Keuangan Nomor 158/PMK.010/2015 tentang Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1190), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-158-2015"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 122/PMK.03/2012 — Kriteria Jasa Penyediaan Tempat Parkir yang Termasuk dalam Jenis Jasa yang Tidak Dikenai Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 18/PMK.010/2015 — Kriteria Jasa Boga atau Katering yang Termasuk dalam Jenis Jasa yang Tidak Dikenai Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 43/PMK.010/2015 — Kriteria dan/atau Rincian Jasa Perhotelan yang Tidak Dikenai Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 158/PMK.010/2015 — Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/158-pmk-010-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-30",
+   "detail_error": null,
+   "number_as_written": "70/PMK.03/2022",
+   "retrieved_at": "2026-10-06T02:58:24+00:00",
+   "source": "DJP",
+   "title_as_written": "KRITERIA DAN/ATAU RINCIAN MAKANAN DAN MINUMAN, JASA KESENIAN DAN HIBURAN, JASA PERHOTELAN, JASA PENYEDIAAN TEMPAT PARKIR, SERTA JASA BOGA ATAU KATERING, YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/kriteria-danatau-rincian-makanan-dan-minuman-jasa-kesenian-dan-hiburan-jasa-perhotelan"
+  },
+  {
+   "date_as_written": "2022-03-30 00:00:00",
+   "number_as_written": "70/PMK.03/2022",
+   "retrieved_at": "2026-09-21T14:19:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Kriteria dan/atau Rincian Makanan dan Minuman, Jasa Kesenian dan Hiburan, Jasa Perhotelan, Jasa Penyediaan Tempat Parkir, serta Jasa Boga atau Katering, yang Tidak Dikenai Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2022"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=67",
+   "retrieved_at": "2026-10-05T07:45:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kriteria-danatau-rincian-makanan-dan-minuman-jasa-kesenian-dan-hiburan-jasa-perhotelan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=67",
+   "retrieved_at": "2026-09-21T14:19:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12678,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:58:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kriteria-danatau-rincian-makanan-dan-minuman-jasa-kesenian-dan-hiburan-jasa-perhotelan"
+ },
+ "title": "KRITERIA DAN/ATAU RINCIAN MAKANAN DAN MINUMAN, JASA KESENIAN DAN HIBURAN, JASA PERHOTELAN, JASA PENYEDIAAN TEMPAT PARKIR, SERTA JASA BOGA ATAU KATERING, YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+}

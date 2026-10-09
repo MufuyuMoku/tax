@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-128-2003",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "128",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-128-2003--b000-1",
+  "kep-djp-128-2003--b001-2",
+  "kep-djp-128-2003--b002-3",
+  "kep-djp-128-2003--b003-4",
+  "kep-djp-128-2003--b004-5",
+  "kep-djp-128-2003--b005-6",
+  "kep-djp-128-2003--b006-7",
+  "kep-djp-128-2003--b007-8",
+  "kep-djp-128-2003--b008-9",
+  "kep-djp-128-2003--b009-10",
+  "kep-djp-128-2003--b010-11",
+  "kep-djp-128-2003--b011-12",
+  "kep-djp-128-2003--b012-13",
+  "kep-djp-128-2003--b013-14",
+  "kep-djp-128-2003--b014-15",
+  "kep-djp-128-2003--b015-16",
+  "kep-djp-128-2003--b016-17",
+  "kep-djp-128-2003--b017-18",
+  "kep-djp-128-2003--b018-19"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-19-2010",
+    "key": [
+     "PER-DJP",
+     "19",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-19/PJ/2010",
+    "quote": "Pasal 14 Pada saat Peraturan Direktur Jenderal ini berlaku : penetapan pemusatan tempat Pajak Pertambahan Nilai terutang berdasarkan Surat Keputusan Direktur Jenderal Pajak Nomor KEP-128/PJ./2003 tentang Penetapan Satu Tempat atau Lebih Sebagai Tempat Terutang Pajak Pertambahan Nilai Bagi Wajib Pajak Selain yang Terdaftar di Kantor Pelayanan Pajak Wajib Pajak Besar, dinyatakan tetap berlaku sampai habis masa berlakunya; … Keputusan Direktur Jenderal Pajak Nomor KEP-128/PJ./2003 tentang Penetapan satu Tempat atau Lebih Sebagai Tempat Terutang Pajak Pertambahan Nilai Bagi Wajib Pajak Selain yang Terdaftar di Kantor Pelayanan Pajak Wajib Pajak Besar, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "334",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-334/PJ./2002",
+    "quote": "Pasal 18 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-334/PJ./2002 tentang Penetapan Satu Tempat Atau Lebih Sebagai Tempat Terutang Pajak Pertambahan Nilai dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-334-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-04-22",
+   "detail_error": null,
+   "number_as_written": "KEP-128/PJ./2003",
+   "retrieved_at": "2026-10-06T04:40:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI BAGI WAJIB PAJAK SELAIN YANG TERDAFTAR DI KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-bagi-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=327",
+   "retrieved_at": "2026-10-05T14:29:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-bagi-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 20641,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:40:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-bagi-0"
+ },
+ "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI BAGI WAJIB PAJAK SELAIN YANG TERDAFTAR DI KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR"
+}

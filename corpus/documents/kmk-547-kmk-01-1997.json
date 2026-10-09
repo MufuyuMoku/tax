@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,38 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 291/KMK.05/1997 — Kawasan Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/291-kmk-05-1997"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 147/PMK.04/2011 — Kawasan Berikat.",
+    "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-04-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 349/KMK.01/1999 — Perubahan Kepmenkeu No. 291/KMK.05/1997 tentang Kawasan Berikat Sebagaimana Telah Diubah Terakhir dengan Kepmenkeu No. 292/KMK.01/1998",
+    "url": "https://jdih.kemenkeu.go.id/dok/349-kmk-01-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 101/PMK.04/2005 — Perubahan Ketujuh atas Keputusan Menteri Keuangan Nomor 291/KMK.05/1997 tentang Kawasan Berikat.",
+    "url": "https://jdih.kemenkeu.go.id/dok/101-pmk-04-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 292/KMK.01/1998 — Perubahan Kepmenkeu No. 291/KMK.05/2997 tentang Kawasan Berikat Sebagaimana Telah Disempurnakan dengan Keputusan Menteri Keuangan No.547/KMK.01/1997",
+    "url": "https://jdih.kemenkeu.go.id/dok/292-kmk-01-1998"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,12 +70,24 @@
    "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 291/KMK.05/1997 TENTANG KAWASAN BERIKAT",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-291kmk051997-tentang-kawasan-berikat"
+  },
+  {
+   "date_as_written": "1997-11-03 00:00:00",
+   "number_as_written": "547/KMK.01/1997",
+   "page_retrieved_at": "2026-10-06T03:42:26+00:00",
+   "retrieved_at": "2026-09-21T14:52:25+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyempurnaan Keputusan Menteri Keuangan Nomor : 291/KMK.05/1997 tentang Kawasan Berikat",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/547-kmk-01-1997",
+   "validity_as_written": "03 Nov 1997 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "diubah_atau_dicabut_sebagian"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +97,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-291kmk051997-tentang-kawasan-berikat",
    "value_normalized": "diubah_atau_dicabut_sebagian",
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=82",
+   "retrieved_at": "2026-09-21T14:52:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/547-kmk-01-1997",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": null,

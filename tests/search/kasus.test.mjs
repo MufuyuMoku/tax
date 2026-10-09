@@ -19,8 +19,8 @@ function median(ranks) {
 let now = null;
 const ranks = () => (now ||= evaluate(cases));
 
-test("the case set has 20 to 40 questions, each with an answer", () => {
-  assert.ok(cases.length >= 20 && cases.length <= 40, `${cases.length} pertanyaan`);
+test("the case set has 20 to 60 questions, each with an answer", () => {
+  assert.ok(cases.length >= 20 && cases.length <= 60, `${cases.length} pertanyaan`);
   for (const c of cases) assert.ok(c.jawaban.length > 0, c.id);
 });
 
@@ -29,10 +29,17 @@ test("every quote in the case set is found word for word in the corpus", () => {
 });
 
 test("the median rank is not worse than the reference", () => {
-  const pph = cases.filter((c) => !c.kategori).map((c) => ranks()[c.id].rank);
-  const all = cases.map((c) => ranks()[c.id].rank);
-  assert.ok(median(pph) <= reference.median_acuan.pph, `median PPh ${median(pph)} > ${reference.median_acuan.pph}`);
-  assert.ok(median(all) <= reference.median_acuan.semua, `median semua ${median(all)} > ${reference.median_acuan.semua}`);
+  // Each reference holds for the questions it was measured on, so adding questions of a new
+  // category does not count as getting worse (K-072).
+  const groups = {
+    pph: cases.filter((c) => !c.kategori),
+    pph_kup: cases.filter((c) => !c.kategori || c.kategori === "KUP"),
+    semua: cases,
+  };
+  for (const [name, group] of Object.entries(groups)) {
+    const value = median(group.map((c) => ranks()[c.id].rank));
+    assert.ok(value <= reference.median_acuan[name], `median ${name} ${value} > ${reference.median_acuan[name]}`);
+  }
 });
 
 test("no question ranks worse than its baseline, except drops the owner approved", () => {

@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-5-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-5-2008--b000-i",
+  "per-djp-5-2008--b001-ii",
+  "per-djp-5-2008--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "153",
+     "2002",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-153/PJ./2002",
+    "quote": "Ketentuan Pasal 8 diubah dengan menambah dua angka, yaitu angka 3 dan 4, sehingga keseluruhan Pasal 8 menjadi berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-153-2002"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-02-11",
+   "detail_error": null,
+   "number_as_written": "PER-5/PJ/2008",
+   "retrieved_at": "2026-10-06T04:11:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-153/PJ./2002 TENTANG PENETAPAN BENTUK, UKURAN, WARNA, ISI, DAN TEKS STIKER LUNAS PAJAK PERTAMBAHAN NILAI, DAN DASAR PENGENAAN PAJAK UNTUK MENGHITUNG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN GAMBAR DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER LUNAS PAJAK PERTAMBAHAN NILAI SERTA TATA CARA PENEBUSAN DAN PELAPORANNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-153pj2002-tentang-penetapan"
+  },
+  {
+   "date_as_written": "2008-02-11 00:00:00",
+   "number_as_written": "PerDJP 5/PJ/2008",
+   "page_retrieved_at": "2026-10-06T03:03:27+00:00",
+   "retrieved_at": "2026-09-21T14:58:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Direktur Jenderal Pajak Nomor Kep-153/Pj./2002 tentang Penetapan Bentuk, Ukuran, Warna, Isi, dan Teks Stiker Lunas Pajak Pertambahan Nilai, dan Dasar Pengenaan Pajak untuk Menghitung Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Gambar dan Penunjukan Asosiasi yang Memberikan Rekomendasi untuk Penebusan Stiker Lunas Pajak Pertambahan Nilai Serta Tata Cara Penebusan dan Pelaporannya.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-5-pj-2008",
+   "validity_as_written": "11 Feb 2008 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=239",
+   "retrieved_at": "2026-10-05T13:58:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-153pj2002-tentang-penetapan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=45",
+   "retrieved_at": "2026-09-21T14:58:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-5-pj-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7109,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:11:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-153pj2002-tentang-penetapan"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-153/PJ./2002 TENTANG PENETAPAN BENTUK, UKURAN, WARNA, ISI, DAN TEKS STIKER LUNAS PAJAK PERTAMBAHAN NILAI, DAN DASAR PENGENAAN PAJAK UNTUK MENGHITUNG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN GAMBAR DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER LUNAS PAJAK PERTAMBAHAN NILAI SERTA TATA CARA PENEBUSAN DAN PELAPORANNYA"
+}

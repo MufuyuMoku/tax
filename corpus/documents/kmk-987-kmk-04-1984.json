@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-987-kmk-04-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "987/KMK.04",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-596-kmk-04-1994",
+    "key": [
+     "KMK",
+     "596/KMK.04",
+     "1994",
+     null
+    ],
+    "number_as_written": "596/KMK.04/1994",
+    "quote": "Pasal 6 Dengan berlakunya Keputusan Menteri Keuangan ini, maka Keputusan menteri Keuangan Nomor 987/KMK.04/1984 tentang Tata Cara Pengurangan Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah untuk Barang Kena Pajak dan atau Barang Mewah yang dikembalikan, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGURANGAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH UNTUK BARANG KENA PAJAK YANG DIKEMBALIKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-09-18",
+   "detail_error": null,
+   "number_as_written": "987/KMK.04/1984",
+   "retrieved_at": "2026-10-06T06:41:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGURANGAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH UNTUK BARANG KENA PAJAK DAN/ATAU BARANG MEWAH YANG DIKEMBALIKAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-untuk"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=493",
+   "retrieved_at": "2026-10-06T02:24:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-untuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENGURANGAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH UNTUK BARANG KENA PAJAK DAN/ATAU BARANG MEWAH YANG DIKEMBALIKAN"
+}

@@ -36,7 +36,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2020",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2020",
+    "quote": "… e. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2015 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Lainnya; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
   "revokes": [
    {
     "key": [

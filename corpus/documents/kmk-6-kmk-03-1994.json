@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-6-kmk-03-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "6/KMK.03",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-01-05",
+   "detail_error": null,
+   "number_as_written": "6/KMK.03/1994",
+   "retrieved_at": "2026-10-06T06:00:36+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN PENGEMBALIAN BEA MASUK/ BEA MASUK TAMBAHAN, PAJAK EKSPOR/ PAJAK EKSPOR TAMBAHAN DAN PAJAK PERTAMBAHAN NILAI/ PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN PELAYANAN KEMUDAHAN EKSPOR DAN PENGOLAHAN DATA KEUANGAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pengembalian-bea-masuk-bea-masuk-tambahan-pajak-ekspor-pajak-ekspor"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=460",
+   "retrieved_at": "2026-10-06T01:48:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pengembalian-bea-masuk-bea-masuk-tambahan-pajak-ekspor-pajak-ekspor",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMBAYARAN PENGEMBALIAN BEA MASUK/ BEA MASUK TAMBAHAN, PAJAK EKSPOR/ PAJAK EKSPOR TAMBAHAN DAN PAJAK PERTAMBAHAN NILAI/ PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN PELAYANAN KEMUDAHAN EKSPOR DAN PENGOLAHAN DATA KEUANGAN"
+}

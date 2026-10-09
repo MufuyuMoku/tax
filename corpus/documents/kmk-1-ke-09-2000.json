@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1-ke-09-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "1/KE.09",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-1-ke-09-2000--b000-kedua",
+  "kmk-1-ke-09-2000--b001-ketiga",
+  "kmk-1-ke-09-2000--b002-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBEBASAN DAN PENGEMBALIAN BEA MASUK DAN ATAU CUKAI SERTA PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR BARANG DAN ATAU BAHAN UNTUK DIOLAH, DIRAKIT ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR DAN PENGAWASANNYA",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/pembebasan-dan-pengembalian-bea-masuk-dan-atau-cukai-serta-pajak-pertambahan-nilai-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGGUNAAN CUSTOMS BOND SEBAGAI JAMINAN PEMBAYARAN PUNGUTAN BEA MASUK, CUKAI, DENDA ADMINISTRASI, DAN PAJAK DALAM RANGKA IMPOR",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/penggunaan-customs-bond-sebagai-jaminan-pembayaran-pungutan-bea-masuk-cukai-denda"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN PASAL 1 DAN PASAL 2 KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-02/PJ.4/1988 TENTANG PERINCIAN BIAYA BAGI JURU SITA UNTUK PEMBERITAHUAN SURAT PAKSA DAN PELAKSANAAN PENYITAAN",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-pasal-1-dan-pasal-2-keputusan-direktur-jenderal-pajak-nomor-kep-02pj41988"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-01-13",
+   "detail_error": null,
+   "number_as_written": "KM-000001/KE.09/2000",
+   "retrieved_at": "2026-10-06T05:26:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCAIRAN JAMINAN BANK ATAU CUSTOMS BOND YANG DIJAMINKAN UNTUK PEMBEBASAN BEA MASUK DAN PENANGGUHAN PEMBAYARAN PPN ATAS BARANG DAN BAHAN ASAL IMPOR YANG DIIMPOR OLEH : DUREE TIMBER INDONESIA, PT",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/pencairan-jaminan-bank-atau-customs-bond-yang-dijaminkan-untuk-pembebasan-bea-masuk-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=395",
+   "retrieved_at": "2026-10-05T14:53:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/pencairan-jaminan-bank-atau-customs-bond-yang-dijaminkan-untuk-pembebasan-bea-masuk-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3248,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:26:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/index.php/id/peraturan/pencairan-jaminan-bank-atau-customs-bond-yang-dijaminkan-untuk-pembebasan-bea-masuk-dan"
+ },
+ "title": "PENCAIRAN JAMINAN BANK ATAU CUSTOMS BOND YANG DIJAMINKAN UNTUK PEMBEBASAN BEA MASUK DAN PENANGGUHAN PEMBAYARAN PPN ATAS BARANG DAN BAHAN ASAL IMPOR YANG DIIMPOR OLEH : DUREE TIMBER INDONESIA, PT"
+}

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -119,6 +123,24 @@
     "source": "DJP",
     "text": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-552/PJ./2001 TENTANG PENETAPAN NILAI STIKER LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER LUNAS PAJAK PERTAMBAHAN NILAI SERTA TATA CARA PENEBUSAN DAN PELAPORANNYA",
     "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-552pj2001-tentang"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 700/KMK.05/1985 — Pembebasan Bea Masuk, Ppn dan Pph Pasal 22 atas Pemasukan Barang-Barang untuk Perkeretaapian oleh Perusahaan Jawatan Kereta Api",
+    "url": "https://jdih.kemenkeu.go.id/dok/700-kmk-05-1985"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 596/KMK.05/1986 — Pemberian Kemudahan Pembebasan Bea Masuk, dan Ppn, Ppn Bm Ditanggung Pemerintah  atas Impor dalam Rangka Pembangunan dan Pengembangan  Pt. Industri Pesawat Terbang Nusantara (Pt. Iptn), Pt. Pindad, Pt. Pal,Dan Perum  Bahana",
+    "url": "https://jdih.kemenkeu.go.id/dok/596-kmk-05-1986"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 11/KMK.01/1990 — Penyempurnaan Kepmenkeu No. 700/KMK.05/1985 tentang Pembebasan Bea Masuk, Ppn dan Pph Pasal 22 atas Pemasukan Barang-Barang untuk Perkeretaapian oleh Perusahaan Jawatan Kereta Api (Pjka)",
+    "url": "https://jdih.kemenkeu.go.id/dok/11-kmk-01-1990"
    }
   ]
  },
@@ -132,10 +154,21 @@
    "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 700/KMK.05/1985 SEBAGAIMANA TELAH DIUBAH DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 11/KMK.01/1990 DAN KEPUTUSAN MENTERI KEUANGAN NOMOR 596/KMK.05/1986",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-700kmk051985-sebagaimana-telah-diubah-dengan"
+  },
+  {
+   "date_as_written": "2000-02-10 00:00:00",
+   "number_as_written": "40/KMK.01/2000",
+   "page_retrieved_at": "2026-10-06T03:31:25+00:00",
+   "retrieved_at": "2026-09-21T14:50:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Kepmenkeu No.700/KMK.05/1985 Sebagaimana Telah Diubah dengan Kepmenkeu No. 11/KMK.01/1990 dan Kepmenkeu No. 596/KMK.05/1986",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/40-kmk-01-2000",
+   "validity_as_written": "10 Feb 2000 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -147,6 +180,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-700kmk051985-sebagaimana-telah-diubah-dengan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=56",
+   "retrieved_at": "2026-09-21T14:50:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/40-kmk-01-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

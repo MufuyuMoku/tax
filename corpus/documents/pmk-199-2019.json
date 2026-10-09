@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -115,7 +119,56 @@
     "target_id": "pmk-110-2018"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 110/PMK.010/2018 — Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-010-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 112/PMK.04/2018 — Perubahan atas Peraturan Menteri Keuangan Nomor 182/PMK.04/2016 tentang Ketentuan Impor Barang Kiriman.",
+    "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-04-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 198/PMK.010/2019 — Perubahan Ketujuh atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakukan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk",
+    "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-010-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 182/PMK.04/2016 — Ketentuan Impor Barang Kiriman.",
+    "url": "https://jdih.kemenkeu.go.id/dok/182-pmk-04-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 231/KMK.03/2001 — Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Ekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/231-kmk-03-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 34/PMK.010/2017 — Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 109/PMK.04/2010 — Tata Cara Pembebasan Cukai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/109-pmk-04-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 96 TAHUN 2023 — Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-96-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -127,10 +180,22 @@
    "title_as_written": "KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR BARANG KIRIMAN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman"
+  },
+  {
+   "date_as_written": "2019-12-26 00:00:00",
+   "number_as_written": "199/PMK.010/2019",
+   "page_retrieved_at": "2026-10-06T01:44:58+00:00",
+   "retrieved_at": "2026-09-21T14:23:37+00:00",
+   "source": "JDIH",
+   "title_as_written": "Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor Barang Kiriman.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-010-2019",
+   "validity_as_written": "26 Des 2019 - 18 Sep 2023"
   }
  ],
  "status": {
   "reasons": [
+   "status berbeda antar sumber",
    "sumber menyatakan berlaku, tetapi teks PMK 96/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
@@ -143,6 +208,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-kepabeanan-cukai-dan-pajak-atas-impor-barang-kiriman",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=124",
+   "retrieved_at": "2026-09-21T14:23:37+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-010-2019",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

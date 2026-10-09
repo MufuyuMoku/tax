@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1669,
+ "document_id": "per-djp-160-2006",
+ "document_number": "PER-160/PJ/2006",
+ "document_title": "TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+ "id": "per-djp-160-2006--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\nSPT dianggap tidak lengkap apabila :\n1.\nNama dan/atau NPWP tidak mencantumkan dalam SPT;\n2.\nElemen-elemen induk SPT dan lampiran SPT sebagaimana dimaksud pada Pasal 2 ayat (1) atau (2) tidak atau kurang lengkap diisi;\n3.\nInduk SPT tidak ditandatangani oleh PKP atau Pemungut PPN;\n4.\nInduk SPT ditandatangani oleh Kuasa PKP atau Kuasa Pemungut PPN, tetapi tidak dilampiri Surat Kuasa Khusus;\n5.\nSPT Kurang Bayar tetapi tidak dilampiri Surat Setoran Pajak;\n6.\nSPT yang Lampiran SPT-nya tidak disampaikan, kecuali SPT yang dilaporkan NIHIL karena PKP tidak ada kegiatan penyerahan dan perolehan BKP dan/atau JKP atau karena pemungut PPN tidak melakukan pemungutan PPN atau PPN dan PPn BM;\n7.\nDalam hal SPT disampaikan dalam bentuk media elektronik sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b angka (1) berdasarkan pengujian data, diketahui :\na.\nInduk SPT hasil cetakan yang disampaikan oleh PKP atau Pemungut PPN tanpa disertai Lampiran SPT dalam bentuk media elektronik, kecuali SPT sebagaimana dimaksud pada angka 6;\nb.\nInduk SPT hasil cetakan yang disampaikan oleh PKP atau Pemungut PPN tidak sesuai dengan Induk SPT yang ada dalam bentuk media elektronik;\nc.\nElemen-elemen data elektronik dalam bentuk media elektronik yang disampaikan oleh PKP atau Pemungut PPN tidak diisi atau diisi tidak lengkap;\nd.\nData elektronik dalam bentuk media elektronik yang disampaikan oleh PKP atau Pemungut PPN tidak dapat diproses pada aplikasi SIP/SAPT/SIDJP.\n8.\nDalam hal PKP menyampaikan SPT melalui e-Filing sebagaimana dimaksud dalam Pasal 3 ayat (3), berdasarkan pengujian data elektronik, induk SPT hasil cetakan tersebut tidak sesuai dengan data elektroniknya.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T04:18:58+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-dan-pengolahan-surat-pemberitahuan-masa-pajak-pertambahan-nilai-spt"
+ }
+}

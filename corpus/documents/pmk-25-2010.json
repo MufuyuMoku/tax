@@ -1,0 +1,92 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-25-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "25",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-25-2010--b000-1",
+  "pmk-25-2010--b001-2",
+  "pmk-25-2010--b002-3",
+  "pmk-25-2010--b003-4",
+  "pmk-25-2010--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-01-29",
+   "detail_error": null,
+   "number_as_written": "25/PMK.011/2010",
+   "retrieved_at": "2026-10-06T04:06:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG KEMASAN SEDERHANA DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2010",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-kemasan-0"
+  },
+  {
+   "date_as_written": "2010-01-29 00:00:00",
+   "number_as_written": "25/PMK.011/2010",
+   "page_retrieved_at": "2026-10-06T02:59:41+00:00",
+   "retrieved_at": "2026-09-21T14:40:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Kemasan Sederhana di dalam Negeri untuk Tahun Anggaran 2010.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/25-pmk-011-2010",
+   "validity_as_written": "29 Jan 2010 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=222",
+   "retrieved_at": "2026-10-05T13:52:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-kemasan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=367",
+   "retrieved_at": "2026-09-21T14:40:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/25-pmk-011-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3547,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:06:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-kemasan-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG KEMASAN SEDERHANA DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2010"
+}

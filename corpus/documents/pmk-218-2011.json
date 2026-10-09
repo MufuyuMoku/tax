@@ -1,0 +1,157 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-218-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "218",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-218-2011--b000-1",
+  "pmk-218-2011--b001-2",
+  "pmk-218-2011--b002-3",
+  "pmk-218-2011--b003-4",
+  "pmk-218-2011--b004-5",
+  "pmk-218-2011--b005-6",
+  "pmk-218-2011--b006-7",
+  "pmk-218-2011--b007-8",
+  "pmk-218-2011--b008-9",
+  "pmk-218-2011--b009-10",
+  "pmk-218-2011--b010-11",
+  "pmk-218-2011--b011-12",
+  "pmk-218-2011--b012-13",
+  "pmk-218-2011--b013-14",
+  "pmk-218-2011--b014-15",
+  "pmk-218-2011--b015-16",
+  "pmk-218-2011--b016-17",
+  "pmk-218-2011--b017-18",
+  "pmk-218-2011--b018-19",
+  "pmk-218-2011--b019-20",
+  "pmk-218-2011--b020-21",
+  "pmk-218-2011--b021-22",
+  "pmk-218-2011--b022-23",
+  "pmk-218-2011--b023-24",
+  "pmk-218-2011--b024-25",
+  "pmk-218-2011--b025-26",
+  "pmk-218-2011--b026-27",
+  "pmk-218-2011--b027-28",
+  "pmk-218-2011--b028-29",
+  "pmk-218-2011--b029-30"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "215",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 215/PMK.02/2007",
+    "quote": "Pasal 29 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 215/PMK.02/2007 tentang Tata Cara Penyediaan, Penghitungan dan Pembayaran Subsidi Liquefied Petroleum Gas (LPG) Tabung 3 Kilogram, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-215-2007"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 215/PMK.02/2007 — Tatacara Penyediaan, Penghitungan dan Pembayaran Subsidi Liquefied Petroleum Gas (Lpg) Tabung 3 Kilogram",
+    "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-02-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 116/PMK.02/2016 — Tata Cara Penyediaan Anggaran, Penghitungan, Pembayaran, dan Pertanggungjawaban Dana Subsidi Liquefied Petroleum Gas (Lpg) Tabung 3 Kilogram.",
+    "url": "https://jdih.kemenkeu.go.id/dok/116-pmk-02-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 64/PMK.02/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 218/PMK.02/2011 tentang Tata Cara Penyediaan Anggaran, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Liquefied Petroleum Gas (Lpg) Tabung 3 Kilogram.",
+    "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-02-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 3/PMK.02/2015 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 218/PMK.02/2011 tentang Tata Cara Penyediaan Anggaran, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Liquefied Petroleum Gas (Lpg) Tabung 3 Kilogram.",
+    "url": "https://jdih.kemenkeu.go.id/dok/3-pmk-02-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-15",
+   "detail_error": null,
+   "number_as_written": "218/PMK.02/2011",
+   "retrieved_at": "2026-10-06T03:52:44+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYEDIAAN ANGGARAN, PERHITUNGAN, PEMBAYARAN, DAN PERTANGGUNGJAWABAN SUBSIDI LIQUEFIED PETROLEUM GAS (LPG) TABUNG 3 KILOGRAM",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyediaan-anggaran-perhitungan-pembayaran-dan-pertanggungjawaban-subsidi"
+  },
+  {
+   "date_as_written": "2011-12-15 00:00:00",
+   "number_as_written": "218/PMK.02/2011",
+   "page_retrieved_at": "2026-10-06T02:34:01+00:00",
+   "retrieved_at": "2026-09-21T14:37:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penyediaan Anggaran, Penghitungan, Pembayaran, dan Pertanggungjawaban Subsidi Liquefied Petroleum Gas (Lpg) Tabung 3 Kilogram.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/218-pmk-02-2011",
+   "validity_as_written": "15 Des 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=208",
+   "retrieved_at": "2026-10-05T13:47:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyediaan-anggaran-perhitungan-pembayaran-dan-pertanggungjawaban-subsidi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=322",
+   "retrieved_at": "2026-09-21T14:37:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/218-pmk-02-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 23585,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:52:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyediaan-anggaran-perhitungan-pembayaran-dan-pertanggungjawaban-subsidi"
+ },
+ "title": "TATA CARA PENYEDIAAN ANGGARAN, PERHITUNGAN, PEMBAYARAN, DAN PERTANGGUNGJAWABAN SUBSIDI LIQUEFIED PETROLEUM GAS (LPG) TABUNG 3 KILOGRAM"
+}

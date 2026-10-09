@@ -1,0 +1,135 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK 157.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK%20157.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-157-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "157",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-157-2023--b000-1",
+  "pmk-157-2023--b001-2",
+  "pmk-157-2023--b002-3",
+  "pmk-157-2023--b003-4",
+  "pmk-157-2023--b004-5",
+  "pmk-157-2023--b005-6",
+  "pmk-157-2023--b006-7",
+  "pmk-157-2023--b007-8",
+  "pmk-157-2023--b008-9",
+  "pmk-157-2023--b009-10",
+  "pmk-157-2023--b010-11",
+  "pmk-157-2023--b011-12",
+  "pmk-157-2023--b012-13",
+  "pmk-157-2023--b013-14",
+  "pmk-157-2023--b014-15",
+  "pmk-157-2023--b015-16",
+  "pmk-157-2023--b016-17",
+  "pmk-157-2023--b017-18",
+  "pmk-157-2023--b018-19"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "370/KMK.03",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 370/KMK.03/2003",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 370/KMK.03/2003 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan/ a tau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-370-kmk-03-2003"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 45 TAHUN 2025 — Tata Cara Pembebasan dari Pengenaan Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis dan Penyerahan di dalam Daerah Pabean dan/atau Pemanfaatan dari Luar Daerah Pabean di dalam Daerah Pabean Jasa Kena Pajak Tertentu yang Bersifat Strategis untuk Keperluan Pertahanan dan/atau Keamanan Negara",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-45-tahun-2025"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-27",
+   "detail_error": null,
+   "number_as_written": "157 TAHUN 2023",
+   "retrieved_at": "2026-10-06T02:32:31+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBEBASAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS DAN PENYERAHAN DI DALAM DAERAH PABEAN DAN/ATAU PEMANFAATAN DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN JASA KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS UNTUK KEPERLUAN PERTAHANAN DAN/ATAU KEAMANAN NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebasan-dari-pengenaan-pajak-pertambahan-nilai-atas-impor-danatau-penyerahan"
+  },
+  {
+   "date_as_written": "2023-12-27 00:00:00",
+   "number_as_written": "PMK 157 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:48:32+00:00",
+   "retrieved_at": "2026-09-21T14:17:32+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembebasan dari Pengenaan Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis dan Penyerahan di dalam Daerah Pabean dan/atau Pemanfaatan dari Luar Daerah Pabean di dalam Daerah Pabean Jasa Kena Pajak Tertentu yang Bersifat Strategis untuk Keperluan Pertahanan dan/atau Keamanan Negara",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-157-tahun-2023",
+   "validity_as_written": "01 Jan 2024 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=40",
+   "retrieved_at": "2026-10-05T07:36:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebasan-dari-pengenaan-pajak-pertambahan-nilai-atas-impor-danatau-penyerahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:17:32+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-157-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 49189,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:32:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebasan-dari-pengenaan-pajak-pertambahan-nilai-atas-impor-danatau-penyerahan"
+ },
+ "title": "TATA CARA PEMBEBASAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS DAN PENYERAHAN DI DALAM DAERAH PABEAN DAN/ATAU PEMANFAATAN DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN JASA KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS UNTUK KEPERLUAN PERTAHANAN DAN/ATAU KEAMANAN NEGARA"
+}

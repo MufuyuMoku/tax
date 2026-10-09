@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-24-2002",
+ "identity": {
+  "code": "PP",
+  "number": "24",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-1-2012",
+    "key": [
+     "PP",
+     "1",
+     "2012",
+     null
+    ],
+    "number_as_written": "1 TAHUN 2012",
+    "quote": "Pada saat Peraturan Pemerintah ini mulai berlaku: a. Peraturan Pemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 259, Tambahan Lembaran Negara Republik Indonesia Nomor 4061) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 24 Tahun 2002 tentang Perubahan atas Peraturan Pemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 18 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 4199); … b. Peraturan Pemerintah Nomor 144 Tahun 2000 tentang Jenis Barang dan Jasa yang Tidak Dikenakan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 260, Tambahan Lembaran Negara Republik Indonesia Nomor 4062), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 42 TAHUN 2009 TENTANG PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-05-13",
+   "detail_error": null,
+   "number_as_written": "24 TAHUN 2002",
+   "retrieved_at": "2026-10-06T04:51:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 143 TAHUN 2000 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 18 TAHUN 2000",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-143-tahun-2000-tentang-pelaksanaan-undang"
+  },
+  {
+   "date_as_written": "2002-05-13 00:00:00",
+   "number_as_written": "PP 24TAHUN2002",
+   "page_retrieved_at": "2026-10-06T03:18:48+00:00",
+   "retrieved_at": "2026-09-21T14:11:20+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 143 Tahun 2000 tentang Pelaksanaan Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 18 Tahun 2000",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-24tahun2002",
+   "validity_as_written": "13 Mei 2002 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PP 1/2012 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=345",
+   "retrieved_at": "2026-10-05T14:35:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-143-tahun-2000-tentang-pelaksanaan-undang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=86",
+   "retrieved_at": "2026-09-21T14:11:20+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-24tahun2002",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 143 TAHUN 2000 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 18 TAHUN 2000"
+}

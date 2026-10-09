@@ -1,0 +1,115 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-5-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "5",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-5-2020--b000-1",
+  "pmk-5-2020--b001-2",
+  "pmk-5-2020--b002-3",
+  "pmk-5-2020--b003-4",
+  "pmk-5-2020--b004-5",
+  "pmk-5-2020--b005-6",
+  "pmk-5-2020--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "122",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 122/PMK.011/2013",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 122/PMK.011/2013 tentang Buku-Buku Pelajaran Umum, Kitab Suci, dan Buku-Buku Pelajaran Agama yang atas Impor dan/atau Penyerahannya Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2013 Nomor 1063), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-122-2013"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 122/PMK.011/2013 — Buku-Buku Pelajaran Umum, Kitab Suci, dan Buku-Buku Pelajaran Agama yang atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-011-2013"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-01-10",
+   "detail_error": null,
+   "number_as_written": "5/PMK.010/2020",
+   "retrieved_at": "2026-10-06T03:16:11+00:00",
+   "source": "DJP",
+   "title_as_written": "BUKU PELAJARAN UMUM, KITAB SUCI, DAN BUKU PELAJARAN  AGAMA YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/buku-pelajaran-umum-kitab-suci-dan-buku-pelajaran-agama-yang-atas-impor-danatau"
+  },
+  {
+   "date_as_written": "2020-01-10 00:00:00",
+   "number_as_written": "5/PMK.010/2020",
+   "page_retrieved_at": "2026-10-06T01:44:38+00:00",
+   "retrieved_at": "2026-09-21T14:23:21+00:00",
+   "source": "JDIH",
+   "title_as_written": "Buku Pelajaran Umum, Kitab Suci, dan Buku Pelajaran Agama yang atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-010-2020",
+   "validity_as_written": "10 Jan 2020 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=109",
+   "retrieved_at": "2026-10-05T13:11:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/buku-pelajaran-umum-kitab-suci-dan-buku-pelajaran-agama-yang-atas-impor-danatau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=120",
+   "retrieved_at": "2026-09-21T14:23:21+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6519,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:16:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/buku-pelajaran-umum-kitab-suci-dan-buku-pelajaran-agama-yang-atas-impor-danatau"
+ },
+ "title": "BUKU PELAJARAN UMUM, KITAB SUCI, DAN BUKU PELAJARAN  AGAMA YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

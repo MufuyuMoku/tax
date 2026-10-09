@@ -1,0 +1,155 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-70-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "70",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-70-2010--b000-1",
+  "pmk-70-2010--b001-2",
+  "pmk-70-2010--b002-3",
+  "pmk-70-2010--b003-4",
+  "pmk-70-2010--b004-5",
+  "pmk-70-2010--b005-6",
+  "pmk-70-2010--b006-7",
+  "pmk-70-2010--b007-8",
+  "pmk-70-2010--b008-9",
+  "pmk-70-2010--b009-10",
+  "pmk-70-2010--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-30-2011",
+    "key": [
+     "PMK",
+     "30",
+     "2011",
+     null
+    ],
+    "number_as_written": "30/PMK.03/2011",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 70/PMK.03/2010 tentang Batasan Kegiatan dan Jenis Jasa Kena Pajak yang atas Ekspornya Dikenai Pajak Pertambahan Nilai diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 70/PMK.03/2010 TENTANG BATASAN KEGIATAN DAN JENIS JASA KENA PAJAK YANG ATAS EKSPORNYA DIKENAI PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-32-2019",
+    "key": [
+     "PMK",
+     "32",
+     "2019",
+     null
+    ],
+    "number_as_written": "32/PMK.010/2019",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 70/PMK.03/2010 tentang Batasan Kegiatan dan Jenis Jasa Kena Pajak yang Atas Ekspornya Dikenai Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 30/PMK.03/2011 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2010 tentang Batasan Kegiatan dan Jenis Jasa Kena Pajak yang Atas Ekspornya Dikenai Pajak Pertambahan Nilai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BATASAN KEGIATAN DAN JENIS JASA KENA PAJAK YANG ATAS EKSPORNYA DIKENAI PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "302/KMK.04",
+     "1989",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 302/KMK.04/1989",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 302/KMK.04/1989 tentang Pengenaan Pajak Pertambahan Nilai atas Jasa Kena Pajak Selain Jasa yang Dilakukan oleh Pemborong, Jasa Angkutan Udara Dalam Negeri dan Jasa Telekomunikasi dicabut dan dinyatakan tidak berlaku, terhitung sejak tanggal 1 Januari 1995.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-302-kmk-04-1989"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 32/PMK.010/2019 — Batasan Kegiatan dan Jenis Jasa Kena Pajak yang atas Ekspornya Dikenai Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/32-pmk-010-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 30/PMK.03/2011 — Perubahan atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2010 tentang Batasan Kegiatan dan Jenis Jasa Kena Pajak yang atas Ekspornya Dikenai Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2011"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-31",
+   "detail_error": null,
+   "number_as_written": "70/PMK.03/2010",
+   "retrieved_at": "2026-10-06T04:04:38+00:00",
+   "source": "DJP",
+   "title_as_written": "BATASAN KEGIATAN DAN JENIS JASA KENA PAJAK YANG ATAS EKSPORNYA DIKENAI PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-kegiatan-dan-jenis-jasa-kena-pajak-yang-atas-ekspornya-dikenai-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "2010-03-31 00:00:00",
+   "number_as_written": "70/PMK.03/2010",
+   "page_retrieved_at": "2026-10-06T02:58:39+00:00",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Batasan Kegiatan dan Jenis Jasa Kena Pajak yang atas Ekspornya Dikenai Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2010",
+   "validity_as_written": "31 Mar 2010 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=218",
+   "retrieved_at": "2026-10-05T13:51:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-kegiatan-dan-jenis-jasa-kena-pajak-yang-atas-ekspornya-dikenai-pajak-pertambahan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=363",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9216,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:04:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/batasan-kegiatan-dan-jenis-jasa-kena-pajak-yang-atas-ekspornya-dikenai-pajak-pertambahan"
+ },
+ "title": "BATASAN KEGIATAN DAN JENIS JASA KENA PAJAK YANG ATAS EKSPORNYA DIKENAI PAJAK PERTAMBAHAN NILAI"
+}

@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-2-1990",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "2",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-146-2000",
+    "key": [
+     "PP",
+     "146",
+     "2000",
+     null
+    ],
+    "number_as_written": "146 TAHUN 2000",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku : … 2. Keputusan Presiden Nomor 2 Tahun 1990 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan Penyerahan Buku-buku Pelajaran Umum, Kitab Suci, dan Buku-buku Pelajaran Agama; dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-01-04",
+   "detail_error": null,
+   "number_as_written": "2 TAHUN 1990",
+   "retrieved_at": "2026-10-06T06:11:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN PENYERAHAN BUKU-BUKU PELAJARAN UMUM, KITAB SUCI DAN BUKU-BUKU PELAJARAN AGAMA",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-dan-penyerahan-buku-buku"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=473",
+   "retrieved_at": "2026-10-06T02:17:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-dan-penyerahan-buku-buku",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN PENYERAHAN BUKU-BUKU PELAJARAN UMUM, KITAB SUCI DAN BUKU-BUKU PELAJARAN AGAMA"
+}

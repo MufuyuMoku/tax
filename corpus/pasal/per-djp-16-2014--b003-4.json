@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 752,
+ "document_id": "per-djp-16-2014",
+ "document_number": "PER-16/PJ/2014",
+ "document_title": "TATA CARA PEMBUATAN DAN PELAPORAN FAKTUR PAJAK BERBENTUK ELEKTRONIK",
+ "id": "per-djp-16-2014--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\n(1)\ne\n-Faktur harus mencantumkan keterangan tentang penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak yang paling sedikit memuat:\na.\nnama, alamat, dan Nomor Pokok Wajib Pajak yang menyerahkan Barang Kena Pajak atau Jasa Kena Pajak;\nb.\nnama, alamat, dan Nomor Pokok Wajib Pajak pembeli Barang Kena Pajak atau penerima Jasa Kena Pajak;\nc.\njenis barang atau jasa, jumlah Harga Jual atau Penggantian, dan potongan harga;\nd.\nPajak Pertambahan Nilai yang dipungut;\ne.\nPajak Penjualan atas Barang Mewah yang dipungut;\nf.\nkode, nomor seri, dan tanggal pembuatan Faktur Pajak; dan\ng.\nnama dan tanda tangan yang berhak menandatangani Faktur Pajak.\n(2)\nTanda tangan sebagaimana dimaksud pada ayat (1) huruf g berupa tanda tangan elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T03:36:53+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-pelaporan-faktur-pajak-berbentuk-elektronik"
+ }
+}

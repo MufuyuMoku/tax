@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-40-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "40",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-40-2015--b000-1",
+  "per-djp-40-2015--b001-2",
+  "per-djp-40-2015--b002-3",
+  "per-djp-40-2015--b003-4",
+  "per-djp-40-2015--b004-5",
+  "per-djp-40-2015--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "13",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2012",
+    "quote": "Pasal 5 Dengan berlakunya peraturan ini: 1. Ketentuan-:ketentuan yang mengatur tentang Jenis BBM Tertentu Minyak Solar dalam Peraturah Direktur Jenderal Pajak Nomor PER-40/PJ/2011 sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2012 tentang Tata Cara Penerbitan Faktur Pajak dan Surat Setoran Pajak atas Penyerahan Jenis Bahan Bakar Minyak Tertentu Minyak Solar dicabut dan dinyatakari tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-13-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-13",
+   "detail_error": null,
+   "number_as_written": "PER-40/PJ/2015",
+   "retrieved_at": "2026-10-06T03:26:35+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMUNGUTAN DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PEMBAYARAN SUBSIDI JENIS BAHAN BAKAR MINYAK TERTENTU MINYAK SOLAR",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-pembayaran-subsidi-jenis"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=161",
+   "retrieved_at": "2026-10-05T13:31:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-pembayaran-subsidi-jenis",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6997,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:26:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-pembayaran-subsidi-jenis"
+ },
+ "title": "TATA CARA PEMUNGUTAN DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PEMBAYARAN SUBSIDI JENIS BAHAN BAKAR MINYAK TERTENTU MINYAK SOLAR"
+}

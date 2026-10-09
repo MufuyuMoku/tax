@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-22-2018",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "22",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-22-2018--b000-i",
+  "per-djp-22-2018--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-09-19",
+   "detail_error": null,
+   "number_as_written": "PER-22/PJ/2018",
+   "retrieved_at": "2026-10-06T03:19:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-35/PJ/2015 TENTANG TATA CARA PEMUNGUTAN DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS SELISIH KURANG HARGA BAHAN BAKAR NABATI JENIS BIODIESEL OLEH BADAN PENGELOLA DANA PERKEBUNAN KELAPA SAWIT",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-35pj2015-tentang-tata-cara-pemungutan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=127",
+   "retrieved_at": "2026-10-05T13:17:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-35pj2015-tentang-tata-cara-pemungutan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 6701,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:19:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-35pj2015-tentang-tata-cara-pemungutan"
+ },
+ "title": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-35/PJ/2015 TENTANG TATA CARA PEMUNGUTAN DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS SELISIH KURANG HARGA BAHAN BAKAR NABATI JENIS BIODIESEL OLEH BADAN PENGELOLA DANA PERKEBUNAN KELAPA SAWIT"
+}

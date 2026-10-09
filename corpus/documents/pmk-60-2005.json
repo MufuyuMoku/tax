@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -55,7 +59,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 47/PMK.04/2009 — Tata Cara Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/47-pmk-04-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -67,10 +78,21 @@
    "title_as_written": "TEMPAT PENIMBUNAN BERIKAT DI PULAU BATAM, BINTAN DAN KARIMUN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat-di-pulau-batam-bintan-dan-karimun"
+  },
+  {
+   "date_as_written": "2005-07-21 00:00:00",
+   "number_as_written": "60/PMK.04/2005",
+   "page_retrieved_at": "2026-10-06T03:10:17+00:00",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tempat Penimbunan Berikat di Pulau Batam, Bintan dan Karimun",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-04-2005",
+   "validity_as_written": "21 Jul 2005 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -82,6 +104,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat-di-pulau-batam-bintan-dan-karimun",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=462",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-04-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

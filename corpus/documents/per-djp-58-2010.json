@@ -1,0 +1,92 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-58-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "58",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-58-2010--b000-1",
+  "per-djp-58-2010--b001-2",
+  "per-djp-58-2010--b002-3",
+  "per-djp-58-2010--b003-4",
+  "per-djp-58-2010--b004-5",
+  "per-djp-58-2010--b005-6",
+  "per-djp-58-2010--b006-7",
+  "per-djp-58-2010--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2022",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2022",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-58/PJ/2010 tentang Bentuk dan Ukuran Formulir serta Tata Cara Pengisian Keterangan pada Faktur Pajak bagi Pengusaha Kena Pajak Pedagang Eceran; … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "FAKTUR PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-13",
+   "detail_error": null,
+   "number_as_written": "PER-58/PJ/2010",
+   "retrieved_at": "2026-10-06T04:00:00+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN UKURAN  FORMULIR SERTA TATA CARA PENGISIAN KETERANGAN PADA FAKTUR PAJAK BAGI PENGUSAHA KENA PAJAK PEDAGANG ECERAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-ukuran-formulir-serta-tata-cara-pengisian-keterangan-pada-faktur-pajak-bagi"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 3/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=214",
+   "retrieved_at": "2026-10-05T13:50:04+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-ukuran-formulir-serta-tata-cara-pengisian-keterangan-pada-faktur-pajak-bagi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6516,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:00:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-ukuran-formulir-serta-tata-cara-pengisian-keterangan-pada-faktur-pajak-bagi"
+ },
+ "title": "BENTUK DAN UKURAN  FORMULIR SERTA TATA CARA PENGISIAN KETERANGAN PADA FAKTUR PAJAK BAGI PENGUSAHA KENA PAJAK PEDAGANG ECERAN"
+}

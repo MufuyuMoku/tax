@@ -9,7 +9,8 @@ import { kindLabel, UNVERIFIED } from "../collection/records.js";
 
 const PAGE = 30;
 
-export function startSearch({ base }) {
+// `listing` is the regulation list, a page at a time (K-074); its filter sees every card, shown or not.
+export function startSearch({ base, listing }) {
   const form = document.getElementById("cari");
   const input = document.getElementById("q");
   const selects = {
@@ -23,7 +24,6 @@ export function startSearch({ base }) {
   };
   const state = document.getElementById("keadaan");
   const all = document.getElementById("semua");
-  const cards = Array.from(document.querySelectorAll("#daftar > li"));
   const results = document.getElementById("hasil");
   const summaryLine = document.getElementById("hasil-ringkas");
   const resultList = document.getElementById("hasil-daftar");
@@ -119,19 +119,17 @@ export function startSearch({ base }) {
   /** Empty query: show the full list, hiding cards the filters exclude. No worker needed. */
   function filterList() {
     const f = filters();
-    let visible = 0;
-    for (const card of cards) {
+    const visible = listing.filter((card) => {
       const year = Number(card.dataset.tahun);
-      const show =
+      return (
         f.source !== "pribadi" &&
         (!f.codes || f.codes.includes(card.dataset.code)) &&
         (!f.category || card.dataset.kategori.split(" ").includes(f.category)) &&
         (!f.statuses || f.statuses.includes(card.dataset.statusValue)) &&
         (!f.from || year >= f.from) &&
-        (!f.to || year <= f.to);
-      card.hidden = !show;
-      if (show) visible++;
-    }
+        (!f.to || year <= f.to)
+      );
+    });
     results.hidden = true;
     all.hidden = false;
     const filtered = Object.values(f).some(Boolean);

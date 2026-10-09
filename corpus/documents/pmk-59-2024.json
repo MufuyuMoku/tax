@@ -1,0 +1,212 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PMK59_2024.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PMK59_2024.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-59-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "59",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-59-2024--b000-1",
+  "pmk-59-2024--b001-2",
+  "pmk-59-2024--b002-3",
+  "pmk-59-2024--b003-4",
+  "pmk-59-2024--b004-5",
+  "pmk-59-2024--b005-6",
+  "pmk-59-2024--b006-7",
+  "pmk-59-2024--b007-8",
+  "pmk-59-2024--b008-9",
+  "pmk-59-2024--b009-10",
+  "pmk-59-2024--b010-11",
+  "pmk-59-2024--b011-12",
+  "pmk-59-2024--b012-13",
+  "pmk-59-2024--b013-14",
+  "pmk-59-2024--b014-15",
+  "pmk-59-2024--b015-16",
+  "pmk-59-2024--b016-17",
+  "pmk-59-2024--b017-18",
+  "pmk-59-2024--b018-19",
+  "pmk-59-2024--b019-20",
+  "pmk-59-2024--b020-21",
+  "pmk-59-2024--b021-22",
+  "pmk-59-2024--b022-23",
+  "pmk-59-2024--b023-24",
+  "pmk-59-2024--b024-25",
+  "pmk-59-2024--b025-26",
+  "pmk-59-2024--b026-27",
+  "pmk-59-2024--b027-28",
+  "pmk-59-2024--b028-29",
+  "pmk-59-2024--b029-30",
+  "pmk-59-2024--b030-31",
+  "pmk-59-2024--b031-32",
+  "pmk-59-2024--b032-33"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "160",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 160/PMK.03/2014",
+    "quote": "Pasal 32 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 160/PMK.03/2014 tentang Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang Seharusnya Tidak Diberikan Pembebasan oleh Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1139); … c. Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1141) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 33/PMK.03/2018 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2018 Nomor 440), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-160-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "161",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 161/PMK.03/2014",
+    "quote": "Pasal 32 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 161/PMK.03/2014 tentang Tata Cara Pengembalian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang Telah Dipungut Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1140); … c. Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1141) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 33/PMK.03/2018 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2018 Nomor 440), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-161-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "162",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 162/PMK.03/2014",
+    "quote": "Pasal 32 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1141) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 33/PMK.03/2018 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2018 Nomor 440), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-162-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "33",
+     "2018",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 33/PMK.03/2018",
+    "quote": "Pasal 32 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1141) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 33/PMK.03/2018 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2018 Nomor 440), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-33-2018"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 160/PMK.03/2014 — Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang Seharusnya Tidak Diberikan Pembebasan oleh Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 161/PMK.03/2014 — Tata Cara Pengembalian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang Telah Dipungut Kepada Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/161-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 162/PMK.03/2014 — Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/162-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 33/PMK.03/2018 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/33-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 248/PMK.010/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai\r\nDan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Lnternasional Serta Pejabatnya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/248-pmk-010-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-08-23",
+   "detail_error": null,
+   "number_as_written": "59 TAHUN 2024",
+   "retrieved_at": "2026-10-06T02:31:00+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH KEPADA PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pembebasan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan"
+  },
+  {
+   "date_as_written": "2024-08-23 00:00:00",
+   "number_as_written": "PMK 59 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T14:46:51+00:00",
+   "retrieved_at": "2026-09-21T14:17:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Pembebasan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-59-tahun-2024",
+   "validity_as_written": "01 Okt 2024 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=31",
+   "retrieved_at": "2026-10-05T07:33:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pembebasan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=27",
+   "retrieved_at": "2026-09-21T14:17:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-59-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 65081,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:31:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pembebasan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan"
+ },
+ "title": "TATA CARA PEMBERIAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH KEPADA PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA"
+}

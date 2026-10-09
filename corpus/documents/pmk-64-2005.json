@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-64-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "64",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-64-2005--b000-1",
+  "pmk-64-2005--b001-2",
+  "pmk-64-2005--b002-3",
+  "pmk-64-2005--b003-4",
+  "pmk-64-2005--b004-5",
+  "pmk-64-2005--b005-6",
+  "pmk-64-2005--b006-7",
+  "pmk-64-2005--b007-8",
+  "pmk-64-2005--b008-9",
+  "pmk-64-2005--b009-10",
+  "pmk-64-2005--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-218-2014",
+    "key": [
+     "PMK",
+     "218",
+     "2014",
+     null
+    ],
+    "number_as_written": "218/PMK.02/2014",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 64/PMK.02/2005 tentang Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Yang Digunakan Oleh Badan Usaha atau Bentuk Usaha Tetap dalam Pengusahaan Minyak dan Gas Bumi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBAYARAN KEMBALI (REIMBURSEMENT) PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEROLEHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK KEPADA KONTRAKTOR DALAM KEGIATAN USAHA HULU MINYAK DAN GAS BUMI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "518/KMK.06",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 518/KMK.06/2003",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 518/KMK.06/2003 tentang Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan atau Jasa Kena Pajak Yang Digunakan Oleh Badan Usaha atau Bentuk Usaha Tetap dalam Pengusahaan Minyak dan Gas Bumi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-518-kmk-06-2003"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 218/PMK.02/2014 — Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/218-pmk-02-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-07-27",
+   "detail_error": null,
+   "number_as_written": "64/PMK.02/2005",
+   "retrieved_at": "2026-10-06T04:24:13+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEROLEHAN BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK YANG DIGUNAKAN OLEH BADAN USAHA ATAU BENTUK USAHA TETAP DALAM PENGUSAHAAN MINYAK DAN GAS BUMI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-0"
+  },
+  {
+   "date_as_written": "2005-07-27 00:00:00",
+   "number_as_written": "64/PMK.02/2005",
+   "page_retrieved_at": "2026-10-06T03:09:57+00:00",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan atau Jasa Kena Pajak yang Digunakan oleh Badan Usaha atau Bentuk Usaha Tetap dalam Pengusahaan Minyak dan Gas Bumi",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-02-2005",
+   "validity_as_written": "27 Jul 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=291",
+   "retrieved_at": "2026-10-05T14:16:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=462",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-02-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16279,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:24:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-0"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEROLEHAN BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK YANG DIGUNAKAN OLEH BADAN USAHA ATAU BENTUK USAHA TETAP DALAM PENGUSAHAAN MINYAK DAN GAS BUMI"
+}

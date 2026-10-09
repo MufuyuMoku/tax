@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-488-kmk-05-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "488/KMK.05",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 87/KMK.01/1995 — Penyempurnaan Keputusan Menteri Keuangan Nomor 1012/KMK.00/1991 tentang Pemberitahuan Ekspor Barang",
+    "url": "https://jdih.kemenkeu.go.id/dok/87-kmk-01-1995"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 738/KMK.00/1991 — Tatalaksana Pabean di Bidang Ekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/738-kmk-00-1991"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 381/KMK.01/1996 — Penyempurnaan Keputusan Menteri Keuangan Nomor 1012/KMK.00/ 1994 tentang Pemberitahuan Ekspor Barang Sebagaimana Telah Diubah dengan Keputusan Menteri Keuangan Nomor 87/KMK.01/ 1995",
+    "url": "https://jdih.kemenkeu.go.id/dok/381-kmk-01-1996"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-07-31",
+   "detail_error": null,
+   "number_as_written": "488/KMK.05/1996",
+   "retrieved_at": "2026-10-06T05:44:22+00:00",
+   "source": "DJP",
+   "title_as_written": "TATALAKSANA KEPABEANAN DI BIDANG EKSPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-kepabeanan-di-bidang-ekspor-0"
+  },
+  {
+   "date_as_written": "1996-07-31 00:00:00",
+   "number_as_written": "488/KMK.05/1996",
+   "page_retrieved_at": "2026-10-06T03:45:13+00:00",
+   "retrieved_at": "2026-09-21T14:52:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatalaksana Kepabeanan di Bidang Ekspor",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/488-kmk-05-1996",
+   "validity_as_written": "31 Jul 1996 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=443",
+   "retrieved_at": "2026-10-06T01:42:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-kepabeanan-di-bidang-ekspor-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=88",
+   "retrieved_at": "2026-09-21T14:52:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/488-kmk-05-1996",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATALAKSANA KEPABEANAN DI BIDANG EKSPOR"
+}

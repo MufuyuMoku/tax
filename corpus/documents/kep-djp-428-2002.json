@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-428-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "428",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-8-2010",
+    "key": [
+     "PER-DJP",
+     "8",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-8/PJ/2010",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-428/PJ./2002 tentang Saat Terutangnya Pajak Penjualan atas Barang Mewah atas Penyerahan Barang Kena Pajak yang Tergolong Mewah Dari Pusat Ke Cabang atau Sebaliknya dan Penyerahan Barang Kena Pajak yang Tergolong Mewah Antar Cabang, dicabut dan dinyatakan tidak berlaku",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SAAT TERUTANGNYA PAJAK PENJUALAN BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH DARI PUSAT KE CABANG ATAU SEBALIKNYA DAN PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH ANTAR CABANG"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-09-18",
+   "detail_error": null,
+   "number_as_written": "KEP-428/PJ./2002",
+   "retrieved_at": "2026-10-06T04:43:24+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT TERUTANGNYA PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH DARI PUSAT KE CABANG ATAU SEBALIKNYA DAN PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH ANTAR CABANG",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/saat-terutangnya-pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena-pajak-yang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=336",
+   "retrieved_at": "2026-10-05T14:32:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/saat-terutangnya-pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena-pajak-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "SAAT TERUTANGNYA PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH DARI PUSAT KE CABANG ATAU SEBALIKNYA DAN PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH ANTAR CABANG"
+}

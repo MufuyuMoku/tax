@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-363-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "363",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-07-31",
+   "detail_error": null,
+   "number_as_written": "KEP - 363/PJ./2002",
+   "retrieved_at": "2026-10-06T04:46:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-294/PJ/2001 TENTANG TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YAN BERSIFAT STRATEGIS",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-294pj2001-tentang-tatacara"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=339",
+   "retrieved_at": "2026-10-05T14:33:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-294pj2001-tentang-tatacara",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-294/PJ/2001 TENTANG TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YAN BERSIFAT STRATEGIS"
+}

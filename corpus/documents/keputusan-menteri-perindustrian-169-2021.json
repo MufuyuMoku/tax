@@ -1,0 +1,84 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran Kepmenperin No 169 Tahun 2021.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Kepmenperin%20No%20169%20Tahun%202021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keputusan-menteri-perindustrian-169-2021",
+ "identity": {
+  "code": "KEPUTUSAN MENTERI PERINDUSTRIAN",
+  "number": "169",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "keputusan-menteri-perindustrian-169-2021--b000-kedua",
+  "keputusan-menteri-perindustrian-169-2021--b001-ketiga",
+  "keputusan-menteri-perindustrian-169-2021--b002-keempat",
+  "keputusan-menteri-perindustrian-169-2021--b003-kelima",
+  "keputusan-menteri-perindustrian-169-2021--b004-keenam",
+  "keputusan-menteri-perindustrian-169-2021--b005-ketujuh",
+  "keputusan-menteri-perindustrian-169-2021--b006-kedelapan",
+  "keputusan-menteri-perindustrian-169-2021--b007-kesembilan"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-26",
+   "detail_error": null,
+   "number_as_written": "169 TAHUN 2021",
+   "retrieved_at": "2026-10-06T03:08:15+00:00",
+   "source": "DJP",
+   "title_as_written": "KENDARAAN BERMOTOR DENGAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH DITANGGUNG OLEH PEMERINTAH PADA TAHUN ANGGARAN 2021",
+   "type_as_written": "Keputusan Menteri Perindustrian",
+   "url": "https://www.pajak.go.id/id/peraturan/kendaraan-bermotor-dengan-pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=86",
+   "retrieved_at": "2026-10-05T13:03:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kendaraan-bermotor-dengan-pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 6456,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:08:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kendaraan-bermotor-dengan-pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena"
+ },
+ "title": "KENDARAAN BERMOTOR DENGAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH DITANGGUNG OLEH PEMERINTAH PADA TAHUN ANGGARAN 2021"
+}

@@ -1,0 +1,250 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-231-kmk-03-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "231/KMK.03",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-231-kmk-03-2001--b000-1",
+  "kmk-231-kmk-03-2001--b001-2",
+  "kmk-231-kmk-03-2001--b002-3",
+  "kmk-231-kmk-03-2001--b003-4",
+  "kmk-231-kmk-03-2001--b004-5",
+  "kmk-231-kmk-03-2001--b005-6",
+  "kmk-231-kmk-03-2001--b006-7",
+  "kmk-231-kmk-03-2001--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-142-2015",
+    "key": [
+     "PMK",
+     "142",
+     "2015",
+     null
+    ],
+    "number_as_written": "142/PMK.010/2015",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 616/PMK.03/2004; 2. Nomor 27/PMK.011/2012; 3. Nomor 70/PMK.011/2013; diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 231/KMK.03/2001 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+   },
+   {
+    "id": "pmk-196-2016",
+    "key": [
+     "PMK",
+     "196",
+     "2016",
+     null
+    ],
+    "number_as_written": "196/PMK.010/2016",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 616/PMK.03/2004; 2. Nomor 27/PMK.011/2012 tentang Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertamb … arang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk (Berita Negara Republik Indonesia Tahun 2013 Nomor 531); 4. Nomor 142/PMK.010/2015 tentang Perubahan Keempat atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk (Berita Negara Republik Indonesia Tahun 2015 Nomor 1087), diubah sebagai berikut:",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 231/KMK.03/2001 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+   },
+   {
+    "id": "pmk-198-2019",
+    "key": [
+     "PMK",
+     "198",
+     "2019",
+     null
+    ],
+    "number_as_written": "198/PMK.010/2019",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomar 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 616/PMK.03/2004 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan a … arang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk (Berita Negara Republik Indonesia Tahun 2016 Nomor 1944), 6. Nomor 137/PMK.010/2018 tentang Perubahan Keenam atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk (Berita Negara Republik Indonesia Tahun 2018 Nomor 1393), diubah sebagai berikut:",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETUJUH ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 231/KMK.03/2001 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+   },
+   {
+    "id": "pmk-27-2012",
+    "key": [
+     "PMK",
+     "27",
+     "2012",
+     null
+    ],
+    "number_as_written": "27/PMK.011/2012",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 616/PMK.03/2004, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 231/KMK.03/2001 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+   },
+   {
+    "id": "pmk-616-2004",
+    "key": [
+     "PMK",
+     "616",
+     "2004",
+     null
+    ],
+    "number_as_written": "616/PMK.03/2004",
+    "quote": "Mengubah Pasal 2 ayat (3) dengan menamball 1(satu) butir yaitu butir 1, Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai Dan Pajak Penjualan Atas Barang Mewah Atas Impor Barang Kena Pajak Yang Dibebaskan Dari Pungutan Bea Masuk, sehingga keseluruhan Pasal 2 menjadi berbunyi sebagai berikut : \"Pasal 2 (1) Atas impor Barang Kena Pajak yang dibebaskan dari pungutan Bea Masuk tetap dipungut Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah berdasarkan ketentuan perundang-undangan perpajakan yang berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 231/KMK.03/2001 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+   },
+   {
+    "id": "pmk-70-2013",
+    "key": [
+     "PMK",
+     "70",
+     "2013",
+     null
+    ],
+    "number_as_written": "70/PMK.011/2013",
+    "quote": "Ketentuan Pasal 2 ayat (3) Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan dari Pungutan Bea Masuk yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 616/PMK.03/2004; 2. Nomor 27/PMK.011/2012, diubah, sehingga Pasal 2 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERATURAN MENTERI KEUANGAN TENTANG PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 231/KMK.03/2001 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "132/KMK.04",
+     "1999",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor: 132/KMK.04/1999",
+    "quote": "Pasal 7 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor: 132/KMK.04/1999 tentang Perlakuan Pajak Pertambahan Nilai Pajak Penjualan Atas Barang Mewah atas impor Barang Kena Pajak yang dibebaskan dari pungutan Bea Masuk, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-132-kmk-04-1999"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 132/KMK.04/1999 — Perlakuan Ppn dan Ppn Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk",
+    "url": "https://jdih.kemenkeu.go.id/dok/132-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 137/PMK.010/2018 — Perubahan Keenam atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk",
+    "url": "https://jdih.kemenkeu.go.id/dok/137-pmk-010-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 70/PMK.011/2013 — Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 199/PMK.010/2019 — Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor Barang Kiriman.",
+    "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-010-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 27/PMK.011/2012 — Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/27-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 198/PMK.010/2019 — Perubahan Ketujuh atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakukan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk",
+    "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-010-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 196/PMK.010/2016 — Perubahan Kelima atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Lmpor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/196-pmk-010-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 142/PMK.010/2015 — Perubahan Keempat atas Keputusan Menteri Keuangan Nomor 231/KMK.03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor\r\nBarang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk .",
+    "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 616/PMK.03/2004 — Perubahan atas Keputusan Menteri Keuangan Nomor 231/Kmk03/2001 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/616-pmk-03-2004"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-04-30",
+   "detail_error": null,
+   "number_as_written": "231/KMK.03/2001",
+   "retrieved_at": "2026-10-06T05:10:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-impor-barang"
+  },
+  {
+   "date_as_written": "2001-04-30 00:00:00",
+   "number_as_written": "231/KMK.03/2001",
+   "page_retrieved_at": "2026-10-06T03:20:30+00:00",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Kena Pajak yang Dibebaskan Dari Pungutan Ekspor",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/231-kmk-03-2001",
+   "validity_as_written": "30 Apr 2001 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=370",
+   "retrieved_at": "2026-10-05T14:44:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-impor-barang",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/231-kmk-03-2001",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7364,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:10:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-impor-barang"
+ },
+ "title": "PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG KENA PAJAK YANG DIBEBASKAN DARI PUNGUTAN BEA MASUK"
+}

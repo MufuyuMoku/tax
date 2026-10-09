@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-414-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "414/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 10/KMK.04/2001 — Pemberian dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan Jasa Kena Pajak Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/10-kmk-04-2001"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-10-02",
+   "detail_error": null,
+   "number_as_written": "414/KMK.04/2000",
+   "retrieved_at": "2026-10-06T05:23:23+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN UANG KERTAS, UANG LOGAM SERTA BAHAN BAKU UNTUK PEMBUATAN UANG KERTAS DAN UANG LOGAM, SEBAGAI BARANG KENA PAJAK YANG BERSIFAT STRATEGIS UNTUK KEPERLUAN PEMBANGUNAN NASIONAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-uang-kertas-uang-logam-serta-bahan-baku-untuk-pembuatan-uang-kertas-dan-uang"
+  },
+  {
+   "date_as_written": "2000-10-02 00:00:00",
+   "number_as_written": "414/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T03:28:41+00:00",
+   "retrieved_at": "2026-09-21T14:50:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Uang Kertas, Uang Logam Serta Bahan Baku untuk Pembuatan Uang Kertas dan Uang Logam, Barang Kena Pajak yang Bersifat Strategis untuk Keperluan Pembangunan Nasional",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/414-kmk-04-2000",
+   "validity_as_written": "02 Okt 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=385",
+   "retrieved_at": "2026-10-05T14:49:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-uang-kertas-uang-logam-serta-bahan-baku-untuk-pembuatan-uang-kertas-dan-uang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=46",
+   "retrieved_at": "2026-09-21T14:50:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/414-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN UANG KERTAS, UANG LOGAM SERTA BAHAN BAKU UNTUK PEMBUATAN UANG KERTAS DAN UANG LOGAM, SEBAGAI BARANG KENA PAJAK YANG BERSIFAT STRATEGIS UNTUK KEPERLUAN PEMBANGUNAN NASIONAL"
+}

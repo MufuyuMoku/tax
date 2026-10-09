@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-166-2018",
+ "identity": {
+  "code": "PMK",
+  "number": "166",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-166-2018--b000-1",
+  "pmk-166-2018--b001-2",
+  "pmk-166-2018--b002-3",
+  "pmk-166-2018--b003-4",
+  "pmk-166-2018--b004-5",
+  "pmk-166-2018--b005-6",
+  "pmk-166-2018--b006-7",
+  "pmk-166-2018--b007-8",
+  "pmk-166-2018--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 26. Peraturan Menteri Keuangan Nomor 166/PMK.03/2018 tentang Penunjukan Pemegang Izin Usaha Pertambangan Khusus Operasi Produksi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2018 Nomor 1682); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-12-19",
+   "detail_error": null,
+   "number_as_written": "166/PMK.03/2018",
+   "retrieved_at": "2026-10-06T03:18:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN PEMEGANG IZIN USAHA PERTAMBANGAN KHUSUS OPERASI PRODUKSI UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, SERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemegang-izin-usaha-pertambangan-khusus-operasi-produksi-untuk-memungut"
+  },
+  {
+   "date_as_written": "2018-12-19 00:00:00",
+   "number_as_written": "166/PMK.03/2018",
+   "page_retrieved_at": "2026-10-06T01:47:24+00:00",
+   "retrieved_at": "2026-09-21T14:25:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penunjukan Pemegang Izin Udaha Pertambangan Khusus Operasi Produksi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran dan Pelaporannya",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/166-pmk-03-2018",
+   "validity_as_written": "19 Des 2018 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=124",
+   "retrieved_at": "2026-10-05T13:16:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemegang-izin-usaha-pertambangan-khusus-operasi-produksi-untuk-memungut",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=148",
+   "retrieved_at": "2026-09-21T14:25:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/166-pmk-03-2018",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8617,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:18:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemegang-izin-usaha-pertambangan-khusus-operasi-produksi-untuk-memungut"
+ },
+ "title": "PENUNJUKAN PEMEGANG IZIN USAHA PERTAMBANGAN KHUSUS OPERASI PRODUKSI UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, SERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA"
+}

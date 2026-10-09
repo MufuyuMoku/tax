@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -40,7 +44,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 131/PMK.04/2018 — Kawasan Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/131-pmk-04-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 168/PMK.04/2022 — Jaminan dalam rangka Kegiatan Kepabeanan dan Cukai",
+    "url": "https://jdih.kemenkeu.go.id/dok/168-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -52,10 +69,21 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 131/PMK.04/2018 TENTANG KAWASAN BERIKAT",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-131pmk042018-tentang-kawasan-berikat"
+  },
+  {
+   "date_as_written": "2021-06-08 00:00:00",
+   "number_as_written": "65/PMK.04/2021",
+   "page_retrieved_at": "2026-10-06T01:34:41+00:00",
+   "retrieved_at": "2026-09-21T14:21:21+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 131/PMK.04/2018 tentang Kawasan Berikat",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-04-2021",
+   "validity_as_written": "09 Agu 2021 - 22 Nov 2022"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -67,6 +95,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-131pmk042018-tentang-kawasan-berikat",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=90",
+   "retrieved_at": "2026-09-21T14:21:21+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-04-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "perubahan",

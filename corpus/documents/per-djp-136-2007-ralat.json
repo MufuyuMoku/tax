@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-136-2007-ralat",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "136",
+  "variant": "ralat",
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-09-28",
+   "detail_error": null,
+   "number_as_written": "PER - 136/PJ./2007",
+   "retrieved_at": "2026-10-06T04:15:30+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER - 136/PJ./2007 TENTANG TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBAYAR OLEH PEMERINTAH ATAS PENYERAHAN MINYAK GORENG CURAH DI DALAM NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-136pj2007-tentang-tata-cara-penatausahaan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=245",
+   "retrieved_at": "2026-10-05T14:00:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-136pj2007-tentang-tata-cara-penatausahaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER - 136/PJ./2007 TENTANG TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBAYAR OLEH PEMERINTAH ATAS PENYERAHAN MINYAK GORENG CURAH DI DALAM NEGERI"
+}

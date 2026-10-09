@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -75,10 +79,21 @@
    "title_as_written": "TATALAKSANA PABEAN MENGENAI PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN BERIKAT (BONDED ZONE)",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-pabean-mengenai-pemasukan-dan-pengeluaran-barang-ke-dan-dari-kawasan-berikat"
+  },
+  {
+   "date_as_written": "1993-10-23 00:00:00",
+   "number_as_written": "854/KMK.01/1993",
+   "page_retrieved_at": "2026-10-06T03:53:50+00:00",
+   "retrieved_at": "2026-09-21T14:54:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatalaksana Pabean Mengenai Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan Berikat (Bonded Zone).",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/854-kmk-01-1993",
+   "validity_as_written": "23 Okt 1993 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -90,6 +105,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-pabean-mengenai-pemasukan-dan-pengeluaran-barang-ke-dan-dari-kawasan-berikat",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=112",
+   "retrieved_at": "2026-09-21T14:54:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/854-kmk-01-1993",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

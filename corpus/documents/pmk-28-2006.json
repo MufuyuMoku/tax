@@ -1,0 +1,132 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-28-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "28",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-28-2006--b000-i",
+  "pmk-28-2006--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "527/KMK.03",
+     "2003",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 527/KMK.03/2003",
+    "quote": "Mengubah beberapa ketentuan dan Keputusan Menteri Keuangan 527/KMK.03/2003 tentang Jasa di Bidang Angkutan Umum di Darat dan di Air yang Tidak Dikenakan Pajak Pertambahan Nilai sebagai berikut: 1. Ketentuan Pasal I diubah sehingga berbunyi sebagai berikut: \"Pasal 1 1. Angkutan adalah pemindahan orang dan/atau barang dari satu tempat ke tempat lain dengandengan menggunakan kendaraan.",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-527-kmk-03-2003"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-80-2012",
+    "key": [
+     "PMK",
+     "80",
+     "2012",
+     null
+    ],
+    "number_as_written": "80/PMK.03/2012",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 527/KMK.03/2003 tentang Jasa di Bidang Angkutan Umum di Darat dan di Air yang Tidak Dikenakan Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 28/PMK.03/2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "JASA ANGKUTAN UMUM DI DARAT DAN JASA ANGKUTAN UMUM DI AIR YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 527/KMK.03/2003 — Jasa di Bidang Angkutan Umum di Darat dan di Air yang Tidak Dikenakan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/527-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 80/PMK.03/2012 — Jasa Angkutan Umum di Darat dan Jasa Angkutan Umum di Air yang Tidak Dikenai Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2012"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-03-24",
+   "detail_error": null,
+   "number_as_written": "28/PMK.03/2006",
+   "retrieved_at": "2026-10-06T04:21:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 527/KMK.03/2003 TENTANG JASA DI BIDANG ANGKUTAN UMUM DI DARAT DAN DI AIR YANG TIDAK DIKENAKAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-527kmk032003-tentang-jasa-di-bidang"
+  },
+  {
+   "date_as_written": "2006-02-24 00:00:00",
+   "number_as_written": "28/PMK.03/2006",
+   "page_retrieved_at": "2026-10-06T03:08:35+00:00",
+   "retrieved_at": "2026-09-21T14:45:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan Nomor 527/KMK.03/2003 tentang Jasa di Bidang Angkutan Umum di Darat dan di Air yang Tidak Dikenakan Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/28-pmk-03-2006",
+   "validity_as_written": "24 Feb 2006 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=282",
+   "retrieved_at": "2026-10-05T14:13:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-527kmk032003-tentang-jasa-di-bidang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=452",
+   "retrieved_at": "2026-09-21T14:45:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/28-pmk-03-2006",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7029,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:21:47+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-527kmk032003-tentang-jasa-di-bidang"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 527/KMK.03/2003 TENTANG JASA DI BIDANG ANGKUTAN UMUM DI DARAT DAN DI AIR YANG TIDAK DIKENAKAN PAJAK PERTAMBAHAN NILAI"
+}

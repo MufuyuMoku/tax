@@ -1,0 +1,137 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK62PMK032022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "62",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK62PMK032022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-62-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "62",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-62-2022--b000-1",
+  "pmk-62-2022--b001-2",
+  "pmk-62-2022--b002-3",
+  "pmk-62-2022--b003-4",
+  "pmk-62-2022--b004-5",
+  "pmk-62-2022--b005-6",
+  "pmk-62-2022--b006-8",
+  "pmk-62-2022--b007-9",
+  "pmk-62-2022--b008-10",
+  "pmk-62-2022--b009-11"
+ ],
+ "quality_flags": [
+  "urutan_loncat:6->8"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "220",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 220/PMK.03/2020",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 220/PMK.03/2020 tentang Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Liquefied Petroleum Gas Tertentu (Berita Negara Republik Indonesia Tahun 2020 Nomor 1613), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-220-2020"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 220/PMK.03/2020 — Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Liquefied Petroleum Gas Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/220-pmk-03-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-30",
+   "detail_error": null,
+   "number_as_written": "62/PMK.03/2022",
+   "retrieved_at": "2026-10-06T02:56:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN LIQUEFIED PETROLEUM GAS TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-liquefied-petroleum-gas-tertentu"
+  },
+  {
+   "date_as_written": "2022-03-30 00:00:00",
+   "number_as_written": "62/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T14:57:21+00:00",
+   "retrieved_at": "2026-09-21T14:19:46+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Liquefied Petroleum Gas Tertentu",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2022",
+   "validity_as_written": "01 Apr 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=66",
+   "retrieved_at": "2026-10-05T07:45:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-liquefied-petroleum-gas-tertentu",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=68",
+   "retrieved_at": "2026-09-21T14:19:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13013,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:56:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-liquefied-petroleum-gas-tertentu"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN LIQUEFIED PETROLEUM GAS TERTENTU"
+}

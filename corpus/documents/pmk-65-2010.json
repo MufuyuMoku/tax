@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-65-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "65",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-65-2010--b000-1",
+  "pmk-65-2010--b001-2",
+  "pmk-65-2010--b002-3",
+  "pmk-65-2010--b003-4",
+  "pmk-65-2010--b004-5",
+  "pmk-65-2010--b005-6",
+  "pmk-65-2010--b006-7",
+  "pmk-65-2010--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "596/KMK.04",
+     "1994",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 596/KMK.04/1994",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 596/KMK.04/1994 tentang Tata Cara Pengurangan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah untuk Barang Kena Pajak yang Dikembalikan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-596-kmk-04-1994"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 596/KMK.04/1994 — Tata Cara Pengurangan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah untuk Barang Kena Pajak yang Dikembalikan",
+    "url": "https://jdih.kemenkeu.go.id/dok/596-kmk-04-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-18",
+   "detail_error": null,
+   "number_as_written": "65/PMK.03/2010",
+   "retrieved_at": "2026-10-06T04:05:20+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGURANGAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS BARANG KENA PAJAK YANG DIKEMBALIKAN DAN PAJAK PERTAMBAHAN NILAI ATAS JASA KENA PAJAK YANG DIBATALKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+  },
+  {
+   "date_as_written": "2010-03-18 00:00:00",
+   "number_as_written": "65/PMK.03/2010",
+   "page_retrieved_at": "2026-10-06T02:59:00+00:00",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengurangan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Barang Kena Pajak yang Dikembalikan dan Pajak Pertambahan Nilai atas Jasa Kena Pajak yang Dibatalkan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2010",
+   "validity_as_written": "18 Mar 2010 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=220",
+   "retrieved_at": "2026-10-05T13:52:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=363",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12335,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:05:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+ },
+ "title": "TATA CARA PENGURANGAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS BARANG KENA PAJAK YANG DIKEMBALIKAN DAN PAJAK PERTAMBAHAN NILAI ATAS JASA KENA PAJAK YANG DIBATALKAN"
+}

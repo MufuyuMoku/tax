@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -38,7 +42,22 @@
     "target_id": "pmk-75-2010"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-30-2014",
+    "key": [
+     "PMK",
+     "30",
+     "2014",
+     null
+    ],
+    "number_as_written": "30/PMK.03/2014",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: … b. Ketentuan Pasal 2 huruf 1 dan Pasal 3 huruf c Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain sebagai Dasar Pengenaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 38/PMK.011/2013, beserta perubahannya, dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -86,7 +105,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 30/2014 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

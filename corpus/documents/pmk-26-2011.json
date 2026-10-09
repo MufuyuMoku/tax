@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-26-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "26",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-26-2011--b000-1",
+  "pmk-26-2011--b001-2",
+  "pmk-26-2011--b002-3",
+  "pmk-26-2011--b003-4",
+  "pmk-26-2011--b004-5",
+  "pmk-26-2011--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-02-14",
+   "detail_error": null,
+   "number_as_written": "26/PMK.011/2011",
+   "retrieved_at": "2026-10-06T03:55:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG KEMASAN SEDERHANA DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2011",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-kemasan"
+  },
+  {
+   "date_as_written": "2011-02-14 00:00:00",
+   "number_as_written": "26/PMK.011/2011",
+   "page_retrieved_at": "2026-10-06T02:54:32+00:00",
+   "retrieved_at": "2026-09-21T14:38:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Kemasan Sederhana di dalam Negeri untuk Tahun Anggaran 2011.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/26-pmk-011-2011",
+   "validity_as_written": "14 Feb 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=212",
+   "retrieved_at": "2026-10-05T13:49:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-kemasan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=341",
+   "retrieved_at": "2026-09-21T14:38:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/26-pmk-011-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4807,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:55:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan-minyak-goreng-kemasan"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG KEMASAN SEDERHANA DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2011"
+}

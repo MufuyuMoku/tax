@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-296-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "296/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 643/KMK.04/1994 — Pedoman Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/643-kmk-04-1994"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-06-27",
+   "detail_error": null,
+   "number_as_written": "296/KMK.04/1994",
+   "retrieved_at": "2026-10-06T05:58:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGKREDITAN PAJAK MASUKAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengkreditan-pajak-masukan-0"
+  },
+  {
+   "date_as_written": "1994-06-27 00:00:00",
+   "number_as_written": "296/KMK.04/1994",
+   "page_retrieved_at": "2026-10-06T03:52:49+00:00",
+   "retrieved_at": "2026-09-21T14:54:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengkreditan Pajak Masukan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/296-kmk-04-1994",
+   "validity_as_written": "27 Jun 1994 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=458",
+   "retrieved_at": "2026-10-06T01:47:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengkreditan-pajak-masukan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=110",
+   "retrieved_at": "2026-09-21T14:54:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/296-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGKREDITAN PAJAK MASUKAN"
+}

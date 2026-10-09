@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-406-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "406/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-62-kmk-03-2002",
+    "key": [
+     "KMK",
+     "62/KMK.03",
+     "2002",
+     null
+    ],
+    "number_as_written": "62/KMK.03/2002",
+    "quote": "Pasal 8 Pada saat Keputusan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Republik Indonesia Nomor 406/KMK.04/2000 tentang Dasar Penghitungan, Pemungutan, Penyetoran Pajak Pertambahan Nilai Atas Penyerahan Hasil Tembakau Buatan Dalam Negeri Atau Hasil Tembakau Buatan Luar Negeri dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "DASAR PENGHITUNGAN, PEMUNGUTAN, DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 549/KMK.01/1985 — Dasar Perhitungan, Pemungutan, Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau Buatan dalam Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/549-kmk-01-1985"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 605/KMK.04/1990 — Perubahan atas Kepmenkeu No.549/KMK.01/1985 tentang Dasar Perhitungan, Pemungutan dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau Buatan dalam Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/605-kmk-04-1990"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 62/KMK.03/2002 — Dasar Perhitungan, Pemungutan, dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-kmk-03-2002"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-09-29",
+   "detail_error": null,
+   "number_as_written": "406/KMK.04/2000",
+   "retrieved_at": "2026-10-06T05:23:44+00:00",
+   "source": "DJP",
+   "title_as_written": "DASAR PENGHITUNGAN, PEMUNGUTAN, DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU BUATAN DALAM NEGERI ATAU IMPOR HASIL TEMBAKAU BUATAN LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-penyerahan"
+  },
+  {
+   "date_as_written": "2000-09-29 00:00:00",
+   "number_as_written": "406/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T03:29:02+00:00",
+   "retrieved_at": "2026-09-21T14:50:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Dasar Perhitungan, Pemungutan dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau Buatan dalam Negeri atau Impor Hasil Tembakau Buatan Luar Negeri",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/406-kmk-04-2000",
+   "validity_as_written": "29 Sep 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=385",
+   "retrieved_at": "2026-10-05T14:49:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-penyerahan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=46",
+   "retrieved_at": "2026-09-21T14:50:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/406-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "DASAR PENGHITUNGAN, PEMUNGUTAN, DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU BUATAN DALAM NEGERI ATAU IMPOR HASIL TEMBAKAU BUATAN LUAR NEGERI"
+}

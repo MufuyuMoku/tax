@@ -1,0 +1,176 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-106-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "106",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-106-2015--b000-1",
+  "pmk-106-2015--b001-2",
+  "pmk-106-2015--b002-3",
+  "pmk-106-2015--b003-4",
+  "pmk-106-2015--b004-5",
+  "pmk-106-2015--b005-6",
+  "pmk-106-2015--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-206-2015",
+    "key": [
+     "PMK",
+     "206",
+     "2015",
+     null
+    ],
+    "number_as_written": "206/PMK.010/2015",
+    "quote": "Mengubah Lampiran I Peraturan Menteri Keuangan Nomor 106/PMK.010/2015 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah sehingga menjadi sebagaimana ditetapkan dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 106/PMK.010/2015 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-35-2017",
+    "key": [
+     "PMK",
+     "35",
+     "2017",
+     null
+    ],
+    "number_as_written": "35/PMK.010/2017",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 106/PMK.010/2015 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2015 Nomor 847) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 206/PMK.010/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 106/PMK.010/2015 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2015 Nomor 1746), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "121",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 121/PMK.011/2013",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 121/PMK.011/2013 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 130/PMK.011/2013, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-121-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "130",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 130/PMK.011/2013",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 121/PMK.011/2013 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 130/PMK.011/2013, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-130-2013"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 121/PMK.011/2013 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 130/PMK.011/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 121/PMK.011/2013 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 35/PMK.010/2017 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor Yang\r\nDikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 206/PMK.010/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 106/PMK.010/2015 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-010-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-06-08",
+   "detail_error": null,
+   "number_as_written": "106/PMK.010/2015",
+   "retrieved_at": "2026-10-06T05:32:03+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-barang-kena-pajak-yang-tergolong-mewah-selain-kendaraan-bermotor-yang-dikenai-1"
+  },
+  {
+   "date_as_written": "2015-06-08 00:00:00",
+   "number_as_written": "106/PMK.010/2015",
+   "page_retrieved_at": "2026-10-06T03:37:54+00:00",
+   "retrieved_at": "2026-09-21T14:30:53+00:00",
+   "source": "JDIH",
+   "title_as_written": "Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor Yang\r\nDikenai Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/106-pmk-010-2015",
+   "validity_as_written": "08 Jun 2015 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=168",
+   "retrieved_at": "2026-10-06T01:32:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-barang-kena-pajak-yang-tergolong-mewah-selain-kendaraan-bermotor-yang-dikenai-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=231",
+   "retrieved_at": "2026-09-21T14:30:53+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/106-pmk-010-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4730,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:32:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-barang-kena-pajak-yang-tergolong-mewah-selain-kendaraan-bermotor-yang-dikenai-1"
+ },
+ "title": "JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

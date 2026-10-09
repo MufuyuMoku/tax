@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-95-1993",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "95",
+  "variant": null,
+  "year": "1993"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1993-10-23",
+   "detail_error": null,
+   "number_as_written": "95 TAHUN 1993",
+   "retrieved_at": "2026-10-06T06:01:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 53 TAHUN 1993 TENTANG FASILITAS DAN KEMUDAHAN PABEAN, PERPAJAKAN DAN TATA NIAGA IMPOR BAGI ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-presiden-republik-indonesia-nomor-53-tahun-1993-tentang-fasilitas-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=461",
+   "retrieved_at": "2026-10-06T01:48:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-presiden-republik-indonesia-nomor-53-tahun-1993-tentang-fasilitas-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 53 TAHUN 1993 TENTANG FASILITAS DAN KEMUDAHAN PABEAN, PERPAJAKAN DAN TATA NIAGA IMPOR BAGI ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)"
+}

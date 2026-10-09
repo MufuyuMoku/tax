@@ -1,0 +1,174 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-174-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "174",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-174-2022--b000-1",
+  "pmk-174-2022--b001-2",
+  "pmk-174-2022--b002-3",
+  "pmk-174-2022--b003-4",
+  "pmk-174-2022--b004-5",
+  "pmk-174-2022--b005-6",
+  "pmk-174-2022--b006-7",
+  "pmk-174-2022--b007-8",
+  "pmk-174-2022--b008-9",
+  "pmk-174-2022--b009-10",
+  "pmk-174-2022--b010-11",
+  "pmk-174-2022--b011-12",
+  "pmk-174-2022--b012-13",
+  "pmk-174-2022--b013-14",
+  "pmk-174-2022--b014-15",
+  "pmk-174-2022--b015-16",
+  "pmk-174-2022--b016-17",
+  "pmk-174-2022--b017-18",
+  "pmk-174-2022--b018-19",
+  "pmk-174-2022--b019-13",
+  "pmk-174-2022--b020-21",
+  "pmk-174-2022--b021-22",
+  "pmk-174-2022--b022-23",
+  "pmk-174-2022--b023-24",
+  "pmk-174-2022--b024-25",
+  "pmk-174-2022--b025-26",
+  "pmk-174-2022--b026-27",
+  "pmk-174-2022--b027-28",
+  "pmk-174-2022--b028-29",
+  "pmk-174-2022--b029-30",
+  "pmk-174-2022--b030-31",
+  "pmk-174-2022--b031-32",
+  "pmk-174-2022--b032-33",
+  "pmk-174-2022--b033-34",
+  "pmk-174-2022--b034-35",
+  "pmk-174-2022--b035-36",
+  "pmk-174-2022--b036-37",
+  "pmk-174-2022--b037-38",
+  "pmk-174-2022--b038-39",
+  "pmk-174-2022--b039-40",
+  "pmk-174-2022--b040-41",
+  "pmk-174-2022--b041-42"
+ ],
+ "quality_flags": [
+  "urutan_loncat:19->13,13->21",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-33-2023",
+    "key": [
+     "PMK",
+     "33",
+     "2023",
+     null
+    ],
+    "number_as_written": "33 TAHUN 2023",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 174/PMK.04/2022 tentang Tempat Penyelenggaraan Pameran Berikat (Berita Negara Republik Indonesia Tahun 2022 Nomor 1187) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.04/2022 TENTANG TEMPAT PENYELENGGARAAN PAMERAN BERIKAT"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "123/KMK.05",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 123/KMK.05/2000",
+    "quote": "Pasal 41 Pada saat Peraturan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 123/KMK.05/2000 tentang Entrepot untuk Tujuan Pameran, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-123-kmk-05-2000"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 123/KMK.05/2000 — Entrepot untuk Tujuan Pameran",
+    "url": "https://jdih.kemenkeu.go.id/dok/123-kmk-05-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 33 TAHUN 2023 — Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.04/2022 tentang Tempat Penyelenggaraan Pameran Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-33-tahun-2023"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-11-22",
+   "detail_error": null,
+   "number_as_written": "174/PMK.04/2022",
+   "retrieved_at": "2026-10-06T02:53:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENYELENGGARAAN PAMERAN BERIKAT",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-penyelenggaraan-pameran-berikat"
+  },
+  {
+   "date_as_written": "2022-11-22 00:00:00",
+   "number_as_written": "174/PMK.04/2022",
+   "page_retrieved_at": "2026-10-05T14:54:38+00:00",
+   "retrieved_at": "2026-09-21T14:19:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tempat Penyelenggaraan Pameran Berikat",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-04-2022",
+   "validity_as_written": "31 Jan 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=57",
+   "retrieved_at": "2026-10-05T07:42:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-penyelenggaraan-pameran-berikat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=57",
+   "retrieved_at": "2026-09-21T14:19:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-04-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 55857,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:53:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-penyelenggaraan-pameran-berikat"
+ },
+ "title": "TEMPAT PENYELENGGARAAN PAMERAN BERIKAT"
+}

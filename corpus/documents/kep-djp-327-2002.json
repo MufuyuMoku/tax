@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-327-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "327",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-146-2006",
+    "key": [
+     "PER-DJP",
+     "146",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-146/PJ./2006",
+    "quote": "… b. Keputusan Direktur Jenderal Pajak Nomor KEP-756/PJ.2001 tentang Penyampaian Lampiran Surat Pemberitahuan Masa PPN Dalam Bentuk Media Elektronik Terhadap PKP Yang Dalam Satu Masa Pajak Melaporkan 500 Faktur Pajak Standar atau Lebih Wajib Pajak Menyampaikan Lampiran SPT Masa PPN Dalam Bentuk Media Elektronik sebagaimana telah diubah terakhir dengan Keputusan Direktur Jenderal Pajak Nomor KEP-327/PJ./2002; dan c. Peraturan Direktur Jenderal Pajak Nomor PER-145/PJ./2005 tentang Bentuk, Isi dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-06-27",
+   "detail_error": null,
+   "number_as_written": "KEP - 327/PJ./2002",
+   "retrieved_at": "2026-10-06T04:49:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-756/PJ/2001 TENTANG PENYAMPAIAN LAMPIRAN SURAT PEMBERITAHUAN MASA PPN DALAM BENTUK MEDIA ELEKTRONIK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-756pj2001-tentang-penyampaian"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=342",
+   "retrieved_at": "2026-10-05T14:34:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-756pj2001-tentang-penyampaian",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-756/PJ/2001 TENTANG PENYAMPAIAN LAMPIRAN SURAT PEMBERITAHUAN MASA PPN DALAM BENTUK MEDIA ELEKTRONIK"
+}

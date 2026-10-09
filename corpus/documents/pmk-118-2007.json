@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-118-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "118",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-14-2008",
+    "key": [
+     "PMK",
+     "14",
+     "2008",
+     null
+    ],
+    "number_as_written": "14/PMK.011/2008",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 118/PMK.011/2007 tentang Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Curah di dalam Negeri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI DIBAYAR OLEH PEMERINTAH ATAS PENYERAHAN MINYAK GORENG CURAH DI DALAM NEGERI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 14/PMK.011/2008 — Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Curah di dalam Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/14-pmk-011-2008"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-09-24",
+   "detail_error": null,
+   "number_as_written": "118/PMK.011/2007",
+   "retrieved_at": "2026-10-06T04:16:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DIBAYAR OLEH PEMERINTAH ATAS PENYERAHAN MINYAK GORENG CURAH DI DALAM NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dibayar-oleh-pemerintah-atas-penyerahan-minyak-goreng-curah-di"
+  },
+  {
+   "date_as_written": "2007-09-24 00:00:00",
+   "number_as_written": "118/PMK.011/2007",
+   "page_retrieved_at": "2026-10-06T03:05:51+00:00",
+   "retrieved_at": "2026-09-21T14:44:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Curah di dalam Negeri",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/118-pmk-011-2007",
+   "validity_as_written": "24 Sep 2007 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=245",
+   "retrieved_at": "2026-10-05T14:00:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-dibayar-oleh-pemerintah-atas-penyerahan-minyak-goreng-curah-di",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=428",
+   "retrieved_at": "2026-09-21T14:44:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/118-pmk-011-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DIBAYAR OLEH PEMERINTAH ATAS PENYERAHAN MINYAK GORENG CURAH DI DALAM NEGERI"
+}

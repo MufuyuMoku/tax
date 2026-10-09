@@ -1,0 +1,114 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-83-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "83/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-30-2014",
+    "key": [
+     "PMK",
+     "30",
+     "2014",
+     null
+    ],
+    "number_as_written": "30/PMK.03/2014",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 83/KMK.03/2002 tentang Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan oleh Pengusaha Toko Emas Perhiasan, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 19/KMK.04/1994 — Pengkreditan Pajak Masukan atas Impor dan Penyerahan Emas Batangan yang Pajak Pertambahan Nilainya Ditanggung Pemerintah Serta atas Penyerahan Emas Perhiasan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/19-kmk-04-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 30/PMK.03/2014 — Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-08",
+   "detail_error": null,
+   "number_as_written": "83/KMK.03/2002",
+   "retrieved_at": "2026-10-06T04:57:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN OLEH PENGUSAHA TOKO EMAS PERHIASAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan-oleh-pengusaha-toko-emas-perhiasan"
+  },
+  {
+   "date_as_written": "2002-03-08 00:00:00",
+   "number_as_written": "83/KMK.03/2002",
+   "page_retrieved_at": "2026-10-06T03:19:29+00:00",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan oleh Pengusaha Toko Emas Perhiasan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/83-kmk-03-2002",
+   "validity_as_written": "08 Mar 2002 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=350",
+   "retrieved_at": "2026-10-05T14:37:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan-oleh-pengusaha-toko-emas-perhiasan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=31",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/83-kmk-03-2002",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN OLEH PENGUSAHA TOKO EMAS PERHIASAN"
+}

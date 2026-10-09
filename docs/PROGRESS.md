@@ -46,6 +46,23 @@ jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran ma
 **Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
 pemilik tentang label kategori (K-051).
 
+## M5 tahap 2 — PPN terbit; padanan KUP/PPN; daftar bertahap
+Tanggal: 2026-10-09
+Status: selesai dan terbit
+
+**Korpus (K-072):** 2.614 dokumen: PPh 1.122, KUP 1.112, PPN 992; 1.602 berteks. Ke-1.017 alamat
+PPN dalam cakupan tercakup. PPN: 585 berteks, 520 klaim DJP saja, 472 dengan klaim JDIH.
+**Set evaluasi:** 10 pertanyaan PPN baru (45 total). Sebelum PPN → sesudah PPN → sesudah padanan dan
+jawaban sah restitusi: median semua 8 (35 pertanyaan) → 11 (45) → 5; median PPh 6 → 6 → 6;
+10 besar 21/35 → 19/45 → 29/45. Empat penurunan disetujui pemilik (K-075).
+**Padanan (K-073):** 10 kelompok masuk, 4 ditolak, 3 tidak berpengaruh. Set uji tahan tidak dipakai.
+**Daftar bertahap (K-074):** siap mencari di 6x 4,1–5,7 → 1,5 detik; `/semua/` untuk tanpa
+JavaScript.
+**Pemeriksa nomor keputusan (K-071):** `npm test` gagal bila ada K-xxx yang tidak ada di DECISIONS.
+**Terbuka (K-076):** pertanyaan sehari-hari tertimbun dokumen kategori lain.
+**Unduhan:** `cari/data.json` 32,5 MB, 7,6 MB gzip; `index.html` 2,8 MB, 228 KB gzip.
+**Tes:** `npm test` 55 lulus; tes Python lulus.
+
 ## M5 — teks JDIH PPh dan arsitektur data pencarian
 Tanggal: 2026-10-09
 Status: selesai dan terbit; PPN (tahap 2) belum dimasukkan

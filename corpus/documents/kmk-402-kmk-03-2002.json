@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-402-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "402/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-402-kmk-03-2002--b000-i",
+  "kmk-402-kmk-03-2002--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "253/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 253/KMK.03/2002",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 253/KMK.03/2002 tentang Pajak Pertambahan Nilai Atas Penyerahan Barang Dagangan Oleh Pedagang Eceran Selain Yang Menggunakan Norma Penghitungan Penghasilan Neto diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-253-kmk-03-2002"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-09-11",
+   "detail_error": null,
+   "number_as_written": "402/KMK.03/2002",
+   "retrieved_at": "2026-10-06T04:44:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 253/KMK.03/2002 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN BARANG DAGANGAN OLEH PEDAGANG ECERAN SELAIN YANG MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-253kmk032002-tentang-pajak-pertambahan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=337",
+   "retrieved_at": "2026-10-05T14:33:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-253kmk032002-tentang-pajak-pertambahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4433,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:44:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-253kmk032002-tentang-pajak-pertambahan"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 253/KMK.03/2002 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN BARANG DAGANGAN OLEH PEDAGANG ECERAN SELAIN YANG MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO"
+}

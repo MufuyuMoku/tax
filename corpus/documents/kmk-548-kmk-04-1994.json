@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-548-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "548/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-192-kmk-04-1998",
+    "key": [
+     "KMK",
+     "192/KMK.04",
+     "1998",
+     null
+    ],
+    "number_as_written": "192/KMK.04/1998",
+    "quote": "Pasal 8 Dengan berlakunya keputusan ini, Keputusan Menteri Keuangan Nomor 47/KMK.01/1987 tanggal 26 Januari 1987 dan Keputusan Menteri Keuangan Nomor 548/KMK.04/1994 tanggal 7 November 1994 dinyatakan dicabut dan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 39 TAHUN 1998 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DI KAWASAN BERIKAT (BONDED WAREHOUSE) DAERAH INDUSTRI PULAU BATAM"
+   },
+   {
+    "id": "kmk-583-kmk-03-2003",
+    "key": [
+     "KMK",
+     "583/KMK.03",
+     "2003",
+     null
+    ],
+    "number_as_written": "583/KMK.03/2003",
+    "quote": "Pasal 6 Pada saat Keputusan Menteri Keuangan ini mulai berlaku : 1. Keputusan Menteri Keuangan Nomor 47/KMK.01/1987 tentang Pelaksanaan Pemungutan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Pengeluaran/Pemasukan/Penyerahan Barang Kena Pajak atau Jasa Kena Pajak dari/ke/di Kawasan Berikat ( Bonded Zone ) Daerah Industri Pulau Batam dan Pulau-pulau di Sekitarnya yang Dinyatakan sebagai Kawasan Berikat ( Bonded Zone ) sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 548/KMK.04/1994; 2. Keputusan Menteri Keuangan Nomor 192/KMK.04/1998 tentang Pelaksanaan Peraturan Pemerintah Nomor 39 Tahun 1998 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah di Kawasan Berikat ( Bonded Warehouse ) Daerah Industri Pulau Batam, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 583/KMK.03/2003 — Pelaksanaan Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah di Kawasan Berikat (Bonded Zone) Daerah Industri Pulau Batam.",
+    "url": "https://jdih.kemenkeu.go.id/dok/583-kmk-03-2003"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-11-07",
+   "detail_error": null,
+   "number_as_written": "548/KMK.04/1994",
+   "retrieved_at": "2026-10-06T05:57:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 47/KMK.01/1987 TANGGAL 26 JANUARI 1987 TENTANG PELAKSANAAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN/PEMASUKAN/PENYERAHAN BARANG KENA PAJAK ATAU JASA KENA PAJAK DARI/KE/DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM DAN PULAU-PULAU DI SEKITARNYA YANG DINYATAKAN SEBAGAI KAWASAN BERIKAT (BONDED ZONE)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-47kmk011987-tanggal-26-januari-1987"
+  },
+  {
+   "date_as_written": "1994-11-07 00:00:00",
+   "number_as_written": "548/KMK.04/1994",
+   "page_retrieved_at": "2026-10-06T03:52:24+00:00",
+   "retrieved_at": "2026-09-21T14:53:59+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyempurnaan Keputusan Menteri Keuangan Nomor 47/KMK.01/1987 Tanggal 26 Januari 1987 tentang Pelaksanaan Pemungutan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Pengeluaran/Pemasukan/Penyerahan Barang Kena Pajak atau Jasa [...]",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/548-kmk-04-1994",
+   "validity_as_written": "07 Nov 1994 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=457",
+   "retrieved_at": "2026-10-06T01:47:04+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-47kmk011987-tanggal-26-januari-1987",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=105",
+   "retrieved_at": "2026-09-21T14:53:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/548-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 47/KMK.01/1987 TANGGAL 26 JANUARI 1987 TENTANG PELAKSANAAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN/PEMASUKAN/PENYERAHAN BARANG KENA PAJAK ATAU JASA KENA PAJAK DARI/KE/DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM DAN PULAU-PULAU DI SEKITARNYA YANG DINYATAKAN SEBAGAI KAWASAN BERIKAT (BONDED ZONE)"
+}

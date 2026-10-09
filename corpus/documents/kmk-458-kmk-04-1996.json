@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-458-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "458/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-07-18",
+   "detail_error": null,
+   "number_as_written": "458/KMK.04/1996",
+   "retrieved_at": "2026-10-06T05:44:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PPN DAN PPn BM DITANGGUNG OLEH PEMERINTAH ATAS IMPOR MESIN SANDI JENIS CRYPTOFAX HC-4700 HIGH RESOLUTION SECURE FACSIMILE TERMINAL SEBANYAK 2 (DUA) UNIT DAN PERALATAN LAIN OLEH LEMBAGA SANDI NEGARA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ppn-dan-ppn-bm-ditanggung-oleh-pemerintah-atas-impor-mesin-sandi-jenis-cryptofax-hc-4700"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=444",
+   "retrieved_at": "2026-10-06T01:42:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ppn-dan-ppn-bm-ditanggung-oleh-pemerintah-atas-impor-mesin-sandi-jenis-cryptofax-hc-4700",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PPN DAN PPn BM DITANGGUNG OLEH PEMERINTAH ATAS IMPOR MESIN SANDI JENIS CRYPTOFAX HC-4700 HIGH RESOLUTION SECURE FACSIMILE TERMINAL SEBANYAK 2 (DUA) UNIT DAN PERALATAN LAIN OLEH LEMBAGA SANDI NEGARA"
+}

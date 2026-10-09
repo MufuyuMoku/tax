@@ -1,0 +1,142 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-62-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "62",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-62-2015--b000-1",
+  "pmk-62-2015--b001-2",
+  "pmk-62-2015--b002-3",
+  "pmk-62-2015--b003-4",
+  "pmk-62-2015--b004-5",
+  "pmk-62-2015--b005-6",
+  "pmk-62-2015--b006-7",
+  "pmk-62-2015--b007-8",
+  "pmk-62-2015--b008-9",
+  "pmk-62-2015--b009-10",
+  "pmk-62-2015--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-66-2022",
+    "key": [
+     "PMK",
+     "66",
+     "2022",
+     null
+    ],
+    "number_as_written": "66/PMK.03/2022",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 62/PMK.03/2015 tentang Nilai Lain sebagai Dasar Pengenaan Pajak dan Saat Lain Pembuatan Faktur Pajak atas Penyerahan Pupuk Tertentu untuk Sektor Pertanian (Berita Negara Republik Indonesia Tahun 2015 Nomor 452), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PUPUK BERSUBSIDI UNTUK SEKTOR PERTANIAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "579/KMK.04",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 579/KMK.04/1996",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 579/KMK.04/1996 tentang Penunjukan Direktorat Jenderal Anggaran Sebagai Pemungut Pajak Pertambahan Nilai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-579-kmk-04-1996"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 579/KMK.04/1996 — Penunjukan Direktorat Jenderal Anggaran Sebagai Pemungut Pajak Pertambahan Nilai atas Penyerahan Pupuk dan Pestisida Bersudbsidi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/579-kmk-04-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 66/PMK.03/2022 —  Pajak Pertambahan Nilai atas Penyerahan Pupuk Bersubsidi untuk Sektor Pertanian",
+    "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-03-26",
+   "detail_error": null,
+   "number_as_written": "62/PMK.03/2015",
+   "retrieved_at": "2026-10-06T03:32:46+00:00",
+   "source": "DJP",
+   "title_as_written": "NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK DAN SAAT LAIN PEMBUATAN FAKTUR PAJAK ATAS PENYERAHAN PUPUK TERTENTU UNTUK SEKTOR PERTANIAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/nilai-lain-sebagai-dasar-pengenaan-pajak-dan-saat-lain-pembuatan-faktur-pajak-atas"
+  },
+  {
+   "date_as_written": "2015-03-26 00:00:00",
+   "number_as_written": "62/PMK.03/2015",
+   "page_retrieved_at": "2026-10-06T02:19:23+00:00",
+   "retrieved_at": "2026-09-21T14:31:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Nilai Lain Sebagai Dasar Pengenaan Pajak dan Saat Lain Pembuatan Faktur Pajak atas Penyerahan Pupuk Tertentu untuk Sektor Pertanian.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2015",
+   "validity_as_written": "26 Mar 2015 - 30 Mar 2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 66/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=172",
+   "retrieved_at": "2026-10-05T13:35:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/nilai-lain-sebagai-dasar-pengenaan-pajak-dan-saat-lain-pembuatan-faktur-pajak-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=236",
+   "retrieved_at": "2026-09-21T14:31:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10808,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:32:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/nilai-lain-sebagai-dasar-pengenaan-pajak-dan-saat-lain-pembuatan-faktur-pajak-atas"
+ },
+ "title": "NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK DAN SAAT LAIN PEMBUATAN FAKTUR PAJAK ATAS PENYERAHAN PUPUK TERTENTU UNTUK SEKTOR PERTANIAN"
+}

@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-222-1997",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "222",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-12-24",
+   "detail_error": null,
+   "number_as_written": "KEP - 222/PJ./1997",
+   "retrieved_at": "2026-10-06T05:37:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNDAAN MASA BERLAKU KEPUTUSAN DIREKTUR JENDERAL PAJAK KEP-155/PJ./1997 TENTANG PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-12/PJ./1995 TENTANG BENTUK DAN ISI SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DAN SPT MASA PPN BAGI PENGUSAHA KENA PAJAK PEDAGANG ECERAN YANG MENGGUNAKAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK, KETERANGAN DAN DOKUMEN YANG HARUS DILAMPIRKAN SERTA PETUNJUK PENGISIANNYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-masa-berlaku-keputusan-direktur-jenderal-pajak-kep-155pj1997-tentang-perubahan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=435",
+   "retrieved_at": "2026-10-06T01:39:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-masa-berlaku-keputusan-direktur-jenderal-pajak-kep-155pj1997-tentang-perubahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENUNDAAN MASA BERLAKU KEPUTUSAN DIREKTUR JENDERAL PAJAK KEP-155/PJ./1997 TENTANG PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-12/PJ./1995 TENTANG BENTUK DAN ISI SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DAN SPT MASA PPN BAGI PENGUSAHA KENA PAJAK PEDAGANG ECERAN YANG MENGGUNAKAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK, KETERANGAN DAN DOKUMEN YANG HARUS DILAMPIRKAN SERTA PETUNJUK PENGISIANNYA"
+}

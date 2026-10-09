@@ -1,0 +1,216 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-8-1983",
+ "identity": {
+  "code": "UU",
+  "number": "8",
+  "variant": null,
+  "year": "1983"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "uu-8-1983--b000-1",
+  "uu-8-1983--b001-2",
+  "uu-8-1983--b002-3",
+  "uu-8-1983--b003-4",
+  "uu-8-1983--b004-5",
+  "uu-8-1983--b005-6",
+  "uu-8-1983--b006-7",
+  "uu-8-1983--b007-8",
+  "uu-8-1983--b008-9",
+  "uu-8-1983--b009-10",
+  "uu-8-1983--b010-11",
+  "uu-8-1983--b011-12",
+  "uu-8-1983--b012-13",
+  "uu-8-1983--b013-14",
+  "uu-8-1983--b014-15",
+  "uu-8-1983--b015-16",
+  "uu-8-1983--b016-17",
+  "uu-8-1983--b017-18",
+  "uu-8-1983--b018-19",
+  "uu-8-1983--b019-20",
+  "uu-8-1983--b020-21",
+  "uu-8-1983--p021-1",
+  "uu-8-1983--p022-2",
+  "uu-8-1983--p023-3",
+  "uu-8-1983--p024-4",
+  "uu-8-1983--p025-5",
+  "uu-8-1983--p026-6",
+  "uu-8-1983--p027-7",
+  "uu-8-1983--p028-8",
+  "uu-8-1983--p029-9",
+  "uu-8-1983--p030-10",
+  "uu-8-1983--p031-11",
+  "uu-8-1983--p032-12",
+  "uu-8-1983--p033-13",
+  "uu-8-1983--p034-14",
+  "uu-8-1983--p035-15",
+  "uu-8-1983--p036-16",
+  "uu-8-1983--p037-17",
+  "uu-8-1983--p038-18",
+  "uu-8-1983--p039-19",
+  "uu-8-1983--p040-20",
+  "uu-8-1983--p041-21"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "uu-11-1994",
+    "key": [
+     "UU",
+     "11",
+     "1994",
+     null
+    ],
+    "number_as_written": "11 TAHUN 1994",
+    "quote": "Mengubah beberapa ketentuan dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah, sebagai berikut : Ketentuan Pasal 1 huruf a sampai dengan huruf i, huruf k sampai dengan huruf p, huruf r sampai dengan huruf w, diubah, dan ditambah dengan huruf x, sehingga Pasal 1 seluruhnya menjadi berbunyi sebagai berikut : \"Pasal 1 Dalam Undang-undang ini yang dimaksud dengan : Daerah Pabean adalah wilayah Republik Indonesia yang di dalamnya berlaku peraturan perundang-undangan Pabean;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   },
+   {
+    "id": "uu-18-2000",
+    "key": [
+     "UU",
+     "18",
+     "2000",
+     null
+    ],
+    "number_as_written": "18 TAHUN 2000",
+    "quote": "Beberapa ketentuan dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Nomor 3264) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 61, Tambahan Lembaran Negara Nomor 3568) diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   },
+   {
+    "id": "uu-42-2009",
+    "key": [
+     "UU",
+     "42",
+     "2009",
+     null
+    ],
+    "number_as_written": "42 TAHUN 2009",
+    "quote": "Beberapa ketentuan dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 3264) yang telah beberapa kali diubah dengan Undang-Undang: Nomor 11 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 3568); Nomor 18 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 128, Tambahan Lembaran Negara Republik Indonesia Nomor 3986), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 42 TAHUN 2009 — Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-42-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 18 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-18-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 11 TAHUN 2020 — Cipta Kerja",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 7 TAHUN 2021 — Harmonisasi Peraturan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 11 TAHUN 1994 — Perubahan atas Undang-Undang No. 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-1994"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1983-12-31",
+   "detail_error": null,
+   "number_as_written": "8 TAHUN 1983",
+   "retrieved_at": "2026-10-06T02:25:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+  },
+  {
+   "date_as_written": "1983-12-31 00:00:00",
+   "number_as_written": "UU 8 TAHUN 1983",
+   "page_retrieved_at": "2026-10-05T14:41:06+00:00",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-8-tahun-1983",
+   "validity_as_written": "31 Des 1983 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=495",
+   "retrieved_at": "2026-10-03T02:28:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-8-tahun-1983",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 59715,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:25:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

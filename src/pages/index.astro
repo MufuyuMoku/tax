@@ -1,7 +1,9 @@
 ---
 import Base from "../layouts/Base.astro";
 import { buildListing, loadMeta } from "../lib/corpus.js";
-import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote, CATEGORIES } from "../lib/labels.js";
+import Kartu from "../components/Kartu.astro";
+import { statusLabel, typeLabel, CATEGORIES } from "../lib/labels.js";
+import { PAGE } from "../lib/listing.js";
 import { KINDS } from "../lib/collection/records.js";
 
 const rows = buildListing();
@@ -28,7 +30,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
 ---
 
 <Base title="Daftar peraturan pajak — Tax">
-  <h1>Peraturan PPh dan KUP</h1>
+  <h1>Peraturan PPh, KUP, dan PPN</h1>
   <p class="lead">
     {rows.length.toLocaleString("id-ID")} dokumen dari katalog Direktorat Jenderal Pajak dan JDIH
     Kementerian Keuangan.
@@ -91,7 +93,10 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
       tidak mengirim apa pun ke mana pun.
     </p>
     <noscript>
-      <p class="hint">Pencarian dan saringan membutuhkan JavaScript. Daftar lengkap tetap ada di bawah.</p>
+      <p class="hint">
+        Pencarian dan saringan membutuhkan JavaScript. Daftar lengkap ada di
+        <a href={`${base}semua/`}>halaman daftar lengkap</a>.
+      </p>
     </noscript>
   </form>
 
@@ -133,67 +138,21 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
     <p class="hint" id="hint">Dokumen yang dicatat berbeda oleh dua sumber selalu ditampilkan berdampingan.</p>
   </div>
 
+  <p class="hint" id="jumlah-tampil" aria-live="polite"></p>
   <ol class="daftar" id="daftar">
-    {rows.map((row) => (
-      <li
-        class="kartu"
-        data-tahun={row.year}
-        data-judul={row.title}
-        data-jenis={typeLabel(row.code)}
-        data-status={statusLabel(row.status, true)}
-        data-code={row.code}
-        data-kategori={row.categories.join(" ")}
-        data-status-value={row.status}
-        data-group={row.group_key}
-        data-id={row.id}
-      >
-        <p class="kartu-nomor">
-          <a href={`${base}dokumen/${row.id}/`}>{regulationLabel(row, row.number_as_written)}</a>
-          <span class="jenis">{typeLabel(row.code)}</span>
-        </p>
-        <p class="kartu-judul">{row.title}</p>
-        {row.category_list.length > 0 && <p class="kartu-asal">{categoryNote(row.category_list)}</p>}
-        <p class="kartu-tanda">
-          <span class={`tanda status-${row.status}`}>{statusLabel(row.status, true)}</span>
-          <span class="tanda netral">{yearLabel(row.year)}</span>
-          {row.text_available ? (
-            <span class="tanda netral">{row.pasal_count} pasal</span>
-          ) : (
-            <span class="tanda tanpa-teks">Tanpa teks di situs ini</span>
-          )}
-          {row.attachment_mismatch > 0 && (
-            <span class="tanda peringatan">Lampiran tidak cocok</span>
-          )}
-          {row.quality_flags.length > 0 && <span class="tanda peringatan">Penomoran janggal</span>}
-        </p>
-        {!row.text_available && (
-          <p class="kartu-catatan">
-            {row.text_unavailable_reason}. Buka di sumbernya:{" "}
-            {row.source_urls.map((s, i) => (
-              <>
-                {i > 0 && " · "}
-                <a href={s.url} rel="noopener">{s.source}</a>
-              </>
-            ))}
-          </p>
-        )}
-        {row.conflicts.length > 0 && (
-          <p class="kartu-catatan konflik">
-            Satu peraturan ini dicatat dua sumber dengan jenis berbeda, sehingga muncul lebih dari
-            sekali. Lihat juga{" "}
-            {row.conflicts.map((c, i) => (
-              <>
-                {i > 0 && ", "}
-                <a href={`${base}dokumen/${c.id}/`}>{regulationLabel([c.code, row.number, row.year, row.variant])}</a> ({typeLabel(c.code)})
-              </>
-            ))}
-            . Keduanya sengaja tidak digabungkan, karena menggabungkan berarti memilih salah satu
-            sumber sebagai yang benar.
-          </p>
-        )}
-      </li>
-    ))}
+    {rows.slice(0, PAGE).map((row) => <Kartu row={row} />)}
   </ol>
+  {/* The other cards: parsed with the page but not laid out until shown (K-074). */}
+  <template id="daftar-sisa">
+    {rows.slice(PAGE).map((row) => <Kartu row={row} />)}
+  </template>
+  <button type="button" class="tombol-lagi" id="lagi-daftar" hidden>Tampilkan lagi</button>
+  <noscript>
+    <p class="hint">
+      Daftar ini menampilkan {PAGE} dokumen pertama. Tanpa JavaScript, daftar lengkap
+      {rows.length.toLocaleString("id-ID")} dokumen ada di <a href={`${base}semua/`}>halaman daftar lengkap</a>.
+    </p>
+  </noscript>
   </div>
 
   <p class="hint">
@@ -203,11 +162,18 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
 </Base>
 
 <script>
+  import { createListing } from "../lib/listing.js";
+  import { startSearch } from "../lib/search/ui.js";
+
+  // Ordering, filters and "show more" share one listing, so they can never disagree (K-074).
   // Sorting happens in the browser so the page keeps working offline and needs no server.
-  // Without JavaScript the list is still there, ordered newest first.
-  const list = document.getElementById("daftar");
+  const listing = createListing({
+    list: document.getElementById("daftar"),
+    rest: document.getElementById("daftar-sisa"),
+    more: document.getElementById("lagi-daftar"),
+    count: document.getElementById("jumlah-tampil"),
+  });
   const select = document.getElementById("urut");
-  const items = Array.from(list.children);
 
   const key = (item, name) => item.dataset[name] || "";
   const comparators = {
@@ -221,21 +187,14 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
 
   select.addEventListener("change", () => {
     const compare = comparators[select.value];
-    const sorted = items.slice().sort(
+    listing.sort(
       (a, b) =>
         compare(a, b) ||
         // documents recorded twice stay next to each other under every ordering
         key(a, "group").localeCompare(key(b, "group")) ||
         key(a, "id").localeCompare(key(b, "id"))
     );
-    const fragment = document.createDocumentFragment();
-    for (const item of sorted) fragment.appendChild(item);
-    list.appendChild(fragment);
   });
-</script>
 
-<script>
-  import { startSearch } from "../lib/search/ui.js";
-
-  startSearch({ base: import.meta.env.BASE_URL });
+  startSearch({ base: import.meta.env.BASE_URL, listing });
 </script>

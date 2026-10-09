@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "perpres-79-2023",
+ "identity": {
+  "code": "PERPRES",
+  "number": "79",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "perpres-79-2023--b000-i",
+  "perpres-79-2023--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PERPRES",
+     "55",
+     "2019",
+     null
+    ],
+    "name": "PERATURAN PRESIDEN NOMOR 55 TAHUN 2019",
+    "quote": "Beberapa ketentuan dalam Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai ( Battery Electic Vehicle ) untuk Transportasi Jalan (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 146), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "perpres-55-2019"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PERPRES 55 TAHUN 2019 — Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (Battery Electric Vehicle) untuk Transportasi Jalan",
+    "url": "https://jdih.kemenkeu.go.id/dok/perpres-55-tahun-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-08",
+   "detail_error": null,
+   "number_as_written": "79 TAHUN 2023",
+   "retrieved_at": "2026-10-06T02:32:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PRESIDEN NOMOR 55 TAHUN 2019 TENTANG PERCEPATAN PROGRAM KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI (BATTERY ELECTRIC VEHICLE)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-presiden-nomor-55-tahun-2019-tentang-percepatan-program"
+  },
+  {
+   "date_as_written": "2023-12-08 00:00:00",
+   "number_as_written": "PERPRES 79 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:49:13+00:00",
+   "retrieved_at": "2026-09-21T14:12:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (Battery Electric Vehicle) untuk Transportasi Listrik",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-79-tahun-2023",
+   "validity_as_written": "08 Des 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=41",
+   "retrieved_at": "2026-10-05T07:36:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-presiden-nomor-55-tahun-2019-tentang-percepatan-program",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Presiden&order=desc&page=2",
+   "retrieved_at": "2026-09-21T14:12:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-79-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 21685,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:32:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-presiden-nomor-55-tahun-2019-tentang-percepatan-program"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PRESIDEN NOMOR 55 TAHUN 2019 TENTANG PERCEPATAN PROGRAM KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI (BATTERY ELECTRIC VEHICLE)"
+}

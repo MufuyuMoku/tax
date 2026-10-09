@@ -1,0 +1,24 @@
+---
+// The whole regulation list on one page, for browsers without JavaScript (K-074). The list page
+// itself shows a page of cards at a time; nothing may be reachable only with JavaScript
+// (invariant 3).
+import Base from "../../layouts/Base.astro";
+import Kartu from "../../components/Kartu.astro";
+import { buildListing } from "../../lib/corpus.js";
+
+const rows = buildListing();
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="Daftar lengkap peraturan — Tax">
+  <p class="breadcrumb"><a href={base}>Daftar peraturan</a></p>
+  <h1>Daftar lengkap</h1>
+  <p class="lead">
+    Seluruh {rows.length.toLocaleString("id-ID")} dokumen dalam satu halaman, terbaru dulu, untuk
+    browser tanpa JavaScript. Halaman ini berat di HP; pencarian dan saringan ada di
+    <a href={base}>halaman daftar</a>.
+  </p>
+  <ol class="daftar">
+    {rows.map((row) => <Kartu row={row} />)}
+  </ol>
+</Base>

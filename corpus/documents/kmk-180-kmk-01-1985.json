@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-180-kmk-01-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "180/KMK.01",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-02-15",
+   "detail_error": null,
+   "number_as_written": "180/KMK.01/1985",
+   "retrieved_at": "2026-10-06T06:38:03+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS BEA MASUK, PAJAK PENJUALAN/PAJAK PERTAMBAHAN NILAI ATAS PEMASUKAN MESIN, PERALATAN, SOFTWARE DAN BAHAN BAKU PRODUKSI DALAM MENUNJANG PEMBANGUNAN DAN PENGEMBANGAN P.T. PINDAD (PESERO)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-bea-masuk-pajak-penjualanpajak-pertambahan-nilai-atas-pemasukan-mesin"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=490",
+   "retrieved_at": "2026-10-06T02:23:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-bea-masuk-pajak-penjualanpajak-pertambahan-nilai-atas-pemasukan-mesin",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN FASILITAS BEA MASUK, PAJAK PENJUALAN/PAJAK PERTAMBAHAN NILAI ATAS PEMASUKAN MESIN, PERALATAN, SOFTWARE DAN BAHAN BAKU PRODUKSI DALAM MENUNJANG PEMBANGUNAN DAN PENGEMBANGAN P.T. PINDAD (PESERO)"
+}

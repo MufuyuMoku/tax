@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-596-kmk-05-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "596/KMK.05",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-07-11",
+   "detail_error": null,
+   "number_as_written": "596/KMK.05/1986",
+   "retrieved_at": "2026-10-06T06:29:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN KEMUDAHAN PEMBEBASAN BEA MASUK DAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH DITANGGUNG PEMERINTAH ATAS IMPOR DALAM RANGKA PEMBANGUNAN DAN PENGEMBANGAN PT INDUSTRI PESAWAT TERBANG NUSANTARA, PT PINDAD, PT PAL DAN PERUM DAHANA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-kemudahan-pembebasan-bea-masuk-dan-pajak-pertambahan-nilai-pajak-penjualan-atas"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=484",
+   "retrieved_at": "2026-10-06T02:21:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-kemudahan-pembebasan-bea-masuk-dan-pajak-pertambahan-nilai-pajak-penjualan-atas",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN KEMUDAHAN PEMBEBASAN BEA MASUK DAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH DITANGGUNG PEMERINTAH ATAS IMPOR DALAM RANGKA PEMBANGUNAN DAN PENGEMBANGAN PT INDUSTRI PESAWAT TERBANG NUSANTARA, PT PINDAD, PT PAL DAN PERUM DAHANA"
+}

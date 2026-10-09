@@ -1,0 +1,211 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER03PJ2022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "3",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER03PJ2022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2022",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2022--b000-1",
+  "per-djp-3-2022--b001-2",
+  "per-djp-3-2022--b002-3",
+  "per-djp-3-2022--b003-4",
+  "per-djp-3-2022--b004-5",
+  "per-djp-3-2022--b005-6",
+  "per-djp-3-2022--b006-7",
+  "per-djp-3-2022--b007-8",
+  "per-djp-3-2022--b008-9",
+  "per-djp-3-2022--b009-10",
+  "per-djp-3-2022--b010-11",
+  "per-djp-3-2022--b011-12",
+  "per-djp-3-2022--b012-13",
+  "per-djp-3-2022--b013-14",
+  "per-djp-3-2022--b014-15",
+  "per-djp-3-2022--b015-16",
+  "per-djp-3-2022--b016-17",
+  "per-djp-3-2022--b017-18",
+  "per-djp-3-2022--b018-19",
+  "per-djp-3-2022--b019-20",
+  "per-djp-3-2022--b020-21",
+  "per-djp-3-2022--b021-22",
+  "per-djp-3-2022--b022-23",
+  "per-djp-3-2022--b023-24",
+  "per-djp-3-2022--b024-25",
+  "per-djp-3-2022--b025-26",
+  "per-djp-3-2022--b026-27",
+  "per-djp-3-2022--b027-28",
+  "per-djp-3-2022--b028-29",
+  "per-djp-3-2022--b029-30",
+  "per-djp-3-2022--b030-31",
+  "per-djp-3-2022--b031-32",
+  "per-djp-3-2022--b032-33",
+  "per-djp-3-2022--b033-34",
+  "per-djp-3-2022--b034-35",
+  "per-djp-3-2022--b035-36",
+  "per-djp-3-2022--b036-37",
+  "per-djp-3-2022--b037-38",
+  "per-djp-3-2022--b038-39",
+  "per-djp-3-2022--b039-40"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "16",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014",
+    "quote": "huruf a Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2020 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan, tetap dapat digunakan sampai dengan dicabutnya Keputusan Direktur Jenderal Pajak mengenai penetapan sebagai PKP yang menggunakan aplikasi e-Faktur Host-to-Host .",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-16-2014"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "10",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2020",
+    "quote": "huruf a Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2020 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan, tetap dapat digunakan sampai dengan dicabutnya Keputusan Direktur Jenderal Pajak mengenai penetapan sebagai PKP yang menggunakan aplikasi e-Faktur Host-to-Host .",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-10-2020"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "11",
+     "2019",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019",
+    "quote": "huruf a Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2020 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan, tetap dapat digunakan sampai dengan dicabutnya Keputusan Direktur Jenderal Pajak mengenai penetapan sebagai PKP yang menggunakan aplikasi e-Faktur Host-to-Host .",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-11-2019"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "58",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-58/PJ/2010",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-58/PJ/2010 tentang Bentuk dan Ukuran Formulir serta Tata Cara Pengisian Keterangan pada Faktur Pajak bagi Pengusaha Kena Pajak Pedagang Eceran; … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-58-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "24",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak; … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-24-2012"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "4",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak; … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-4-2020"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "754",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-754-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-31",
+   "detail_error": null,
+   "number_as_written": "PER-03/PJ/2022",
+   "retrieved_at": "2026-10-06T02:55:17+00:00",
+   "source": "DJP",
+   "title_as_written": "FAKTUR PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=64",
+   "retrieved_at": "2026-10-05T07:44:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 53046,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:55:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak"
+ },
+ "title": "FAKTUR PAJAK"
+}

@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-16-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "16",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-16-2021--b000-1",
+  "per-djp-16-2021--b001-2",
+  "per-djp-16-2021--b002-3",
+  "per-djp-16-2021--b003-4",
+  "per-djp-16-2021--b004-5",
+  "per-djp-16-2021--b005-6",
+  "per-djp-16-2021--b006-7",
+  "per-djp-16-2021--b007-8",
+  "per-djp-16-2021--b008-9",
+  "per-djp-16-2021--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 17. Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2021 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "13",
+     "2019",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2019",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2019 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-13-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-07-27",
+   "detail_error": null,
+   "number_as_written": "PER-16/PJ/2021",
+   "retrieved_at": "2026-10-06T03:03:00+00:00",
+   "source": "DJP",
+   "title_as_written": "DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/dokumen-tertentu-yang-kedudukannya-dipersamakan-dengan-faktur-pajak-2"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=78",
+   "retrieved_at": "2026-10-05T13:00:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/dokumen-tertentu-yang-kedudukannya-dipersamakan-dengan-faktur-pajak-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18378,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:03:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/dokumen-tertentu-yang-kedudukannya-dipersamakan-dengan-faktur-pajak-2"
+ },
+ "title": "DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK"
+}

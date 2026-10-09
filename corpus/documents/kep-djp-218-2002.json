@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-218-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "218",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-229-2003",
+    "key": [
+     "KEP-DJP",
+     "229",
+     "2003",
+     null
+    ],
+    "number_as_written": "KEP-229/PJ/2003",
+    "quote": "Pasal 10 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-586/PJ/2001 tentang Pengenaan Pajak Penjualan Atas Barang Mewah Atas Kendaraan Bermotor dan Tata cara Pemberian Serta Penatausahaan Pembebasan Pajak Penjualan Atas Barang Mewah Atas Impor Atau Penyerahan Kendaraan Bermotor sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-218/PJ/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PEMBEBASAN SERTA PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR ATAU PENYERAHAN KENDARAAN BERMOTOR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-04-18",
+   "detail_error": null,
+   "number_as_written": "KEP - 218/PJ./2002",
+   "retrieved_at": "2026-10-06T04:54:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-586/PJ./2001 TENTANG PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS KENDARAAN BERMOTOR DAN TATA CARA PEMBERIAN SERTA PENATAUSAHAAN PEMBEBASAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR ATAU PENYERAHAN KENDARAAN BERMOTOR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-586pj2001-tentang-pengenaan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=347",
+   "retrieved_at": "2026-10-05T14:36:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-586pj2001-tentang-pengenaan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-586/PJ./2001 TENTANG PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS KENDARAAN BERMOTOR DAN TATA CARA PEMBERIAN SERTA PENATAUSAHAAN PEMBEBASAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR ATAU PENYERAHAN KENDARAAN BERMOTOR"
+}

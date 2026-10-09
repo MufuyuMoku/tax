@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-30-2005",
+ "identity": {
+  "code": "PP",
+  "number": "30",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-30-2005--b000-i",
+  "pp-30-2005--b001-ii",
+  "pp-30-2005--p002-i",
+  "pp-30-2005--p003-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "63",
+     "2003",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 63 TAHUN 2003",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 63 Tahun 2003 tentang Perlakuan Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah di Kawasan Berikat (Bonded Zone) Daerah Industri Pulau Batam (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 4252) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-63-2003"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pp-2-2009",
+    "key": [
+     "PP",
+     "2",
+     "2009",
+     null
+    ],
+    "number_as_written": "2 TAHUN 2009",
+    "quote": "Pasal 30 Pada saat Peraturan Pemerintah ini mulai berlaku: … b. Peraturan Pemerintah Nomor 63 Tahun 2003 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah di Kawasan Berikat (Bonded Zone) Daerah Industri Pulau Batam (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 4252) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 30 Tahun 2005 tentang Perubahan atas Peraturan Pemerintah Nomor 63 Tahun 2003 tentang Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah di Kawasan Berikat (Bonded Zone) Daerah Industri Pulau Batam (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 63, Tambahan Lembaran Negara Republik Indonesia Nomor 4514), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PERLAKUAN KEPABEANAN, PERPAJAKAN, DAN CUKAI SERTA PENGAWASAN ATAS PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI SERTA BERADA DI KAWASAN YANG TELAH DITUNJUK SEBAGAI KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 41 TAHUN 2001 — Perubahan atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan Bagi Orang Pribadi yang Akan Bertolak Ke Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-41-tahun-2001"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-07-19",
+   "detail_error": null,
+   "number_as_written": "30 TAHUN 2005",
+   "retrieved_at": "2026-10-06T04:24:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 63 TAHUN 2003 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-63-tahun-2003-tentang-perlakuan-pajak"
+  },
+  {
+   "date_as_written": "2005-06-11 00:00:00",
+   "number_as_written": "PP 30 TAHUN 2005",
+   "page_retrieved_at": "2026-10-06T03:10:58+00:00",
+   "retrieved_at": "2026-09-21T14:10:56+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perusahaan Umum Kehutanan Negara (Perum Perhutani)",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2005",
+   "validity_as_written": "11 Jun 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 2/2009 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=292",
+   "retrieved_at": "2026-10-05T14:16:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-63-tahun-2003-tentang-perlakuan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=80",
+   "retrieved_at": "2026-09-21T14:10:56+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7719,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:24:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-63-tahun-2003-tentang-perlakuan-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 63 TAHUN 2003 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM"
+}

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -130,7 +134,26 @@
     "target_id": "pmk-171-2008"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 176/PMK.04/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 254/PMK.04/2011 tentang Pembebasan Bea Masuk atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor.",
+    "url": "https://jdih.kemenkeu.go.id/dok/176-pmk-04-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 16/PMK.011/2008 — Pembebasan Bea Masuk atas Impor Barang dan Bahan yang Akan Dirakit Menjadi Kendaraan Bermotor untuk Tujuan Ekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-011-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 149/PMK.04/2022 — Pembebasan Bea Masuk dan Tidak Dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -142,12 +165,24 @@
    "title_as_written": "PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "2018-12-17 00:00:00",
+   "number_as_written": "160/PMK.04/2018",
+   "page_retrieved_at": "2026-10-06T01:47:45+00:00",
+   "retrieved_at": "2026-09-21T14:25:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembebasan Bea Masuk dan Tidak Dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-04-2018",
+   "validity_as_written": "17 Des 2018 - 27 Nov 2022"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -157,6 +192,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=149",
+   "retrieved_at": "2026-09-21T14:25:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-04-2018",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

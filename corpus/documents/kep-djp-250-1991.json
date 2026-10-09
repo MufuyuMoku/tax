@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-250-1991",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "250",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-07-22",
+   "detail_error": null,
+   "number_as_written": "KEP - 250/PJ.52/1991",
+   "retrieved_at": "2026-10-06T06:07:49+00:00",
+   "source": "DJP",
+   "title_as_written": "JASA-JASA LAIN YANG BERKAITAN DENGAN PENCARIAN SUMBER-SUMBER DAN PEMBORAN MINYAK, GAS BUMI DAN PANAS BUMI YANG MENDAPAT PENUNDAAN PEMBAYARAN PPN SEBAGAIMANA DIMAKSUD DALAM KEPUTUSAN MENTERI KEUANGAN NOMOR 572/KMK.01/1989",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/jasa-jasa-lain-yang-berkaitan-dengan-pencarian-sumber-sumber-dan-pemboran-minyak-gas-bumi"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=469",
+   "retrieved_at": "2026-10-06T01:51:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jasa-jasa-lain-yang-berkaitan-dengan-pencarian-sumber-sumber-dan-pemboran-minyak-gas-bumi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "JASA-JASA LAIN YANG BERKAITAN DENGAN PENCARIAN SUMBER-SUMBER DAN PEMBORAN MINYAK, GAS BUMI DAN PANAS BUMI YANG MENDAPAT PENUNDAAN PEMBAYARAN PPN SEBAGAIMANA DIMAKSUD DALAM KEPUTUSAN MENTERI KEUANGAN NOMOR 572/KMK.01/1989"
+}

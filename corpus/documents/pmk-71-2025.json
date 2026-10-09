@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -44,10 +48,21 @@
    "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA ANGKUTAN UDARA NIAGA BERJADWAL DALAM NEGERI KELAS EKONOMI PADA PERIODE LIBUR NATAL DAN TAHUN BARU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2026",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-angkutan-udara-niaga-berjadwal-dalam-1"
+  },
+  {
+   "date_as_written": "2025-10-15 00:00:00",
+   "number_as_written": "PMK 71 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:42:27+00:00",
+   "retrieved_at": "2026-09-21T14:16:00+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Jasa Angkutan Udara Niaga Berjadwal Dalam Negeri Kelas Ekonomi pada Periode Libur Natal dan Tahun Baru yang Ditanggung Pemerintah Tahun Anggaran 2026",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-71-tahun-2025",
+   "validity_as_written": "15 Okt 2025 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -59,6 +74,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-angkutan-udara-niaga-berjadwal-dalam-1",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=11",
+   "retrieved_at": "2026-09-21T14:16:00+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-71-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

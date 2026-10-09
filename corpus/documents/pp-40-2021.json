@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -383,7 +387,20 @@
     "target_id": "pp-12-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 1 TAHUN 2020 — Penyelenggaraan Kawasan Ekonomi Khusus",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-1-tahun-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 12 TAHUN 2020 — Fasilitas dan Kemudahan di Kawasan Ekonomi Khusus",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-12-tahun-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -395,10 +412,21 @@
    "title_as_written": "PENYELENGGARAAN KAWASAN EKONOMI KHUSUS",
    "type_as_written": "Peraturan Pemerintah",
    "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-kawasan-ekonomi-khusus"
+  },
+  {
+   "date_as_written": "2021-02-02 00:00:00",
+   "number_as_written": "PP 40 TAHUN 2021",
+   "page_retrieved_at": "2026-10-06T01:36:44+00:00",
+   "retrieved_at": "2026-09-21T14:06:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyelenggaraan Kawasan Ekonomi Khusus",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-40-tahun-2021",
+   "validity_as_written": "02 Feb 2021 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -410,6 +438,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-kawasan-ekonomi-khusus",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=9",
+   "retrieved_at": "2026-09-21T14:06:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-40-tahun-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

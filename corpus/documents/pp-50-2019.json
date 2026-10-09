@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -42,7 +46,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pp-49-2022",
+    "key": [
+     "PP",
+     "49",
+     "2022",
+     null
+    ],
+    "number_as_written": "49 TAHUN 2022",
+    "quote": "Pasal 37 Pada saat Peraturan Pemerintah ini mulai berlaku: … d. Peraturan Pemerintah Nomor 50 Tahun 2019 tentang Impor dan Penyerahan Alat Angkutan Tertentu serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 6366), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI DIBEBASKAN DAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU DAN/ATAU PEMANFAATAN JASA KENA PAJAK TERTENTU DARI LUAR DAERAH PABEAN"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -98,7 +117,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 49/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

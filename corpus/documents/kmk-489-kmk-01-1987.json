@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-489-kmk-01-1987",
+ "identity": {
+  "code": "KMK",
+  "number": "489/KMK.01",
+  "variant": null,
+  "year": "1987"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1987-08-10",
+   "detail_error": null,
+   "number_as_written": "489/KMK.01/1987",
+   "retrieved_at": "2026-10-06T06:23:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 779/KMK.04/1986 TENTANG PELAKSANAAN KEPUTUSAN PRESIDEN RI NOMOR 30 TAHUN 1986 JO KEPUTUSAN PRESIDEN RI NOMOR 36 TAHUN 1986",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-republik-indonesia-nomor-779kmk041986-tentang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=480",
+   "retrieved_at": "2026-10-06T02:19:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-republik-indonesia-nomor-779kmk041986-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 779/KMK.04/1986 TENTANG PELAKSANAAN KEPUTUSAN PRESIDEN RI NOMOR 30 TAHUN 1986 JO KEPUTUSAN PRESIDEN RI NOMOR 36 TAHUN 1986"
+}

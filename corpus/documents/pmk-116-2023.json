@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-116-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "116",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-116-2023--b000-1",
+  "pmk-116-2023--b001-6",
+  "pmk-116-2023--b002-9",
+  "pmk-116-2023--b003-10",
+  "pmk-116-2023--b004-10a",
+  "pmk-116-2023--b005-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II",
+  "urutan_loncat:1->6,6->9"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "38",
+     "2023",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 38 TAHUN 2023",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 38 Tahun 2023 tentang Pajak Pertambahan Nilai atas Penyerahan Kendaraan Bermotor Listrik Berbasis Baterai Roda Empat Tertentu dan Kendaraan Bermotor Listrik Berbasis Baterai Bus Tertentu yang Ditanggung Pemerintah Tahun Anggaran 2023 (Berita Negara Republik Indonesia Tahun 2023 Nomor 288), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-38-2023"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 38 TAHUN 2023 — Pajak Pertambahan Nilai atas Penyerahan Kendaraan Bermotor Listrik Berbasis Baterai Roda Empat  Tertentu  dan  Kendaraan  Bermotor  Listrik Berbasis Baterai Bus Tertentu yang Ditanggung Pemerintah Tahun Anggaran 2023",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-38-tahun-2023"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-11-09",
+   "detail_error": null,
+   "number_as_written": "116 TAHUN 2023",
+   "retrieved_at": "2026-10-06T02:33:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 38 TAHUN 2023 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI RODA EMPAT TERTENTU DAN KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI BUS TERTENTU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2023",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-38-tahun-2023-tentang-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "2023-11-09 00:00:00",
+   "number_as_written": "PMK 116 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:50:34+00:00",
+   "retrieved_at": "2026-09-21T14:17:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Kendaraan Bermotor Listrik Berbasis Baterai Roda Empat Tertentu dan Kendaraan Bermotor Listrik Berbasis Baterai Bus Tertentu yang Ditanggung Pemerintah Tahun Anggaran 2023",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-116-tahun-2023",
+   "validity_as_written": "22 Nov 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=43",
+   "retrieved_at": "2026-10-05T07:37:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-38-tahun-2023-tentang-pajak-pertambahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=39",
+   "retrieved_at": "2026-09-21T14:17:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-116-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14584,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:33:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-38-tahun-2023-tentang-pajak-pertambahan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 38 TAHUN 2023 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI RODA EMPAT TERTENTU DAN KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI BUS TERTENTU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2023"
+}

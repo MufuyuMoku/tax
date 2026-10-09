@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -58,10 +62,21 @@
    "title_as_written": "FASILITAS PERPAJAKAN DAN KEPABEANAN DI IBU KOTA NUSANTARA",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/fasilitas-perpajakan-dan-kepabeanan-di-ibu-kota-nusantara"
+  },
+  {
+   "date_as_written": "2024-04-29 00:00:00",
+   "number_as_written": "PMK 28 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T14:47:11+00:00",
+   "retrieved_at": "2026-09-21T14:17:16+00:00",
+   "source": "JDIH",
+   "title_as_written": "Fasilitas Perpajakan dan Kepabeanan di Ibu Kota Nusantara",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-28-tahun-2024",
+   "validity_as_written": "16 Mei 2024 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -73,6 +88,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/fasilitas-perpajakan-dan-kepabeanan-di-ibu-kota-nusantara",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=30",
+   "retrieved_at": "2026-09-21T14:17:16+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-28-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

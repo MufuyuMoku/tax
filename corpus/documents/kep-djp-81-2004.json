@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-81-2004",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "81",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-14-2006",
+    "key": [
+     "PER-DJP",
+     "14",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-14/PJ./2006",
+    "quote": "Ketentuan Pasal 11 diubah dengan menambah satu angka, yaitu angka 5, sehingga keseluruhan Pasal 11 menjadi berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-81/PJ./2004 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA"
+   },
+   {
+    "id": "per-djp-4-2008",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2008",
+     null
+    ],
+    "number_as_written": "PER-4/PJ/2008",
+    "quote": "Ketentuan Pasal 9 diubah sehingga keseluruhan Pasal 9 menjadi berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-81/PJ./2004 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-04-29",
+   "detail_error": null,
+   "number_as_written": "KEP-81/PJ./2004",
+   "retrieved_at": "2026-10-06T04:30:35+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-produk-rekaman-suara"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=309",
+   "retrieved_at": "2026-10-05T14:22:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-produk-rekaman-suara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA"
+}

@@ -1,0 +1,133 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-121-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "121",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-121-2015--b000-1",
+  "pmk-121-2015--b001-2",
+  "pmk-121-2015--b002-4",
+  "pmk-121-2015--b003-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II",
+  "urutan_loncat:2->4"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "75",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 75/PMK.03/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 56/PMK.03/2015 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-75-2010"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 38/PMK.011/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/38-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 75/PMK.03/2010 — Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 71/PMK.03/2022 — Pajak Pertambahan Nilai atas Penyerahan Jasa Kena Pajak Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/71-pmk-03-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-06-24",
+   "detail_error": null,
+   "number_as_written": "121/PMK.03/2015",
+   "retrieved_at": "2026-10-06T03:30:43+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 75/PMK.03/2010 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-75pmk032010-tentang-nilai-lain"
+  },
+  {
+   "date_as_written": "2015-06-24 00:00:00",
+   "number_as_written": "121/PMK.03/2015",
+   "page_retrieved_at": "2026-10-06T02:18:42+00:00",
+   "retrieved_at": "2026-09-21T14:30:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai\r\nLain Sebagai Dasar Pengenaan Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-03-2015",
+   "validity_as_written": "24 Jun 2015 - 30 Mar 2022"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=167",
+   "retrieved_at": "2026-10-05T13:33:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-75pmk032010-tentang-nilai-lain",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=230",
+   "retrieved_at": "2026-09-21T14:30:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4695,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:30:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-75pmk032010-tentang-nilai-lain"
+ },
+ "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 75/PMK.03/2010 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK"
+}

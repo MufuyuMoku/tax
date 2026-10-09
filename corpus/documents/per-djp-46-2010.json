@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-46-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "46",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-46-2010--b000-1",
+  "per-djp-46-2010--b001-2",
+  "per-djp-46-2010--b002-3",
+  "per-djp-46-2010--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-10-20",
+   "detail_error": null,
+   "number_as_written": "PER-46/PJ/2010",
+   "retrieved_at": "2026-10-06T04:02:09+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN SURAT KETERANGAN BEBAS PAJAK PERTAMBAHAN NILAI ATAS IMPOR ATAU PENYERAHAN KAPAL UNTUK PERUSAHAAN PELAYARAN NIAGA NASIONAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-bebas-pajak-pertambahan-nilai-atas-impor-atau"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=215",
+   "retrieved_at": "2026-10-05T13:50:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-bebas-pajak-pertambahan-nilai-atas-impor-atau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5130,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:02:09+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-bebas-pajak-pertambahan-nilai-atas-impor-atau"
+ },
+ "title": "TATA CARA PEMBERIAN SURAT KETERANGAN BEBAS PAJAK PERTAMBAHAN NILAI ATAS IMPOR ATAU PENYERAHAN KAPAL UNTUK PERUSAHAAN PELAYARAN NIAGA NASIONAL"
+}

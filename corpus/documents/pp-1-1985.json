@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-1-1985",
+ "identity": {
+  "code": "PP",
+  "number": "1",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [
+  {
+   "code": "KEPPRES",
+   "id": "keppres-1-1985",
+   "note": "nomor, tahun, dan judul sama tetapi jenisnya berbeda antar sumber; kemungkinan satu peraturan yang sama, tidak digabungkan otomatis",
+   "title": "PENETAPAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984"
+  }
+ ],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-1-1985--b000-1",
+  "pp-1-1985--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-01-07",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 1985",
+   "retrieved_at": "2026-10-06T06:40:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=491",
+   "retrieved_at": "2026-10-06T02:23:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2149,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T06:40:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984-0"
+ },
+ "title": "PENETAPAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984"
+}

@@ -1,0 +1,106 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN PMK 18 TAHUN 2025.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "18",
+    "year": "2025"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%20PMK%2018%20TAHUN%202025.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-18-2025",
+ "identity": {
+  "code": "PMK",
+  "number": "18",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-18-2025--b000-1",
+  "pmk-18-2025--b001-2",
+  "pmk-18-2025--b002-3",
+  "pmk-18-2025--b003-4",
+  "pmk-18-2025--b004-5",
+  "pmk-18-2025--b005-6",
+  "pmk-18-2025--b006-7",
+  "pmk-18-2025--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-02-27",
+   "detail_error": null,
+   "number_as_written": "18 TAHUN 2025",
+   "retrieved_at": "2026-10-06T02:29:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA ANGKUTAN UDARA NIAGA BERJADWAL DALAM NEGERI KELAS EKONOMI YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2025",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-angkutan-udara-niaga-berjadwal-dalam-negeri"
+  },
+  {
+   "date_as_written": "2025-02-27 12:00:00",
+   "number_as_written": "PMK 18 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:45:09+00:00",
+   "retrieved_at": "2026-09-21T14:16:24+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Jasa Angkutan Udara Niaga Berjadwal dalam Negeri Kelas Ekonomi yang Ditanggung Pemerintah Tahun Anggaran 2025",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-18-tahun-2025",
+   "validity_as_written": "01 Mar 2025 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=22",
+   "retrieved_at": "2026-10-05T07:30:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-angkutan-udara-niaga-berjadwal-dalam-negeri",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=17",
+   "retrieved_at": "2026-09-21T14:16:24+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-18-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14456,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:29:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-angkutan-udara-niaga-berjadwal-dalam-negeri"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA ANGKUTAN UDARA NIAGA BERJADWAL DALAM NEGERI KELAS EKONOMI YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2025"
+}

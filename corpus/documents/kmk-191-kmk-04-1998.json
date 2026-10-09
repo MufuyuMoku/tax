@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-191-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "191/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-03-23",
+   "detail_error": null,
+   "number_as_written": "191/KMK.04/1998",
+   "retrieved_at": "2026-10-06T06:08:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 508/KMK.01/1995 TENTANG TATALAKSANA PEMBERIAN KEMUDAHAN PABEAN DAN PERPAJAKAN ATAS IMPOR DAN/ATAU PENYERAHAN KOMPONEN DAN/ATAU KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIPERGUNAKAN DALAM USAHA PERTAKSIAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-508kmk011995-tentang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=429",
+   "retrieved_at": "2026-10-06T02:16:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-508kmk011995-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 508/KMK.01/1995 TENTANG TATALAKSANA PEMBERIAN KEMUDAHAN PABEAN DAN PERPAJAKAN ATAS IMPOR DAN/ATAU PENYERAHAN KOMPONEN DAN/ATAU KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIPERGUNAKAN DALAM USAHA PERTAKSIAN"
+}

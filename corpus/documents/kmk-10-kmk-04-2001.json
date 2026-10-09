@@ -1,0 +1,150 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-10-kmk-04-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "10/KMK.04",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-370-kmk-03-2003",
+    "key": [
+     "KMK",
+     "370/KMK.03",
+     "2003",
+     null
+    ],
+    "number_as_written": "370/KMK.03/2003",
+    "quote": "Pasal 21 Pada saat Keputusan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Nomor 10/KMK.04/2001 tentang Pemberian Dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan Atas Impor Dan Atau Penyerahan Barang Kena Pajak Tertentu Dan Atau Penyerahan Jasa Kena Pajak Tertentu sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 63/KMK.03/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 478/KMK.04/1998 — Penetapan Makanan Ternak dan Unggas dan atau Bahan Baku Makanan Ternak dan Unggas Sebagai Barang Kena Pajak yang Bersifat Strategis untuk Keperluan Pembangunan Nasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/478-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 329/KMK.04/1999 — Penetapan Kapal, Pesawat Udara, Kereta Api Serta Suku Cadang dan Peralatan untuk Perbaikan/Pemeliharaannya Sebagai Barang Kena Pajak yang Bersifat Strategis untuk Pembangunan Nasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/329-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 397/KMK.04/1990 — Tatacara dan Tata Usaha Ppn Ditanggung Pemerintah atas  Impor Buku-Buku Pelajaran Umum, Kitab Suci dan Buku-Buku Pelajaran Agama",
+    "url": "https://jdih.kemenkeu.go.id/dok/397-kmk-04-1990"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 1086/KMK.00/1988 — Penetapan Barang Modal Tertentu yang Diimpor oleh Badan Usaha Jasa Pemboran dan Jasa Penunjang  Tertentu di Bidang Migas yang Didirikan dalam Rangka Uupma dan Uupmdn Sebagai Barang Kena Pajak Yg Mempunyai Nilai Strategis untuk Pembangunan Nasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/1086-kmk-00-1988"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 414/KMK.04/2000 — Penetapan Uang Kertas, Uang Logam Serta Bahan Baku untuk Pembuatan Uang Kertas dan Uang Logam, Barang Kena Pajak yang Bersifat Strategis untuk Keperluan Pembangunan Nasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/414-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 396/KMK.04/1990 — Batasan Buku-Buku Pelajaran Umum, Kitab Suci dan Buku-Buku Pelajaran Agama yang atas Impor dan Penyerahannya, Ppn-Nya Ditanggung Pemerintah",
+    "url": "https://jdih.kemenkeu.go.id/dok/396-kmk-04-1990"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 370/KMK.03/2003 — Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan  Jasa Kena Pajak Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/370-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 63/KMK.04/2002 — Perubahan atas Kepmenkeu No.10/KMK.04/2001 tentang Pemberian dan Penatausahaan Ppn Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan Kena Pajak Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/63-kmk-04-2002"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-01-12",
+   "detail_error": null,
+   "number_as_written": "10/KMK.04/2001",
+   "retrieved_at": "2026-10-06T05:14:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-dan-penatausahaan-pajak-pertambahan-nilai-dibebaskan-atas-impor-dan-atau"
+  },
+  {
+   "date_as_written": "2001-01-12 00:00:00",
+   "number_as_written": "10/KMK.04/2001",
+   "page_retrieved_at": "2026-10-06T03:22:12+00:00",
+   "retrieved_at": "2026-09-21T14:49:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan Jasa Kena Pajak Tertentu",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/10-kmk-04-2001",
+   "validity_as_written": "12 Jan 2001 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=376",
+   "retrieved_at": "2026-10-05T14:46:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-dan-penatausahaan-pajak-pertambahan-nilai-dibebaskan-atas-impor-dan-atau",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=38",
+   "retrieved_at": "2026-09-21T14:49:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/10-kmk-04-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU"
+}

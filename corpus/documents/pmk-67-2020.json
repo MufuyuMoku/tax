@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-67-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "67",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-67-2020--b000-1",
+  "pmk-67-2020--b001-2",
+  "pmk-67-2020--b002-3",
+  "pmk-67-2020--b003-4",
+  "pmk-67-2020--b004-5",
+  "pmk-67-2020--b005-6",
+  "pmk-67-2020--b006-7",
+  "pmk-67-2020--b007-7",
+  "pmk-67-2020--b008-9",
+  "pmk-67-2020--b009-10",
+  "pmk-67-2020--b010-11"
+ ],
+ "quality_flags": [
+  "urutan_loncat:7->7,7->9",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-06-15",
+   "detail_error": null,
+   "number_as_written": "67/PMK.03/2020",
+   "retrieved_at": "2026-10-06T03:14:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, SERTA PAJAK BUMI DAN BANGUNAN PADA KEGIATAN USAHA HULU MINYAK DAN GAS BUMI DENGAN KONTRAK BAGI HASIL GROSS SPLIT",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+  },
+  {
+   "date_as_written": "2020-06-15 00:00:00",
+   "number_as_written": "67/PMK.03/2020",
+   "page_retrieved_at": "2026-10-06T01:42:54+00:00",
+   "retrieved_at": "2026-09-21T14:22:57+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Pajak Bumi dan Bangunan pada Kegiatan Usaha Hulu Minyak dan Gas Bumi dengan Kontrak Bagi Hasil Gross Split",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/67-pmk-03-2020",
+   "validity_as_written": "15 Jun 2020 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=101",
+   "retrieved_at": "2026-10-05T13:08:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=114",
+   "retrieved_at": "2026-09-21T14:22:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/67-pmk-03-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19075,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:14:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+ },
+ "title": "PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, SERTA PAJAK BUMI DAN BANGUNAN PADA KEGIATAN USAHA HULU MINYAK DAN GAS BUMI DENGAN KONTRAK BAGI HASIL GROSS SPLIT"
+}

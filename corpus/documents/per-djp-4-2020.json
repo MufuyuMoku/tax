@@ -7,6 +7,10 @@
   },
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -99,6 +103,20 @@
   "amends": [],
   "revoked_by": [
    {
+    "id": "per-djp-3-2022",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2022",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak; … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "FAKTUR PAJAK"
+   },
+   {
     "id": "per-djp-7-2025",
     "key": [
      "PER-DJP",
@@ -168,7 +186,7 @@
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 3/2022, PER-DJP 7/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

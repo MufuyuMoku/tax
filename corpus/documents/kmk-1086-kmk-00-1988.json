@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1086-kmk-00-1988",
+ "identity": {
+  "code": "KMK",
+  "number": "1086/KMK.00",
+  "variant": null,
+  "year": "1988"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1988-11-02",
+   "detail_error": null,
+   "number_as_written": "1086/KMK.00/1988",
+   "retrieved_at": "2026-10-06T06:21:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BARANG MODAL TERTENTU YANG DIIMPOR OLEH BADAN USAHA JASA PEMBORAN DAN JASA PENUNJANG TERTENTU DI BIDANG MIGAS YANG DIDIRIKAN DALAM RANGKA UNDANG-UNDANG PENANAMAN MODAL ASING DAN PENANAMAN MODAL DALAM NEGERI SEBAGAI BARANG KENA PAJAK YANG MEMPUNYAI NILAI STRATEGIS UNTUK PEMBANGUNAN NASIONAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-barang-modal-tertentu-yang-diimpor-oleh-badan-usaha-jasa-pemboran-dan-jasa"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=479",
+   "retrieved_at": "2026-10-06T02:19:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-barang-modal-tertentu-yang-diimpor-oleh-badan-usaha-jasa-pemboran-dan-jasa",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN BARANG MODAL TERTENTU YANG DIIMPOR OLEH BADAN USAHA JASA PEMBORAN DAN JASA PENUNJANG TERTENTU DI BIDANG MIGAS YANG DIDIRIKAN DALAM RANGKA UNDANG-UNDANG PENANAMAN MODAL ASING DAN PENANAMAN MODAL DALAM NEGERI SEBAGAI BARANG KENA PAJAK YANG MEMPUNYAI NILAI STRATEGIS UNTUK PEMBANGUNAN NASIONAL"
+}

@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-164-kmk-04-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "164/KMK.04",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-04-04",
+   "detail_error": null,
+   "number_as_written": "164/KMK.04/2001",
+   "retrieved_at": "2026-10-06T05:12:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS IMPOR SUKU CADANG PESAWAT VVIP TNI AU YANG DIGUNAKAN UNTUK PERJALANAN PRESIDEN DAN WAKIL PRESIDEN REPUBLIK INDONESIA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-tidak-dipungut-atas-impor-suku-cadang-pesawat-vvip-tni-au-yang"
+  },
+  {
+   "date_as_written": "2001-04-04 00:00:00",
+   "number_as_written": "164/KMK.04/2001",
+   "page_retrieved_at": "2026-10-06T03:20:51+00:00",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Tidak Dipungut atas Impor Suku Cadang Pesawat Terbang Vvip Tni Au yang Digunakan untuk Perjalanan Presiden dan Wakil Presiden Republik Indonesia",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/164-kmk-04-2001",
+   "validity_as_written": "04 Apr 2001 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=371",
+   "retrieved_at": "2026-10-05T14:44:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-tidak-dipungut-atas-impor-suku-cadang-pesawat-vvip-tni-au-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=34",
+   "retrieved_at": "2026-09-21T14:49:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/164-kmk-04-2001",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS IMPOR SUKU CADANG PESAWAT VVIP TNI AU YANG DIGUNAKAN UNTUK PERJALANAN PRESIDEN DAN WAKIL PRESIDEN REPUBLIK INDONESIA"
+}

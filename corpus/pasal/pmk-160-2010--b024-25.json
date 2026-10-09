@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1455,
+ "document_id": "pmk-160-2010",
+ "document_number": "160/PMK.04/2010",
+ "document_title": "PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 160/PMK.04/2010 TENTANG NILAI PABEAN UNTUK PENGHITUNGAN BEA MASUK",
+ "id": "pmk-160-2010--b024-25",
+ "label": "25",
+ "order": 24,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 25\n(1)\nDatabase\nNilai Pabean I sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf a digunakan sebagai:\na.\nparameter dalam kegiatan pengujian kewajaran pemberitahuan nilai pabean;\nb.\nsalah satu data untuk penentuan dan penetapan nilai pabean secara\nofficial assessment;\nc.\nsalah satu data untuk penentuan dan penetapan kembali nilai pabean oleh Direktur Jenderal atau Pejabat Bea dan Cukai yang ditunjuk; dan/atau\nd.\nsalah satu data untuk penentuan dan penetapan nilai pabean oleh Pejabat Bea dan Cukai dengan menggunakan metode pengulangan\n(fallback)\n.\n(2)\nDatabase\nNilai Pabean II sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf b digunakan sebagai:\na.\ntest value\ndalam rangka identifikasi hubungan antara penjual dan pembeli yang mempengaruhi harga dalam hal pembeli tidak menyerahkan\ntest value;\nb.\nparameter dalam kegiatan pengujian kewajaran pemberitahuan nilai pabean dalam hal tidak ditemukan data pembanding pada\nDatabase\nNilai Pabean I; dan/atau\nc.\nsalah satu data untuk penentuan dan penetapan nilai pabean oleh Pejabat Bea dan Cukai dengan menggunakan nilai transaksi barang identik atau nilai transaksi barang serupa.\n(3)\nDatabase\nNilai Pabean sebagaimana dimaksud dalam Pasal 24 ayat (1) berlaku sejak tanggal awal berlaku yang tertera dalam sistem aplikasi\nDatabase\nNilai Pabean.\n(4)\nPenetapan pemberlakuan\nDatabase\nNilai Pabean ditetapkan oleh Direktur Jenderal atau Pejabat Bea dan Cukai yang ditunjuk.\nBagian Ketiga\nUji Kewajaran",
+ "text_source": {
+  "retrieved_at": "2026-10-06T04:02:53+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-republik-indonesia-nomor-160pmk042010-tentang-nilai-pabean"
+ }
+}

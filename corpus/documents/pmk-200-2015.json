@@ -7,6 +7,10 @@
   },
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -95,6 +99,16 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema"
   },
   {
+   "date_as_written": "2015-11-10",
+   "detail_error": null,
+   "number_as_written": "200/PMK.03/2015",
+   "retrieved_at": "2026-10-06T03:26:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN BAGI WAJIB PAJAK DAN PENGUSAHA KENA PAJAK YANG MENGGUNAKAN SKEMA KONTRAK INVESTASI KOLEKTIF TERTENTU DALAM RANGKA PENDALAMAN SEKTOR KEUANGAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema"
+  },
+  {
    "date_as_written": "2015-11-10 00:00:00",
    "number_as_written": "200/PMK.03/2015",
    "page_retrieved_at": "2026-10-05T14:24:52+00:00",
@@ -122,6 +136,14 @@
    "value_verbatim": "Aktif"
   },
   {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=161",
+   "retrieved_at": "2026-10-05T13:31:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=222",
    "retrieved_at": "2026-09-21T14:30:15+00:00",
    "source": "JDIH",
@@ -135,7 +157,15 @@
   "available": true,
   "chars": 18652,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 18652,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-06T03:26:56+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema"
+   }
+  ],
   "retrieved_at": "2026-09-22T02:22:44+00:00",
   "source": "DJP",
   "unavailable_reason": null,

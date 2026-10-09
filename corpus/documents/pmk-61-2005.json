@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -91,7 +95,32 @@
     "target_id": "kmk-346-kmk-04-1998"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 346/KMK.04/1998 — Perubahan Kepmenkeu No. 616/KMK.01/1996Tentang Pembebasan Bea Masuk dan Perlakuan Perpajakan dalam Rangka Pengembangan Pulau Bintan dan Pulau Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/346-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 616/KMK.01/1996 — Pembebasan Bea Masuk dan Perlakuan Perpajakan dalam Rangka Pengembangan Pulau Bintan dan Pulau Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/616-kmk-01-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 45/PMK.03/2009 — Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 02/PMK.011/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun.",
+    "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-011-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -103,10 +132,21 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN DALAM RANGKA PROYEK PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-dalam-rangka-proyek-pengembangan-pulau-bintan-dan"
+  },
+  {
+   "date_as_written": "2005-07-21 00:00:00",
+   "number_as_written": "61/PMK.03/2005",
+   "page_retrieved_at": "2026-10-06T03:10:37+00:00",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2005",
+   "validity_as_written": "21 Jul 2005 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -118,6 +158,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-dalam-rangka-proyek-pengembangan-pulau-bintan-dan",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=462",
+   "retrieved_at": "2026-09-21T14:46:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

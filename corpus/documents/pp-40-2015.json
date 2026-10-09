@@ -1,0 +1,180 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-40-2015",
+ "identity": {
+  "code": "PP",
+  "number": "40",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-40-2015--b000-1",
+  "pp-40-2015--b001-3",
+  "pp-40-2015--b002-4",
+  "pp-40-2015--b003-5",
+  "pp-40-2015--b004-6",
+  "pp-40-2015--b005-7",
+  "pp-40-2015--p006-1",
+  "pp-40-2015--p007-2",
+  "pp-40-2015--p008-3",
+  "pp-40-2015--p009-4",
+  "pp-40-2015--p010-5",
+  "pp-40-2015--p011-6",
+  "pp-40-2015--p012-7"
+ ],
+ "quality_flags": [
+  "urutan_loncat:1->3"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-58-2021",
+    "key": [
+     "PP",
+     "58",
+     "2021",
+     null
+    ],
+    "number_as_written": "58 TAHUN 2021",
+    "quote": "Ketentuan ayat (1) Pasal 3 diubah dan di antara ayat (1) dan ayat (2) disisipkan 2 (dua) ayat baru yakni ayat (la) dan ayat (1b) dalam Peraturan Pemerintah Nomor 40 Tahun 2015 tentang Penyerahan Air Bersih Yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 145, Tambahan Lembaran Negara Republik Indonesia Nomor 5707) sehingga Pasal 3 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 40 TAHUN 2015 TENTANG PENYERAHAN AIR BERSIH YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-49-2022",
+    "key": [
+     "PP",
+     "49",
+     "2022",
+     null
+    ],
+    "number_as_written": "49 TAHUN 2022",
+    "quote": "Pasal 37 Pada saat Peraturan Pemerintah ini mulai berlaku: … c. Peraturan Pemerintah Nomor 40 Tahun 2015 tentang Penyerahan Air Bersih yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 145, Tambahan Lembaran Negara Republik Indonesia Nomor 5707) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 58 Tahun 2021 tentang Perubahan atas Peraturan Pemerintah Nomor 40 Tahun 2015 tentang Penyerahan Air Bersih yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 6677); … d. Peraturan Pemerintah Nomor 50 Tahun 2019 tentang Impor dan Penyerahan Alat Angkutan Tertentu serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 6366), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI DIBEBASKAN DAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU DAN/ATAU PEMANFAATAN JASA KENA PAJAK TERTENTU DARI LUAR DAERAH PABEAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "12",
+     "2001",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 12 Tahun 2001",
+    "quote": "huruf g Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 24, Tambahan Lembaran Negara Republik Indonesia Nomor 4083) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 31 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 4726) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-12-2001"
+   },
+   {
+    "key": [
+     "PP",
+     "31",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 31 Tahun 2007",
+    "quote": "huruf g Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 24, Tambahan Lembaran Negara Republik Indonesia Nomor 4083) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 31 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 4726) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-31-2007"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : PP 12 TAHUN 2001 — Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-12-tahun-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 58 TAHUN 2021 — Perubahan atas Peraturan Pemerintah Nomor 40 Tahun 2015 tentang Penyerahan Air Bersih yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-58-tahun-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 49 TAHUN 2022 — Pajak Pertambahan Nilai Dibebaskan dan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Tidak Dipungut atas lmpor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu dan/atau Pemanfaatan Jasa Kena Pajak Tertentu dari luar Daerah Pabean",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-49-tahun-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-06-23",
+   "detail_error": null,
+   "number_as_written": "40 TAHUN 2015",
+   "retrieved_at": "2026-10-06T03:31:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYERAHAN AIR BERSIH YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-air-bersih-yang-dibebaskan-dari-pengenaan-pajak-pertambahan-nilai"
+  },
+  {
+   "date_as_written": "2015-06-23 00:00:00",
+   "number_as_written": "PP 40 TAHUN 2015",
+   "page_retrieved_at": "2026-10-06T02:19:02+00:00",
+   "retrieved_at": "2026-09-21T14:07:08+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyerahan Air Bersih yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-40-tahun-2015",
+   "validity_as_written": "23 Jun 2015 - 12 Des 2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 49/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=167",
+   "retrieved_at": "2026-10-05T13:33:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-air-bersih-yang-dibebaskan-dari-pengenaan-pajak-pertambahan-nilai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=23",
+   "retrieved_at": "2026-09-21T14:07:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-40-tahun-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6076,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:31:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyerahan-air-bersih-yang-dibebaskan-dari-pengenaan-pajak-pertambahan-nilai"
+ },
+ "title": "PENYERAHAN AIR BERSIH YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

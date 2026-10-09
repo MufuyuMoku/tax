@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-166-2005",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "166",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-166-2005--b000-1",
+  "per-djp-166-2005--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-12-16",
+   "detail_error": null,
+   "number_as_written": "PER - 166/PJ./2005",
+   "retrieved_at": "2026-10-06T04:22:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNDAAN BERLAKUNYA PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-145/PJ./2005 TENTANG BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-direktur-jenderal-pajak-nomor-145pj2005-tentang-bentuk-isi"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=285",
+   "retrieved_at": "2026-10-05T14:14:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-direktur-jenderal-pajak-nomor-145pj2005-tentang-bentuk-isi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4587,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:22:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-direktur-jenderal-pajak-nomor-145pj2005-tentang-bentuk-isi"
+ },
+ "title": "PENUNDAAN BERLAKUNYA PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-145/PJ./2005 TENTANG BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+}

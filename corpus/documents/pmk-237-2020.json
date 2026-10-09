@@ -15,6 +15,10 @@
   },
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -37,16 +41,99 @@
   "pmk-237-2020--b005-6",
   "pmk-237-2020--b006-7",
   "pmk-237-2020--b007-8",
-  "pmk-237-2020--b008-ii"
+  "pmk-237-2020--b008-9",
+  "pmk-237-2020--b009-10",
+  "pmk-237-2020--b010-11",
+  "pmk-237-2020--b011-12",
+  "pmk-237-2020--b012-13",
+  "pmk-237-2020--b013-14",
+  "pmk-237-2020--b014-15",
+  "pmk-237-2020--b015-16",
+  "pmk-237-2020--b016-17",
+  "pmk-237-2020--b017-18",
+  "pmk-237-2020--b018-19",
+  "pmk-237-2020--b019-20",
+  "pmk-237-2020--b020-21",
+  "pmk-237-2020--b021-22",
+  "pmk-237-2020--b022-23",
+  "pmk-237-2020--b023-24",
+  "pmk-237-2020--b024-25",
+  "pmk-237-2020--b025-26",
+  "pmk-237-2020--b026-27",
+  "pmk-237-2020--b027-28",
+  "pmk-237-2020--b028-29",
+  "pmk-237-2020--b029-30",
+  "pmk-237-2020--b030-31",
+  "pmk-237-2020--b031-32",
+  "pmk-237-2020--b032-33",
+  "pmk-237-2020--b033-34",
+  "pmk-237-2020--b034-35",
+  "pmk-237-2020--b035-36",
+  "pmk-237-2020--b036-37",
+  "pmk-237-2020--b037-38",
+  "pmk-237-2020--b038-39",
+  "pmk-237-2020--b039-40",
+  "pmk-237-2020--b040-41",
+  "pmk-237-2020--b041-42",
+  "pmk-237-2020--b042-43",
+  "pmk-237-2020--b043-44",
+  "pmk-237-2020--b044-45",
+  "pmk-237-2020--b045-46",
+  "pmk-237-2020--b046-47",
+  "pmk-237-2020--b047-48",
+  "pmk-237-2020--b048-49",
+  "pmk-237-2020--b049-50",
+  "pmk-237-2020--b050-51",
+  "pmk-237-2020--b051-52",
+  "pmk-237-2020--b052-53",
+  "pmk-237-2020--b053-54",
+  "pmk-237-2020--b054-55",
+  "pmk-237-2020--b055-56",
+  "pmk-237-2020--b056-57",
+  "pmk-237-2020--b057-58",
+  "pmk-237-2020--b058-59",
+  "pmk-237-2020--b059-60",
+  "pmk-237-2020--b060-61",
+  "pmk-237-2020--b061-62",
+  "pmk-237-2020--b062-63",
+  "pmk-237-2020--b063-64",
+  "pmk-237-2020--b064-65",
+  "pmk-237-2020--b065-66",
+  "pmk-237-2020--b066-67",
+  "pmk-237-2020--b067-68",
+  "pmk-237-2020--b068-69",
+  "pmk-237-2020--b069-70",
+  "pmk-237-2020--b070-71",
+  "pmk-237-2020--b071-72",
+  "pmk-237-2020--b072-73",
+  "pmk-237-2020--b073-74",
+  "pmk-237-2020--b074-75",
+  "pmk-237-2020--b075-76",
+  "pmk-237-2020--b076-77",
+  "pmk-237-2020--b077-78",
+  "pmk-237-2020--b078-79",
+  "pmk-237-2020--b079-80"
  ],
- "quality_flags": [
-  "anomali_romawi:II"
- ],
+ "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "104",
+     "2016",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 104/PMK.010/2016",
+    "quote": "Pasal 79 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 104/PMK.010/2016 tentang Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus (Berita Negara Republik Indonesia Tahun 2016 Nomor 997), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-104-2016"
+   }
+  ],
   "source_listed_related": [
    {
     "note": "jenis relasi menurut JDIH: Mencabut",
@@ -72,6 +159,16 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0"
+  },
+  {
+   "date_as_written": "2020-12-30",
+   "detail_error": null,
+   "number_as_written": "237/PMK.010/2020",
+   "retrieved_at": "2026-10-06T03:09:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-1"
   },
   {
    "date_as_written": "2020-12-30 00:00:00",
@@ -100,6 +197,14 @@
    "value_verbatim": "Aktif"
   },
   {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=89",
+   "retrieved_at": "2026-10-05T13:04:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=97",
    "retrieved_at": "2026-09-21T14:21:49+00:00",
    "source": "JDIH",
@@ -111,13 +216,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 31283,
+  "chars": 185727,
   "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-09-22T00:34:00+00:00",
+  "other_postings": [
+   {
+    "chars": 31283,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-09-22T00:34:00+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0"
+   }
+  ],
+  "retrieved_at": "2026-10-06T03:09:38+00:00",
   "source": "DJP",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-0"
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-kepabeanan-dan-cukai-pada-kawasan-ekonomi-khusus-1"
  },
  "title": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS"
 }

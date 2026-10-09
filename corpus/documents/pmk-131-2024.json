@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-131-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "131",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-131-2024--b000-1",
+  "pmk-131-2024--b001-2",
+  "pmk-131-2024--b002-3",
+  "pmk-131-2024--b003-4",
+  "pmk-131-2024--b004-5",
+  "pmk-131-2024--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-12-31",
+   "detail_error": null,
+   "number_as_written": "131 TAHUN 2024",
+   "retrieved_at": "2026-10-06T02:30:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR BARANG KENA PAJAK, PENYERAHAN BARANG KENA PAJAK, PENYERAHAN JASA KENA PAJAK, PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN, DAN PEMANFAATAN JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-atas-impor-barang-kena-pajak-penyerahan-barang-kena"
+  },
+  {
+   "date_as_written": "2024-12-31 00:00:00",
+   "number_as_written": "PMK 131 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T14:46:10+00:00",
+   "retrieved_at": "2026-09-21T14:16:32+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Pertambahan Nilai atas Impor Barang Kena Pajak, Penyerahan Barang Kena Pajak, Penyerahan Jasa Kena Pajak, Pemanfaatan Barang Kena Pajak Tidak Berwujud dari Luar Daerah Pabean di Dalam Daerah Pabean, dan Pemanfaatan Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-131-tahun-2024",
+   "validity_as_written": "01 Jan 2025 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=25",
+   "retrieved_at": "2026-10-05T07:31:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-atas-impor-barang-kena-pajak-penyerahan-barang-kena",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:16:32+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-131-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10229,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:30:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-atas-impor-barang-kena-pajak-penyerahan-barang-kena"
+ },
+ "title": "PERLAKUAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR BARANG KENA PAJAK, PENYERAHAN BARANG KENA PAJAK, PENYERAHAN JASA KENA PAJAK, PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN, DAN PEMANFAATAN JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN"
+}

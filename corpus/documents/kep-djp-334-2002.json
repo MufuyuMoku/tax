@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-334-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "334",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-128-2003",
+    "key": [
+     "KEP-DJP",
+     "128",
+     "2003",
+     null
+    ],
+    "number_as_written": "KEP-128/PJ./2003",
+    "quote": "Pasal 18 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-334/PJ./2002 tentang Penetapan Satu Tempat Atau Lebih Sebagai Tempat Terutang Pajak Pertambahan Nilai dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI BAGI WAJIB PAJAK SELAIN YANG TERDAFTAR DI KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-07-01",
+   "detail_error": null,
+   "number_as_written": "KEP - 334/PJ./2002",
+   "retrieved_at": "2026-10-06T04:48:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI BAGI WAJIB PAJAK SELAIN YANG TERDAFTAR DI KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-bagi"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=342",
+   "retrieved_at": "2026-10-05T14:34:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-bagi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI BAGI WAJIB PAJAK SELAIN YANG TERDAFTAR DI KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR"
+}

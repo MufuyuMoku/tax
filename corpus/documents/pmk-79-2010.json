@@ -1,0 +1,133 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-79-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "79",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-79-2010--b000-1",
+  "pmk-79-2010--b001-2",
+  "pmk-79-2010--b002-3",
+  "pmk-79-2010--b003-4",
+  "pmk-79-2010--b004-5",
+  "pmk-79-2010--b005-6",
+  "pmk-79-2010--b006-7",
+  "pmk-79-2010--b007-8",
+  "pmk-79-2010--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-30-2014",
+    "key": [
+     "PMK",
+     "30",
+     "2014",
+     null
+    ],
+    "number_as_written": "30/PMK.03/2014",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: … c. Ketentuan mengenai perlakuan Pajak Pertambahan Nilai atas penyerahan Emas Perhiasan sebagaimana dimaksud dalam Pasal 1 angka 4 huruf b, Pasal 3 huruf b, dan Pasal 5 huruf b Peraturan Menteri Keuangan Nomor 79/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Kegiatan Usaha Tertentu, dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN"
+   },
+   {
+    "id": "pmk-65-2022",
+    "key": [
+     "PMK",
+     "65",
+     "2022",
+     null
+    ],
+    "number_as_written": "65/PMK.03/2022",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 79/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Kegiatan Usaha Tertentu (Berita Negara Republik Indonesia Tahun 2010 Nomor 171), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN KENDARAAN BERMOTOR BEKAS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 65/PMK.03/2022 — Pajak Pertambahan Nilai atas Penyerahan Kendaraan Bermotor Bekas",
+    "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-04-05",
+   "detail_error": null,
+   "number_as_written": "79/PMK.03/2010",
+   "retrieved_at": "2026-10-06T04:03:35+00:00",
+   "source": "DJP",
+   "title_as_written": "TENTANG PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN KEGIATAN USAHA TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang"
+  },
+  {
+   "date_as_written": "2010-04-05 00:00:00",
+   "number_as_written": "79/PMK.03/2010",
+   "page_retrieved_at": "2026-10-06T02:57:58+00:00",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Kegiatan Usaha Tertentu.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/79-pmk-03-2010",
+   "validity_as_written": "05 Apr 2010 - 30 Mar 2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=217",
+   "retrieved_at": "2026-10-05T13:51:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=362",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/79-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8440,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:03:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tentang-pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang"
+ },
+ "title": "TENTANG PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN KEGIATAN USAHA TERTENTU"
+}

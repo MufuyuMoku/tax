@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -35,12 +39,24 @@
    "title_as_written": "ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/entrepot-produksi-untuk-tujuan-ekspor-epte-0"
+  },
+  {
+   "date_as_written": "1993-10-23 00:00:00",
+   "number_as_written": "855/KMK.01/1993",
+   "page_retrieved_at": "2026-10-06T03:54:10+00:00",
+   "retrieved_at": "2026-09-21T14:54:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Entrepot Produksi untuk Tujuan Ekspor.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/855-kmk-01-1993",
+   "validity_as_written": "23 Okt 1993 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "diubah_atau_dicabut_sebagian"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +66,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/entrepot-produksi-untuk-tujuan-ekspor-epte-0",
    "value_normalized": "diubah_atau_dicabut_sebagian",
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=112",
+   "retrieved_at": "2026-09-21T14:54:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/855-kmk-01-1993",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

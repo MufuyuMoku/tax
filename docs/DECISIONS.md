@@ -1096,3 +1096,109 @@ kartu), pilihan lanjutan: daftar dibangun dari data yang sama di sisi klien, ata
 **Alat ukur:** `scripts/measure-load.mjs` menunggu sampai navigasi benar-benar terjadi dan memeriksa
 kesiapan dengan polling. Sebelumnya, pada mesin yang sibuk, evaluasi dimulai di `about:blank` atau
 sebelum `#keadaan` terurai, dan hasilnya NaN.
+
+## K-071 — Nomor keputusan diperiksa otomatis
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
+
+**Masalah:** laporan sesi dan PROGRESS merujuk K-066 dan K-067, padahal keduanya tidak ada di berkas
+ini, karena perintah yang menulisnya gagal tanpa disadari (K-066, K-067).
+**Keputusan:** `scripts/cek-rujukan.mjs` memeriksa bahwa setiap K-xxx yang disebut ada sebagai judul
+di DECISIONS, bahwa judulnya tidak ganda, dan bahwa nomornya berurutan tanpa lompatan.
+`tests/dokumen/rujukan.test.mjs` menjalankannya atas seluruh berkas teks repo (dokumen, kode, tes,
+skrip; tanpa data hasil seperti `corpus/` dan `harvest/`) di setiap `npm test`. Laporan sesi tidak
+tinggal di repo; drafnya diperiksa dengan `node scripts/cek-rujukan.mjs <berkas>` sebelum dikirim.
+
+## K-072 — PPN masuk korpus (tahap 2 M5); median dibandingkan per himpunan pertanyaan yang sama
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
+
+**Keputusan:** `config.DJP_CATEGORIES = ["KUP", "PPN"]`, dengan aturan yang sama seperti KUP
+(K-060): label asal daftar, klaim status per sumber, klaim satu sumber ditulis apa adanya.
+**Hasil:** 2.614 dokumen: PPh 1.122, KUP 1.112, PPN 992 (PPN saja 644; PPN dan KUP 136; PPN dan
+PPh 134; ketiganya 78). Ke-1.017 alamat PPN dalam cakupan tercakup dalam 992 dokumen. PPN: 585
+berteks, 520 klaim DJP saja, 472 dengan klaim JDIH, 216 status tidak pasti. Korpus deterministik
+(20.968 berkas).
+**10 pertanyaan PPN** berkosakata awam masuk set evaluasi, masing-masing dengan pasal dan kutipan
+yang dicocokkan otomatis. Tiga di antaranya diberi jawaban alternatif sebelum garis dasar dicatat,
+karena hasil teratasnya ternyata jawaban yang sah dan kunci jawabannya kurang lengkap: PER-DJP 3/2022
+Pasal 3 (saat pembuatan faktur), PMK 131/2024 Pasal 2 (impor terutang PPN), PP 49/2022 Pasal 2 (PPN
+dibebaskan). Garis dasar (pengukuran pertama, sebelum padanan K-073): faktur pajak 1, PKP 146, batas
+omzet PKP 65, PPN impor 2, PPN digital 50, pajak masukan 21, barang bebas PPN 58, tarif 12% 3,
+bangun rumah sendiri 38, restitusi PPN 11.
+**Gerbang median:** acuan "semua" (8) diukur atas 35 pertanyaan; dengan 10 pertanyaan PPN baru,
+median 45 pertanyaan naik ke 11 tanpa satu pun pertanyaan lama memburuk karenanya. Karena itu tiap
+acuan kini berlaku untuk himpunan tempat ia diukur: `pph` (25 pertanyaan, 6), `pph_kup` (35, 8),
+`semua` (45; 6 setelah PPN dan padanan K-073, lalu 5 setelah jawaban sah restitusi K-075). Toleransi K-068 tidak berubah.
+
+## K-073 — Padanan kata untuk KUP dan PPN
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
+
+**Cara (K-030):** kandidat diusulkan dari kebutuhan set evaluasi, diuji satu per satu atas ke-45
+pertanyaan dengan `scripts/search-padanan.mjs`, yang mencatat jumlah kemunculan tiap bentuk di teks
+pasal dan setiap pertanyaan yang berubah peringkat. Set uji tahan tidak dimuat sama sekali.
+**Dimasukkan** (tidak ada pertanyaan yang memburuk, sendiri-sendiri maupun bersama): dicicil ~
+angsuran; hangus ~ daluwarsa; protes ~ keberatan; tunggakan ~ utang pajak; PPN pembelian ~ pajak
+masukan; PPN penjualan ~ pajak keluaran; bebas PPN ~ dibebaskan dari pengenaan PPN; bangun rumah
+sendiri ~ kegiatan membangun sendiri; streaming ~ jasa kena pajak dari luar daerah pabean; jadi PKP
+~ dikukuhkan sebagai PKP. Bukti kemunculan ada di `src/data/search/padanan.json`.
+**Hasil bersama:** angsuran tunggakan 57 → 4, daluwarsa penagihan 41 → 5, keberatan 17 → 6, surat
+teguran 3 → 2, batas omzet PKP 65 → 3, pajak masukan 21 → 3, bangun rumah sendiri 38 → 5, PPN
+digital 50 → 22, barang bebas PPN 58 → 49. Median 45 pertanyaan 11 → 6; 10 besar 19 → 28.
+**Ditolak:** diminta kembali ~ pengembalian (restitusi 114 → 164); tidak setuju ~ keberatan
+(keberatan 17 → 37); dikurangkan ~ dikreditkan (pajak luar negeri turun 1); luar negeri ~ luar
+daerah pabean (tiga pertanyaan turun, barang impor 2 → 20). **Tidak berpengaruh, tidak dimasukkan:**
+uang pajak kembali ~ pengembalian kelebihan pembayaran pajak, diperbaiki ~ pembetulan, mengaku ~
+mengungkapkan; tidak ada pertanyaan set evaluasi yang membutuhkannya.
+
+## K-074 — Halaman daftar ditampilkan bertahap, 100 kartu sekali
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (menggantikan saran lanjutan di K-070)
+
+**Masalah:** dengan PPN, 2.614 kartu (`index.html` 2,8 MB). Di 6x, hampir seluruh waktu sampai siap
+mencari adalah kerja gaya dan tata letak peramban untuk semua kartu, juga setelah `load`;
+`content-visibility` (K-070) tidak cukup.
+**Keputusan:** 100 kartu pertama ada di halaman; sisanya di `<template>`, ikut terunduh dan
+diuraikan tetapi tidak ditata. `src/lib/listing.js` memegang urutan, saringan, dan "Tampilkan lagi"
+untuk semua kartu; skrip urut dan `ui.js` sama-sama memakainya. Batas halaman tidak pernah
+memisahkan dua catatan satu peraturan. Fokus pindah ke kartu baru pertama setelah "Tampilkan lagi".
+Markup kartu satu komponen (`src/components/Kartu.astro`). Tanpa JavaScript, `/semua/` memuat
+seluruh daftar dalam satu halaman (invarian 3), ditautkan dari `<noscript>`.
+**Diukur** seperti K-070, dua putaran, laptop tenang (CPU < 3% di luar pengukuran):
+
+| PPh+KUP+PPN | Siap mencari 1x / 4x / 6x | DOMContentLoaded 6x |
+|---|---|---|
+| Sebelum (semua kartu, `content-visibility`) | 0,96–1,21 / 2,84–3,34 / 4,14–5,68 dtk | 1,23–1,31 dtk |
+| Sesudah (100 kartu + template) | 0,92 / 0,81–0,83 / 1,47–1,50 dtk | 1,05–1,08 dtk |
+
+Unduhan halaman tidak berubah (228 KB gzip). Diperiksa di browser: 100 → 200 kartu dengan "Tampilkan
+lagi", urutan atas seluruh 2.614 dokumen, saringan dari tautan `#kategori=PPN&jenis=PMK&dari=2020`
+memberi 112 dokumen, sama dengan hitungan langsung dari data; lebar 320 px tanpa gulir samping.
+
+## K-075 — Penurunan akibat PPN disetujui; jawaban sah lebih dari satu
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (keputusan pemilik)
+
+**Disetujui pemilik** (setelah padanan K-073): omzet UMKM 20 → 23 (5 dokumen ber-PPN tentang batas
+pengusaha kecil Rp4,8 miliar), makan siang kantor 90 → 146 (62 dokumen PPN-saja tentang makanan,
+minuman, dan jasa boga), zakat 13 → 28 (10 dokumen ber-PPN tentang pembebasan PPN barang keagamaan
+dan sosial), pajak luar negeri 7 → 16 (6 dokumen ber-PPN tentang perlakuan dari luar daerah pabean).
+Batasnya dicatat di `penurunan_disetujui`.
+**Jawaban sah lebih dari satu:** set evaluasi boleh punya lebih dari satu jawaban sah per pertanyaan
+bila jawaban itu benar-benar berlaku untuk pertanyaannya; peringkat yang dicatat adalah jawaban sah
+terbaik (begitulah `evaluate()` sejak awal). Setiap tambahan jawaban sah dicatat di sini:
+- 2026-10-09, `restitusi` ("kelebihan bayar pajak bisa diminta kembali"): KEP-DJP 28/1996 Pasal 4,
+  "Permohonan pengembalian kelebihan Pajak Masukan dapat disampaikan", atas permintaan pemilik,
+  karena pertanyaannya juga berlaku untuk restitusi PPN. Catatan: KEP-DJP 28/1996 berstatus tidak
+  berlaku menurut sumbernya; ia sah sebagai dokumen yang menjawab topiknya, bukan sebagai aturan yang
+  berlaku sekarang. Peringkat restitusi menjadi 3 (garis dasar 82), jadi penurunannya ke 114 tidak
+  lagi perlu persetujuan.
+- Tambahan saat pertanyaan PPN dibuat, sebelum garis dasarnya dicatat (K-072): `faktur-pajak`
+  (PER-DJP 3/2022 Pasal 3), `ppn-impor` (PMK 131/2024 Pasal 2), `barang-bebas-ppn` (PP 49/2022
+  Pasal 2).
+
+## K-076 — Masalah terbuka: pertanyaan sehari-hari tertimbun dokumen kategori lain
+Tanggal: 2026-10-09 · Milestone: M5 · Status: terbuka (usulan untuk sesi berikutnya)
+
+**Gejala:** setiap kali kategori bertambah, pertanyaan sehari-hari turun karena dokumen kategori lain
+yang memakai kata yang sama: jual rumah 10 → 51 (41 dokumen PPN tentang rumah tapak dan PPN DTP),
+makan siang kantor 90 → 146, zakat 13 → 28. Peringkatnya benar menurut kata, tetapi jawaban PPh yang
+dicari pembaca tertimbun. Masalah ini akan membesar di M7 (kategori lain).
+**Usulan (belum dikerjakan):** lihat laporan sesi 2026-10-09; ringkasnya, hasil dikelompokkan per
+kategori sehingga jawaban terbaik tiap kategori tampil di atas.

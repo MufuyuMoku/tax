@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-8-1995",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "8",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-02-06",
+   "detail_error": null,
+   "number_as_written": "8 TAHUN 1995",
+   "retrieved_at": "2026-10-06T05:51:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 41 TAHUN 1994",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-18-tahun-1986-tentang-pajak-pertambahan-nilai-1"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=453",
+   "retrieved_at": "2026-10-06T01:45:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-18-tahun-1986-tentang-pajak-pertambahan-nilai-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 41 TAHUN 1994"
+}

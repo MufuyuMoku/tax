@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-45-kmk-01-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "45/KMK.01",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-01-25",
+   "detail_error": null,
+   "number_as_written": "45/KMK.01/1996",
+   "retrieved_at": "2026-10-06T05:47:34+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN LAPORAN PENYERAHAN BARANG HASIL OLAHAN PRODUSEN PEMAKAI FASILITAS PEMBEBASAN DAN PERMOHONAN FASILITAS PENGEMBALIAN BEA MASUK DAN BEA MASUK TAMBAHAN ATAS PENYERAHAN BARANG DARI DAERAH PABEAN INDONESIA LAINNYA KE KAWASAN BERIKAT DAN ATAU ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-laporan-penyerahan-barang-hasil-olahan-produsen-pemakai-fasilitas"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=448",
+   "retrieved_at": "2026-10-06T01:43:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-laporan-penyerahan-barang-hasil-olahan-produsen-pemakai-fasilitas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENYAMPAIAN LAPORAN PENYERAHAN BARANG HASIL OLAHAN PRODUSEN PEMAKAI FASILITAS PEMBEBASAN DAN PERMOHONAN FASILITAS PENGEMBALIAN BEA MASUK DAN BEA MASUK TAMBAHAN ATAS PENYERAHAN BARANG DARI DAERAH PABEAN INDONESIA LAINNYA KE KAWASAN BERIKAT DAN ATAU ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR"
+}

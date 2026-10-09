@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -30,7 +34,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-8-2021",
+    "key": [
+     "PMK",
+     "8",
+     "2021",
+     null
+    ],
+    "number_as_written": "8/PMK.03/2021",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini berlaku: … 2. Peraturan Menteri Keuangan Nomor 37/PMK.03/2015 tentang Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2015 Nomor 345), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHANNILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN USAHA MILIK NEGARA DAN PERUSAHAAN TERTENTU YANG DIMILIKI SECARA LANGSUNG OLEH BADAN USAHA MILIK NEGARA SEBAGAI PEMUNGUT PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -66,7 +85,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 8/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -1,0 +1,128 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-754-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "754",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-754-2001--b000-1",
+  "kep-djp-754-2001--b001-2",
+  "kep-djp-754-2001--b002-3",
+  "kep-djp-754-2001--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2022",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2022",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "FAKTUR PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "345",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-345/PJ/2001",
+    "quote": "Pasal 4 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-345/PJ/2001 tentang Penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; 2. Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ/2001 tentang Penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; 3. Keputusan Direktur Jenderal Pajak Nomor KEP-637/PJ/2001 tentang penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; dan Ketentuan lain yang bertentangan dengan Keputusan Direktur Jenderal Pajak ini dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-345-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "503",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ/2001",
+    "quote": "Pasal 4 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku: … 2. Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ/2001 tentang Penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; 3. Keputusan Direktur Jenderal Pajak Nomor KEP-637/PJ/2001 tentang penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; dan Ketentuan lain yang bertentangan dengan Keputusan Direktur Jenderal Pajak ini dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-503-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "637",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-637/PJ/2001",
+    "quote": "Pasal 4 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku: … 3. Keputusan Direktur Jenderal Pajak Nomor KEP-637/PJ/2001 tentang penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; dan Ketentuan lain yang bertentangan dengan Keputusan Direktur Jenderal Pajak ini dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-637-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-12-26",
+   "detail_error": null,
+   "number_as_written": "KEP-754/PJ./2001",
+   "retrieved_at": "2026-10-06T05:02:06+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN KONFIRMASI FAKTUR PAJAK DENGAN APLIKASI SISTEM INFORMASI PERPAJAKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-konfirmasi-faktur-pajak-dengan-aplikasi-sistem-informasi-perpajakan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 3/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=356",
+   "retrieved_at": "2026-10-05T14:39:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-konfirmasi-faktur-pajak-dengan-aplikasi-sistem-informasi-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3283,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:02:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-konfirmasi-faktur-pajak-dengan-aplikasi-sistem-informasi-perpajakan"
+ },
+ "title": "TATA CARA PELAKSANAAN KONFIRMASI FAKTUR PAJAK DENGAN APLIKASI SISTEM INFORMASI PERPAJAKAN"
+}

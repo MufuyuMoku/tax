@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-460-kmk-03-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "460/KMK.03",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-460-kmk-03-2001--b000-i",
+  "kmk-460-kmk-03-2001--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "569/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 569/KMK.04/2000",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor : 569/KMK.04/2000tentang Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-569-kmk-04-2000"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-08-28",
+   "detail_error": null,
+   "number_as_written": "460/KMK.03/2001",
+   "retrieved_at": "2026-10-06T05:06:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 569/KMK.04/2000 TENTANG JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-569kmk042000-tentang-jenis-kendaraan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=362",
+   "retrieved_at": "2026-10-05T14:41:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-569kmk042000-tentang-jenis-kendaraan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10026,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:06:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-569kmk042000-tentang-jenis-kendaraan"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 569/KMK.04/2000 TENTANG JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

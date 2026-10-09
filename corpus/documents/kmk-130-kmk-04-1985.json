@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-130-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "130/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-01-23",
+   "detail_error": null,
+   "number_as_written": "130/KMK.04/1985",
+   "retrieved_at": "2026-10-06T06:39:27+00:00",
+   "source": "DJP",
+   "title_as_written": "DASAR PENGHITUNGAN, PEMUNGUTAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS HASIL TEMBAKAU BUATAN DALAM NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-hasil"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=491",
+   "retrieved_at": "2026-10-06T02:23:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-hasil",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "DASAR PENGHITUNGAN, PEMUNGUTAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS HASIL TEMBAKAU BUATAN DALAM NEGERI"
+}

@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-252-kmk-04-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "252/KMK.04",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-04-29",
+   "detail_error": null,
+   "number_as_written": "252/KMK.04/1998",
+   "retrieved_at": "2026-10-06T05:35:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK TERTENTU DALAM RANGKA PELAKSANAAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 37 TAHUN 1998",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-dan-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=426",
+   "retrieved_at": "2026-10-06T01:36:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-dan-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK TERTENTU DALAM RANGKA PELAKSANAAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 37 TAHUN 1998"
+}

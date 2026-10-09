@@ -1,0 +1,126 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK65PMK032022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "65",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK65PMK032022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-65-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "65",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-65-2022--b000-1",
+  "pmk-65-2022--b001-2",
+  "pmk-65-2022--b002-3",
+  "pmk-65-2022--b003-4",
+  "pmk-65-2022--b004-5",
+  "pmk-65-2022--b005-6",
+  "pmk-65-2022--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "79",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 79/PMK.03/2010",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 79/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Kegiatan Usaha Tertentu (Berita Negara Republik Indonesia Tahun 2010 Nomor 171), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-79-2010"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 79/PMK.03/2010 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Kegiatan Usaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/79-pmk-03-2010"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-30",
+   "detail_error": null,
+   "number_as_written": "65/PMK.03/2022",
+   "retrieved_at": "2026-10-06T02:58:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN KENDARAAN BERMOTOR BEKAS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-kendaraan-bermotor-bekas"
+  },
+  {
+   "date_as_written": "2022-03-30 00:00:00",
+   "number_as_written": "65/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T14:58:42+00:00",
+   "retrieved_at": "2026-09-21T14:19:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Kendaraan Bermotor Bekas",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2022",
+   "validity_as_written": "01 Apr 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=67",
+   "retrieved_at": "2026-10-05T07:45:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-kendaraan-bermotor-bekas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=67",
+   "retrieved_at": "2026-09-21T14:19:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10420,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:58:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-kendaraan-bermotor-bekas"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN KENDARAAN BERMOTOR BEKAS"
+}

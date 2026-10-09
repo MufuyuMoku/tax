@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-559-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "559/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-06-24",
+   "detail_error": null,
+   "number_as_written": "559/KMK.04/1986",
+   "retrieved_at": "2026-10-06T06:30:42+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBEBANAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI (PPN) ATAS PENYERAHAN BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK DALAM RANGKA PELAKSANAAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERHUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebanan-dan-penatausahaan-pajak-pertambahan-nilai-ppn-atas-penyerahan-barang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=485",
+   "retrieved_at": "2026-10-06T02:21:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebanan-dan-penatausahaan-pajak-pertambahan-nilai-ppn-atas-penyerahan-barang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMBEBANAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI (PPN) ATAS PENYERAHAN BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK DALAM RANGKA PELAKSANAAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERHUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH"
+}

@@ -1,0 +1,149 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-563-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "563/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-563-kmk-03-2003--b000-1",
+  "kmk-563-kmk-03-2003--b001-2",
+  "kmk-563-kmk-03-2003--b002-3",
+  "kmk-563-kmk-03-2003--b003-4",
+  "kmk-563-kmk-03-2003--b004-5",
+  "kmk-563-kmk-03-2003--b005-6",
+  "kmk-563-kmk-03-2003--b006-7",
+  "kmk-563-kmk-03-2003--b007-8",
+  "kmk-563-kmk-03-2003--b008-9",
+  "kmk-563-kmk-03-2003--b009-10",
+  "kmk-563-kmk-03-2003--b010-11",
+  "kmk-563-kmk-03-2003--b011-12",
+  "kmk-563-kmk-03-2003--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-231-2019",
+    "key": [
+     "PMK",
+     "231",
+     "2019",
+     null
+    ],
+    "number_as_written": "231/PMK.03/2019",
+    "quote": "Pasal 29 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 563/KMK.03/2003 tentang Penunjukan Bendaharawan Pemerintah dan Kantor Perbendaharaan dan Kas Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PEMOTONGAN DAN/ATAU PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK BAGI INSTANSI PEMERINTAH"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "547/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 547/KMK.04/2000",
+    "quote": "Pasal 12 Pada saat Keputusan Menteri Keuangan ini mulai berlaku: 1 Keputusan Menteri Keuangan Nomor 547/KMK.04/2000 tentang Penunjukan Bendaharawan Pemerintah, Badan-badan Tertentu, dan Instansi Pemerintah Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah; … 4 Keputusan Menteri Keuangan Nomor 550/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran,dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh KantorPerbendaharaan dan Kas Negara sebagai Pemungut Pajak Pertambahan Nilai, dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-547-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "548/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 548/KMK.04/2000",
+    "quote": "Pasal 12 Pada saat Keputusan Menteri Keuangan ini mulai berlaku: … 2 Keputusan Menteri Keuangan Nomor 548/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran,dan Pelaporan Pajak Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah olehBendaharawan Pemerintah sebagai Pemungut Pajak Pajak Pertambahan Nilai; 3 Keputusan Menteri Keuangan Nomor 549/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh Badan-badan Tertentu sebagai Pemungut Pajak Pertambahan Nilai; dan 4 Keputusan Menteri Keuangan Nomor 550/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran,dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh KantorPerbendaharaan dan Kas Negara sebagai Pemungut Pajak Pertambahan Nilai, dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-548-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "549/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 549/KMK.04/2000",
+    "quote": "Pasal 12 Pada saat Keputusan Menteri Keuangan ini mulai berlaku: … 3 Keputusan Menteri Keuangan Nomor 549/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh Badan-badan Tertentu sebagai Pemungut Pajak Pertambahan Nilai; dan 4 Keputusan Menteri Keuangan Nomor 550/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran,dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh KantorPerbendaharaan dan Kas Negara sebagai Pemungut Pajak Pertambahan Nilai, dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-549-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "550/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 550/KMK.04/2000",
+    "quote": "Pasal 12 Pada saat Keputusan Menteri Keuangan ini mulai berlaku: … 4 Keputusan Menteri Keuangan Nomor 550/KMK.04/2000 tentang Tata Cara Pemungutan, Penyetoran,dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh KantorPerbendaharaan dan Kas Negara sebagai Pemungut Pajak Pertambahan Nilai, dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-550-kmk-04-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-12-24",
+   "detail_error": null,
+   "number_as_written": "563/KMK.03/2003",
+   "retrieved_at": "2026-10-06T04:33:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN BENDAHARAWAN PEMERINTAH DAN KANTOR PERBENDAHARAAN DAN KAS NEGARA UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BESERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-bendaharawan-pemerintah-dan-kantor-perbendaharaan-dan-kas-negara-untuk"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=315",
+   "retrieved_at": "2026-10-05T14:24:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-bendaharawan-pemerintah-dan-kantor-perbendaharaan-dan-kas-negara-untuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10224,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:33:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-bendaharawan-pemerintah-dan-kantor-perbendaharaan-dan-kas-negara-untuk"
+ },
+ "title": "PENUNJUKAN BENDAHARAWAN PEMERINTAH DAN KANTOR PERBENDAHARAAN DAN KAS NEGARA UNTUK MEMUNGUT, MENYETOR, DAN MELAPORKAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BESERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORANNYA"
+}

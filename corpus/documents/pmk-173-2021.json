@@ -1,0 +1,195 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-173-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "173",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-173-2021--b000-1",
+  "pmk-173-2021--b001-2",
+  "pmk-173-2021--b002-3",
+  "pmk-173-2021--b003-4",
+  "pmk-173-2021--b004-5",
+  "pmk-173-2021--b005-6",
+  "pmk-173-2021--b006-7",
+  "pmk-173-2021--b007-8",
+  "pmk-173-2021--b008-9",
+  "pmk-173-2021--b009-10",
+  "pmk-173-2021--b010-11",
+  "pmk-173-2021--b011-12",
+  "pmk-173-2021--b012-13",
+  "pmk-173-2021--b013-14",
+  "pmk-173-2021--b014-15",
+  "pmk-173-2021--b015-16",
+  "pmk-173-2021--b016-17",
+  "pmk-173-2021--b017-18",
+  "pmk-173-2021--b018-19",
+  "pmk-173-2021--b019-20",
+  "pmk-173-2021--b020-21",
+  "pmk-173-2021--b021-22",
+  "pmk-173-2021--b022-23",
+  "pmk-173-2021--b023-24",
+  "pmk-173-2021--b024-25",
+  "pmk-173-2021--b025-26",
+  "pmk-173-2021--b026-27",
+  "pmk-173-2021--b027-28",
+  "pmk-173-2021--b028-29",
+  "pmk-173-2021--b029-30",
+  "pmk-173-2021--b030-31",
+  "pmk-173-2021--b031-32",
+  "pmk-173-2021--b032-33",
+  "pmk-173-2021--b033-34",
+  "pmk-173-2021--b034-35",
+  "pmk-173-2021--b035-36",
+  "pmk-173-2021--b036-37",
+  "pmk-173-2021--b037-38",
+  "pmk-173-2021--b038-39",
+  "pmk-173-2021--b039-40",
+  "pmk-173-2021--b040-41",
+  "pmk-173-2021--b041-42",
+  "pmk-173-2021--b042-43"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "62",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 62/PMK.03/2012",
+    "quote": "Pasal 42 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 62/PMK.03/2012 tentang Tata Cara Pengawasan, Pengadministrasian, Pembayaran, serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Kawasan Bebas ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Tempat Lain dalam Daerah Pabean ke Kawasan Bebas sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 171/PMK.03/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 62/PMK.03/2012 tentang Tata Cara Pengawasan, Pengadministrasian, Pembayaran, serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Kawasan Bebas ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Tempat Lain dalam Daerah Pabean ke Kawasan Bebas (Berita Negara Republik Indonesia Tahun 2017 Nomor 1678); … b. Peraturan Menteri Keuangan Nomor 41/PMK.03/2018 tentang Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Tidak Dipungut atas Penyerahan Barang Kena Pajak, Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang (Berita Negara Republik Indonesia Tahun 2018 Nomor 524), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-62-2012"
+   },
+   {
+    "key": [
+     "PMK",
+     "171",
+     "2017",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 171/PMK.03/2017",
+    "quote": "Pasal 42 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 62/PMK.03/2012 tentang Tata Cara Pengawasan, Pengadministrasian, Pembayaran, serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Kawasan Bebas ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Tempat Lain dalam Daerah Pabean ke Kawasan Bebas sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 171/PMK.03/2017 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 62/PMK.03/2012 tentang Tata Cara Pengawasan, Pengadministrasian, Pembayaran, serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Kawasan Bebas ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dari Tempat Lain dalam Daerah Pabean ke Kawasan Bebas (Berita Negara Republik Indonesia Tahun 2017 Nomor 1678); … b. Peraturan Menteri Keuangan Nomor 41/PMK.03/2018 tentang Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Tidak Dipungut atas Penyerahan Barang Kena Pajak, Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang (Berita Negara Republik Indonesia Tahun 2018 Nomor 524), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-171-2017"
+   },
+   {
+    "key": [
+     "PMK",
+     "41",
+     "2018",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 41/PMK.03/2018",
+    "quote": "Pasal 42 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 41/PMK.03/2018 tentang Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Tidak Dipungut atas Penyerahan Barang Kena Pajak, Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang (Berita Negara Republik Indonesia Tahun 2018 Nomor 524), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-41-2018"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 62/PMK.03/2012 — Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 171/PMK.03/2017 — Perubahan atas Peraturan Menteri Keuangan Nornor 62/PMK.03/2012 tentang Tata Cara\r\nPengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai Dan/ atau Pajak Penjualan atas Barang Mewah atas Pengeluaran Dan/ atau Penyerahan Barang Kena Pajak Dan/ atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain\r\nDalam Daerah Pabean dan Pemasukan Dan/ atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/171-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 41/PMK.03/2018 — Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan atas Barang Mewah Tidak Dipungut atas Penyerahan Barang Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Perdangangan Bebas dan Pelabuhan Bebas Sabang",
+    "url": "https://jdih.kemenkeu.go.id/dok/41-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-11-29",
+   "detail_error": null,
+   "number_as_written": "173/PMK.03/2021",
+   "retrieved_at": "2026-10-06T03:00:13+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN, PELUNASAN, DAN PENGADMINISTRASIAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI DAN/ATAU KE KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pelunasan-dan-pengadministrasian-pajak-pertambahan-nilai-atau-pajak"
+  },
+  {
+   "date_as_written": "2021-11-29 00:00:00",
+   "number_as_written": "173/PMK.03/2021",
+   "page_retrieved_at": "2026-10-05T15:01:05+00:00",
+   "retrieved_at": "2026-09-21T14:20:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran, Pelunasan, dan Pengadministrasian Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Penyerahan Barang Kena Pajak dan/ atau Jasa Kena Pajak dari dan/atau ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/173-pmk-03-2021",
+   "validity_as_written": "02 Feb 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=72",
+   "retrieved_at": "2026-10-05T07:47:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pelunasan-dan-pengadministrasian-pajak-pertambahan-nilai-atau-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=79",
+   "retrieved_at": "2026-09-21T14:20:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/173-pmk-03-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 86130,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:00:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pelunasan-dan-pengadministrasian-pajak-pertambahan-nilai-atau-pajak"
+ },
+ "title": "TATA CARA PEMBAYARAN, PELUNASAN, DAN PENGADMINISTRASIAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI DAN/ATAU KE KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS"
+}

@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -120,7 +124,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pp-85-2015",
+    "key": [
+     "PP",
+     "85",
+     "2015",
+     null
+    ],
+    "number_as_written": "85 TAHUN 2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 32 Tahun 2009 tentang Tempat Penimbunan Berikat (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 4998), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 32 TAHUN 2009 TENTANG TEMPAT PENIMBUNAN BERIKAT"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [

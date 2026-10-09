@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-461-kmk-05-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "461/KMK.05",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 259/PMK.04/2010 — Jaminan dalam Rangka Kepabeanan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/259-pmk-04-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 208/KMK.01/1999 — Perubahan Penggunaan Kepmenkeu Nomor 461/KMK.05/1997 tentang Penggunaan Customs Bond Sebagai Jaminan untuk Pembayaran Pungutan Bea Masuk, Cukai, Denda Administrasi dan Pajak dalam Rangka Impor",
+    "url": "https://jdih.kemenkeu.go.id/dok/208-kmk-01-1999"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-09-08",
+   "detail_error": null,
+   "number_as_written": "461/KMK.05/1997",
+   "retrieved_at": "2026-10-06T05:39:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGGUNAAN CUSTOMS BOND SEBAGAI JAMINAN PEMBAYARAN PUNGUTAN BEA MASUK, CUKAI, DENDA ADMINISTRASI, DAN PAJAK DALAM RANGKA IMPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-customs-bond-sebagai-jaminan-pembayaran-pungutan-bea-masuk-cukai-denda"
+  },
+  {
+   "date_as_written": "1997-09-08 00:00:00",
+   "number_as_written": "461/KMK.05/1997",
+   "page_retrieved_at": "2026-10-06T03:42:46+00:00",
+   "retrieved_at": "2026-09-21T14:52:25+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penggunaan Customs  Bond Sebagai Jaminan untuk Pembayaran Bea Masuk, Cukai, Denda Administrasi dan Pajak dalam Rangka Impor",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/461-kmk-05-1997",
+   "validity_as_written": "08 Sep 1997 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=439",
+   "retrieved_at": "2026-10-06T01:40:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penggunaan-customs-bond-sebagai-jaminan-pembayaran-pungutan-bea-masuk-cukai-denda",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=82",
+   "retrieved_at": "2026-09-21T14:52:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/461-kmk-05-1997",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGGUNAAN CUSTOMS BOND SEBAGAI JAMINAN PEMBAYARAN PUNGUTAN BEA MASUK, CUKAI, DENDA ADMINISTRASI, DAN PAJAK DALAM RANGKA IMPOR"
+}

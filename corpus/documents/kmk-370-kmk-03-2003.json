@@ -1,0 +1,187 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lamp_370_2003_.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lamp_370_2003_.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-370-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "370/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-370-kmk-03-2003--b000-1",
+  "kmk-370-kmk-03-2003--b001-2",
+  "kmk-370-kmk-03-2003--b002-3",
+  "kmk-370-kmk-03-2003--b003-4",
+  "kmk-370-kmk-03-2003--b004-5",
+  "kmk-370-kmk-03-2003--b005-6",
+  "kmk-370-kmk-03-2003--b006-7",
+  "kmk-370-kmk-03-2003--b007-8",
+  "kmk-370-kmk-03-2003--b008-9",
+  "kmk-370-kmk-03-2003--b009-10",
+  "kmk-370-kmk-03-2003--b010-11",
+  "kmk-370-kmk-03-2003--b011-12",
+  "kmk-370-kmk-03-2003--b012-13",
+  "kmk-370-kmk-03-2003--b013-14",
+  "kmk-370-kmk-03-2003--b014-15",
+  "kmk-370-kmk-03-2003--b015-16",
+  "kmk-370-kmk-03-2003--b016-17",
+  "kmk-370-kmk-03-2003--b017-18",
+  "kmk-370-kmk-03-2003--b018-19",
+  "kmk-370-kmk-03-2003--b019-20",
+  "kmk-370-kmk-03-2003--b020-21",
+  "kmk-370-kmk-03-2003--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-157-2023",
+    "key": [
+     "PMK",
+     "157",
+     "2023",
+     null
+    ],
+    "number_as_written": "157 TAHUN 2023",
+    "quote": "Pasal 18 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 370/KMK.03/2003 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan/ a tau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBEBASAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS DAN PENYERAHAN DI DALAM DAERAH PABEAN DAN/ATAU PEMANFAATAN DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN JASA KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS UNTUK KEPERLUAN PERTAHANAN DAN/ATAU KEAMANAN NEGARA"
+   },
+   {
+    "id": "pmk-193-2015",
+    "key": [
+     "PMK",
+     "193",
+     "2015",
+     null
+    ],
+    "number_as_written": "193/PMK.03/2015",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku: … e. ketentuan Pasal 6, Pasal 7, Pasal 8, dan Pasal 9, dalam Keputusan Menteri Keuangan Nomor 370/KMK.03/2003 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan Atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/ atau Penyerahan Jasa Kena Pajak Tertentu dan peraturan pelaksanaannya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN FASILITAS TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN ALAT ANGKUTAN TERTENTU DAN PENYERAHAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "10/KMK.04",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 10/KMK.04/2001",
+    "quote": "Pasal 21 Pada saat Keputusan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Nomor 10/KMK.04/2001 tentang Pemberian Dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan Atas Impor Dan Atau Penyerahan Barang Kena Pajak Tertentu Dan Atau Penyerahan Jasa Kena Pajak Tertentu sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 63/KMK.03/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-10-kmk-04-2001"
+   },
+   {
+    "key": [
+     "KMK",
+     "63/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 63/KMK.03/2002",
+    "quote": "Pasal 21 Pada saat Keputusan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Nomor 10/KMK.04/2001 tentang Pemberian Dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan Atas Impor Dan Atau Penyerahan Barang Kena Pajak Tertentu Dan Atau Penyerahan Jasa Kena Pajak Tertentu sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 63/KMK.03/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-63-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 10/KMK.04/2001 — Pemberian dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan Jasa Kena Pajak Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/10-kmk-04-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 193/PMK.03/2015 — Tata Cara Pemberian Fasilitas Tidak Dipungut Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/193-pmk-03-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-08-21",
+   "detail_error": null,
+   "number_as_written": "370/KMK.03/2003",
+   "retrieved_at": "2026-10-06T04:38:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pajak-pertambahan-nilai-yang-dibebaskan-atas-impor-danatau-penyerahan-barang"
+  },
+  {
+   "date_as_written": "2003-08-21 00:00:00",
+   "number_as_written": "370/KMK.03/2003",
+   "page_retrieved_at": "2026-10-06T03:16:04+00:00",
+   "retrieved_at": "2026-09-21T14:48:34+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan  Jasa Kena Pajak Tertentu.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/370-kmk-03-2003",
+   "validity_as_written": "21 Agu 2003 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 157/2023, PMK 193/2015 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=320",
+   "retrieved_at": "2026-10-05T14:26:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pajak-pertambahan-nilai-yang-dibebaskan-atas-impor-danatau-penyerahan-barang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=24",
+   "retrieved_at": "2026-09-21T14:48:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/370-kmk-03-2003",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26364,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:38:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pajak-pertambahan-nilai-yang-dibebaskan-atas-impor-danatau-penyerahan-barang"
+ },
+ "title": "PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU"
+}

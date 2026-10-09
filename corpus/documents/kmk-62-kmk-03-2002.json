@@ -1,0 +1,138 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-62-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "62/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-62-kmk-03-2002--b000-1",
+  "kmk-62-kmk-03-2002--b001-2",
+  "kmk-62-kmk-03-2002--b002-3",
+  "kmk-62-kmk-03-2002--b003-4",
+  "kmk-62-kmk-03-2002--b004-5",
+  "kmk-62-kmk-03-2002--b005-6",
+  "kmk-62-kmk-03-2002--b006-7",
+  "kmk-62-kmk-03-2002--b007-8",
+  "kmk-62-kmk-03-2002--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-174-2015",
+    "key": [
+     "PMK",
+     "174",
+     "2015",
+     null
+    ],
+    "number_as_written": "174/PMK.03/2015",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku Keputusan Menteri Keuangan Nomor 62/KMK.03/2002 tentang Dasar Penghitungan, Pemungutan, dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGHITUNGAN DAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "406/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Republik Indonesia Nomor 406/KMK.04/2000",
+    "quote": "Pasal 8 Pada saat Keputusan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Republik Indonesia Nomor 406/KMK.04/2000 tentang Dasar Penghitungan, Pemungutan, Penyetoran Pajak Pertambahan Nilai Atas Penyerahan Hasil Tembakau Buatan Dalam Negeri Atau Hasil Tembakau Buatan Luar Negeri dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-406-kmk-04-2000"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 406/KMK.04/2000 — Dasar Perhitungan, Pemungutan dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau Buatan dalam Negeri atau Impor Hasil Tembakau Buatan Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/406-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 174/PMK.03/2015 — Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau.",
+    "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-03-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-26",
+   "detail_error": null,
+   "number_as_written": "62/KMK.03/2002",
+   "retrieved_at": "2026-10-06T04:58:40+00:00",
+   "source": "DJP",
+   "title_as_written": "DASAR PENGHITUNGAN, PEMUNGUTAN, DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-penyerahan-0"
+  },
+  {
+   "date_as_written": "2002-02-26 00:00:00",
+   "number_as_written": "62/KMK.03/2002",
+   "page_retrieved_at": "2026-10-06T03:19:50+00:00",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Dasar Perhitungan, Pemungutan, dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-kmk-03-2002",
+   "validity_as_written": "26 Feb 2002 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=351",
+   "retrieved_at": "2026-10-05T14:38:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-penyerahan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=31",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-kmk-03-2002",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7092,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:58:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-penyerahan-0"
+ },
+ "title": "DASAR PENGHITUNGAN, PEMUNGUTAN, DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU"
+}

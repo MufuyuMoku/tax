@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-41-kmk-010-2005",
+ "identity": {
+  "code": "KMK",
+  "number": "41/KMK.010",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-01-27",
+   "detail_error": null,
+   "number_as_written": "41/KMK.010/2005",
+   "retrieved_at": "2026-10-06T04:27:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PEMBEBASAN BEA MASUK DAN PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS IMPOR 6.000 (ENAM RIBU) UNIT MESIN JAHIT DAN DINAMO MOTOR OLEH DEPARTEMEN SOSIAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-bea-masuk-dan-pajak-pertambahan-nilai-tidak-dipungut-atas-impor-6000"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=299",
+   "retrieved_at": "2026-10-05T14:19:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-bea-masuk-dan-pajak-pertambahan-nilai-tidak-dipungut-atas-impor-6000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PEMBEBASAN BEA MASUK DAN PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS IMPOR 6.000 (ENAM RIBU) UNIT MESIN JAHIT DAN DINAMO MOTOR OLEH DEPARTEMEN SOSIAL"
+}

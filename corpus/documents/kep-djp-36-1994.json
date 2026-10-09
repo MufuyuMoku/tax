@@ -19,23 +19,7 @@
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
-  "amended_by": [
-   {
-    "id": "kep-djp-1-1995",
-    "key": [
-     "KEP-DJP",
-     "1",
-     "1995",
-     null
-    ],
-    "number_as_written": "KEP - 01/PJ.24/1995",
-    "quote": "Mengubah Pasal 3 ayat (2) huruf b sehingga berbunyi sebagai berikut :",
-    "quote_excerpt": false,
-    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
-    "source_of_reading": "DJP",
-    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-36/PJ/1994 TENTANG PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC"
-   }
-  ],
+  "amended_by": [],
   "amends": [],
   "revoked_by": [],
   "revokes": [],

@@ -7,6 +7,10 @@
   },
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -85,7 +89,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-237-2020",
+    "key": [
+     "PMK",
+     "237",
+     "2020",
+     null
+    ],
+    "number_as_written": "237/PMK.010/2020",
+    "quote": "Pasal 79 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 104/PMK.010/2016 tentang Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus (Berita Negara Republik Indonesia Tahun 2016 Nomor 997), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -121,7 +140,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 237/2020 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -25,7 +25,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-70-2022",
+    "key": [
+     "PMK",
+     "70",
+     "2022",
+     null
+    ],
+    "number_as_written": "70/PMK.03/2022",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: … d. Peraturan Menteri Keuangan Nomor 158/PMK.010/2015 tentang Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1190), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KRITERIA DAN/ATAU RINCIAN MAKANAN DAN MINUMAN, JASA KESENIAN DAN HIBURAN, JASA PERHOTELAN, JASA PENYEDIAAN TEMPAT PARKIR, SERTA JASA BOGA ATAU KATERING, YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -42,9 +57,10 @@
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 70/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {

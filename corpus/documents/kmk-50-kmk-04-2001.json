@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-50-kmk-04-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "50/KMK.04",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 548/KMK.04/1997 — Pengenaan Pajak Pertambahan Nilai 0% (Nol Percent) yang Dipercepat atas Ekspor yang Dilakukan oleh Perusahaan Eksportir Tertentu dan Ketentuan-Ketentuan Mengenai Restitusinya",
+    "url": "https://jdih.kemenkeu.go.id/dok/548-kmk-04-1997"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-02-01",
+   "detail_error": null,
+   "number_as_written": "50/KMK.04/2001",
+   "retrieved_at": "2026-10-06T05:13:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 548/KMK.04/1997 TENTANG PENGENAAN PAJAK PERTAMBAHAN NILAI 0% (NOL PERSEN) YANG DIPERCEPAT ATAS EKSPOR YANG DILAKUKAN OLEH PERUSAHAAN EKSPORTIR TERTENTU DAN KETENTUAN-KETENTUAN MENGENAI PROSES RESTITUSINYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-republik-indonesia-nomor-548kmk041997-tentang"
+  },
+  {
+   "date_as_written": "2001-02-01 00:00:00",
+   "number_as_written": "50/KMK.04/2001",
+   "page_retrieved_at": "2026-10-06T03:21:52+00:00",
+   "retrieved_at": "2026-09-21T14:49:26+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Kepmenkeu No.548/KMK.04/1997 tentang Pengenaan Ppn 0% (Nol Persen) yang Dipercepat atas Ekspor yang Dilakukan oleh Perusahaan Eksportir Tertentu dan Ketentuan-Ketentuan Mengenai Proses Restitusinya",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/50-kmk-04-2001",
+   "validity_as_written": "01 Feb 2001 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=375",
+   "retrieved_at": "2026-10-05T14:46:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-republik-indonesia-nomor-548kmk041997-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:49:26+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/50-kmk-04-2001",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 548/KMK.04/1997 TENTANG PENGENAAN PAJAK PERTAMBAHAN NILAI 0% (NOL PERSEN) YANG DIPERCEPAT ATAS EKSPOR YANG DILAKUKAN OLEH PERUSAHAAN EKSPORTIR TERTENTU DAN KETENTUAN-KETENTUAN MENGENAI PROSES RESTITUSINYA"
+}

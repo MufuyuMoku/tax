@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-155-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "155",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-20",
+   "detail_error": null,
+   "number_as_written": "KEP - 155/PJ./2002",
+   "retrieved_at": "2026-10-06T04:56:34+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT LAIN SEBAGAI SAAT TERUTANGNYA PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN ATAU IMPOR BARANG KENA PAJAK YANG TERGOLONG MEWAH YANG DILAKUKAN PADA TANGGAL 1 JANUARI 2001 SAMPAI DENGAN TANGGAL 24 JANUARI 2001",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-lain-sebagai-saat-terutangnya-pajak-penjualan-atas-barang-mewah-atas-penyerahan-atau"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=349",
+   "retrieved_at": "2026-10-05T14:37:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-lain-sebagai-saat-terutangnya-pajak-penjualan-atas-barang-mewah-atas-penyerahan-atau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "SAAT LAIN SEBAGAI SAAT TERUTANGNYA PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN ATAU IMPOR BARANG KENA PAJAK YANG TERGOLONG MEWAH YANG DILAKUKAN PADA TANGGAL 1 JANUARI 2001 SAMPAI DENGAN TANGGAL 24 JANUARI 2001"
+}

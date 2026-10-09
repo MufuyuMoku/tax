@@ -1,0 +1,128 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-122-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "122",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-122-2013--b000-1",
+  "pmk-122-2013--b001-2",
+  "pmk-122-2013--b002-3",
+  "pmk-122-2013--b003-4",
+  "pmk-122-2013--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-5-2020",
+    "key": [
+     "PMK",
+     "5",
+     "2020",
+     null
+    ],
+    "number_as_written": "5/PMK.010/2020",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 122/PMK.011/2013 tentang Buku-Buku Pelajaran Umum, Kitab Suci, dan Buku-Buku Pelajaran Agama yang atas Impor dan/atau Penyerahannya Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2013 Nomor 1063), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BUKU PELAJARAN UMUM, KITAB SUCI, DAN BUKU PELAJARAN  AGAMA YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "353/KMK.03",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 353/KMK.03/2001",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 353/KMK.03/2001 tentang Batasan Buku-Buku Pelajaran Umum, Kitab Suci, dan Buku-Buku Pelajaran Agama yang Atas Impor dan/atau Penyerahannya Dibebaskan dari Pengenaan Pajak Pertambahan Nilai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-353-kmk-03-2001"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 5/PMK.010/2020 — Buku Pelajaran Umum, Kitab Suci, dan Buku Pelajaran Agama yang atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-010-2020"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-08-27",
+   "detail_error": null,
+   "number_as_written": "122/PMK.011/2013",
+   "retrieved_at": "2026-10-06T03:40:28+00:00",
+   "source": "DJP",
+   "title_as_written": "BUKU-BUKU PELAJARAN UMUM, KITAB SUCI, DAN BUKU-BUKU PELAJARAN AGAMA YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/buku-buku-pelajaran-umum-kitab-suci-dan-buku-buku-pelajaran-agama-yang-atas-impor-danatau"
+  },
+  {
+   "date_as_written": "2013-08-27 00:00:00",
+   "number_as_written": "122/PMK.011/2013",
+   "page_retrieved_at": "2026-10-06T02:25:30+00:00",
+   "retrieved_at": "2026-09-21T14:34:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Buku-Buku Pelajaran Umum, Kitab Suci, dan Buku-Buku Pelajaran Agama yang atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-011-2013",
+   "validity_as_written": "27 Agu 2013 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=191",
+   "retrieved_at": "2026-10-05T13:42:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/buku-buku-pelajaran-umum-kitab-suci-dan-buku-buku-pelajaran-agama-yang-atas-impor-danatau",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=281",
+   "retrieved_at": "2026-09-21T14:34:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-011-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7207,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:40:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/buku-buku-pelajaran-umum-kitab-suci-dan-buku-buku-pelajaran-agama-yang-atas-impor-danatau"
+ },
+ "title": "BUKU-BUKU PELAJARAN UMUM, KITAB SUCI, DAN BUKU-BUKU PELAJARAN AGAMA YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

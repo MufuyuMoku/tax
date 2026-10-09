@@ -1,6 +1,6 @@
 {
  "amendment_items": null,
- "chars": 258,
+ "chars": 922,
  "document_id": "kep-djp-1-1995",
  "document_number": "KEP - 01/PJ.24/1995",
  "document_title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-36/PJ/1994 TENTANG PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC",
@@ -11,10 +11,10 @@
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 1\nMengubah Pasal 3 ayat (2) huruf b sehingga berbunyi sebagai berikut :\n\"b. Wajib Pajak selain tersebut pada butir a yang telah mendapat izin emisi saham dan telah terdaftar pada Kantor Pelayanan Pajak lain, dilakukan pada bulan Februari setiap tahun\".",
+ "text": "Pasal 1\n(1)\nBatas maksimum kelebihan Pajak Masukan yang dapat dikembalikan pada setiap Masa Pajak yang disebabkan ekspor dan/atau penyerahan kepada Pemungut Pajak Pertambahan Nilai adalah 7% (tujuh persen) dari total nilai ekspor dan/atau penyerahan kepada Pemungut Pajak Pertambahan Nilai.\n(2)\nNilai Penyerahan kepada Pemungut Pajak Pertambahan Nilai sebagaimana dimaksud pada ayat (1) adalah harga jual dan/atau penggantian atas penyerahan kepada Pemungut Pajak Pertambahan Nilai yang Surat Setoran Pajaknya sudah dilampirkan dalam Surat Pemberitahuan Masa Pajak Pertambahan Nilai.\n(3)\nYang dimaksud dengan Surat Setoran Pajak yang sudah dilampirkan dalam Surat Pemberitahuan Masa Pajak Pertambahan Nilai sebagaimana dimaksud pada ayat (2) termasuk Surat Setoran Pajak atas penyerahan kepada Pemungut Pajak Pertambahan Nilai yang telah dilaporkan pada Masa Pajak sebelumnya yang Surat Setoran Pajaknya belum dilampirkan.",
  "text_source": {
-  "retrieved_at": "2026-10-05T07:03:57+00:00",
+  "retrieved_at": "2026-10-06T05:53:03+00:00",
   "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-36pj1994-tentang-pemindahan"
+  "url": "https://www.pajak.go.id/id/peraturan/penghitungan-dan-tata-cara-pengembalian-kelebihan-pajak-masukan"
  }
 }

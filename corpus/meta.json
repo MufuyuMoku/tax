@@ -1,20 +1,21 @@
 {
  "attachment_match_counts": {
-  "cocok": 108,
-  "tidak_cocok": 2,
-  "tidak_terverifikasi": 17
+  "cocok": 140,
+  "tidak_cocok": 3,
+  "tidak_terverifikasi": 27
  },
- "attachments": 127,
- "body_units": 13059,
+ "attachments": 170,
+ "body_units": 15979,
  "category_counts": {
   "KUP": 1112,
+  "PPN": 992,
   "PPh": 1122
  },
- "documents": 1970,
- "documents_with_quality_flags": 102,
- "documents_with_text": 1261,
- "documents_without_text": 709,
- "explanation_units": 1848,
+ "documents": 2614,
+ "documents_with_quality_flags": 129,
+ "documents_with_text": 1602,
+ "documents_without_text": 1012,
+ "explanation_units": 2373,
  "inputs": {
   "djp_detail.jsonl": "7e239109ca20f3bbe9ca99ede607c1d43a9cd88127910d3b8e5aed45ab56303d",
   "djp_list.jsonl": "22300b2a966502b9674f6fa47c026fad5ada9b5a38dd46a40940999142ea5fcb",
@@ -28,14 +29,14 @@
  },
  "note": "Dibangun dari arsip poc/ tanpa permintaan jaringan. Jalankan: python -m pipeline.build",
  "status_counts": {
-  "berlaku": 785,
-  "diubah_atau_dicabut_sebagian": 128,
-  "tidak_berlaku": 702,
-  "tidak_pasti": 355
+  "berlaku": 1019,
+  "diubah_atau_dicabut_sebagian": 146,
+  "tidak_berlaku": 949,
+  "tidak_pasti": 500
  },
  "structure_counts": {
-  "biasa": 911,
-  "diktum": 98,
-  "perubahan": 252
+  "biasa": 1154,
+  "diktum": 114,
+  "perubahan": 334
  }
 }

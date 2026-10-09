@@ -1,0 +1,131 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-93-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "93",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-93-2012--b000-1",
+  "pmk-93-2012--b001-2",
+  "pmk-93-2012--b002-3",
+  "pmk-93-2012--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "168/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 168/KMK.03/2002",
+    "quote": "Pasal 3 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 168/KMK.03/2002 tentang Penyerahan Jasa Pengiriman Surat dengan Perangko yang Tidak Dikenakan Pajak Pertambahan Nilai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-168-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-06-12",
+   "detail_error": null,
+   "number_as_written": "93/PMK.03/2012",
+   "retrieved_at": "2026-10-06T03:48:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYERAHAN JASA PENGIRIMAN SURAT DENGAN PRANGKO YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-jasa-pengiriman-surat-dengan-prangko-yang-tidak-dikenai-pajak-pertambahan-0"
+  },
+  {
+   "date_as_written": "2012-06-12",
+   "detail_error": null,
+   "number_as_written": "93/PMK.03/2012",
+   "retrieved_at": "2026-10-06T03:48:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYERAHAN JASA PENGIRIMAN SURAT DENGAN PRANGKO YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-jasa-pengiriman-surat-dengan-prangko-yang-tidak-dikenai-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "2012-06-12 00:00:00",
+   "number_as_written": "93/PMK.03/2012",
+   "page_retrieved_at": "2026-10-06T02:30:37+00:00",
+   "retrieved_at": "2026-09-21T14:36:20+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyerahan Jasa Pengiriman Surat dengan Prangko yang Tidak Dikenai Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/93-pmk-03-2012",
+   "validity_as_written": "12 Jun 2012 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=204",
+   "retrieved_at": "2026-10-05T13:46:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-jasa-pengiriman-surat-dengan-prangko-yang-tidak-dikenai-pajak-pertambahan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=204",
+   "retrieved_at": "2026-10-05T13:46:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-jasa-pengiriman-surat-dengan-prangko-yang-tidak-dikenai-pajak-pertambahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=309",
+   "retrieved_at": "2026-09-21T14:36:20+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/93-pmk-03-2012",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5959,
+  "format": "html",
+  "other_postings": [
+   {
+    "chars": 5959,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-06T03:48:08+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/penyerahan-jasa-pengiriman-surat-dengan-prangko-yang-tidak-dikenai-pajak-pertambahan-0"
+   }
+  ],
+  "retrieved_at": "2026-10-06T03:48:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyerahan-jasa-pengiriman-surat-dengan-prangko-yang-tidak-dikenai-pajak-pertambahan"
+ },
+ "title": "PENYERAHAN JASA PENGIRIMAN SURAT DENGAN PRANGKO YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+}

@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-615-kmk-01-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "615/KMK.01",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-12-01",
+   "detail_error": null,
+   "number_as_written": "615/KMK.01/1997",
+   "retrieved_at": "2026-10-06T05:38:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN DAN PENGEMBALIAN BEA MASUK DAN ATAU CUKAI SERTA PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR BARANG DAN ATAU BAHAN UNTUK DIOLAH, DIRAKIT ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR DAN PENGAWASANNYA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-dan-pengembalian-bea-masuk-dan-atau-cukai-serta-pajak-pertambahan-nilai-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=436",
+   "retrieved_at": "2026-10-06T01:39:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-dan-pengembalian-bea-masuk-dan-atau-cukai-serta-pajak-pertambahan-nilai-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBEBASAN DAN PENGEMBALIAN BEA MASUK DAN ATAU CUKAI SERTA PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR BARANG DAN ATAU BAHAN UNTUK DIOLAH, DIRAKIT ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR DAN PENGAWASANNYA"
+}

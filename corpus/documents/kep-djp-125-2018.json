@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-125-2018",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "125",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-125-2018--b000-kedua",
+  "kep-djp-125-2018--b001-ketiga",
+  "kep-djp-125-2018--b002-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-04-13",
+   "detail_error": null,
+   "number_as_written": "KEP-125/PJ/2018",
+   "retrieved_at": "2026-10-06T03:20:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUGASAN PEJABAT/PEGAWAI DIREKTORAT JENDERAL PAJAK DALAM RANGKA PENGAWASAN ATAS PEMASUKAN BARANG DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS BATAM, BINTAN, DAN KARIMUN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penugasan-pejabatpegawai-direktorat-jenderal-pajak-dalam-rangka-pengawasan-atas-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=132",
+   "retrieved_at": "2026-10-05T13:19:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penugasan-pejabatpegawai-direktorat-jenderal-pajak-dalam-rangka-pengawasan-atas-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5219,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:20:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penugasan-pejabatpegawai-direktorat-jenderal-pajak-dalam-rangka-pengawasan-atas-0"
+ },
+ "title": "PENUGASAN PEJABAT/PEGAWAI DIREKTORAT JENDERAL PAJAK DALAM RANGKA PENGAWASAN ATAS PEMASUKAN BARANG DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS BATAM, BINTAN, DAN KARIMUN"
+}

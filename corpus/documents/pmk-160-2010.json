@@ -1,0 +1,171 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-160-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "160",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-160-2010--b000-1",
+  "pmk-160-2010--b001-2",
+  "pmk-160-2010--b002-3",
+  "pmk-160-2010--b003-4",
+  "pmk-160-2010--b004-5",
+  "pmk-160-2010--b005-6",
+  "pmk-160-2010--b006-7",
+  "pmk-160-2010--b007-8",
+  "pmk-160-2010--b008-9",
+  "pmk-160-2010--b009-10",
+  "pmk-160-2010--b010-11",
+  "pmk-160-2010--b011-12",
+  "pmk-160-2010--b012-13",
+  "pmk-160-2010--b013-14",
+  "pmk-160-2010--b014-15",
+  "pmk-160-2010--b015-16",
+  "pmk-160-2010--b016-17",
+  "pmk-160-2010--b017-18",
+  "pmk-160-2010--b018-19",
+  "pmk-160-2010--b019-20",
+  "pmk-160-2010--b020-21",
+  "pmk-160-2010--b021-22",
+  "pmk-160-2010--b022-23",
+  "pmk-160-2010--b023-24",
+  "pmk-160-2010--b024-25",
+  "pmk-160-2010--b025-26",
+  "pmk-160-2010--b026-27",
+  "pmk-160-2010--b027-28",
+  "pmk-160-2010--b028-29",
+  "pmk-160-2010--b029-30",
+  "pmk-160-2010--b030-31",
+  "pmk-160-2010--b031-32",
+  "pmk-160-2010--b032-33",
+  "pmk-160-2010--b033-34",
+  "pmk-160-2010--b034-35",
+  "pmk-160-2010--b035-36",
+  "pmk-160-2010--b036-37",
+  "pmk-160-2010--b037-38"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "690/KMK.05",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 690/KMK.05/1996",
+    "quote": "Pasal 37 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Untuk pemberitahuan pabean impor dengan tanggal pendaftaran sebelum berlakunya Peraturan Menteri Keuangan ini, penentuan nilai pabean untuk penghitungan bea masuk menggunakan Keputusan Menteri Keuangan Nomor 690/KMK.05/1996 tentang Nilai Pabean Untuk Perhitungan Bea Masuk. 2. Keputusan Menteri Keuangan Nomor 690/KMK.05/1996 tentang Nilai Pabean Untuk Perhitungan Bea Masuk, dicabut dan dinyatakan tidak berlaku",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-690-kmk-05-1996"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 690/KMK.05/1996 — Nilai Pabean untuk Penghitungan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/690-kmk-05-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 51/PMK.04/2017 — Keberatan di Bidang Kepabeanan dan Cukai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/51-pmk-04-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 62/PMK.04/2018 — Perubahan Kedua atas Peraturan Menteri Keuangan\r\nNomor 160/PMK.04/2010 tentang Nilai Pabean Untuk\r\nPenghitungan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-04-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 34/PMK.04/2016 — Perubahan atas Peraturan Menteria Keuangan Nomor 160/PMK.04/2010 tentang Nilai Pabean untuk Perhitungan Bea Masuk.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-04-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 144/PMK.04/2022 — Nilai Pabean untuk Penghitungan Bea Masuk",
+    "url": "https://jdih.kemenkeu.go.id/dok/144-pmk-04-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-09-01",
+   "detail_error": null,
+   "number_as_written": "160/PMK.04/2010",
+   "retrieved_at": "2026-10-06T04:02:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 160/PMK.04/2010 TENTANG NILAI PABEAN UNTUK PENGHITUNGAN BEA MASUK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-republik-indonesia-nomor-160pmk042010-tentang-nilai-pabean"
+  },
+  {
+   "date_as_written": "2010-09-01 00:00:00",
+   "number_as_written": "160/PMK.04/2010",
+   "page_retrieved_at": "2026-10-06T02:57:17+00:00",
+   "retrieved_at": "2026-09-21T14:39:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Nilai Pabean untuk Penghitungan Bea Masuk.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-04-2010",
+   "validity_as_written": "01 Sep 2010 - 25 Okt 2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=216",
+   "retrieved_at": "2026-10-05T13:50:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-republik-indonesia-nomor-160pmk042010-tentang-nilai-pabean",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=354",
+   "retrieved_at": "2026-09-21T14:39:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-04-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 43990,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:02:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-republik-indonesia-nomor-160pmk042010-tentang-nilai-pabean"
+ },
+ "title": "PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 160/PMK.04/2010 TENTANG NILAI PABEAN UNTUK PENGHITUNGAN BEA MASUK"
+}

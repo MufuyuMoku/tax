@@ -1,0 +1,74 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-62-2015",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "62",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-62-2015--b000-kedua",
+  "kep-djp-62-2015--b001-ketiga",
+  "kep-djp-62-2015--b002-keempat",
+  "kep-djp-62-2015--b003-kelima",
+  "kep-djp-62-2015--b004-keenam",
+  "kep-djp-62-2015--b005-ketujuh"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-03-30",
+   "detail_error": null,
+   "number_as_written": "KEP-62/PJ/2015",
+   "retrieved_at": "2026-10-06T03:32:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PENGUSAHA KENA PAJAK YANG DIWAJIBKAN MEMBUAT FAKTUR PAJAK BERBENTUK ELEKTRONIK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-yang-diwajibkan-membuat-faktur-pajak-berbentuk-2"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=171",
+   "retrieved_at": "2026-10-05T13:35:12+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-yang-diwajibkan-membuat-faktur-pajak-berbentuk-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3781,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:32:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-pengusaha-kena-pajak-yang-diwajibkan-membuat-faktur-pajak-berbentuk-2"
+ },
+ "title": "PENETAPAN PENGUSAHA KENA PAJAK YANG DIWAJIBKAN MEMBUAT FAKTUR PAJAK BERBENTUK ELEKTRONIK"
+}

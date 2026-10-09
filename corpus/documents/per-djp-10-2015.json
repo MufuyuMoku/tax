@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -28,7 +32,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-16-2015",
+    "key": [
+     "PER-DJP",
+     "16",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-16/PJ/2015",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2015 tentang Tata Cara Pemungutan Pajak Pertambahan Nilai atas Penyerahan Jasa Jalan Tol dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-10/PJ/2015 TENTANG TATA CARA PEMUNGUTAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA JALAN TOL"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -35,6 +39,16 @@
    "title_as_written": "PEMUNGUTAN DAN ATAU PENYETORAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN PASAL 22 DALAM RANGKA IMPOR",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pemungutan-dan-atau-penyetoran-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah"
+  },
+  {
+   "date_as_written": "1989-04-06",
+   "detail_error": null,
+   "number_as_written": "322/KMK.01/1989",
+   "retrieved_at": "2026-10-06T06:16:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMUNGUTAN DAN ATAU PENYETORAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH DAN PAJAK PENGHASILAN PASAL 22 DALAM RANGKA IMPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/pemungutan-dan-atau-penyetoran-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah"
   }
  ],
  "status": {
@@ -48,6 +62,14 @@
    "retrieved_at": "2026-09-21T14:44:26+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/pemungutan-dan-atau-penyetoran-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=476",
+   "retrieved_at": "2026-10-06T02:18:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/pemungutan-dan-atau-penyetoran-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
   }

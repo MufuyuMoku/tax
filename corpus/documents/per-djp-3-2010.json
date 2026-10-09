@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2010--b000-1",
+  "per-djp-3-2010--b001-2",
+  "per-djp-3-2010--b002-3",
+  "per-djp-3-2010--b003-4",
+  "per-djp-3-2010--b004-5",
+  "per-djp-3-2010--b005-6",
+  "per-djp-3-2010--b006-7",
+  "per-djp-3-2010--b007-8",
+  "per-djp-3-2010--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-02-11",
+   "detail_error": null,
+   "number_as_written": "PER-3/PJ./2010",
+   "retrieved_at": "2026-10-06T04:06:22+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG KEMASAN SEDERHANA DI DALAM NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-yang-ditanggung-pemerintah-atas"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=222",
+   "retrieved_at": "2026-10-05T13:52:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-yang-ditanggung-pemerintah-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7970,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:06:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-yang-ditanggung-pemerintah-atas"
+ },
+ "title": "TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DITANGGUNG PEMERINTAH ATAS PENYERAHAN MINYAK GORENG KEMASAN SEDERHANA DI DALAM NEGERI"
+}

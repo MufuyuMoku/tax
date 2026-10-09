@@ -1,0 +1,139 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-15-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "15",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-15-2011--b000-i",
+  "pmk-15-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "580/KMK.04",
+     "2003",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 580/KMK.04/2003",
+    "quote": "Keputusan Menteri Keuangan Nomor 580/KMK.04/2003 tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: a. Nomor 36/PMK.04/2005; b. Nomor 111/PMK.010/2006, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-580-kmk-04-2003"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-254-2011",
+    "key": [
+     "PMK",
+     "254",
+     "2011",
+     null
+    ],
+    "number_as_written": "254/PMK.04/2011",
+    "quote": "Pasal 27 Dengan berlakunya Peraturan Menteri ini, berlaku ketentuan sebagai berikut: a. Terhadap badan usaha yang telah memiliki NIPER berdasarkan Keputusan Menteri Keuangan Nomor 580/KMK.04/2003 tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 15/PMK.011/2011, untuk memperoleh Pembebasan wajib mengajukan permohonan untuk memperoleh NIPER Pembebasan berdasarkan Peraturan Menteri ini dalam jangka waktu paling lama tanggal 31 Desember 2012. b. Dalam hal badan usaha tidak mengajukan permohonan NIPER Pembebasan sampai batas waktu sebagaimana dimaksud pada huruf a, NIPER yang telah dimiliki oleh badan usaha dibekukan sampai proses pencabutan selesai. c. Dalam hal NIPER dibekukan, ketentuan mengenai kewajiban badan usaha untuk melakukan realisasi Ekspor dan menyerahkan laporan pertanggung-jawaban tetap berlaku. d. Dalam hal NIPER … , untuk memperoleh Pembebasan wajib mengajukan permohonan untuk memperoleh NIPER Pembebasan berdasarkan Peraturan Menteri ini dalam jangka waktu paling lama tanggal 31 Desember 2012. b. Dalam hal badan usaha tidak mengajukan permohonan NIPER Pembebasan sampai batas waktu sebagaimana dimaksud pada huruf a, NIPER yang telah dimiliki oleh badan usaha dibekukan sampai proses pencabutan selesai. c. Dalam hal NIPER dibekukan, ketentuan mengenai kewajiban badan usaha untuk melakukan realisasi Ekspor dan menyerahkan laporan pertanggung-jawaban tetap berlaku. d. Dalam hal NIPER dicabut, jaminan atas Bahan Baku yang belum dipertanggungjawabkan dicairkan.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PEMBEBASAN BEA MASUK ATAS IMPOR BARANG DAN BAHAN UNTUK DIOLAH, DIRAKIT, ATAU DIPASANG PADA BARANG LAIN DENGAN TUJUAN UNTUK DIEKSPOR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 580/KMK.04/2003 — Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/580-kmk-04-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 111/PMK.010/2006 — Perubahan atas Keputusan Menteri Keuangan Nomor 580/KMK.04/2003 tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/111-pmk-010-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 253/PMK.04/2011 — Pengembalian Bea Masuk yang Telah Dibayar atas Impor Barang dan Bahan untuk Diolah, Dirakit, atau Dipasang pada Barang Lain dengan Tujuan untuk Diekspor.",
+    "url": "https://jdih.kemenkeu.go.id/dok/253-pmk-04-2011"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-01-24",
+   "detail_error": null,
+   "number_as_written": "15/PMK.011/2011",
+   "retrieved_at": "2026-10-06T03:56:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 580/KMK.04/2003 TENTANG TATALAKSANA KEMUDAHAN IMPOR TUJUAN EKSPOR DAN PENGAWASANNYA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-580kmk042003-tentang-tatalaksana"
+  },
+  {
+   "date_as_written": "2011-01-24 00:00:00",
+   "number_as_written": "15/PMK.011/2011",
+   "page_retrieved_at": "2026-10-06T02:55:13+00:00",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor 580/KMK.04/2003 tentang Tatalaksana Kemudahan Impor Tujuan Ekspor dan Pengawasannya.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-011-2011",
+   "validity_as_written": "24 Jan 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 254/2011 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=212",
+   "retrieved_at": "2026-10-05T13:49:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-580kmk042003-tentang-tatalaksana",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=342",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-011-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5677,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:56:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-580kmk042003-tentang-tatalaksana"
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 580/KMK.04/2003 TENTANG TATALAKSANA KEMUDAHAN IMPOR TUJUAN EKSPOR DAN PENGAWASANNYA"
+}

@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-5-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "5",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-5-2016--b000-i",
+  "pmk-5-2016--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "267",
+     "2015",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 267/PMK.010/2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 267/PMK.010/2015 tentang Kriteria dan/atau Rincian Ternak, Bahan Pakan Untuk Pembuatan Pakan Ternak dan Pakan Ikan Yang Atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-267-2015"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 267/PMK.010/2015 — Kriteria dan/atau Rincian Ternak, Bahan Pakan untuk Pembuatan Pakan Ternak Dan\r\nPakan Ikan yang atas Impor Dan/ atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/267-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 142/PMK.010/2017 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 267/PMK.010/2015 tentang Kriteria dan/atau Rincian Ternak, Bahan Pakan untuk Pembuatan Pakan Ternak dan Pakan Ikan yang atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak\r\nPertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-010-2017"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-01-26",
+   "detail_error": null,
+   "number_as_written": "5/PMK.010/2016",
+   "retrieved_at": "2026-10-06T03:23:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 267/PMK.010/2015 TENTANG KRITERIA DAN/ATAU RINCIAN TERNAK, BAHAN PAKAN UNTUK PEMBUATAN PAKAN TERNAK DAN PAKAN IKAN YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-267pmk0102015-tentang-kriteria-danatau"
+  },
+  {
+   "date_as_written": "2016-01-26 00:00:00",
+   "number_as_written": "5/PMK.010/2016",
+   "page_retrieved_at": "2026-10-06T01:50:10+00:00",
+   "retrieved_at": "2026-09-21T14:29:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 267 /PMK.010/2015 tentang Kriteria Dan/ atau Rincian Ternak, Bahan Pakan untuk Pembuatan Pakan Ternak dan Pakan Lkan yang atas Impor dan/atau Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-010-2016",
+   "validity_as_written": "26 Jan 2016 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=156",
+   "retrieved_at": "2026-10-05T13:29:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-267pmk0102015-tentang-kriteria-danatau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=214",
+   "retrieved_at": "2026-09-21T14:29:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-010-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3193,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:23:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-267pmk0102015-tentang-kriteria-danatau"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 267/PMK.010/2015 TENTANG KRITERIA DAN/ATAU RINCIAN TERNAK, BAHAN PAKAN UNTUK PEMBUATAN PAKAN TERNAK DAN PAKAN IKAN YANG ATAS IMPOR DAN/ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

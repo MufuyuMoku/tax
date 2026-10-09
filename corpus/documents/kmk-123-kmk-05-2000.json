@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -21,9 +25,31 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-174-2022",
+    "key": [
+     "PMK",
+     "174",
+     "2022",
+     null
+    ],
+    "number_as_written": "174/PMK.04/2022",
+    "quote": "Pasal 41 Pada saat Peraturan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 123/KMK.05/2000 tentang Entrepot untuk Tujuan Pameran, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TEMPAT PENYELENGGARAAN PAMERAN BERIKAT"
+   }
+  ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 174/PMK.04/2022 — Tempat Penyelenggaraan Pameran Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,12 +61,25 @@
    "title_as_written": "ENTREPOT UNTUK TUJUAN PAMERAN",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/entrepot-untuk-tujuan-pameran"
+  },
+  {
+   "date_as_written": "2000-04-11 00:00:00",
+   "number_as_written": "123/KMK.05/2000",
+   "page_retrieved_at": "2026-10-06T03:30:23+00:00",
+   "retrieved_at": "2026-09-21T14:50:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Entrepot untuk Tujuan Pameran",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/123-kmk-05-2000",
+   "validity_as_written": "11 Apr 2000 - 02 Des 2022"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 174/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +89,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/entrepot-untuk-tujuan-pameran",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=53",
+   "retrieved_at": "2026-09-21T14:50:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/123-kmk-05-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": null,

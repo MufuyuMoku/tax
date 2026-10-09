@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-50-2009-ralat",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "50",
+  "variant": "ralat",
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-09-25",
+   "detail_error": null,
+   "number_as_written": "PER-50/PJ./2009",
+   "retrieved_at": "2026-10-06T04:08:06+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-50/PJ./2009 TENTANG TATA CARA PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK DAN TATA CARA PENERBITAN SURAT KEPUTUSAN PEMUSATAN TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG BAGI PENGUSAHA KENA PAJAK YANG TEMPAT KEGIATAN USAHA ATAU TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG DI KAWASAN BEBAS",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-50pj2009-tentang-tata-cara-pencabutan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=224",
+   "retrieved_at": "2026-10-05T13:53:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-50pj2009-tentang-tata-cara-pencabutan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4311,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:08:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-50pj2009-tentang-tata-cara-pencabutan"
+ },
+ "title": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-50/PJ./2009 TENTANG TATA CARA PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK DAN TATA CARA PENERBITAN SURAT KEPUTUSAN PEMUSATAN TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG BAGI PENGUSAHA KENA PAJAK YANG TEMPAT KEGIATAN USAHA ATAU TEMPAT PAJAK PERTAMBAHAN NILAI TERUTANG DI KAWASAN BEBAS"
+}

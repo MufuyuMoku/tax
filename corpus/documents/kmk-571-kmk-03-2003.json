@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-571-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "571/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-571-kmk-03-2003--b000-1",
+  "kmk-571-kmk-03-2003--b001-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "552/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 552/KMK.04/2000",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 552/KMK.04/2000 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-552-kmk-04-2000"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-68-2010",
+    "key": [
+     "PMK",
+     "68",
+     "2010",
+     null
+    ],
+    "number_as_written": "68/PMK.03/2010",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 552/KMK.04/2000 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 571/KMK.03/2003, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BATASAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-12-29",
+   "detail_error": null,
+   "number_as_written": "571/KMK.03/2003",
+   "retrieved_at": "2026-10-06T04:32:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 552/KMK.04/2000 TENTANG BATASAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-552kmk042000-tentang-batasan-pengusaha"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=314",
+   "retrieved_at": "2026-10-05T14:24:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-552kmk042000-tentang-batasan-pengusaha",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3656,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:32:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-552kmk042000-tentang-batasan-pengusaha"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 552/KMK.04/2000 TENTANG BATASAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI"
+}

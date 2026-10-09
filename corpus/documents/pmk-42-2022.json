@@ -1,0 +1,107 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK42PMK0202022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "42",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK42PMK0202022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-42-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "42",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-42-2022--b000-i",
+  "pmk-42-2022--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 141/PMK.010/2021 — Penetapan Jenis Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengenaan, Pemberian dan\nPenatausahaan Pembebasan, dan Pengembalian Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-010-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-30",
+   "detail_error": null,
+   "number_as_written": "42/PMK.010/2022",
+   "retrieved_at": "2026-10-06T02:59:07+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 141/PMK.010/2021 TENTANG PENETAPAN JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGENAAN, PEMBERIAN DAN PENATAUSAHAAN PEMBEBASAN, DAN PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-141pmk0102021-tentang-penetapan-jenis"
+  },
+  {
+   "date_as_written": "2022-03-30 00:00:00",
+   "number_as_written": "42/PMK.010/2022",
+   "page_retrieved_at": "2026-10-05T14:59:43+00:00",
+   "retrieved_at": "2026-09-21T14:19:54+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 141/PMK.010/2021 tentang Penetapan Jenis Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengenaan, Pemberian dan Penatausahaan Pembebasan, dan Pengembalian Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/42-pmk-010-2022",
+   "validity_as_written": "01 Apr 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=67",
+   "retrieved_at": "2026-10-05T07:45:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-141pmk0102021-tentang-penetapan-jenis",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=70",
+   "retrieved_at": "2026-09-21T14:19:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/42-pmk-010-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10234,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:59:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-141pmk0102021-tentang-penetapan-jenis"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 141/PMK.010/2021 TENTANG PENETAPAN JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGENAAN, PEMBERIAN DAN PENATAUSAHAAN PEMBEBASAN, DAN PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

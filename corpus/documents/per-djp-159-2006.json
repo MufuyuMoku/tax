@@ -1,0 +1,140 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-159-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "159",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-159-2006--b000-1",
+  "per-djp-159-2006--b001-2",
+  "per-djp-159-2006--b002-3",
+  "per-djp-159-2006--b003-4",
+  "per-djp-159-2006--b004-5",
+  "per-djp-159-2006--b005-6",
+  "per-djp-159-2006--b006-7",
+  "per-djp-159-2006--b007-8",
+  "per-djp-159-2006--b008-9",
+  "per-djp-159-2006--b009-10",
+  "per-djp-159-2006--b010-11",
+  "per-djp-159-2006--b011-12",
+  "per-djp-159-2006--b012-13",
+  "per-djp-159-2006--b013-14",
+  "per-djp-159-2006--b014-15",
+  "per-djp-159-2006--b015-16",
+  "per-djp-159-2006--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-13-2010",
+    "key": [
+     "PER-DJP",
+     "13",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-13/PJ/2010",
+    "quote": "… b. Peraturan Direktur Jenderal Pajak Nomor PER-159/PJ./2006 tentang Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, dan Tata Cara Pembetulan Faktur Pajak Standar, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, UKURAN, PROSEDUR PEMBERITAHUAN DALAM RANGKA PEMBUATAN, TATA CARA PENGISIAN KETERANGAN, TATA CARA PEMBETULAN ATAU PENGGANTIAN, DAN TATA CARA PEMBATALAN FAKTUR PAJAK DIREKTUR JENDERAL PAJAK,"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "549",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-549/PJ./2000",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku : a. Keputusan Direktur Jenderal Pajak Nomor KEP-549/PJ./2000 tentang Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, dan Tata Cara Pembetulan Faktur Pajak Standar sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-59/PJ./2005; dan b. Keputusan Direktur Jenderal Pajak Nomor KEP-424/PJ./2002 tentang Penerbitan dan Pengkreditan Faktur Pajak yang Dibuat Tidak Tepat Waktu; dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-549-2000"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "59",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-59/PJ./2005",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku : a. Keputusan Direktur Jenderal Pajak Nomor KEP-549/PJ./2000 tentang Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, dan Tata Cara Pembetulan Faktur Pajak Standar sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-59/PJ./2005; dan b. Keputusan Direktur Jenderal Pajak Nomor KEP-424/PJ./2002 tentang Penerbitan dan Pengkreditan Faktur Pajak yang Dibuat Tidak Tepat Waktu; dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-59-2005"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "424",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-424/PJ./2002",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku : … b. Keputusan Direktur Jenderal Pajak Nomor KEP-424/PJ./2002 tentang Penerbitan dan Pengkreditan Faktur Pajak yang Dibuat Tidak Tepat Waktu; dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-424-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-10-31",
+   "detail_error": null,
+   "number_as_written": "PER-159/PJ./2006",
+   "retrieved_at": "2026-10-06T04:19:19+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-pembuatan-bentuk-ukuran-pengadaan-tata-cara-penyampaian-dan-tata-cara-pembetulan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=269",
+   "retrieved_at": "2026-10-05T14:09:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-pembuatan-bentuk-ukuran-pengadaan-tata-cara-penyampaian-dan-tata-cara-pembetulan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25825,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:19:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/saat-pembuatan-bentuk-ukuran-pengadaan-tata-cara-penyampaian-dan-tata-cara-pembetulan-0"
+ },
+ "title": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
+}

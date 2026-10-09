@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-55-2004",
+ "identity": {
+  "code": "PP",
+  "number": "55",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-55-2004--b000-i",
+  "pp-55-2004--b001-ii",
+  "pp-55-2004--p002-i",
+  "pp-55-2004--p003-1",
+  "pp-55-2004--p004-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "145",
+     "2000",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 145 TAHUN 2000",
+    "quote": "Mengubah ketentuan dalam Pasal 1 Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 261, Tambahan Lembaran Negara Republik Indonesia Nomor 4063) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 43 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 94, Tambahan Lembaran Negara Republik Indonesia Nomor 4312), sehingga keseluruhan Pasal 1 berbunyi sebagai berikut : Pasal 1 (1) Kelompok Barang Kena Pajak yang Tergolong Mewah selain kendaraan bermotor yang dikenakan Pajak Penjualan atas Barang Mewah dengan tarif sebesar 10% (sepuluh persen), adalah : a. dihapus;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-145-2000"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 145TAHUN2000 — Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-145tahun2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 43TAHUN2003 — Perubahan atas Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-43tahun2003"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-12-31",
+   "detail_error": null,
+   "number_as_written": "55 TAHUN 2004",
+   "retrieved_at": "2026-10-06T04:28:03+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KELIMA ATAS PERATURAN PEMERINTAH NOMOR 145 TAHUN 2000 TENTANG KELOMPOK BARANG KENA PAJAK YANG TERGOLONG MEWAH YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-pemerintah-nomor-145-tahun-2000-tentang-kelompok-barang"
+  },
+  {
+   "date_as_written": "2004-12-31 00:00:00",
+   "number_as_written": "PP 55 TAHUN 2004",
+   "page_retrieved_at": "2026-10-06T03:13:01+00:00",
+   "retrieved_at": "2026-09-21T14:11:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kelima atas Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjulana atas Barang Mewah.  Jakarat, 2004",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2004",
+   "validity_as_written": "31 Des 2004 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=300",
+   "retrieved_at": "2026-10-05T14:19:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-pemerintah-nomor-145-tahun-2000-tentang-kelompok-barang",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=82",
+   "retrieved_at": "2026-09-21T14:11:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2004",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 8279,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:28:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-peraturan-pemerintah-nomor-145-tahun-2000-tentang-kelompok-barang"
+ },
+ "title": "PERUBAHAN KELIMA ATAS PERATURAN PEMERINTAH NOMOR 145 TAHUN 2000 TENTANG KELOMPOK BARANG KENA PAJAK YANG TERGOLONG MEWAH YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

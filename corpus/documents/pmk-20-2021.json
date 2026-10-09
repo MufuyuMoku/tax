@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-20-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "20",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-20-2021--b000-1",
+  "pmk-20-2021--b001-2",
+  "pmk-20-2021--b002-3",
+  "pmk-20-2021--b003-4",
+  "pmk-20-2021--b004-5",
+  "pmk-20-2021--b005-6",
+  "pmk-20-2021--b006-7",
+  "pmk-20-2021--b007-8",
+  "pmk-20-2021--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-31-2021",
+    "key": [
+     "PMK",
+     "31",
+     "2021",
+     null
+    ],
+    "number_as_written": "31/PMK.010/2021",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 20/PMK.010/2021 tentang Pajak Penjualan atas Barang Mewah atas Penyerahan Barang Kena Pajak yang Tergolong Mewah berupa Kendaraan Bermotor Tertentu yang Ditanggung Pemerintah Tahun Anggaran 2021 (Berita Negara Republik Indonesia Tahun 2021 Nomor 176), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR TERTENTU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2021"
+   },
+   {
+    "id": "pmk-33-2021",
+    "key": [
+     "PMK",
+     "33",
+     "2021",
+     null
+    ],
+    "number_as_written": "33/PMK.10/2021",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 20/PMK.010/2021 tentang Pajak Penjualan atas Barang Mewah atas Penyerahan Barang Kena Pajak yang Tergolong Mewah berupa Kendaraan Bermotor Tertentu yang Ditanggung Pemerintah Tahun Anggaran 2021 (Berita Negara Republik Indonesia Tahun 2021 Nomor 176), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 237 /PMK.010/2020 TENTANG PERLAKUAN PERPAJAKAN, KEPABEANAN, DAN CUKAI PADA KAWASAN EKONOMI KHUSUS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 31/PMK.010/2021 — Pajak Penjualan Atas Barang Mewah Atas Penyerahan Barang Kena Pajak Yang Tergolong Mewah Berupa Kendaraan Bermotor Tertentu Yang Ditanggung Pemerintah Tahun Anggaran 2021",
+    "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-010-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-25",
+   "detail_error": null,
+   "number_as_written": "20/PMK.010/2021",
+   "retrieved_at": "2026-10-06T03:08:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR TERTENTU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2021",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena-pajak-yang-tergolong-mewah"
+  },
+  {
+   "date_as_written": "2021-02-25 00:00:00",
+   "number_as_written": "20/PMK.010/2021",
+   "page_retrieved_at": "2026-10-06T01:36:24+00:00",
+   "retrieved_at": "2026-09-21T14:21:37+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Penjualan Atas Barang Mewah Atas Penyerahan Barang Kena Pajak Yang Tergolong Mewah Berupa Kendaraan Bermotor Tertentu Yang Ditanggung Pemerintah Tahun Anggaran 2021",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/20-pmk-010-2021",
+   "validity_as_written": "26 Feb 2021 - 01 Apr 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 31/2021, PMK 33/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=86",
+   "retrieved_at": "2026-10-05T13:03:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena-pajak-yang-tergolong-mewah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=94",
+   "retrieved_at": "2026-09-21T14:21:37+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/20-pmk-010-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11387,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:08:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penjualan-atas-barang-mewah-atas-penyerahan-barang-kena-pajak-yang-tergolong-mewah"
+ },
+ "title": "PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENYERAHAN BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR TERTENTU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2021"
+}

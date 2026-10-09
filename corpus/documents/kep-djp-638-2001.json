@@ -1,0 +1,139 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-638-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "638",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-09-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 638/PJ./2001",
+   "retrieved_at": "2026-10-06T05:02:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai"
+  },
+  {
+   "date_as_written": "2001-09-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 638/PJ./2001",
+   "retrieved_at": "2026-10-06T05:03:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-4"
+  },
+  {
+   "date_as_written": "2001-09-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 638/PJ./2001",
+   "retrieved_at": "2026-10-06T05:03:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-3"
+  },
+  {
+   "date_as_written": "2001-09-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 638/PJ./2001",
+   "retrieved_at": "2026-10-06T05:03:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-2"
+  },
+  {
+   "date_as_written": "2001-09-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 638/PJ./2001",
+   "retrieved_at": "2026-10-06T05:04:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-1"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=359",
+   "retrieved_at": "2026-10-05T14:40:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=359",
+   "retrieved_at": "2026-10-05T14:40:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-4",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=359",
+   "retrieved_at": "2026-10-05T14:40:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=359",
+   "retrieved_at": "2026-10-05T14:40:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=359",
+   "retrieved_at": "2026-10-05T14:40:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-satu-tempat-atau-lebih-sebagai-tempat-terutang-pajak-pertambahan-nilai-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN SATU TEMPAT ATAU LEBIH SEBAGAI TEMPAT TERUTANG PAJAK PERTAMBAHAN NILAI"
+}

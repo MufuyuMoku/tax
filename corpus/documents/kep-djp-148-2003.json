@@ -21,7 +21,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2020",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2020",
+    "quote": "… i. Keputusan Direktur Jenderal Pajak Nomor KEP-148/PJ/2003 tentang Petunjuk Pengisian Nomor Pokok Wajib Pajak dalam Formulir Surat Setoran Pabean, Cukai, dan Pajak Dalam Rangka Impor; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },

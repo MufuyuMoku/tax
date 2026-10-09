@@ -7,6 +7,10 @@
   },
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -48,6 +52,20 @@
   "amended_by": [],
   "amends": [],
   "revoked_by": [
+   {
+    "id": "per-djp-3-2022",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2022",
+    "quote": "huruf a Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2020 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan, tetap dapat digunakan sampai dengan dicabutnya Keputusan Direktur Jenderal Pajak mengenai penetapan sebagai PKP yang menggunakan aplikasi e-Faktur Host-to-Host .",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "FAKTUR PAJAK"
+   },
    {
     "id": "per-djp-5-2025",
     "key": [
@@ -152,7 +170,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks PER-DJP 5/2025 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 3/2022, PER-DJP 5/2025 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

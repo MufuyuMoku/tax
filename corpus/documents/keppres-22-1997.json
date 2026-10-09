@@ -1,0 +1,188 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-22-1997",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "22",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai-barang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN TARIF BEA METERAI",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN BESARNYA NILAI JUAL KENA PAJAK UNTUK PENGHITUNGAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-nilai-jual-kena-pajak-untuk-penghitungan-pajak-bumi-dan-bangunan-2"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 42 TAHUN 1995",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-18-tahun-1986-tentang-pajak-pertambahan-nilai-2"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENYITAAN KEKAYAAN PENANGGUNG PAJAK BERUPA PIUTANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyitaan-kekayaan-penanggung-pajak-berupa-piutang-dalam-rangka-penagihan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYETORAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 28 JULI SAMPAI DENGAN 3 AGUSTUS 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-247"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK/PAJAK PENGHASILAN UNTUK TANGGAL 13 SAMPAI DENGAN 30 SEPTEMBER 1986",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masukpajak-penghasilan-untuk-tanggal-13-sampai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN JANUARI, FEBRUARI DAN MARET 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-266"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN JULI, AGUSTUS, DAN SEPTEMBER 1992",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-276"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PERPAJAKAN ATAS PENYEDIAAN MAKANAN DAN MINUMAN BAGI SELURUH PEGAWAI DAN PENGGANTIAN ATAU IMBALAN SEHUBUNGAN DENGAN PEKERJAAN ATAU JASA YANG DIBERIKAN DALAM BENTUK NATURA DAN KENIKMATAN DI DAERAH TERTENTU SERTA YANG BERKAITAN DENGAN PELAKSANAAN PEKERJAAN YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO PEMBERI KERJA",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-atas-penyediaan-makanan-dan-minuman-bagi-seluruh-pegawai-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-fiskal"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN KEPUTUSAN KEPUTUSAN MENTERI KEUANGAN NOMOR 253/KMK.03/2002 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN BARANG DAGANGAN OLEH PEDAGANG ECERAN SELAIN YANG MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-keputusan-keputusan-menteri-keuangan-nomor-253kmk032002-tentang-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERPANJANGAN TIM KOMPILASI PENYUSUNAN BUKU URAIAN JABATAN DAN BUKU PETUNJUK PELAKSANAAN PEKERJAAN (PROSEDUR KERJA) KANTOR PUSAT DIREKTORAT JENDERAL PAJAK, KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK, KANTOR PELAYANAN PAJAK, KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN, KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK, DAN KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perpanjangan-tim-kompilasi-penyusunan-buku-uraian-jabatan-dan-buku-petunjuk-pelaksanaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN DASAR PENGENAAN PAJAK UNTUK MENGHITUNG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN REKAMAN VIDEO",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-pengenaan-pajak-untuk-menghitung-pajak-pertambahan-nilai-atas-3"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "SISTEM KRITERIA SPT UNTUK DIPERIKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/sistem-kriteria-spt-untuk-diperiksa"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI YANG TERHUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terhutang-atas-impor-dan-penyerahan-barang-kena-pajak-dan"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-06-13",
+   "detail_error": null,
+   "number_as_written": "22 TAHUN 1997",
+   "retrieved_at": "2026-10-06T05:40:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 4 TAHUN 1996",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-18-tahun-1986-tentang-pajak-pertambahan-nilai-3"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=440",
+   "retrieved_at": "2026-10-06T01:40:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-18-tahun-1986-tentang-pajak-pertambahan-nilai-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 4 TAHUN 1996"
+}

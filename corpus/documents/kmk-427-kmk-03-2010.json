@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-427-kmk-03-2010",
+ "identity": {
+  "code": "KMK",
+  "number": "427/KMK.03",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-427-kmk-03-2010--b000-kedua"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-134-km-3-2020",
+    "key": [
+     "KMK",
+     "134/KM.3",
+     "2020",
+     null
+    ],
+    "number_as_written": "134/KM.3/2020",
+    "quote": "KEDUA : Pada saat Keputusan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 427/KMK.03/2010 tentang Penetapan Bandar Udara yang Memberikan Pelayanan Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri, yang menetapkan Bandar Udara Adisutjipto, Yogyakarta sebagai bandar udara yang memberikan pelayanan permintaan kembali Pajak Pertambahan Nilai atas Barang Bawaan Turis Asing, dicabut dan dinyatakan tidak belaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN BANDAR UDARA INTERNASIONAL YOGYAKARTA DI KABUPATEN KULON PROGO, PROVINSI DAERAH ISTIMEWA YOGYAKARTA SEBAGAI BANDAR UDARA YANG MEMBERIKAN PELAYANAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI ATAS BARANG BAWAAN TURIS ASING"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-11-02",
+   "detail_error": null,
+   "number_as_written": "427/KMK.03/2010",
+   "retrieved_at": "2026-10-06T04:01:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BANDAR UDARA YANG MEMBERIKAN PELAYANAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bandar-udara-yang-memberikan-pelayanan-permintaan-kembali-pajak-pertambahan-0"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks KMK 134/KM.3/2020 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=215",
+   "retrieved_at": "2026-10-05T13:50:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bandar-udara-yang-memberikan-pelayanan-permintaan-kembali-pajak-pertambahan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3516,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:01:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-bandar-udara-yang-memberikan-pelayanan-permintaan-kembali-pajak-pertambahan-0"
+ },
+ "title": "PENETAPAN BANDAR UDARA YANG MEMBERIKAN PELAYANAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+}

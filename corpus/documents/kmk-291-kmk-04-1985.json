@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-291-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "291/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-03-27",
+   "detail_error": null,
+   "number_as_written": "291/KMK.04/1985",
+   "retrieved_at": "2026-10-06T06:35:36+00:00",
+   "source": "DJP",
+   "title_as_written": "MACAM DAN JENIS BARANG KENA PAJAK YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/macam-dan-jenis-barang-kena-pajak-yang-dikenakan-pajak-penjualan-atas-barang-mewah"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=488",
+   "retrieved_at": "2026-10-06T02:22:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/macam-dan-jenis-barang-kena-pajak-yang-dikenakan-pajak-penjualan-atas-barang-mewah",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "MACAM DAN JENIS BARANG KENA PAJAK YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

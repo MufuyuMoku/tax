@@ -1,0 +1,187 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-146-2000",
+ "identity": {
+  "code": "PP",
+  "number": "146",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-146-2000--b000-1",
+  "pp-146-2000--b001-2",
+  "pp-146-2000--b002-3",
+  "pp-146-2000--b003-4",
+  "pp-146-2000--b004-5",
+  "pp-146-2000--b005-6",
+  "pp-146-2000--b006-7",
+  "pp-146-2000--p007-1",
+  "pp-146-2000--p008-2",
+  "pp-146-2000--p009-3",
+  "pp-146-2000--p010-4",
+  "pp-146-2000--p011-5",
+  "pp-146-2000--p012-6",
+  "pp-146-2000--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-38-2003",
+    "key": [
+     "PP",
+     "38",
+     "2003",
+     null
+    ],
+    "number_as_written": "38 TAHUN 2003",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 146 TAHUN 2000 TENTANG IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-49-2022",
+    "key": [
+     "PP",
+     "49",
+     "2022",
+     null
+    ],
+    "number_as_written": "49 TAHUN 2022",
+    "quote": "Pasal 37 Pada saat Peraturan Pemerintah ini mulai berlaku: a. Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 262, Tambahan Lembaran Negara Republik Indonesia Nomor 4064) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 38 Tahun 2003 tentang Perubahan atas Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 79, Tambahan Lembaran Negara Republik Indonesia Nomor 4302); … d. Peraturan Pemerintah Nomor 50 Tahun 2019 tentang Impor dan Penyerahan Alat Angkutan Tertentu serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 6366), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI DIBEBASKAN DAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU DAN/ATAU PEMANFAATAN JASA KENA PAJAK TERTENTU DARI LUAR DAERAH PABEAN"
+   },
+   {
+    "id": "pp-69-2015",
+    "key": [
+     "PP",
+     "69",
+     "2015",
+     null
+    ],
+    "number_as_written": "69 TAHUN 2015",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku: … e. Pasal 3 angka 1, angka 2, dan angka 3, Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu Yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 38 Tahun 2003 tentang Perubahan atas Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 79, Tambahan Lembaran Negara Republik Indonesia Nomor 4302), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU DAN PENYERAHAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEPPRES",
+     "18",
+     "1986",
+     null
+    ],
+    "name": "Keputusan Presiden Nomor 18 Tahun 1986",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku : 1. Keputusan Presiden Nomor 18 Tahun 1986 tentang Pajak Pertambahan Nilai yang Terutang atas Impor dan Penyerahan Barang Kena Pajak dan Jasa Kena Pajak Tertentu yang Ditanggung oleh Pemerintah sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Presiden Nomor 204 Tahun 1998; dan 2. Keputusan Presiden Nomor 2 Tahun 1990 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan Penyerahan Buku-buku Pelajaran Umum, Kitab Suci, dan Buku-buku Pelajaran Agama; dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "keppres-18-1986"
+   },
+   {
+    "key": [
+     "KEPPRES",
+     "204",
+     "1998",
+     null
+    ],
+    "name": "Keputusan Presiden Nomor 204 Tahun 1998",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku : 1. Keputusan Presiden Nomor 18 Tahun 1986 tentang Pajak Pertambahan Nilai yang Terutang atas Impor dan Penyerahan Barang Kena Pajak dan Jasa Kena Pajak Tertentu yang Ditanggung oleh Pemerintah sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Presiden Nomor 204 Tahun 1998; dan 2. Keputusan Presiden Nomor 2 Tahun 1990 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan Penyerahan Buku-buku Pelajaran Umum, Kitab Suci, dan Buku-buku Pelajaran Agama; dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "keppres-204-1998"
+   },
+   {
+    "key": [
+     "KEPPRES",
+     "2",
+     "1990",
+     null
+    ],
+    "name": "Keputusan Presiden Nomor 2 Tahun 1990",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku : … 2. Keputusan Presiden Nomor 2 Tahun 1990 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan Penyerahan Buku-buku Pelajaran Umum, Kitab Suci, dan Buku-buku Pelajaran Agama; dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "keppres-2-1990"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-22",
+   "detail_error": null,
+   "number_as_written": "146 TAHUN 2000",
+   "retrieved_at": "2026-10-06T05:20:38+00:00",
+   "source": "DJP",
+   "title_as_written": "IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-atau-penyerahan-barang-kena-pajak-tertentu-dan-atau-penyerahan-jasa-kena-pajak"
+  },
+  {
+   "date_as_written": "2000-12-22 00:00:00",
+   "number_as_written": "PP 146TAHUN2000",
+   "page_retrieved_at": "2026-10-06T03:26:59+00:00",
+   "retrieved_at": "2026-09-21T14:11:28+00:00",
+   "source": "JDIH",
+   "title_as_written": "Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-146tahun2000",
+   "validity_as_written": "22 Des 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 49/2022, PP 69/2015 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=380",
+   "retrieved_at": "2026-10-05T14:47:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-atau-penyerahan-barang-kena-pajak-tertentu-dan-atau-penyerahan-jasa-kena-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=88",
+   "retrieved_at": "2026-09-21T14:11:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-146tahun2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9284,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:20:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/impor-dan-atau-penyerahan-barang-kena-pajak-tertentu-dan-atau-penyerahan-jasa-kena-pajak"
+ },
+ "title": "IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

@@ -1,0 +1,66 @@
+---
+// One card of the regulation list. Used by the list page, where most cards wait in a <template>
+// until shown (K-074), and by /semua/, the full list for browsers without JavaScript.
+import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote } from "../lib/labels.js";
+
+const { row } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<li
+  class="kartu"
+  data-tahun={row.year}
+  data-judul={row.title}
+  data-jenis={typeLabel(row.code)}
+  data-status={statusLabel(row.status, true)}
+  data-code={row.code}
+  data-kategori={row.categories.join(" ")}
+  data-status-value={row.status}
+  data-group={row.group_key}
+  data-id={row.id}
+>
+  <p class="kartu-nomor">
+    <a href={`${base}dokumen/${row.id}/`}>{regulationLabel(row, row.number_as_written)}</a>
+    <span class="jenis">{typeLabel(row.code)}</span>
+  </p>
+  <p class="kartu-judul">{row.title}</p>
+  {row.category_list.length > 0 && <p class="kartu-asal">{categoryNote(row.category_list)}</p>}
+  <p class="kartu-tanda">
+    <span class={`tanda status-${row.status}`}>{statusLabel(row.status, true)}</span>
+    <span class="tanda netral">{yearLabel(row.year)}</span>
+    {row.text_available ? (
+      <span class="tanda netral">{row.pasal_count} pasal</span>
+    ) : (
+      <span class="tanda tanpa-teks">Tanpa teks di situs ini</span>
+    )}
+    {row.attachment_mismatch > 0 && (
+      <span class="tanda peringatan">Lampiran tidak cocok</span>
+    )}
+    {row.quality_flags.length > 0 && <span class="tanda peringatan">Penomoran janggal</span>}
+  </p>
+  {!row.text_available && (
+    <p class="kartu-catatan">
+      {row.text_unavailable_reason}. Buka di sumbernya:{" "}
+      {row.source_urls.map((s, i) => (
+        <>
+          {i > 0 && " · "}
+          <a href={s.url} rel="noopener">{s.source}</a>
+        </>
+      ))}
+    </p>
+  )}
+  {row.conflicts.length > 0 && (
+    <p class="kartu-catatan konflik">
+      Satu peraturan ini dicatat dua sumber dengan jenis berbeda, sehingga muncul lebih dari
+      sekali. Lihat juga{" "}
+      {row.conflicts.map((c, i) => (
+        <>
+          {i > 0 && ", "}
+          <a href={`${base}dokumen/${c.id}/`}>{regulationLabel([c.code, row.number, row.year, row.variant])}</a> ({typeLabel(c.code)})
+        </>
+      ))}
+      . Keduanya sengaja tidak digabungkan, karena menggabungkan berarti memilih salah satu
+      sumber sebagai yang benar.
+    </p>
+  )}
+</li>

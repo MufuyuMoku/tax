@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-45-2000",
+ "identity": {
+  "code": "PP",
+  "number": "45",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-45-2000--b000-1",
+  "pp-45-2000--b001-2",
+  "pp-45-2000--p002-1",
+  "pp-45-2000--p003-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-06-26",
+   "detail_error": null,
+   "number_as_written": "45 TAHUN 2000",
+   "retrieved_at": "2026-10-06T07:26:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNDAAN BERLAKUNYA PERATURAN PEMERINTAH NOMOR 39 TAHUN 1998 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-pemerintah-nomor-39-tahun-1998-tentang-perlakuan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=388",
+   "retrieved_at": "2026-10-05T14:50:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-pemerintah-nomor-39-tahun-1998-tentang-perlakuan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4574,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T07:26:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penundaan-berlakunya-peraturan-pemerintah-nomor-39-tahun-1998-tentang-perlakuan-pajak"
+ },
+ "title": "PENUNDAAN BERLAKUNYA PERATURAN PEMERINTAH NOMOR 39 TAHUN 1998 TENTANG PERLAKUAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM"
+}

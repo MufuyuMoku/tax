@@ -1,0 +1,138 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-135-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "135",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-135-2014--b000-i",
+  "pmk-135-2014--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "78",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 78/PMK.03/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 21/PMK.011/2014, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-78-2010"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-186-2022",
+    "key": [
+     "PMK",
+     "186",
+     "2022",
+     null
+    ],
+    "number_as_written": "186/PMK.03/2022",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak (Berita Negara Republik Indonesia Tahun 2010 Nomor 168) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 135/PMK.011/2014 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 828), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 78/PMK.03/2010 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 21/PMK.011/2014 — Perubahan atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Keria Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-011-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 186/PMK.03/2022 — Pedoman Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-06-18",
+   "detail_error": null,
+   "number_as_written": "135/PMK.011/2014",
+   "retrieved_at": "2026-10-06T03:37:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 78/PMK.03/2010 TENTANG PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-78pmk032010-tentang-pedoman"
+  },
+  {
+   "date_as_written": "2014-06-18 00:00:00",
+   "number_as_written": "135/PMK.011/2014",
+   "page_retrieved_at": "2026-10-06T02:22:47+00:00",
+   "retrieved_at": "2026-09-21T14:32:46+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-011-2014",
+   "validity_as_written": "18 Jun 2014 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 186/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=182",
+   "retrieved_at": "2026-10-05T13:38:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-78pmk032010-tentang-pedoman",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=257",
+   "retrieved_at": "2026-09-21T14:32:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-011-2014",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4647,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:37:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-78pmk032010-tentang-pedoman"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 78/PMK.03/2010 TENTANG PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK"
+}

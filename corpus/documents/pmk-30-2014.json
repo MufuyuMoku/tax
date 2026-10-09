@@ -1,0 +1,174 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-30-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "30",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-30-2014--b000-1",
+  "pmk-30-2014--b001-2",
+  "pmk-30-2014--b002-3",
+  "pmk-30-2014--b003-4",
+  "pmk-30-2014--b004-5",
+  "pmk-30-2014--b005-6",
+  "pmk-30-2014--b006-7",
+  "pmk-30-2014--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "83/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 83/KMK.03/2002",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 83/KMK.03/2002 tentang Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan oleh Pengusaha Toko Emas Perhiasan, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-83-kmk-03-2002"
+   },
+   {
+    "key": [
+     "PMK",
+     "75",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 75/PMK.03/2010",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: … b. Ketentuan Pasal 2 huruf 1 dan Pasal 3 huruf c Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain sebagai Dasar Pengenaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 38/PMK.011/2013, beserta perubahannya, dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-75-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "38",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 38/PMK.011/2013",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: … b. Ketentuan Pasal 2 huruf 1 dan Pasal 3 huruf c Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain sebagai Dasar Pengenaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 38/PMK.011/2013, beserta perubahannya, dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-38-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "79",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 79/PMK.03/2010",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: … c. Ketentuan mengenai perlakuan Pajak Pertambahan Nilai atas penyerahan Emas Perhiasan sebagaimana dimaksud dalam Pasal 1 angka 4 huruf b, Pasal 3 huruf b, dan Pasal 5 huruf b Peraturan Menteri Keuangan Nomor 79/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Kegiatan Usaha Tertentu, dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-79-2010"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 75/PMK.03/2010 — Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 38/PMK.011/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/38-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 83/KMK.03/2002 — Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan oleh Pengusaha Toko Emas Perhiasan",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 48 TAHUN 2023 — Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, Serta Jasa yang Terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya Yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-02-10",
+   "detail_error": null,
+   "number_as_written": "30/PMK.03/2014",
+   "retrieved_at": "2026-10-06T03:38:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan"
+  },
+  {
+   "date_as_written": "2014-02-10 00:00:00",
+   "number_as_written": "30/PMK.03/2014",
+   "page_retrieved_at": "2026-10-06T02:24:09+00:00",
+   "retrieved_at": "2026-09-21T14:33:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2014",
+   "validity_as_written": "10 Feb 2014 - 28 Apr 2023"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=187",
+   "retrieved_at": "2026-10-05T13:40:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=267",
+   "retrieved_at": "2026-09-21T14:33:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2014",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8963,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:38:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN"
+}

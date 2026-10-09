@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-490-kmk-05-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "490/KMK.05",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 37/KMK.05/1982 — Ketentuan Terhadap Pemasukan Barang Kiriman dan Barang Penumpang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/37-kmk-05-1982"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 89/PMK.04/2007 — Impor Barang Pribadi Penumpang, Awak Sara Pengangkut, Pelintas Batas dan Barang Kiriman",
+    "url": "https://jdih.kemenkeu.go.id/dok/89-pmk-04-2007"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-07-31",
+   "detail_error": null,
+   "number_as_written": "490/KMK.05/1996",
+   "retrieved_at": "2026-10-06T05:44:01+00:00",
+   "source": "DJP",
+   "title_as_written": "TATALAKSANA IMPOR BARANG PENUMPANG, AWAK SARANA PENGANGKUT, PELINTAS BATAS, KIRIMAN POS, DAN KIRIMAN MELALUI PERUSAHAAN JASA TITIPAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-impor-barang-penumpang-awak-sarana-pengangkut-pelintas-batas-kiriman-pos-dan"
+  },
+  {
+   "date_as_written": "1996-07-31 00:00:00",
+   "number_as_written": "490/KMK.05/1996",
+   "page_retrieved_at": "2026-10-06T03:44:52+00:00",
+   "retrieved_at": "2026-09-21T14:52:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatalaksana Impor Barang Penumpang, Awak Sara Pengangkutan, Pelintas Batas, Kiriman Pos dan Kiriman Melalui Perusahaan Jasa Titipan.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/490-kmk-05-1996",
+   "validity_as_written": "31 Jul 1996 - 30 Agu 2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=443",
+   "retrieved_at": "2026-10-06T01:42:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tatalaksana-impor-barang-penumpang-awak-sarana-pengangkut-pelintas-batas-kiriman-pos-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=88",
+   "retrieved_at": "2026-09-21T14:52:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/490-kmk-05-1996",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATALAKSANA IMPOR BARANG PENUMPANG, AWAK SARANA PENGANGKUT, PELINTAS BATAS, KIRIMAN POS, DAN KIRIMAN MELALUI PERUSAHAAN JASA TITIPAN"
+}

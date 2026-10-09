@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-229-2003",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "229",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-229-2003--b000-1",
+  "kep-djp-229-2003--b001-2",
+  "kep-djp-229-2003--b002-3",
+  "kep-djp-229-2003--b003-4",
+  "kep-djp-229-2003--b004-5",
+  "kep-djp-229-2003--b005-6",
+  "kep-djp-229-2003--b006-7",
+  "kep-djp-229-2003--b007-8",
+  "kep-djp-229-2003--b008-9",
+  "kep-djp-229-2003--b009-10",
+  "kep-djp-229-2003--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "586",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-586/PJ/2001",
+    "quote": "Pasal 10 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-586/PJ/2001 tentang Pengenaan Pajak Penjualan Atas Barang Mewah Atas Kendaraan Bermotor dan Tata cara Pemberian Serta Penatausahaan Pembebasan Pajak Penjualan Atas Barang Mewah Atas Impor Atau Penyerahan Kendaraan Bermotor sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-218/PJ/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-586-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "218",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-218/PJ/2002",
+    "quote": "Pasal 10 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-586/PJ/2001 tentang Pengenaan Pajak Penjualan Atas Barang Mewah Atas Kendaraan Bermotor dan Tata cara Pemberian Serta Penatausahaan Pembebasan Pajak Penjualan Atas Barang Mewah Atas Impor Atau Penyerahan Kendaraan Bermotor sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-218/PJ/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-218-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-08-12",
+   "detail_error": null,
+   "number_as_written": "KEP-229/PJ/2003",
+   "retrieved_at": "2026-10-06T05:32:44+00:00",
+   "source": "DJP",
+   "title_as_written": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PEMBEBASAN SERTA PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR ATAU PENYERAHAN KENDARAAN BERMOTOR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pembebasan-serta-pengembalian-pajak-penjualan-atas"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=321",
+   "retrieved_at": "2026-10-06T01:33:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pembebasan-serta-pengembalian-pajak-penjualan-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11590,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:32:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pembebasan-serta-pengembalian-pajak-penjualan-atas"
+ },
+ "title": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PEMBEBASAN SERTA PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR ATAU PENYERAHAN KENDARAAN BERMOTOR"
+}

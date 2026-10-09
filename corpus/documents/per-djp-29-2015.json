@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-29-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "29",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-29-2015--b000-1",
+  "per-djp-29-2015--b001-2",
+  "per-djp-29-2015--b002-3",
+  "per-djp-29-2015--b003-4",
+  "per-djp-29-2015--b004-5",
+  "per-djp-29-2015--b005-7",
+  "per-djp-29-2015--b006-8",
+  "per-djp-29-2015--b007-9",
+  "per-djp-29-2015--b008-10",
+  "per-djp-29-2015--b009-11",
+  "per-djp-29-2015--b010-12",
+  "per-djp-29-2015--b011-13",
+  "per-djp-29-2015--b012-14",
+  "per-djp-29-2015--b013-15",
+  "per-djp-29-2015--b014-16",
+  "per-djp-29-2015--b015-17",
+  "per-djp-29-2015--b016-18"
+ ],
+ "quality_flags": [
+  "urutan_loncat:5->7"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 13. Peraturan Direktur Jenderal Pajak Nomor PER-29/PJ/2015 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-07-23",
+   "detail_error": null,
+   "number_as_written": "PER-29/PJ/2015",
+   "retrieved_at": "2026-10-06T03:30:23+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-pengisian-serta-penyampaian-surat-pemberitahuan-masa-pajak-1"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=166",
+   "retrieved_at": "2026-10-05T13:33:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-pengisian-serta-penyampaian-surat-pemberitahuan-masa-pajak-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19906,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:30:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-pengisian-serta-penyampaian-surat-pemberitahuan-masa-pajak-1"
+ },
+ "title": "BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+}

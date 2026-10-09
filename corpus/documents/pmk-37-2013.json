@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -77,7 +81,20 @@
     "target_id": "kmk-128-kmk-05-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 128/KMK.05/2000 — Toko Bebas Bea",
+    "url": "https://jdih.kemenkeu.go.id/dok/128-kmk-05-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 204/PMK.04/2017 — Toko Bebas Bea.",
+    "url": "https://jdih.kemenkeu.go.id/dok/204-pmk-04-2017"
+   }
+  ]
  },
  "source_records": [
   {
@@ -89,12 +106,24 @@
    "title_as_written": "TOKO BEBAS BEA",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/toko-bebas-bea-0"
+  },
+  {
+   "date_as_written": "2013-02-27 00:00:00",
+   "number_as_written": "37/PMK.04/2013",
+   "page_retrieved_at": "2026-10-06T02:27:32+00:00",
+   "retrieved_at": "2026-09-21T14:35:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Toko Bebas Bea.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/37-pmk-04-2013",
+   "validity_as_written": "27 Feb 2013 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -104,6 +133,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/toko-bebas-bea-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=289",
+   "retrieved_at": "2026-09-21T14:35:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/37-pmk-04-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

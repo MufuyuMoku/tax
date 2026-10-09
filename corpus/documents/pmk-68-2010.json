@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -29,7 +33,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-197-2013",
+    "key": [
+     "PMK",
+     "197",
+     "2013",
+     null
+    ],
+    "number_as_written": "197/PMK.03/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 68/PMK.03/2010 TENTANG BATASAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {

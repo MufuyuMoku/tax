@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-420-kmk-01-1998",
+ "identity": {
+  "code": "KMK",
+  "number": "420/KMK.01",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-09-07",
+   "detail_error": null,
+   "number_as_written": "420/KMK.01/1998",
+   "retrieved_at": "2026-10-06T05:34:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN HARGA GULA PASIR PRODUKSI DALAM NEGERI DAN GULA PASIR IMPOR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-harga-gula-pasir-produksi-dalam-negeri-dan-gula-pasir-impor-0"
+  },
+  {
+   "date_as_written": "1998-09-07 00:00:00",
+   "number_as_written": "420/KMK.01/1998",
+   "page_retrieved_at": "2026-10-06T03:39:39+00:00",
+   "retrieved_at": "2026-09-21T14:51:38+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Harga Gula Pasirproduksi dalam Negeri dan Gula Pasir Impor",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/420-kmk-01-1998",
+   "validity_as_written": "07 Sep 1998 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=422",
+   "retrieved_at": "2026-10-06T01:34:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-harga-gula-pasir-produksi-dalam-negeri-dan-gula-pasir-impor-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=70",
+   "retrieved_at": "2026-09-21T14:51:38+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/420-kmk-01-1998",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN HARGA GULA PASIR PRODUKSI DALAM NEGERI DAN GULA PASIR IMPOR"
+}

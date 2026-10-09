@@ -14,6 +14,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -66,7 +70,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 86/PMK.03/2020 — Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-03-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 9/PMK.03/2021 — Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,10 +105,22 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN  NOMOR 86/PMK.03/2020 TENTANG INSENTIF PAJAK UNTUK  WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-86pmk032020-tentang-insentif-pajak-untuk"
+  },
+  {
+   "date_as_written": "2020-08-14 00:00:00",
+   "number_as_written": "110/PMK.03/2020",
+   "page_retrieved_at": "2026-10-06T01:41:12+00:00",
+   "retrieved_at": "2026-09-21T14:22:37+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 86/PMK.03/2020 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-03-2020",
+   "validity_as_written": "14 Agu 2020 - 02 Feb 2021"
   }
  ],
  "status": {
   "reasons": [
+   "status berbeda antar sumber",
    "sumber menyatakan berlaku, tetapi teks PMK 9/2021 mencabutnya"
   ],
   "value": "tidak_pasti"
@@ -112,6 +141,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-86pmk032020-tentang-insentif-pajak-untuk",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=109",
+   "retrieved_at": "2026-09-21T14:22:37+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-03-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "perubahan",

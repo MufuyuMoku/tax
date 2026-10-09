@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-70-2021",
+ "identity": {
+  "code": "PP",
+  "number": "70",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-70-2021--b000-1",
+  "pp-70-2021--b001-2",
+  "pp-70-2021--b002-3",
+  "pp-70-2021--b003-4",
+  "pp-70-2021--b004-5",
+  "pp-70-2021--b005-6",
+  "pp-70-2021--b006-7",
+  "pp-70-2021--p007-1",
+  "pp-70-2021--p008-2",
+  "pp-70-2021--p009-3",
+  "pp-70-2021--p010-4",
+  "pp-70-2021--p011-5",
+  "pp-70-2021--p012-6",
+  "pp-70-2021--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "106",
+     "2015",
+     null
+    ],
+    "name": "peraturan Pemerintah Nomor 106 Tahun 2015",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, peraturan Pemerintah Nomor 106 Tahun 2015 tentang penyerahan Barang Kena Pajak rertentu yang Bersifat strategis yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 328, Tambahan Lembaran Negara Republik Indonesia Nomor 5796), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-106-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-06-28",
+   "detail_error": null,
+   "number_as_written": "70 TAHUN 2021",
+   "retrieved_at": "2026-10-06T03:04:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-barang-kena-pajak-tertentu-yang-bersifat-strategis-yang-tidak-dipungut-pajak-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=80",
+   "retrieved_at": "2026-10-05T13:01:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyerahan-barang-kena-pajak-tertentu-yang-bersifat-strategis-yang-tidak-dipungut-pajak-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8974,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:04:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyerahan-barang-kena-pajak-tertentu-yang-bersifat-strategis-yang-tidak-dipungut-pajak-0"
+ },
+ "title": "PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI"
+}

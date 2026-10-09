@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -36,7 +40,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-49-2010",
+    "key": [
+     "PER-DJP",
+     "49",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-49/PJ/2010",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2008 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-48/PJ/2008 TENTANG TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -79,7 +98,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 49/2010 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

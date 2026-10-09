@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-160-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "160",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-160-2014--b000-1",
+  "pmk-160-2014--b001-2",
+  "pmk-160-2014--b002-3",
+  "pmk-160-2014--b003-4",
+  "pmk-160-2014--b004-5",
+  "pmk-160-2014--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-59-2024",
+    "key": [
+     "PMK",
+     "59",
+     "2024",
+     null
+    ],
+    "number_as_written": "59 TAHUN 2024",
+    "quote": "Pasal 32 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 160/PMK.03/2014 tentang Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang Seharusnya Tidak Diberikan Pembebasan oleh Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1139); … c. Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2014 Nomor 1141) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 33/PMK.03/2018 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 162/PMK.03/2014 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Berita Negara Republik Indonesia Tahun 2018 Nomor 440), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH KEPADA PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 59 TAHUN 2024 — Tata Cara Pemberian Pembebasan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-59-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-08-13",
+   "detail_error": null,
+   "number_as_written": "160/PMK.03/2014",
+   "retrieved_at": "2026-10-06T03:36:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH YANG SEHARUSNYA TIDAK DIBERIKAN PEMBEBASAN OLEH PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan"
+  },
+  {
+   "date_as_written": "2014-08-13 00:00:00",
+   "number_as_written": "160/PMK.03/2014",
+   "page_retrieved_at": "2026-10-06T02:22:26+00:00",
+   "retrieved_at": "2026-09-21T14:32:34+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah yang Seharusnya Tidak Diberikan Pembebasan oleh Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-03-2014",
+   "validity_as_written": "13 Agu 2014 - 02 Sep 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 59/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=180",
+   "retrieved_at": "2026-10-05T13:38:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=254",
+   "retrieved_at": "2026-09-21T14:32:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/160-pmk-03-2014",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8913,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:36:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH YANG SEHARUSNYA TIDAK DIBERIKAN PEMBEBASAN OLEH PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA"
+}

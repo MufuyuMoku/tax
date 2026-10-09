@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-124-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "124",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-124-2006--b000-1",
+  "per-djp-124-2006--b001-2",
+  "per-djp-124-2006--b002-3",
+  "per-djp-124-2006--b003-4",
+  "per-djp-124-2006--b004-5",
+  "per-djp-124-2006--b005-6",
+  "per-djp-124-2006--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-16-2009",
+    "key": [
+     "PER-DJP",
+     "16",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-16/PJ./2009",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor 124/PJ./2006 tentang Pelaksanaan Analisis Risiko Dalam Rangka Pemeriksaan Atas Surat Pemberitahuan Masa Pajak Pertambahan Nilai Lebih Bayar, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN ANALISIS RISIKO DALAM RANGKA PEMERIKSAAN ATAS SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI LEBIH BAYAR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-08-22",
+   "detail_error": null,
+   "number_as_written": "PER-124/PJ/2006",
+   "retrieved_at": "2026-10-06T04:21:03+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN ANALISIS RESIKO DALAM RANGKA PEMERIKSAAN ATAS SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI LEBIH BAYAR",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-analisis-resiko-dalam-rangka-pemeriksaan-atas-surat-pemberitahuan-masa-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=275",
+   "retrieved_at": "2026-10-05T14:11:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-analisis-resiko-dalam-rangka-pemeriksaan-atas-surat-pemberitahuan-masa-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8872,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:21:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-analisis-resiko-dalam-rangka-pemeriksaan-atas-surat-pemberitahuan-masa-pajak"
+ },
+ "title": "PELAKSANAAN ANALISIS RESIKO DALAM RANGKA PEMERIKSAAN ATAS SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI LEBIH BAYAR"
+}

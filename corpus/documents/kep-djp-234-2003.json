@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-234-2003",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "234",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-234-2003--b000-i",
+  "kep-djp-234-2003--b001-ii",
+  "kep-djp-234-2003--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "294",
+     "2001",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-294/PJ/2001",
+    "quote": "Beberapa ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-294/PJ/2001 tentang Tatacara Pemberian Dan Penatausahaan Pajak Pertambahan Nilai Yang Dibebaskan Atas Impor Dan Atau Penyerahan Barang Kena Pajak Tertentu Yang Bersifat Strategis sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-363/PJ/2002, diubah dan ditambah menjadi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-294-2001"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-08-27",
+   "detail_error": null,
+   "number_as_written": "KEP-234/PJ/2003",
+   "retrieved_at": "2026-10-06T07:26:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-294/PJ/2001 TENTANG TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-294pj2001-tentang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=319",
+   "retrieved_at": "2026-10-05T14:26:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-294pj2001-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 8158,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T07:26:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-direktur-jenderal-pajak-nomor-kep-294pj2001-tentang"
+ },
+ "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-294/PJ/2001 TENTANG TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS"
+}

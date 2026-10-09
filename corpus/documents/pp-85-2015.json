@@ -1,0 +1,125 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-85-2015",
+ "identity": {
+  "code": "PP",
+  "number": "85",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-85-2015--b000-i",
+  "pp-85-2015--b001-ii",
+  "pp-85-2015--p002-i",
+  "pp-85-2015--p003-1",
+  "pp-85-2015--p004-2",
+  "pp-85-2015--p005-3",
+  "pp-85-2015--p006-4",
+  "pp-85-2015--p007-7",
+  "pp-85-2015--p008-11",
+  "pp-85-2015--p009-14",
+  "pp-85-2015--p010-24",
+  "pp-85-2015--p011-29",
+  "pp-85-2015--p012-30",
+  "pp-85-2015--p013-32",
+  "pp-85-2015--p014-35",
+  "pp-85-2015--p015-42a",
+  "pp-85-2015--p016-42b",
+  "pp-85-2015--p017-42c",
+  "pp-85-2015--p018-42d",
+  "pp-85-2015--p019-42e",
+  "pp-85-2015--p020-42f",
+  "pp-85-2015--p021-46a",
+  "pp-85-2015--p022-46b",
+  "pp-85-2015--p023-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "32",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 32 TAHUN 2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 32 Tahun 2009 tentang Tempat Penimbunan Berikat (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 4998), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-32-2009"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-25",
+   "detail_error": null,
+   "number_as_written": "85 TAHUN 2015",
+   "retrieved_at": "2026-10-06T03:25:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 32 TAHUN 2009 TENTANG TEMPAT PENIMBUNAN BERIKAT",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-32-tahun-2009-tentang-tempat-penimbunan-berikat"
+  },
+  {
+   "date_as_written": "2015-11-25 00:00:00",
+   "number_as_written": "PP 85 TAHUN 2015",
+   "page_retrieved_at": "2026-10-06T02:15:58+00:00",
+   "retrieved_at": "2026-09-21T14:07:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 32 Tahun 2009 tentang Tempat Penimbunan Berikat.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-85-tahun-2015",
+   "validity_as_written": "25 Nov 2015 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=160",
+   "retrieved_at": "2026-10-05T13:31:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-32-tahun-2009-tentang-tempat-penimbunan-berikat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=22",
+   "retrieved_at": "2026-09-21T14:07:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-85-tahun-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 44001,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:25:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-32-tahun-2009-tentang-tempat-penimbunan-berikat"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 32 TAHUN 2009 TENTANG TEMPAT PENIMBUNAN BERIKAT"
+}

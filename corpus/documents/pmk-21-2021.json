@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-21-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "21",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-21-2021--b000-1",
+  "pmk-21-2021--b001-2",
+  "pmk-21-2021--b002-3",
+  "pmk-21-2021--b003-4",
+  "pmk-21-2021--b004-5",
+  "pmk-21-2021--b005-6",
+  "pmk-21-2021--b006-7",
+  "pmk-21-2021--b007-8",
+  "pmk-21-2021--b008-9",
+  "pmk-21-2021--b009-10",
+  "pmk-21-2021--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-103-2021",
+    "key": [
+     "PMK",
+     "103",
+     "2021",
+     null
+    ],
+    "number_as_written": "103/PMK.010/2021",
+    "quote": "Pasal 14 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 21/PMK.010/2021 tentang Pajak Pertambahan Nilai atas Penyerahan Rumah Tapak dan Unit Hunian Rumah Susun yang Ditanggung Pemerintah Tahun Anggaran 2021 (Berita Negara Republik Indonesia Tahun 2021 Nomor 179), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN RUMAH TAPAK DAN UNIT HUNIAN RUMAH SUSUN YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2021"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 103/PMK.010/2021 — Pajak Pertambahan Nilai atas \nPenyerahan Rumah Tapak dan Unit Hunian Rumah Susun \nyang Ditanggung Pemerintah Tahun Anggaran 2021",
+    "url": "https://jdih.kemenkeu.go.id/dok/103-pmk-010-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-03-01",
+   "detail_error": null,
+   "number_as_written": "21/PMK.010/2021",
+   "retrieved_at": "2026-10-06T03:07:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN RUMAH TAPAK DAN UNIT HUNIAN RUMAH SUSUN YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2021",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-rumah-tapak-dan-unit-hunian-rumah-susun-yang"
+  },
+  {
+   "date_as_written": "2021-03-01 00:00:00",
+   "number_as_written": "21/PMK.010/2021",
+   "page_retrieved_at": "2026-10-06T01:36:03+00:00",
+   "retrieved_at": "2026-09-21T14:21:37+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Rumah Tapak dan Unit Hunian Rumah Susun yang Ditanggung Pemerintah Tahun Anggaran 2021",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-010-2021",
+   "validity_as_written": "01 Mar 2021 - 30 Agu 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 103/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=86",
+   "retrieved_at": "2026-10-05T13:03:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-rumah-tapak-dan-unit-hunian-rumah-susun-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=94",
+   "retrieved_at": "2026-09-21T14:21:37+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-010-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12382,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:07:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-rumah-tapak-dan-unit-hunian-rumah-susun-yang"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN RUMAH TAPAK DAN UNIT HUNIAN RUMAH SUSUN YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2021"
+}

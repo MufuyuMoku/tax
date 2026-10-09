@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-397-kmk-04-1990",
+ "identity": {
+  "code": "KMK",
+  "number": "397/KMK.04",
+  "variant": null,
+  "year": "1990"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1990-03-30",
+   "detail_error": null,
+   "number_as_written": "397/KMK.04/1990",
+   "retrieved_at": "2026-10-06T06:11:15+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA DAN TATA USAHA PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN PENYERAHAN BUKU-BUKU PELAJARAN UMUM, KITAB SUCI DAN BUKU-BUKU PELAJARAN AGAMA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-tata-usaha-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=472",
+   "retrieved_at": "2026-10-06T02:17:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-tata-usaha-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA DAN TATA USAHA PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN PENYERAHAN BUKU-BUKU PELAJARAN UMUM, KITAB SUCI DAN BUKU-BUKU PELAJARAN AGAMA"
+}

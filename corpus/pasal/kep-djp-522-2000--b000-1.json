@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 409,
+ "document_id": "kep-djp-522-2000",
+ "document_number": "KEP-522/PJ/2000",
+ "document_title": "DOKUMEN-DOKUMEN TERTENTU YANG DIPERLAKUKAN SEBAGAI FAKTUR PAJAK STANDAR",
+ "id": "kep-djp-522-2000--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDokumen-dokumen tertentu yang diperlakukan sebagai Faktur Pajak Standar paling sedikit harus memuat :\na.\nIdentitas yang berwenang menerbitkan dokumen;\nb.\nNama dan alamat penerima dokumen;\nc.\nNomor Pokok Wajib Pajak dalam hal penerima dokumen adalah sebagai Wajib Pajak dalam negeri;\nd.\nJumlah satuan barang apabila ada;\ne.\nDasar Pengenaan Pajak;\nf.\nJumlah pajak yang terutang kecuali dalam hal ekspor.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T05:23:03+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/dokumen-dokumen-tertentu-yang-diperlakukan-sebagai-faktur-pajak-standar"
+ }
+}

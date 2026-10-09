@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-522-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "522",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-522-2000--b000-1",
+  "kep-djp-522-2000--b001-2",
+  "kep-djp-522-2000--b002-3",
+  "kep-djp-522-2000--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-312-2001",
+    "key": [
+     "KEP-DJP",
+     "312",
+     "2001",
+     null
+    ],
+    "number_as_written": "KEP-312/PJ./2001",
+    "quote": "Ketentuan Pasal 2 Keputusan Direktur Jenderal Pajak Nomor KEP-522/PJ/2000 tanggal 6 Desember 2000 diubah, sehingga keseluruhan Pasal 2 berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-522/PJ/2000 TENTANG DOKUMEN-DOKUMEN TERTENTU YANG DIPERLAKUKAN SEBAGAI FAKTUR PAJAK STANDAR"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-10-2010",
+    "key": [
+     "PER-DJP",
+     "10",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-10/PJ/2010",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-522/PJ/2000 tentang Dokumen-Dokumen Tertentu Yang Diperlukan Sebagai Faktur Pajak Standar sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-312/PJ./2001, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "54",
+     "1994",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor: KEP-54/PJ./1994",
+    "quote": "Pasal 3 Pada saat Keputusan ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor: KEP-54/PJ./1994 tanggal 29 Desember 1994 sebagaimana telah diubah terakhir dengan Nomor: KEP-60/PJ./1996 tanggal 12 Agustus 1996 dan Keputusan Direktur Jenderal Pajak Nomor: KEP-06/PJ./1995 tanggal 26 Januari 1995, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-54-1994"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "6",
+     "1995",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor: KEP-06/PJ./1995",
+    "quote": "Pasal 3 Pada saat Keputusan ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor: KEP-54/PJ./1994 tanggal 29 Desember 1994 sebagaimana telah diubah terakhir dengan Nomor: KEP-60/PJ./1996 tanggal 12 Agustus 1996 dan Keputusan Direktur Jenderal Pajak Nomor: KEP-06/PJ./1995 tanggal 26 Januari 1995, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-6-1995"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-06",
+   "detail_error": null,
+   "number_as_written": "KEP-522/PJ/2000",
+   "retrieved_at": "2026-10-06T05:23:03+00:00",
+   "source": "DJP",
+   "title_as_written": "DOKUMEN-DOKUMEN TERTENTU YANG DIPERLAKUKAN SEBAGAI FAKTUR PAJAK STANDAR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/dokumen-dokumen-tertentu-yang-diperlakukan-sebagai-faktur-pajak-standar"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=382",
+   "retrieved_at": "2026-10-05T14:48:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/dokumen-dokumen-tertentu-yang-diperlakukan-sebagai-faktur-pajak-standar",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3755,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:23:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/dokumen-dokumen-tertentu-yang-diperlakukan-sebagai-faktur-pajak-standar"
+ },
+ "title": "DOKUMEN-DOKUMEN TERTENTU YANG DIPERLAKUKAN SEBAGAI FAKTUR PAJAK STANDAR"
+}

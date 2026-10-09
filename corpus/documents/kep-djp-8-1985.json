@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-8-1985",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "8",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-02-28",
+   "detail_error": null,
+   "number_as_written": "KEP - 08/PJ.3/1985",
+   "retrieved_at": "2026-10-06T06:36:19+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU BUATAN DALAM NEGERI OLEH PABRIKAN HASIL TEMBAKAU",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-penyerahan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=489",
+   "retrieved_at": "2026-10-06T02:22:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-penyerahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU BUATAN DALAM NEGERI OLEH PABRIKAN HASIL TEMBAKAU"
+}

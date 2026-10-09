@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-142-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "142",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-142-2013--b000-1",
+  "pmk-142-2013--b001-2",
+  "pmk-142-2013--b002-3",
+  "pmk-142-2013--b003-4",
+  "pmk-142-2013--b004-5",
+  "pmk-142-2013--b005-6",
+  "pmk-142-2013--b006-7",
+  "pmk-142-2013--b007-8",
+  "pmk-142-2013--b008-9",
+  "pmk-142-2013--b009-10",
+  "pmk-142-2013--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-10-18",
+   "detail_error": null,
+   "number_as_written": "142/PMK.02/2013",
+   "retrieved_at": "2026-10-06T03:40:02+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI (REIMBURSEMENT) PAJAK PERTAMBAHAN NILAI ATAS PEROLEHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK KEPADA PENGUSAHA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-reimbursement-pajak-pertambahan-nilai-atas-perolehan-barang"
+  },
+  {
+   "date_as_written": "2013-10-18 00:00:00",
+   "number_as_written": "142/PMK.02/2013",
+   "page_retrieved_at": "2026-10-06T02:25:10+00:00",
+   "retrieved_at": "2026-09-21T14:34:17+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Pengusaha Panas Bumi untuk Pembangkitan Energi/Listrik.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-02-2013",
+   "validity_as_written": "18 Okt 2013 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=190",
+   "retrieved_at": "2026-10-05T13:41:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-reimbursement-pajak-pertambahan-nilai-atas-perolehan-barang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=279",
+   "retrieved_at": "2026-09-21T14:34:17+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-02-2013",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21335,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:40:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-reimbursement-pajak-pertambahan-nilai-atas-perolehan-barang"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI (REIMBURSEMENT) PAJAK PERTAMBAHAN NILAI ATAS PEROLEHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK KEPADA PENGUSAHA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
+}

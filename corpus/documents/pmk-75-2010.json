@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -28,6 +32,20 @@
  "relations": {
   "amended_by": [
    {
+    "id": "pmk-121-2015",
+    "key": [
+     "PMK",
+     "121",
+     "2015",
+     null
+    ],
+    "number_as_written": "121/PMK.03/2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 56/PMK.03/2015 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 75/PMK.03/2010 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK"
+   },
+   {
     "id": "pmk-38-2013",
     "key": [
      "PMK",
@@ -40,10 +58,39 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 75/PMK.03/2010 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK"
+   },
+   {
+    "id": "pmk-56-2015",
+    "key": [
+     "PMK",
+     "56",
+     "2015",
+     null
+    ],
+    "number_as_written": "56/PMK.03/2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 38/PMK.011/2013, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 75/PMK.03/2010 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK"
    }
   ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-30-2014",
+    "key": [
+     "PMK",
+     "30",
+     "2014",
+     null
+    ],
+    "number_as_written": "30/PMK.03/2014",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri ini mulai berlaku: … b. Ketentuan Pasal 2 huruf 1 dan Pasal 3 huruf c Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain sebagai Dasar Pengenaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 38/PMK.011/2013, beserta perubahannya, dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -136,7 +183,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 30/2014 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

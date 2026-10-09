@@ -1,0 +1,172 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-8-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "8",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-8-2021--b000-1",
+  "pmk-8-2021--b001-2",
+  "pmk-8-2021--b002-3",
+  "pmk-8-2021--b003-4",
+  "pmk-8-2021--b004-5",
+  "pmk-8-2021--b005-6",
+  "pmk-8-2021--b006-7",
+  "pmk-8-2021--b007-8",
+  "pmk-8-2021--b008-9",
+  "pmk-8-2021--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 34. Peraturan Menteri Keuangan Nomor 8/PMK.03/2021 tentang Tata Cara Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2021 Nomor 75); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "85",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 85/PMK.03/2012",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini berlaku: 1. Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 tentang Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2012 Nomor 585) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 136/PMK.03/2012 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 tentang Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah,serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2012 Nomor 841); … 2. Peraturan Menteri Keuangan Nomor 37/PMK.03/2015 tentang Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2015 Nomor 345), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-85-2012"
+   },
+   {
+    "key": [
+     "PMK",
+     "136",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 136/PMK.03/2012",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini berlaku: 1. Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 tentang Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2012 Nomor 585) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 136/PMK.03/2012 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 tentang Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah,serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2012 Nomor 841); … 2. Peraturan Menteri Keuangan Nomor 37/PMK.03/2015 tentang Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2015 Nomor 345), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-136-2012"
+   },
+   {
+    "key": [
+     "PMK",
+     "37",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 37/PMK.03/2015",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini berlaku: … 2. Peraturan Menteri Keuangan Nomor 37/PMK.03/2015 tentang Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya (Berita Negara Republik Indonesia Tahun 2015 Nomor 345), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-37-2015"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 136/PMK.03/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 tentang Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/136-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 85/PMK.03/2012 — Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 37/PMK.03/2015 — Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/37-pmk-03-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-01-29",
+   "detail_error": null,
+   "number_as_written": "8/PMK.03/2021",
+   "retrieved_at": "2026-10-06T03:09:16+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHANNILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN USAHA MILIK NEGARA DAN PERUSAHAAN TERTENTU YANG DIMILIKI SECARA LANGSUNG OLEH BADAN USAHA MILIK NEGARA SEBAGAI PEMUNGUT PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahannilai-atau-pajak"
+  },
+  {
+   "date_as_written": "2021-01-29 00:00:00",
+   "number_as_written": "8/PMK.03/2021",
+   "page_retrieved_at": "2026-10-06T01:37:04+00:00",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai  dan Pajak Penjualan Atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu Yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/8-pmk-03-2021",
+   "validity_as_written": "01 Feb 2021 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=88",
+   "retrieved_at": "2026-10-05T13:04:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahannilai-atau-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/8-pmk-03-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14091,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:09:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahannilai-atau-pajak"
+ },
+ "title": "TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHANNILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN USAHA MILIK NEGARA DAN PERUSAHAAN TERTENTU YANG DIMILIKI SECARA LANGSUNG OLEH BADAN USAHA MILIK NEGARA SEBAGAI PEMUNGUT PAJAK PERTAMBAHAN NILAI"
+}

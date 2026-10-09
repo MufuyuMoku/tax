@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -40,7 +44,38 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 83/PMK.04/2020 — Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 149/PMK.04/2020 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/ atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan\nPenanganan Pandemi Corona Virus Diseqse 2019(COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 34/PMK.04/2020 — Pemberian Fasilitas Kepabeanan dan/atau Cukai Serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 164/PMK.04/2022 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/164-pmk-04-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 126 TAHUN 2023 — Pencabutan Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 164/PMK.04/2022 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-126-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -52,12 +87,24 @@
    "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR BARANG UNTUK KEPERLUAN PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian"
+  },
+  {
+   "date_as_written": "2021-07-12 00:00:00",
+   "number_as_written": "92/PMK.04/2021",
+   "page_retrieved_at": "2026-10-06T01:33:19+00:00",
+   "retrieved_at": "2026-09-21T14:21:12+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai Serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (Covid-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-04-2021",
+   "validity_as_written": "12 Jul 2021 - 29 Des 2023"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -67,6 +114,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=88",
+   "retrieved_at": "2026-09-21T14:21:12+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-04-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "perubahan",

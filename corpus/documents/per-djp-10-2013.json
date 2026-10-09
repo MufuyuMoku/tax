@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-10-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "10",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-10-2013--b000-i",
+  "per-djp-10-2013--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "45",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-45/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) Bagi Pengusaha Kena Pajak Yang Menggunakan Pedoman Penghitungan Pengkreditan Pajak Masukan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-45-2010"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 9. Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2013 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) bagi Pengusaha Kena Pajak yang Menggunakan Pedoman Penghitungan Pengkreditan Pajak Masukan; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-04-12",
+   "detail_error": null,
+   "number_as_written": "PER-10/PJ/2013",
+   "retrieved_at": "2026-10-06T03:43:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-45/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) BAGI PENGUSAHA KENA PAJAK YANG MENGGUNAKAN PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-45pj2010-tentang-bentuk-isi-dan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 11/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=196",
+   "retrieved_at": "2026-10-05T13:43:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-45pj2010-tentang-bentuk-isi-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7027,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:43:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-45pj2010-tentang-bentuk-isi-dan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-45/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) BAGI PENGUSAHA KENA PAJAK YANG MENGGUNAKAN PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN"
+}

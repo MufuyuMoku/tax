@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-546-kmk-03-2004",
+ "identity": {
+  "code": "KMK",
+  "number": "546/KMK.03",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-11-09",
+   "detail_error": null,
+   "number_as_written": "546/KMK.03/2004",
+   "retrieved_at": "2026-10-06T04:28:50+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT TERUTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PEMBANGKIT LISTRIK TENAGA UAP TANJUNG JATI B (PLTU TJB) OLEH PT CENTRAL JAVA POWER KEPADA PT PERUSAHAAN LISTRIK NEGARA (PT PLN)",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-terutang-pajak-pertambahan-nilai-atas-penyerahan-pembangkit-listrik-tenaga-uap"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=302",
+   "retrieved_at": "2026-10-05T14:20:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-terutang-pajak-pertambahan-nilai-atas-penyerahan-pembangkit-listrik-tenaga-uap",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "SAAT TERUTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PEMBANGKIT LISTRIK TENAGA UAP TANJUNG JATI B (PLTU TJB) OLEH PT CENTRAL JAVA POWER KEPADA PT PERUSAHAAN LISTRIK NEGARA (PT PLN)"
+}

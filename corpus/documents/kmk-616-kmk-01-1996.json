@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -38,7 +42,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 346/KMK.04/1998 — Perubahan Kepmenkeu No. 616/KMK.01/1996Tentang Pembebasan Bea Masuk dan Perlakuan Perpajakan dalam Rangka Pengembangan Pulau Bintan dan Pulau Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/346-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 61/PMK.03/2005 — Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2005"
+   }
+  ]
  },
  "source_records": [
   {
@@ -50,10 +67,21 @@
    "title_as_written": "PEMBEBASAN BEA MASUK DAN PERLAKUAN PERPAJAKAN DALAM RANGKA PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-perlakuan-perpajakan-dalam-rangka-pengembangan-pulau-bintan-dan"
+  },
+  {
+   "date_as_written": "1996-10-25 00:00:00",
+   "number_as_written": "616/KMK.01/1996",
+   "page_retrieved_at": "2026-10-06T03:43:50+00:00",
+   "retrieved_at": "2026-09-21T14:52:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembebasan Bea Masuk dan Perlakuan Perpajakan dalam Rangka Pengembangan Pulau Bintan dan Pulau Karimun",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/616-kmk-01-1996",
+   "validity_as_written": "25 Okt 1996 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -65,6 +93,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-perlakuan-perpajakan-dalam-rangka-pengembangan-pulau-bintan-dan",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=87",
+   "retrieved_at": "2026-09-21T14:52:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/616-kmk-01-1996",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": null,

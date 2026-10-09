@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1572,
+ "document_id": "pmk-78-2010",
+ "document_number": "78/PMK.03/2010",
+ "document_title": "PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 78/PMK.03/2010 TENTANG PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK",
+ "id": "pmk-78-2010--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\n(1)\nPengusaha Kena Pajak sebagaimana dimaksud dalam Pasal 2 yang telah mengkreditkan Pajak Masukan dengan menggunakan pedoman penghitungan sebagaimana dimaksud dalam Pasal 3, harus menghitung kembali besarnya Pajak Masukan yang dapat dikreditkan.\n(2)\nPenghitungan kembali Pajak Masukan yang dapat dikreditkan sebagaimana dimaksud pada ayat (1), dilakukan dengan menggunakan pedoman penghitungan sebagai berikut:\na.\nuntuk Barang Kena Pajak dan Jasa Kena Pajak yang masa manfaatnya lebih dari 1 (satu) tahun:\nPM\nP'\n=\n--------\nx Z'\nT\ndengan ketentuan:\nP'\nadalah jumlah Pajak Masukan yang dapat dikreditkan dalam 1 (satu) tahun buku;\nPM\nadalah jumlah Pajak Masukan atas perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak.\nT\nadalah masa manfaat Barang Kena Pajak dan/atau Jasa Kena Pajak yang ditentukan sebagai berikut:\n1)\nuntuk Barang Kena Pajak berupa tanah dan bangunan adalah 10 (sepuluh) tahun;\n2)\nuntuk Barang Kena Pajak selain tanah dan bangunan dan Jasa Kena Pajak adalah 4 (empat) tahun;\nZ'\nadalah persentase yang sebanding dengan jumlah Penyerahan yang Terutang Pajak terhadap seluruh penyerahan dalam 1 (satu) tahun buku;\nb.\nuntuk Barang Kena Pajak dan Jasa Kena Pajak yang masa manfaatnya 1 (satu) tahun atau kurang:\nP’ = PM x Z’\ndengan ketentuan:\nP’\nadalah jumlah Pajak Masukan yang dapat dikreditkan dalam 1 (satu) tahun buku;\nPM\nadalah jumlah Pajak Masukan atas perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak;\nZ'\nadalah persentase yang sebanding dengan jumlah Penyerahan yang Terutang Pajak terhadap seluruh penyerahan dalam 1 (satu) tahun buku.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T04:03:56+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-menteri-keuangan-republik-indonesia-nomor-78pmk032010-tentang-pedoman"
+ }
+}

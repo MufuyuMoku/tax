@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-14-1998",
+ "identity": {
+  "code": "PP",
+  "number": "14",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-14-1998--b000-i",
+  "pp-14-1998--b001-ii",
+  "pp-14-1998--p002-i",
+  "pp-14-1998--p003-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "50",
+     "1994",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 50 TAHUN 1994",
+    "quote": "Mengubah ketentuan Pasal 23 ayat (4), sehingga berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "pp-50-1994"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-01-21",
+   "detail_error": null,
+   "number_as_written": "14 TAHUN 1998",
+   "retrieved_at": "2026-10-06T05:37:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 50 TAHUN 1994 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994, SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN PERATURAN PEMERINTAH NOMOR 36 TAHUN 1996",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-50-tahun-1994-tentang-pelaksanaan-undang-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=433",
+   "retrieved_at": "2026-10-06T01:38:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-50-tahun-1994-tentang-pelaksanaan-undang-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4019,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:37:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-50-tahun-1994-tentang-pelaksanaan-undang-0"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 50 TAHUN 1994 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994, SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN PERATURAN PEMERINTAH NOMOR 36 TAHUN 1996"
+}

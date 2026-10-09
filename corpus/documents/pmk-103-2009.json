@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -38,7 +42,36 @@
     "target_id": "pmk-620-2004"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-121-2013",
+    "key": [
+     "PMK",
+     "121",
+     "2013",
+     null
+    ],
+    "number_as_written": "121/PMK.011/2013",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 103/PMK.03/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+   },
+   {
+    "id": "pmk-62-2010",
+    "key": [
+     "PMK",
+     "62",
+     "2010",
+     null
+    ],
+    "number_as_written": "62/PMK.11/2010",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 2. Lampiran IV nomor a, nomor a1, nomor a2, nomor a3, dan nomor a4, serta Lampiran VI nomor a, nomor a1, dan nomor a2, sebagaimana ditetapkan dalam Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 103/PMK.03/2009 , dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TARIF CUKAI ETIL ALKOHOL, MINUMAN YANG MENGANDUNG ETIL ALKOHOL, DAN KONSENTRAT YANG MENGANDUNG ETIL ALKOHOL"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {

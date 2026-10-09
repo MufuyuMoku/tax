@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -40,7 +44,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 96 TAHUN 2023 — Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-96-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -52,10 +63,21 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 96 TAHUN 2023 TENTANG KETENTUAN KEPABEANAN, CUKAI, DAN PAJAK ATAS IMPOR DAN EKSPOR BARANG KIRIMAN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-96-tahun-2023-tentang-ketentuan"
+  },
+  {
+   "date_as_written": "2023-10-16 00:00:00",
+   "number_as_written": "PMK 111 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:50:54+00:00",
+   "retrieved_at": "2026-09-21T14:17:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 96 Tahun 2023 tentang Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-111-tahun-2023",
+   "validity_as_written": "17 Okt 2023 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -67,6 +89,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-96-tahun-2023-tentang-ketentuan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=39",
+   "retrieved_at": "2026-09-21T14:17:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-111-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "perubahan",

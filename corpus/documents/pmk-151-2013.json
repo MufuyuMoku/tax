@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-151-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "151",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-151-2013--b000-1",
+  "pmk-151-2013--b001-2",
+  "pmk-151-2013--b002-3",
+  "pmk-151-2013--b003-4",
+  "pmk-151-2013--b004-5",
+  "pmk-151-2013--b005-6",
+  "pmk-151-2013--b006-7",
+  "pmk-151-2013--b007-8",
+  "pmk-151-2013--b008-9",
+  "pmk-151-2013--b009-10",
+  "pmk-151-2013--b010-11",
+  "pmk-151-2013--b011-12",
+  "pmk-151-2013--b012-13",
+  "pmk-151-2013--b013-14",
+  "pmk-151-2013--b014-15",
+  "pmk-151-2013--b015-16",
+  "pmk-151-2013--b016-17",
+  "pmk-151-2013--b017-18",
+  "pmk-151-2013--b018-19",
+  "pmk-151-2013--b019-20",
+  "pmk-151-2013--b020-21",
+  "pmk-151-2013--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 84/PMK.03/2012 — Tata Cara Pembuatan dan Tata Cara Pembetulan atau Penggantian Faktur Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/84-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-11-11",
+   "detail_error": null,
+   "number_as_written": "151/PMK.03/2013",
+   "retrieved_at": "2026-10-06T03:39:39+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBUATAN DAN TATA CARA PEMBETULAN ATAU PENGGANTIAN FAKTUR PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-tata-cara-pembetulan-atau-penggantian-faktur-pajak-1"
+  },
+  {
+   "date_as_written": "2013-11-11 00:00:00",
+   "number_as_written": "151/PMK.03/2013",
+   "page_retrieved_at": "2026-10-06T02:24:49+00:00",
+   "retrieved_at": "2026-09-21T14:34:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembuatan dan Tata Cara Pembetulan atau Penggantian Faktur Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/151-pmk-03-2013",
+   "validity_as_written": "11 Nov 2013 - 17 Feb 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=190",
+   "retrieved_at": "2026-10-05T13:41:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-tata-cara-pembetulan-atau-penggantian-faktur-pajak-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=278",
+   "retrieved_at": "2026-09-21T14:34:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/151-pmk-03-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 22254,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:39:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-tata-cara-pembetulan-atau-penggantian-faktur-pajak-1"
+ },
+ "title": "TATA CARA PEMBUATAN DAN TATA CARA PEMBETULAN ATAU PENGGANTIAN FAKTUR PAJAK"
+}

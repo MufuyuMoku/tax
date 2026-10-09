@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -40,7 +44,14 @@
     "target_id": "pmk-188-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 188/PMK.04/2020 — Pemberian Fasilitas Kepabeanan dan/ atau Cukai serta Perpajakan atas Impor Pengadaan Vaksin dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-04-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -52,10 +63,21 @@
    "title_as_written": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 188/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-188pmk042020-tentang-pemberian-fasilitas"
+  },
+  {
+   "date_as_written": "2023-11-27 00:00:00",
+   "number_as_written": "PMK 127 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:49:53+00:00",
+   "retrieved_at": "2026-09-21T14:17:44+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor \r 188/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Pengadaan Vaksin dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-127-tahun-2023",
+   "validity_as_written": "29 Nov 2023 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -67,6 +89,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-188pmk042020-tentang-pemberian-fasilitas",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:17:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-127-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

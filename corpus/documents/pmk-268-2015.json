@@ -1,0 +1,158 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-268-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "268",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-268-2015--b000-1",
+  "pmk-268-2015--b001-2",
+  "pmk-268-2015--b002-3",
+  "pmk-268-2015--b003-4",
+  "pmk-268-2015--b004-5",
+  "pmk-268-2015--b005-6",
+  "pmk-268-2015--b006-7",
+  "pmk-268-2015--b007-8",
+  "pmk-268-2015--b008-9",
+  "pmk-268-2015--b009-10",
+  "pmk-268-2015--b010-11",
+  "pmk-268-2015--b011-12",
+  "pmk-268-2015--b012-13",
+  "pmk-268-2015--b013-14",
+  "pmk-268-2015--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-115-2021",
+    "key": [
+     "PMK",
+     "115",
+     "2021",
+     null
+    ],
+    "number_as_written": "115/PMK.03/2021",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 268/PMK.03/2015 tentang Tata Cara Pemberian Fasilitas Dibebaskan dari Pengenaan Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis dan Tata Cara Pembayaran Pajak Pertambahan Nilai Barang Kena Pajak Tertentu yang Bersifat Strategis yang Telah Dibebaskan Serta Pengenaan Sanksi (Berita Negara Republik Indonesia Tahun 2015 Nomor 2066), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN FASILITAS DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS, TATA CARA PEMBAYARAN PAJAK PERTAMBAHAN NILAI BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG TELAH DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI YANG DIGUNAKAN TIDAK SESUAI DENGAN TUJUAN SEMULA  ATAU DIPINDAHTANGANKAN, DAN PENGENAAN SANKSI ATAS KETERLAMBATAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "155/KMK.03",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 155/KMK.03/2001",
+    "quote": "Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan/ atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang telah beberapa kali diubah dengan Keputusan Menteri Keuangan/Peraturan Menteri Keuangan: a. Nomor 363/KMK.03/2002; b. Nomor 371/KMK.03/2003; c. Nomor 11/PMK.03/2007; d. Nomor 31/PMK.03/2008, beserta peraturan pelaksanaannya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-155-kmk-03-2001"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 155/KMK.03/2001 — Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis",
+    "url": "https://jdih.kemenkeu.go.id/dok/155-kmk-03-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 31/PMK.03/2008 — Perubahan Keempat atas Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis",
+    "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 363/KMK.03/2002 — Perubahan atas Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis.",
+    "url": "https://jdih.kemenkeu.go.id/dok/363-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 115/PMK.03/2021 — Tata Cara Pemberian Fasilitas Dibebaskan dari Pengenaan Pajak Pertambahan Nilai atas Impor dan/ atau Penyerahan Barang Kena Pajak\nTertentu yang Bersifat Strategis, Tata Cara Pembayaran Pajak Pertambahan Nilai Barang Kena Pajak Tertentu yang Bersifat Strategis yang Telah Dibebaskan dari Pengenaan Pajak Pertambahan Nilai yang Digunakan Tidak Sesuai dengan Tujuan Semula atau Dipindahtangankan, dan Pengenaan Sanksi atas Keterlambatan Pembayaran Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/115-pmk-03-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-12-31",
+   "detail_error": null,
+   "number_as_written": "268/PMK.03/2015",
+   "retrieved_at": "2026-10-06T03:24:09+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN FASILITAS DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS DAN TATA CARA PEMBAYARAN PAJAK PERTAMBAHAN NILAI BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG TELAH DIBEBASKAN SERTA PENGENAAN SANKSI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-dibebaskan-dari-pengenaan-pajak-pertambahan-nilai-atas"
+  },
+  {
+   "date_as_written": "2015-12-31 00:00:00",
+   "number_as_written": "268/PMK.03/2015",
+   "page_retrieved_at": "2026-10-06T01:50:52+00:00",
+   "retrieved_at": "2026-09-21T14:29:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Fasilitas Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai atas Impor Dan/ atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis dan Tata Cara Pembayaran Pajak Pertambahan Nilai Barang Kena Pajak Tertentu yang Bersifat Strategis yang Telah Dibebaskan Serta Pengenaan Sanksi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/268-pmk-03-2015",
+   "validity_as_written": "31 Des 2015 - 31 Agu 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 115/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=157",
+   "retrieved_at": "2026-10-05T13:30:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-dibebaskan-dari-pengenaan-pajak-pertambahan-nilai-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=215",
+   "retrieved_at": "2026-09-21T14:29:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/268-pmk-03-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21576,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:24:09+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-dibebaskan-dari-pengenaan-pajak-pertambahan-nilai-atas"
+ },
+ "title": "TATA CARA PEMBERIAN FASILITAS DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS DAN TATA CARA PEMBAYARAN PAJAK PERTAMBAHAN NILAI BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG TELAH DIBEBASKAN SERTA PENGENAAN SANKSI"
+}

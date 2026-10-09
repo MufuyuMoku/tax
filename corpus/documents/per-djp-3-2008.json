@@ -1,0 +1,76 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2008--b000-1",
+  "per-djp-3-2008--b001-2",
+  "per-djp-3-2008--b002-3",
+  "per-djp-3-2008--b003-4",
+  "per-djp-3-2008--b004-5",
+  "per-djp-3-2008--b005-6",
+  "per-djp-3-2008--b006-7",
+  "per-djp-3-2008--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-02-08",
+   "detail_error": null,
+   "number_as_written": "PER - 3/PJ./2008",
+   "retrieved_at": "2026-10-06T04:12:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN/ATAU PENYERAHAN GANDUM DAN TEPUNG GANDUM TERIGU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-danatau"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=239",
+   "retrieved_at": "2026-10-05T13:58:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-danatau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8599,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:12:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-danatau"
+ },
+ "title": "TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR DAN/ATAU PENYERAHAN GANDUM DAN TEPUNG GANDUM TERIGU"
+}

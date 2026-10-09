@@ -1,0 +1,162 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-146-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "146",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-146-2006--b000-1",
+  "per-djp-146-2006--b001-2",
+  "per-djp-146-2006--b002-3",
+  "per-djp-146-2006--b003-4",
+  "per-djp-146-2006--b004-5",
+  "per-djp-146-2006--b005-6",
+  "per-djp-146-2006--b006-7",
+  "per-djp-146-2006--b007-8",
+  "per-djp-146-2006--b008-9",
+  "per-djp-146-2006--b009-10",
+  "per-djp-146-2006--b010-11",
+  "per-djp-146-2006--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-14-2010",
+    "key": [
+     "PER-DJP",
+     "14",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-14/PJ./2010",
+    "quote": "1. Ketentuan Pasal 1 angka 2 dan angka 3 diubah sehingga Pasal 1 berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-146/PJ./2006 TENTANG BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "12",
+     "1995",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-12/PJ./1995",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, a. Keputusan Direktur Jenderal Pajak Nomor KEP-12/PJ./1995 tentang Bentuk dan Isi SPT Masa PPN dan SPT Masa PPN bagi Pengusaha Kena Pajak Pedagang Eceran Yang Menggunakan Nilai Lain sebagai Dasar Pengenaan Pajak, Keterangan dan Dokumen Yang harus Dilampirkan, Serta Buku Petunjuk Pengisiannya sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-386/PJ./2002; … dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-12-1995"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "386",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-386/PJ./2002",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, a. Keputusan Direktur Jenderal Pajak Nomor KEP-12/PJ./1995 tentang Bentuk dan Isi SPT Masa PPN dan SPT Masa PPN bagi Pengusaha Kena Pajak Pedagang Eceran Yang Menggunakan Nilai Lain sebagai Dasar Pengenaan Pajak, Keterangan dan Dokumen Yang harus Dilampirkan, Serta Buku Petunjuk Pengisiannya sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-386/PJ./2002; … dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-386-2002"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "756",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-756/PJ.2001",
+    "quote": "… b. Keputusan Direktur Jenderal Pajak Nomor KEP-756/PJ.2001 tentang Penyampaian Lampiran Surat Pemberitahuan Masa PPN Dalam Bentuk Media Elektronik Terhadap PKP Yang Dalam Satu Masa Pajak Melaporkan 500 Faktur Pajak Standar atau Lebih Wajib Pajak Menyampaikan Lampiran SPT Masa PPN Dalam Bentuk Media Elektronik sebagaimana telah diubah terakhir dengan Keputusan Direktur Jenderal Pajak Nomor KEP-327/PJ./2002; dan c. Peraturan Direktur Jenderal Pajak Nomor PER-145/PJ./2005 tentang Bentuk, Isi dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-756-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "327",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-327/PJ./2002",
+    "quote": "… b. Keputusan Direktur Jenderal Pajak Nomor KEP-756/PJ.2001 tentang Penyampaian Lampiran Surat Pemberitahuan Masa PPN Dalam Bentuk Media Elektronik Terhadap PKP Yang Dalam Satu Masa Pajak Melaporkan 500 Faktur Pajak Standar atau Lebih Wajib Pajak Menyampaikan Lampiran SPT Masa PPN Dalam Bentuk Media Elektronik sebagaimana telah diubah terakhir dengan Keputusan Direktur Jenderal Pajak Nomor KEP-327/PJ./2002; dan c. Peraturan Direktur Jenderal Pajak Nomor PER-145/PJ./2005 tentang Bentuk, Isi dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-327-2002"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "145",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-145/PJ./2005",
+    "quote": "… c. Peraturan Direktur Jenderal Pajak Nomor PER-145/PJ./2005 tentang Bentuk, Isi dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-145-2005"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-09-29",
+   "detail_error": null,
+   "number_as_written": "PER-146/PJ./2006",
+   "retrieved_at": "2026-10-06T04:20:42+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=272",
+   "retrieved_at": "2026-10-05T14:10:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12574,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:20:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-0"
+ },
+ "title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+}

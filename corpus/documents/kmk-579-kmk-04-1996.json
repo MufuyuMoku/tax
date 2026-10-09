@@ -1,0 +1,141 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-579-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "579/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-579-kmk-04-1996--b000-1",
+  "kmk-579-kmk-04-1996--b001-2",
+  "kmk-579-kmk-04-1996--b002-3",
+  "kmk-579-kmk-04-1996--b003-4",
+  "kmk-579-kmk-04-1996--b004-5",
+  "kmk-579-kmk-04-1996--b005-6",
+  "kmk-579-kmk-04-1996--b006-8",
+  "kmk-579-kmk-04-1996--b007-9",
+  "kmk-579-kmk-04-1996--b008-10",
+  "kmk-579-kmk-04-1996--b009-11"
+ ],
+ "quality_flags": [
+  "urutan_loncat:6->8"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-62-2015",
+    "key": [
+     "PMK",
+     "62",
+     "2015",
+     null
+    ],
+    "number_as_written": "62/PMK.03/2015",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 579/KMK.04/1996 tentang Penunjukan Direktorat Jenderal Anggaran Sebagai Pemungut Pajak Pertambahan Nilai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK DAN SAAT LAIN PEMBUATAN FAKTUR PAJAK ATAS PENYERAHAN PUPUK TERTENTU UNTUK SEKTOR PERTANIAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "812/KMK.04",
+     "1985",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Republik Indonesia Nomor 812/KMK.04/1985",
+    "quote": "Pasal 11 Dengan berlakunya keputusan ini, maka Keputusan Menteri Keuangan Republik Indonesia Nomor 812/KMK.04/1985 tanggal 27 September 1985 dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-812-kmk-04-1985"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 812/KMK.04/1985 — Tata Cara Pembayaran Pajak Pertambahan Nilai (Ppn) atas Pupuk dan Pestisida Bersubsidi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/812-kmk-04-1985"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 62/PMK.03/2015 — Nilai Lain Sebagai Dasar Pengenaan Pajak dan Saat Lain Pembuatan Faktur Pajak atas Penyerahan Pupuk Tertentu untuk Sektor Pertanian.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-09-23",
+   "detail_error": null,
+   "number_as_written": "579/KMK.04/1996",
+   "retrieved_at": "2026-10-06T05:42:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN DIREKTORAT JENDERAL ANGGARAN SEBAGAI PEMUNGUT PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PUPUK DAN PESTISIDA BERSUBSIDI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-direktorat-jenderal-anggaran-sebagai-pemungut-pajak-pertambahan-nilai-atas"
+  },
+  {
+   "date_as_written": "1996-09-18 00:00:00",
+   "number_as_written": "579/KMK.04/1996",
+   "page_retrieved_at": "2026-10-06T03:44:31+00:00",
+   "retrieved_at": "2026-09-21T14:52:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penunjukan Direktorat Jenderal Anggaran Sebagai Pemungut Pajak Pertambahan Nilai atas Penyerahan Pupuk dan Pestisida Bersudbsidi.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/579-kmk-04-1996",
+   "validity_as_written": "18 Sep 1996 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=442",
+   "retrieved_at": "2026-10-06T01:41:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-direktorat-jenderal-anggaran-sebagai-pemungut-pajak-pertambahan-nilai-atas",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=88",
+   "retrieved_at": "2026-09-21T14:52:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/579-kmk-04-1996",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5756,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:42:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-direktorat-jenderal-anggaran-sebagai-pemungut-pajak-pertambahan-nilai-atas"
+ },
+ "title": "PENUNJUKAN DIREKTORAT JENDERAL ANGGARAN SEBAGAI PEMUNGUT PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PUPUK DAN PESTISIDA BERSUBSIDI"
+}

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   },
   {
@@ -47,7 +51,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-71-2022",
+    "key": [
+     "PMK",
+     "71",
+     "2022",
+     null
+    ],
+    "number_as_written": "71/PMK.03/2022",
+    "quote": "huruf b, Peraturan Menteri Keuangan Nomor 6/PMK.03/2021 tentang Penghitungan dan Pemungutan Pajak Pertambahan Nilai serta Pajak Penghasilan atas Penyerahan/Penghasilan sehubungan dengan Penjualan Pulsa, Kartu Perdana, Token, dan Voucer (Berita Negara Republik Indonesia Tahun 2021 Nomor 42), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA KENA PAJAK TERTENTU"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -91,9 +110,10 @@
   }
  ],
  "status": {
-  "note": "disepakati JDIH & DJP",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 71/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {

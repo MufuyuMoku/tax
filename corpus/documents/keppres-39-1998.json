@@ -1,0 +1,194 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-39-1998",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "39",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai-barang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai-barang-dan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 50 TAHUN 1994 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-republik-indonesia-nomor-50-tahun-1994-tentang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 50 TAHUN 1994 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994, SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN PERATURAN PEMERINTAH NOMOR 36 TAHUN 1996",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-50-tahun-1994-tentang-pelaksanaan-undang-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 47 TAHUN 1994 TENTANG PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-47-tahun-1994-tentang-penghitungan-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PABEAN DAN PERPAJAKAN ATAS IMPOR ATAU PENYERAHAN KOMPONEN DAN KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIPERGUNAKAN DALAM USAHA PERTAKSIAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pabean-dan-perpajakan-atas-impor-atau-penyerahan-komponen-dan-kendaraan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "MACAM DAN JENIS SERTA BATASAN HARGA JUAL KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/macam-dan-jenis-serta-batasan-harga-jual-kendaraan-bermotor-yang-dikenakan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-atau-penghapusan-sanksi-administrasi-dan-pengurangan-atau-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYELENGGARAAN PEMBUKUAN DALAM BAHASA ASING DAN MATA UANG SELAIN RUPIAH",
+    "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pembukuan-dalam-bahasa-asing-dan-mata-uang-selain-rupiah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 24 SAMPAI DENGAN 30 APRIL 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-63"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK/PAJAK PENGHASILAN UNTUK BULAN OKTOBER, NOPEMBER DAN DESEMBER 1985",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masukpajak-penghasilan-untuk-bulan-oktober"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN JULI, AGUSTUS, DAN SEPTEMBER 1997",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-292"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBERIAN SURAT KETERANGAN FISKAL",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-surat-keterangan-fiskal"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN OLEH PENGUSAHA TOKO EMAS PERHIASAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan-oleh-pengusaha-toko-emas-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PPh BUNGA DEPOSITO, TABUNGAN, JASA GIRO DAN DISKONTO SERTIFIKAT BANK INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pph-bunga-deposito-tabungan-jasa"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENYITAAN KEKAYAAN PENANGGUNG PAJAK BERUPA PIUTANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyitaan-kekayaan-penanggung-pajak-berupa-piutang-dalam-rangka-penagihan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN TEKNIS TATA CARA PEMINDAHBUKUAN ATAS KEKELIRUAN PEMBAYARAN PAJAK PENGHASILAN DALAM MATA UANG DOLLAR AMERIKA SERIKAT",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-teknis-tata-cara-pemindahbukuan-atas-kekeliruan-pembayaran-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGENAAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEMAKAIAN SENDIRI DAN ATAU PEMBERIAN CUMA-CUMA BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pemakaian"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BENTUK SURAT KETETAPAN PAJAK KURANG BAYAR PAJAK PERTAMBAHAN NILAI ATAS IMPOR/ PEMANFAATAN BKP TIDAK BERWUJUD DARI LUAR DAERAH PABEAN / PEMANFAATAN JKP DARI LUAR DAERAH PABEAN/ PEMUNGUTAN PAJAK OLEH PEMUNGUT PAJAK, SURAT KETETAPAN PAJAK KURANG BAYAR PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR/ PEMUNGUTAN PAJAK OLEH PEMUNGUT PAJAK BESERTA NOTA PENGHITUNGANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/bentuk-surat-ketetapan-pajak-kurang-bayar-pajak-pertambahan-nilai-atas-impor-pemanfaatan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN PIUTANG PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghapusan-piutang-pajak-dan-penetapan-besarnya-penghapusan-piutang-pajak-0"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-03-09",
+   "detail_error": null,
+   "number_as_written": "39 TAHUN 1998",
+   "retrieved_at": "2026-10-06T05:35:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN ATAS KEPUTUSAN PRESIDEN NOMOR 74 TAHUN 1995 TENTANG PERLAKUAN PABEAN DAN PERPAJAKAN ATAS IMPOR ATAU PENYERAHAN KOMPONEN DAN KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIPERGUNAKAN DALAM USAHA PERTAKSIAN",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-atas-keputusan-presiden-nomor-74-tahun-1995-tentang-perlakuan-pabean-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=430",
+   "retrieved_at": "2026-10-06T01:37:22+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-atas-keputusan-presiden-nomor-74-tahun-1995-tentang-perlakuan-pabean-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN ATAS KEPUTUSAN PRESIDEN NOMOR 74 TAHUN 1995 TENTANG PERLAKUAN PABEAN DAN PERPAJAKAN ATAS IMPOR ATAU PENYERAHAN KOMPONEN DAN KENDARAAN BERMOTOR JENIS SEDAN UNTUK DIPERGUNAKAN DALAM USAHA PERTAKSIAN"
+}

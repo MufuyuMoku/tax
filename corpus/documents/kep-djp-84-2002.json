@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-84-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "84",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-14",
+   "detail_error": null,
+   "number_as_written": "KEP - 84/PJ./2002",
+   "retrieved_at": "2026-10-06T04:59:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-552/PJ./2001 TENTANG PENETAPAN NILAI STIKER LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER LUNAS PAJAK PERTAMBAHAN NILAI SERTA TATA CARA PENEBUSAN DAN PELAPORANNYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-552pj2001-tentang-penetapan-nilai"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=352",
+   "retrieved_at": "2026-10-05T14:38:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-552pj2001-tentang-penetapan-nilai",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-552/PJ./2001 TENTANG PENETAPAN NILAI STIKER LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER LUNAS PAJAK PERTAMBAHAN NILAI SERTA TATA CARA PENEBUSAN DAN PELAPORANNYA"
+}

@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-22-2014",
+ "identity": {
+  "code": "PP",
+  "number": "22",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-22-2014--b000-i",
+  "pp-22-2014--b001-ii",
+  "pp-22-2014--p002-i",
+  "pp-22-2014--p003-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "41",
+     "2013",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 41 TAHUN 2013",
+    "quote": "Ketentuan ayat (8) Pasal 2 dalam Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 97, Tambahan Lembaran Negara Republik Indonesia Nomor 5420) diubah sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-41-2013"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pp-73-2019",
+    "key": [
+     "PP",
+     "73",
+     "2019",
+     null
+    ],
+    "number_as_written": "73 TAHUN 2019",
+    "quote": "Pasal 45 Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan pelaksanaan dari Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Tahun 2013 Nomor 97, Tambahan Lembaran Negara Republik Indonesia Nomor 5420) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 22 Tahun 2014 tentang Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Lembaran Negara Tahun 2014 Nomor 60, Tambahan Lembaran Negara Republik Indonesia Nomor 5519), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 41 TAHUN 2013 — Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-41-tahun-2013"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-03-19",
+   "detail_error": null,
+   "number_as_written": "22 TAHUN 2014",
+   "retrieved_at": "2026-10-06T03:38:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 41 TAHUN 2013 TENTANG BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2013-tentang-barang-kena-pajak-yang"
+  },
+  {
+   "date_as_written": "2014-03-19 00:00:00",
+   "number_as_written": "PP 22 TAHUN 2014",
+   "page_retrieved_at": "2026-10-06T02:23:48+00:00",
+   "retrieved_at": "2026-09-21T14:07:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-22-tahun-2014",
+   "validity_as_written": "19 Mar 2014 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 73/2019 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=186",
+   "retrieved_at": "2026-10-05T13:40:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2013-tentang-barang-kena-pajak-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=31",
+   "retrieved_at": "2026-09-21T14:07:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-22-tahun-2014",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9758,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:38:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2013-tentang-barang-kena-pajak-yang"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 41 TAHUN 2013 TENTANG BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

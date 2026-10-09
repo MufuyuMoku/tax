@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-13-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-13-2012--b000-i",
+  "per-djp-13-2012--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "40",
+     "2011",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-40/PJ/2011",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-40/PJ/2011 tentang Tata Cara Penerbitan Faktur Pajak dan Surat Setoran Pajak atas Penyerahan Jenis Bahan Bakar Minyak Tertentu dan/atau Liquefied P etr o l eu m Gas (LPG) Tabung 3 (Tiga) Kilogram, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-40-2011"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-40-2015",
+    "key": [
+     "PER-DJP",
+     "40",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-40/PJ/2015",
+    "quote": "Pasal 5 Dengan berlakunya peraturan ini: 1. Ketentuan-:ketentuan yang mengatur tentang Jenis BBM Tertentu Minyak Solar dalam Peraturah Direktur Jenderal Pajak Nomor PER-40/PJ/2011 sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2012 tentang Tata Cara Penerbitan Faktur Pajak dan Surat Setoran Pajak atas Penyerahan Jenis Bahan Bakar Minyak Tertentu Minyak Solar dicabut dan dinyatakari tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMUNGUTAN DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PEMBAYARAN SUBSIDI JENIS BAHAN BAKAR MINYAK TERTENTU MINYAK SOLAR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-05-04",
+   "detail_error": null,
+   "number_as_written": "PER-13/PJ/2012",
+   "retrieved_at": "2026-10-06T03:49:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-40/PJ /2011 TENTANG TATA CARA PENERBITAN FAKTUR PAJAK DAN SURAT SETORAN PAJAK ATAS PENYERAHAN JENIS BAHAN BAKAR MINYAK TERTENTU DAN / ATAU LIQUEFIED  PETROLEUM GAS  (LPG) TABUNG 3 (TIGA) KILOGRAM",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-40pj-2011-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=206",
+   "retrieved_at": "2026-10-05T13:47:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-40pj-2011-tentang-tata-cara",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5695,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:49:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-40pj-2011-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-40/PJ /2011 TENTANG TATA CARA PENERBITAN FAKTUR PAJAK DAN SURAT SETORAN PAJAK ATAS PENYERAHAN JENIS BAHAN BAKAR MINYAK TERTENTU DAN / ATAU LIQUEFIED  PETROLEUM GAS  (LPG) TABUNG 3 (TIGA) KILOGRAM"
+}

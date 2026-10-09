@@ -1,0 +1,136 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-64-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "64",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-64-2014--b000-1",
+  "pmk-64-2014--b001-2",
+  "pmk-64-2014--b002-3",
+  "pmk-64-2014--b003-4",
+  "pmk-64-2014--b004-5",
+  "pmk-64-2014--b005-6",
+  "pmk-64-2014--b006-7",
+  "pmk-64-2014--b007-8",
+  "pmk-64-2014--b008-9",
+  "pmk-64-2014--b009-10",
+  "pmk-64-2014--b010-11",
+  "pmk-64-2014--b011-12",
+  "pmk-64-2014--b012-13",
+  "pmk-64-2014--b013-14",
+  "pmk-64-2014--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "355/KMK.03",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 355/KMK.03/2003",
+    "quote": "Pasal 14 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 355/KMK.03/2003 tentang Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-355-kmk-03-2003"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 355/KMK.03/2003 — Jenis Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/355-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 33/PMK.010/2017 — Perubahan atas Peraturan Menteri Keuangan Nomor 64/PMK.011/2014 Tentang\r\nJenis Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pemberian Pembebasan Dari Pengenaan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/33-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 141/PMK.010/2021 — Penetapan Jenis Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengenaan, Pemberian dan\nPenatausahaan Pembebasan, dan Pengembalian Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-010-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-04-16",
+   "detail_error": null,
+   "number_as_written": "64/PMK.011/2014",
+   "retrieved_at": "2026-10-06T03:37:59+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PEMBERIAN PEMBEBASAN DARI PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah-dan-tata-cara"
+  },
+  {
+   "date_as_written": "2014-04-16 00:00:00",
+   "number_as_written": "64/PMK.011/2014",
+   "page_retrieved_at": "2026-10-06T02:23:28+00:00",
+   "retrieved_at": "2026-09-21T14:33:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Jenis Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pemberian Pembebasan Dari Pengenaan Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-011-2014",
+   "validity_as_written": "16 Apr 2014 - 13 Okt 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=184",
+   "retrieved_at": "2026-10-05T13:39:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah-dan-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=264",
+   "retrieved_at": "2026-09-21T14:33:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-011-2014",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17803,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:37:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah-dan-tata-cara"
+ },
+ "title": "JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PEMBERIAN PEMBEBASAN DARI PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

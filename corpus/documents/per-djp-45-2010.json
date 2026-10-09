@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -32,7 +36,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-10-2013",
+    "key": [
+     "PER-DJP",
+     "10",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-10/PJ/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2010 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) Bagi Pengusaha Kena Pajak Yang Menggunakan Pedoman Penghitungan Pengkreditan Pajak Masukan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-45/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) BAGI PENGUSAHA KENA PAJAK YANG MENGGUNAKAN PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {

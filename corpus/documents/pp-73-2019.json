@@ -1,0 +1,233 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-73-2019",
+ "identity": {
+  "code": "PP",
+  "number": "73",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-73-2019--b000-1",
+  "pp-73-2019--b001-2",
+  "pp-73-2019--b002-3",
+  "pp-73-2019--b003-4",
+  "pp-73-2019--b004-4",
+  "pp-73-2019--b005-5",
+  "pp-73-2019--b006-6",
+  "pp-73-2019--b007-7",
+  "pp-73-2019--b008-8",
+  "pp-73-2019--b009-9",
+  "pp-73-2019--b010-10",
+  "pp-73-2019--b011-11",
+  "pp-73-2019--b012-12",
+  "pp-73-2019--b013-13",
+  "pp-73-2019--b014-14",
+  "pp-73-2019--b015-15",
+  "pp-73-2019--b016-16",
+  "pp-73-2019--b017-17",
+  "pp-73-2019--b018-18",
+  "pp-73-2019--b019-19",
+  "pp-73-2019--b020-20",
+  "pp-73-2019--b021-21",
+  "pp-73-2019--b022-22",
+  "pp-73-2019--b023-23",
+  "pp-73-2019--b024-24",
+  "pp-73-2019--b025-25",
+  "pp-73-2019--b026-26",
+  "pp-73-2019--b027-27",
+  "pp-73-2019--b028-28",
+  "pp-73-2019--b029-29",
+  "pp-73-2019--b030-30",
+  "pp-73-2019--b031-31",
+  "pp-73-2019--b032-32",
+  "pp-73-2019--b033-33",
+  "pp-73-2019--b034-34",
+  "pp-73-2019--b035-35",
+  "pp-73-2019--b036-36",
+  "pp-73-2019--b037-37",
+  "pp-73-2019--b038-38",
+  "pp-73-2019--b039-39",
+  "pp-73-2019--b040-40",
+  "pp-73-2019--b041-41",
+  "pp-73-2019--b042-42",
+  "pp-73-2019--b043-43",
+  "pp-73-2019--b044-44",
+  "pp-73-2019--b045-45",
+  "pp-73-2019--b046-46",
+  "pp-73-2019--b047-47",
+  "pp-73-2019--p048-1",
+  "pp-73-2019--p049-2",
+  "pp-73-2019--p050-3",
+  "pp-73-2019--p051-4",
+  "pp-73-2019--p052-5",
+  "pp-73-2019--p053-6",
+  "pp-73-2019--p054-7",
+  "pp-73-2019--p055-8",
+  "pp-73-2019--p056-9",
+  "pp-73-2019--p057-10",
+  "pp-73-2019--p058-11",
+  "pp-73-2019--p059-12",
+  "pp-73-2019--p060-13",
+  "pp-73-2019--p061-15",
+  "pp-73-2019--p062-16",
+  "pp-73-2019--p063-17",
+  "pp-73-2019--p064-18",
+  "pp-73-2019--p065-19",
+  "pp-73-2019--p066-20",
+  "pp-73-2019--p067-21",
+  "pp-73-2019--p068-22",
+  "pp-73-2019--p069-23",
+  "pp-73-2019--p070-24",
+  "pp-73-2019--p071-25",
+  "pp-73-2019--p072-26",
+  "pp-73-2019--p073-27",
+  "pp-73-2019--p074-28",
+  "pp-73-2019--p075-29",
+  "pp-73-2019--p076-30",
+  "pp-73-2019--p077-31",
+  "pp-73-2019--p078-32",
+  "pp-73-2019--p079-33",
+  "pp-73-2019--p080-34",
+  "pp-73-2019--p081-35",
+  "pp-73-2019--p082-36",
+  "pp-73-2019--p083-37",
+  "pp-73-2019--p084-38",
+  "pp-73-2019--p085-39",
+  "pp-73-2019--p086-40",
+  "pp-73-2019--p087-41",
+  "pp-73-2019--p088-42",
+  "pp-73-2019--p089-43",
+  "pp-73-2019--p090-44",
+  "pp-73-2019--p091-45",
+  "pp-73-2019--p092-46",
+  "pp-73-2019--p093-47"
+ ],
+ "quality_flags": [
+  "urutan_loncat:4->4",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-74-2021",
+    "key": [
+     "PP",
+     "74",
+     "2021",
+     null
+    ],
+    "number_as_written": "74 TAHUN 2021",
+    "quote": "Beberapa ketentuan dalam .Peraturan Pemerintah Nomor 73 Tahun 2019 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 189, Tambahan Lembaran Negara Republik Indonesia Nomor 6404) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 73 TAHUN 2019 TENTANG BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "41",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 41 Tahun 2013",
+    "quote": "Pasal 45 Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan pelaksanaan dari Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Tahun 2013 Nomor 97, Tambahan Lembaran Negara Republik Indonesia Nomor 5420) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 22 Tahun 2014 tentang Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Lembaran Negara Tahun 2014 Nomor 60, Tambahan Lembaran Negara Republik Indonesia Nomor 5519), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-41-2013"
+   },
+   {
+    "key": [
+     "PP",
+     "22",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 22 Tahun 2014",
+    "quote": "Pasal 45 Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan pelaksanaan dari Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Tahun 2013 Nomor 97, Tambahan Lembaran Negara Republik Indonesia Nomor 5420) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 22 Tahun 2014 tentang Perubahan atas Peraturan Pemerintah Nomor 41 Tahun 2013 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Lembaran Negara Tahun 2014 Nomor 60, Tambahan Lembaran Negara Republik Indonesia Nomor 5519), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-22-2014"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 74 TAHUN 2021 — Perubahan atas Peraturan Pemerintah Nomor 73 Tahun 2019 tentang Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-74-tahun-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-10-15",
+   "detail_error": null,
+   "number_as_written": "73 TAHUN 2019",
+   "retrieved_at": "2026-10-06T03:17:14+00:00",
+   "source": "DJP",
+   "title_as_written": "BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-0"
+  },
+  {
+   "date_as_written": "2019-10-16 00:00:00",
+   "number_as_written": "PP 73 TAHUN 2019",
+   "page_retrieved_at": "2026-10-06T01:46:00+00:00",
+   "retrieved_at": "2026-09-21T14:06:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Barang Kena Pajak yang Tergolong Mewah Berupa Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-73-tahun-2019",
+   "validity_as_written": "16 Okt 2019 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=113",
+   "retrieved_at": "2026-10-05T13:13:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=14",
+   "retrieved_at": "2026-09-21T14:06:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-73-tahun-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 45375,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:17:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-0"
+ },
+ "title": "BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

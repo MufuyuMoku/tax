@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-499-kmk-01-2004",
+ "identity": {
+  "code": "KMK",
+  "number": "499/KMK.01",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-10-19",
+   "detail_error": null,
+   "number_as_written": "499/KMK.01/2004",
+   "retrieved_at": "2026-10-06T04:29:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PEMBEBASAN BEA MASUK DAN PPN TIDAK DIPUNGUT ATAS IMPOR BAHAN BAKU OBAT ANTI RETROVIRAL",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-bea-masuk-dan-ppn-tidak-dipungut-atas-impor-bahan-baku-obat-anti"
+  },
+  {
+   "date_as_written": "2004-10-19 00:00:00",
+   "number_as_written": "499/KMK.01/2004",
+   "page_retrieved_at": "2026-10-06T03:13:42+00:00",
+   "retrieved_at": "2026-09-21T14:48:07+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Pembebasan Bea Masuk dan Ppn Tidak Dipungut atas Impor Bahan Baku Obat Anti Retroviral.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/499-kmk-01-2004",
+   "validity_as_written": "19 Okt 2004 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=303",
+   "retrieved_at": "2026-10-05T14:20:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-bea-masuk-dan-ppn-tidak-dipungut-atas-impor-bahan-baku-obat-anti",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=17",
+   "retrieved_at": "2026-09-21T14:48:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/499-kmk-01-2004",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PEMBEBASAN BEA MASUK DAN PPN TIDAK DIPUNGUT ATAS IMPOR BAHAN BAKU OBAT ANTI RETROVIRAL"
+}

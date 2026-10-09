@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 128/KMK.00/1993 — Pemberian Fasilitas Impor atas Impor Barang Modal dalam Rangka Usaha Penyediaan Tenaga Listrik oleh Swasta.",
+    "url": "https://jdih.kemenkeu.go.id/dok/128-kmk-00-1993"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,10 +46,21 @@
    "title_as_written": "PENCABUTAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 128/KMK.00/1993 TENTANG PEMBERIAN FASILITAS IMPOR ATAS BARANG MODAL DALAM RANGKA USAHA PENYEDIAAN TENAGA LISTRIK OLEH SWASTA",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-128kmk001993-tentang"
+  },
+  {
+   "date_as_written": "1998-03-23 00:00:00",
+   "number_as_written": "190/KMK.04/1998",
+   "page_retrieved_at": "2026-10-06T03:41:03+00:00",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Kepmenkeu No.128/KMK.00/1993 tentang Pemberian Fasilitas Impor atas Barang Modal dalam Rangka Usaha Penyediaan Tenaga Listrik oleh Swasta",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/190-kmk-04-1998",
+   "validity_as_written": "23 Mar 1998 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -50,6 +72,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-128kmk001993-tentang",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=75",
+   "retrieved_at": "2026-09-21T14:51:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/190-kmk-04-1998",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-5-1994",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-5-1994--b000-1",
+  "kep-djp-5-1994--b001-2",
+  "kep-djp-5-1994--b002-3",
+  "kep-djp-5-1994--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-01-26",
+   "detail_error": null,
+   "number_as_written": "KEP-05/PJ./1994",
+   "retrieved_at": "2026-10-06T05:59:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLUASAN/PENAMBAHAN KELOMPOK PENGUSAHA JASA YANG DIKENAKAN PPN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perluasanpenambahan-kelompok-pengusaha-jasa-yang-dikenakan-ppn"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=459",
+   "retrieved_at": "2026-10-06T01:47:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perluasanpenambahan-kelompok-pengusaha-jasa-yang-dikenakan-ppn",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7028,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:59:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perluasanpenambahan-kelompok-pengusaha-jasa-yang-dikenakan-ppn"
+ },
+ "title": "PERLUASAN/PENAMBAHAN KELOMPOK PENGUSAHA JASA YANG DIKENAKAN PPN"
+}

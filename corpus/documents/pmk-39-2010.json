@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -16,13 +20,66 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "pmk-39-2010--b000-1",
+  "pmk-39-2010--b001-2",
+  "pmk-39-2010--b002-3",
+  "pmk-39-2010--b003-4",
+  "pmk-39-2010--b004-5",
+  "pmk-39-2010--b005-6",
+  "pmk-39-2010--b006-7",
+  "pmk-39-2010--b007-8",
+  "pmk-39-2010--b008-9",
+  "pmk-39-2010--b009-10"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
-  "revokes": [],
+  "revoked_by": [
+   {
+    "id": "pmk-163-2012",
+    "key": [
+     "PMK",
+     "163",
+     "2012",
+     null
+    ],
+    "number_as_written": "163/PMK.03/2012",
+    "quote": "Peraturan Menteri Keuangan Nomor 39/PMK.03/2010 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BATASAN DAN TATA CARA PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS KEGIATAN MEMBANGUN SENDIRI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "554/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 554/KMK.04/2000",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Kegiatan membangun sendiri yang telah dimulai sebelum berlakunya Peraturan Menteri Keuangan ini dan belum selesai pembangunannya, dikenakan Pajak Pertambahan Nilai berdasarkan Keputusan Menteri Keuangan Nomor 554/KMK.04/2000 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002. 2. Keputusan Menteri Keuangan Nomor 554/KMK.04/2000 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002, … tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002. 2. Keputusan Menteri Keuangan Nomor 554/KMK.04/2000 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-554-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "320/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 320/KMK.03/2002",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Kegiatan membangun sendiri yang telah dimulai sebelum berlakunya Peraturan Menteri Keuangan ini dan belum selesai pembangunannya, dikenakan Pajak Pertambahan Nilai berdasarkan Keputusan Menteri Keuangan Nomor 554/KMK.04/2000 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002. 2. Keputusan Menteri Keuangan Nomor 554/KMK.04/2000 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002, … . 2. Keputusan Menteri Keuangan Nomor 554/KMK.04/2000 tentang Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak Dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 320/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-320-kmk-03-2002"
+   }
+  ],
   "source_listed_related": [
    {
     "note": "jenis relasi menurut JDIH: Mencabut",
@@ -44,6 +101,16 @@
    "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-tata-cara-pengenaan-pajak-pertambahan-nilai-atas-kegiatan-membangun-sendiri-3"
   },
   {
+   "date_as_written": "2010-02-22",
+   "detail_error": null,
+   "number_as_written": "39/PMK.03/2010",
+   "retrieved_at": "2026-10-06T04:06:01+00:00",
+   "source": "DJP",
+   "title_as_written": "BATASAN DAN TATA CARA PENGENAAN PAJAK PERTAMBAHAN NILAI  ATAS KEGIATAN MEMBANGUN SENDIRI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-tata-cara-pengenaan-pajak-pertambahan-nilai-atas-kegiatan-membangun-sendiri-1"
+  },
+  {
    "date_as_written": "2010-02-22 00:00:00",
    "number_as_written": "39/PMK.03/2010",
    "page_retrieved_at": "2026-10-05T13:40:24+00:00",
@@ -56,9 +123,11 @@
   }
  ],
  "status": {
-  "note": "disepakati JDIH & DJP",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 163/2012 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -70,6 +139,14 @@
    "value_verbatim": "Aktif"
   },
   {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=221",
+   "retrieved_at": "2026-10-05T13:52:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-tata-cara-pengenaan-pajak-pertambahan-nilai-atas-kegiatan-membangun-sendiri-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=366",
    "retrieved_at": "2026-09-21T14:40:07+00:00",
    "source": "JDIH",
@@ -78,16 +155,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 7545,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
-  "url": null
+  "retrieved_at": "2026-10-06T04:06:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-tata-cara-pengenaan-pajak-pertambahan-nilai-atas-kegiatan-membangun-sendiri-1"
  },
  "title": "BATASAN DAN TATA CARA PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS KEGIATAN MEMBANGUN SENDIRI"
 }

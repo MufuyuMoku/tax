@@ -1,0 +1,151 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-96-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "96",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-96-2021--b000-1",
+  "pmk-96-2021--b001-2",
+  "pmk-96-2021--b002-3",
+  "pmk-96-2021--b003-4",
+  "pmk-96-2021--b004-5",
+  "pmk-96-2021--b005-6",
+  "pmk-96-2021--b006-7",
+  "pmk-96-2021--b007-8",
+  "pmk-96-2021--b008-9",
+  "pmk-96-2021--b009-10",
+  "pmk-96-2021--b010-11",
+  "pmk-96-2021--b011-12",
+  "pmk-96-2021--b012-13",
+  "pmk-96-2021--b013-14",
+  "pmk-96-2021--b014-15",
+  "pmk-96-2021--b015-16",
+  "pmk-96-2021--b016-17",
+  "pmk-96-2021--b017-18"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "35",
+     "2017",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 35/PMK.010/2017",
+    "quote": "Pasal 17 Pada saat Peraturan Menteri ini mulai berlaku Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2017 Nomor 362) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 86/PMK.010/2019 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2019 Nomor 640), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-35-2017"
+   },
+   {
+    "key": [
+     "PMK",
+     "86",
+     "2019",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 86/PMK.010/2019",
+    "quote": "Pasal 17 Pada saat Peraturan Menteri ini mulai berlaku Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2017 Nomor 362) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 86/PMK.010/2019 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah (Berita Negara Republik Indonesia Tahun 2019 Nomor 640), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-86-2019"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 35/PMK.010/2017 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor Yang\r\nDikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 86/PMK.010/2019 — Perubahan atas Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-010-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 15/PMK.03/2023 — Perubahan atas Peraturan Menteri Keuangan Nomor 96/PMK.03/2021 tentang Penetapan Jenis Barang Kena Pajak Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengecualian Pengenaan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-03-2023"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-07-22",
+   "detail_error": null,
+   "number_as_written": "96/PMK.03/2021",
+   "retrieved_at": "2026-10-06T03:03:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN JENIS BARANG KENA PAJAK SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGECUALIAN PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-barang-kena-pajak-selain-kendaraan-bermotor-yang-dikenai-pajak-penjualan"
+  },
+  {
+   "date_as_written": "2021-07-22 00:00:00",
+   "number_as_written": "96/PMK.03/2021",
+   "page_retrieved_at": "2026-10-06T01:32:38+00:00",
+   "retrieved_at": "2026-09-21T14:21:08+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Jenis Barang Kena Pajak Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengecualian Pengenaan Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-03-2021",
+   "validity_as_written": "26 Jul 2021 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=78",
+   "retrieved_at": "2026-10-05T13:00:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-barang-kena-pajak-selain-kendaraan-bermotor-yang-dikenai-pajak-penjualan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=87",
+   "retrieved_at": "2026-09-21T14:21:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-03-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 29603,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:03:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-barang-kena-pajak-selain-kendaraan-bermotor-yang-dikenai-pajak-penjualan"
+ },
+ "title": "PENETAPAN JENIS BARANG KENA PAJAK SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGECUALIAN PENGENAAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

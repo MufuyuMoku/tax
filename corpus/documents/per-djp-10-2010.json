@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -28,9 +32,67 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-27-2011",
+    "key": [
+     "PER-DJP",
+     "27",
+     "2011",
+     null
+    ],
+    "number_as_written": "PER-27/PJ/2011",
+    "quote": "Mengubah ketentuan Pasal 1 huruf i Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2010 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-67/PJ/2010 sehingga Pasal 1 berbunyi sebagai berikut: Pasal 1 Dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak adalah: a. Pemberitahuan Ekspor Barang (PEB) yang telah diberikan persetujuan ekspor oleh pejabat yang berwenang dari Direktorat Jenderal Bea dan Cukai dan dilampiri dengan invoice yang merupakan satu kesatuan yang tidak terpisahkan dengan PEB tersebut;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-10/PJ./2010 TENTANG DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK"
+   },
+   {
+    "id": "per-djp-33-2014",
+    "key": [
+     "PER-DJP",
+     "33",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-33/PJ/2014",
+    "quote": "Mengubah ketentuan Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2010 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2011 sehingga Pasal 1 berbunyi sebagai berikut: Pasal 1 Dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak adalah: a. Pemberitahuan Ekspor Barang (PEB) yang telah diberikan persetujuan ekspor oleh pejabat yang berwenang dari Direktorat Jenderal Bea dan Cukai dan dilampiri dengan invoice yang merupakan satu kesatuan yang tidak terpisahkan dengan PEB tersebut;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-10/PJ/2010 TENTANG DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK"
+   },
+   {
+    "id": "per-djp-67-2010",
+    "key": [
+     "PER-DJP",
+     "67",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-67/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2010 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak, diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-10/PJ./2010 TENTANG DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK"
+   }
+  ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-13-2019",
+    "key": [
+     "PER-DJP",
+     "13",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-13/PJ/2019",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal mi mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2010 tentang Dokumen Tertentu yang Kedudukannya Dipersamakan dengan Faktur Pajak yang telah diubah beberapa kali dengan Peraturan Direktur Jenderal Pajak: a. Nomor PER-67/PJ/2010; b. Nomor PER-27/PJ/2011; c. Nomor PER-33/PJ/2014, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "DOKUMEN TERTENTU YANG KEDUDUKANNYA DIPERSAMAKAN DENGAN FAKTUR PAJAK"
+   }
+  ],
   "revokes": [
    {
     "key": [

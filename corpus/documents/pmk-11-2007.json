@@ -1,0 +1,125 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-11-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "11",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-11-2007--b000-i",
+  "pmk-11-2007--b001-ii",
+  "pmk-11-2007--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "155/PMK.03",
+     "2001",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 155/PMK.03/2001",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan/ atau Penyerahan Barang Kena Pajak Tertentu Yang Bersifat Strategis yang telah beberapa kali diubah dengan Keputusan Menteri Keuangan: 1. Nomor 363/KMK.03/2002; 2. Nomor 371/KMK.03/2003; diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kmk-155-pmk-03-2001"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 155/KMK.03/2001 — Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis",
+    "url": "https://jdih.kemenkeu.go.id/dok/155-kmk-03-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 363/KMK.03/2002 — Perubahan atas Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis.",
+    "url": "https://jdih.kemenkeu.go.id/dok/363-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 31/PMK.03/2008 — Perubahan Keempat atas Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis",
+    "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2008"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-02-14",
+   "detail_error": null,
+   "number_as_written": "11/PMK.03/2007",
+   "retrieved_at": "2026-10-06T04:17:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 155/KMK.03/2001 TENTANG PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-155kmk032001-tentang-pelaksanaan"
+  },
+  {
+   "date_as_written": "2007-02-14 00:00:00",
+   "number_as_written": "11/PMK.03/2007",
+   "page_retrieved_at": "2026-10-06T03:07:13+00:00",
+   "retrieved_at": "2026-09-21T14:44:59+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor 155/KMK.03/2001 tentang Pelaksanaan Pajak Pertambahan Nilai yang Dibebankan atas Impor dan/atau Penyerahan Barang Kena Pajak Tententu yang Bersifat Strategis",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2007",
+   "validity_as_written": "14 Feb 2007 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=263",
+   "retrieved_at": "2026-10-05T14:07:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-155kmk032001-tentang-pelaksanaan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=439",
+   "retrieved_at": "2026-09-21T14:44:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9462,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:17:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-155kmk032001-tentang-pelaksanaan"
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 155/KMK.03/2001 TENTANG PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS"
+}

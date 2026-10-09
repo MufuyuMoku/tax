@@ -1,0 +1,156 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK186PMK032022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "186",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK186PMK032022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-186-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "186",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-186-2022--b000-1",
+  "pmk-186-2022--b001-2",
+  "pmk-186-2022--b002-3",
+  "pmk-186-2022--b003-4",
+  "pmk-186-2022--b004-5",
+  "pmk-186-2022--b005-6",
+  "pmk-186-2022--b006-7",
+  "pmk-186-2022--b007-8",
+  "pmk-186-2022--b008-9",
+  "pmk-186-2022--b009-10",
+  "pmk-186-2022--b010-11",
+  "pmk-186-2022--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "78",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 78/PMK.03/2010",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak (Berita Negara Republik Indonesia Tahun 2010 Nomor 168) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 135/PMK.011/2014 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 828), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-78-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "135",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 135/PMK.011/2014",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak (Berita Negara Republik Indonesia Tahun 2010 Nomor 168) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 135/PMK.011/2014 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 828), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-135-2014"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 78/PMK.03/2010 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 21/PMK.011/2014 — Perubahan atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Keria Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-011-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 135/PMK.011/2014 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-011-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-12-12",
+   "detail_error": null,
+   "number_as_written": "186/PMK.03/2022",
+   "retrieved_at": "2026-10-06T02:52:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-melakukan-penyerahan-0"
+  },
+  {
+   "date_as_written": "2022-12-12 00:00:00",
+   "number_as_written": "186/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T14:53:37+00:00",
+   "retrieved_at": "2026-09-21T14:18:54+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pedoman Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2022",
+   "validity_as_written": "12 Des 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=56",
+   "retrieved_at": "2026-10-05T07:42:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-melakukan-penyerahan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=55",
+   "retrieved_at": "2026-09-21T14:18:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15749,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:52:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-melakukan-penyerahan-0"
+ },
+ "title": "PEDOMAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK"
+}

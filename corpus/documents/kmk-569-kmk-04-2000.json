@@ -1,0 +1,195 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-569-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "569/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-569-kmk-04-2000--b000-1",
+  "kmk-569-kmk-04-2000--b001-2",
+  "kmk-569-kmk-04-2000--b002-3",
+  "kmk-569-kmk-04-2000--b003-4",
+  "kmk-569-kmk-04-2000--b004-5",
+  "kmk-569-kmk-04-2000--b005-6",
+  "kmk-569-kmk-04-2000--b006-7",
+  "kmk-569-kmk-04-2000--b007-8",
+  "kmk-569-kmk-04-2000--b008-9",
+  "kmk-569-kmk-04-2000--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kmk-140-kmk-03-2002",
+    "key": [
+     "KMK",
+     "140/KMK.03",
+     "2002",
+     null
+    ],
+    "number_as_written": "140/KMK.03/2002",
+    "quote": "Mengubah Lampiran III dan Lampiran IV Keputusan Menteri Keuangan Nomor 569/KMK.04/2000 tentang Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 460/KMK.03/2001, sehingga menjadi sebagaimana ditetapkan dalam Lampiran I dan Lampiran II Keputusan Menteri Keuangan ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 569/KMK.04/2000 TENTANG JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   },
+   {
+    "id": "kmk-460-kmk-03-2001",
+    "key": [
+     "KMK",
+     "460/KMK.03",
+     "2001",
+     null
+    ],
+    "number_as_written": "460/KMK.03/2001",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor : 569/KMK.04/2000tentang Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 569/KMK.04/2000 TENTANG JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-355-kmk-03-2003",
+    "key": [
+     "KMK",
+     "355/KMK.03",
+     "2003",
+     null
+    ],
+    "number_as_written": "355/KMK.03/2003",
+    "quote": "Pasal 13 Pada saat Keputusan Menteri Keuangan ini mulai berlaku Keputusan Menteri Keuangan Nomor 569/KMK.04/2000 tentang Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 140/KMK.03/2002 beserta ralatnya tertanggal 30 April 2002, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "272/KMK.04",
+     "1995",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 272/KMK.04/1995",
+    "quote": "Pasal 9 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 272/KMK.04/1995 tentang Macam Dan Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 348/KMK.04/1999dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-272-kmk-04-1995"
+   },
+   {
+    "key": [
+     "KMK",
+     "348/KMK.04",
+     "1999",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 348/KMK.04/1999",
+    "quote": "Pasal 9 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 272/KMK.04/1995 tentang Macam Dan Jenis Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 348/KMK.04/1999dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-348-kmk-04-1999"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 348/KMK.04/1999 — Macam dan Jenis Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Ppn Bm)",
+    "url": "https://jdih.kemenkeu.go.id/dok/348-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 272/KMK.04/1995 — Macam dan Jenis Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Ppn Bm)",
+    "url": "https://jdih.kemenkeu.go.id/dok/272-kmk-04-1995"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 140/KMK.03/2002 — Perubahan Kedua atas Kepmenkeu No. 569/KMK.04/2000 tentang Jenis Kenderaan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Ppn Bm)",
+    "url": "https://jdih.kemenkeu.go.id/dok/140-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 355/KMK.03/2003 — Jenis Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/355-kmk-03-2003"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-26",
+   "detail_error": null,
+   "number_as_written": "569/KMK.04/2000",
+   "retrieved_at": "2026-10-06T05:16:31+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-kendaraan-bermotor-yang-dikenakan-pajak-penjualan-atas-barang-mewah"
+  },
+  {
+   "date_as_written": "2000-12-26 00:00:00",
+   "number_as_written": "569/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T03:23:14+00:00",
+   "retrieved_at": "2026-09-21T14:49:35+00:00",
+   "source": "JDIH",
+   "title_as_written": "Jenis Kenderan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah (Ppnbm).",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/569-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks KMK 355/KMK.03/2003 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=378",
+   "retrieved_at": "2026-10-05T14:47:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-kendaraan-bermotor-yang-dikenakan-pajak-penjualan-atas-barang-mewah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=39",
+   "retrieved_at": "2026-09-21T14:49:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/569-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11433,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:16:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jenis-kendaraan-bermotor-yang-dikenakan-pajak-penjualan-atas-barang-mewah"
+ },
+ "title": "JENIS KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

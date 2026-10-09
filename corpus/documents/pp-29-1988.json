@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-29-1988",
+ "identity": {
+  "code": "PP",
+  "number": "29",
+  "variant": null,
+  "year": "1988"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1988-12-27",
+   "detail_error": null,
+   "number_as_written": "29 TAHUN 1988",
+   "retrieved_at": "2026-10-06T06:19:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PASAL 16 PERATURAN PEMERINTAH NOMOR 22 TAHUN 1985 TENTANG PELAKSANAAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-pasal-16-peraturan-pemerintah-nomor-22-tahun-1985-tentang-pelaksanaan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=477",
+   "retrieved_at": "2026-10-06T02:18:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-pasal-16-peraturan-pemerintah-nomor-22-tahun-1985-tentang-pelaksanaan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS PASAL 16 PERATURAN PEMERINTAH NOMOR 22 TAHUN 1985 TENTANG PELAKSANAAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984"
+}

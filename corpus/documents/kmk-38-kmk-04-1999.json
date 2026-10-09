@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 130/KMK.05/2000 — Perubahan Kepmenkeu No.97/KMK.04/98, No.35/KMK.04/99, No.36/KMK.04/99.....Dst tentang Perlakuan Perpajakan dan Kepabeanan untuk Kawasan Pengembangan Ekonomi Terpadu (Kapet)",
+    "url": "https://jdih.kemenkeu.go.id/dok/130-kmk-05-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 200/KMK.05/2000 — Perlakuan Perpajakan dan Kepabeanan untuk Kawasan Pengembangan Ekonomi Terpadu (Kapet)",
+    "url": "https://jdih.kemenkeu.go.id/dok/200-kmk-05-2000"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,10 +52,31 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU MANADO-BITUNG",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-manado"
+  },
+  {
+   "date_as_written": "1999-02-01",
+   "detail_error": null,
+   "number_as_written": "38/KMK.04/1999",
+   "retrieved_at": "2026-10-06T05:30:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU MANADO-BITUNG",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-manado-0"
+  },
+  {
+   "date_as_written": "1999-02-01 00:00:00",
+   "number_as_written": "38/KMK.04/1999",
+   "page_retrieved_at": "2026-10-06T03:34:51+00:00",
+   "retrieved_at": "2026-09-21T14:51:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan dan Kepabeanan untuk Kawasan Pengembangan Ekonomi Terpadu (Kapet) Manado-Bitung",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/38-kmk-04-1999",
+   "validity_as_written": "01 Feb 1999 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -50,6 +88,22 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-manado",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=415",
+   "retrieved_at": "2026-10-05T15:00:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-manado-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=64",
+   "retrieved_at": "2026-09-21T14:51:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/38-kmk-04-1999",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": null,

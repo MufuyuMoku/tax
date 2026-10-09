@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-48-2020",
+ "identity": {
+  "code": "PP",
+  "number": "48",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-48-2020--b000-i",
+  "pp-48-2020--b001-ii",
+  "pp-48-2020--p002-i",
+  "pp-48-2020--p003-1",
+  "pp-48-2020--p004-3",
+  "pp-48-2020--p005-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "81",
+     "2015",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 81 TAHUN 2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 81 Tahun 2015 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 247, Tambahan Lembaran Negara Republik Indonesia Nomor 5750) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-81-2015"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pp-49-2022",
+    "key": [
+     "PP",
+     "49",
+     "2022",
+     null
+    ],
+    "number_as_written": "49 TAHUN 2022",
+    "quote": "Pasal 37 Pada saat Peraturan Pemerintah ini mulai berlaku: … b. Peraturan Pemerintah Nomor 81 Tahun 2015 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 247, Tambahan Lembaran Negara Republik Indonesia Nomor 5750) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 48 Tahun 2020 tentang Perubahan atas Peraturan Pemerintah Nomor 81 Tahun 2015 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 196, Tambahan Lembaran Negara Republik Indonesia Nomor 6549); … d. Peraturan Pemerintah Nomor 50 Tahun 2019 tentang Impor dan Penyerahan Alat Angkutan Tertentu serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 6366), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI DIBEBASKAN DAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH TIDAK DIPUNGUT ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU DAN/ATAU PEMANFAATAN JASA KENA PAJAK TERTENTU DARI LUAR DAERAH PABEAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 81 TAHUN 2015 — Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-81-tahun-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-08-24",
+   "detail_error": null,
+   "number_as_written": "48 TAHUN 2020",
+   "retrieved_at": "2026-10-06T03:12:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 81 TAHUN 2015 TENTANG IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-81-tahun-2015-tentang-impor-danatau-penyerahan"
+  },
+  {
+   "date_as_written": "2020-08-24 00:00:00",
+   "number_as_written": "PP 48 TAHUN 2020",
+   "page_retrieved_at": "2026-10-06T01:40:29+00:00",
+   "retrieved_at": "2026-09-21T14:06:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 81 Tahun 2015 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-48-tahun-2020",
+   "validity_as_written": "24 Agu 2020 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PP 49/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=97",
+   "retrieved_at": "2026-10-05T13:07:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-81-tahun-2015-tentang-impor-danatau-penyerahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=12",
+   "retrieved_at": "2026-09-21T14:06:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-48-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10988,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:12:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-81-tahun-2015-tentang-impor-danatau-penyerahan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 81 TAHUN 2015 TENTANG IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

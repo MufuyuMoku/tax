@@ -1,0 +1,104 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-25-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-25-2013--b000-1",
+  "per-djp-25-2013--b001-2",
+  "per-djp-25-2013--b002-3",
+  "per-djp-25-2013--b003-4",
+  "per-djp-25-2013--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "6",
+     "1983",
+     null
+    ],
+    "name": "Undang-Undang Nomor 6 Tahun 1983",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "rejected": "hierarki: PER-DJP tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-6-1983"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2020",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-07/PJ/2020",
+    "quote": "Pasal 22 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-25/PJ/2013 tentang Tempat Pendaftaran dan/atau Tempat Pelaporan Usaha bagi Wajib Pajak sebagai Pengusaha yang Dikenai Pajak Berdasarkan Undang-Undang Pajak Pertambahan Nilai 1984 dan Perubahannya yang Melakukan Usaha di Bidang Pengalihan Tanah dan/atau Bangunan; dan b. Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2018 tentang Tempat Pendaftaran Wajib Pajak dan/atau Tempat Pelaporan Usaha Pengusaha Kena Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus dan Kantor Pelayanan Pajak Madya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TEMPAT PENDAFTARAN WAJIB PAJAK DAN PELAKU USAHA MELALUI SISTEM ELEKTRONIK DAN/ATAU TEMPAT PELAPORAN USAHA PENGUSAHA KENA PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-07-03",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ/2013",
+   "retrieved_at": "2026-10-06T03:41:31+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN DAN/ATAU TEMPAT PELAPORAN USAHA BAGI WAJIB PAJAK SEBAGAI PENGUSAHA YANG DIKENAI PAJAK BERDASARKAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984 DAN PERUBAHANNYA YANG MELAKUKAN USAHA DI BIDANG PENGALIHAN TANAH DAN/ ATAU BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-danatau-tempat-pelaporan-usaha-bagi-wajib-pajak-sebagai-pengusaha-yang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=193",
+   "retrieved_at": "2026-10-05T13:42:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-danatau-tempat-pelaporan-usaha-bagi-wajib-pajak-sebagai-pengusaha-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5411,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:41:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-danatau-tempat-pelaporan-usaha-bagi-wajib-pajak-sebagai-pengusaha-yang"
+ },
+ "title": "TEMPAT PENDAFTARAN DAN/ATAU TEMPAT PELAPORAN USAHA BAGI WAJIB PAJAK SEBAGAI PENGUSAHA YANG DIKENAI PAJAK BERDASARKAN UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984 DAN PERUBAHANNYA YANG MELAKUKAN USAHA DI BIDANG PENGALIHAN TANAH DAN/ ATAU BANGUNAN"
+}

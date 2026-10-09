@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-301-kmk-04-1989",
+ "identity": {
+  "code": "KMK",
+  "number": "301/KMK.04",
+  "variant": null,
+  "year": "1989"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1989-04-01",
+   "detail_error": null,
+   "number_as_written": "301/KMK.04/1989",
+   "retrieved_at": "2026-10-06T06:18:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PERATURAN PEMERINTAH NOMOR 28 TAHUN 1988, PERATURAN PEMERINTAH NOMOR 29 TAHUN 1988 DAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 56 TAHUN 1988 DALAM MASA PERALIHAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/petunjuk-pelaksanaan-peraturan-pemerintah-nomor-28-tahun-1988-peraturan-pemerintah-nomor"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=477",
+   "retrieved_at": "2026-10-06T02:18:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/petunjuk-pelaksanaan-peraturan-pemerintah-nomor-28-tahun-1988-peraturan-pemerintah-nomor",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PETUNJUK PELAKSANAAN PERATURAN PEMERINTAH NOMOR 28 TAHUN 1988, PERATURAN PEMERINTAH NOMOR 29 TAHUN 1988 DAN KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 56 TAHUN 1988 DALAM MASA PERALIHAN"
+}

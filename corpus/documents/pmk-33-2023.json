@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -40,7 +44,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 174/PMK.04/2022 — Tempat Penyelenggaraan Pameran Berikat",
+    "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -52,10 +63,21 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.04/2022 TENTANG TEMPAT PENYELENGGARAAN PAMERAN BERIKAT",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk042022-tentang-tempat"
+  },
+  {
+   "date_as_written": "2023-03-20 00:00:00",
+   "number_as_written": "PMK 33 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:52:56+00:00",
+   "retrieved_at": "2026-09-21T14:18:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.04/2022 tentang Tempat Penyelenggaraan Pameran Berikat",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-33-tahun-2023",
+   "validity_as_written": "24 Mar 2023 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -67,6 +89,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-174pmk042022-tentang-tempat",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=47",
+   "retrieved_at": "2026-09-21T14:18:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-33-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "perubahan",

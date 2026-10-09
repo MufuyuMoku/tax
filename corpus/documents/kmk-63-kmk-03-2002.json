@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-63-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "63/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-370-kmk-03-2003",
+    "key": [
+     "KMK",
+     "370/KMK.03",
+     "2003",
+     null
+    ],
+    "number_as_written": "370/KMK.03/2003",
+    "quote": "Pasal 21 Pada saat Keputusan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Nomor 10/KMK.04/2001 tentang Pemberian Dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan Atas Impor Dan Atau Penyerahan Barang Kena Pajak Tertentu Dan Atau Penyerahan Jasa Kena Pajak Tertentu sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 63/KMK.03/2002 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN/ATAU PENYERAHAN JASA KENA PAJAK TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-26",
+   "detail_error": null,
+   "number_as_written": "63/KMK.03/2002",
+   "retrieved_at": "2026-10-06T04:58:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 10/KMK.04/2001 TENTANG PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-10kmk042001-tentang-pemberian-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=351",
+   "retrieved_at": "2026-10-05T14:38:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-10kmk042001-tentang-pemberian-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 10/KMK.04/2001 TENTANG PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU"
+}

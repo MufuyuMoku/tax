@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-242-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "242",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-242-2008--b000-1",
+  "pmk-242-2008--b001-2",
+  "pmk-242-2008--b002-3",
+  "pmk-242-2008--b003-4",
+  "pmk-242-2008--b004-5",
+  "pmk-242-2008--b005-6",
+  "pmk-242-2008--b006-7",
+  "pmk-242-2008--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-31",
+   "detail_error": null,
+   "number_as_written": "242/PMK.011/2008",
+   "retrieved_at": "2026-10-06T04:10:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR BARANG UNTUK KEGIATAN USAHA EKSPLORASI HULU MINYAK DAN GAS BUMI SERTA PANAS BUMI PADA TAHUN ANGGARAN 2009",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-barang-untuk-kegiatan-usaha-0"
+  },
+  {
+   "date_as_written": "2008-12-31 00:00:00",
+   "number_as_written": "242/PMK.011/2008",
+   "page_retrieved_at": "2026-10-06T03:01:45+00:00",
+   "retrieved_at": "2026-09-21T14:42:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor Barang untuk Kegiatan Usaha Eksplorasi Hulu Minyak dan Gas Bumi Serta Panas Bumi Tahun Anggaran 2009.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-011-2008",
+   "validity_as_written": "31 Des 2008 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=227",
+   "retrieved_at": "2026-10-05T13:54:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-barang-untuk-kegiatan-usaha-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=395",
+   "retrieved_at": "2026-09-21T14:42:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-011-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9132,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:10:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-barang-untuk-kegiatan-usaha-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR BARANG UNTUK KEGIATAN USAHA EKSPLORASI HULU MINYAK DAN GAS BUMI SERTA PANAS BUMI PADA TAHUN ANGGARAN 2009"
+}

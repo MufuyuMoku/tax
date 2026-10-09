@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-16-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "16",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-16-2005--b000-1",
+  "pmk-16-2005--b001-2",
+  "pmk-16-2005--b002-3",
+  "pmk-16-2005--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-45-2009",
+    "key": [
+     "PMK",
+     "45",
+     "2009",
+     null
+    ],
+    "number_as_written": "45/PMK.03/2009",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 3. Peraturan Menteri Keuangan Nomor 16/PMK.03/2005 tentang Perlakuan Pajak Pertambahan Pajak Penjualan atas Barang Mewah dan Bea Masuk, di Kawasan Berikat ( Bonded Zone ) Daerah Industri Pulau Batam; 4. Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan Dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 02/PMK.011/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGAWASAN, PENGADMINISTRASIAN, PEMBAYARAN, SERTA PELUNASAN PAJAK PERTAMBAHAN NILAI DAN/ATAU PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI KAWASAN BEBAS KE TEMPAT LAIN DALAM DAERAH PABEAN DAN PEMASUKAN DAN/ ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-02-28",
+   "detail_error": null,
+   "number_as_written": "16/PMK.03/2005",
+   "retrieved_at": "2026-10-06T04:27:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH DAN BEA MASUK, DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah-dan-bea-masuk-di-0"
+  },
+  {
+   "date_as_written": "2005-02-28 00:00:00",
+   "number_as_written": "16/PMK.03/2005",
+   "page_retrieved_at": "2026-10-06T03:12:20+00:00",
+   "retrieved_at": "2026-09-21T14:46:46+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah dan Bea Masuk, di Kawasan Berikat (Bonded Zone)Daerah Industri Pulau Batam",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2005",
+   "validity_as_written": "28 Feb 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 45/2009 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=297",
+   "retrieved_at": "2026-10-05T14:18:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah-dan-bea-masuk-di-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=466",
+   "retrieved_at": "2026-09-21T14:46:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5442,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:27:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-pertambahan-nilai-pajak-penjualan-atas-barang-mewah-dan-bea-masuk-di-0"
+ },
+ "title": "PERLAKUAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH DAN BEA MASUK, DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM"
+}

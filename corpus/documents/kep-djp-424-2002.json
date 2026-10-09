@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-424-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "424",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-159-2006",
+    "key": [
+     "PER-DJP",
+     "159",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-159/PJ./2006",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku : … b. Keputusan Direktur Jenderal Pajak Nomor KEP-424/PJ./2002 tentang Penerbitan dan Pengkreditan Faktur Pajak yang Dibuat Tidak Tepat Waktu; dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-09-16",
+   "detail_error": null,
+   "number_as_written": "KEP - 424/PJ./2002",
+   "retrieved_at": "2026-10-06T04:44:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERBITAN DAN PENGKREDITAN FAKTUR PAJAK YANG DIBUAT TIDAK TEPAT WAKTU",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penerbitan-dan-pengkreditan-faktur-pajak-yang-dibuat-tidak-tepat-waktu"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=337",
+   "retrieved_at": "2026-10-05T14:33:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penerbitan-dan-pengkreditan-faktur-pajak-yang-dibuat-tidak-tepat-waktu",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENERBITAN DAN PENGKREDITAN FAKTUR PAJAK YANG DIBUAT TIDAK TEPAT WAKTU"
+}

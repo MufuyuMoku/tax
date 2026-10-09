@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-22-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "22",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-22-2012--b000-1",
+  "per-djp-22-2012--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "87",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-87/PJ/2002",
+    "quote": "Pasal 1 Keputusan Direktur Jenderal Pajak Nomor KEP-87/PJ/2002 tentang Pengenaan Pajak Pertambahan Nilai dan PajakPenjualan atas Barang Mewah atas Pemakaian Sendiri dan/atau Pemberian Cuma-cuma Barang Kena Pajak dan/atau Jasa Kena Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-87-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-11-01",
+   "detail_error": null,
+   "number_as_written": "PER-22/PJ/2012",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-87/PJ/2002 TENTANG PENGENAAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEMAKAIAN SENDIRI DAN/ATAU PEMBERIAN CUMA-CUMA BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-direktur-jenderal-pajak-nomor-kep-87pj2002-tentang-pengenaan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=200",
+   "retrieved_at": "2026-10-05T13:45:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-direktur-jenderal-pajak-nomor-kep-87pj2002-tentang-pengenaan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3375,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:46:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-direktur-jenderal-pajak-nomor-kep-87pj2002-tentang-pengenaan-pajak"
+ },
+ "title": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-87/PJ/2002 TENTANG PENGENAAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEMAKAIAN SENDIRI DAN/ATAU PEMBERIAN CUMA-CUMA BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK"
+}

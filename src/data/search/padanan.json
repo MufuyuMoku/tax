@@ -100,6 +100,91 @@
       "lingkup": "judul_tanpa_teks",
       "bukti": "di judul 549 dokumen tanpa teks: 'tanah dan/atau bangunan' 12, 'rumah' 1",
       "catatan": "bersama kelompok sebelumnya: 'jual rumah kena pajak berapa' 157 ke 42; sendirian tidak berarti"
+    },
+    {
+      "bentuk": [
+        "dicicil",
+        "diangsur",
+        "mengangsur",
+        "angsuran"
+      ],
+      "bukti": "dicicil 0 kali; diangsur 26 kali (7 dokumen); mengangsur 95 kali (44 dokumen); angsuran 889 kali (106 dokumen)",
+      "catatan": "menolong 'tunggakan pajak boleh dicicil' (57 ke 24) tanpa memburukkan pertanyaan lain (K-073)"
+    },
+    {
+      "bentuk": [
+        "hangus",
+        "kedaluwarsa",
+        "daluwarsa"
+      ],
+      "bukti": "hangus 0 kali; kedaluwarsa 7 kali (4 dokumen); daluwarsa 207 kali (48 dokumen)",
+      "catatan": "menolong 'utang pajak lama apakah bisa hangus' (41 ke 8) (K-073)"
+    },
+    {
+      "bentuk": [
+        "protes",
+        "keberatan"
+      ],
+      "bukti": "protes 0 kali; keberatan 2.040 kali (153 dokumen)",
+      "catatan": "menolong 'tidak setuju dengan ketetapan pajak ... bisa protes' (17 ke 6); 'tidak setuju ~ keberatan' ditolak karena memburukkan pertanyaan yang sama (K-073)"
+    },
+    {
+      "bentuk": [
+        "tunggakan",
+        "utang pajak"
+      ],
+      "bukti": "tunggakan 85 kali (42 dokumen); utang pajak 1.166 kali (103 dokumen)",
+      "catatan": "menolong angsuran tunggakan, daluwarsa penagihan, dan surat teguran (K-073)"
+    },
+    {
+      "bentuk": [
+        "ppn pembelian",
+        "ppn waktu beli",
+        "pajak masukan"
+      ],
+      "bukti": "ppn pembelian 0 kali; pajak masukan 1.377 kali (182 dokumen)",
+      "catatan": "menolong 'PPN waktu beli bahan bisa dikurangkan' (K-073)"
+    },
+    {
+      "bentuk": [
+        "ppn penjualan",
+        "ppn waktu jual",
+        "pajak keluaran"
+      ],
+      "bukti": "ppn penjualan 0 kali; pajak keluaran 314 kali (70 dokumen)",
+      "catatan": "menolong pertanyaan yang sama (K-073)"
+    },
+    {
+      "bentuk": [
+        "bebas ppn",
+        "dibebaskan dari pengenaan pajak pertambahan nilai"
+      ],
+      "bukti": "bebas ppn 4 kali (2 dokumen); dibebaskan dari pengenaan pajak pertambahan nilai 345 kali (79 dokumen)",
+      "catatan": "menolong 'barang apa saja yang bebas PPN' (58 ke 49) (K-073)"
+    },
+    {
+      "bentuk": [
+        "bangun rumah sendiri",
+        "kegiatan membangun sendiri"
+      ],
+      "bukti": "bangun rumah sendiri 0 kali; kegiatan membangun sendiri 177 kali (23 dokumen)",
+      "catatan": "menolong 'bangun rumah sendiri kena PPN' (38 ke 5) (K-073)"
+    },
+    {
+      "bentuk": [
+        "streaming",
+        "jasa kena pajak dari luar daerah pabean"
+      ],
+      "bukti": "streaming 2 kali (2 dokumen); jasa kena pajak dari luar daerah pabean 303 kali (98 dokumen)",
+      "catatan": "menolong 'langganan aplikasi streaming dari luar negeri kena PPN' (50 ke 22); 'luar negeri ~ luar daerah pabean' ditolak karena memburukkan tiga pertanyaan (K-073)"
+    },
+    {
+      "bentuk": [
+        "jadi pkp",
+        "dikukuhkan sebagai pengusaha kena pajak"
+      ],
+      "bukti": "jadi pkp 0 kali; dikukuhkan sebagai pengusaha kena pajak 468 kali (132 dokumen)",
+      "catatan": "menolong 'omzet berapa harus jadi PKP' (65 ke 3) (K-073)"
     }
   ]
 }

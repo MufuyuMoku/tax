@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-164-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "164/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-03-27",
+   "detail_error": null,
+   "number_as_written": "164/KMK.04/1986",
+   "retrieved_at": "2026-10-06T06:32:26+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMUNGUTAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH KANTOR PERBENDAHARAAN NEGARA UNTUK PEMBAYARAN OLEH PEMERINTAH ATAS PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK DARI PENGUSAHA KENA PAJAK REKANAN PEMERINTAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-dan-pelaporan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-1"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=486",
+   "retrieved_at": "2026-10-06T02:21:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-dan-pelaporan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMUNGUTAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH KANTOR PERBENDAHARAAN NEGARA UNTUK PEMBAYARAN OLEH PEMERINTAH ATAS PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK DARI PENGUSAHA KENA PAJAK REKANAN PEMERINTAH"
+}

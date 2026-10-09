@@ -1,0 +1,104 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-50-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "50",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-50-2005--b000-i",
+  "pmk-50-2005--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "524/KMK.03",
+     "2001",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 524/KMK.03/2001",
+    "quote": "Mengubah ketentuan Pasal 1 angka 5 Keputusan Menteri Keuangan Nomor 524/KMK.03/2001 tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan Pelajar serta Perumahan Lainnya Yang Atas Penyerahannya Dibebaskan dari Pengenaan Pajak Pertambahan Nilai sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 197/KMK.03/2004 sehingga Pasal 1 berbunyi sebagai berikut : ”Pasal 1 Dalam Peraturan Menteri Keuangan ini yang dimaksud dengan : 1. Rumah Sederhana dan Rumah Sangat Sederhana adalah Rumah Sederhana Sehat (Rs Sehat/RSH) dan Rumah Inti Tumbuh (RIT) yang perolehannya dibiayai melalui fasilitas kredit bersubsidi maupun tidak bersubsidi dengan harga jual tidak melebihi Rp 36.000.000,00 (tiga puluh enam juta rupiah).",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-524-kmk-03-2001"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-06-21",
+   "detail_error": null,
+   "number_as_written": "50/PMK.03/2005",
+   "retrieved_at": "2026-10-06T04:25:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 524/KMK.03/2001 TENTANG BATASAN RUMAH SEDERHANA, RUMAH SANGAT SEDERHANA, RUMAH SUSUN SEDERHANA, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR SERTA PERUMAHAN LAINNYA YANG ATAS PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-524kmk032001-tentang-batasan-rumah"
+  },
+  {
+   "date_as_written": "2005-06-21 00:00:00",
+   "number_as_written": "50/PMK.03/2005",
+   "page_retrieved_at": "2026-10-06T03:11:39+00:00",
+   "retrieved_at": "2026-09-21T14:46:34+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor 524/KMK.03/2001Tentang Batasan Rumah Sederhana, Rumah Sangat Sederhana, Rumah Susun Sederhana, Pondok Boro, Asrama Mahasiswa dan .......... Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/50-pmk-03-2005",
+   "validity_as_written": "21 Jun 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=293",
+   "retrieved_at": "2026-10-05T14:17:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-524kmk032001-tentang-batasan-rumah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=463",
+   "retrieved_at": "2026-09-21T14:46:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/50-pmk-03-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5707,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:25:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-524kmk032001-tentang-batasan-rumah"
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 524/KMK.03/2001 TENTANG BATASAN RUMAH SEDERHANA, RUMAH SANGAT SEDERHANA, RUMAH SUSUN SEDERHANA, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR SERTA PERUMAHAN LAINNYA YANG ATAS PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

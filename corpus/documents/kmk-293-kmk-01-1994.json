@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -35,10 +39,21 @@
    "title_as_written": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 855/KMK.01/1993 TENTANG ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE)",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-855kmk011993-tentang-entrepot-produksi"
+  },
+  {
+   "date_as_written": "1994-06-27 00:00:00",
+   "number_as_written": "293/KMK.01/1994",
+   "page_retrieved_at": "2026-10-06T03:53:09+00:00",
+   "retrieved_at": "2026-09-21T14:54:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyempurnaan Keputusan Menteri Keuangan Nomor 855/KMK.01/19 93 tentang Entrepot Produksi untuk Tujuan Ekspor.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/293-kmk-01-1994",
+   "validity_as_written": "27 Jun 1994 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -50,6 +65,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-855kmk011993-tentang-entrepot-produksi",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=110",
+   "retrieved_at": "2026-09-21T14:54:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/293-kmk-01-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

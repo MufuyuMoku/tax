@@ -1,0 +1,131 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-251-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "251/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-251-kmk-03-2002--b000-i",
+  "kmk-251-kmk-03-2002--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "567/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 567/KMK.04/2000",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 567/KMK.04/2000 tentang Nilai Lain sebagai Dasar Pengenaan Pajak, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-567-kmk-04-2000"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-75-2010",
+    "key": [
+     "PMK",
+     "75",
+     "2010",
+     null
+    ],
+    "number_as_written": "75/PMK.03/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 567/KMK.04/2000 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 251/KMK.03/2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 567/KMK.04/2000 — Nilai Lain Sebagai Dasar Pengenaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/567-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 75/PMK.03/2010 — Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2010"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-05-31",
+   "detail_error": null,
+   "number_as_written": "251/KMK.03/2002",
+   "retrieved_at": "2026-10-06T04:51:03+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 567/KMK.04/2000 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-567kmk042000-tentang-nilai-lain-sebagai"
+  },
+  {
+   "date_as_written": "2002-05-31 00:00:00",
+   "number_as_written": "251/KMK.03/2002",
+   "page_retrieved_at": "2026-10-06T03:18:28+00:00",
+   "retrieved_at": "2026-09-21T14:48:58+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan Nomor 567/KMK.04/2000 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/251-kmk-03-2002",
+   "validity_as_written": "31 Mei 2002 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=344",
+   "retrieved_at": "2026-10-05T14:35:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-567kmk042000-tentang-nilai-lain-sebagai",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=30",
+   "retrieved_at": "2026-09-21T14:48:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/251-kmk-03-2002",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4445,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:51:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-567kmk042000-tentang-nilai-lain-sebagai"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 567/KMK.04/2000 TENTANG NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK"
+}

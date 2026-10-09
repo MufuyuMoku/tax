@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-503-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "503",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-503-2001--b000-1"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-754-2001",
+    "key": [
+     "KEP-DJP",
+     "754",
+     "2001",
+     null
+    ],
+    "number_as_written": "KEP-754/PJ./2001",
+    "quote": "Pasal 4 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku: … 2. Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ/2001 tentang Penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; 3. Keputusan Direktur Jenderal Pajak Nomor KEP-637/PJ/2001 tentang penunjukan Kantor Pelayanan Pajak Tertentu untuk melaksanakan konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan melalui komputer; dan Ketentuan lain yang bertentangan dengan Keputusan Direktur Jenderal Pajak ini dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN KONFIRMASI FAKTUR PAJAK DENGAN APLIKASI SISTEM INFORMASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-07-11",
+   "detail_error": null,
+   "number_as_written": "KEP-503/PJ./2001",
+   "retrieved_at": "2026-10-06T05:07:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN KANTOR PELAYANAN PAJAK TERTENTU UNTUK MELAKSANAKAN KONFIRMASI FAKTUR PAJAK DENGAN APLIKASI SISTEM INFORMASI PERPAJAKAN MELALUI KOMPUTER",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-tertentu-untuk-melaksanakan-konfirmasi-faktur-pajak-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=365",
+   "retrieved_at": "2026-10-05T14:42:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-tertentu-untuk-melaksanakan-konfirmasi-faktur-pajak-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2928,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:07:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-tertentu-untuk-melaksanakan-konfirmasi-faktur-pajak-0"
+ },
+ "title": "PENUNJUKAN KANTOR PELAYANAN PAJAK TERTENTU UNTUK MELAKSANAKAN KONFIRMASI FAKTUR PAJAK DENGAN APLIKASI SISTEM INFORMASI PERPAJAKAN MELALUI KOMPUTER"
+}

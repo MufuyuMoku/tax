@@ -1,0 +1,164 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-174-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "174",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-174-2015--b000-1",
+  "pmk-174-2015--b001-2",
+  "pmk-174-2015--b002-3",
+  "pmk-174-2015--b003-4",
+  "pmk-174-2015--b004-5",
+  "pmk-174-2015--b005-6",
+  "pmk-174-2015--b006-7",
+  "pmk-174-2015--b007-8",
+  "pmk-174-2015--b008-9",
+  "pmk-174-2015--b009-10",
+  "pmk-174-2015--b010-11",
+  "pmk-174-2015--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-207-2016",
+    "key": [
+     "PMK",
+     "207",
+     "2016",
+     null
+    ],
+    "number_as_written": "207/PMK.010/2016",
+    "quote": "Ketentuan ayat (2) Pasal 4 dalam Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 tentang Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau (Berita Negara Republik Indonesia Tahun 2015 Nomor 1470) diubah sehingga Pasal 4 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 174/PMK.03/2015 TENTANG TATA CARA PENGHITUNGAN DAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-63-2022",
+    "key": [
+     "PMK",
+     "63",
+     "2022",
+     null
+    ],
+    "number_as_written": "63/PMK.03/2022",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 tentang Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau (Berita Negara Republik Indonesia Tahun 2015 Nomor 1407) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 207/PMK.010/2016 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 tentang Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau (Berita Negara Republik Indonesia Tahun 2016 Nomor 2056), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "62/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 62/KMK.03/2002",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku Keputusan Menteri Keuangan Nomor 62/KMK.03/2002 tentang Dasar Penghitungan, Pemungutan, dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-62-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 62/KMK.03/2002 — Dasar Perhitungan, Pemungutan, dan Penyetoran Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 207/PMK.010/2016 — Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.03/2015 Tentang\r\nTata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau.",
+    "url": "https://jdih.kemenkeu.go.id/dok/207-pmk-010-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 63/PMK.03/2022 — Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau",
+    "url": "https://jdih.kemenkeu.go.id/dok/63-pmk-03-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-09-21",
+   "detail_error": null,
+   "number_as_written": "174/PMK.03/2015",
+   "retrieved_at": "2026-10-06T03:29:00+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN DAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pemungutan-pajak-pertambahan-nilai-atas-penyerahan-hasil"
+  },
+  {
+   "date_as_written": "2015-09-21 00:00:00",
+   "number_as_written": "174/PMK.03/2015",
+   "page_retrieved_at": "2026-10-06T02:17:20+00:00",
+   "retrieved_at": "2026-09-21T14:30:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penghitungan dan Pemungutan Pajak Pertambahan Nilai atas Penyerahan Hasil Tembakau.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-03-2015",
+   "validity_as_written": "21 Sep 2015 - 30 Mar 2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 63/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=164",
+   "retrieved_at": "2026-10-05T13:32:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pemungutan-pajak-pertambahan-nilai-atas-penyerahan-hasil",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=224",
+   "retrieved_at": "2026-09-21T14:30:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/174-pmk-03-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8501,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:29:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pemungutan-pajak-pertambahan-nilai-atas-penyerahan-hasil"
+ },
+ "title": "TATA CARA PENGHITUNGAN DAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU"
+}

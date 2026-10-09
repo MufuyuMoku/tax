@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-82-1996",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "82",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-131-2000",
+    "key": [
+     "KEP-DJP",
+     "131",
+     "2000",
+     null
+    ],
+    "number_as_written": "KEP - 131/PJ./2000",
+    "quote": "Dengan berlakunya Keputusan ini, Keputusan Direktur Jenderal Pajak Nomor KEP-82/PJ./1996 tanggal 30 September 1996 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN NILAI STIKER TANDA LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PITA REKAMAN SUARA (KASET ISI), REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC), DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DI ATAS DISC JENIS VIDEO COMPACT DISC KARAOKE (VCD.K) DAN JENIS LASER DISC KARAOKE (LD.K) DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-09-30",
+   "detail_error": null,
+   "number_as_written": "KEP - 82/PJ./1996",
+   "retrieved_at": "2026-10-06T05:41:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN DASAR PENGENAAN PAJAK UNTUK MENGHITUNG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PITA REKAMAN SUARA (KASET ISI), REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC), DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DI ATAS DISC JENIS VIDEO COMPACT DISC KARAOKE (VCD.K) DAN JENIS LASER DISC KARAOKE (LD.K)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-pengenaan-pajak-untuk-menghitung-pajak-pertambahan-nilai-atas-2"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=442",
+   "retrieved_at": "2026-10-06T01:41:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-dasar-pengenaan-pajak-untuk-menghitung-pajak-pertambahan-nilai-atas-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN DASAR PENGENAAN PAJAK UNTUK MENGHITUNG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PITA REKAMAN SUARA (KASET ISI), REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC), DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DI ATAS DISC JENIS VIDEO COMPACT DISC KARAOKE (VCD.K) DAN JENIS LASER DISC KARAOKE (LD.K)"
+}

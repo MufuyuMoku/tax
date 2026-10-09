@@ -1,0 +1,139 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-174-kmk-03-2004",
+ "identity": {
+  "code": "KMK",
+  "number": "174/KMK.03",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-174-kmk-03-2004--b000-1",
+  "kmk-174-kmk-03-2004--b001-2",
+  "kmk-174-kmk-03-2004--b002-3",
+  "kmk-174-kmk-03-2004--b003-4",
+  "kmk-174-kmk-03-2004--b004-5",
+  "kmk-174-kmk-03-2004--b005-6",
+  "kmk-174-kmk-03-2004--b006-7",
+  "kmk-174-kmk-03-2004--b007-8",
+  "kmk-174-kmk-03-2004--b008-9",
+  "kmk-174-kmk-03-2004--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-120-2015",
+    "key": [
+     "PMK",
+     "120",
+     "2015",
+     null
+    ],
+    "number_as_written": "120/PMK.03/2015",
+    "quote": "… b. Keputusan Menteri Keuangan Nomor 174/KMK.03/2004 tentang Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Suara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 86/KMK.03/2002 TENTANG TATA CARA PENGGUNAAN STIKER DALAM PEMUNGUTAN DAN PELUNASAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN GAMBAR DAN KEPUTUSAN MENTERI KEUANGAN NOMOR 174/KMK.03/2004 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "89A/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 89a/KMK.04/2000",
+    "quote": "Pasal 9 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 89a/KMK.04/2000 tentang Bentuk, Ukuran, Warna, Isi dan Teks Stiker lunas Pajak Pertambahan Nilai Atas Produk Rekaman Suara Di Atas Pita Kaset, Compact Disc, Video Compact Disc Dan Laser Disc, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-89a-kmk-04-2000"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 89a/KMK.04/2000 — Bentuk, Ukuran, Warna, Isi dan Teks Stiker Lunas Pajak Pertambahan Nilai Produk Rekaman Suara di atas Pita Kaset, Compact Disc, Video Compact Disc dan Laser Dics.",
+    "url": "https://jdih.kemenkeu.go.id/dok/89a-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 120/PMK.03/2015 — Pencabutan Keputusan Menteri Keuangan Nomor 86/KMK.03/2002 tentang Tata Cara Penggunaan Stiker dalam Pemungutan dan Pelunasan Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Gambar dan Keputusan Menteri Keuangan Nomor 174/KMK.03/2004 tentang Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Suara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-04-02",
+   "detail_error": null,
+   "number_as_written": "174/KMK.03/2004",
+   "retrieved_at": "2026-10-06T04:31:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-produk-rekaman-suara-0"
+  },
+  {
+   "date_as_written": "2004-04-02 00:00:00",
+   "number_as_written": "174/KMK.03/2004",
+   "page_retrieved_at": "2026-10-06T03:14:42+00:00",
+   "retrieved_at": "2026-09-21T14:48:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Suara.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/174-kmk-03-2004",
+   "validity_as_written": "02 Apr 2004 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=311",
+   "retrieved_at": "2026-10-05T14:23:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-produk-rekaman-suara-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=21",
+   "retrieved_at": "2026-09-21T14:48:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/174-kmk-03-2004",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5932,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:31:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-produk-rekaman-suara-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA"
+}

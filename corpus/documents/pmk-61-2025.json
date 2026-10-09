@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -44,10 +48,21 @@
    "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HEWAN KHUSUS TERTENTU BERUPA KUDA SERTA PERLENGKAPAN PENDUKUNGNYA YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2025",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-hewan-khusus-tertentu-berupa-kuda-serta"
+  },
+  {
+   "date_as_written": "2025-08-25 00:00:00",
+   "number_as_written": "PMK 61 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:42:47+00:00",
+   "retrieved_at": "2026-09-21T14:16:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Hewan Khusus Tertentu Berupa Kuda serta Perlengkapan Pendukungnya yang Ditanggung Pemerintah Tahun Anggaran 2025",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-61-tahun-2025",
+   "validity_as_written": "01 Sep 2025 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -59,6 +74,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-hewan-khusus-tertentu-berupa-kuda-serta",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=12",
+   "retrieved_at": "2026-09-21T14:16:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-61-tahun-2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

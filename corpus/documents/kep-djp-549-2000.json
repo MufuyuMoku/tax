@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -32,6 +36,20 @@
  "relations": {
   "amended_by": [
    {
+    "id": "kep-djp-433-2002",
+    "key": [
+     "KEP-DJP",
+     "433",
+     "2002",
+     null
+    ],
+    "number_as_written": "KEP-433/PJ./2002",
+    "quote": "Beberapa ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-549/PJ./2000 tentang Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, Dan Tata Cara Pembetulan Faktur Pajak Standar sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-323/PJ./2001 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-549/PJ./2000 TENTANG SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
+   },
+   {
     "id": "per-djp-59-2005",
     "key": [
      "PER-DJP",
@@ -48,7 +66,22 @@
    }
   ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-159-2006",
+    "key": [
+     "PER-DJP",
+     "159",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-159/PJ./2006",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku : a. Keputusan Direktur Jenderal Pajak Nomor KEP-549/PJ./2000 tentang Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, dan Tata Cara Pembetulan Faktur Pajak Standar sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-59/PJ./2005; dan b. Keputusan Direktur Jenderal Pajak Nomor KEP-424/PJ./2002 tentang Penerbitan dan Pengkreditan Faktur Pajak yang Dibuat Tidak Tepat Waktu; dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
+   }
+  ],
   "revokes": [
    {
     "key": [

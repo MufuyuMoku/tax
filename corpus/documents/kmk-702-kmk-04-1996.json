@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -35,12 +39,24 @@
    "title_as_written": "PELAKSANAAN TEKNIS PERPAJAKAN ATAS KEPUTUSAN PRESIDEN REPUBLIK INDONESIA NOMOR 75 TAHUN 1996 TENTANG KETENTUAN POKOK PERJANJIAN KARYA PENGUSAHAAN PERTAMBANGAN BATUBARA",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-teknis-perpajakan-atas-keputusan-presiden-republik-indonesia-nomor-75-tahun"
+  },
+  {
+   "date_as_written": "1996-12-30 00:00:00",
+   "number_as_written": "702/KMK.04/1996",
+   "page_retrieved_at": "2026-10-06T03:43:28+00:00",
+   "retrieved_at": "2026-09-21T14:52:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Teknis Perpajakan atas Keputusan Presiden Indonesia Nomor 75 Tahun 1996 tentang Ketentuan Pokok Perjanjian Karya Pengusahaan Pertambangan Batubara.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/702-kmk-04-1996",
+   "validity_as_written": "30 Des 1996 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "tidak_berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +66,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-teknis-perpajakan-atas-keputusan-presiden-republik-indonesia-nomor-75-tahun",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=87",
+   "retrieved_at": "2026-09-21T14:52:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/702-kmk-04-1996",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

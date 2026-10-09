@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "keputusan-menteri-perindustrian-5096-2025",
+ "identity": {
+  "code": "KEPUTUSAN MENTERI PERINDUSTRIAN",
+  "number": "5096",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "keputusan-menteri-perindustrian-5096-2025--b000-kesatu",
+  "keputusan-menteri-perindustrian-5096-2025--b001-kedua"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-12-01",
+   "detail_error": null,
+   "number_as_written": "5096 TAHUN 2025",
+   "retrieved_at": "2026-10-06T02:27:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI PERINDUSTRIAN NOMOR 968 TAHUN 2025 TENTANG KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI RODA EMPAT TERTENTU DAN KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI BUS TERTENTU YANG MEMENUHI KRITERIA NILAI TINGKAT KOMPONEN DALAM NEGERI YANG ATAS PENYERAHANNYA DAPAT MEMANFAATKAN PAJAK PERTAMBAHAN NILAI YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2025",
+   "type_as_written": "Keputusan Menteri Perindustrian",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-perindustrian-nomor-968-tahun-2025-tentang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=11",
+   "retrieved_at": "2026-10-03T04:10:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-perindustrian-nomor-968-tahun-2025-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 8176,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:27:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-perindustrian-nomor-968-tahun-2025-tentang"
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI PERINDUSTRIAN NOMOR 968 TAHUN 2025 TENTANG KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI RODA EMPAT TERTENTU DAN KENDARAAN BERMOTOR LISTRIK BERBASIS BATERAI BUS TERTENTU YANG MEMENUHI KRITERIA NILAI TINGKAT KOMPONEN DALAM NEGERI YANG ATAS PENYERAHANNYA DAPAT MEMANFAATKAN PAJAK PERTAMBAHAN NILAI YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2025"
+}

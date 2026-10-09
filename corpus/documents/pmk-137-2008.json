@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-137-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "137",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-137-2008--b000-i",
+  "pmk-137-2008--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "620",
+     "2004",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 620/PMK.03/2004",
+    "quote": "Mengubah Lampiran I Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak Yang Tergolong Mewah Selain Kendaraan Bermotor Yang Dikenakan Pajak Penjualan Atas Barang Mewah sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 35/PMK.03/2008 sehingga menjadi sebagaimana ditetapkan dalam Lampiran Peraturan Menteri Keuangan ini yang merupakan bagian yang tidak terpisahkan dari Peraturan Menteri Keuangan ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-620-2004"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 35/PMK.03/2008 — Perubahan atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Ats Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 620/PMK.03/2004 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/620-pmk-03-2004"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 62/PMK.011/2010 — Tarif Cukai Etil Alkohol, Minuman yang Mengandung Etil Alkohol, dan Konsentrat yang Mengandung Etil Alkohol.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-011-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 121/PMK.011/2013 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 103/PMK.03/2009 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/103-pmk-03-2009"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-10-07",
+   "detail_error": null,
+   "number_as_written": "137/PMK.011/2008",
+   "retrieved_at": "2026-10-06T04:10:35+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 620/PMK.03/2004 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-620pmk032004-tentang-jenis-barang"
+  },
+  {
+   "date_as_written": "2008-10-07 00:00:00",
+   "number_as_written": "137/PMK.011/2008",
+   "page_retrieved_at": "2026-10-06T03:02:06+00:00",
+   "retrieved_at": "2026-09-21T14:42:46+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/137-pmk-011-2008",
+   "validity_as_written": "07 Okt 2008 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=229",
+   "retrieved_at": "2026-10-05T13:55:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-620pmk032004-tentang-jenis-barang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=406",
+   "retrieved_at": "2026-09-21T14:42:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/137-pmk-011-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3428,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:10:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-620pmk032004-tentang-jenis-barang"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 620/PMK.03/2004 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

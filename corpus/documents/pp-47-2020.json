@@ -1,0 +1,134 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-47-2020",
+ "identity": {
+  "code": "PP",
+  "number": "47",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-47-2020--b000-1",
+  "pp-47-2020--b001-2",
+  "pp-47-2020--b002-3",
+  "pp-47-2020--b003-4",
+  "pp-47-2020--b004-5",
+  "pp-47-2020--b005-6",
+  "pp-47-2020--b006-7",
+  "pp-47-2020--b007-8",
+  "pp-47-2020--b008-9",
+  "pp-47-2020--b009-10",
+  "pp-47-2020--b010-11",
+  "pp-47-2020--b011-12",
+  "pp-47-2020--b012-13",
+  "pp-47-2020--p013-1",
+  "pp-47-2020--p014-2",
+  "pp-47-2020--p015-3",
+  "pp-47-2020--p016-4",
+  "pp-47-2020--p017-5",
+  "pp-47-2020--p018-6",
+  "pp-47-2020--p019-7",
+  "pp-47-2020--p020-8",
+  "pp-47-2020--p021-9",
+  "pp-47-2020--p022-10",
+  "pp-47-2020--p023-11",
+  "pp-47-2020--p024-12",
+  "pp-47-2020--p025-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "47",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 47 Tahun 2013",
+    "quote": "Pasal 12 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 47 Tahun 2013 tentang Pemberian Pembebasan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya (Lembaran Negara Republik Indonesia Nomor 107 Tahun 2013, Tambahan Lembaran Negara Republik Indonesia Nomor 5425), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-47-2013"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 47 TAHUN 2013 — Pemberian Pembebasan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya .",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-47-tahun-2013"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-08-14",
+   "detail_error": null,
+   "number_as_written": "47 TAHUN 2020",
+   "retrieved_at": "2026-10-06T03:12:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH KEPADA PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+  },
+  {
+   "date_as_written": "2019-08-14 00:00:00",
+   "number_as_written": "PP 47 TAHUN 2020",
+   "page_retrieved_at": "2026-10-06T01:40:50+00:00",
+   "retrieved_at": "2026-09-21T14:06:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Pembebasan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah kepada Perwakilan Negara Asing dan Badan Internasional serta Pejabatnya",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-47-tahun-2020",
+   "validity_as_written": "17 Okt 2020 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=97",
+   "retrieved_at": "2026-10-05T13:07:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=12",
+   "retrieved_at": "2026-09-21T14:06:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-47-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17389,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:12:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-pembebasan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak"
+ },
+ "title": "PEMBERIAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH KEPADA PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA"
+}

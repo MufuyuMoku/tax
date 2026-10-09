@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 499,
+ "document_id": "per-djp-24-2012",
+ "document_number": "PER-24/PJ/2012",
+ "document_title": "BENTUK, UKURAN, TATA CARA PENGISIAN KETERANGAN,  PROSEDUR  PEMBERITAHUAN DALAM  RANGKA PEMBUATAN, TATA CARA PEMBETULAN ATAU  PENGGANTIAN, DAN TATA CARA PEMBATALAN FAKTUR PAJAK",
+ "id": "per-djp-24-2012--b006-7",
+ "label": "7",
+ "order": 6,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 7\n(1)\nPKP harus membuat Faktur Pajak dengan menggunakan Kode dan Nomor Seri Faktur Pajak sebagaimana ditetapkan dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal Pajak ini.\n(2)\nKode dan Nomor Seri Faktur Pajak sebagaimana dimaksud pada ayat (1) terdiri dari 16 (enam belas) digit yaitu:\na.\n2 (dua) digit Kode Transaksi;\nb.\n1 (satu) digit Kode Status; dan\nc.\n13 (tiga belas) digit Nomor Seri Faktur Pajak yang ditentukan oleh Direktorat Jenderal Pajak.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T03:45:42+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-tata-cara-pengisian-keterangan-prosedur-pemberitahuan-dalam-rangka"
+ }
+}

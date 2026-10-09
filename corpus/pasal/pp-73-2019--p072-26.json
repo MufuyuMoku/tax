@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 416,
+ "document_id": "pp-73-2019",
+ "document_number": "73 TAHUN 2019",
+ "document_title": "BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+ "id": "pp-73-2019--p072-26",
+ "label": "26",
+ "order": 72,
+ "quality_flags": [
+  "urutan_loncat:4->4",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal 26\nYang dimaksud dengan “Kendaraan Full Hybrid Electric Vehicle” adalah kendaraan Hybrid Electric Vehicle yang memiliki fungsi mematikan mesin secara otomatis saat berhenti sejenak (idling stop), pengereman regeneratif (regenerative braking), alat bantu gerak berupa motor listrik (electric motor assist) dan mampu digerakkan sepenuhnya oleh motor listrik (EV running mode) untuk waktu atau kecepatan tertentu.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T03:17:14+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-0"
+ }
+}

@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -45,7 +49,36 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-100-2013",
+    "key": [
+     "PMK",
+     "100",
+     "2013",
+     null
+    ],
+    "number_as_written": "100/PMK.03/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 18/PMK.03/2011 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2010 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+   },
+   {
+    "id": "pmk-18-2011",
+    "key": [
+     "PMK",
+     "18",
+     "2011",
+     null
+    ],
+    "number_as_written": "18/PMK.03/2011",
+    "quote": "Mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri sebagai berikut: 1. Ketentuan Pasal 16 ayat (2), ayat (3), dan ayat (5) diubah, serta ketentuan ayat (4) dihapus, sehingga Pasal 16 berbunyi sebagai berikut: Pasal 16 (1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 11 ayat (4) huruf c, KPP menerbitkan Surat Ketetapan Pajak Lebih Bayar (SKPLB) paling lama 3 (tiga) hari kerja terhitung sejak diterimanya permohonan dari Unit Pelaksana Restitusi Pajak Pertambahan Nilai Bandar Udara.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2010 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {

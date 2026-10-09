@@ -1,0 +1,139 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-177-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "177",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-177-2016--b000-1",
+  "pmk-177-2016--b001-2",
+  "pmk-177-2016--b002-3",
+  "pmk-177-2016--b003-4",
+  "pmk-177-2016--b004-5",
+  "pmk-177-2016--b005-6",
+  "pmk-177-2016--b006-7",
+  "pmk-177-2016--b007-8",
+  "pmk-177-2016--b008-9",
+  "pmk-177-2016--b009-10",
+  "pmk-177-2016--b010-11",
+  "pmk-177-2016--b011-12",
+  "pmk-177-2016--b012-13",
+  "pmk-177-2016--b013-14",
+  "pmk-177-2016--b014-15",
+  "pmk-177-2016--b015-16",
+  "pmk-177-2016--b016-17",
+  "pmk-177-2016--b017-18",
+  "pmk-177-2016--b018-19",
+  "pmk-177-2016--b019-20",
+  "pmk-177-2016--b020-21",
+  "pmk-177-2016--b021-22",
+  "pmk-177-2016--b022-23",
+  "pmk-177-2016--b023-24",
+  "pmk-177-2016--b024-25",
+  "pmk-177-2016--b025-26",
+  "pmk-177-2016--b026-27",
+  "pmk-177-2016--b027-28",
+  "pmk-177-2016--b028-29",
+  "pmk-177-2016--b029-30",
+  "pmk-177-2016--b030-31",
+  "pmk-177-2016--b031-32",
+  "pmk-177-2016--b032-33",
+  "pmk-177-2016--b033-34",
+  "pmk-177-2016--b034-35",
+  "pmk-177-2016--b035-36",
+  "pmk-177-2016--b036-37",
+  "pmk-177-2016--b037-38",
+  "pmk-177-2016--b038-39",
+  "pmk-177-2016--b039-40",
+  "pmk-177-2016--b040-42",
+  "pmk-177-2016--b041-43",
+  "pmk-177-2016--b042-44"
+ ],
+ "quality_flags": [
+  "urutan_loncat:40->42"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 110/PMK.04/2019 — Perubahan atas Peraturan Menteri Keuangan Nomor 177/PMK.04/2016 tentang Pembebasan Bea Masuk dan Tidak Dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Dan/ atau Bahan, Dan/ atau Mesin yang Dilakukan oleh Industri Kecil dan Menengah dengan Tujuan Ekspor.",
+    "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-04-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-11-18",
+   "detail_error": null,
+   "number_as_written": "177/PMK.04/2016",
+   "retrieved_at": "2026-10-06T03:22:26+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG DAN/ATAU BAHAN, DAN/ATAU MESIN YANG DILAKUKAN OLEH INDUSTRI KECIL DAN MENENGAH DENGAN TUJUAN EKSPOR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan-0"
+  },
+  {
+   "date_as_written": "2016-11-18 00:00:00",
+   "number_as_written": "177/PMK.04/2016",
+   "page_retrieved_at": "2026-10-06T01:49:29+00:00",
+   "retrieved_at": "2026-09-21T14:28:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembebasan Bea Masuk dan Tidak Dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Impor Barang Dan/Atau\r\nBahan, dan/atau Mesin yang Dilakukan oleh Industri Kecil dan Menengah dengan Tujuan Ekspor.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/177-pmk-04-2016",
+   "validity_as_written": "18 Nov 2016 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=147",
+   "retrieved_at": "2026-10-05T13:26:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=197",
+   "retrieved_at": "2026-09-21T14:28:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/177-pmk-04-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 89264,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:22:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-tidak-dipungut-pajak-pertambahan-nilai-atau-pajak-pertambahan-0"
+ },
+ "title": "PEMBEBASAN BEA MASUK DAN TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS IMPOR BARANG DAN/ATAU BAHAN, DAN/ATAU MESIN YANG DILAKUKAN OLEH INDUSTRI KECIL DAN MENENGAH DENGAN TUJUAN EKSPOR"
+}

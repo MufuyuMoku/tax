@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-48-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "48",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-233-2003",
+    "key": [
+     "KEP-DJP",
+     "233",
+     "2003",
+     null
+    ],
+    "number_as_written": "KEP-233/PJ/2003",
+    "quote": "Pasal 4 Pada saat Keputusan Direktur Jenderal Pajak ini berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-48/PJ./2001 Tentang Tatacara Pemberian dan Penatausahaan Pajak Pertambahan Nilai Dibebaskan atas Impor dan Atau Penyerahan Barang Kena Pajak Tertentu dan Atau Jasa Kena Pajak Tertentu sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-104/PJ./2002, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN DAN PENATAUSAHAAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU PENYERAHAN JASA KENA PAJAK TERTENTU"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-01-16",
+   "detail_error": null,
+   "number_as_written": "KEP-48/PJ./2001",
+   "retrieved_at": "2026-10-06T05:14:07+00:00",
+   "source": "DJP",
+   "title_as_written": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU JASA KENA PAJAK TERTENTU",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pajak-pertambahan-nilai-dibebaskan-atas-impor-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=375",
+   "retrieved_at": "2026-10-05T14:46:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pajak-pertambahan-nilai-dibebaskan-atas-impor-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU DAN ATAU JASA KENA PAJAK TERTENTU"
+}

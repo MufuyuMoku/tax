@@ -1,0 +1,111 @@
+{
+ "attachments": [
+  {
+   "file_name": "LampiranPMK120TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "120",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/LampiranPMK120TAHUN2023.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-120-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "120",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-120-2023--b000-1",
+  "pmk-120-2023--b001-2",
+  "pmk-120-2023--b002-3",
+  "pmk-120-2023--b003-4",
+  "pmk-120-2023--b004-5",
+  "pmk-120-2023--b005-6",
+  "pmk-120-2023--b006-7",
+  "pmk-120-2023--b007-8",
+  "pmk-120-2023--b008-9",
+  "pmk-120-2023--b009-10",
+  "pmk-120-2023--b010-11",
+  "pmk-120-2023--b011-12",
+  "pmk-120-2023--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-11-21",
+   "detail_error": null,
+   "number_as_written": "120 TAHUN 2023",
+   "retrieved_at": "2026-10-06T02:33:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN RUMAH TAPAK DAN SATUAN RUMAH SUSUN YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2023",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-rumah-tapak-dan-satuan-rumah-susun-yang-0"
+  },
+  {
+   "date_as_written": "2023-11-21 00:00:00",
+   "number_as_written": "PMK 120 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:50:14+00:00",
+   "retrieved_at": "2026-09-21T14:17:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Rumah Tapak dan Satuan Rumah Susun yang Ditanggung Pemerintah Tahun Anggaran 2023",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-120-tahun-2023",
+   "validity_as_written": "21 Nov 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=42",
+   "retrieved_at": "2026-10-05T07:37:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-rumah-tapak-dan-satuan-rumah-susun-yang-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=38",
+   "retrieved_at": "2026-09-21T14:17:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-120-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18463,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:33:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-rumah-tapak-dan-satuan-rumah-susun-yang-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN RUMAH TAPAK DAN SATUAN RUMAH SUSUN YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2023"
+}

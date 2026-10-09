@@ -1,0 +1,135 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-83-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "83",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-83-2020--b000-i",
+  "pmk-83-2020--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2020",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 378), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-34-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 34/PMK.04/2020 — Pemberian Fasilitas Kepabeanan dan/atau Cukai Serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 149/PMK.04/2020 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/ atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan\nPenanganan Pandemi Corona Virus Diseqse 2019(COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 92/PMK.04/2021 — Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai Serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-04-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 164/PMK.04/2022 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/164-pmk-04-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 126 TAHUN 2023 — Pencabutan Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 164/PMK.04/2022 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-126-tahun-2023"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-07-06",
+   "detail_error": null,
+   "number_as_written": "83/PMK.04/2020",
+   "retrieved_at": "2026-10-06T03:13:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR BARANG UNTUK KEPERLUAN PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian-fasilitas"
+  },
+  {
+   "date_as_written": "2020-07-06 00:00:00",
+   "number_as_written": "83/PMK.04/2020",
+   "page_retrieved_at": "2026-10-06T01:42:13+00:00",
+   "retrieved_at": "2026-09-21T14:22:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/83-pmk-04-2020",
+   "validity_as_written": "07 Jul 2020 - 29 Des 2023"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=100",
+   "retrieved_at": "2026-10-05T13:08:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian-fasilitas",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=112",
+   "retrieved_at": "2026-09-21T14:22:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/83-pmk-04-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 11041,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:13:47+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-34pmk042020-tentang-pemberian-fasilitas"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 34/PMK.04/2020 TENTANG PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR BARANG UNTUK KEPERLUAN PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-82-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "82",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-82-2012--b000-1",
+  "pmk-82-2012--b001-2",
+  "pmk-82-2012--b002-3",
+  "pmk-82-2012--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-06-06",
+   "detail_error": null,
+   "number_as_written": "82/PMK.03/2012",
+   "retrieved_at": "2026-10-06T03:48:49+00:00",
+   "source": "DJP",
+   "title_as_written": "KRITERIA DAN/ATAU RINCIAN JASA YANG DISEDIAKAN OLEH PEMERINTAH DALAM RANGKA MENJALANKAN PEMERINTAHAN SECARA UMUM YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/kriteria-danatau-rincian-jasa-yang-disediakan-oleh-pemerintah-dalam-rangka-menjalankan"
+  },
+  {
+   "date_as_written": "2012-06-06 00:00:00",
+   "number_as_written": "82/PMK.03/2012",
+   "page_retrieved_at": "2026-10-06T02:30:57+00:00",
+   "retrieved_at": "2026-09-21T14:36:24+00:00",
+   "source": "JDIH",
+   "title_as_written": "Kriteria dan/atau Rincian Jasa yang Disediakan oleh Pemerintah dalam Rangka Menjalankan Pemerintahan Secara Umum yang Tidak Dikenai Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2012",
+   "validity_as_written": "06 Jun 2012 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=205",
+   "retrieved_at": "2026-10-05T13:46:53+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kriteria-danatau-rincian-jasa-yang-disediakan-oleh-pemerintah-dalam-rangka-menjalankan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=310",
+   "retrieved_at": "2026-09-21T14:36:24+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2012",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4377,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:48:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kriteria-danatau-rincian-jasa-yang-disediakan-oleh-pemerintah-dalam-rangka-menjalankan"
+ },
+ "title": "KRITERIA DAN/ATAU RINCIAN JASA YANG DISEDIAKAN OLEH PEMERINTAH DALAM RANGKA MENJALANKAN PEMERINTAHAN SECARA UMUM YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+}

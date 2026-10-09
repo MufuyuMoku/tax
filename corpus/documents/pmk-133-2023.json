@@ -1,0 +1,118 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-133-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "133",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-133-2023--b000-1",
+  "pmk-133-2023--b001-2",
+  "pmk-133-2023--b002-3",
+  "pmk-133-2023--b003-4",
+  "pmk-133-2023--b004-5",
+  "pmk-133-2023--b005-6",
+  "pmk-133-2023--b006-7",
+  "pmk-133-2023--b007-8",
+  "pmk-133-2023--b008-9",
+  "pmk-133-2023--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "56",
+     "2016",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 56/PMK.03/2016",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 56/PMK.03/2016 tentang Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai Tidak Dipungut atas Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis dan Tata Cara Pembayaran Pajak Pertambahan Nilai Tidak Dipungut yang telah Diberikan serta Pengenaan Sanksi (Berita Negara Republik Indonesia Tahun 2016 Nomor 539), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-56-2016"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 56/PMK.03/2016 — Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai Tidak Dipungut atas Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis dan Tata Cara Pembayaran Pajak Pertambahan Nilai Tidak Dipungut yang Telah Diberikan Serta Pengenaan Sanksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/56-pmk-03-2016"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-07",
+   "detail_error": null,
+   "number_as_written": "133 TAHUN 2023",
+   "retrieved_at": "2026-10-06T02:33:13+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS BERUPA ANODE SLIME DAN/ATAU EMAS GRANULA DAN TATA CARA PEMBAYARAN PAJAK PERTAMBAHAN NILAI YANG TELAH MENDAPAT FASILITAS TIDAK DIPUNGUT DAN DIPINDAHTANGANKAN SERTA PENGENAAN SANKS! ATAS KETERLAMBATAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-pajak-pertambahan-nilai-tidak-dipungut-atas-penyerahan-0"
+  },
+  {
+   "date_as_written": "2023-12-07 00:00:00",
+   "number_as_written": "PMK 133 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:49:33+00:00",
+   "retrieved_at": "2026-09-21T14:17:44+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai Tidak Dipungut atas Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis Berupa Anode Slime dan/atau Emas Granula dan Tata Cara Pembayaran Pajak Pertambahan Nilai yang Telah Mendapat Fasilitas Tidak Dipungut dan Dipindahtangankan serta Pengenaan Sanksi atas Keterlambatan Pembayaran Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-133-tahun-2023",
+   "validity_as_written": "12 Des 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=41",
+   "retrieved_at": "2026-10-05T07:36:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-pajak-pertambahan-nilai-tidak-dipungut-atas-penyerahan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:17:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-133-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13575,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:33:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-fasilitas-pajak-pertambahan-nilai-tidak-dipungut-atas-penyerahan-0"
+ },
+ "title": "TATA CARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS BERUPA ANODE SLIME DAN/ATAU EMAS GRANULA DAN TATA CARA PEMBAYARAN PAJAK PERTAMBAHAN NILAI YANG TELAH MENDAPAT FASILITAS TIDAK DIPUNGUT DAN DIPINDAHTANGANKAN SERTA PENGENAAN SANKS! ATAS KETERLAMBATAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI"
+}

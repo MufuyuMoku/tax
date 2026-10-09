@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-382-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "382",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-382-2002--b000-1",
+  "kep-djp-382-2002--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2020",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2020",
+    "quote": "… h. Keputusan Direktur Jenderal Pajak Nomor KEP-382/PJ./2002 tentang Pedoman Pelaksanaan Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Bagi Pemungut Pajak Pertambahan Nilai dan Pengusaha Kena Pajak Rekanan; dan i. Keputusan Direktur Jenderal Pajak Nomor KEP-148/PJ/2003 tentang Petunjuk Pengisian Nomor Pokok Wajib Pajak dalam Formulir Surat Setoran Pabean, Cukai, dan Pajak Dalam Rangka Impor; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-08-13",
+   "detail_error": null,
+   "number_as_written": "KEP-382/PJ./2002",
+   "retrieved_at": "2026-10-06T04:45:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PELAKSANAAN PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BAGI PEMUNGUT PAJAK PERTAMBAHAN NILAI DAN PENGUSAHA KENA PAJAK REKANAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-pelaksanaan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-dan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=339",
+   "retrieved_at": "2026-10-05T14:33:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-pelaksanaan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-dan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7188,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:45:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-pelaksanaan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-dan-pajak"
+ },
+ "title": "PEDOMAN PELAKSANAAN PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH BAGI PEMUNGUT PAJAK PERTAMBAHAN NILAI DAN PENGUSAHA KENA PAJAK REKANAN"
+}

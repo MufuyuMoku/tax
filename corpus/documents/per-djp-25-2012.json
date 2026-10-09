@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-25-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-25-2012--b000-i",
+  "per-djp-25-2012--b001-2",
+  "per-djp-25-2012--b002-iii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:I,III"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "23",
+     "2012",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-23/PJ/2012",
+    "quote": "Mengubah ketentuan Pasal 2 Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2012 Tentang Tata Cara Penetapan Secara Jabatan Atas Jumlah Biaya Yang Dikeluarkan Dan/ Atau Yang Dibayarkan Untuk Membangun Bangunan Dalam Rangka Kegiatan Membangun Sendiri, sehingga keseluruhan Pasal 2 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-23-2012"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "27",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2010",
+    "quote": "Pasal ll Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2010 Tentang Tata Cara Pengisian Surat Setoran Pajak, Pelaporan, dan Pengawasan Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-27-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-11-22",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ/2012",
+   "retrieved_at": "2026-10-06T03:45:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS  PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-23/PJ/2012 TENTANG TATA CARA PENETAPAN SECARA JABATAN ATAS JUMLAH  BIAYA YANG DIKELUARKAN DAN/ ATAU YANG DIBAYARKAN UNTUK MEMBANGUN BANGUNAN DALAM  RANGKA KEGIATAN MEMBANGUN  SENDIRI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-23pj2012-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=199",
+   "retrieved_at": "2026-10-05T13:44:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-23pj2012-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5923,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:45:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-23pj2012-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS  PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-23/PJ/2012 TENTANG TATA CARA PENETAPAN SECARA JABATAN ATAS JUMLAH  BIAYA YANG DIKELUARKAN DAN/ ATAU YANG DIBAYARKAN UNTUK MEMBANGUN BANGUNAN DALAM  RANGKA KEGIATAN MEMBANGUN  SENDIRI"
+}

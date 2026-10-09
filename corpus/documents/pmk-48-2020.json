@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -33,7 +37,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-60-2022",
+    "key": [
+     "PMK",
+     "60",
+     "2022",
+     null
+    ],
+    "number_as_written": "60/PMK.03/2022",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 48/PMK.03/2020 tentang Tata Cara Penunjukan Pemungut, Pemungutan, dan Penyetoran, serta Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik (Berita Negara Republik Indonesia Tahun 2020 Nomor 445), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENUNJUKAN PEMUNGUT, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN MELALUI PERDAGANGAN MELALUI SISTEM ELEKTRONIK"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -56,6 +75,16 @@
    "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan"
   },
   {
+   "date_as_written": "2020-05-05",
+   "detail_error": null,
+   "number_as_written": "48/PMK.03/2020",
+   "retrieved_at": "2026-10-06T03:15:10+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENUNJUKAN PEMUNGUT, PEMUNGUTAN, DAN PENYETORAN, SERTA PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN MELALUI PERDAGANGAN MELALUI SISTEM ELEKTRONIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan"
+  },
+  {
    "date_as_written": "2020-05-05 00:00:00",
    "number_as_written": "48/PMK.03/2020",
    "page_retrieved_at": "2026-10-05T06:48:50+00:00",
@@ -69,7 +98,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 60/2022 mencabutnya"
   ],
   "value": "tidak_pasti"
  },
@@ -79,6 +109,14 @@
    "retrieved_at": "2026-10-03T02:46:56+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=103",
+   "retrieved_at": "2026-10-05T13:09:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
   },
@@ -96,11 +134,19 @@
   "available": true,
   "chars": 16892,
   "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-04T03:26:52+00:00",
+  "other_postings": [
+   {
+    "chars": 16892,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-04T03:26:52+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan"
+   }
+  ],
+  "retrieved_at": "2026-10-06T03:15:10+00:00",
   "source": "DJP",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/index.php/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan"
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-dan-penyetoran-serta-pelaporan-pajak-pertambahan"
  },
  "title": "TATA CARA PENUNJUKAN PEMUNGUT, PEMUNGUTAN, DAN PENYETORAN, SERTA PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN MELALUI PERDAGANGAN MELALUI SISTEM ELEKTRONIK"
 }

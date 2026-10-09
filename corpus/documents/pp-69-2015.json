@@ -1,0 +1,156 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-69-2015",
+ "identity": {
+  "code": "PP",
+  "number": "69",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-69-2015--b000-1",
+  "pp-69-2015--b001-2",
+  "pp-69-2015--b002-3",
+  "pp-69-2015--b003-4",
+  "pp-69-2015--b004-5",
+  "pp-69-2015--b005-6",
+  "pp-69-2015--b006-7",
+  "pp-69-2015--b007-8",
+  "pp-69-2015--b008-9",
+  "pp-69-2015--b009-10",
+  "pp-69-2015--p010-1",
+  "pp-69-2015--p011-2",
+  "pp-69-2015--p012-3",
+  "pp-69-2015--p013-4",
+  "pp-69-2015--p014-5",
+  "pp-69-2015--p015-6",
+  "pp-69-2015--p016-7",
+  "pp-69-2015--p017-8",
+  "pp-69-2015--p018-9",
+  "pp-69-2015--p019-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-50-2019",
+    "key": [
+     "PP",
+     "50",
+     "2019",
+     null
+    ],
+    "number_as_written": "50 TAHUN 2019",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 69 Tahun 2015 tentang tentang Impor dan Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 211, Tambahan Lembaran Negara Republik Indonesia Nomor 5739), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU SERTA PENYERAHAN DAN PEMANFAATAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "146",
+     "2000",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 146 Tahun 2000",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku: … e. Pasal 3 angka 1, angka 2, dan angka 3, Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu Yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 38 Tahun 2003 tentang Perubahan atas Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 79, Tambahan Lembaran Negara Republik Indonesia Nomor 4302), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pp-146-2000"
+   },
+   {
+    "key": [
+     "PP",
+     "38",
+     "2003",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 38 Tahun 2003",
+    "quote": "Pasal 9 Pada saat Peraturan Pemerintah ini mulai berlaku: … e. Pasal 3 angka 1, angka 2, dan angka 3, Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu Yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 38 Tahun 2003 tentang Perubahan atas Peraturan Pemerintah Nomor 146 Tahun 2000 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 79, Tambahan Lembaran Negara Republik Indonesia Nomor 4302), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pp-38-2003"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 50 TAHUN 2019 — Impor dan Penyerahan Alat Angkutan Tertentu Serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-50-tahun-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-09-16",
+   "detail_error": null,
+   "number_as_written": "69 TAHUN 2015",
+   "retrieved_at": "2026-10-06T03:29:21+00:00",
+   "source": "DJP",
+   "title_as_written": "IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU DAN PENYERAHAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-penyerahan-alat-angkutan-tertentu-dan-penyerahan-jasa-kena-pajak-terkait-alat"
+  },
+  {
+   "date_as_written": "2015-09-16 00:00:00",
+   "number_as_written": "PP 69 TAHUN 2015",
+   "page_retrieved_at": "2026-10-06T02:17:40+00:00",
+   "retrieved_at": "2026-09-21T14:07:08+00:00",
+   "source": "JDIH",
+   "title_as_written": "Impor dan Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-69-tahun-2015",
+   "validity_as_written": "16 Sep 2015 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=164",
+   "retrieved_at": "2026-10-05T13:32:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-penyerahan-alat-angkutan-tertentu-dan-penyerahan-jasa-kena-pajak-terkait-alat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=23",
+   "retrieved_at": "2026-09-21T14:07:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-69-tahun-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15911,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:29:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/impor-dan-penyerahan-alat-angkutan-tertentu-dan-penyerahan-jasa-kena-pajak-terkait-alat"
+ },
+ "title": "IMPOR DAN PENYERAHAN ALAT ANGKUTAN TERTENTU DAN PENYERAHAN JASA KENA PAJAK TERKAIT ALAT ANGKUTAN TERTENTU YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI"
+}

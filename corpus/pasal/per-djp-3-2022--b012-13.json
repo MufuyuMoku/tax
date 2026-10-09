@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 749,
+ "document_id": "per-djp-3-2022",
+ "document_number": "PER-03/PJ/2022",
+ "document_title": "FAKTUR PAJAK",
+ "id": "per-djp-3-2022--b012-13",
+ "label": "13",
+ "order": 12,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 13\n(1)\nAplikasi e-Faktur sebagaimana dimaksud dalam Pasal 12 ayat (4) terdiri atas:\na.\naplikasi e-Faktur\nClient Desktop\n;\nb.\naplikasi e-Faktur\nWeb Based\n; dan\nc.\naplikasi e-Faktur\nHost-to-Host\n;\n(2)\nAplikasi e-Faktur Host-to-Host sebagaimana dimaksud pada ayat (1) huruf c dapat digunakan oleh PKP yang membuat e-Faktur melalui penyedia jasa aplikasi perpajakan yang telah ditunjuk oleh Direktur Jenderal Pajak untuk menyelenggarakan layanan penyediaan aplikasi perpajakan berupa penyelenggaraan aplikasi e-Faktur\nHost-to-Host\n.\n(3)\nPenyedia jasa aplikasi perpajakan sebagaimana dimaksud pada ayat (2) ditetapkan dengan Keputusan Direktur Jenderal Pajak berdasarkan Peraturan Direktur Jenderal Pajak mengenai penyedia jasa aplikasi perpajakan.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T02:55:17+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak"
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK60TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "60",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK60TAHUN2023.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-60-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "60",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-60-2023--b000-1",
+  "pmk-60-2023--b001-2",
+  "pmk-60-2023--b002-3",
+  "pmk-60-2023--b003-4",
+  "pmk-60-2023--b004-5",
+  "pmk-60-2023--b005-6",
+  "pmk-60-2023--b006-7",
+  "pmk-60-2023--b007-8",
+  "pmk-60-2023--b008-9",
+  "pmk-60-2023--b009-10",
+  "pmk-60-2023--b010-11",
+  "pmk-60-2023--b011-12",
+  "pmk-60-2023--b012-13",
+  "pmk-60-2023--b013-14",
+  "pmk-60-2023--b014-15",
+  "pmk-60-2023--b015-16",
+  "pmk-60-2023--b016-17",
+  "pmk-60-2023--b017-18",
+  "pmk-60-2023--b018-19",
+  "pmk-60-2023--b019-20",
+  "pmk-60-2023--b020-21"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "81",
+     "2019",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 81/PMK.010/2019",
+    "quote": "Pasal 20 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 81/PMK.010/2019 tentang Batasan Rumah Umum, Pondok Boro, Asrama Mahasiswa dan Pelajar, serta Perumahan Lainnya, yang atas Penyerahannya Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2019 Nomor 588), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-81-2019"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 81/PMK.010/2019 — Batasan Rumah Umum, Pondok Boro, Asrama Mahasiswa dan Pelajar, Serta Perumahan Lainnya, yang atas Penyerahannya Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-010-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-06-09",
+   "detail_error": null,
+   "number_as_written": "60 TAHUN 2023",
+   "retrieved_at": "2026-10-06T02:34:17+00:00",
+   "source": "DJP",
+   "title_as_written": "BATASAN RUMAH UMUM, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR, SERTA RUMAH PEKERJA YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-rumah-umum-pondok-boro-asrama-mahasiswa-dan-pelajar-serta-rumah-pekerja-yang"
+  },
+  {
+   "date_as_written": "2023-06-09 00:00:00",
+   "number_as_written": "PMK 60 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:51:35+00:00",
+   "retrieved_at": "2026-09-21T14:18:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Batasan Rumah Umum, Pondok Boro, Asrama Mahasiswa dan Pelajar, serta Rumah Pekerja yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-60-tahun-2023",
+   "validity_as_written": "12 Jun 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=49",
+   "retrieved_at": "2026-10-05T07:39:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-rumah-umum-pondok-boro-asrama-mahasiswa-dan-pelajar-serta-rumah-pekerja-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=44",
+   "retrieved_at": "2026-09-21T14:18:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-60-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 34871,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:34:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/batasan-rumah-umum-pondok-boro-asrama-mahasiswa-dan-pelajar-serta-rumah-pekerja-yang"
+ },
+ "title": "BATASAN RUMAH UMUM, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR, SERTA RUMAH PEKERJA YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

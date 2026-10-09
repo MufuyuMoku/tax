@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-134-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "134",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-134-2020--b000-1",
+  "pmk-134-2020--b001-2",
+  "pmk-134-2020--b002-3",
+  "pmk-134-2020--b003-4",
+  "pmk-134-2020--b004-5",
+  "pmk-134-2020--b005-6",
+  "pmk-134-2020--b006-7",
+  "pmk-134-2020--b007-8",
+  "pmk-134-2020--b008-9",
+  "pmk-134-2020--b009-10",
+  "pmk-134-2020--b010-11",
+  "pmk-134-2020--b011-12",
+  "pmk-134-2020--b012-13",
+  "pmk-134-2020--b013-14",
+  "pmk-134-2020--b014-15",
+  "pmk-134-2020--b015-16",
+  "pmk-134-2020--b016-17",
+  "pmk-134-2020--b017-18",
+  "pmk-134-2020--b018-19",
+  "pmk-134-2020--b019-20",
+  "pmk-134-2020--b020-21",
+  "pmk-134-2020--b021-22",
+  "pmk-134-2020--b022-23"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-09-21",
+   "detail_error": null,
+   "number_as_written": "134/PMK.010/2020",
+   "retrieved_at": "2026-10-06T03:11:42+00:00",
+   "source": "DJP",
+   "title_as_written": "BEA MASUK DITANGGUNG PEMERINTAH ATAS IMPOR BARANG DAN BAHAN UNTUK MEMPRODUKSI BARANG DAN/ATAU JASA OLEH INDUSTRI SEKTOR TERTENTU YANG TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-ditanggung-pemerintah-atas-impor-barang-dan-bahan-untuk-memproduksi-barang-2"
+  },
+  {
+   "date_as_written": "2020-09-21 00:00:00",
+   "number_as_written": "134/PMK.010/2020",
+   "page_retrieved_at": "2026-10-06T01:39:48+00:00",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bea Masuk Ditanggung Pemerintah atas Impor Barang dan Bahan untuk Memproduksi Barang dan/atau Jasa oleh Industri Sektor Tertentu yang Terdampak Pandemi Corona Virus Disease 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/134-pmk-010-2020",
+   "validity_as_written": "22 Sep 2020 - 31 Des 2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=96",
+   "retrieved_at": "2026-10-05T13:07:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-ditanggung-pemerintah-atas-impor-barang-dan-bahan-untuk-memproduksi-barang-2",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=107",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/134-pmk-010-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 39777,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:11:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bea-masuk-ditanggung-pemerintah-atas-impor-barang-dan-bahan-untuk-memproduksi-barang-2"
+ },
+ "title": "BEA MASUK DITANGGUNG PEMERINTAH ATAS IMPOR BARANG DAN BAHAN UNTUK MEMPRODUKSI BARANG DAN/ATAU JASA OLEH INDUSTRI SEKTOR TERTENTU YANG TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)"
+}

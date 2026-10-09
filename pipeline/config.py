@@ -41,8 +41,8 @@ HARVEST_JDIH_TEXT = HARVEST / "jdih" / "teks_berkas.jsonl"  # scripts/jdih-pdf-t
 HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HARVEST_JDIH_TEXT]
 
 # Categories of the DJP catalogue that are in the corpus. M5 runs in two stages (SPEC section 7):
-# KUP first; PPN is added here once its details are fetched. PPh comes from the proof of concept.
-DJP_CATEGORIES = ["KUP"]
+# KUP first, then PPN (2026-10-09). PPh comes from the proof of concept.
+DJP_CATEGORIES = ["KUP", "PPN"]
 
 # Text of the full-text files fetched from JDIH in M5 (PPh documents only JDIH has). Approved by the
 # owner on 2026-10-09 together with its effect on the evaluation set (K-066): PPh median 5 -> 6.

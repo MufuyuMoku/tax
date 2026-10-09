@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pengumuman-7-2015",
+ "identity": {
+  "code": "PENGUMUMAN",
+  "number": "7",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-12-02",
+   "detail_error": null,
+   "number_as_written": "PENG-7/PJ.02/2015",
+   "retrieved_at": "2026-10-06T03:25:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PERMINTAAN NOMOR SERI FAKTUR PAJAK",
+   "type_as_written": "Pengumuman",
+   "url": "https://www.pajak.go.id/id/peraturan/permintaan-nomor-seri-faktur-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=159",
+   "retrieved_at": "2026-10-05T13:30:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/permintaan-nomor-seri-faktur-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4603,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:25:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/permintaan-nomor-seri-faktur-pajak"
+ },
+ "title": "PERMINTAAN NOMOR SERI FAKTUR PAJAK"
+}

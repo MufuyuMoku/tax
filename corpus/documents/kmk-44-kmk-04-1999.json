@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 130/KMK.05/2000 — Perubahan Kepmenkeu No.97/KMK.04/98, No.35/KMK.04/99, No.36/KMK.04/99.....Dst tentang Perlakuan Perpajakan dan Kepabeanan untuk Kawasan Pengembangan Ekonomi Terpadu (Kapet)",
+    "url": "https://jdih.kemenkeu.go.id/dok/130-kmk-05-2000"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,12 +46,24 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU SABANG",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-sabang"
+  },
+  {
+   "date_as_written": "1999-02-01 00:00:00",
+   "number_as_written": "44/KMK.04/1999",
+   "page_retrieved_at": "2026-10-06T03:33:07+00:00",
+   "retrieved_at": "2026-09-21T14:51:10+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan dan Kepabeanan untuk Kawasan Pengembangan Ekonomi Terpadu (Kapet) Sabang",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/44-kmk-04-1999",
+   "validity_as_written": "01 Feb 1999 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "tidak_berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +73,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-sabang",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=63",
+   "retrieved_at": "2026-09-21T14:51:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/44-kmk-04-1999",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

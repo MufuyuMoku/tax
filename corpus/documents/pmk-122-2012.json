@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-122-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "122",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-122-2012--b000-1",
+  "pmk-122-2012--b001-2",
+  "pmk-122-2012--b002-3",
+  "pmk-122-2012--b003-4",
+  "pmk-122-2012--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-70-2022",
+    "key": [
+     "PMK",
+     "70",
+     "2022",
+     null
+    ],
+    "number_as_written": "70/PMK.03/2022",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 122/PMK.03/2012 tentang Kriteria Jasa Penyediaan Tempat Parkir yang Termasuk dalam Jenis Jasa yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2012 Nomor 719); … d. Peraturan Menteri Keuangan Nomor 158/PMK.010/2015 tentang Kriteria Jasa Kesenian dan Hiburan yang Tidak Dikenai Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2015 Nomor 1190), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KRITERIA DAN/ATAU RINCIAN MAKANAN DAN MINUMAN, JASA KESENIAN DAN HIBURAN, JASA PERHOTELAN, JASA PENYEDIAAN TEMPAT PARKIR, SERTA JASA BOGA ATAU KATERING, YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "419/KMK.03",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 419/KMK.03/2003",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 419/KMK.03/2003 tentang Pajak Pertambahan Nilai atas Penyerahan Jasa Pengelolaan Tempat Parkir, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-419-kmk-03-2003"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 70/PMK.03/2022 — Kriteria dan/atau Rincian Makanan dan Minuman, Jasa Kesenian dan Hiburan, Jasa Perhotelan, Jasa Penyediaan Tempat Parkir, serta Jasa Boga atau Katering, yang Tidak Dikenai Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-07-17",
+   "detail_error": null,
+   "number_as_written": "122/PMK.03/2012",
+   "retrieved_at": "2026-10-06T03:47:47+00:00",
+   "source": "DJP",
+   "title_as_written": "KRITERIA JASA PENYEDIAAN TEMPAT PARKIR YANG TERMASUK DALAM JENIS JASA YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/kriteria-jasa-penyediaan-tempat-parkir-yang-termasuk-dalam-jenis-jasa-yang-tidak-dikenai"
+  },
+  {
+   "date_as_written": "2012-07-17 00:00:00",
+   "number_as_written": "122/PMK.03/2012",
+   "page_retrieved_at": "2026-10-06T02:30:17+00:00",
+   "retrieved_at": "2026-09-21T14:36:08+00:00",
+   "source": "JDIH",
+   "title_as_written": "Kriteria Jasa Penyediaan Tempat Parkir yang Termasuk dalam Jenis Jasa yang Tidak Dikenai Pajak Pertambahan Nilai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-03-2012",
+   "validity_as_written": "17 Jul 2012 - 30 Mar 2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 70/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=203",
+   "retrieved_at": "2026-10-05T13:46:12+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kriteria-jasa-penyediaan-tempat-parkir-yang-termasuk-dalam-jenis-jasa-yang-tidak-dikenai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=306",
+   "retrieved_at": "2026-09-21T14:36:08+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/122-pmk-03-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5709,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:47:47+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kriteria-jasa-penyediaan-tempat-parkir-yang-termasuk-dalam-jenis-jasa-yang-tidak-dikenai"
+ },
+ "title": "KRITERIA JASA PENYEDIAAN TEMPAT PARKIR YANG TERMASUK DALAM JENIS JASA YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+}

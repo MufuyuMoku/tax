@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-5-2011",
+ "identity": {
+  "code": "PP",
+  "number": "5",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-5-2011--b000-i",
+  "pp-5-2011--b001-ii",
+  "pp-5-2011--p002-1",
+  "pp-5-2011--p003-1",
+  "pp-5-2011--p004-2a",
+  "pp-5-2011--p005-2b",
+  "pp-5-2011--p006-2c",
+  "pp-5-2011--p007-2d",
+  "pp-5-2011--p008-2e",
+  "pp-5-2011--p009-3",
+  "pp-5-2011--p010-5a",
+  "pp-5-2011--p011-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "46",
+     "2007",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 46 TAHUN 2007",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 46 Tahun 2007 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 107, Tambahan Lembaran Negara Republik Indonesia Nomor 4757), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-46-2007"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 46 TAHUN 2007 — Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-46-tahun-2007"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-02-04",
+   "detail_error": null,
+   "number_as_written": "5 TAHUN 2011",
+   "retrieved_at": "2026-10-06T03:56:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 46 TAHUN 2007 TENTANG KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS BATAM",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-46-tahun-2007-tentang-kawasan-perdagangan-bebas"
+  },
+  {
+   "date_as_written": "2011-02-04 00:00:00",
+   "number_as_written": "PP 5 TAHUN 2011",
+   "page_retrieved_at": "2026-10-06T02:54:53+00:00",
+   "retrieved_at": "2026-09-21T14:09:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 46 Tahun 2007 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-5-tahun-2011",
+   "validity_as_written": "04 Feb 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=212",
+   "retrieved_at": "2026-10-05T13:49:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-46-tahun-2007-tentang-kawasan-perdagangan-bebas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=56",
+   "retrieved_at": "2026-09-21T14:09:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-5-tahun-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 13445,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:56:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-46-tahun-2007-tentang-kawasan-perdagangan-bebas"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 46 TAHUN 2007 TENTANG KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS BATAM"
+}

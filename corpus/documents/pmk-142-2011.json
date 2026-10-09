@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -67,7 +71,26 @@
     "target_id": "pmk-140-2007"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 140/PMK.04/2007 — Impor Sementara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/140-pmk-04-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 178/PMK.04/2017 — Impor Sementara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/178-pmk-04-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 261/PMK.04/2015 — Impor Sementara Kapal Wisata Asing.",
+    "url": "https://jdih.kemenkeu.go.id/dok/261-pmk-04-2015"
+   }
+  ]
  },
  "source_records": [
   {
@@ -79,12 +102,24 @@
    "title_as_written": "IMPOR SEMENTARA",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/impor-sementara-0"
+  },
+  {
+   "date_as_written": "2011-08-25 00:00:00",
+   "number_as_written": "142/PMK.04/2011",
+   "page_retrieved_at": "2026-10-06T02:52:48+00:00",
+   "retrieved_at": "2026-09-21T14:37:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Impor Sementara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-04-2011",
+   "validity_as_written": "25 Agu 2011 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -94,6 +129,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/impor-sementara-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=329",
+   "retrieved_at": "2026-09-21T14:37:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-04-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

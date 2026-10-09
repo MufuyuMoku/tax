@@ -1,0 +1,195 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-62-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "62",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-62-2010--b000-1",
+  "pmk-62-2010--b001-2",
+  "pmk-62-2010--b002-3",
+  "pmk-62-2010--b003-4",
+  "pmk-62-2010--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "89",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 89/PMK.04/2006",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 89/PMK.04/2006 tentang Penetapan Tarif Cukai Etil Alkohol Atau Etanol dan Peraturan Menteri Keuangan Nomor 90/PMK.04/2006 tentang Penetapan Tarif Cukai Minuman Dan Konsentrat Yang Mengandung Etil Alkohol, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-89-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "90",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 90/PMK.04/2006",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 89/PMK.04/2006 tentang Penetapan Tarif Cukai Etil Alkohol Atau Etanol dan Peraturan Menteri Keuangan Nomor 90/PMK.04/2006 tentang Penetapan Tarif Cukai Minuman Dan Konsentrat Yang Mengandung Etil Alkohol, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-90-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "620",
+     "2004",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 620/PMK.03/2004",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 2. Lampiran IV nomor a, nomor a1, nomor a2, nomor a3, dan nomor a4, serta Lampiran VI nomor a, nomor a1, dan nomor a2, sebagaimana ditetapkan dalam Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 103/PMK.03/2009 , dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-620-2004"
+   },
+   {
+    "key": [
+     "PMK",
+     "103",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 103/PMK.03/2009",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 2. Lampiran IV nomor a, nomor a1, nomor a2, nomor a3, dan nomor a4, serta Lampiran VI nomor a, nomor a1, dan nomor a2, sebagaimana ditetapkan dalam Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 103/PMK.03/2009 , dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-103-2009"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 89/PMK.04/2006 — Penetapan Tarif Cukai Etil Alkohol atau Etanol.-- Jakarta, 2006",
+    "url": "https://jdih.kemenkeu.go.id/dok/89-pmk-04-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 137/PMK.011/2008 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/137-pmk-011-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 90/PMK.04/2006 — Penetapan Tarif Cukai Minuman dan Konsentrat yang Mengandung Etil Alkohol. -- Jakarta, 2006",
+    "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-04-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 620/PMK.03/2004 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/620-pmk-03-2004"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 35/PMK.03/2008 — Perubahan atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Ats Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 103/PMK.03/2009 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/103-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 207/PMK.011/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 62/PMK.011/2010 tentang Tarif Cukai Etil Alkohol, Minuman yang Mengandung Etil Alkohol, dan Konsentrat yang Mengandung Etil Alkohol.",
+    "url": "https://jdih.kemenkeu.go.id/dok/207-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 158/PMK.010/2018 — Tarif Cukai Etil Alkohol, Minuman yang Mengandung Etil Alkohol, dan Konsentrat yang Mengandung Etil Alkohol",
+    "url": "https://jdih.kemenkeu.go.id/dok/158-pmk-010-2018"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-17",
+   "detail_error": null,
+   "number_as_written": "62/PMK.11/2010",
+   "retrieved_at": "2026-10-06T04:05:40+00:00",
+   "source": "DJP",
+   "title_as_written": "TARIF CUKAI ETIL ALKOHOL, MINUMAN YANG MENGANDUNG ETIL ALKOHOL, DAN KONSENTRAT YANG MENGANDUNG ETIL ALKOHOL",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-cukai-etil-alkohol-minuman-yang-mengandung-etil-alkohol-dan-konsentrat-yang"
+  },
+  {
+   "date_as_written": "2010-03-17 00:00:00",
+   "number_as_written": "62/PMK.011/2010",
+   "page_retrieved_at": "2026-10-06T02:59:20+00:00",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tarif Cukai Etil Alkohol, Minuman yang Mengandung Etil Alkohol, dan Konsentrat yang Mengandung Etil Alkohol.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-011-2010",
+   "validity_as_written": "17 Mar 2010 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=220",
+   "retrieved_at": "2026-10-05T13:52:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tarif-cukai-etil-alkohol-minuman-yang-mengandung-etil-alkohol-dan-konsentrat-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=363",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-011-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5634,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:05:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tarif-cukai-etil-alkohol-minuman-yang-mengandung-etil-alkohol-dan-konsentrat-yang"
+ },
+ "title": "TARIF CUKAI ETIL ALKOHOL, MINUMAN YANG MENGANDUNG ETIL ALKOHOL, DAN KONSENTRAT YANG MENGANDUNG ETIL ALKOHOL"
+}

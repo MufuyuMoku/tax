@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -51,7 +55,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 127 TAHUN 2023 — Pencabutan Peraturan Menteri Keuangan Nomor \r 188/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Pengadaan Vaksin dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-127-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -63,10 +74,22 @@
    "title_as_written": "PEMBERIAN FASILITAS KEPABEANAN DAN/ATAU CUKAI SERTA PERPAJAKAN ATAS IMPOR PENGADAAN VAKSIN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-kepabeanan-danatau-cukai-serta-perpajakan-atas-impor-pengadaan-vaksin"
+  },
+  {
+   "date_as_written": "2020-11-26 00:00:00",
+   "number_as_written": "188/PMK.04/2020",
+   "page_retrieved_at": "2026-10-06T01:38:26+00:00",
+   "retrieved_at": "2026-09-21T14:22:09+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Kepabeanan dan/ atau Cukai serta Perpajakan atas Impor Pengadaan Vaksin dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-04-2020",
+   "validity_as_written": "26 Nov 2020 - 29 Nov 2023"
   }
  ],
  "status": {
   "reasons": [
+   "status berbeda antar sumber",
    "sumber menyatakan berlaku, tetapi teks PMK 127/2023 mencabutnya"
   ],
   "value": "tidak_pasti"
@@ -79,6 +102,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-kepabeanan-danatau-cukai-serta-perpajakan-atas-impor-pengadaan-vaksin",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=102",
+   "retrieved_at": "2026-09-21T14:22:09+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-04-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

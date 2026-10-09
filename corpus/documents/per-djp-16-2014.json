@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-16-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "16",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-16-2014--b000-1",
+  "per-djp-16-2014--b001-2",
+  "per-djp-16-2014--b002-3",
+  "per-djp-16-2014--b003-4",
+  "per-djp-16-2014--b004-5",
+  "per-djp-16-2014--b005-6",
+  "per-djp-16-2014--b006-7",
+  "per-djp-16-2014--b007-8",
+  "per-djp-16-2014--b008-9",
+  "per-djp-16-2014--b009-10",
+  "per-djp-16-2014--b010-11",
+  "per-djp-16-2014--b011-12",
+  "per-djp-16-2014--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2019",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2019",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, a. Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2015 tentang Penyedia Layanan Surat Pemberitahuan Elektronik, b. ketentuan mengenai Penyelenggara e -Faktur Host-to-Host (H2H) sebagaimana diatur dalam Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-31/PJ/2017, dan c. ketentuan mengenai perusahaan Application Service Provider sebagai pembuat Kode Billing sebagaimana diatur dalam Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2017 tentang Pembayaran Secara Elektronik dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENYEDIA JASA APLIKASI PERPAJAKAN"
+   },
+   {
+    "id": "per-djp-3-2022",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2022",
+    "quote": "huruf a Peraturan Direktur Jenderal Pajak Nomor PER-16/PJ/2014 tentang Tata Cara Pembuatan dan Pelaporan Faktur Pajak Berbentuk Elektronik sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2020 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan, tetap dapat digunakan sampai dengan dicabutnya Keputusan Direktur Jenderal Pajak mengenai penetapan sebagai PKP yang menggunakan aplikasi e-Faktur Host-to-Host .",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "FAKTUR PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-06-20",
+   "detail_error": null,
+   "number_as_written": "PER-16/PJ/2014",
+   "retrieved_at": "2026-10-06T03:36:53+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBUATAN DAN PELAPORAN FAKTUR PAJAK BERBENTUK ELEKTRONIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-pelaporan-faktur-pajak-berbentuk-elektronik"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=182",
+   "retrieved_at": "2026-10-05T13:38:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-pelaporan-faktur-pajak-berbentuk-elektronik",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11927,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:36:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembuatan-dan-pelaporan-faktur-pajak-berbentuk-elektronik"
+ },
+ "title": "TATA CARA PEMBUATAN DAN PELAPORAN FAKTUR PAJAK BERBENTUK ELEKTRONIK"
+}

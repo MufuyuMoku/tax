@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -23,7 +27,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 825/KMK.00/1990 — Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan Berikat (Bonded Zone) di Daerah Industri Pulau Batam",
+    "url": "https://jdih.kemenkeu.go.id/dok/825-kmk-00-1990"
+   }
+  ]
  },
  "source_records": [
   {
@@ -35,12 +46,24 @@
    "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 825/KMK.00/1990 TENTANG PEMASUKAN DAN PENGELUARAN BARANG KE DAN DARI KAWASAN BERIKAT (BONDED ZONE) DI DAERAH INDUSTRI PULAU BATAM",
    "type_as_written": "Keputusan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-825kmk001990-tentang-pemasukan-dan"
+  },
+  {
+   "date_as_written": "2000-03-31 00:00:00",
+   "number_as_written": "95/KMK.05/2000",
+   "page_retrieved_at": "2026-10-06T03:30:44+00:00",
+   "retrieved_at": "2026-09-21T14:50:34+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Kepmenkeu No. 825/KMK.00/1990 tentang Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan Berikat (Bonded Zone) di Daerah Industri Pulau Batam",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/95-kmk-05-2000",
+   "validity_as_written": "31 Mar 2000 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "diubah_atau_dicabut_sebagian"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +73,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-825kmk001990-tentang-pemasukan-dan",
    "value_normalized": "diubah_atau_dicabut_sebagian",
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=54",
+   "retrieved_at": "2026-09-21T14:50:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/95-kmk-05-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

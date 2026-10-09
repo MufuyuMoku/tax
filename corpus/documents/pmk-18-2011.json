@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-18-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "18",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-18-2011--b000-i",
+  "pmk-18-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "76",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2010",
+    "quote": "Mengubah beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri sebagai berikut: 1. Ketentuan Pasal 16 ayat (2), ayat (3), dan ayat (5) diubah, serta ketentuan ayat (4) dihapus, sehingga Pasal 16 berbunyi sebagai berikut: Pasal 16 (1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 11 ayat (4) huruf c, KPP menerbitkan Surat Ketetapan Pajak Lebih Bayar (SKPLB) paling lama 3 (tiga) hari kerja terhitung sejak diterimanya permohonan dari Unit Pelaksana Restitusi Pajak Pertambahan Nilai Bandar Udara.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-76-2010"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 76/PMK.03/2010 — Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/76-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 100/PMK.03/2013 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/100-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 120/PMK.03/2019 — Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-01-24",
+   "detail_error": null,
+   "number_as_written": "18/PMK.03/2011",
+   "retrieved_at": "2026-10-06T03:56:57+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2010 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-76pmk032010-tentang-tata-cara-pengajuan"
+  },
+  {
+   "date_as_written": "2011-01-24 00:00:00",
+   "number_as_written": "18/PMK.03/2011",
+   "page_retrieved_at": "2026-10-06T02:55:33+00:00",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2011",
+   "validity_as_written": "24 Jan 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=212",
+   "retrieved_at": "2026-10-05T13:49:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-76pmk032010-tentang-tata-cara-pengajuan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=342",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7418,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:56:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-76pmk032010-tentang-tata-cara-pengajuan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2010 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+}

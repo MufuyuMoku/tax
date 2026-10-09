@@ -1,0 +1,145 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-60-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "60",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-60-2022--b000-1",
+  "pmk-60-2022--b001-2",
+  "pmk-60-2022--b002-3",
+  "pmk-60-2022--b003-4",
+  "pmk-60-2022--b004-5",
+  "pmk-60-2022--b005-6",
+  "pmk-60-2022--b006-7",
+  "pmk-60-2022--b007-8",
+  "pmk-60-2022--b008-9",
+  "pmk-60-2022--b009-10",
+  "pmk-60-2022--b010-11",
+  "pmk-60-2022--b011-12",
+  "pmk-60-2022--b012-13",
+  "pmk-60-2022--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 39. Peraturan Menteri Keuangan Nomor 60/PMK.03/2022 tentang Tata Cara Penunjukan Pemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik (Berita Negara Republik Indonesia Tahun 2022 Nomor 360); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "48",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 48/PMK.03/2020",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 48/PMK.03/2020 tentang Tata Cara Penunjukan Pemungut, Pemungutan, dan Penyetoran, serta Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik (Berita Negara Republik Indonesia Tahun 2020 Nomor 445), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-48-2020"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 48/PMK.03/2020 — Tata Cara Penunjukan Pemungut, Pemungutan dan Penyetoran, Serta Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak Dari Luar Daerah Pabean di dalam Daerah Pabean Melalui Perdagangan Melalui Sistem Elektronik",
+    "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-03-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-03-30",
+   "detail_error": null,
+   "number_as_written": "60/PMK.03/2022",
+   "retrieved_at": "2026-10-06T02:55:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENUNJUKAN PEMUNGUT, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN MELALUI PERDAGANGAN MELALUI SISTEM ELEKTRONIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai"
+  },
+  {
+   "date_as_written": "2022-03-30 00:00:00",
+   "number_as_written": "60/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T14:56:40+00:00",
+   "retrieved_at": "2026-09-21T14:19:46+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penunjukan Pemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-03-2022",
+   "validity_as_written": "01 Apr 2022 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=65",
+   "retrieved_at": "2026-10-05T07:45:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=68",
+   "retrieved_at": "2026-09-21T14:19:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-03-2022",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 23975,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T02:55:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penunjukan-pemungut-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai"
+ },
+ "title": "TATA CARA PENUNJUKAN PEMUNGUT, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN MELALUI PERDAGANGAN MELALUI SISTEM ELEKTRONIK"
+}

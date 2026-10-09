@@ -1,0 +1,133 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-61-2020",
+ "identity": {
+  "code": "PP",
+  "number": "61",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-61-2020--b000-1",
+  "pp-61-2020--b001-2",
+  "pp-61-2020--b002-3",
+  "pp-61-2020--b003-4",
+  "pp-61-2020--b004-5",
+  "pp-61-2020--b005-6",
+  "pp-61-2020--p006-1",
+  "pp-61-2020--p007-2",
+  "pp-61-2020--p008-3",
+  "pp-61-2020--p009-4",
+  "pp-61-2020--p010-5",
+  "pp-61-2020--p011-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "145",
+     "2000",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 145 Tahun 2000",
+    "quote": "Pasal 5 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 261, Tambahan Lembaran Negara Republik Indonesia Nomor 4063) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 12 Tahun 2006 tentang Perubahan Ketujuh atas Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 4619), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-145-2000"
+   },
+   {
+    "key": [
+     "PP",
+     "12",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 12 Tahun 2006",
+    "quote": "Pasal 5 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 261, Tambahan Lembaran Negara Republik Indonesia Nomor 4063) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 12 Tahun 2006 tentang Perubahan Ketujuh atas Peraturan Pemerintah Nomor 145 Tahun 2000 tentang Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 4619), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-12-2006"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 145TAHUN2000 — Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-145tahun2000"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-10-15",
+   "detail_error": null,
+   "number_as_written": "61 TAHUN 2020",
+   "retrieved_at": "2026-10-06T03:11:21+00:00",
+   "source": "DJP",
+   "title_as_written": "BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-selain-kendaraan-bermotor-yang-dikenai-pajak"
+  },
+  {
+   "date_as_written": "2020-10-15 00:00:00",
+   "number_as_written": "PP 61 TAHUN 2020",
+   "page_retrieved_at": "2026-10-06T01:38:46+00:00",
+   "retrieved_at": "2026-09-21T14:06:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Kelompok Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-61-tahun-2020",
+   "validity_as_written": "14 Des 2020 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=94",
+   "retrieved_at": "2026-10-05T13:06:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-selain-kendaraan-bermotor-yang-dikenai-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=12",
+   "retrieved_at": "2026-09-21T14:06:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-61-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9449,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:11:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/barang-kena-pajak-yang-tergolong-mewah-selain-kendaraan-bermotor-yang-dikenai-pajak"
+ },
+ "title": "BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-87-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "87",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-87-2002--b000-1",
+  "kep-djp-87-2002--b001-2",
+  "kep-djp-87-2002--b002-3",
+  "kep-djp-87-2002--b003-4",
+  "kep-djp-87-2002--b004-5",
+  "kep-djp-87-2002--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2012",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2012",
+    "quote": "Pasal 1 Keputusan Direktur Jenderal Pajak Nomor KEP-87/PJ/2002 tentang Pengenaan Pajak Pertambahan Nilai dan PajakPenjualan atas Barang Mewah atas Pemakaian Sendiri dan/atau Pemberian Cuma-cuma Barang Kena Pajak dan/atau Jasa Kena Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-87/PJ/2002 TENTANG PENGENAAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEMAKAIAN SENDIRI DAN/ATAU PEMBERIAN CUMA-CUMA BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-18",
+   "detail_error": null,
+   "number_as_written": "KEP-87/PJ./2002",
+   "retrieved_at": "2026-10-06T04:59:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGENAAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEMAKAIAN SENDIRI DAN ATAU PEMBERIAN CUMA-CUMA BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pemakaian"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=352",
+   "retrieved_at": "2026-10-05T14:38:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pemakaian",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7449,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:59:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-pertambahan-nilai-dan-pajak-penjualan-atas-barang-mewah-atas-pemakaian"
+ },
+ "title": "PENGENAAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEMAKAIAN SENDIRI DAN ATAU PEMBERIAN CUMA-CUMA BARANG KENA PAJAK DAN ATAU JASA KENA PAJAK"
+}

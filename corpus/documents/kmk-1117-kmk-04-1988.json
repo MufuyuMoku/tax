@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1117-kmk-04-1988",
+ "identity": {
+  "code": "KMK",
+  "number": "1117/KMK.04",
+  "variant": null,
+  "year": "1988"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1988-11-08",
+   "detail_error": null,
+   "number_as_written": "1117/KMK.04/1988",
+   "retrieved_at": "2026-10-06T06:20:43+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, UKURAN, PENGADAAN DAN TATA CARA, PENYAMPAIAN FAKTUR PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-pengadaan-dan-tata-cara-penyampaian-faktur-pajak"
+  },
+  {
+   "date_as_written": "1988-11-08 00:00:00",
+   "number_as_written": "1117/KMK.04/1988",
+   "page_retrieved_at": "2026-10-06T03:56:13+00:00",
+   "retrieved_at": "2026-09-21T14:54:43+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bentuk, Ukuran, Pengadaan dan Tata Cara Penyampaian Faktur Pajak.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/1117-kmk-04-1988",
+   "validity_as_written": "08 Nov 1988 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=479",
+   "retrieved_at": "2026-10-06T02:19:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-pengadaan-dan-tata-cara-penyampaian-faktur-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=116",
+   "retrieved_at": "2026-09-21T14:54:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/1117-kmk-04-1988",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BENTUK, UKURAN, PENGADAAN DAN TATA CARA, PENYAMPAIAN FAKTUR PAJAK"
+}

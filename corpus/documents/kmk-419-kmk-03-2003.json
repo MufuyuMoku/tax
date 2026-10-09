@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-419-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "419/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-419-kmk-03-2003--b000-1",
+  "kmk-419-kmk-03-2003--b001-2",
+  "kmk-419-kmk-03-2003--b002-3",
+  "kmk-419-kmk-03-2003--b003-4",
+  "kmk-419-kmk-03-2003--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-122-2012",
+    "key": [
+     "PMK",
+     "122",
+     "2012",
+     null
+    ],
+    "number_as_written": "122/PMK.03/2012",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri Keuangan Nomor 419/KMK.03/2003 tentang Pajak Pertambahan Nilai atas Penyerahan Jasa Pengelolaan Tempat Parkir, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "KRITERIA JASA PENYEDIAAN TEMPAT PARKIR YANG TERMASUK DALAM JENIS JASA YANG TIDAK DIKENAI PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-09-30",
+   "detail_error": null,
+   "number_as_written": "419/KMK.03/2003",
+   "retrieved_at": "2026-10-06T04:34:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA PENGELOLAAN TEMPAT PARKIR",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-pengelolaan-tempat-parkir"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=317",
+   "retrieved_at": "2026-10-05T14:25:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-pengelolaan-tempat-parkir",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5130,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:34:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-jasa-pengelolaan-tempat-parkir"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA PENGELOLAAN TEMPAT PARKIR"
+}

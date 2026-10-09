@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-49-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "49",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-49-2010--b000-1",
+  "per-djp-49-2010--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "48",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2008",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2008 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-48-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-11-03",
+   "detail_error": null,
+   "number_as_written": "PER-49/PJ/2010",
+   "retrieved_at": "2026-10-06T04:01:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-48/PJ/2008 TENTANG TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-48pj2008-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=215",
+   "retrieved_at": "2026-10-05T13:50:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-48pj2008-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2914,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:01:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-nomor-48pj2008-tentang-tata-cara"
+ },
+ "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-48/PJ/2008 TENTANG TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

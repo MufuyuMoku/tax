@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-39-kmk-03-2003",
+ "identity": {
+  "code": "KMK",
+  "number": "39/KMK.03",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-620-2004",
+    "key": [
+     "PMK",
+     "620",
+     "2004",
+     null
+    ],
+    "number_as_written": "620/PMK.03/2004",
+    "quote": "Pasal 7 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor : 570/KMK.04/2000 tentang Jenis Barang Kena Pajak yang Tergolong Mewah yang Dikenakan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor : 39/KMK.03/2003 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 141/KMK.03/2002 — Perubahan atas Kepmenkeu No.570/KMK.04/2000 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kenderaan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/141-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 570/KMK.04/2000 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kenderaan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/570-kmk-04-2000"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-01-28",
+   "detail_error": null,
+   "number_as_written": "39/KMK.03/2003",
+   "retrieved_at": "2026-10-06T04:42:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 570/KMK.04/2000 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-570kmk042000-tentang-jenis-barang"
+  },
+  {
+   "date_as_written": "2003-01-28 00:00:00",
+   "number_as_written": "39/KMK.03/2003",
+   "page_retrieved_at": "2026-10-06T03:17:26+00:00",
+   "retrieved_at": "2026-09-21T14:48:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Keputusan Menteri Keuangan No.570/KMK.04/2000 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/39-kmk-03-2003",
+   "validity_as_written": "28 Jan 2003 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 620/2004 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=331",
+   "retrieved_at": "2026-10-05T14:31:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-keputusan-menteri-keuangan-nomor-570kmk042000-tentang-jenis-barang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=28",
+   "retrieved_at": "2026-09-21T14:48:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/39-kmk-03-2003",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KETIGA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 570/KMK.04/2000 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

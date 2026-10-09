@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-44-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "44",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-44-2010--b000-1",
+  "per-djp-44-2010--b001-2",
+  "per-djp-44-2010--b002-3",
+  "per-djp-44-2010--b003-4",
+  "per-djp-44-2010--b004-5",
+  "per-djp-44-2010--b005-6",
+  "per-djp-44-2010--b006-7",
+  "per-djp-44-2010--b007-8",
+  "per-djp-44-2010--b008-9",
+  "per-djp-44-2010--b009-10",
+  "per-djp-44-2010--b010-11",
+  "per-djp-44-2010--b011-12",
+  "per-djp-44-2010--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-11-2013",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2010 tentang Bentuk, Isi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-44/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI  (SPT MASA PPN)"
+   },
+   {
+    "id": "per-djp-25-2014",
+    "key": [
+     "PER-DJP",
+     "25",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-25/PJ/2014",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2010 tentang Bentuk, lsi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2013, diubah, di antara Pasal 8 dan Pasal 9 disisipkan 1 (satu) pasal yakni Pasal 8A yang berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-44/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-10-06",
+   "detail_error": null,
+   "number_as_written": "PER-44/PJ/2010",
+   "retrieved_at": "2026-10-06T04:02:32+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-pengisian-serta-penyampaian-surat-pemberitahuan-masa-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=216",
+   "retrieved_at": "2026-10-05T13:50:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-pengisian-serta-penyampaian-surat-pemberitahuan-masa-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16463,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:02:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-pengisian-serta-penyampaian-surat-pemberitahuan-masa-pajak"
+ },
+ "title": "BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+}

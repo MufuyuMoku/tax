@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-131-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "131",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-131-2000--b000-1",
+  "kep-djp-131-2000--b001-2",
+  "kep-djp-131-2000--b002-3",
+  "kep-djp-131-2000--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "82",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-82/PJ./1996",
+    "quote": "Dengan berlakunya Keputusan ini, Keputusan Direktur Jenderal Pajak Nomor KEP-82/PJ./1996 tanggal 30 September 1996 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-82-1996"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-05-08",
+   "detail_error": null,
+   "number_as_written": "KEP - 131/PJ./2000",
+   "retrieved_at": "2026-10-06T05:25:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN NILAI STIKER TANDA LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PITA REKAMAN SUARA (KASET ISI), REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC), DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DI ATAS DISC JENIS VIDEO COMPACT DISC KARAOKE (VCD.K) DAN JENIS LASER DISC KARAOKE (LD.K) DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-nilai-stiker-tanda-lunas-pajak-pertambahan-nilai-atas-penyerahan-pita-rekaman"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=390",
+   "retrieved_at": "2026-10-05T14:51:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-nilai-stiker-tanda-lunas-pajak-pertambahan-nilai-atas-penyerahan-pita-rekaman",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8677,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:25:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-nilai-stiker-tanda-lunas-pajak-pertambahan-nilai-atas-penyerahan-pita-rekaman"
+ },
+ "title": "PENETAPAN NILAI STIKER TANDA LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PITA REKAMAN SUARA (KASET ISI), REKAMAN SUARA/LAGU DI ATAS DISC (COMPACT DISC), DAN REKAMAN LAGU BESERTA TAYANGAN GAMBAR DI ATAS DISC JENIS VIDEO COMPACT DISC KARAOKE (VCD.K) DAN JENIS LASER DISC KARAOKE (LD.K) DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER"
+}

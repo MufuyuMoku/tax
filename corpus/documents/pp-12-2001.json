@@ -1,0 +1,226 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-12-2001",
+ "identity": {
+  "code": "PP",
+  "number": "12",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pp-12-2001--b000-1",
+  "pp-12-2001--b001-2",
+  "pp-12-2001--b002-3",
+  "pp-12-2001--b003-4",
+  "pp-12-2001--b004-5",
+  "pp-12-2001--b005-6",
+  "pp-12-2001--b006-7",
+  "pp-12-2001--b007-8",
+  "pp-12-2001--p008-1",
+  "pp-12-2001--p009-2",
+  "pp-12-2001--p010-3",
+  "pp-12-2001--p011-4",
+  "pp-12-2001--p012-5",
+  "pp-12-2001--p013-6",
+  "pp-12-2001--p014-7",
+  "pp-12-2001--p015-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pp-31-2007",
+    "key": [
+     "PP",
+     "31",
+     "2007",
+     null
+    ],
+    "number_as_written": "31 TAHUN 2007",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 24, Tambahan Lembaran Negara Nomor 4083) yang telah beberapa kali diubah dengan Peraturan Pemerintah : 1. Nomor 43 Tahun 2002 (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 82, Tambahan Lembaran Negara Nomor 4217); 2. Nomor 46 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 97, Tambahan Lembaran Negara Nomor 4315); 3. Nomor 7 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 23, Tambahan Lembaran Negara Nomor 4697), diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2001 TENTANG IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   },
+   {
+    "id": "pp-43-2002",
+    "key": [
+     "PP",
+     "43",
+     "2002",
+     null
+    ],
+    "number_as_written": "43 TAHUN 2002",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2001 TENTANG IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   },
+   {
+    "id": "pp-46-2003",
+    "key": [
+     "PP",
+     "46",
+     "2003",
+     null
+    ],
+    "number_as_written": "46 TAHUN 2003",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 43 Tahun 2002 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2001 TENTANG IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   },
+   {
+    "id": "pp-7-2007",
+    "key": [
+     "PP",
+     "7",
+     "2007",
+     null
+    ],
+    "number_as_written": "7 TAHUN 2007",
+    "quote": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu Yang Bersifat Strategis Yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 24, Tambahan Lembaran Negara Republik Indonesia Nomor 4083) yang telah beberapa kali diubah dengan Peraturan Pemerintah : 1. Nomor 43 Tahun 2002 (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4217); 2. Nomor 46 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 97, Tambahan Lembaran Negara Republik Indonesia Nomor 4315); diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2001 TENTANG IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-40-2015",
+    "key": [
+     "PP",
+     "40",
+     "2015",
+     null
+    ],
+    "number_as_written": "40 TAHUN 2015",
+    "quote": "huruf g Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 24, Tambahan Lembaran Negara Republik Indonesia Nomor 4083) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 31 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 4726) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENYERAHAN AIR BERSIH YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   },
+   {
+    "id": "pp-81-2015",
+    "key": [
+     "PP",
+     "81",
+     "2015",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2015",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 24, Tambahan Lembaran Negara Republik Indonesia Nomor 4083) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 31 Tahun 2007 tentang Perubahan Keempat atas Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan dari Pengenaan Pajak Pertarnbahan Nilai (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 4726) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 81 TAHUN 2015 — Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-81-tahun-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 31 TAHUN 2007 — Perubahan Keempat atas Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-31-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 46 TAHUN 2003 — Perubahan Kedua atas Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-46-tahun-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 43 TAHUN 2002 — Perubahan atas Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-43-tahun-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 7 TAHUN 2007 — Perubahan Ketiga atas Peraturan Pemerintah Nomor 12 Tahun 2001 tentang Impor dan/atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-7-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PP 40 TAHUN 2015 — Penyerahan Air Bersih yang Dibebaskan dari Pengenaan Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-40-tahun-2015"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-03-22",
+   "detail_error": null,
+   "number_as_written": "12 TAHUN 2001",
+   "retrieved_at": "2026-10-06T05:13:26+00:00",
+   "source": "DJP",
+   "title_as_written": "IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-atau-penyerahan-barang-kena-pajak-tertentu-yang-bersifat-strategis-yang"
+  },
+  {
+   "date_as_written": "2001-03-22 00:00:00",
+   "number_as_written": "PP 12 TAHUN 2001",
+   "page_retrieved_at": "2026-10-06T03:21:31+00:00",
+   "retrieved_at": "2026-09-21T14:11:28+00:00",
+   "source": "JDIH",
+   "title_as_written": "Impor dan atau Penyerahan Barang Kena Pajak Tertentu yang Bersifat Strategis yang Dibebaskan Dari Pengenaan Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-12-tahun-2001",
+   "validity_as_written": "22 Mar 2001 - 23 Jun 2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=373",
+   "retrieved_at": "2026-10-05T14:45:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/impor-dan-atau-penyerahan-barang-kena-pajak-tertentu-yang-bersifat-strategis-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=88",
+   "retrieved_at": "2026-09-21T14:11:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-12-tahun-2001",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12346,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T05:13:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/impor-dan-atau-penyerahan-barang-kena-pajak-tertentu-yang-bersifat-strategis-yang"
+ },
+ "title": "IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI"
+}

@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-386-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "386",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-146-2006",
+    "key": [
+     "PER-DJP",
+     "146",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-146/PJ./2006",
+    "quote": "Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, a. Keputusan Direktur Jenderal Pajak Nomor KEP-12/PJ./1995 tentang Bentuk dan Isi SPT Masa PPN dan SPT Masa PPN bagi Pengusaha Kena Pajak Pedagang Eceran Yang Menggunakan Nilai Lain sebagai Dasar Pengenaan Pajak, Keterangan dan Dokumen Yang harus Dilampirkan, Serta Buku Petunjuk Pengisiannya sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-386/PJ./2002; … dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-08-19",
+   "detail_error": null,
+   "number_as_written": "KEP - 386/PJ./2002",
+   "retrieved_at": "2026-10-06T04:45:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-12/PJ./1995 TENTANG BENTUK DAN ISI SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DAN SPT MASA PPN BAGI PENGUSAHA KENA PAJAK PEDAGANG ECERAN YANG MENGGUNAKAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK, KETERANGAN DAN DOKUMEN YANG HARUS DILAMPIRKAN, SERTA BUKU PETUNJUK PENGISIANNYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-12pj1995-tentang-bentuk-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=338",
+   "retrieved_at": "2026-10-05T14:33:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-12pj1995-tentang-bentuk-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-12/PJ./1995 TENTANG BENTUK DAN ISI SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DAN SPT MASA PPN BAGI PENGUSAHA KENA PAJAK PEDAGANG ECERAN YANG MENGGUNAKAN NILAI LAIN SEBAGAI DASAR PENGENAAN PAJAK, KETERANGAN DAN DOKUMEN YANG HARUS DILAMPIRKAN, SERTA BUKU PETUNJUK PENGISIANNYA"
+}

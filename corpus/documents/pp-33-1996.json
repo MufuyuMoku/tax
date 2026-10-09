@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -50,12 +54,25 @@
    "title_as_written": "TEMPAT PENIMBUNAN BERIKAT",
    "type_as_written": "Peraturan Pemerintah",
    "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat"
+  },
+  {
+   "date_as_written": "1996-06-04 00:00:00",
+   "number_as_written": "PP 33 TAHUN 1996",
+   "page_retrieved_at": "2026-10-06T03:45:54+00:00",
+   "retrieved_at": "2026-09-21T14:11:51+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tempat Penimbunan Berikat.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-33-tahun-1996",
+   "validity_as_written": "04 Jun 1996 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "diubah_atau_dicabut_sebagian"
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 32/2009 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -65,6 +82,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat",
    "value_normalized": "diubah_atau_dicabut_sebagian",
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=94",
+   "retrieved_at": "2026-09-21T14:11:51+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-33-tahun-1996",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": null,

@@ -1,0 +1,141 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-259-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "259",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-259-2016--b000-1",
+  "pmk-259-2016--b001-2",
+  "pmk-259-2016--b002-3",
+  "pmk-259-2016--b003-4",
+  "pmk-259-2016--b004-5",
+  "pmk-259-2016--b005-6",
+  "pmk-259-2016--b006-7",
+  "pmk-259-2016--b007-8",
+  "pmk-259-2016--b008-9",
+  "pmk-259-2016--b009-10",
+  "pmk-259-2016--b010-11",
+  "pmk-259-2016--b011-12",
+  "pmk-259-2016--b012-13",
+  "pmk-259-2016--b013-14",
+  "pmk-259-2016--b014-15",
+  "pmk-259-2016--b015-17",
+  "pmk-259-2016--b016-18",
+  "pmk-259-2016--b017-19",
+  "pmk-259-2016--b018-20",
+  "pmk-259-2016--b019-21",
+  "pmk-259-2016--b020-22",
+  "pmk-259-2016--b021-23",
+  "pmk-259-2016--b022-24",
+  "pmk-259-2016--b023-25"
+ ],
+ "quality_flags": [
+  "urutan_loncat:15->17"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "110",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 110/PMK.010/2005",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 110/PMK.010/2005 tentang Tata Cara Pemberian Pembebasan dan/atau Keringanan Bea Masuk dan Pembebasan dan/atau Penundaan Pajak Pertambahan Nilai atas Impor Barang Dalam Rangka Kontrak Karya dan Perjanjian Karya Pengusahaan Pertambangan Batubara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-110-2005"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 110/PMK.010/2005 — Tata Cara Pemberian Pembebasan dan/atau Keringanan Bea Masuk dan Pembebasan dan/atau Penundaan Pajak Pertambahan Nilai atas Impor Barang dalam Rangka Kontrak Karya dan Perjanjian Karya Pengusahaan Pertambangan Batubara",
+    "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-010-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 116/PMK.04/2019 — Pembebasan atau Keringanan Bea Masuk dan/atau Pembebasan Pajak Pertambahan Nilai atas Impor Barang dalam Rangka Kontrak Karya atau Perjanjian Karya Pengusahaan Pertambangan Batubara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/116-pmk-04-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-12-30",
+   "detail_error": null,
+   "number_as_written": "259/PMK.04/2016",
+   "retrieved_at": "2026-10-06T03:21:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBEBASAN ATAU KERINGANAN BEA MASUK DAN/ATAU PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR BARANG DALAM RANGKA KONTRAK KARYA ATAU PERJANJIAN KARYA PENGUSAHAAN PERTAMBANGAN BATUBARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-atau-keringanan-bea-masuk-danatau-pembebasan-pajak-pertambahan-nilai-atas"
+  },
+  {
+   "date_as_written": "2016-12-30 00:00:00",
+   "number_as_written": "259/PMK.04/2016",
+   "page_retrieved_at": "2026-10-06T01:48:27+00:00",
+   "retrieved_at": "2026-09-21T14:28:01+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembebasan atau Keringanan Bea Masuk Dan/ atau Pembebasan Pajak Pertambahan Nilai\r\nAtas Impor Barang dalam Rangka Kontrak Karya atau Perjanjian Karya Pengusahaan Pertambangan Batubara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/259-pmk-04-2016",
+   "validity_as_written": "30 Des 2016 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=145",
+   "retrieved_at": "2026-10-05T13:26:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembebasan-atau-keringanan-bea-masuk-danatau-pembebasan-pajak-pertambahan-nilai-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=189",
+   "retrieved_at": "2026-09-21T14:28:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/259-pmk-04-2016",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 30026,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:21:24+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembebasan-atau-keringanan-bea-masuk-danatau-pembebasan-pajak-pertambahan-nilai-atas"
+ },
+ "title": "PEMBEBASAN ATAU KERINGANAN BEA MASUK DAN/ATAU PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAS IMPOR BARANG DALAM RANGKA KONTRAK KARYA ATAU PERJANJIAN KARYA PENGUSAHAAN PERTAMBANGAN BATUBARA"
+}

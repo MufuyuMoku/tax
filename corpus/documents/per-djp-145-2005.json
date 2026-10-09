@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
   }
  ],
  "category": "substantif",
@@ -37,7 +41,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-146-2006",
+    "key": [
+     "PER-DJP",
+     "146",
+     "2006",
+     null
+    ],
+    "number_as_written": "PER-146/PJ./2006",
+    "quote": "… c. Peraturan Direktur Jenderal Pajak Nomor PER-145/PJ./2005 tentang Bentuk, Isi dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN); dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },

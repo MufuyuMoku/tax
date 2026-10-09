@@ -24,6 +24,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PPN"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -79,10 +83,21 @@
    "title_as_written": "KETENTUAN IMPOR BARANG PEKERJA MIGRAN INDONESIA",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-impor-barang-pekerja-migran-indonesia"
+  },
+  {
+   "date_as_written": "2023-12-10 00:00:00",
+   "number_as_written": "PMK 141 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:48:52+00:00",
+   "retrieved_at": "2026-09-21T14:17:40+00:00",
+   "source": "JDIH",
+   "title_as_written": "Ketentuan Impor Barang Pekerja Migran Indonesia",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-141-tahun-2023",
+   "validity_as_written": "11 Des 2023 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -94,6 +109,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-impor-barang-pekerja-migran-indonesia",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=36",
+   "retrieved_at": "2026-09-21T14:17:40+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-141-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

@@ -1,0 +1,149 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-218-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "218",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-218-2014--b000-1",
+  "pmk-218-2014--b001-2",
+  "pmk-218-2014--b002-3",
+  "pmk-218-2014--b003-4",
+  "pmk-218-2014--b004-5",
+  "pmk-218-2014--b005-6",
+  "pmk-218-2014--b006-7",
+  "pmk-218-2014--b007-8",
+  "pmk-218-2014--b008-9",
+  "pmk-218-2014--b009-10",
+  "pmk-218-2014--b010-11",
+  "pmk-218-2014--b011-12",
+  "pmk-218-2014--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-119-2019",
+    "key": [
+     "PMK",
+     "119",
+     "2019",
+     null
+    ],
+    "number_as_written": "119/PMK.02/2019",
+    "quote": "Peraturan Menteri Keuangan Nomor 218/PMK.02/2014 tentang Tata Cara Pembayaran Kembali ( Reimbursement ) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak danjatau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi (Berita Negara Republik Indonesia Tahun 2014 Nomor 1878) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 158/PMK.02/2016 tentang Tata Cara Pembayaran Kembali ( Reimbursement ) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak danjatau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi (Berita Negara Republik Indonesia Tahun 2016 Nomor 1595), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBAYARAN KEMBALI (REIMBURSEMENT) PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEROLEHAN BARANG KENA PAJAK DAN/ ATAU JASA KENA PAJAK KEPADA KONTRAKTOR DALAM KEGIATAN USAHA HULU MINYAK DAN GAS BUMI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "64",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 64/PMK.02/2005",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 64/PMK.02/2005 tentang Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Yang Digunakan Oleh Badan Usaha atau Bentuk Usaha Tetap dalam Pengusahaan Minyak dan Gas Bumi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-64-2005"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 64/PMK.02/2005 — Tata Cara Pembayaran Kembali Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan atau Jasa Kena Pajak yang Digunakan oleh Badan Usaha atau Bentuk Usaha Tetap dalam Pengusahaan Minyak dan Gas Bumi",
+    "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-02-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 158/PMK.02/2016 — Perubahan atas Peraturan Menteri Keuangan Nomor 218/PMK.02/2014 tentang Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/158-pmk-02-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 119/PMK.02/2019 — Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak Dan/ atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+    "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-02-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-12-05",
+   "detail_error": null,
+   "number_as_written": "218/PMK.02/2014",
+   "retrieved_at": "2026-10-06T03:35:31+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI (REIMBURSEMENT) PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEROLEHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK KEPADA KONTRAKTOR DALAM KEGIATAN USAHA HULU MINYAK DAN GAS BUMI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-reimbursement-pajak-pertambahan-nilai-atau-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "2014-12-05 00:00:00",
+   "number_as_written": "218/PMK.02/2014",
+   "page_retrieved_at": "2026-10-06T02:21:25+00:00",
+   "retrieved_at": "2026-09-21T14:32:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/218-pmk-02-2014",
+   "validity_as_written": "05 Des 2014 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=176",
+   "retrieved_at": "2026-10-05T13:36:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-reimbursement-pajak-pertambahan-nilai-atau-pajak-pertambahan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=248",
+   "retrieved_at": "2026-09-21T14:32:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/218-pmk-02-2014",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21927,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:35:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-reimbursement-pajak-pertambahan-nilai-atau-pajak-pertambahan"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI (REIMBURSEMENT) PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PEROLEHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK KEPADA KONTRAKTOR DALAM KEGIATAN USAHA HULU MINYAK DAN GAS BUMI"
+}

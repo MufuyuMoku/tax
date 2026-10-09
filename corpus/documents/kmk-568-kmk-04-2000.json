@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-568-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "568/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 597/KMK.04/1994 — Saat Dimulainya Pemanfaatan Barang Kena Pajak Tidak Berwujud atau Jasa Kena Pajak Dari Luar Daerah Pabean, Penghitungan, Serta Tata Cara Pemungutan, Penyetoran dan Pelaporannya",
+    "url": "https://jdih.kemenkeu.go.id/dok/597-kmk-04-1994"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-26",
+   "detail_error": null,
+   "number_as_written": "568/KMK.04/2000",
+   "retrieved_at": "2026-10-06T05:16:51+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas"
+  },
+  {
+   "date_as_written": "2000-12-26 00:00:00",
+   "number_as_written": "568/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T03:23:34+00:00",
+   "retrieved_at": "2026-09-21T14:49:35+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Penghitungan,Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan atau Usaha Kena Pajak Dari Luar Daerah Pabean.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/568-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=378",
+   "retrieved_at": "2026-10-05T14:47:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=39",
+   "retrieved_at": "2026-09-21T14:49:35+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/568-kmk-04-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENGHITUNGAN, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN"
+}

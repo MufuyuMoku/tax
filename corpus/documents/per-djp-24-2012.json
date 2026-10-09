@@ -1,0 +1,161 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-24-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "24",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-24-2012--b000-1",
+  "per-djp-24-2012--b001-2",
+  "per-djp-24-2012--b002-3",
+  "per-djp-24-2012--b003-4",
+  "per-djp-24-2012--b004-5",
+  "per-djp-24-2012--b005-6",
+  "per-djp-24-2012--b006-7",
+  "per-djp-24-2012--b007-8",
+  "per-djp-24-2012--b008-9",
+  "per-djp-24-2012--b009-10",
+  "per-djp-24-2012--b010-11",
+  "per-djp-24-2012--b011-12",
+  "per-djp-24-2012--b012-13",
+  "per-djp-24-2012--b013-14",
+  "per-djp-24-2012--b014-15",
+  "per-djp-24-2012--b015-16",
+  "per-djp-24-2012--b016-17",
+  "per-djp-24-2012--b017-18",
+  "per-djp-24-2012--b018-19",
+  "per-djp-24-2012--b019-20",
+  "per-djp-24-2012--b020-21"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-17-2014",
+    "key": [
+     "PER-DJP",
+     "17",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-17/PJ/2014",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2013 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-24/PJ/2012 TENTANG BENTUK, UKURAN, TATA CARA PENGISIAN KETERANGAN, PROSEDUR PEMBERITAHUAN DALAM RANGKA PEMBUATAN, TATA CARA PEMBETULAN ATAU PENGGANTIAN, DAN TATA CARA PEMBATALAN FAKTUR PAJAK"
+   },
+   {
+    "id": "per-djp-8-2013",
+    "key": [
+     "PER-DJP",
+     "8",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-08/PJ/2013",
+    "quote": "Ketentuan Pasal 19 Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 Tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam Rangka Pembuatan, Tata Cara Pembetulan Atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak diubah, sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-24/PJ/2012 TENTANG BENTUK, UKURAN, TATA CARA PENGISIAN  KETERANGAN, PROSEDUR PEMBERITAHUAN DALAM RANGKA PEMBUATAN,  TATA CARA PEMBETULAN ATAU PENGGANTIAN, DAN TATA CARA PEMBATALAN  FAKTUR PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2022",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2022",
+    "quote": "Pasal 39 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak; … d. Keputusan Direktur Jenderal Pajak Nomor KEP-754/PJ./2001 tentang Tata Cara Pelaksanaan Konfirmasi Faktur Pajak dengan Aplikasi Sistem Informasi Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "FAKTUR PAJAK"
+   },
+   {
+    "id": "per-djp-4-2020",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-04/PJ/2020",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2012 tentang Bentuk, Ukuran, Tata Cara Pengisian Keterangan, Prosedur Pemberitahuan dalam rangka Pembuatan, Tata Cara Pembetulan atau Penggantian, dan Tata Cara Pembatalan Faktur Pajak sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2014, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK TEKNIS PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, SERTIFIKAT ELEKTRONIK, DAN PENGUKUHAN PENGUSAHA KENA PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "65",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-65/PJ/2010",
+    "quote": "Pasal 21 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: … dengan Peraturan Direktur Jenderal Pajak Nomor PER-65/PJ/2010 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-65-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-11-22",
+   "detail_error": null,
+   "number_as_written": "PER-24/PJ/2012",
+   "retrieved_at": "2026-10-06T03:45:42+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, UKURAN, TATA CARA PENGISIAN KETERANGAN,  PROSEDUR  PEMBERITAHUAN DALAM  RANGKA PEMBUATAN, TATA CARA PEMBETULAN ATAU  PENGGANTIAN, DAN TATA CARA PEMBATALAN FAKTUR PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-tata-cara-pengisian-keterangan-prosedur-pemberitahuan-dalam-rangka"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=199",
+   "retrieved_at": "2026-10-05T13:44:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-tata-cara-pengisian-keterangan-prosedur-pemberitahuan-dalam-rangka",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26963,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:45:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-tata-cara-pengisian-keterangan-prosedur-pemberitahuan-dalam-rangka"
+ },
+ "title": "BENTUK, UKURAN, TATA CARA PENGISIAN KETERANGAN,  PROSEDUR  PEMBERITAHUAN DALAM  RANGKA PEMBUATAN, TATA CARA PEMBETULAN ATAU  PENGGANTIAN, DAN TATA CARA PEMBATALAN FAKTUR PAJAK"
+}

@@ -1,0 +1,74 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-168-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "168",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-168-2002--b000-1",
+  "kep-djp-168-2002--b001-2",
+  "kep-djp-168-2002--b002-3",
+  "kep-djp-168-2002--b003-4",
+  "kep-djp-168-2002--b004-5",
+  "kep-djp-168-2002--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-28",
+   "detail_error": null,
+   "number_as_written": "KEP-168/PJ/2002",
+   "retrieved_at": "2026-10-06T04:55:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN OLEH PENGUSAHA TOKO EMAS PERHIASAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan-oleh-pengusaha-toko-emas-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=348",
+   "retrieved_at": "2026-10-05T14:36:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan-oleh-pengusaha-toko-emas-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5198,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:55:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-penyerahan-emas-perhiasan-oleh-pengusaha-toko-emas-0"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN EMAS PERHIASAN OLEH PENGUSAHA TOKO EMAS PERHIASAN"
+}

@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-19-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "19/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 83/KMK.03/2002 — Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan oleh Pengusaha Toko Emas Perhiasan",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-kmk-03-2002"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-01-14",
+   "detail_error": null,
+   "number_as_written": "19/KMK.04/1994",
+   "retrieved_at": "2026-10-06T05:59:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGKREDITAN PAJAK MASUKAN ATAS IMPOR DAN PENYERAHAN EMAS BATANGAN YANG PAJAK PERTAMBAHAN NILAINYA DITANGGUNG PEMERINTAH SERTA ATAS PENYERAHAN EMAS PERHIASAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengkreditan-pajak-masukan-atas-impor-dan-penyerahan-emas-batangan-yang-pajak-pertambahan"
+  },
+  {
+   "date_as_written": "1994-01-14 00:00:00",
+   "number_as_written": "19/KMK.04/1994",
+   "page_retrieved_at": "2026-10-06T03:53:30+00:00",
+   "retrieved_at": "2026-09-21T14:54:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengkreditan Pajak Masukan atas Impor dan Penyerahan Emas Batangan yang Pajak Pertambahan Nilainya Ditanggung Pemerintah Serta atas Penyerahan Emas Perhiasan.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/19-kmk-04-1994",
+   "validity_as_written": "14 Jan 1994 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=459",
+   "retrieved_at": "2026-10-06T01:47:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengkreditan-pajak-masukan-atas-impor-dan-penyerahan-emas-batangan-yang-pajak-pertambahan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=111",
+   "retrieved_at": "2026-09-21T14:54:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/19-kmk-04-1994",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGKREDITAN PAJAK MASUKAN ATAS IMPOR DAN PENYERAHAN EMAS BATANGAN YANG PAJAK PERTAMBAHAN NILAINYA DITANGGUNG PEMERINTAH SERTA ATAS PENYERAHAN EMAS PERHIASAN"
+}

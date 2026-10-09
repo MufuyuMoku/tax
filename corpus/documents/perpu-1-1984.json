@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "perpu-1-1984",
+ "identity": {
+  "code": "PERPU",
+  "number": "1",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "perpu-1-1984--b000-1",
+  "perpu-1-1984--b001-2",
+  "perpu-1-1984--p002-1",
+  "perpu-1-1984--p003-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-06-16",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 1984",
+   "retrieved_at": "2026-10-06T06:43:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984",
+   "type_as_written": "Perpu",
+   "url": "https://www.pajak.go.id/id/peraturan/penangguhan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=493",
+   "retrieved_at": "2026-10-06T02:24:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penangguhan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5668,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T06:43:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penangguhan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984"
+ },
+ "title": "PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984"
+}

@@ -1,0 +1,282 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-575-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "575/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-78-2010",
+    "key": [
+     "PMK",
+     "78",
+     "2010",
+     null
+    ],
+    "number_as_written": "78/PMK.03/2010",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 575/KMK.04/2000 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 78/PMK.03/2010 TENTANG PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 522/KMK.04/2000 TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH DAN WAJIB PAJAK LAINNYA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-522kmk042000-tentang-penghitungan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK DARI WAJIB PAJAK BADAN YANG MELAKUKAN KEGIATAN USAHA DI BIDANG PENGEBORAN MINYAK DAN GAS BUMI SERTA ANGSURAN PAJAK DALAM TAHUN BERJALAN OLEH WAJIB PAJAK SENDIRI",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-dari-wajib-pajak-badan-yang-melakukan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-atau-penghapusan-sanksi-administrasi-dan-pengurangan-atau-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-pajak-penghasilan-bagi-perwakilan-organisasi-internasional-dan-pejabat"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEDOMAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/pedoman-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-melakukan-penyerahan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 24 SAMPAI DENGAN 30 JULI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-78"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 12 SAMPAI DENGAN 18 MARET 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-110"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 2 SAMPAI DENGAN 8 FEBRUARI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-339"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 16 SAMPAI DENGAN 22 FEBRUARI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-372"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATACARA PEMBERIAN DAN PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS",
+    "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-dan-penatausahaan-pajak-pertambahan-nilai-yang-dibebaskan-atas-impor"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH DENGAN KEP-02/PJ.1/2000",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang-bentuk-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENERIMAAN, PENELITIAN DAN PENGOLAHAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-penelitian-dan-pengolahan-surat-pemberitahuan-tahunan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "CAP DINAS KANTOR VERTIKAL DI LINGKUNGAN DIREKTORAT JENDERAL PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/cap-dinas-kantor-vertikal-di-lingkungan-direktorat-jenderal-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 7 SAMPAI DENGAN 13 FEBRUARI 2005",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-533"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN\r\nNILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH,\r\nBEA KELUAR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK\r\nTANGGAL 20 SEPTEMBER 2017 SAMPAI DENGAN 26 SEPTEMBER 2017",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-1101"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN\r\nNILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH,\r\nBEA KELUAR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK\r\nTANGGAL 8 NOVEMBER 2017 SAMPAI DENGAN 14 NOVEMBER 2017",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-464"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "LAYANAN PAJAK TERTENTU PADA PELAYANAN TERPADU SATU PINTU",
+    "url": "https://www.pajak.go.id/id/peraturan/layanan-pajak-tertentu-pada-pelayanan-terpadu-satu-pintu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATACARA PENERBITAN SURAT KETERANGAN PEMANFAATAN JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN ATAS IMPOR YANG MERUPAKAN PEMASUKAN BARANG YANG DIGUNAKAN UNTUK KEGIATAN PEMANFAATAN JASA KENA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tatacara-penerbitan-surat-keterangan-pemanfaatan-jasa-kena-pajak-dari-luar-daerah-pabean"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, BEA KELUAR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 25 DESEMBER 2019 SAMPAI DENGAN 31 DESEMBER 2019.",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-1142"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN\r\nNILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH,\r\nBEA KELUAR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK\r\nTANGGAL 29 JANUARI 2020 SAMPAI DENGAN 4 FEBRUARI 2020",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-1051"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGESAHAN PERSETUJUAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK TAJIKISTAN MENGENAI PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF TAJIKISTAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)",
+    "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-republik-indonesia-dan-republik-tajikistan-mengenai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENENTUAN KUALITAS PIUTANG DAN PEMBENTUKAN PENYISIHAN PIUTANG TIDAK TERTAGIH PADA KEMENTERIAN NEGARA/LEMBAGA DAN BENDAHARA UMUM NEGARA",
+    "url": "https://www.pajak.go.id/id/peraturan/penentuan-kualitas-piutang-dan-pembentukan-penyisihan-piutang-tidak-tertagih-pada"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 643/KMK.04/1994 — Pedoman Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/643-kmk-04-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 78/PMK.03/2010 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2010"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-26",
+   "detail_error": null,
+   "number_as_written": "575/KMK.04/2000",
+   "retrieved_at": "2026-10-06T05:15:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-melakukan"
+  },
+  {
+   "date_as_written": "2000-12-26 00:00:00",
+   "number_as_written": "575/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T03:22:32+00:00",
+   "retrieved_at": "2026-09-21T14:49:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/575-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=377",
+   "retrieved_at": "2026-10-05T14:46:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-melakukan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=38",
+   "retrieved_at": "2026-09-21T14:49:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/575-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MELAKUKAN PENYERAHAN YANG TERUTANG PAJAK DAN PENYERAHAN YANG TIDAK TERUTANG PAJAK"
+}

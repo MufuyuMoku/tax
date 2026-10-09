@@ -32,7 +32,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-240-2009",
+    "key": [
+     "PMK",
+     "240",
+     "2009",
+     null
+    ],
+    "number_as_written": "240/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 45/PMK.03/2009 tentang Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan Atas Barang Mewah Atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/ atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain Dalam Daerah Pabean dan Pemasukan dan/ atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain Dalam Daerah Pabean Ke Kawasan Bebas, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 45/PMK.03/2009 TENTANG TATA CARA PENGAWASAN, PENGADMINISTRASIAN, PEMBAYARAN, SERTA PELUNASAN PAJAK PERTAMBAHAN NILAI DAN/ATAU PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI KAWASAN BEBAS KE TEMPAT LAIN DALAM DAERAH PABEAN DAN PEMASUKAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {

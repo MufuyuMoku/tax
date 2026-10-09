@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-827-kmk-04-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "827/KMK.04",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG PAJAK PERTAMBAHAN NILAI 1984",
+    "url": "https://www.pajak.go.id/id/peraturan/penangguhan-mulai-berlakunya-undang-undang-pajak-pertambahan-nilai-1984"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN OKTOBER, NOPEMBER DAN DESEMBER 1991",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-269"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 24 SAMPAI DENGAN 30 NOPEMBER 1997",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-311"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "RALAT KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR : KEP-205/PJ./1999",
+    "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-direktur-jenderal-pajak-nomor-kep-205pj1999"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN UJI COBA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PPN DAN PPn BM SECARA ON LINE",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penyampaian-surat-pemberitahuan-masa-ppn-dan-ppn-bm-secara-line"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-552/PJ./2001 TENTANG PENETAPAN NILAI STIKER LUNAS PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN PRODUK REKAMAN SUARA DAN PENUNJUKAN ASOSIASI YANG MEMBERIKAN REKOMENDASI UNTUK PENEBUSAN STIKER LUNAS PAJAK PERTAMBAHAN NILAI SERTA TATA CARA PENEBUSAN DAN PELAPORANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-552pj2001-tentang-penetapan-nilai"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-08-09",
+   "detail_error": null,
+   "number_as_written": "827/KMK.04/1984",
+   "retrieved_at": "2026-10-06T06:42:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PENANGGUHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI ATAS PEROLEHAN ATAU IMPOR BARANG MODAL TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penangguhan-pembayaran-pajak-pertambahan-nilai-atas-perolehan-atau-impor-barang-modal"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=493",
+   "retrieved_at": "2026-10-06T02:24:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penangguhan-pembayaran-pajak-pertambahan-nilai-atas-perolehan-atau-impor-barang-modal",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENANGGUHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI ATAS PEROLEHAN ATAU IMPOR BARANG MODAL TERTENTU"
+}

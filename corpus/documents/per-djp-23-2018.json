@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2018",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-23-2018--b000-1",
+  "per-djp-23-2018--b001-2",
+  "per-djp-23-2018--b002-3",
+  "per-djp-23-2018--b003-4",
+  "per-djp-23-2018--b004-5",
+  "per-djp-23-2018--b005-6",
+  "per-djp-23-2018--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-09-26",
+   "detail_error": null,
+   "number_as_written": "23/PJ/2018",
+   "retrieved_at": "2026-10-06T03:18:58+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, WARNA, UKURAN DAN PEDOMAN PELEKATAN DAN/ATAU PEMASANGAN TANDA PENGAMAN SEHUBUNGAN DENGAN PEMASUKAN BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS YANG AKAN DILAKUKAN PEMERIKSAAN FISIK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-warna-ukuran-dan-pedoman-pelekatan-danatau-pemasangan-tanda-pengaman-sehubungan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=127",
+   "retrieved_at": "2026-10-05T13:17:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-warna-ukuran-dan-pedoman-pelekatan-danatau-pemasangan-tanda-pengaman-sehubungan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8601,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T03:18:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-warna-ukuran-dan-pedoman-pelekatan-danatau-pemasangan-tanda-pengaman-sehubungan"
+ },
+ "title": "BENTUK, WARNA, UKURAN DAN PEDOMAN PELEKATAN DAN/ATAU PEMASANGAN TANDA PENGAMAN SEHUBUNGAN DENGAN PEMASUKAN BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS YANG AKAN DILAKUKAN PEMERIKSAAN FISIK"
+}

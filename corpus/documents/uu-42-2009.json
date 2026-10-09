@@ -1,0 +1,155 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPN"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-42-2009",
+ "identity": {
+  "code": "UU",
+  "number": "42",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "uu-42-2009--b000-i",
+  "uu-42-2009--b001-ii",
+  "uu-42-2009--p002-i",
+  "uu-42-2009--p003-1",
+  "uu-42-2009--p004-1a",
+  "uu-42-2009--p005-3a",
+  "uu-42-2009--p006-4",
+  "uu-42-2009--p007-4a",
+  "uu-42-2009--p008-5",
+  "uu-42-2009--p009-5a",
+  "uu-42-2009--p010-7",
+  "uu-42-2009--p011-8",
+  "uu-42-2009--p012-8a",
+  "uu-42-2009--p013-9",
+  "uu-42-2009--p014-11",
+  "uu-42-2009--p015-12",
+  "uu-42-2009--p016-13",
+  "uu-42-2009--p017-15a",
+  "uu-42-2009--p018-16b",
+  "uu-42-2009--p019-16d",
+  "uu-42-2009--p020-16e",
+  "uu-42-2009--p021-16f",
+  "uu-42-2009--p022-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "8",
+     "1983",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 8 TAHUN 1983",
+    "quote": "Beberapa ketentuan dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 3264) yang telah beberapa kali diubah dengan Undang-Undang: Nomor 11 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 3568); Nomor 18 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 128, Tambahan Lembaran Negara Republik Indonesia Nomor 3986), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "uu-8-1983"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 18 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-18-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 8 TAHUN 1983 — Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-8-tahun-1983"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 11 TAHUN 1994 — Perubahan atas Undang-Undang No. 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 11 TAHUN 2020 — Cipta Kerja",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 7 TAHUN 2021 — Harmonisasi Peraturan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-10-15",
+   "detail_error": null,
+   "number_as_written": "42 TAHUN 2009",
+   "retrieved_at": "2026-10-06T04:07:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai"
+  },
+  {
+   "date_as_written": "2009-10-15 00:00:00",
+   "number_as_written": "UU 42 TAHUN 2009",
+   "page_retrieved_at": "2026-10-06T03:01:04+00:00",
+   "retrieved_at": "2026-09-21T14:03:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-42-tahun-2009",
+   "validity_as_written": "15 Okt 2009 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13929&page=224",
+   "retrieved_at": "2026-10-05T13:53:31+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=14",
+   "retrieved_at": "2026-09-21T14:03:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-42-tahun-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 102550,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-06T04:07:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-undang-undang-nomor-8-tahun-1983-tentang-pajak-pertambahan-nilai"
+ },
+ "title": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

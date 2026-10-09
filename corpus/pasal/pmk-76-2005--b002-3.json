@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 1554,
+ "document_id": "pmk-76-2005",
+ "document_number": "76/PMK.03/2005",
+ "document_title": "TATACARA PEMBERIAN FASILITAS PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS PENYERAHAN AVTUR UNTUK KEPERLUAN PENERBANGAN INTERNASIONAL",
+ "id": "pmk-76-2005--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\n(1)\nPenyerahan avtur oleh Pengusaha Kena Pajak kepada Maskapai penerbangan untuk keperluan Penerbangan domestik yang menjadi satu rangkaian dengan penerbangan internasional terutang Pajak Pertambahan Nilai dan wajib dipungut oleh Pengusaha Kena Pajak yang melakukan penyerahan avtur tersebut.\n(2)\nPengusaha Kena Pajak yang melakukan penyerahan avtur sebagaimana dimaksud dalam ayat (1), wajib menerbitkan Faktur Pajak dan membubuhkan cap ”PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT SESUAI PP NOMOR 26 TAHUN 2005 SEBESAR Rp ..................” pada setiap lembar Faktur Pajak yang diterbitkan sesuai dengan format sebagaimana ditetapkan dalam Lampiran Peraturan Menteri Keuangan ini.\n(3)\nPajak Pertambahan Nilai terutang yang wajib dipungut atas penyerahan Avtur untuk keperluan Penerbangan domestik yang menjadi satu rangkaian dengan Penerbangan internasional dihitung dengan rumus sebagai berikut :\nX\nPPN Terutang Yang Wajib Dipungut = ------- x Z x Harga Jual x Tarif PPN\nY\nDengan ketentuan bahwa :\nX\n=\nJarak antara bandar udara keberangkatan yang berada di dalam wilayah Republik Indonesia sampai dengan bandar udara di dalam wilayah Republik Indonesia yang menjadi tempat penerbangan terakhir ke bandar udara di luar negeri.\nY\n=\nTotal jarak antara bandar udara keberangkatan yang berada di dalam wilayah Republik Indonesia sampai dengan bandar udara di luar negeri.\nZ\n=\nVolume Avtur yang dibeli di dalam negeri.\nHarga Jual\n=\nHarga Jual avtur.\nTarif PPN\n=\ntarif Pajak Pertambahan Nilai yang sesuai dengan ketentuan perundang-undangan yang berlaku.",
+ "text_source": {
+  "retrieved_at": "2026-10-06T04:23:32+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tatacara-pemberian-fasilitas-pajak-pertambahan-nilai-tidak-dipungut-atas-penyerahan-avtur"
+ }
+}
