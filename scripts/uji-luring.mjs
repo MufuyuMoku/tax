@@ -156,7 +156,8 @@ try {
     claims: [...document.querySelectorAll('.klaim li')].length,
     dated: [...document.querySelectorAll('.klaim li .hint')].every(e => /diambil \\d/.test(e.textContent)),
     quotes: document.querySelectorAll('.relasi blockquote').length,
-    category: (document.querySelector('.kartu-asal')||{}).textContent || '',
+    category: [...document.querySelectorAll('.ringkasan dt')].find(d => /Kategori/.test(d.textContent))?.nextElementSibling.textContent || '',
+    chips: [...document.querySelectorAll('.ringkasan .chip')].map(c => c.textContent).join(' | '),
     externalLinks: [...document.querySelectorAll('a')].filter(a => a.href && new URL(a.href).origin !== location.origin).length,
     marked: document.querySelectorAll('a.luar-luring').length,
     markedText: getComputedStyle(document.querySelector('a.luar-luring'), '::after').content,
@@ -164,18 +165,28 @@ try {
   check(
     "luring: halaman dokumen dari data di perangkat",
     docPage.claims > 1 && docPage.dated && docPage.quotes > 0 && docPage.category,
-    `${docPage.h1}: ${docPage.claims} baris klaim dan sumber bertanggal, ${docPage.quotes} kutipan relasi, label "${docPage.category}"`
+    `${docPage.h1}: status per sumber "${docPage.chips}", ${docPage.claims} baris klaim dan sumber bertanggal, ${docPage.quotes} kutipan relasi, label "${docPage.category}"`
   );
   check("luring: tautan ke sumber dan lampiran bukan tautan aktif", docPage.externalLinks === 0 && docPage.marked > 0, `${docPage.marked} tautan luar ditandai ${docPage.markedText}`);
   await shot("luring-dokumen");
 
   await go(`${ORIGIN}${BASE}dokumen/${bare.id}/`);
-  const bareNote = await text(".notice strong");
+  const bareNote = await text("#isi + .notice strong");
   check("luring: dokumen tanpa teks tetap tampil dengan keterangan", /Teks/.test(bareNote), `${bare.id}: "${bareNote}"`);
 
   await go(`${ORIGIN}${BASE}pasal/${pasal}/`);
   const pasalPage = await js(`({ h1: document.querySelector('h1').textContent, chars: document.querySelector('.teks-pasal').textContent.length, source: document.querySelector('p.hint:last-of-type').textContent })`);
   check("luring: halaman pasal", pasalPage.chars > 0, `${pasalPage.h1}, ${pasalPage.chars} karakter`);
+  // "Salin kutipan" (K-083): regulation, pasal, title, text, and the page address, offline too.
+  await chrome.send("Browser.grantPermissions", { origin: ORIGIN, permissions: ["clipboardReadWrite", "clipboardSanitizedWrite"] });
+  await js("document.querySelector('button.salin').click(); true");
+  await sleep(500);
+  const copied = await js("navigator.clipboard.readText()");
+  check(
+    "luring: Salin kutipan menyalin label, pasal, teks, dan tautan",
+    copied.includes(pasalPage.h1) && copied.includes(`${BASE}pasal/${pasal}/`) && copied.length > pasalPage.chars,
+    copied.split("\n")[0]
+  );
   await shot("luring-pasal");
 
   await go(`${ORIGIN}${BASE}koleksi/`);

@@ -5,7 +5,8 @@
 //
 // Input is a document "view" (src/lib/render/views.js): the corpus document plus the few facts
 // that need other documents (which relation targets exist, which twin has text), and its units.
-import { categoryNote, flagNote, formatDate, regulationLabel, statusLabel, STRUCTURE_NOTE, typeLabel, yearLabel } from "../labels.js";
+import { categoryNote, flagNote, formatDate, plainReason, regulationLabel, STRUCTURE_NOTE, typeLabel, yearLabel } from "../labels.js";
+import { compactClaims, statusChips } from "./chips.js";
 import { esc, h, thousands } from "./html.js";
 
 const RELATIONS = [
@@ -24,6 +25,17 @@ const flagList = (flags) =>
       return `<li>${esc(info.note)}${info.detail ? esc(` (${info.detail})`) : ""}</li>`;
     })
     .join("")}</ul>`;
+
+const fact = (label, value) => `<div><dt>${label}</dt><dd>${value}</dd></div>`;
+const info = (base, anchor, label) => `<a class="info" href="${base}cara-pakai/#${anchor}" aria-label="${label}">ⓘ</a>`;
+
+/** The pipeline's note on how many sources were compared, in plain words. */
+function plainNote(note) {
+  if (note === "disepakati JDIH & DJP") return "DJP dan JDIH mencatat hal yang sama.";
+  const single = note.match(/^klaim (\w+) saja; belum dibandingkan dengan sumber lain$/);
+  if (single) return `Hanya ${single[1]} yang mencatat statusnya; belum ada sumber lain untuk dibandingkan.`;
+  return note;
+}
 
 export function documentNumber(doc) {
   const numberAsWritten = doc.source_records.find((r) => r.number_as_written)?.number_as_written;
@@ -50,19 +62,47 @@ export function renderDocumentPage(doc, units, base) {
       (singleSource ? `, diambil ${formatDate(doc.status_claims.map((c) => c.retrieved_at).sort().at(-1))}` : "")
     : "";
   const categories = doc.categories || [];
+  const mismatched = doc.attachments.filter((a) => a.match === "tidak_cocok").length;
 
   const html = h(
-    `<p class="breadcrumb"><a href="${base}">Daftar peraturan</a></p>`,
+    `<p class="breadcrumb"><a href="${base}">← Daftar peraturan</a></p>`,
     `<h1>${esc(number)}</h1>`,
     `<p class="judul-dokumen">${esc(doc.title)}</p>`,
-    numberAsWritten && `<p class="hint">Nomor menurut sumber: ${esc(numberAsWritten)}</p>`,
-    `<p class="kartu-tanda">`,
-    `<span class="tanda status-${esc(doc.status.value)}">${esc(statusLabel(doc.status.value, true))}</span>`,
-    `<span class="tanda netral">${esc(typeLabel(doc.identity.code))}</span>`,
-    `<span class="tanda netral">${esc(yearLabel(doc.identity.year))}</span>`,
-    doc.identity.variant && `<span class="tanda netral">${esc(doc.identity.variant)}</span>`,
-    `</p>`,
-    categories.length > 0 && `<p class="kartu-asal">${esc(categoryNote(categories))}</p>`,
+    // Summary first (K-083): kind, number, year, status per source, category, text.
+    `<dl class="ringkasan">`,
+    fact("Jenis", esc(typeLabel(doc.identity.code)) + (doc.identity.variant ? ` (${esc(doc.identity.variant)})` : "")),
+    fact("Nomor", esc(numberAsWritten || number)),
+    fact("Tahun", esc(yearLabel(doc.identity.year))),
+    fact(
+      `Status menurut sumber ${info(base, "status", "Arti status menurut sumber")}`,
+      `<span class="chips">${statusChips(compactClaims(doc.status_claims), { dated: true })}</span>` +
+        (doc.status.note ? `<span class="hint">${esc(plainNote(doc.status.note))}</span>` : "")
+    ),
+    categories.length > 0 && fact(`Kategori ${info(base, "kategori", "Arti label kategori")}`, esc(categoryNote(categories))),
+    fact(
+      "Sumber",
+      [...new Map(doc.source_records.map((r) => [r.url, r])).values()]
+        .map((record, i, all) => {
+          const twice = all.filter((r) => r.source === record.source).length > 1;
+          const label = twice ? `${record.source} (${record.number_as_written || i + 1})` : record.source;
+          return link(record.url, `halaman ${esc(label)}`);
+        })
+        .join(" · ")
+    ),
+    fact(
+      "Teks",
+      doc.text.available
+        ? `<a href="#isi">${body.length} ${doc.structure === "diktum" ? "diktum" : "pasal"}</a>${explanation.length ? ` dan ${explanation.length} penjelasan` : ""}`
+        : "Tanpa teks di situs ini (lihat di bawah)"
+    ),
+    `</dl>`,
+    doc.status.value === "tidak_pasti" &&
+      h(
+        `<div class="notice"><p><strong>⚠ Perlu dicek: sumber resmi berbeda pendapat tentang statusnya.</strong></p>`,
+        `<ul>${doc.status.reasons.map((reason) => `<li>${esc(plainReason(reason))}</li>`).join("")}</ul>`,
+        `<p class="hint">Situs ini tidak memilih salah satu. Catatan tiap sumber ada di atas dan di `,
+        `“Rincian status dan sumber”, beserta tanggal pengambilannya.</p></div>`
+      ),
 
     doc.identity_conflicts.length > 0 &&
       h(
@@ -79,106 +119,7 @@ export function renderDocumentPage(doc, units, base) {
         `digabungkan: menggabungkan berarti memilih salah satu sumber sebagai yang benar.</p></div>`
       ),
 
-    `<h2>Status</h2>`,
-    doc.status.value === "tidak_pasti"
-      ? h(
-          `<div class="notice"><p><strong>Status tidak pasti.</strong> Alasannya:</p>`,
-          `<ul>${doc.status.reasons.map((reason) => `<li>${esc(reason)}</li>`).join("")}</ul>`,
-          `<p class="hint">Situs ini tidak memilih salah satu klaim sebagai jawaban. Seluruh klaim `,
-          `ditampilkan di bawah apa adanya, beserta tanggal pengambilannya.</p></div>`
-        )
-      : h(
-          `<p>${esc(statusLabel(doc.status.value))}`,
-          doc.status.note && `<span class="hint">${esc(` (${statusNote})`)}</span>`,
-          `</p>`
-        ),
-    `<ul class="klaim">`,
-    doc.status_claims.map((claim) =>
-      h(
-        `<li><span class="klaim-sumber">${esc(claim.source)}</span>`,
-        `<span class="klaim-nilai">${esc(claim.value_verbatim || "(kosong)")}</span>`,
-        `<span class="hint">diambil ${esc(formatDate(claim.retrieved_at))}</span>`,
-        link(claim.url, "halaman sumber"),
-        `</li>`
-      )
-    ),
-    `</ul>`,
-
-    `<h2>Sumber</h2><ul class="klaim">`,
-    doc.source_records.map((record) =>
-      h(
-        `<li><span class="klaim-sumber">${esc(record.source)}</span>`,
-        `<span>${esc(record.number_as_written)}</span>`,
-        `<span class="hint">`,
-        esc(
-          h(
-            record.type_as_written,
-            record.date_as_written ? ` · ${formatDate(record.date_as_written)}` : "",
-            ` · diambil ${formatDate(record.retrieved_at)}`,
-            record.validity_as_written &&
-              ` · masa berlaku di halaman JDIH: ${record.validity_as_written} (diambil ${formatDate(record.page_retrieved_at)})`
-          )
-        ),
-        `</span>`,
-        link(record.url, "buka"),
-        `</li>`
-      )
-    ),
-    `</ul>`,
-
-    relations.length > 0 &&
-      h(
-        `<h2>Relasi dengan peraturan lain</h2>`,
-        `<div class="notice"><p><strong>Ini petunjuk, bukan kepastian.</strong> Relasi dibaca otomatis `,
-        `dari kalimat di teks peraturan. Uji manual pada 20 contoh memberi 16 benar, 2 sebenarnya `,
-        `pencabutan sebagian yang tercatat sebagai pencabutan penuh, dan 2 perlu diperiksa manusia. `,
-        `Kutipan kalimat sumbernya disertakan supaya bisa dinilai sendiri.</p></div>`,
-        relations.map((group) =>
-          h(
-            `<h3>${group.label}</h3><ul class="relasi">`,
-            group.items.map((item) => relationItem(item, group.kind, known, base)),
-            `</ul>`
-          )
-        )
-      ),
-
-    doc.relations.source_listed_related.length > 0 &&
-      h(
-        `<h3>Disebut terkait oleh sumber</h3><ul class="relasi">`,
-        doc.relations.source_listed_related.map((item) =>
-          h(
-            `<li><p class="relasi-sasaran">`,
-            item.url ? link(item.url, esc(item.text)) : esc(item.text),
-            `</p><p class="hint">${esc(item.note)}</p></li>`
-          )
-        ),
-        `</ul>`
-      ),
-
-    doc.attachments.length > 0 &&
-      h(
-        `<h2>Lampiran</h2>`,
-        `<p class="hint">Lampiran dibuka sebagai PDF asli di situs sumber. Isinya tidak diubah menjadi `,
-        `teks, karena sebagian lampiran berupa hasil pindaian yang OCR-nya merusak angka pada tabel tarif.</p>`,
-        `<ul class="lampiran">`,
-        doc.attachments.map((attachment) =>
-          h(
-            `<li>`,
-            link(attachment.url, esc(attachment.file_name)),
-            attachment.match === "tidak_cocok" &&
-              h(
-                `<p class="peringatan-blok"><strong>Nomor lampiran tidak cocok.</strong> ${esc(attachment.note)}. `,
-                `Lampiran ini mungkin milik peraturan lain, jadi periksa dulu sebelum dipakai.</p>`
-              ),
-            attachment.match === "tidak_terverifikasi" &&
-              `<p class="hint">Nomor peraturan tidak terbaca dari nama berkas, jadi kecocokannya belum terverifikasi.</p>`,
-            `</li>`
-          )
-        ),
-        `</ul>`
-      ),
-
-    `<h2>Batang tubuh</h2>`,
+    `<h2 id="isi">Isi peraturan</h2>`,
     !doc.text.available
       ? h(
           `<div class="notice"><p><strong>${heldBack ? "Teks belum dimuat di situs ini." : "Teks tidak tersedia di sumber."}</strong> `,
@@ -239,7 +180,105 @@ export function renderDocumentPage(doc, units, base) {
               doc.text.other_postings.some((p) => p.differs_from_chosen) ? ", dan isinya tidak sama persis." : "."
             ),
           `</p>`
+        ),
+
+    `<details class="lipat"><summary><h2>Rincian status dan sumber</h2></summary>`,
+    `<h3>Status yang dicatat tiap sumber</h3>`,
+    `<ul class="klaim">`,
+    doc.status_claims.map((claim) =>
+      h(
+        `<li><span class="klaim-sumber">${esc(claim.source)}</span>`,
+        `<span class="klaim-nilai">${esc(claim.value_verbatim || "(kosong)")}</span>`,
+        `<span class="hint">diambil ${esc(formatDate(claim.retrieved_at))}</span>`,
+        link(claim.url, "halaman sumber"),
+        `</li>`
+      )
+    ),
+    `</ul>`,
+
+    `<h3>Catatan tiap sumber</h3><ul class="klaim">`,
+    doc.source_records.map((record) =>
+      h(
+        `<li><span class="klaim-sumber">${esc(record.source)}</span>`,
+        `<span>${esc(record.number_as_written)}</span>`,
+        `<span class="hint">`,
+        esc(
+          h(
+            record.type_as_written,
+            record.date_as_written ? ` · ${formatDate(record.date_as_written)}` : "",
+            ` · diambil ${formatDate(record.retrieved_at)}`,
+            record.validity_as_written &&
+              ` · masa berlaku di halaman JDIH: ${record.validity_as_written} (diambil ${formatDate(record.page_retrieved_at)})`
+          )
+        ),
+        `</span>`,
+        link(record.url, "buka"),
+        `</li>`
+      )
+    ),
+    `</ul>`,
+
+    `</details>`,
+
+    (relations.length > 0 || doc.relations.source_listed_related.length > 0) &&
+      h(
+        `<details class="lipat"><summary><h2>Relasi dengan peraturan lain `,
+        `<span class="jumlah">(${relations.reduce((n, g) => n + g.items.length, 0) + doc.relations.source_listed_related.length})</span></h2></summary>`,
+    relations.length > 0 &&
+      h(
+        `<div class="notice"><p><strong>Ini petunjuk, bukan kepastian.</strong> Relasi dibaca otomatis `,
+        `dari kalimat di teks peraturan. Uji manual pada 20 contoh memberi 16 benar, 2 sebenarnya `,
+        `pencabutan sebagian yang tercatat sebagai pencabutan penuh, dan 2 perlu diperiksa manusia. `,
+        `Kutipan kalimat sumbernya disertakan supaya bisa dinilai sendiri.</p></div>`,
+        relations.map((group) =>
+          h(
+            `<h3>${group.label}</h3><ul class="relasi">`,
+            group.items.map((item) => relationItem(item, group.kind, known, base)),
+            `</ul>`
+          )
         )
+      ),
+
+    doc.relations.source_listed_related.length > 0 &&
+      h(
+        `<h3>Disebut terkait oleh sumber</h3><ul class="relasi">`,
+        doc.relations.source_listed_related.map((item) =>
+          h(
+            `<li><p class="relasi-sasaran">`,
+            item.url ? link(item.url, esc(item.text)) : esc(item.text),
+            `</p><p class="hint">${esc(item.note)}</p></li>`
+          )
+        ),
+        `</ul>`
+      ),
+        `</details>`
+      ),
+
+    doc.attachments.length > 0 &&
+      h(
+        `<details class="lipat"><summary><h2>Lampiran <span class="jumlah">(${doc.attachments.length})</span>`,
+        mismatched > 0 && ` <span class="tanda peringatan">⚠ ${mismatched} tidak cocok</span>`,
+        `</h2></summary>`,
+        `<p class="hint">Lampiran dibuka sebagai PDF asli di situs sumber. Isinya tidak diubah menjadi `,
+        `teks, karena sebagian lampiran berupa hasil pindaian yang OCR-nya merusak angka pada tabel tarif.</p>`,
+        `<ul class="lampiran">`,
+        doc.attachments.map((attachment) =>
+          h(
+            `<li>`,
+            link(attachment.url, esc(attachment.file_name)),
+            attachment.match === "tidak_cocok" &&
+              h(
+                `<p class="peringatan-blok"><strong>Nomor lampiran tidak cocok.</strong> ${esc(attachment.note)}. `,
+                `Lampiran ini mungkin milik peraturan lain, jadi periksa dulu sebelum dipakai.</p>`
+              ),
+            attachment.match === "tidak_terverifikasi" &&
+              `<p class="hint">Nomor peraturan tidak terbaca dari nama berkas, jadi kecocokannya belum terverifikasi.</p>`,
+            `</li>`
+          )
+        ),
+        `</ul>`,
+        `</details>`
+      )
   );
   return { title: `${number} — Tax`, description: doc.title, body: html };
 }
@@ -290,25 +329,31 @@ export function renderPasalPage(doc, unit, base) {
     .replace(/^[ \t]*(?:PASAL|Pasal|pasal)[ \t]+\S+[ \t]*\n/, "")
     .replace(/^[A-Z ]+\n/, (m) => (unit.structure === "diktum" ? "" : m));
 
+  const section = unit.section === "penjelasan" ? "Penjelasan" : "Batang tubuh";
+  // What "Salin kutipan" puts first: regulation, pasal, and title (the page link is added on copy).
+  const quoteTitle = `${documentNumber(doc)} ${unit.section === "penjelasan" ? "Penjelasan " : ""}${heading} — ${doc.title}`;
+
   const html = h(
     `<p class="breadcrumb"><a href="${base}">Daftar peraturan</a> · `,
-    `<a href="${base}dokumen/${esc(doc.id)}/">${esc(unit.document_number || doc.id)}</a></p>`,
+    `<a href="${base}dokumen/${esc(doc.id)}/">${esc(documentNumber(doc))}</a></p>`,
     `<h1>${esc(heading)}</h1>`,
     `<p class="judul-dokumen">${esc(doc.title)}</p>`,
-    `<p class="kartu-tanda"><span class="tanda status-${esc(doc.status.value)}">${esc(statusLabel(doc.status.value, true))}</span>`,
-    `<span class="tanda netral">${unit.section === "penjelasan" ? "Penjelasan" : "Batang tubuh"}</span></p>`,
+    `<p class="kartu-status">${statusChips(compactClaims(doc.status_claims))}`,
+    info(base, "status", "Arti status menurut sumber"),
+    `<span class="tanda netral">${section}</span></p>`,
     doc.status.value === "tidak_pasti" &&
       h(
-        `<div class="notice"><p><strong>Status peraturan induknya tidak pasti.</strong> ${esc(doc.status.reasons.join("; "))}. `,
-        `<a href="${base}dokumen/${esc(doc.id)}/">Lihat klaim tiap sumber</a> sebelum memakai pasal ini.</p></div>`
+        `<div class="notice"><p><strong>⚠ Perlu dicek: sumber resmi berbeda pendapat tentang status peraturan ini.</strong> `,
+        esc(doc.status.reasons.map(plainReason).join("; ")),
+        `. <a href="${base}dokumen/${esc(doc.id)}/">Lihat catatan tiap sumber</a> sebelum memakai pasal ini.</p></div>`
       ),
     doc.quality_flags.length > 0 &&
       h(
-        `<div class="notice"><p><strong>Penomoran pasal di teks sumber janggal.</strong></p>`,
+        `<details class="peringatan-lipat"><summary>⚠ Penomoran pasal di teks sumber janggal</summary>`,
         flagList(doc.quality_flags),
-        `<p class="hint">Label pasal ini ditulis persis seperti di sumber.</p></div>`
+        `<p class="hint">Label pasal ini ditulis persis seperti di sumber.</p></details>`
       ),
-    `<div class="teks-pasal">${esc(bodyText)}</div>`,
+    `<div class="teks-pasal" id="teks-pasal">${esc(bodyText)}</div>`,
     unit.amendment_items &&
       unit.amendment_items.length > 0 &&
       h(
@@ -325,9 +370,12 @@ export function renderPasalPage(doc, unit, base) {
         ),
         `</ol>`
       ),
-    `<nav class="nav-pasal">`,
-    previous && `<a href="${base}pasal/${esc(previous)}/">← unit sebelumnya</a>`,
-    next && `<a href="${base}pasal/${esc(next)}/">unit berikutnya →</a>`,
+    // One bar within thumb reach on phones: previous, copy, next (K-083). The copy button needs
+    // JavaScript, so it starts hidden and public/keadaan.js shows it.
+    `<nav class="nav-pasal" aria-label="Pasal sebelum dan sesudahnya">`,
+    previous ? `<a href="${base}pasal/${esc(previous)}/" rel="prev" aria-label="Sebelumnya">← <span class="nav-kata">Sebelumnya</span></a>` : `<span></span>`,
+    `<button type="button" class="salin" data-salin="teks-pasal" data-judul="${esc(quoteTitle)}" hidden>Salin kutipan</button>`,
+    next ? `<a href="${base}pasal/${esc(next)}/" rel="next" aria-label="Berikutnya"><span class="nav-kata">Berikutnya</span> →</a>` : `<span></span>`,
     `</nav>`,
     `<p class="hint">Teks diambil dari `,
     link(unit.text_source.url, esc(unit.text_source.source)),

@@ -1,6 +1,7 @@
 // Reads the corpus written by the data pipeline. Build time only: nothing here runs in the browser.
 import fs from "node:fs";
 import path from "node:path";
+import { compactClaims } from "./render/chips.js";
 
 const CORPUS = path.join(process.cwd(), "corpus");
 
@@ -66,6 +67,9 @@ export function buildListing() {
       source_urls: doc.source_records.map((r) => ({ source: r.source, url: r.url })),
       text_unavailable_reason: doc.text.unavailable_reason,
       category_list: doc.categories || [],
+      // Per-source status for the card chips (never one status for the document).
+      claims: compactClaims(doc.status_claims),
+      status_reasons: doc.status.reasons || [],
     };
   });
 

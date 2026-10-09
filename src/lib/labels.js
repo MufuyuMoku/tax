@@ -6,7 +6,7 @@ export const STATUS_LABEL = {
   tidak_berlaku: "Tidak berlaku menurut sumber",
   diubah_atau_dicabut_sebagian: "Diubah atau dicabut sebagian",
   tetap: "Tetap",
-  tidak_pasti: "Tidak pasti",
+  tidak_pasti: "Sumber berbeda pendapat (perlu dicek)",
   kosong: "Sumber tidak menyebutkan status",
 };
 
@@ -15,7 +15,7 @@ export const STATUS_SHORT = {
   tidak_berlaku: "Tidak berlaku",
   diubah_atau_dicabut_sebagian: "Diubah sebagian",
   tetap: "Tetap",
-  tidak_pasti: "Tidak pasti",
+  tidak_pasti: "Perlu dicek",
   kosong: "Tanpa status",
 };
 
@@ -149,4 +149,15 @@ export function categoryNote(categories) {
   if (fromDjp.length) parts.push(`Dari daftar ${fromDjp.join(" dan ")} katalog DJP`);
   if (chosen) parts.push("PPh menurut pilihan situs ini dari JDIH");
   return parts.join("; ");
+}
+
+// Why a document's status is uncertain, in plain words (UI only; the pipeline's reason stays the
+// source of truth and is shown in full on the document page).
+export function plainReason(reason) {
+  if (reason === "status berbeda antar sumber") return "DJP dan JDIH mencatat status yang berbeda";
+  if (reason === "status berbeda dalam satu sumber (rekaman ganda)") return "satu sumber mencatat dua status berbeda untuk peraturan ini";
+  if (reason === "status kosong di sumber") return "sumber tidak mencantumkan status";
+  const revoked = reason.match(/^sumber menyatakan berlaku, tetapi teks (.+) mencabutnya$/);
+  if (revoked) return `sumber mencatatnya berlaku, tetapi ${revoked[1]} menyatakan mencabutnya`;
+  return reason;
 }

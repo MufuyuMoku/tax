@@ -26,23 +26,42 @@ const statusCounts = [...countBy((r) => r.status)].sort(
 const categoryCounts = CATEGORIES.map((name) => [name, rows.filter((r) => r.categories.includes(name)).length]).filter(
   ([, count]) => count > 0
 );
+// Tappable examples, one of each kind of search an officer or a member of the public makes.
+// "lebar-saja": shown on wide screens only, so the examples stay within two rows on a phone.
+const examples = [
+  ["PMK 168/2023", "nomor peraturan"],
+  ["PPh 21", "singkatan"],
+  ["PTKP", "singkatan", "lebar-saja"],
+  ["jual rumah kena pajak berapa", "pertanyaan sehari-hari"],
+  ["restitusi PPN", "istilah", "lebar-saja"],
+  ["faktur pajak", "istilah"],
+];
 const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort((a, b) => b - a);
 ---
 
 <Base title="Daftar peraturan pajak — Tax">
-  <h1>Peraturan PPh, KUP, dan PPN</h1>
+  <h1>Cari peraturan pajak</h1>
   <p class="lead">
-    {rows.length.toLocaleString("id-ID")} dokumen dari katalog Direktorat Jenderal Pajak dan JDIH
-    Kementerian Keuangan.
+    PPh, KUP, dan PPN: {rows.length.toLocaleString("id-ID")} dokumen dari katalog Direktorat Jenderal
+    Pajak dan JDIH Kementerian Keuangan.
   </p>
 
   <form class="cari" id="cari" role="search" action="" method="get">
-    <label for="q">Cari kata, istilah, atau nomor peraturan</label>
+    <label for="q">Ketik nomor peraturan, istilah, atau pertanyaan</label>
     <div class="cari-baris">
-      <input id="q" name="q" type="search" autocomplete="off" spellcheck="false"
-        placeholder="PPh 21, natura, PMK 168/2023, PER-11/PJ/2025" />
+      <input id="q" name="q" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search"
+        placeholder="mis. PMK 168/2023 atau jual rumah" />
       <button type="submit">Cari</button>
     </div>
+    {/* Examples are plain #q= links: the page already searches when the fragment changes. */}
+    <p class="contoh">
+      <span class="contoh-judul">Contoh:</span>
+      {examples.map(([query, kind, only]) => (
+        <a class={only ? `contoh-q ${only}` : "contoh-q"} href={`#q=${encodeURIComponent(query)}`} title={kind}>{query}</a>
+      ))}
+    </p>
+    <details class="saringan-lipat" id="saringan-lipat">
+      <summary>Saring <span id="saringan-aktif"></span></summary>
     <div class="saringan">
       <label>Kategori
         <select name="kategori" id="kategori">
@@ -88,6 +107,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
         </select>
       </label>
     </div>
+    </details>
     <p class="hint" id="keadaan" aria-live="polite">
       Pencarian berjalan di perangkat ini. Data pencariannya dimuat sekali bersama halaman; mengetik
       tidak mengirim apa pun ke mana pun.
@@ -110,12 +130,13 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
     </section>
     <section id="hasil-publik" aria-label="Hasil dari peraturan publik">
       <p class="hasil-ringkas" id="hasil-ringkas"></p>
+      <details class="cara-cari" id="cara-cari" hidden>
+        <summary>Bagaimana kata Anda dicari</summary>
+        <div id="cara-cari-isi"></div>
+      </details>
       <section class="blok-kategori" id="hasil-kategori" hidden aria-labelledby="judul-kategori">
         <h2 id="judul-kategori">Teratas per kategori</h2>
-        <p class="hint">
-          Paling banyak tiga hasil terbaik dari tiap kategori, diambil dari hasil gabungan di bawah
-          tanpa mengubah urutannya. Kategori yang disebut di kueri tampil pertama.
-        </p>
+        <p class="hint">Tiga hasil terbaik dari tiap kategori pajak, diambil dari daftar di bawah.</p>
         <div id="kategori-grup"></div>
         <h2>Semua hasil</h2>
       </section>
@@ -125,14 +146,11 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   </div>
 
 
-  <div class="notice">
-    <p>
-      <strong>{uncertain.toLocaleString("id-ID")} dokumen berstatus tidak pasti</strong> karena kedua
-      sumber berbeda atau bertentangan dengan bukti pencabutan di teks peraturan lain.
-      <strong>{withoutText.toLocaleString("id-ID")} dokumen tanpa teks</strong> karena sumbernya
-      memang hanya memuat metadata. Keduanya tetap ditampilkan, tidak disembunyikan.
-    </p>
-  </div>
+  <p class="catatan-data">
+    {uncertain.toLocaleString("id-ID")} dokumen dicatat dengan status berbeda oleh sumbernya, dan
+    {" "}{withoutText.toLocaleString("id-ID")} dokumen tanpa teks karena sumbernya hanya memuat data
+    ringkas. Semuanya tetap ditampilkan. <a class="info" href={`${base}cara-pakai/#status`} aria-label="Arti status menurut sumber">ⓘ</a>
+  </p>
 
   <div id="semua">
   <div class="toolbar">
@@ -164,10 +182,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   </noscript>
   </div>
 
-  <p class="hint">
-    Data diambil dari sumber pada 21–27 September 2026. Korpus berisi {meta.body_units.toLocaleString("id-ID")}{" "}
-    unit pasal dan diktum.
-  </p>
+  <p class="hint">Korpus berisi {meta.body_units.toLocaleString("id-ID")} unit pasal dan diktum.</p>
 </Base>
 
 <script>
@@ -206,4 +221,19 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   });
 
   startSearch({ base: import.meta.env.BASE_URL, listing });
+
+  // Filters fold behind "Saring" on phones; on wide screens they start open. The summary says how
+  // many are in use, so a folded filter is never forgotten (K-083).
+  const fold = document.getElementById("saringan-lipat");
+  const active = document.getElementById("saringan-aktif");
+  const filterSelects = [...fold.querySelectorAll("select")];
+  const countActive = () => {
+    const n = filterSelects.filter((s) => s.value).length;
+    active.textContent = n ? `(${n} aktif)` : "";
+    if (n) fold.open = true;
+  };
+  if (window.matchMedia("(min-width: 48rem)").matches) fold.open = true;
+  for (const s of filterSelects) s.addEventListener("change", countActive);
+  window.addEventListener("hashchange", countActive);
+  countActive();
 </script>

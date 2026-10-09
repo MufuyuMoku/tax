@@ -17,6 +17,31 @@ angka nyata, bukan klaim.
 
 ---
 
+## Perbaikan tampilan: petugas dan orang awam (K-083)
+Tanggal: 2026-10-09
+Status: selesai dan terbit
+
+**Audit:** 10 masalah dari tangkapan layar 320 px dan desktop di 7 layar (daftarnya di K-083). Yang
+terbesar: label status sintesis, hasil yang tertimbun saringan di HP, dan tidak adanya bimbingan.
+
+**Dikerjakan:**
+- Chip status per sumber di semua tempat.
+- Beranda dengan kotak cari besar, contoh pencarian, dan saringan terlipat.
+- Kartu dengan hierarki jelas.
+- Halaman dokumen dengan ringkasan, isi pasal lebih dulu, dan lipatan.
+- Halaman pasal dengan bilah Sebelumnya / Salin kutipan / Berikutnya.
+- ⓘ dan halaman Cara pakai.
+- Tema, ukuran huruf, "/", area ketuk 44 px, dan uji kontras.
+
+**Verifikasi:**
+- Tangkapan layar sebelum dan sesudah untuk 7 layar × 2 lebar, ditambah tema gelap.
+- 320 px tanpa gulir samping di ke-7 layar.
+- `npm test` lulus, termasuk kesetaraan hasil (K-069) dan kontras.
+- Build: 20.966 halaman luring identik (K-082).
+- `scripts/uji-luring.mjs`: 18 dari 18 lulus, termasuk Salin kutipan saat luring.
+
+**Ditunda:** kotak definisi (K-081); judul berhuruf kapital dari sumber dibiarkan.
+
 ## M6 — pemasangan dan luring
 Tanggal: 2026-10-09
 Status: selesai dan terbit. Pemasangan di HP Android diuji pemilik dengan langkah di `docs/PASANG.md`.

@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import "../styles/tampilan.css";
 import { dataDate } from "../lib/corpus.js";
 import { formatDate } from "../lib/labels.js";
 
@@ -25,20 +26,47 @@ const base = import.meta.env.BASE_URL;
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
     <link rel="apple-touch-icon" href={`${base}ikon-192.png`} />
     <meta name="theme-color" content="#1f4f82" />
+    {/* Theme and text size chosen by the reader, applied before the page is drawn (K-083). */}
+    <script is:inline>try{var d=document.documentElement,t=localStorage.getItem("tax-tema"),h=localStorage.getItem("tax-huruf");if(t)d.dataset.theme=t;if(h)d.dataset.huruf=h}catch(e){}</script>
   </head>
   <body>
     <div class="wrap">
-      <nav class="atas" aria-label="Navigasi utama">
-        <a href={import.meta.env.BASE_URL}>Peraturan</a>
-        <a href={`${import.meta.env.BASE_URL}koleksi/`}>Koleksi pribadi</a>
-      </nav>
+      <header class="atas">
+        <a class="merek" href={base}>Tax</a>
+        <nav aria-label="Navigasi utama">
+          <a href={base}>Cari</a>
+          <a href={`${base}koleksi/`}>Koleksi pribadi</a>
+          <a href={`${base}cara-pakai/`}>Cara pakai</a>
+        </nav>
+        <details class="tampilan">
+          <summary><span aria-hidden="true">Aa</span><span class="sr">Tampilan</span></summary>
+          <div class="panel">
+            <fieldset>
+              <legend>Tema</legend>
+              <label><input type="radio" name="tema" value="" checked /> Ikuti perangkat</label>
+              <label><input type="radio" name="tema" value="light" /> Terang</label>
+              <label><input type="radio" name="tema" value="dark" /> Gelap</label>
+            </fieldset>
+            <fieldset>
+              <legend>Ukuran huruf</legend>
+              <label><input type="radio" name="huruf" value="" checked /> Biasa</label>
+              <label><input type="radio" name="huruf" value="besar" /> Besar</label>
+              <label><input type="radio" name="huruf" value="sangat-besar" /> Sangat besar</label>
+            </fieldset>
+          </div>
+        </details>
+      </header>
       {/* When the data was read from its sources, which version is kept on this device, and
-          whether the device is online. Filled in by public/keadaan.js. */}
-      <div class="keadaan" id="keadaan-situs">
-        <span>Data sumber diambil sampai {formatDate(dataDate())}.</span>
-        <span id="keadaan-simpan"></span>
-        <span id="keadaan-jaringan"></span>
-      </div>
+          whether the device is online: one line, details on tap. Filled in by public/keadaan.js. */}
+      <details class="keadaan" id="keadaan-situs">
+        <summary>
+          <span>Data per {formatDate(dataDate())}</span>
+          <span id="ringkas-simpan"></span>
+          <span id="keadaan-jaringan"></span>
+        </summary>
+        <p>Data sumber diambil sampai {formatDate(dataDate())}.</p>
+        <p id="keadaan-simpan">Belum tersimpan untuk dipakai luring.</p>
+      </details>
       <div class="notice tawaran" id="tawaran-baru" hidden>
         <p id="tawaran-teks"></p>
         <button type="button" id="muat-baru">Muat data baru</button>

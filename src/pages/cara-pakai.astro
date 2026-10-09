@@ -1,0 +1,98 @@
+---
+// A short guide for officers and the public (K-083). Plain words; examples are links that run
+// the search. The sections #status, #kategori and #koleksi are the targets of the ⓘ links.
+import Base from "../layouts/Base.astro";
+
+const base = import.meta.env.BASE_URL;
+const q = (text) => `${base}#q=${encodeURIComponent(text)}`;
+const examples = [
+  ["PMK 168/2023", "Nomor peraturan. Bisa juga ditulis 168/PMK.03/2023 atau PER-11/PJ/2025."],
+  ["PPh 21", "Singkatan. Situs mencari juga bentuk panjangnya: Pajak Penghasilan Pasal 21."],
+  ["PTKP", "Singkatan istilah: Penghasilan Tidak Kena Pajak."],
+  ["jual rumah kena pajak berapa", "Pertanyaan sehari-hari. Kata umum seperti “berapa” tidak dihitung."],
+  ["faktur pajak", "Istilah. Hasil teratas memuat istilah itu di judul atau pasalnya."],
+];
+---
+
+<Base title="Cara pakai — Tax" description="Cara mencari peraturan pajak di Tax">
+  <p class="breadcrumb"><a href={base}>← Cari peraturan</a></p>
+  <h1>Cara pakai</h1>
+  <p class="lead">
+    Tax mencari di teks peraturan PPh, KUP, dan PPN dari situs DJP dan JDIH Kementerian Keuangan.
+    Pencarian berjalan di perangkat Anda; yang Anda ketik tidak dikirim ke mana pun.
+  </p>
+
+  <h2 id="mencari">Mencari</h2>
+  <p>Ketik nomor peraturan, singkatan, istilah, atau pertanyaan biasa. Ketuk contoh di bawah untuk mencoba.</p>
+  <ul class="daftar-contoh">
+    {examples.map(([text, why]) => (
+      <li><a class="contoh-q" href={q(text)}>{text}</a> <span class="hint">{why}</span></li>
+    ))}
+  </ul>
+  <p>
+    Hasil diurutkan dari yang paling cocok. Bila hasil terlalu banyak, ketuk <strong>Saring</strong>
+    untuk memilih kategori, jenis peraturan, tahun, atau status. Di komputer, tekan
+    <kbd>/</kbd> untuk langsung ke kotak cari.
+  </p>
+
+  <h2 id="status">Arti status</h2>
+  <p>
+    Situs ini <strong>tidak menentukan</strong> apakah sebuah peraturan berlaku. Yang ditampilkan
+    adalah catatan tiap sumber resmi, apa adanya, beserta tanggal catatan itu diambil:
+  </p>
+  <ul class="arti">
+    <li><span class="chip st-berlaku"><span class="chip-ikon" aria-hidden="true">✓</span><span class="chip-sumber">DJP</span> berlaku</span> sumber itu mencatatnya masih berlaku (DJP menulis “Aktif”).</li>
+    <li><span class="chip st-tidak_berlaku"><span class="chip-ikon" aria-hidden="true">✕</span><span class="chip-sumber">JDIH</span> tidak berlaku</span> sumber itu mencatatnya sudah dicabut atau tidak berlaku.</li>
+    <li><span class="chip st-diubah_atau_dicabut_sebagian"><span class="chip-ikon" aria-hidden="true">±</span><span class="chip-sumber">DJP</span> diubah sebagian</span> sebagian isinya sudah diubah atau dicabut peraturan lain.</li>
+    <li><span class="chip st-kosong"><span class="chip-ikon" aria-hidden="true">?</span><span class="chip-sumber">DJP</span> tanpa status</span> sumber tidak mencantumkan status.</li>
+  </ul>
+  <p>
+    <strong>⚠ Perlu dicek</strong> muncul bila sumber resmi berbeda pendapat tentang statusnya:
+    DJP dan JDIH mencatat hal berbeda, atau sumber mencatatnya berlaku padahal teks peraturan lain
+    menyatakan mencabutnya. Buka halaman dokumennya untuk melihat catatan tiap sumber, lalu
+    pastikan di naskah resminya.
+  </p>
+
+  <h2 id="kategori">Arti label kategori</h2>
+  <p>
+    “Dari daftar PPh katalog DJP” berarti peraturan itu ditemukan di daftar kategori PPh pada
+    katalog peraturan DJP. Label ini hanya menyebut daftar tempat peraturan ditemukan, bukan
+    penilaian isi. Satu peraturan bisa ada di lebih dari satu daftar. “PPh menurut pilihan situs ini
+    dari JDIH” berarti peraturan dari JDIH yang dipilih situs ini sebagai peraturan PPh karena tidak
+    ada di daftar DJP.
+  </p>
+
+  <h2 id="tanpa-teks">Dokumen tanpa teks</h2>
+  <p>
+    Sebagian sumber hanya memuat data ringkas (nomor, judul, status) tanpa teks peraturannya.
+    Dokumen itu tetap ditampilkan dan bisa ditemukan lewat nomor atau judulnya, dengan tautan ke
+    halaman sumbernya.
+  </p>
+
+  <h2 id="pasal">Menyalin kutipan pasal</h2>
+  <p>
+    Di halaman pasal, ketuk <strong>Salin kutipan</strong>. Yang tersalin: nama peraturan, nomor
+    pasal, judul, teks pasal, dan alamat halaman itu, siap ditempel ke nota atau pesan.
+  </p>
+
+  <h2 id="koleksi">Koleksi pribadi dan “belum terverifikasi”</h2>
+  <p>
+    Di <a href={`${base}koleksi/`}>Koleksi pribadi</a> Anda bisa menyimpan dokumen sendiri (SE, ND,
+    penegasan, putusan) supaya ikut tercari. Dokumen itu hanya ada di perangkat ini dan tidak
+    dikirim ke mana pun. Semuanya berlabel <strong>belum terverifikasi</strong>: situs ini tidak
+    memeriksa keaslian maupun keberlakuannya.
+  </p>
+
+  <h2 id="luring">Tanpa internet</h2>
+  <p>
+    Setelah halaman ini pernah dibuka dengan internet, situs tersimpan di perangkat dan bisa dipakai
+    tanpa internet: daftar, pencarian, halaman dokumen, dan halaman pasal. Lampiran PDF dan halaman
+    sumber asli tetap butuh internet. Di HP Android, pasang situs ini lewat menu ⋮ → Instal aplikasi.
+  </p>
+
+  <h2 id="tampilan">Tampilan</h2>
+  <p>
+    Ketuk <strong>Aa</strong> di kanan atas untuk memilih tema terang atau gelap dan ukuran huruf.
+    Pilihan itu disimpan di perangkat ini saja.
+  </p>
+</Base>

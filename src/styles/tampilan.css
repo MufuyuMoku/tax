@@ -1,0 +1,535 @@
+/* Readability for officers and the public (K-083): header, search, status chips per source, the
+   document summary, folding sections, the pasal bar, and 44 px touch targets. Loaded after
+   global.css; same custom properties. */
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+summary {
+  cursor: pointer;
+}
+
+/* ---------- header ---------- */
+header.atas {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 0.75rem;
+  position: relative;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 0.25rem;
+}
+
+header.atas .merek {
+  font-weight: 700;
+  font-size: 1.15rem;
+  text-decoration: none;
+  color: var(--fg);
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+header.atas nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 0.9rem;
+  flex: 1;
+  font-size: 0.95rem;
+}
+
+/* Phones: brand and "Aa" on the first row, the menu on its own row. */
+@media (max-width: 30rem) {
+  header.atas .merek {
+    flex: 1;
+  }
+  header.atas nav {
+    order: 3;
+    flex-basis: 100%;
+  }
+  .contoh-q.lebar-saja {
+    display: none;
+  }
+}
+
+header.atas nav a,
+.breadcrumb a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+details.tampilan > summary {
+  list-style: none;
+  min-width: 44px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+details.tampilan > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.tampilan .panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.25rem);
+  z-index: 10;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  box-shadow: 0 4px 16px rgb(0 0 0 / 0.2);
+  min-width: 14rem;
+}
+
+details.tampilan fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0.25rem 0;
+}
+
+details.tampilan legend {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+details.tampilan label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 44px;
+}
+
+/* ---------- data and network line: one line, details on tap ---------- */
+details.keadaan {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin: 0 0 0.5rem;
+}
+
+details.keadaan > summary {
+  min-height: 44px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 0.35rem;
+  list-style: none;
+}
+
+details.keadaan > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.keadaan > summary::after {
+  content: "▾";
+  margin-left: 0.2rem;
+}
+
+details.keadaan p {
+  margin: 0 0 0.35rem;
+}
+
+.luring details.keadaan #keadaan-jaringan {
+  color: var(--fg);
+  font-weight: 600;
+}
+
+/* ---------- search ---------- */
+h1 {
+  margin-top: 0.75rem;
+}
+
+.cari {
+  border-width: 2px;
+  border-color: var(--accent);
+}
+
+.cari input[type="search"] {
+  font-size: 1.1rem;
+  min-height: 48px;
+  padding: 0.5rem 0.75rem;
+}
+
+.cari .cari-baris button {
+  min-height: 48px;
+  min-width: 64px;
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.contoh {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.6rem 0 0.25rem;
+  font-size: 0.9rem;
+}
+
+.contoh-judul {
+  color: var(--muted);
+}
+
+a.contoh-q {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--fg);
+  text-decoration: none;
+}
+
+a.contoh-q:hover {
+  border-color: var(--accent);
+}
+
+details.saringan-lipat > summary,
+details.cara-cari > summary,
+details.peringatan-lipat > summary {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 600;
+}
+
+details.saringan-lipat > summary {
+  margin-top: 0.4rem;
+  color: var(--accent);
+}
+
+details.cara-cari {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+details.cara-cari > summary {
+  font-weight: 400;
+}
+
+details.peringatan-lipat {
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-line);
+  border-radius: 6px;
+  padding: 0 0.75rem;
+  margin: 0.75rem 0;
+}
+
+.saringan select,
+.toolbar select,
+.tombol-lagi,
+.cari button,
+.tombol-bahaya,
+.tawaran button {
+  min-height: 44px;
+}
+
+.catatan-data {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* ---------- cards ---------- */
+.kartu {
+  background: var(--bg);
+  padding: 0.85rem;
+}
+
+.kartu-nomor {
+  font-size: 1.1rem;
+}
+
+.kartu-nomor {
+  margin: 0;
+}
+
+.kartu-nomor a {
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+.kartu-judul {
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.kartu-status,
+.kartu-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.kartu-meta {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.kartu-catatan.konflik {
+  color: var(--fg);
+}
+
+/* Status chips, one per source: icon, source and words; colour only adds to them. */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.8rem;
+  line-height: 1.3;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--fg);
+}
+
+.chip-ikon {
+  font-weight: 700;
+}
+
+.chip-sumber {
+  font-weight: 600;
+}
+
+.chip.st-berlaku,
+.chip.st-tetap {
+  background: var(--ok-bg);
+  border-color: var(--ok-line);
+}
+
+.chip.st-tidak_berlaku {
+  background: var(--alert-bg);
+  border-color: var(--alert-line);
+}
+
+.chip.st-diubah_atau_dicabut_sebagian {
+  background: var(--warn-bg);
+  border-color: var(--warn-line);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+/* ⓘ: a 44 px target that does not push the line apart. */
+a.info {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  margin: -10px -8px;
+  text-decoration: none;
+  font-size: 1rem;
+  color: var(--accent);
+}
+
+/* ---------- document page ---------- */
+.ringkasan {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.35rem 1rem;
+  margin: 0.75rem 0;
+  padding: 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--surface);
+}
+
+.ringkasan > div {
+  display: contents;
+}
+
+.ringkasan dt {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.ringkasan dd {
+  margin: 0;
+}
+
+.ringkasan dd .hint {
+  display: block;
+  margin-top: 0.2rem;
+}
+
+@media (max-width: 30rem) {
+  .ringkasan {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
+  .ringkasan dd {
+    margin-bottom: 0.4rem;
+  }
+}
+
+details.lipat {
+  border-top: 1px solid var(--line);
+  margin-top: 1rem;
+}
+
+details.lipat > summary {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  list-style: none;
+}
+
+details.lipat > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.lipat > summary::before {
+  content: "▸";
+  color: var(--accent);
+}
+
+details.lipat[open] > summary::before {
+  content: "▾";
+}
+
+details.lipat > summary h2 {
+  display: inline;
+  border: 0;
+  margin: 0;
+  padding: 0.5rem 0;
+}
+
+.jumlah {
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.klaim a,
+.lampiran a,
+.relasi-sasaran a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+.pasal-daftar li {
+  padding: 0;
+}
+
+.pasal-daftar a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 0.6rem;
+}
+
+.pasal-daftar .hint {
+  padding-right: 0.6rem;
+}
+
+/* ---------- pasal page: previous, copy, next within thumb reach ---------- */
+.nav-pasal {
+  position: sticky;
+  bottom: 0;
+  z-index: 5;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 0.5rem;
+  margin: var(--space) calc(var(--space) * -1);
+  padding: 0.4rem var(--space);
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+}
+
+.nav-pasal a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+.nav-pasal a {
+  min-width: 44px;
+  white-space: nowrap;
+}
+
+/* Narrow phones: arrows only, so the three controls fit on one row. */
+@media (max-width: 24rem) {
+  .nav-kata {
+    display: none;
+  }
+  .nav-pasal a {
+    font-size: 1.4rem;
+    text-decoration: none;
+  }
+}
+
+.nav-pasal a[rel="next"] {
+  justify-content: flex-end;
+}
+
+.nav-pasal .salin {
+  font: inherit;
+  min-height: 44px;
+  padding: 0 1rem;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--bg);
+  cursor: pointer;
+}
+
+.teks-pasal {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* ---------- guide page ---------- */
+.daftar-contoh {
+  list-style: none;
+  padding: 0;
+}
+
+.daftar-contoh li,
+.arti li {
+  margin-bottom: 0.6rem;
+}
+
+.arti {
+  padding-left: 0;
+  list-style: none;
+}
+
+.arti .chip {
+  margin-right: 0.4rem;
+}
+
+kbd {
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0 0.3rem;
+  background: var(--surface);
+}

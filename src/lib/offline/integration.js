@@ -58,7 +58,7 @@ export function compare(dist, base) {
 
 /** Files the service worker keeps, as { path, url, hash, bytes }. */
 function filesToKeep(dist, base) {
-  const pages = ["index.html", "semua/index.html", "koleksi/index.html", "luring/kerangka/index.html"];
+  const pages = ["index.html", "semua/index.html", "koleksi/index.html", "cara-pakai/index.html", "luring/kerangka/index.html"];
   const listed = (dir) => fs.readdirSync(path.join(dist, dir)).map((name) => `${dir}/${name}`);
   const paths = [
     ...pages,

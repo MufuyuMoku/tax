@@ -4,6 +4,16 @@
 // and the document view is addressed by the URL fragment, which browsers never send.
 import { decodeTextFile, extractPdf, extractPlain } from "./extract.js";
 import { kindLabel, makeRecord, newId, UNVERIFIED } from "./records.js";
+
+/** ⓘ next to "Belum terverifikasi": what it means, on the guide page (K-083). */
+function infoLink() {
+  const a = document.createElement("a");
+  a.className = "info";
+  a.href = `${import.meta.env.BASE_URL}cara-pakai/#koleksi`;
+  a.textContent = "ⓘ";
+  a.setAttribute("aria-label", "Arti belum terverifikasi");
+  return a;
+}
 import { backupFileName, exportBackup, mergeRecords, parseBackup } from "./backup.js";
 import {
   allRecords,
@@ -200,7 +210,7 @@ export function startCollection({ base }) {
     li.append(head);
     if (record.subject) li.append(el("p", "kartu-judul", record.subject));
     const tags = el("p", "kartu-tanda");
-    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED));
+    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED), infoLink());
     if (!record.hasText) tags.append(el("span", "tanda tanpa-teks", "Isi tidak tercari"));
     if (record.date) tags.append(el("span", "tanda netral", record.date));
     li.append(tags);
@@ -231,7 +241,7 @@ export function startCollection({ base }) {
     view.append(el("h2", null, [kindLabel(record.kind), record.number].filter(Boolean).join(" ") || "Tanpa nomor"));
     if (record.subject) view.append(el("p", "judul-dokumen", record.subject));
     const tags = el("p", "kartu-tanda");
-    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED));
+    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED), infoLink());
     if (!record.hasText) tags.append(el("span", "tanda tanpa-teks", "Isi tidak tercari"));
     view.append(tags);
     view.append(

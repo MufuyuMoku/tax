@@ -1,10 +1,13 @@
 ---
 // One card of the regulation list. Used by the list page, where most cards wait in a <template>
 // until shown (K-074), and by /semua/, the full list for browsers without JavaScript.
-import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote } from "../lib/labels.js";
+// Status is shown per source, as chips with icon and words (K-083); never one status per document.
+import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote, plainReason } from "../lib/labels.js";
+import { statusChips } from "../lib/render/chips.js";
 
 const { row } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const meta = [yearLabel(row.year), row.text_available ? `${row.pasal_count} pasal` : null, categoryNote(row.category_list) || null].filter(Boolean);
 ---
 
 <li
@@ -24,23 +27,22 @@ const base = import.meta.env.BASE_URL;
     <span class="jenis">{typeLabel(row.code)}</span>
   </p>
   <p class="kartu-judul">{row.title}</p>
-  {row.category_list.length > 0 && <p class="kartu-asal">{categoryNote(row.category_list)}</p>}
-  <p class="kartu-tanda">
-    <span class={`tanda status-${row.status}`}>{statusLabel(row.status, true)}</span>
-    <span class="tanda netral">{yearLabel(row.year)}</span>
-    {row.text_available ? (
-      <span class="tanda netral">{row.pasal_count} pasal</span>
-    ) : (
-      <span class="tanda tanpa-teks">Tanpa teks di situs ini</span>
-    )}
-    {row.attachment_mismatch > 0 && (
-      <span class="tanda peringatan">Lampiran tidak cocok</span>
-    )}
+  <p class="kartu-status">
+    <Fragment set:html={statusChips(row.claims)} />
+    <a class="info" href={`${base}cara-pakai/#status`} aria-label="Arti status menurut sumber">ⓘ</a>
+  </p>
+  {row.status === "tidak_pasti" && (
+    <p class="kartu-catatan konflik">⚠ Perlu dicek: {row.status_reasons.map(plainReason).join("; ")}.</p>
+  )}
+  <p class="kartu-meta">
+    {meta.join(" · ")}
+    {!row.text_available && <span class="tanda tanpa-teks">Tanpa teks di situs ini</span>}
+    {row.attachment_mismatch > 0 && <span class="tanda peringatan">Lampiran tidak cocok</span>}
     {row.quality_flags.length > 0 && <span class="tanda peringatan">Penomoran janggal</span>}
   </p>
   {!row.text_available && (
     <p class="kartu-catatan">
-      {row.text_unavailable_reason}. Buka di sumbernya:{" "}
+      {row.text_unavailable_reason}. Baca di sumbernya:{" "}
       {row.source_urls.map((s, i) => (
         <>
           {i > 0 && " · "}
@@ -51,16 +53,14 @@ const base = import.meta.env.BASE_URL;
   )}
   {row.conflicts.length > 0 && (
     <p class="kartu-catatan konflik">
-      Satu peraturan ini dicatat dua sumber dengan jenis berbeda, sehingga muncul lebih dari
-      sekali. Lihat juga{" "}
+      Dicatat juga sebagai{" "}
       {row.conflicts.map((c, i) => (
         <>
           {i > 0 && ", "}
           <a href={`${base}dokumen/${c.id}/`}>{regulationLabel([c.code, row.number, row.year, row.variant])}</a> ({typeLabel(c.code)})
         </>
       ))}
-      . Keduanya sengaja tidak digabungkan, karena menggabungkan berarti memilih salah satu
-      sumber sebagai yang benar.
+      : sumber mencatat jenisnya berbeda, jadi sengaja tidak digabung.
     </p>
   )}
 </li>

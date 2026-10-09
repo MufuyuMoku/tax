@@ -1331,3 +1331,60 @@ Saat luring, tautan ke situs lain (PDF lampiran, halaman sumber) dilepas `href`-
 
 Koleksi pribadi tetap di IndexedDB dan tidak disentuh service worker (invarian 7). Service worker
 hanya menjawab permintaan GET ke situs ini sendiri dan tidak mengirim apa pun.
+
+## K-083 — Tampilan untuk petugas dan orang awam; status selalu per sumber
+Tanggal: 2026-10-09 · Milestone: perbaikan setelah M6 · Status: berlaku
+
+**Audit (tangkapan layar 320 px dan desktop, `scripts/tangkap-layar.mjs`):** 10 masalah, urut dari
+dampak terbesar:
+1. Kartu dan halaman menampilkan satu label status sintesis ("Berlaku", "Tidak pasti"); klaim
+   per sumber baru terlihat di halaman dokumen, dan "tidak pasti" tidak dijelaskan.
+2. Di HP, hasil pertama baru muncul setelah sekitar satu setengah layar: baris penanda, judul,
+   dan tujuh saringan terbuka mendahuluinya.
+3. Tidak ada bimbingan: tidak ada contoh pencarian dan tidak ada halaman cara pakai.
+4. Kartu padat dan rata: lima tanda berbentuk sama (status, tahun, pasal, cocok), dan catatan
+   "dicatat dua sumber" sepanjang empat baris.
+5. Ringkasan hasil memakai bahasa mesin ("padanan … bobot lebih rendah", "kata umum
+   diabaikan").
+6. Halaman pasal: tidak ada cara menyalin kutipan, dan tombol pasal sebelum/sesudahnya ada di
+   bawah teks yang bisa sepanjang 10.500 karakter.
+7. Halaman dokumen: tanpa ringkasan; daftar pasal tertimbun di bawah status, sumber, relasi, dan
+   lampiran; istilah "Batang tubuh" dan "rekaman ganda".
+8. Area ketuk kecil: "halaman sumber", "buka", tautan pasal, dan menu (sekitar 24–28 px).
+9. Tidak ada pilihan tema, ukuran huruf, atau pintasan ke kotak cari.
+10. Keterangan yang basi: "Data diambil dari sumber pada 21–27 September 2026" bertentangan
+    dengan penanda "9 Okt 2026", dan penanda luring memakan empat baris di setiap halaman.
+
+**Keputusan:**
+- **Status per sumber:** status tampil sebagai chip per sumber (ikon, nama sumber, kata) di kartu,
+  hasil pencarian, halaman dokumen (dengan kata sumber apa adanya dan tanggal ambil), dan halaman
+  pasal. Satu fungsi (`src/lib/render/chips.js`) dipakai ketiganya. Tidak ada lagi label status
+  sintesis. Bila status tidak pasti, kartu dan halaman menyebut "⚠ Perlu dicek" beserta alasannya
+  dalam kalimat awam.
+- **Beranda:** kotak cari besar di atas, contoh pencarian yang bisa diketuk (tautan `#q=`), dan
+  saringan dilipat di balik "Saring" (terbuka di layar lebar, menyebut jumlah saringan aktif).
+  Penjelasan cara kata dicari dilipat di "Bagaimana kata Anda dicari".
+- **Halaman dokumen:** ringkasan di atas (jenis, nomor, tahun, status per sumber, kategori, sumber,
+  teks), lalu isi pasal. Rincian status dan sumber, relasi, dan lampiran bisa dilipat. Kutipan relasi
+  tetap bersama relasinya, dan lampiran yang nomornya tidak cocok disebut di judul lipatannya.
+- **Halaman pasal:** satu bilah di bawah layar berisi Sebelumnya, Salin kutipan, dan Berikutnya.
+  "Salin kutipan" menyalin label peraturan, pasal, judul, teks, dan alamat halaman. Peringatan
+  penomoran dilipat.
+- **ⓘ:** tautan ke `/cara-pakai/` untuk status, kategori, dan "belum terverifikasi".
+- **Kenyamanan:**
+  - tema terang/gelap dan ukuran huruf di "Aa" (disimpan di perangkat);
+  - "/" ke kotak cari;
+  - area ketuk minimal 44 px;
+  - kontras diperiksa `npm test` (`tests/tampilan/kontras.test.mjs`): terendah 4,7:1.
+- **Penanda data:** penanda data dan luring dijadikan satu baris dengan rincian yang bisa dibuka.
+  Baris tanggal yang basi diganti.
+- **CSS:** CSS baru di `src/styles/tampilan.css`.
+
+**Data:** `cari/data.json` dan baris daftar kini membawa klaim per sumber untuk chip, hanya untuk
+tampilan. Peringkat tidak berubah (tes kesetaraan K-069 lulus), dan halaman luring tetap identik
+(K-082).
+**Ditunda:**
+- Kotak definisi (K-081).
+- Judul berhuruf kapital semua dari sumber tidak diubah, karena itu teks sumber.
+- Saringan "Status" masih memakai pengelompokan pipa data (berlaku, tidak pasti, dan sebagainya).
+  Itu alat saring, bukan label di dokumen.

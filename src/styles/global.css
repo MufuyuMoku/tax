@@ -35,6 +35,31 @@
   }
 }
 
+/* Dark chosen by the reader under "Aa" (K-083), whatever the device says. */
+:root[data-theme="dark"] {
+  --bg: #15181c;
+  --fg: #e8e8e8;
+  --muted: #a8adb4;
+  --line: #333a42;
+  --accent: #8ab4e8;
+  --surface: #1d2126;
+  --warn-bg: #2a2413;
+  --warn-line: #7a6426;
+  --alert-bg: #33201d;
+  --alert-line: #a35f52;
+  --ok-bg: #1b2a1f;
+  --ok-line: #4a8759;
+}
+
+/* Text size chosen by the reader: every size below is in rem, so this scales the whole page. */
+:root[data-huruf="besar"] {
+  font-size: 112.5%;
+}
+
+:root[data-huruf="sangat-besar"] {
+  font-size: 125%;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -484,6 +509,11 @@ nav.atas {
     --private-bg: #221d2e;
     --private-line: #a58ad8;
   }
+}
+
+:root[data-theme="dark"] {
+  --private-bg: #221d2e;
+  --private-line: #a58ad8;
 }
 
 .blok-pribadi {

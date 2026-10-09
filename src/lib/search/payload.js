@@ -7,6 +7,7 @@ import { listPasalIds, loadDocument, loadIndex, loadPasal, loadMeta } from "../c
 import { categoryNote, regulationLabel } from "../labels.js";
 import { buildOcrMap, tokenFrequencies } from "./normalize.js";
 import { buildTextIndex } from "./textindex.js";
+import { compactClaims } from "../render/chips.js";
 
 const DATA = path.join(process.cwd(), "src", "data", "search");
 
@@ -55,6 +56,9 @@ export function buildSearchPayload() {
       categories: (doc.categories || []).map((c) => c.kategori).filter((c, i, all) => all.indexOf(c) === i),
       categoryNote: categoryNote(doc.categories || []),
       sources: doc.source_records.map((r) => ({ source: r.source, url: r.url })),
+      // Display only: the status chips per source and, when uncertain, why.
+      claims: compactClaims(doc.status_claims),
+      statusReasons: doc.status.reasons || [],
       twins: (doc.identity_conflicts || []).map((c) => ({
         id: c.id,
         label: regulationLabel([c.code, doc.identity.number, doc.identity.year, doc.identity.variant]),

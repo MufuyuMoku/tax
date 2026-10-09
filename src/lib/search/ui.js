@@ -4,7 +4,8 @@
 // the list is replaced by ranked results from the worker. The query and filters live in the URL
 // fragment (#q=...&jenis=...), so a search can be bookmarked or sent to a colleague without the
 // query ever reaching a server.
-import { statusLabel, typeLabel } from "../labels.js";
+import { plainReason, typeLabel } from "../labels.js";
+import { statusChips } from "../render/chips.js";
 import { kindLabel, UNVERIFIED } from "../collection/records.js";
 
 const PAGE = 30;
@@ -26,6 +27,8 @@ export function startSearch({ base, listing }) {
   const all = document.getElementById("semua");
   const results = document.getElementById("hasil");
   const summaryLine = document.getElementById("hasil-ringkas");
+  const howBlock = document.getElementById("cara-cari");
+  const howText = document.getElementById("cara-cari-isi");
   const resultList = document.getElementById("hasil-daftar");
   const groupBlock = document.getElementById("hasil-kategori");
   const groupList = document.getElementById("kategori-grup");
@@ -234,17 +237,21 @@ export function startSearch({ base, listing }) {
       const types = summary.number.codes ? summary.number.codes.map(typeLabel).join(" atau ") : "jenis apa pun";
       parts.push(`dibaca sebagai nomor ${summary.number.serial} tahun ${summary.number.year} (${types})`);
     }
+    summaryLine.textContent = parts.join(" · ") + ".";
+    // How the words were read: useful, but technical; folded under one line (K-083).
+    const how = [];
     const terms = summary.concepts.filter((c) => c.forms && c.kind === "term");
     if (terms.length) {
-      parts.push(`istilah dicari dalam semua bentuknya: ${terms.map((c) => c.forms.join(" = ")).join("; ")}`);
+      how.push(`Singkatan dan istilah dicari dalam semua bentuknya: ${terms.map((c) => c.forms.join(" = ")).join("; ")}.`);
     }
     const synonyms = summary.concepts.filter((c) => c.forms && c.kind === "padanan");
     if (synonyms.length) {
       const list = synonyms.map((c) => `${c.label} → ${c.forms.filter((f) => f.toLowerCase() !== c.label).join(", ")}`);
-      parts.push(`juga dicari padanannya, dengan bobot lebih rendah: ${list.join("; ")}`);
+      how.push(`Kata sehari-hari juga dicari dengan istilah resminya, dengan bobot lebih rendah: ${list.join("; ")}.`);
     }
-    if (summary.ignored.length) parts.push(`kata umum diabaikan: ${summary.ignored.join(", ")}`);
-    summaryLine.textContent = parts.join(" · ") + ".";
+    if (summary.ignored.length) how.push(`Kata umum tidak dihitung: ${summary.ignored.join(", ")}.`);
+    howBlock.hidden = !how.length;
+    howText.replaceChildren(...how.map((line) => el("p", null, line)));
     state.textContent = `Dicari di perangkat ini dalam ${summary.took} md.`;
     if (summary.total === 0) {
       const empty = document.createElement("li");
@@ -274,6 +281,13 @@ export function startSearch({ base, listing }) {
     return node;
   }
 
+  function info(anchor, label) {
+    const a = link(`${base}cara-pakai/#${anchor}`, "ⓘ");
+    a.className = "info";
+    a.setAttribute("aria-label", label);
+    return a;
+  }
+
   function link(href, text) {
     const a = el("a", null, text);
     a.href = href;
@@ -293,18 +307,22 @@ export function startSearch({ base, listing }) {
     const head = el("p", "kartu-nomor");
     head.append(link(`${base}dokumen/${item.id}/`, item.label), el("span", "jenis", typeLabel(item.code)));
     li.append(head, el("p", "kartu-judul", item.title));
-    if (item.categoryNote) li.append(el("p", "kartu-asal", item.categoryNote));
 
-    const tags = el("p", "kartu-tanda");
-    tags.append(el("span", `tanda status-${item.status}`, statusLabel(item.status, true)));
-    tags.append(el("span", "tanda netral", item.year || "Tahun tidak terbaca"));
-    tags.append(
-      item.hasText ? el("span", "tanda netral", `${item.pasal} pasal`) : el("span", "tanda tanpa-teks", "Tanpa teks di situs ini")
-    );
-    if (item.reasons.includes("nomor")) tags.append(el("span", "tanda alasan", "Cocok nomor"));
-    if (item.reasons.includes("menyebut")) tags.append(el("span", "tanda netral", "Menyebut nomor ini"));
-    if (item.reasons.includes("judul")) tags.append(el("span", "tanda netral", "Cocok di judul"));
-    li.append(tags);
+    // Status per source, as on the list cards (K-083); never one status for the document.
+    const status = el("p", "kartu-status");
+    status.innerHTML = statusChips(item.claims);
+    status.append(info("status", "Arti status menurut sumber"));
+    li.append(status);
+    if (item.status === "tidak_pasti") {
+      li.append(el("p", "kartu-catatan konflik", `⚠ Perlu dicek: ${item.statusReasons.map(plainReason).join("; ")}.`));
+    }
+
+    const meta = el("p", "kartu-meta", [item.year || "Tahun tidak terbaca", item.hasText ? `${item.pasal} pasal` : null, item.categoryNote || null].filter(Boolean).join(" · "));
+    if (!item.hasText) meta.append(" ", el("span", "tanda tanpa-teks", "Tanpa teks di situs ini"));
+    if (item.reasons.includes("nomor")) meta.append(" ", el("span", "tanda alasan", "Cocok nomor"));
+    if (item.reasons.includes("menyebut")) meta.append(" ", el("span", "tanda netral", "Menyebut nomor ini"));
+    if (item.reasons.includes("judul")) meta.append(" ", el("span", "tanda netral", "Cocok di judul"));
+    li.append(meta);
 
     if (item.conceptCount > 1 && item.missing.length) {
       li.append(el("p", "hint", `Cocok: ${item.matched.join(", ")} · tidak ditemukan: ${item.missing.join(", ")}`));
@@ -361,7 +379,7 @@ export function startSearch({ base, listing }) {
     head.append(link(`${base}koleksi/#dok=${item.id}`, item.label), el("span", "jenis", kindLabel(item.kind)));
     li.append(head);
     const tags = el("p", "kartu-tanda");
-    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED));
+    tags.append(el("span", "tanda pribadi", "Koleksi pribadi"), el("span", "tanda belum-verifikasi", UNVERIFIED), info("koleksi", "Arti belum terverifikasi"));
     if (!item.hasText) tags.append(el("span", "tanda tanpa-teks", "Isi tidak tercari"));
     li.append(tags);
     if (item.conceptCount > 1 && item.missing.length) {

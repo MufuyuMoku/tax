@@ -67,8 +67,8 @@ function showNetwork() {
   const offline = !navigator.onLine;
   document.documentElement.classList.toggle("luring", offline);
   $("keadaan-jaringan").textContent = offline
-    ? "Luring: lampiran PDF dan halaman sumber asli butuh internet."
-    : "Daring.";
+    ? "· Luring: lampiran PDF dan halaman sumber asli butuh internet"
+    : "· Daring";
   markLinks(document, offline);
   if (offline) observer.observe(document.body, { childList: true, subtree: true });
   else observer.disconnect();
@@ -90,13 +90,96 @@ async function persistence() {
   return " Penyimpanan belum permanen (biasanya diberikan setelah situs dipasang).";
 }
 
+// ---------- theme and text size (K-083) ----------
+function startAppearance() {
+  const root = document.documentElement;
+  const settings = [
+    ["tema", "tax-tema", "theme"],
+    ["huruf", "tax-huruf", "huruf"],
+  ];
+  for (const [name, key, attribute] of settings) {
+    const current = root.dataset[attribute] || "";
+    for (const input of document.querySelectorAll(`input[name="${name}"]`)) {
+      input.checked = input.value === current;
+      input.addEventListener("change", () => {
+        if (input.value) root.dataset[attribute] = input.value;
+        else delete root.dataset[attribute];
+        try {
+          if (input.value) localStorage.setItem(key, input.value);
+          else localStorage.removeItem(key);
+        } catch {
+          // storage blocked: the choice holds for this page only
+        }
+      });
+    }
+  }
+}
+
+// ---------- keyboard: "/" goes to the search box ----------
+function startShortcut(base) {
+  document.addEventListener("keydown", (event) => {
+    if (event.key !== "/" || event.ctrlKey || event.metaKey || event.altKey) return;
+    const target = event.target;
+    if (target.closest && target.closest("input, textarea, select, [contenteditable]")) return;
+    event.preventDefault();
+    const box = document.getElementById("q");
+    if (box) {
+      box.focus();
+      box.select();
+    } else {
+      location.href = `${base}#fokus`;
+    }
+  });
+  if (location.hash === "#fokus" && document.getElementById("q")) {
+    history.replaceState(null, "", location.pathname);
+    document.getElementById("q").focus();
+  }
+}
+
+// ---------- "Salin kutipan" on pasal pages ----------
+function startCopy() {
+  for (const button of document.querySelectorAll("button[data-salin]")) {
+    button.hidden = false;
+    button.addEventListener("click", async () => {
+      const text = document.getElementById(button.dataset.salin).innerText.trim();
+      const quote = [button.dataset.judul, text, `${location.origin}${location.pathname}`].join("\n\n");
+      let done = false;
+      try {
+        await navigator.clipboard.writeText(quote);
+        done = true;
+      } catch {
+        const area = document.createElement("textarea");
+        area.value = quote;
+        document.body.append(area);
+        area.select();
+        done = document.execCommand("copy");
+        area.remove();
+      }
+      const label = button.textContent;
+      button.textContent = done ? "Tersalin ✓" : "Gagal menyalin";
+      setTimeout(() => (button.textContent = label), 2000);
+    });
+  }
+}
+
 // ---------- the service worker ----------
 async function startOfflineStatus(base) {
+  startAppearance();
+  startShortcut(base);
+  startCopy();
   showNetwork();
   window.addEventListener("online", showNetwork);
   window.addEventListener("offline", showNetwork);
 
-  const saved = $("keadaan-simpan");
+  const full = $("keadaan-simpan");
+  const short = $("ringkas-simpan");
+  // The long sentence sits in the folded details; the one-line summary gets a short form.
+  const saved = {
+    set textContent(text) {
+      full.textContent = text;
+      short.textContent = /^Tersimpan/.test(text) ? "· tersimpan di perangkat" : /^Menyimpan/.test(text) ? `· ${text.replace("Menyimpan untuk dipakai luring: ", "menyimpan ")}` : "· belum tersimpan";
+    },
+  };
   if (!("serviceWorker" in navigator)) {
     saved.textContent = "Browser ini tidak bisa menyimpan situs untuk dipakai luring.";
     return;
