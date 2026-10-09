@@ -54,7 +54,20 @@
     "target_id": "pmk-240-2014"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 240/PMK.03/2014 — Tata Cara Pelaksanaan Prosedur Persetujuan Bersama (Mutual Agreement Procedure).",
+    "url": "https://jdih.kemenkeu.go.id/dok/240-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 172 TAHUN 2023 — Penerapan Prinsip Kewajaran dan Kelaziman Usaha dalam Transaksi yang Dipengaruhi Hubungan Istimewa",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-172-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -70,11 +83,13 @@
   {
    "date_as_written": "2019-04-26 00:00:00",
    "number_as_written": "49/PMK.03/2019",
+   "page_retrieved_at": "2026-10-05T07:01:04+00:00",
    "retrieved_at": "2026-09-21T14:24:34+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pelaksanaan Prosedur Persetujuan Bersama",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/49-pmk-03-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/49-pmk-03-2019",
+   "validity_as_written": "26 Apr 2019 - 29 Des 2023"
   }
  ],
  "status": {

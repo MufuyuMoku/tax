@@ -80,7 +80,26 @@
     "target_id": "kmk-326-kmk-03-2003"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 541/KMK.04/2000 — Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Tempat Pembayaran, Tatacara Pembayaran, Penyetoran dan Pelapor-\r\nAn Serta Tatacara Pemberian Angsuran atau Penundaan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/541-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 242/PMK.03/2014 — Tata Cara Pembayaran dan Penyetoran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 80/PMK.03/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 184/PMK.03/2007 tentang Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Penentuan Tempat Pembayaran Pajak, dan Tata Cara Pembayaran, Penyetoran dan Pelaporan Pajak, Serta Tata Cara Pengangsuran dan Penundaan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2010"
+   }
+  ]
  },
  "source_records": [
   {
@@ -96,11 +115,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "184/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:14:44+00:00",
    "retrieved_at": "2026-09-21T14:43:51+00:00",
    "source": "JDIH",
    "title_as_written": "Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Penentuan Tempat Pembayaran Pajak, dan Tatacara Pembayaran, Penyetoran dan Pelaporan Pajak, Serta Tatacara Pengangsuran dan Penundaan Pembayaran Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

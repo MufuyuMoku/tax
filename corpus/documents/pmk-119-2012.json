@@ -15,7 +15,13 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:26:56+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/23c57055-9d3a-4177-9779-439e1743527b/119~PMK.011~2012Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "2012-07-12 00:00:00",
    "number_as_written": "119/PMK.011/2012",
+   "page_retrieved_at": "2026-10-09T00:16:01+00:00",
    "retrieved_at": "2026-09-21T14:36:08+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +44,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan  Energi/Listrik Tahun Anggaran 2012.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-011-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-011-2012",
+   "validity_as_written": "12 Jul 2012 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -63,7 +71,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan  Energi/Listrik Tahun Anggaran 2012."

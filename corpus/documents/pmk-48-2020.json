@@ -35,7 +35,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 60/PMK.03/2022 — Tata Cara Penunjukan Pemungut, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean melalui Perdagangan melalui Sistem Elektronik",
+    "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-03-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -51,11 +58,13 @@
   {
    "date_as_written": "2020-05-05 00:00:00",
    "number_as_written": "48/PMK.03/2020",
+   "page_retrieved_at": "2026-10-05T06:48:50+00:00",
    "retrieved_at": "2026-09-21T14:23:06+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penunjukan Pemungut, Pemungutan dan Penyetoran, Serta Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak Dari Luar Daerah Pabean di dalam Daerah Pabean Melalui Perdagangan Melalui Sistem Elektronik",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-03-2020",
+   "validity_as_written": "05 Mei 2020 - 30 Mar 2022"
   }
  ],
  "status": {

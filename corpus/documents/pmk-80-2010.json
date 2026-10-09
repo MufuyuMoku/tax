@@ -40,7 +40,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 184/PMK.03/2007 — Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Penentuan Tempat Pembayaran Pajak, dan Tatacara Pembayaran, Penyetoran dan Pelaporan Pajak, Serta Tatacara Pengangsuran dan Penundaan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 242/PMK.03/2014 — Tata Cara Pembayaran dan Penyetoran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +69,13 @@
   {
    "date_as_written": "2010-04-05 00:00:00",
    "number_as_written": "80/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:36:00+00:00",
    "retrieved_at": "2026-09-21T14:39:52+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 184/PMK.03/2007 tentang Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Penentuan Tempat Pembayaran Pajak, dan Tata Cara Pembayaran, Penyetoran dan Pelaporan Pajak, Serta Tata Cara Pengangsuran dan Penundaan Pembayaran Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2010",
+   "validity_as_written": "05 Apr 2010 - s.d. Dicabut"
   }
  ],
  "status": {

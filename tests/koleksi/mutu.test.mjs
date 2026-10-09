@@ -84,20 +84,21 @@ test("the corpus fingerprint is stable across builds", () => {
 
 test("references are matched again when the corpus fingerprint changes, and only then", async () => {
   const text = decodeTextFile(read("se.txt"));
+  // An older corpus without PMK 81/2024 (before KUP entered it in M5).
+  const older = payload.docs.filter((d) => d.id !== "pmk-81-2024");
   const record = await makeRecord({
     id: newId(),
     meta: { kind: "SE", number: "SE-901/PJ/2026", date: "", subject: "", note: "" },
     source: "txt",
     file: null,
     extracted: extractPlain(text),
-    references: findReferences(text, payload.docs, "SE-901/PJ/2026"),
-    referencesCorpus: payload.corpus.fingerprint,
+    references: findReferences(text, older, "SE-901/PJ/2026"),
+    referencesCorpus: "corpus-lama",
     importedAt: "2026-10-03T00:00:00.000Z",
   });
-  assert.deepEqual(refreshReferences([record], payload.docs, payload.corpus.fingerprint), []);
-  // A newer corpus that also has PMK 81/2024: the reference that was text becomes a link.
-  const newer = [...payload.docs, { id: "pmk-81-2024", label: "PMK 81/2024", code: "PMK", number: "81", year: "2024" }];
-  const changed = refreshReferences([record], newer, "corpus-baru");
+  assert.deepEqual(refreshReferences([record], older, "corpus-lama"), []);
+  // The current corpus also has PMK 81/2024: the reference that was text becomes a link.
+  const changed = refreshReferences([record], payload.docs, "corpus-baru");
   assert.equal(changed.length, 1);
   const pmk81 = record.references.find((r) => r.number.serial === "81");
   assert.deepEqual(pmk81.matches.map((m) => m.id), ["pmk-81-2024"]);

@@ -23,7 +23,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 75 TAHUN 2005 — Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Departemen Hukum dan Hak Asasi Manusia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-75-tahun-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 82 TAHUN 2007 — Perubahan Kedua atas Peraturan Pemerintah Nomor 75 Tahun 2005 tentang Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Departemen Hukum dan Hak Asasi Manusia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-82-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 45 TAHUN 2014 — Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Kementerian Hukum dan Hak Asasi Manusia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -39,11 +58,13 @@
   {
    "date_as_written": "2009-05-28 00:00:00",
    "number_as_written": "PP 38 TAHUN 2009",
+   "page_retrieved_at": "2026-10-05T13:48:10+00:00",
    "retrieved_at": "2026-09-21T14:09:54+00:00",
    "source": "JDIH",
    "title_as_written": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Departemen Hukum dan Hak Asasi Manusia.",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-38-tahun-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-38-tahun-2009",
+   "validity_as_written": "28 Mei 2009 - s.d. Dicabut"
   }
  ],
  "status": {

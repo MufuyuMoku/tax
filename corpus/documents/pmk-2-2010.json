@@ -50,7 +50,14 @@
     "target_id": "pmk-104-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 104/PMK.03/2009 — Biaya Promosi dan Penjualan yang Dapat Dikurangkan Dari Penghasilan Bruto.",
+    "url": "https://jdih.kemenkeu.go.id/dok/104-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -66,11 +73,13 @@
   {
    "date_as_written": "2010-01-08 00:00:00",
    "number_as_written": "02/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:42:46+00:00",
    "retrieved_at": "2026-09-21T14:40:19+00:00",
    "source": "JDIH",
    "title_as_written": "Biaya Promosi yang Dapat Dikurangkan Dari Penghasilan Bruto.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-03-2010",
+   "validity_as_written": "08 Jan 2010 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -15,7 +15,13 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:41:10+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/fbe476c4-7d46-425a-ba19-2e62e22c19a6/204~PMK.07~2012Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "2012-12-17 00:00:00",
    "number_as_written": "204/PMK.07/2012",
+   "page_retrieved_at": "2026-10-09T00:40:50+00:00",
    "retrieved_at": "2026-09-21T14:35:37+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2012.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/204-pmk-07-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/204-pmk-07-2012",
+   "validity_as_written": "17 Des 2012 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2012."

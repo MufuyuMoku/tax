@@ -15,7 +15,13 @@
   "year": "2013"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:34:21+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/bac3c293-e513-41a3-80da-10c8085c101c/175~PMK.011~2013Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,50 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 146/PMK.011/2013 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/146-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 224/PMK.011/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/224-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 154/PMK.03/2010 — Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 107/PMK.010/2015 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/107-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 34/PMK.010/2017 — Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 16/PMK.010/2016 — Perubahan Kelima atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 Tentang\r\nPemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang\r\nLain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-010-2016"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2013-12-05 00:00:00",
    "number_as_written": "175/PMK.011/2013",
+   "page_retrieved_at": "2026-10-09T00:34:01+00:00",
    "retrieved_at": "2026-09-21T14:33:59+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +80,12 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-011-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-011-2013",
+   "validity_as_written": "05 Des 2013 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -62,7 +107,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain."

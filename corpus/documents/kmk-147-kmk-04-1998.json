@@ -23,14 +23,27 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 21/KMK.04/1999 — Perubahan Kepmenkeu No.147/KMK.04/1998 tentang Penunjukan Pejabat untuk Penagihan Pajak Pusat, Tatacara dan Jadwal Waktu Pelaksanaan Penagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/21-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 561/KMK.04/2000 — Tatacara Pelaksanaan Penagihan Seketika dan Sekaligus dan Pelaksanaan Surat Paksa",
+    "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1998-02-27",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "147/KMK.04/1998",
-   "retrieved_at": "2026-10-03T03:59:50+00:00",
+   "retrieved_at": "2026-10-05T06:50:58+00:00",
    "source": "DJP",
    "title_as_written": "PENUNJUKAN PEJABAT UNTUK PENAGIHAN PAJAK PUSAT, TATA CARA DAN JADWAL WAKTU PELAKSANAAN PENAGIHAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +52,13 @@
   {
    "date_as_written": "1998-02-27 00:00:00",
    "number_as_written": "147/KMK.04/1998",
+   "page_retrieved_at": "2026-10-05T14:35:01+00:00",
    "retrieved_at": "2026-09-21T14:52:02+00:00",
    "source": "JDIH",
    "title_as_written": "Penunjukan Pejabat untuk Penagihan Pajak Pusat, Tatacara dan Jadwal Waktu Pelaksanaan Penagihan Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/147-kmk-04-1998"
+   "url": "https://jdih.kemenkeu.go.id/dok/147-kmk-04-1998",
+   "validity_as_written": "27 Feb 1998 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -78,7 +93,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENUNJUKAN PEJABAT UNTUK PENAGIHAN PAJAK PUSAT, TATA CARA DAN JADWAL WAKTU PELAKSANAAN PENAGIHAN PAJAK"

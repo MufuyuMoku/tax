@@ -15,7 +15,14 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:10:48+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/dbbca988-afed-4090-bf4e-6d69e71d6d46/SE-22~PJ.4~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +36,7 @@
   {
    "date_as_written": "1995-04-26 00:00:00",
    "number_as_written": "SE SE-22/PJ.4/1995",
+   "page_retrieved_at": "2026-10-09T01:10:48+00:00",
    "retrieved_at": "2026-09-21T15:00:42+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +45,12 @@
    "source": "JDIH",
    "title_as_written": "Dividen Dari Penyertaan Modal pada Badan Usaha di Luar Negeri yang Sahamnya Tidak Diperdagangkan di Bursa Efek (Seri Pph Umum Nomor 10)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-22-pj-4-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-22-pj-4-1995",
+   "validity_as_written": "26 Apr 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -63,7 +72,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Dividen Dari Penyertaan Modal pada Badan Usaha di Luar Negeri yang Sahamnya Tidak Diperdagangkan di Bursa Efek (Seri Pph Umum Nomor 10)"

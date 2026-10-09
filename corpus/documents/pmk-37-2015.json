@@ -32,7 +32,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 8/PMK.03/2021 — Tata Cara Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai  dan Pajak Penjualan Atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu Yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/8-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -48,11 +55,13 @@
   {
    "date_as_written": "2015-03-04 00:00:00",
    "number_as_written": "37/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:13:20+00:00",
    "retrieved_at": "2026-09-21T14:31:22+00:00",
    "source": "JDIH",
    "title_as_written": "Penunjukan Badan Usaha Tertentu untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/37-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/37-pmk-03-2015",
+   "validity_as_written": "04 Mar 2015 - 01 Feb 2021"
   }
  ],
  "status": {

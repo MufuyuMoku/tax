@@ -53,7 +53,20 @@
     "target_id": "kmk-370-kmk-03-2003"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 370/KMK.03/2003 — Pelaksanaan Pajak Pertambahan Nilai yang Dibebaskan atas Impor dan atau Penyerahan Barang Kena Pajak Tertentu dan atau Penyerahan  Jasa Kena Pajak Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/370-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 41/PMK.03/2020 — Persyaratan dan Tata Cara Impor dan Penyerahan Alat Angkutan Tertentu Serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/41-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -69,11 +82,13 @@
   {
    "date_as_written": "2015-10-20 00:00:00",
    "number_as_written": "193/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:08:57+00:00",
    "retrieved_at": "2026-09-21T14:30:15+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemberian Fasilitas Tidak Dipungut Pajak Pertambahan Nilai atas Impor dan/atau Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/193-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/193-pmk-03-2015",
+   "validity_as_written": "20 Okt 2015 - s.d. Dicabut"
   }
  ],
  "status": {

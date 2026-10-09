@@ -40,7 +40,26 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 78/PMK.03/2010 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 135/PMK.011/2014 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-011-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 186/PMK.03/2022 — Pedoman Pengkreditan Pajak Masukan bagi Pengusaha Kena Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +75,13 @@
   {
    "date_as_written": "2014-01-30 00:00:00",
    "number_as_written": "21/PMK.011/2014",
+   "page_retrieved_at": "2026-10-05T13:19:05+00:00",
    "retrieved_at": "2026-09-21T14:33:31+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 78/PMK.03/2010 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Keria Pajak yang Melakukan Penyerahan yang Terutang Pajak dan Penyerahan yang Tidak Terutang Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-011-2014"
+   "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-011-2014",
+   "validity_as_written": "30 Jan 2014 - s.d. Dicabut"
   }
  ],
  "status": {

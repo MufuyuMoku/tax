@@ -118,7 +118,32 @@
     "target_id": "pmk-89-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 89/PMK.04/2005 — Perubahan atas Peraturan Menteri Keuangan Nomor 60/PMK.04/2005 tentang Tempat Penimbunan Berikat di Pulau Batam, Bintan dan Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/89-pmk-04-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 60/PMK.04/2005 — Tempat Penimbunan Berikat di Pulau Batam, Bintan dan Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-04-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 47/PMK.04/2012 — Tata Laksana Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas dan Pembebasan Cukai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/47-pmk-04-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 242/PMK.04/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 47/PMK.04/2009 tentang Tata Cara Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-04-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -134,11 +159,13 @@
   {
    "date_as_written": "2009-03-05 00:00:00",
    "number_as_written": "47/PMK.04/2009",
+   "page_retrieved_at": "2026-10-05T13:51:14+00:00",
    "retrieved_at": "2026-09-21T14:41:38+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/47-pmk-04-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/47-pmk-04-2009",
+   "validity_as_written": "05 Mar 2009 - s.d. Dicabut"
   }
  ],
  "status": {

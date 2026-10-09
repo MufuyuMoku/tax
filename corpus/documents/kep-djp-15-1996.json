@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1996-03-15",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP-15/PJ./1996",
-   "retrieved_at": "2026-10-03T04:01:13+00:00",
+   "retrieved_at": "2026-10-05T06:57:20+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENERIMAAN, PENELITIAN DAN PENGOLAHAN SURAT PEMBERITAHUAN MASA",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PENERIMAAN, PENELITIAN DAN PENGOLAHAN SURAT PEMBERITAHUAN MASA"

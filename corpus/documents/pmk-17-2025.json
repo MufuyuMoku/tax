@@ -113,7 +113,20 @@
     "target_id": "uu-11-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 55/PMK.03/2016 — Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/55-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -129,11 +142,13 @@
   {
    "date_as_written": "2025-02-19 00:00:00",
    "number_as_written": "PMK 17 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:23:52+00:00",
    "retrieved_at": "2026-09-21T14:16:24+00:00",
    "source": "JDIH",
    "title_as_written": "Penyidikan Tindak Pidana di Bidang Perpajakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-17-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-17-tahun-2025",
+   "validity_as_written": "25 Feb 2025 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -83,7 +83,14 @@
     "target_id": "uu-17-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 45/PMK.03/2008 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang No. 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan Neto",
+    "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -99,11 +106,13 @@
   {
    "date_as_written": "2010-03-31 00:00:00",
    "number_as_written": "74/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:38:02+00:00",
    "retrieved_at": "2026-09-21T14:39:52+00:00",
    "source": "JDIH",
    "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Mempunyai Peredaran Usaha Tidak Melebihi Jumlah Tertentu.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2010",
+   "validity_as_written": "31 Mar 2010 - s.d. Dicabut"
   }
  ],
  "status": {

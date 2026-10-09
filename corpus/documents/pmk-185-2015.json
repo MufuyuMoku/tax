@@ -56,7 +56,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 16/PMK.03/2011 — Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2011"
+   }
+  ]
  },
  "source_records": [
   {
@@ -72,11 +79,13 @@
   {
    "date_as_written": "2015-09-30 00:00:00",
    "number_as_written": "185/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:10:18+00:00",
    "retrieved_at": "2026-09-21T14:30:19+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2011 tentang Tata Cara\r\nPenghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/185-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/185-pmk-03-2015",
+   "validity_as_written": "30 Sep 2015 - s.d. Dicabut"
   }
  ],
  "status": {

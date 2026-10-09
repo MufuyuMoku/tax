@@ -958,3 +958,42 @@ gangguan sesaat, bukan halaman yang tidak ada.
 **Uji alamat (2026-10-09):** 5 alamat acak dari 94 yang tersisa di antrean
 (`pipeline.jdih_harvest cek-alamat`): kelimanya HTTP 200 dengan data dokumen. Daftar JDIH bukti
 konsep (21 September) masih berlaku; tidak perlu diambil ulang sekarang.
+
+## K-063 — Gerbang set evaluasi: median tidak boleh memburuk, penurunan per pertanyaan perlu persetujuan
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (keputusan pemilik atas K-061)
+
+**Keputusan pemilik:** penurunan peringkat akibat korpus bertambah tidak otomatis menghalangi terbit.
+`tests/search/kasus.test.mjs` kini gagal bila:
+- median peringkat 25 pertanyaan PPh lebih buruk dari 5 (median sebelum KUP), atau median ke-35
+  pertanyaan lebih buruk dari 8 (diukur 2026-10-09);
+- sebuah pertanyaan lebih buruk dari garis dasarnya **dan** tidak tercantum di
+  `penurunan_disetujui` (`tests/search/garis-dasar.json`) beserta penjelasan, atau lebih buruk dari
+  peringkat `paling_buruk` yang disetujui.
+**Disetujui pemilik 2026-10-08:** honor pembicara (garis dasar 10, disetujui sampai 24), zakat (13,
+sampai 22), beasiswa (1, sampai 2), pajak luar negeri (7, sampai 13). Pajak luar negeri bernilai 11
+pada 5 Oktober (detail KUP 712/892) dan 13 dengan detail lengkap; angka yang dicatat adalah yang
+terukur saat persetujuan diterapkan.
+**10 pertanyaan KUP berkosakata awam** ditambahkan (`kategori: "KUP"`), masing-masing dengan pasal dan
+kutipan yang dicocokkan otomatis ke korpus. Peringkat pertamanya menjadi garis dasarnya: surat teguran
+2, pemeriksaan 4, denda telat lapor 7, NPWP jabatan 8, keberatan 13, pembetulan SPT 16, pengungkapan
+ketidakbenaran 32, daluwarsa penagihan 36, angsuran tunggakan 52, restitusi 82 (median 14,5). Tidak
+ada padanan baru; kosakata "dicicil", "restitusi", "hangus" belum dijembatani.
+
+## K-064 — Set uji tahan: pertanyaan 7 kini berjawaban KUP, dan tidak lagi bersih
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
+
+**Keputusan:** pertanyaan 7 ("denda jika telat atau tidak melaporkan SPT Tahunan") pindah dari
+golongan (b) ke (a), karena KUP kini di korpus. Jawabannya UU 28/2007 Pasal I, yang mengubah Pasal 7
+ayat (1) UU KUP. Peringkatnya 20. Mesin dan padanan tidak disetel terhadapnya.
+**Tidak bersih:** pertanyaan set evaluasi "denda telat lapor" berjawaban pasal yang sama, dan set
+evaluasi dipakai untuk menyetel. Seperti pertanyaan 4 (K-046), angka pertanyaan 7 mulai sekarang
+dibaca dengan catatan itu.
+**Pertanyaan 5** (batas waktu SPT) tetap peringkat 1. Pertanyaan 1 (NPWP online) turun 3 → 9 karena
+dokumen KUP tentang NPWP ikut bersaing; dilaporkan, tidak digerbang.
+
+## K-065 — Rujukan koleksi pribadi: PMK 81/2024 kini tertaut
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
+
+PMK 81/2024 masuk korpus lewat KUP, sehingga tes yang memakainya sebagai contoh "tidak ada di korpus"
+diganti dengan nomor tiruan (PMK 999/2099) di dokumen tiruan SE. Keterangan di halaman koleksi
+menjadi "tidak ada di korpus situs ini" (bukan "korpus PPh").

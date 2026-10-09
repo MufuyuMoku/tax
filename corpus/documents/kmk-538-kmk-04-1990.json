@@ -27,7 +27,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 98/KMK.04/1998 — Pencabutan atas Keputusan Menteri Keuangan No. 538/KMK.04/ 1998 tentang Pemungutan dan atau Penyetoran Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan Pasal 22 dalam Rangka Impor.",
+    "url": "https://jdih.kemenkeu.go.id/dok/98-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 107/KMK.04/1998 — Pencabutan atas Kepmenkeu No. 538/KMK.04/1990 tentang Pungutan dan atau Penyetoran Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan Pasal 22 dalam Rangka Impor",
+    "url": "https://jdih.kemenkeu.go.id/dok/107-kmk-04-1998"
+   }
+  ]
  },
  "source_records": [
   {
@@ -43,6 +56,7 @@
   {
    "date_as_written": "1990-05-14 00:00:00",
    "number_as_written": "538/KMK.04/1990",
+   "page_retrieved_at": "2026-10-06T03:55:53+00:00",
    "retrieved_at": "2026-09-21T14:54:39+00:00",
    "selected_because": [
     "judul",
@@ -51,7 +65,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Pasal 22(Pph Ps 22) , Pajak Pertambahan Nilai (Ppn)  dan atau Pajak Penjualan atas Barang Mewah (Ppnbm) untuk Kegiatan Usaha di Bidang Impor atas Dasar Inden.",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/538-kmk-04-1990"
+   "url": "https://jdih.kemenkeu.go.id/dok/538-kmk-04-1990",
+   "validity_as_written": "14 Mei 1990 - s.d. Dicabut"
   }
  ],
  "status": {

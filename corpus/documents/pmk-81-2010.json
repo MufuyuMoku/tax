@@ -45,7 +45,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 31/PMK.03/2014 — Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal Berproduksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -61,11 +68,13 @@
   {
    "date_as_written": "2010-04-05 00:00:00",
    "number_as_written": "81/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:36:20+00:00",
    "retrieved_at": "2026-09-21T14:39:52+00:00",
    "source": "JDIH",
    "title_as_written": "Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal  Berproduksi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-03-2010",
+   "validity_as_written": "05 Apr 2010 - s.d. Dicabut"
   }
  ],
  "status": {

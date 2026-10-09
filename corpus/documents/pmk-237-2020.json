@@ -47,7 +47,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 104/PMK.010/2016 — Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus.",
+    "url": "https://jdih.kemenkeu.go.id/dok/104-pmk-010-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 33/PMK.010/2021 — Perubahan atas Peraturan Menteri Keuangan Nomor 237 /PMK.010/2020 tentang Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus",
+    "url": "https://jdih.kemenkeu.go.id/dok/33-pmk-010-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -63,11 +76,13 @@
   {
    "date_as_written": "2020-12-30 00:00:00",
    "number_as_written": "237/PMK.010/2020",
+   "page_retrieved_at": "2026-10-05T06:43:44+00:00",
    "retrieved_at": "2026-09-21T14:21:49+00:00",
    "source": "JDIH",
    "title_as_written": "Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/237-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/237-pmk-010-2020",
+   "validity_as_written": "29 Jan 2021 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -16,21 +16,72 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "pp-137-2000--b000-1",
+  "pp-137-2000--b001-2",
+  "pp-137-2000--b002-3",
+  "pp-137-2000--b003-4",
+  "pp-137-2000--b004-5",
+  "pp-137-2000--b005-6",
+  "pp-137-2000--b006-7",
+  "pp-137-2000--b007-8",
+  "pp-137-2000--b008-9",
+  "pp-137-2000--b009-10",
+  "pp-137-2000--b010-11",
+  "pp-137-2000--b011-12",
+  "pp-137-2000--b012-13",
+  "pp-137-2000--b013-14",
+  "pp-137-2000--b014-15",
+  "pp-137-2000--b015-16",
+  "pp-137-2000--b016-17",
+  "pp-137-2000--b017-18",
+  "pp-137-2000--p018-1",
+  "pp-137-2000--p019-2",
+  "pp-137-2000--p020-3",
+  "pp-137-2000--p021-4",
+  "pp-137-2000--p022-5",
+  "pp-137-2000--p023-6",
+  "pp-137-2000--p024-7",
+  "pp-137-2000--p025-8",
+  "pp-137-2000--p026-9",
+  "pp-137-2000--p027-10",
+  "pp-137-2000--p028-11",
+  "pp-137-2000--p029-12",
+  "pp-137-2000--p030-13",
+  "pp-137-2000--p031-14",
+  "pp-137-2000--p032-15",
+  "pp-137-2000--p033-16",
+  "pp-137-2000--p034-17",
+  "pp-137-2000--p035-18"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "5",
+     "1998",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 5 Tahun 1998",
+    "quote": "Pasal 17 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 5 Tahun 1998 tentang Tata Cara Penyanderaan Dalam Rangka Penagihan Pajak Dengan Surat Paksa (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 7, Tambahan Lembaran Negara Nomor 3727) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-5-1998"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "2000-12-20",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "137 TAHUN 2000",
-   "retrieved_at": "2026-10-03T03:58:06+00:00",
+   "retrieved_at": "2026-10-05T06:42:37+00:00",
    "source": "DJP",
    "title_as_written": "TEMPAT DAN TATA CARA PENYANDERAAN, REHABILITASI NAMA BAIK PENANGGUNG PAJAK, DAN PEMBERIAN GANTI RUGI DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
    "type_as_written": "Peraturan Pemerintah",
@@ -38,7 +89,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -52,16 +103,16 @@
    "value_verbatim": "Aktif"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 17655,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:42:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-dan-tata-cara-penyanderaan-rehabilitasi-nama-baik-penanggung-pajak-dan-pemberian"
  },
  "title": "TEMPAT DAN TATA CARA PENYANDERAAN, REHABILITASI NAMA BAIK PENANGGUNG PAJAK, DAN PEMBERIAN GANTI RUGI DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
 }

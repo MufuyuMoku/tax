@@ -74,7 +74,20 @@
     "target_id": "pmk-23-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 23/PMK.03/2020 — Insentif Pajak untuk Wajib Pajak Terdampak Wabah Virus Corona",
+    "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 86/PMK.03/2020 — Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -100,11 +113,13 @@
   {
    "date_as_written": "2020-04-27 00:00:00",
    "number_as_written": "44/PMK.03/2020",
+   "page_retrieved_at": "2026-10-05T06:49:30+00:00",
    "retrieved_at": "2026-09-21T14:23:06+00:00",
    "source": "JDIH",
    "title_as_written": "Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/44-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/44-pmk-03-2020",
+   "validity_as_written": "27 Apr 2020 - 16 Jul 2020"
   }
  ],
  "status": {

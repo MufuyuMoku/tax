@@ -16,21 +16,52 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "pp-136-2000--b000-1",
+  "pp-136-2000--b001-2",
+  "pp-136-2000--b002-3",
+  "pp-136-2000--b003-4",
+  "pp-136-2000--b004-5",
+  "pp-136-2000--b005-6",
+  "pp-136-2000--b006-7",
+  "pp-136-2000--b007-8",
+  "pp-136-2000--p008-1",
+  "pp-136-2000--p009-2",
+  "pp-136-2000--p010-3",
+  "pp-136-2000--p011-4",
+  "pp-136-2000--p012-5",
+  "pp-136-2000--p013-6",
+  "pp-136-2000--p014-7",
+  "pp-136-2000--p015-8"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "4",
+     "1998",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 4 Tahun 1998",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, maka Peraturan Pemerintah Nomor 4 Tahun 1998 tentang Tata Cara Penjualan Barang Sitaan Yang Dikecualikan Dari Penjualan Secara Lelang Dalam Rangka Penagihan Pajak Dengan Surat Paksa (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 6, Tambahan Lembaran Negara Nomor 3726) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-4-1998"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "2000-12-20",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "136 TAHUN 2000",
-   "retrieved_at": "2026-10-03T03:58:06+00:00",
+   "retrieved_at": "2026-10-05T06:42:58+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENJUALAN BARANG SITAAN YANG DIKECUALIKAN DARI PENJUALAN SECARA LELANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
    "type_as_written": "Peraturan Pemerintah",
@@ -38,7 +69,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -52,16 +83,16 @@
    "value_verbatim": "Aktif"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 10232,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:42:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penjualan-barang-sitaan-yang-dikecualikan-dari-penjualan-secara-lelang-dalam"
  },
  "title": "TATA CARA PENJUALAN BARANG SITAAN YANG DIKECUALIKAN DARI PENJUALAN SECARA LELANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
 }

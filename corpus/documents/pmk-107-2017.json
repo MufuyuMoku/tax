@@ -15,7 +15,13 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:24:25+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9b7ddf95-e615-47a1-90d8-3b70b29c3dfe/107~PMK.03~2017Per.pdf"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -38,12 +44,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 164/KMK.03/2002 — Kredit Pajak Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/164-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 93/PMK.03/2019 — Perubahan atas Peraturan Menteri Keuangan Nomor 107/PMK.03/2017 tentang Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek.",
+    "url": "https://jdih.kemenkeu.go.id/dok/93-pmk-03-2019"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2017-07-26 00:00:00",
    "number_as_written": "107/PMK.03/2017",
+   "page_retrieved_at": "2026-10-09T00:24:04+00:00",
    "retrieved_at": "2026-09-21T14:27:12+00:00",
    "selected_because": [
     "judul"
@@ -51,11 +71,12 @@
    "source": "JDIH",
    "title_as_written": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/107-pmk-03-2017"
+   "url": "https://jdih.kemenkeu.go.id/dok/107-pmk-03-2017",
+   "validity_as_written": "26 Jul 2017 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -77,7 +98,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek."

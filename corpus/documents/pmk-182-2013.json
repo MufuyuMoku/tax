@@ -15,7 +15,13 @@
   "year": "2013"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:35:44+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/80623a4c-a7e3-47ed-af9f-42f0b79bf438/182~PMK.07~2013Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 25/PMK.07/2021 — Penetapan Kurang Bayar, Lebih Bayar, dan Alokasi Sementara Kurang Bayar Dana Bagi Hasil pada Tahun 2021",
+    "url": "https://jdih.kemenkeu.go.id/dok/25-pmk-07-2021"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2013-12-13 00:00:00",
    "number_as_written": "182/PMK.07/2013",
+   "page_retrieved_at": "2026-10-09T00:35:23+00:00",
    "retrieved_at": "2026-09-21T14:33:59+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +51,12 @@
    "source": "JDIH",
    "title_as_written": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, Tahun Anggaran 2010, dan Tahun Anggaran 2011.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/182-pmk-07-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/182-pmk-07-2013",
+   "validity_as_written": "13 Des 2013 - 22 Mar 2021"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -63,7 +78,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, Tahun Anggaran 2010, dan Tahun Anggaran 2011."

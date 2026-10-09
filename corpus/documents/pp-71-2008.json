@@ -54,7 +54,26 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 48 TAHUN 1994 — Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-48-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 27 TAHUN 1996 — Perubahan atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-27-tahun-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 34 TAHUN 2016 — Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-34-tahun-2016"
+   }
+  ]
  },
  "source_records": [
   {
@@ -70,6 +89,7 @@
   {
    "date_as_written": "2008-11-04 00:00:00",
    "number_as_written": "PP 71 TAHUN 2008",
+   "page_retrieved_at": "2026-10-05T14:00:01+00:00",
    "retrieved_at": "2026-09-21T14:10:05+00:00",
    "selected_because": [
     "judul",
@@ -78,7 +98,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-71-tahun-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-71-tahun-2008",
+   "validity_as_written": "04 Nov 2008 - s.d. Dicabut"
   }
  ],
  "status": {

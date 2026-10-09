@@ -32,7 +32,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: UU 11 TAHUN 2020 — Cipta Kerja",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2025 — Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2025"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 1 TAHUN 2025 — Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-1-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -48,11 +67,13 @@
   {
    "date_as_written": "2022-12-30 00:00:00",
    "number_as_written": "UU 6 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T06:34:15+00:00",
    "retrieved_at": "2026-09-21T14:01:55+00:00",
    "source": "JDIH",
    "title_as_written": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang",
    "type_as_written": "Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2023",
+   "validity_as_written": "30 Des 2022 - s.d. Dicabut"
   }
  ],
  "status": {

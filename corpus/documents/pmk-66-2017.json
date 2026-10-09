@@ -40,7 +40,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 29/PMK.03/2015 — Penghapusan Sanksi Administrasi Bunga yang Terbit Berdasarkan Pasal 19 Ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang Undang Nomor 16 Tahun 2009.",
+    "url": "https://jdih.kemenkeu.go.id/dok/29-pmk-03-2015"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +63,13 @@
   {
    "date_as_written": "2017-05-12 00:00:00",
    "number_as_written": "66/PMK.03/2017",
+   "page_retrieved_at": "2026-10-05T13:04:14+00:00",
    "retrieved_at": "2026-09-21T14:27:28+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 29/PMK.03/2015 tentang Penghapusan Sanksi Administrasi Bunga yang Terbit Berdasarkan Pasal 19 Ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana\r\nTelah Beberapa Kali Diubah Terakhir dengan Undang Undang Nomor 16 Tahun 2009.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2017"
+   "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2017",
+   "validity_as_written": "12 Mei 2017 - s.d. Dicabut"
   }
  ],
  "status": {

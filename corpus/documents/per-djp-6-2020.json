@@ -67,6 +67,7 @@
   {
    "date_as_written": "2020-04-17 00:00:00",
    "number_as_written": "PER-06/PJ/2020",
+   "page_retrieved_at": "2026-10-05T06:50:31+00:00",
    "retrieved_at": "2026-09-21T14:56:57+00:00",
    "selected_because": [
     "judul"
@@ -74,7 +75,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Penyampaian. Penerimaan, dan Pengolahan Surat Pemberitahuan Pajak Penghasilan Tahun Pajak 2019 Sehubungan dengan Pandemi Coronavirus Disease 2019",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-06-pj-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-06-pj-2020",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
   }
  ],
  "status": {

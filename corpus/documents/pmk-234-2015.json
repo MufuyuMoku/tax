@@ -25,7 +25,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 206/PMK.01/2014 — Organisasi dan Tata Kerja Kementerian Keuangan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-01-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 212/PMK.01/2017 — Perubahan atas Peraturan Menteri Keuangan Nomor 234/PMK.01/2015 tentang Organisasi dan Tata Kerja Kementerian Keuangan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/212-pmk-01-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 217/PMK.01/2018 — Organisasi dan Tata Kerja Kementerian Keuangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/217-pmk-01-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -41,11 +60,13 @@
   {
    "date_as_written": "2015-12-21 00:00:00",
    "number_as_written": "234/PMK.01/2015",
+   "page_retrieved_at": "2026-10-05T13:07:36+00:00",
    "retrieved_at": "2026-09-21T14:29:59+00:00",
    "source": "JDIH",
    "title_as_written": "Organisasi dan Tata Kerja Kementerian Keuangan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-01-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-01-2015",
+   "validity_as_written": "21 Des 2015 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -40,7 +40,26 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 154/PMK.011/2008 — Pembebasan Bea Masuk atas Impor Barang Modal dalam Rangka Pembangunan dan Pengembangan Industri Pembangkit Listrik untuk Kepentingan Umum.",
+    "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-011-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 154/PMK.011/2012 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 154/PMK.011/2008 tentang Pembebasan Bea Masuk atas Impor Barang Modal dalam Rangka Pembangunan dan Pengembangan Industri Pembangkit Tenaga Listrik untuk Kepentingan Umum.",
+    "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 66/PMK.010/2015 — Pembebasan Bea Masuk atas Impor Barang Modal dalam Rangka Pembangunan atau Pengembangan Industri Pembangkitan Tenaga Listrik untuk Kepentingan Umum",
+    "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-010-2015"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +75,13 @@
   {
    "date_as_written": "2009-08-18 00:00:00",
    "number_as_written": "128/PMK.011/2009",
+   "page_retrieved_at": "2026-10-05T13:45:08+00:00",
    "retrieved_at": "2026-09-21T14:41:06+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 154/PMK.011/2008 tentang Pembebasan Bea Masuk atas Impor Barang Modal dalam Rangka Pembangunan dan Pengembangan Industri Pembangkit Tenaga Listrik untuk Kepentingan Umum.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/128-pmk-011-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/128-pmk-011-2009",
+   "validity_as_written": "18 Agu 2009 - s.d. Dicabut"
   }
  ],
  "status": {

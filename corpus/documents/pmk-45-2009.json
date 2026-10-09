@@ -117,7 +117,44 @@
     "target_id": "pmk-2-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 02/PMK.011/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun.",
+    "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-011-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 583/KMK.03/2003 — Pelaksanaan Perlakuan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah di Kawasan Berikat (Bonded Zone) Daerah Industri Pulau Batam.",
+    "url": "https://jdih.kemenkeu.go.id/dok/583-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 61/PMK.03/2005 — Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 393/KMK.03/2004 — Perlakuan Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah dan Bea Masuk, di Kawasan Berikat (Bonded Zone) Daerah Industri Pulau Batam.",
+    "url": "https://jdih.kemenkeu.go.id/dok/393-kmk-03-2004"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 62/PMK.03/2012 — Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 240/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 45/PMK.03/2009 tentang Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak Dan/ atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/240-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -133,11 +170,13 @@
   {
    "date_as_written": "2009-03-05 00:00:00",
    "number_as_written": "45/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:50:54+00:00",
    "retrieved_at": "2026-09-21T14:41:38+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2009",
+   "validity_as_written": "05 Mar 2009 - s.d. Dicabut"
   }
  ],
  "status": {

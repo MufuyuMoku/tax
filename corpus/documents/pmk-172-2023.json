@@ -68,7 +68,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 213/PMK.03/2016 — Jenis Dokumen Dan/ atau Informasi Tambahan yang Wajib Disimpan oleh Wajib Pajak yang Melakukan Transaksi dengan Para Pihak yang Mempunyai Hubungan Istimewa, dan Tata Cara Pengelolaannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/213-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 49/PMK.03/2019 — Tata Cara Pelaksanaan Prosedur Persetujuan Bersama",
+    "url": "https://jdih.kemenkeu.go.id/dok/49-pmk-03-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 22/PMK.03/2020 — Tata Cara Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement)",
+    "url": "https://jdih.kemenkeu.go.id/dok/22-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -84,11 +103,13 @@
   {
    "date_as_written": "2023-12-29 00:00:00",
    "number_as_written": "PMK 172 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T06:31:12+00:00",
    "retrieved_at": "2026-09-21T14:17:28+00:00",
    "source": "JDIH",
    "title_as_written": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha dalam Transaksi yang Dipengaruhi Hubungan Istimewa",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-172-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-172-tahun-2023",
+   "validity_as_written": "29 Des 2023 - s.d. Dicabut"
   }
  ],
  "status": {

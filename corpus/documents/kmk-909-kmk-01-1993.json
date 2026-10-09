@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1993-11-25",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "909/KMK.01/1993",
-   "retrieved_at": "2026-10-03T04:03:59+00:00",
+   "retrieved_at": "2026-10-05T07:08:55+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENAGIHAN PIUTANG BEA MASUK/BEA MASUK TAMBAHAN, PAJAK EKSPOR/PAJAK EKSPOR TAMBAHAN DAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH YANG BERKAITAN DENGAN FASILITAS YANG DIKELOLA BAPEKSTA KEUANGAN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PENAGIHAN PIUTANG BEA MASUK/BEA MASUK TAMBAHAN, PAJAK EKSPOR/PAJAK EKSPOR TAMBAHAN DAN PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH YANG BERKAITAN DENGAN FASILITAS YANG DIKELOLA BAPEKSTA KEUANGAN"

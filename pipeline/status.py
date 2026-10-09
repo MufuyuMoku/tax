@@ -63,7 +63,9 @@ def resolve(claims, revoked_by_text=()):
     return {
         "value": values[0],
         "reasons": [],
-        # One source is one claim, never a certainty (M5 criterion): the note names the source.
-        "note": (f"klaim satu sumber saja ({next(iter(sources))}); tidak ada sumber kedua untuk dibandingkan"
+        # One source is one claim, never a certainty (M5 criterion). The note names the source and
+        # says only what is true now: no second source was compared. It must not suggest that the
+        # other source lacks the document (owner, 2026-10-08).
+        "note": (f"klaim {next(iter(sources))} saja; belum dibandingkan dengan sumber lain"
                  if len(sources) == 1 else "disepakati JDIH & DJP"),
     }

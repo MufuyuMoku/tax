@@ -191,7 +191,44 @@
     "target_id": "pmk-81-2017"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 8/PMK.03/2013 — Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Surat Ketetapan Pajak atau Surat Tagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/8-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 9/PMK.03/2013 — Tata Cara Pengajuan dan Penyelesaian Keberatan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 11/PMK.03/2013 — Tata Cara Pembetulan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 253/PMK.03/2014 — Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/253-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 249/PMK.03/2016 — Perubahan atas Peraturan Menteri Keuangan Nomor 253/PMK.03/2014 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/249-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 81/PMK.03/2017 — Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar.",
+    "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-03-2017"
+   }
+  ]
  },
  "source_records": [
   {
@@ -207,11 +244,13 @@
   {
    "date_as_written": "2024-12-23 00:00:00",
    "number_as_written": "PMK 118 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T06:29:10+00:00",
    "retrieved_at": "2026-09-21T14:16:40+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-118-tahun-2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-118-tahun-2024",
+   "validity_as_written": "01 Jan 2025 - s.d. Dicabut"
   }
  ],
  "status": {

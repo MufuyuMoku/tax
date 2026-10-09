@@ -86,7 +86,26 @@
     "target_id": "pmk-103-2006"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 103/PMK.04/2006 — Penggunaan Pemberitahuan Pabean Single Administrative Document di Pulau Batam, Bintan dan Karimun.-- Jakarta, 2006",
+    "url": "https://jdih.kemenkeu.go.id/dok/103-pmk-04-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 241/PMK.04/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 46/PMK.04/2009 tentang Pemberitahuan Pabean dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/241-pmk-04-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 48/PMK.04/2012 — Pemberitahuan Pabean dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-04-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -102,11 +121,13 @@
   {
    "date_as_written": "2009-03-05 00:00:00",
    "number_as_written": "46/PMK.04/2009",
+   "page_retrieved_at": "2026-10-05T13:51:34+00:00",
    "retrieved_at": "2026-09-21T14:41:38+00:00",
    "source": "JDIH",
    "title_as_written": "Pemberitahuan Pabean dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditunjuk Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/46-pmk-04-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/46-pmk-04-2009",
+   "validity_as_written": "05 Mar 2009 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -15,7 +15,26 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:08:44+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/978e0d74-c230-47f3-be65-bb97cdbbcb35/SE-02~PJ.41~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:09:25+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/b729b35b-38f1-4205-a36a-8a6e6372087e/SE-02~PJ.9~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:10:07+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/cee94da3-0aee-49a6-86f1-8c428c39e0bb/SE-02~PJ.1012~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +48,7 @@
   {
    "date_as_written": "1995-02-08 00:00:00",
    "number_as_written": "SE SE-02/PJ.41/1995",
+   "page_retrieved_at": "2026-10-09T01:08:44+00:00",
    "retrieved_at": "2026-09-21T15:00:55+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +56,13 @@
    "source": "JDIH",
    "title_as_written": "Pembayaran Pph Pasal 25 atas Penebusan Bahan Bakar Premix (Seri Pph Umum No. 2)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-02-pj-41-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-02-pj-41-1995",
+   "validity_as_written": "08 Feb 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-02-23 00:00:00",
    "number_as_written": "SE SE-02/PJ.9/1995",
+   "page_retrieved_at": "2026-10-09T01:09:25+00:00",
    "retrieved_at": "2026-09-21T15:00:55+00:00",
    "selected_because": [
     "judul",
@@ -49,11 +71,13 @@
    "source": "JDIH",
    "title_as_written": "Pph Orang Pribadi yang Bertolak Ke Luar Negeri yang Dibayar dengan Menggunakan Ssp",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-02-pj-9-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-02-pj-9-1995",
+   "validity_as_written": "23 Feb 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-10-06 00:00:00",
    "number_as_written": "SE SE-02/PJ.1012/1995",
+   "page_retrieved_at": "2026-10-09T01:10:07+00:00",
    "retrieved_at": "2026-09-21T15:00:55+00:00",
    "selected_because": [
     "judul"
@@ -61,11 +85,12 @@
    "source": "JDIH",
    "title_as_written": "Pemberitahuan Berlakunya Persetujuan Penghindaran Pajak Berganda (P3B) Ri-Italia",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-02-pj-1012-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-02-pj-1012-1995",
+   "validity_as_written": "06 Okt 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -103,7 +128,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Pembayaran Pph Pasal 25 atas Penebusan Bahan Bakar Premix (Seri Pph Umum No. 2)"

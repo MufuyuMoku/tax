@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1997-09-29",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "480/KMK.04/1997",
-   "retrieved_at": "2026-10-03T04:00:11+00:00",
+   "retrieved_at": "2026-10-05T06:52:41+00:00",
    "source": "DJP",
    "title_as_written": "PENGHITUNGAN BESARNYA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK ATAS KELEBIHAN PEMBAYARAN YANG DIKEMBALIKAN KARENA KEPUTUSAN KEBERATAN ATAU PUTUSAN BANDING",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENGHITUNGAN BESARNYA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK ATAS KELEBIHAN PEMBAYARAN YANG DIKEMBALIKAN KARENA KEPUTUSAN KEBERATAN ATAU PUTUSAN BANDING"

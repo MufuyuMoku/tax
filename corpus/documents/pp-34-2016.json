@@ -15,7 +15,13 @@
   "year": "2016"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:59:47+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/59e6ec13-8112-41f7-b63b-6891cac23310/34TAHUN2016PP.pdf"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,32 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 71 TAHUN 2008 — Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-71-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 27 TAHUN 1996 — Perubahan atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-27-tahun-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 48 TAHUN 1994 — Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-48-tahun-1994"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2016-08-08 00:00:00",
    "number_as_written": "PP 34 TAHUN 2016",
+   "page_retrieved_at": "2026-10-09T00:59:04+00:00",
    "retrieved_at": "2026-09-21T14:07:00+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +62,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-34-tahun-2016"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-34-tahun-2016",
+   "validity_as_written": "08 Agu 2016 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +89,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya"

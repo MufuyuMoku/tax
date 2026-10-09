@@ -53,14 +53,39 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 625/KMK.04/1994 — Tata Cara Pemeriksaan di Bidang Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/625-kmk-04-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 199/PMK.03/2007 — Tatacara Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 121/PMK.02/2006 — Tatacara Penyediaan, Pencairan dan Pertanggungjawaban Dana Penyelenggaraan Kewajiban Pelayanan Umum Bidang Angkutan Kereta Kelas Ekonomi Tahun Anggaran 2006.  \r\nJakarta, 2006",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-02-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 123/PMK.03/2006 — Perubahan atas Keputusan Menteri Keuangan 545/PMK.04/2000 tentang Tatacara Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2006"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-22",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "545/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:57:04+00:00",
+   "retrieved_at": "2026-10-05T07:22:41+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMERIKSAAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -69,11 +94,13 @@
   {
    "date_as_written": "2000-12-22 00:00:00",
    "number_as_written": "545/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:28:35+00:00",
    "retrieved_at": "2026-09-21T14:49:43+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Pemerikasaan Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/545-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/545-kmk-04-2000",
+   "validity_as_written": "22 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -108,7 +135,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMERIKSAAN PAJAK"

@@ -43,7 +43,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 87/PMK.03/2013 — Tata Cara Permintaan Keterangan atau Bukti Dari Pihak-Pihak yang Terikat oleh Kewajiban Merahasiakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -59,11 +66,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "201/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:09:19+00:00",
    "retrieved_at": "2026-09-21T14:43:43+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Permintaan Keterangan atau Bukti Dari Pihak-Pihak yang Terikat oleh Kewajiban Merahasiakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/201-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/201-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -53,8 +53,10 @@ test("references to public regulations are linked, with the sentence they come f
   assert.deepEqual(byWritten["Peraturan Menteri Keuangan Nomor 168 Tahun 2023"].matches.map((m) => m.id), ["pmk-168-2023"]);
   assert.deepEqual(byWritten["PER-11/PJ/2025"].matches.map((m) => m.id), ["per-djp-11-2025"]);
   assert.ok(byWritten["Peraturan Pemerintah Nomor 58 Tahun 2023"].sentence.includes("tarif efektif"));
+  // PMK 81/2024 entered the corpus with KUP (M5).
+  assert.deepEqual(byWritten["Peraturan Menteri Keuangan Nomor 81 Tahun 2024"].matches.map((m) => m.id), ["pmk-81-2024"]);
   // Not in the corpus: kept as text, never linked to a guess.
-  assert.deepEqual(byWritten["Peraturan Menteri Keuangan Nomor 81 Tahun 2024"].matches, []);
+  assert.deepEqual(byWritten["Peraturan Menteri Keuangan Nomor 999 Tahun 2099"].matches, []);
   // The document's own number is not a reference.
   assert.ok(!refs.some((r) => r.number.serial === "901"));
 });

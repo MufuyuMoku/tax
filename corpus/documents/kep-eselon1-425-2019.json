@@ -22,7 +22,13 @@
    "title": "PENETAPAN PEMOTONG PPH PASAL 23 DAN/ATAU PASAL 26 YANG DIHARUSKAN MEMBUAT BUKTI PEMOTONGAN DAN DIWAJIBKAN MENYAMPAIKAN SPT MASA PPH PASAL 23 DAN/ATAU PASAL 26 BERDASARKAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2017"
   }
  ],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T03:59:24+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/db7a5444-6073-4bbf-8e9b-21e4c954eadd/KEP-425.PJ.2019.pdf"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -36,6 +42,7 @@
   {
    "date_as_written": "2019-04-22 00:00:00",
    "number_as_written": "KepDJP KEP-425/PJ/2019",
+   "page_retrieved_at": "2026-10-06T03:58:16+00:00",
    "retrieved_at": "2026-09-21T14:58:46+00:00",
    "selected_because": [
     "judul"
@@ -43,11 +50,12 @@
    "source": "JDIH",
    "title_as_written": "Penetapan Pemotong Pph Pasal 23 dan/atau Pasal 26 yang Diharuskan Membuat Bukti Pemotongan dan Diwajibkan Menyampaikan Spt Masa Pph Pasal 23 Dan/ atau Pasal 26 Berdasarkan Peraturan Direktur Jenderal Pajak Nomor Per-04/Pj/2017",
    "type_as_written": "Keputusan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/kepdjp-kep-425-pj-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/kepdjp-kep-425-pj-2019",
+   "validity_as_written": "22 Apr 2019 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -69,7 +77,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Penetapan Pemotong Pph Pasal 23 dan/atau Pasal 26 yang Diharuskan Membuat Bukti Pemotongan dan Diwajibkan Menyampaikan Spt Masa Pph Pasal 23 Dan/ atau Pasal 26 Berdasarkan Peraturan Direktur Jenderal Pajak Nomor Per-04/Pj/2017"

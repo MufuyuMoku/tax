@@ -72,7 +72,20 @@
     "target_id": "pmk-83-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 83/PMK.03/2009 — Penyediaan Makanan dan Minuman Bagi Seluruh Pegawai Serta Penggantian atau Imbalan dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu dan yang Berkaitan dengan Pelaksanaan Pekerjaan yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja.",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 66 TAHUN 2023 — Perlakuan Pajak Penghasilan atas Penggantian atau Imbalan Sehubungan dengan Pekerjaan atau Jasa yang Diterima atau Diperoleh Dalam Bentuk Natura dan/atau Kenikmatan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-66-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,6 +101,7 @@
   {
    "date_as_written": "2018-12-19 00:00:00",
    "number_as_written": "167/PMK.03/2018",
+   "page_retrieved_at": "2026-10-05T12:59:30+00:00",
    "retrieved_at": "2026-09-21T14:25:14+00:00",
    "selected_because": [
     "judul"
@@ -95,7 +109,8 @@
    "source": "JDIH",
    "title_as_written": "Penyediaan Makanan dan Minuman Bagi Seluruh Pegawai Serta Penggantian atau Imbalan dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu yang Berkaitan dengan Pelaksanaan Pekerjaan yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-03-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-03-2018",
+   "validity_as_written": "19 Des 2018 - 27 Jun 2023"
   }
  ],
  "status": {

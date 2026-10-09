@@ -15,7 +15,13 @@
   "year": "2000"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T04:03:50+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/d4e65fa8-1388-46c4-9585-17f2f04b2ff2/260~KMK.04~2000Kep.HTM"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,50 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 314/KMK.04/1998 — Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pajak Penghasilan Bagi Perwakilan Organisasi Internasioanl dan Pejabatnya Sebagaimana Telah Diubah Terakhir dengan Kepmenkeu No. 229/KMK.04/1998",
+    "url": "https://jdih.kemenkeu.go.id/dok/314-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 229/KMK.04/1998 — Perubahan Lampiran Kepmenkeu No.611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional  dan Pejabat Perwakilan Organisasi Internasional  Sebagaimana Telah Diubah Terakhir dengan Kepmenkeu No. 436/KMK.04/1996",
+    "url": "https://jdih.kemenkeu.go.id/dok/229-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 611/KMK.04/1994 — Perlakuan Pajak Penghasilan Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/611-kmk-04-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 539/KMK.01/1995 — Perubahan Lampiran Kepmenkeu No.611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pajabat Perwakilan Organisasi Internasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/539-kmk-01-1995"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 436/KMK.04/1996 — Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1996 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah dengan Kepmenkeu No. 539/KMK.01/1995",
+    "url": "https://jdih.kemenkeu.go.id/dok/436-kmk-04-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 574/KMK.04/2000 — Organisasi-Organisasi Internasional dan Pejabat Perwakilan Organisa\r\nSi  Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/574-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-06-12 00:00:00",
    "number_as_written": "260/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T04:03:30+00:00",
    "retrieved_at": "2026-09-21T14:50:14+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +81,12 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir Denga Kepmenkeu No. 314/KMK.04/1998",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/260-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/260-kmk-04-2000",
+   "validity_as_written": "12 Jun 2000 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -63,7 +108,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir Denga Kepmenkeu No. 314/KMK.04/1998"

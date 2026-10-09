@@ -79,6 +79,7 @@
   {
    "date_as_written": "2009-02-02 00:00:00",
    "number_as_written": "PerDJP 07/PJ/2009",
+   "page_retrieved_at": "2026-10-05T13:54:37+00:00",
    "retrieved_at": "2026-09-21T14:58:07+00:00",
    "selected_because": [
     "judul",
@@ -87,7 +88,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Direktur Jenderal Pajak Nomor 24/Pj/2008 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan dan Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Beserta Petunjuk Pengisiannya.",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-07-pj-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-07-pj-2009",
+   "validity_as_written": "02 Feb 2009 - s.d. Dicabut"
   }
  ],
  "status": {

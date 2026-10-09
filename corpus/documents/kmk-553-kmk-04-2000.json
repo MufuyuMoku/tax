@@ -15,7 +15,13 @@
   "year": "2000"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:20:21+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/6737342b-39fa-470c-a5c4-153517879c1a/553~KMK.04~2000Kep.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -38,12 +44,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 45/PMK.03/2008 — Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang No. 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan Neto",
+    "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2008"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-22 00:00:00",
    "number_as_written": "553/KMK.04/2000",
+   "page_retrieved_at": "2026-10-06T03:24:36+00:00",
    "retrieved_at": "2026-09-21T14:49:39+00:00",
    "selected_because": [
     "judul"
@@ -51,11 +65,12 @@
    "source": "JDIH",
    "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Masukan Kena Pajak yang Berdasarkan Uu No.7 Tahun 1983 tentang Pph Sebagaimana Telah Diubah dengan Uu No. 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/553-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/553-kmk-04-2000",
+   "validity_as_written": "22 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -77,7 +92,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Masukan Kena Pajak yang Berdasarkan Uu No.7 Tahun 1983 tentang Pph Sebagaimana Telah Diubah dengan Uu No. 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan"

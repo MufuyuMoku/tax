@@ -112,7 +112,20 @@
     "target_id": "kmk-486-kmk-04-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 239/KMK.01/1996 — Pelaksanaan Peraturan Pemerintah Nomor 42 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/239-kmk-01-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 486/KMK.04/2000 — Perubahan Kedua Kepmenkeu No.239/KMK.01/1996 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
@@ -128,6 +141,7 @@
   {
    "date_as_written": "2024-10-14 00:00:00",
    "number_as_written": "PMK 80 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T14:46:31+00:00",
    "retrieved_at": "2026-09-21T14:16:56+00:00",
    "selected_because": [
     "judul"
@@ -135,7 +149,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan dalam rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2024",
+   "validity_as_written": "18 Okt 2024 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -31,7 +31,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 119/KMK.04/1995 — Tatacara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/119-kmk-04-1995"
+   }
+  ]
  },
  "source_records": [
   {
@@ -47,6 +54,7 @@
   {
    "date_as_written": "1994-01-13 00:00:00",
    "number_as_written": "15/KMK.04/1994",
+   "page_retrieved_at": "2026-10-05T14:40:45+00:00",
    "retrieved_at": "2026-09-21T14:54:27+00:00",
    "selected_because": [
     "judul",
@@ -55,7 +63,8 @@
    "source": "JDIH",
    "title_as_written": "Tatacara Penerbitan Surat Keputusan Kelebihan Pembayaran Pa Jak, Perhitungan dan Pengembalian Kelebihan Pembayaran Pajak Penghasilan.",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/15-kmk-04-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/15-kmk-04-1994",
+   "validity_as_written": "13 Jan 1994 - s.d. Dicabut"
   }
  ],
  "status": {

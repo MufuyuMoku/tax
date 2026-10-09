@@ -56,7 +56,26 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 17/PMK.03/2013 — Tata Cara Pemeriksaan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 15 TAHUN 2025 — Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-15-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -72,11 +91,13 @@
   {
    "date_as_written": "2015-09-30 00:00:00",
    "number_as_written": "184/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:09:38+00:00",
    "retrieved_at": "2026-09-21T14:30:19+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara\r\nPemeriksaan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2015",
+   "validity_as_written": "30 Sep 2015 - 14 Feb 2025"
   }
  ],
  "status": {

@@ -38,7 +38,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PER-16/PJ/2025 — Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2025 tentang Pelaksanaan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah, serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Kena Pajak Berisiko Rendah",
+    "url": "https://jdih.kemenkeu.go.id/dok/per-16pj2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -54,11 +61,13 @@
   {
    "date_as_written": "2025-05-21 12:00:00",
    "number_as_written": "PER-6/PJ/2025",
+   "page_retrieved_at": "2026-10-05T06:27:48+00:00",
    "retrieved_at": "2026-09-21T14:55:19+00:00",
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak Terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah, serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Berisiko Rendah",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-6pj2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-6pj2025",
+   "validity_as_written": "21 Mei 2025 - s.d. Dicabut"
   }
  ],
  "status": {

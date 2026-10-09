@@ -98,7 +98,32 @@
     "target_id": "pmk-41-2022"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 30/PMK.03/2014 — Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 34/PMK.010/2017 — Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 41/PMK.010/2022 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/41-pmk-010-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 52 TAHUN 2025 — Perubahan Kedua atas\nPeraturan Menteri Keuangan Nomor 48 Tahun 2023 tentang  Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-52-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -114,6 +139,7 @@
   {
    "date_as_written": "2023-04-28 00:00:00",
    "number_as_written": "PMK 48 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T14:51:55+00:00",
    "retrieved_at": "2026-09-21T14:18:15+00:00",
    "selected_because": [
     "judul"
@@ -121,7 +147,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, Serta Jasa yang Terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya Yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023",
+   "validity_as_written": "01 Mei 2023 - s.d. Dicabut"
   }
  ],
  "status": {

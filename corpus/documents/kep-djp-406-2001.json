@@ -16,7 +16,12 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "kep-djp-406-2001--b000-1",
+  "kep-djp-406-2001--b001-2",
+  "kep-djp-406-2001--b002-3",
+  "kep-djp-406-2001--b003-4"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [
@@ -44,9 +49,9 @@
  "source_records": [
   {
    "date_as_written": "2001-06-19",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP - 406/PJ./2001",
-   "retrieved_at": "2026-10-03T03:55:19+00:00",
+   "retrieved_at": "2026-10-05T06:30:42+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENERBITAN SURAT KEPUTUSAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -54,7 +59,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },
@@ -68,16 +73,16 @@
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 6833,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:30:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-keputusan-pengembalian-pendahuluan-kelebihan-pajak"
  },
  "title": "TATA CARA PENERBITAN SURAT KEPUTUSAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PAJAK"
 }

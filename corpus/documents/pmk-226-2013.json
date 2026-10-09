@@ -117,7 +117,50 @@
     "target_id": "pmk-12-2011"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 40/PMK.03/2005 — Tata Cara Pemberian Imbalan Bumga Kepada Wajib Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 121/PMK.06/2005 — Tata Cara Pemberian Imbalan Bunga Pajak Bumi dan Bangunan Kepada Wajib Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-06-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 12/PMK.03/2011 — Perubahan atas Peraturan Menteri Keuangan Nomor 195/PMK.03/2007 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga.",
+    "url": "https://jdih.kemenkeu.go.id/dok/12-pmk-03-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 195/PMK.03/2007 — Tatacara Penghitungan dan Pemberian Imbalan Bunga",
+    "url": "https://jdih.kemenkeu.go.id/dok/195-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 186/PMK.03/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 226/PMK.03/2013 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga.",
+    "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 65/PMK.03/2018 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 226/PMK.03/2013 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga.",
+    "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -133,11 +176,13 @@
   {
    "date_as_written": "2013-12-31 00:00:00",
    "number_as_written": "226/PMK.03/2013",
+   "page_retrieved_at": "2026-10-05T13:19:25+00:00",
    "retrieved_at": "2026-09-21T14:33:38+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penghitungan dan Pemberian Imbalan Bunga.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2013",
+   "validity_as_written": "31 Des 2013 - 17 Feb 2021"
   }
  ],
  "status": {

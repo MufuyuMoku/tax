@@ -161,6 +161,12 @@
     "source": "DJP",
     "text": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-32/PJ./1995 TENTANG TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI OTOMOTIF DI DALAM NEGERI",
     "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-32pj1995-tentang-tarif-dan-tata"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 536/KMK.04/2000 — Tatacara Penerimaan dan Pengolahan Surat Pemberitahuan",
+    "url": "https://jdih.kemenkeu.go.id/dok/536-kmk-04-2000"
    }
   ]
  },
@@ -178,11 +184,13 @@
   {
    "date_as_written": "2003-02-28 00:00:00",
    "number_as_written": "82/KMK.03/2003",
+   "page_retrieved_at": "2026-10-05T14:23:11+00:00",
    "retrieved_at": "2026-09-21T14:48:46+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Keputusan Menteri Keuangan No.536/KMK.04/2000 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/82-kmk-03-2003"
+   "url": "https://jdih.kemenkeu.go.id/dok/82-kmk-03-2003",
+   "validity_as_written": "28 Feb 2003 - s.d. Dicabut"
   }
  ],
  "status": {

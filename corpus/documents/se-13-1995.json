@@ -15,7 +15,20 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:01:13+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/1190186c-9d1f-4c9d-93de-fe410c0c465d/SE-13~PJ.4~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:01:54+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/c5a4a5d6-1e9a-4cd3-9c96-ee8c52c67858/SE-13~PJ.54~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +42,7 @@
   {
    "date_as_written": "1995-02-28 00:00:00",
    "number_as_written": "SE SE-13/PJ.4/1995",
+   "page_retrieved_at": "2026-10-09T01:01:13+00:00",
    "retrieved_at": "2026-09-21T15:00:46+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +51,13 @@
    "source": "JDIH",
    "title_as_written": "Perwakilan Organisasi Internasional yang Tidak Berkewajiban Melakukan Pemotongan Pph Pasal 21 dan Pph Pasal 26 Ayat (1) Huruf D (Seri Pph Pasal 21-2)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-13-pj-4-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-13-pj-4-1995",
+   "validity_as_written": "28 Feb 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-04-03 00:00:00",
    "number_as_written": "SE SE-13/PJ.54/1995",
+   "page_retrieved_at": "2026-10-09T01:01:54+00:00",
    "retrieved_at": "2026-09-21T15:00:46+00:00",
    "selected_because": [
     "judul",
@@ -50,11 +66,12 @@
    "source": "JDIH",
    "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pkp yang Menggunakan Norma Penghitungan Penghasilan Netto (Seri Ppn 12-95)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-13-pj-54-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-13-pj-54-1995",
+   "validity_as_written": "03 Apr 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -84,7 +101,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Perwakilan Organisasi Internasional yang Tidak Berkewajiban Melakukan Pemotongan Pph Pasal 21 dan Pph Pasal 26 Ayat (1) Huruf D (Seri Pph Pasal 21-2)"

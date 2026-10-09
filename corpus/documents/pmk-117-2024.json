@@ -72,7 +72,20 @@
     "target_id": "pmk-43-2018"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 68/PMK.03/2012 — Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 43/PMK.03/2018 — Kebijakan Akuntansi Penghapusbukuan Piutang Pajak\r\nYang Telah Daluwarsa",
+    "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,11 +101,13 @@
   {
    "date_as_written": "2024-12-23 00:00:00",
    "number_as_written": "PMK 117 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T06:28:49+00:00",
    "retrieved_at": "2026-09-21T14:16:40+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penghapusan Piutang Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-117-tahun-2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-117-tahun-2024",
+   "validity_as_written": "01 Jan 2025 - s.d. Dicabut"
   }
  ],
  "status": {

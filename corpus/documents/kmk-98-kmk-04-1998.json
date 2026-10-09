@@ -27,7 +27,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 538/KMK.04/1990 — Pajak Penghasilan Pasal 22(Pph Ps 22) , Pajak Pertambahan Nilai (Ppn)  dan atau Pajak Penjualan atas Barang Mewah (Ppnbm) untuk Kegiatan Usaha di Bidang Impor atas Dasar Inden.",
+    "url": "https://jdih.kemenkeu.go.id/dok/538-kmk-04-1990"
+   }
+  ]
  },
  "source_records": [
   {
@@ -43,6 +50,7 @@
   {
    "date_as_written": "1998-02-26 00:00:00",
    "number_as_written": "98/KMK.04/1998",
+   "page_retrieved_at": "2026-10-06T03:41:23+00:00",
    "retrieved_at": "2026-09-21T14:52:05+00:00",
    "selected_because": [
     "judul",
@@ -51,7 +59,8 @@
    "source": "JDIH",
    "title_as_written": "Pencabutan atas Keputusan Menteri Keuangan No. 538/KMK.04/ 1998 tentang Pemungutan dan atau Penyetoran Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan Pasal 22 dalam Rangka Impor.",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/98-kmk-04-1998"
+   "url": "https://jdih.kemenkeu.go.id/dok/98-kmk-04-1998",
+   "validity_as_written": "26 Feb 1998 - s.d. Dicabut"
   }
  ],
  "status": {

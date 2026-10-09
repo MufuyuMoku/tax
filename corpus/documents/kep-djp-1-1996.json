@@ -95,9 +95,9 @@
   },
   {
    "date_as_written": "1996-01-15",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP-01/PJ./1996",
-   "retrieved_at": "2026-10-03T04:01:33+00:00",
+   "retrieved_at": "2026-10-05T07:23:22+00:00",
    "source": "DJP",
    "title_as_written": "TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 ATAS PENJUALAN HASIL PRODUKSI INDUSTRI BAJA DI DALAM NEGERI",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -134,7 +134,15 @@
   "available": true,
   "chars": 6988,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 5163,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T07:23:22+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-6"
+   }
+  ],
   "retrieved_at": "2026-09-22T04:31:42+00:00",
   "source": "DJP",
   "unavailable_reason": null,

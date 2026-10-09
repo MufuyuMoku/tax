@@ -15,7 +15,13 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:54:52+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/58a33c40-41b9-426d-b935-64f63173fb71/19TAHUN2009PP.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diatur lebih lanjut dengan",
+    "source": "JDIH",
+    "text": "Diatur lebih lanjut dengan: PP 9 TAHUN 2021 — Perlakuan Perpajakan Untuk Mendukung Kemudahan Berusaha",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2021"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2009-02-09 00:00:00",
    "number_as_written": "PP 19 TAHUN 2009",
+   "page_retrieved_at": "2026-10-09T00:54:28+00:00",
    "retrieved_at": "2026-09-21T14:09:58+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +50,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan atas Deviden yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi dalam Negeri.",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-19-tahun-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-19-tahun-2009",
+   "validity_as_written": "09 Feb 2009 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +77,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan atas Deviden yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi dalam Negeri."

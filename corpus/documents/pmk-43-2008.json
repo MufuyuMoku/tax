@@ -79,7 +79,26 @@
     "target_id": "pmk-75-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 75/PMK.03/2005 — Perubahan Ketiga atas Keputusan Menteri Keuangan No.422/KMK.04/1998 tentang Penggunaan Nilai Buku atas Pengalihan Harta dalam Rangka Penggabungan, Peleburan atau Pemekaran Usaha",
+    "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 422/KMK.04/1998 — Penggunaan Nilai Buku atas Pengalihan Harta dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha",
+    "url": "https://jdih.kemenkeu.go.id/dok/422-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 52/PMK.010/2017 — Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha.",
+    "url": "https://jdih.kemenkeu.go.id/dok/52-pmk-010-2017"
+   }
+  ]
  },
  "source_records": [
   {
@@ -95,11 +114,13 @@
   {
    "date_as_written": "2008-03-13 00:00:00",
    "number_as_written": "43/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T14:05:57+00:00",
    "retrieved_at": "2026-09-21T14:43:22+00:00",
    "source": "JDIH",
    "title_as_written": "Penggunaan Nilai Buku atas Pengalihan Harta dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2008",
+   "validity_as_written": "13 Mar 2008 - s.d. Dicabut"
   }
  ],
  "status": {

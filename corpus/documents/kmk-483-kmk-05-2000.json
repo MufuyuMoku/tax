@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "2000-11-17",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "483/KMK.05/2000",
-   "retrieved_at": "2026-10-03T03:58:27+00:00",
+   "retrieved_at": "2026-10-05T06:45:45+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 234/KMK.05/1996 TENTANG TATA CARA PENAGIHAN PIUTANG BEA MASUK, CUKAI, SANKSI ADMINISTRASI, BUNGA, DAN PAJAK DALAM RANGKA IMPOR",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +39,13 @@
   {
    "date_as_written": "2000-11-17 00:00:00",
    "number_as_written": "483/KMK.05/2000",
+   "page_retrieved_at": "2026-10-05T14:32:39+00:00",
    "retrieved_at": "2026-09-21T14:49:55+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Kepmenkeu No.234/KMK.05/1996 tentang Tatacara Penagihan Piutang Bea Masuk, Cukai, Sanksi Administrasi, Bunga dan Pajak dalam Rangka Impor",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/483-kmk-05-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/483-kmk-05-2000",
+   "validity_as_written": "17 Nov 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -78,7 +80,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 234/KMK.05/1996 TENTANG TATA CARA PENAGIHAN PIUTANG BEA MASUK, CUKAI, SANKSI ADMINISTRASI, BUNGA, DAN PAJAK DALAM RANGKA IMPOR"

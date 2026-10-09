@@ -85,11 +85,13 @@
   {
    "date_as_written": "2020-11-09 00:00:00",
    "number_as_written": "PER-20/PJ/2020",
+   "page_retrieved_at": "2026-10-05T06:45:06+00:00",
    "retrieved_at": "2026-09-21T14:56:41+00:00",
    "source": "JDIH",
    "title_as_written": "Pedoman Akuntansi Piutang Pajak",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-20-pj-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-20-pj-2020",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -21,16 +21,31 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-549-2000",
+    "key": [
+     "KEP-DJP",
+     "549",
+     "2000",
+     null
+    ],
+    "number_as_written": "KEP-549/PJ/2000",
+    "quote": "Pasal 9 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-53/PJ/1994 tanggal 29 Desember 1994, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "1994-12-29",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP - 53/PJ./1994",
-   "retrieved_at": "2026-10-03T04:02:57+00:00",
+   "retrieved_at": "2026-10-05T07:04:18+00:00",
    "source": "DJP",
    "title_as_written": "PENETAPAN SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -39,16 +54,19 @@
   {
    "date_as_written": "1994-12-29 00:00:00",
    "number_as_written": "KEP-53/PJ/1994",
+   "page_retrieved_at": "2026-10-05T14:38:03+00:00",
    "retrieved_at": "2026-09-21T14:59:18+00:00",
    "source": "JDIH",
    "title_as_written": "Penetapan Saat Pembuatan, Bentuk, Ukuran, Pengadaan, Tata Cara Penyampaian, dan Tata Cara Pembetulan Faktur Pajak Standar",
    "type_as_written": "Keputusan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/kep-53-pj-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-53-pj-1994",
+   "validity_as_written": "29 Des 1994 - s.d. Dicabut"
   }
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks KEP-DJP 549/2000 mencabutnya"
   ],
   "value": "tidak_pasti"
  },
@@ -78,7 +96,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENETAPAN SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"

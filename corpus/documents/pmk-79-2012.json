@@ -15,7 +15,13 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:52:01+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a30822a0-3aee-4bcc-bf9c-39917e27b997/79~PMK.02~2012Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -53,12 +59,26 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 70/PMK.03/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 79/PMK.02/2012 tentang Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2012-05-24 00:00:00",
    "number_as_written": "79/PMK.02/2012",
+   "page_retrieved_at": "2026-10-09T00:51:41+00:00",
    "retrieved_at": "2026-09-21T14:36:24+00:00",
    "selected_because": [
     "judul"
@@ -66,11 +86,12 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/79-pmk-02-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/79-pmk-02-2012",
+   "validity_as_written": "24 Mei 2012 - 18 Okt 2024"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -92,7 +113,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi."

@@ -40,7 +40,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 112/PMK.03/2022 — Nomor Pokok Wajib Pajak bagi Wajib Pajak Orang Pribadi, Wajib Pajak Badan, dan Wajib Pajak Instansi Pemerintah",
+    "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-03-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +63,13 @@
   {
    "date_as_written": "2023-12-08 00:00:00",
    "number_as_written": "PMK 136 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T06:31:33+00:00",
    "retrieved_at": "2026-09-21T14:17:44+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Atas Peraturan Menteri Keuangan Nomor 112/PMK.03/2022 tentang Nomor Pokok Wajib Pajak Orang Pribadi, Wajib Pajak Badan, dan Wajib Pajak Instansi Pemerintah",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-136-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-136-tahun-2023",
+   "validity_as_written": "12 Des 2023 - s.d. Dicabut"
   }
  ],
  "status": {

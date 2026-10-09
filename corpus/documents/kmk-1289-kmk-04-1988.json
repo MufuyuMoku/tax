@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1988-12-23",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "1289/KMK.04/1988",
-   "retrieved_at": "2026-10-03T04:05:22+00:00",
+   "retrieved_at": "2026-10-05T07:15:08+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMUNGUTAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN-BADAN TERTENTU SEBAGAI PEMUNGUT PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMUNGUTAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BADAN-BADAN TERTENTU SEBAGAI PEMUNGUT PAJAK"

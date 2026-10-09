@@ -19,7 +19,13 @@
   "year": "2007"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:52:21+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/7d0101a2-25d6-47ec-8154-3bceda2de36f/87~PMK.03~2007Per.htm"
+  }
+ ],
  "pasal_ids": [
   "pmk-87-2007--b000-i",
   "pmk-87-2007--b001-ii"
@@ -60,7 +66,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 574/KMK.04/2000 — Organisasi-Organisasi Internasional dan Pejabat Perwakilan Organisa\r\nSi  Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/574-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 215/PMK.03/2008 — Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subyek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -76,6 +95,7 @@
   {
    "date_as_written": "2007-08-30 00:00:00",
    "number_as_written": "87/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:16:05+00:00",
    "retrieved_at": "2026-09-21T14:44:27+00:00",
    "selected_because": [
     "judul",
@@ -84,7 +104,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Keenam atas Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-Organisasi  Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2007",
+   "validity_as_written": "30 Agu 2007 - s.d. Dicabut"
   }
  ],
  "status": {

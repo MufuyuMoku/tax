@@ -19,7 +19,13 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:30:19+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/8797c01a-4feb-4b0b-92e4-d8814df6183a/153~PMK.03~2009Per.htm"
+  }
+ ],
  "pasal_ids": [
   "pmk-153-2009--b000-i",
   "pmk-153-2009--b001-ii"
@@ -44,7 +50,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 187/PMK.03/2008 — Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -60,6 +73,7 @@
   {
    "date_as_written": "2009-09-29 00:00:00",
    "number_as_written": "153/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:44:47+00:00",
    "retrieved_at": "2026-09-21T14:40:59+00:00",
    "selected_because": [
     "judul",
@@ -68,7 +82,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 187/PMK.03/2008 tentang Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/153-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/153-pmk-03-2009",
+   "validity_as_written": "29 Sep 2009 - s.d. Dicabut"
   }
  ],
  "status": {

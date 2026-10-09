@@ -44,7 +44,32 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 145/PMK.04/2007 — Ketentuan Kepabeanan di Bidang Ekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/145-pmk-04-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 145/PMK.04/2014 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 145/PMK.04/2007 tentang Ketentuan Kepabeanan di Bidang Ekspor.",
+    "url": "https://jdih.kemenkeu.go.id/dok/145-pmk-04-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 21/PMK.04/2019 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 145/PMK.04/2007 tentang Ketentuan Kepabeanan di Bidang Ekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-04-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 155/PMK.04/2022 — Ketentuan Kepabeanan di Bidang Ekspor",
+    "url": "https://jdih.kemenkeu.go.id/dok/155-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -60,11 +85,13 @@
   {
    "date_as_written": "2011-09-07 00:00:00",
    "number_as_written": "148/PMK.04/2011",
+   "page_retrieved_at": "2026-10-05T13:31:34+00:00",
    "retrieved_at": "2026-09-21T14:37:39+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 145/PMK.04/2007 tentang Ketentuan Kepabeanan di Bidang Ekspor.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/148-pmk-04-2011"
+   "url": "https://jdih.kemenkeu.go.id/dok/148-pmk-04-2011",
+   "validity_as_written": "07 Sep 2011 - 03 Nov 2022"
   }
  ],
  "status": {

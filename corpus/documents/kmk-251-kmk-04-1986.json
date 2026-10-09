@@ -15,7 +15,13 @@
   "year": "1986"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T04:03:10+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ece06bf6-f5cb-4903-ab8c-9afa77e68f56/251~kmk.04~1986kep.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 611/KMK.04/1994 — Perlakuan Pajak Penghasilan Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/611-kmk-04-1994"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1986-04-11 00:00:00",
    "number_as_written": "251/KMK.04/1986",
+   "page_retrieved_at": "2026-10-06T04:02:50+00:00",
    "retrieved_at": "2026-09-21T14:54:51+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +51,12 @@
    "source": "JDIH",
    "title_as_written": "Penetuan Asian - American Free Labor Institute yang Pejabat-Pejabat Perwakilannya Tidak Termasuk Sebagai Subyek Pajak Dari Pajak Penghasilan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/251-kmk-04-1986"
+   "url": "https://jdih.kemenkeu.go.id/dok/251-kmk-04-1986",
+   "validity_as_written": "11 Apr 1986 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -63,7 +78,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Penetuan Asian - American Free Labor Institute yang Pejabat-Pejabat Perwakilannya Tidak Termasuk Sebagai Subyek Pajak Dari Pajak Penghasilan"

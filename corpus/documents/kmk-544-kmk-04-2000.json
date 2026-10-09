@@ -38,14 +38,27 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 192/PMK.03/2007 — Tatacara Penetapan Wajib Pajak dengan Kriteria Tertentu dalam Rangka Pengembalian Pendahuluan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 235/KMK.03/2003 — Perubahan atas Keputusan Menteri Keuangan Nomor 544/KMK.04/2000 tentang Kriteria Wajib Pajak yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/235-kmk-03-2003"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-22",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "544/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:57:04+00:00",
+   "retrieved_at": "2026-10-05T06:38:27+00:00",
    "source": "DJP",
    "title_as_written": "KRITERIA WAJIB PAJAK YANG DAPAT DIBERIKAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -54,11 +67,13 @@
   {
    "date_as_written": "2000-12-22 00:00:00",
    "number_as_written": "544/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:28:56+00:00",
    "retrieved_at": "2026-09-21T14:49:43+00:00",
    "source": "JDIH",
    "title_as_written": "Kriteria Wajib Pajak yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/544-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/544-kmk-04-2000",
+   "validity_as_written": "22 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -92,7 +107,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "KRITERIA WAJIB PAJAK YANG DAPAT DIBERIKAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK"

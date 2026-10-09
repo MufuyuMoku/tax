@@ -31,7 +31,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 651/KMK.04/1994 — Bidang Penanaman Modal Tertentu yang Memberikan Penghasilan Kepada Dana Pensiun yang Tidak Termasuk Sebagai Obyek Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/651-kmk-04-1994"
+   }
+  ]
  },
  "source_records": [
   {
@@ -47,6 +54,7 @@
   {
    "date_as_written": "2009-12-29 00:00:00",
    "number_as_written": "234/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:43:26+00:00",
    "retrieved_at": "2026-09-21T14:40:27+00:00",
    "selected_because": [
     "judul"
@@ -54,7 +62,8 @@
    "source": "JDIH",
    "title_as_written": "Bidang Penanaman Modal Tertentu yang Memberikan Penghasilan Kepada Dana Pensiun yang Dikecualikan Sebagai Objek Pajak Penghasilan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-03-2009",
+   "validity_as_written": "29 Des 2009 - s.d. Dicabut"
   }
  ],
  "status": {

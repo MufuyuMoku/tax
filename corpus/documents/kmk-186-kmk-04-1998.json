@@ -21,16 +21,38 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kmk-542-kmk-04-2000",
+    "key": [
+     "KMK",
+     "542/KMK.04",
+     "2000",
+     null
+    ],
+    "number_as_written": "542/KMK.04/2000",
+    "quote": "Pasal 7 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 186/KMK.04/1998 tentang Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Ketetapan Pajak dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK"
+   }
+  ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 542/KMK.04/2000 — Tatacara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Ketetapan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/542-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1998-03-19",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "186/KMK.04/1998",
-   "retrieved_at": "2026-10-03T03:59:50+00:00",
+   "retrieved_at": "2026-10-05T06:49:56+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +61,13 @@
   {
    "date_as_written": "1998-03-19 00:00:00",
    "number_as_written": "186/KMK.04/1998",
+   "page_retrieved_at": "2026-10-05T14:34:00+00:00",
    "retrieved_at": "2026-09-21T14:52:02+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Ketetapan Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/186-kmk-04-1998"
+   "url": "https://jdih.kemenkeu.go.id/dok/186-kmk-04-1998",
+   "validity_as_written": "19 Mar 1998 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -77,7 +101,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK"

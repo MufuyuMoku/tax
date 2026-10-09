@@ -45,7 +45,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 243/PMK.03/2014 — Surat Pemberitahuan (Spt).",
+    "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -61,11 +68,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "185/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:14:24+00:00",
    "retrieved_at": "2026-09-21T14:43:51+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Penerimaan dan Pengelolaan Surat Pemberitahuan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/185-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/185-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

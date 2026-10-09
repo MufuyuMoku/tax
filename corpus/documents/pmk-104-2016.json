@@ -87,7 +87,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 237/PMK.010/2020 — Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus",
+    "url": "https://jdih.kemenkeu.go.id/dok/237-pmk-010-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -103,11 +110,13 @@
   {
    "date_as_written": "2016-06-30 00:00:00",
    "number_as_written": "104/PMK.010/2016",
+   "page_retrieved_at": "2026-10-05T13:05:55+00:00",
    "retrieved_at": "2026-09-21T14:29:01+00:00",
    "source": "JDIH",
    "title_as_written": "Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/104-pmk-010-2016"
+   "url": "https://jdih.kemenkeu.go.id/dok/104-pmk-010-2016",
+   "validity_as_written": "30 Jun 2016 - 30 Des 2020"
   }
  ],
  "status": {

@@ -19,22 +19,50 @@
   "year": "2000"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T04:01:08+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/37e9a482-3e7c-48b3-921a-f4a7397c8888/148~kmk.04~2000kep.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kmk-564-kmk-04-2000",
+    "key": [
+     "KMK",
+     "564/KMK.04",
+     "2000",
+     null
+    ],
+    "number_as_written": "564/KMK.04/2000",
+    "quote": "Pasal 4 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 148/KMK.04/2000 tentang Tata Cara Pelaksanaan Surat Paksa dan Penyitaan di Luar Wilayah Kerja Pejabat Yang Menerbitkan Surat Paksa dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN SURAT PAKSA DAN PENYITAAN DI LUAR WILAYAH KERJA PEJABAT YANG MENERBITKAN SURAT PAKSA"
+   }
+  ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 564/KMK.04/2000 — Tatacara Pelaksanaan Surat Paksa dan Penyitaan di Luar Wilayah Kerja Pejabat yang Menerbitkan Surat Paksa",
+    "url": "https://jdih.kemenkeu.go.id/dok/564-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-05-17",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "148/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:58:48+00:00",
+   "retrieved_at": "2026-10-05T06:46:27+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PELAKSANAAN SURAT PAKSA DAN PENYITAAN DI LUAR WILAYAH KERJA PEJABAT YANG MENERBITKAN SURAT PAKSA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -43,6 +71,7 @@
   {
    "date_as_written": "2000-05-17 00:00:00",
    "number_as_written": "148/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:33:20+00:00",
    "retrieved_at": "2026-09-21T14:50:22+00:00",
    "selected_because": [
     "label"
@@ -50,7 +79,8 @@
    "source": "JDIH",
    "title_as_written": "Tatacara Pelaksanaan Surat Paksa dan Penyitaan di Luar Wilayah Kerja Pejabat yang Menerbitkan Surat Paksa",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/148-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/148-kmk-04-2000",
+   "validity_as_written": "17 Mei 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -84,7 +114,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "TATA CARA PELAKSANAAN SURAT PAKSA DAN PENYITAAN DI LUAR WILAYAH KERJA PEJABAT YANG MENERBITKAN SURAT PAKSA"

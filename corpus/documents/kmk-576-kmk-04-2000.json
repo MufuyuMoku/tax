@@ -16,21 +16,105 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "kmk-576-kmk-04-2000--b000-1",
+  "kmk-576-kmk-04-2000--b001-2",
+  "kmk-576-kmk-04-2000--b002-3",
+  "kmk-576-kmk-04-2000--b003-4"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 155/KMK.03/2001 TENTANG PELAKSANAAN PAJAK PERTAMBAHAN NILAI YANG DIBEBASKAN ATAS IMPOR DAN ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-155kmk032001-tentang-pelaksanaan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA KEPUTUSAN MENTERI KEUANGAN NOMOR 254/KMK.03/2001 TENTANG PENUNJUKAN PEMUNGUTAN PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-keputusan-menteri-keuangan-nomor-254kmk032001-tentang-penunjukan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI, KARYAWAN/KARYAWATI HARIAN DAN MINGGUAN SERTA ATAS PENGHASILAN BERUPA HONORARIUM YANG TIDAK TERATUR",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemotongan-pajak-penghasilan-atas-penghasilan-sehubungan-dengan-pekerjaan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KEGIATAN SEWA GUNA USAHA (LEASING)",
+    "url": "https://www.pajak.go.id/id/peraturan/kegiatan-sewa-guna-usaha-leasing-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "MACAM DAN JENIS SERTA BATASAN HARGA JUAL KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/macam-dan-jenis-serta-batasan-harga-jual-kendaraan-bermotor-yang-dikenakan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBAYARAN PAJAK MELALUI PEMINDAHBUKUAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pajak-melalui-pemindahbukuan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 637/KMK.04/1994 TENTANG PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, ATAU PEMEKARAN USAHA, SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN R.I. NOMOR 474/KMK.04/1995",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-637kmk041994-tentang-1"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PERPAJAKAN DAN PEMBEBASAN BEA MASUK UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU BIAK",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-pembebasan-bea-masuk-untuk-kawasan-pengembangan-ekonomi-terpadu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 28 APRIL SAMPAI DENGAN 4 MEI 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-233"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PENGHITUNGAN PPh PASAL 21 UNTUK BULAN APRIL, MEI DAN JUNI 1984",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-penghitungan-pph-pasal-21-untuk-bulan-april-mei-dan-juni-1984"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 97/PMK.03/2005 — Perubahan atas Keputusan Menteri Keuangan Nomor 576/KMK.04/2000 tentang Persyaratan Seorang Kuasa untuk Menjalankan Hak dan Memenuhi Kewajiban Menurut Ketentuan Perundang-Undangan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/97-pmk-03-2005"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "576/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:56:42+00:00",
+   "retrieved_at": "2026-10-05T06:36:00+00:00",
    "source": "DJP",
    "title_as_written": "PERSYARATAN SEORANG KUASA UNTUK MENJALANKAN HAK DAN MEMENUHI KEWAJIBAN MENURUT KETENTUAN PERUNDANG-UNDANGAN PERPAJAKAN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +123,13 @@
   {
    "date_as_written": "2000-12-26 00:00:00",
    "number_as_written": "576/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:26:34+00:00",
    "retrieved_at": "2026-09-21T14:49:30+00:00",
    "source": "JDIH",
    "title_as_written": "Persyaratan Seorang Kuasa untuk Menjalankan Hak dan Memenuhi Kewajiban Menurut Ketentuan Perundang-Undangan Perpajakan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/576-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/576-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -70,16 +156,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 2638,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:36:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/persyaratan-seorang-kuasa-untuk-menjalankan-hak-dan-memenuhi-kewajiban-menurut-ketentuan"
  },
  "title": "PERSYARATAN SEORANG KUASA UNTUK MENJALANKAN HAK DAN MEMENUHI KEWAJIBAN MENURUT KETENTUAN PERUNDANG-UNDANGAN PERPAJAKAN"
 }

@@ -75,7 +75,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 22/PMK.03/2020 — Tata Cara Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement)",
+    "url": "https://jdih.kemenkeu.go.id/dok/22-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -91,6 +98,7 @@
   {
    "date_as_written": "2015-01-12 00:00:00",
    "number_as_written": "7/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:14:01+00:00",
    "retrieved_at": "2026-09-21T14:31:42+00:00",
    "selected_because": [
     "judul"
@@ -98,7 +106,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pembentukan dan Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement).",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/7-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/7-pmk-03-2015",
+   "validity_as_written": "12 Jan 2015 - s.d. Dicabut"
   }
  ],
  "status": {

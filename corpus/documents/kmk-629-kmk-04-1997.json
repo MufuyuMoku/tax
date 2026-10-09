@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1997-12-22",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "629/KMK.04/1997",
-   "retrieved_at": "2026-10-03T04:00:11+00:00",
+   "retrieved_at": "2026-10-05T06:52:21+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 609/KMK.04/1994 TENTANG PENYELENGGARAAN PEMBUKUAN DALAM BAHASA ASING DAN MATA UANG SELAIN RUPIAH BAGI WAJIB PAJAK DALAM RANGKA PENANAMAN MODAL ASING, KONTRAK KARYA, KONTRAK BAGI HASIL, DAN KEGIATAN USAHA ATAU BADAN LAIN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 609/KMK.04/1994 TENTANG PENYELENGGARAAN PEMBUKUAN DALAM BAHASA ASING DAN MATA UANG SELAIN RUPIAH BAGI WAJIB PAJAK DALAM RANGKA PENANAMAN MODAL ASING, KONTRAK KARYA, KONTRAK BAGI HASIL, DAN KEGIATAN USAHA ATAU BADAN LAIN"

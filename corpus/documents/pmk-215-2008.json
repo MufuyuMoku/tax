@@ -136,7 +136,50 @@
     "target_id": "pmk-87-2007"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 87/PMK.03/2007 — Perubahan Keenam atas Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-Organisasi  Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subyek Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 547/KMK.04/2000 — Penunjukan Bendaharawan Pemerintah, Badan-Badan Tertentu dan Instansi Pemerintah Tertentu untuk Memungut, Menyetor dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/547-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 156/PMK.010/2015 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/156-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 15/PMK.03/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 142/PMK.03/2010 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 166/PMK.011/2012 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/166-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 235/PMK.010/2020 — Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-010-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -152,6 +195,7 @@
   {
    "date_as_written": "2008-12-16 00:00:00",
    "number_as_written": "215/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T13:59:00+00:00",
    "retrieved_at": "2026-09-21T14:42:10+00:00",
    "selected_because": [
     "judul",
@@ -160,7 +204,8 @@
    "source": "JDIH",
    "title_as_written": "Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subyek Pajak Penghasilan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2008",
+   "validity_as_written": "16 Des 2008 - 30 Des 2020"
   }
  ],
  "status": {

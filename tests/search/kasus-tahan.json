@@ -90,9 +90,16 @@
     {
       "id": "denda-telat-spt",
       "pertanyaan": "Berapa rincian denda jika telat atau tidak melaporkan SPT Tahunan?",
-      "golongan": "b",
-      "dasar_di_luar_situs": "UU KUP Pasal 7 ayat (1) (sanksi denda keterlambatan SPT) dan Pasal 38/39 untuk tidak menyampaikan SPT; kategori KUP, di luar cakupan v1 (M6).",
-      "catatan": "KEP-DJP 79/2025 di korpus hanya menghapus sanksi keterlambatan untuk Tahun Pajak 2024; bukan rincian dendanya."
+      "golongan": "a",
+      "catatan": "2026-10-09: golongan b menjadi a karena KUP masuk korpus (M5). Jawaban: UU 28/2007 Pasal I, yang mengubah Pasal 7 ayat (1) UU KUP. Pasal 38/39 (pidana) tidak dijadikan jawaban. KEP-DJP 79/2025 di korpus hanya menghapus sanksi keterlambatan untuk Tahun Pajak 2024.",
+      "jawaban": [
+        {
+          "dokumen": "uu-28-2007",
+          "pasal": "uu-28-2007--b000-i",
+          "kutipan": "dikenai sanksi administrasi berupa denda sebesar Rp500.000,00 (lima ratus ribu rupiah) untuk Surat Pemberitahuan Masa Pajak Pertambahan Nilai, Rp100.000,00 (seratus ribu rupiah) untuk Surat Pemberitahuan Masa lainnya, dan sebesar Rp1.000.000,00 (satu juta rupiah) untuk Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak badan"
+        }
+      ],
+      "tidak_bersih": "Set evaluasi punya pertanyaan 'denda telat lapor' dengan pasal jawaban yang sama (K-064)."
     },
     {
       "id": "pemadanan-nik",

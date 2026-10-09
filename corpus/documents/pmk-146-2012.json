@@ -65,7 +65,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 238/PMK.03/2016 — Pencabutan atas Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Perpajakan dalam Rangka Simplifikasi Regulasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/238-pmk-03-2016"
+   }
+  ]
  },
  "source_records": [
   {
@@ -81,11 +88,13 @@
   {
    "date_as_written": "2012-09-10 00:00:00",
    "number_as_written": "146/PMK.03/2012",
+   "page_retrieved_at": "2026-10-05T13:25:50+00:00",
    "retrieved_at": "2026-09-21T14:35:57+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Verifikasi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/146-pmk-03-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/146-pmk-03-2012",
+   "validity_as_written": "10 Sep 2012 - s.d. Dicabut"
   }
  ],
  "status": {

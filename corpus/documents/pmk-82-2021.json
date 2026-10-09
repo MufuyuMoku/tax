@@ -61,7 +61,26 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 9/PMK.03/2021 — Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 149/PMK.03/2021 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2021 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 3/PMK.03/2022 — Insentif Pajak Untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/3-pmk-03-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -77,11 +96,13 @@
   {
    "date_as_written": "2021-07-01 00:00:00",
    "number_as_written": "82/PMK.03/2021",
+   "page_retrieved_at": "2026-10-05T06:38:39+00:00",
    "retrieved_at": "2026-09-21T14:21:17+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2021 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2021"
+   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2021",
+   "validity_as_written": "01 Jul 2021 - 02 Feb 2022"
   }
  ],
  "status": {

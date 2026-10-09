@@ -42,7 +42,32 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 9 TAHUN 1994 — Perubahan atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-9-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 28 TAHUN 2007 — Perubahan Ketiga atas Undang-Undangan Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 16 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 6 TAHUN 1983 — Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-1983"
+   }
+  ]
  },
  "source_records": [
   {
@@ -58,11 +83,13 @@
   {
    "date_as_written": "2008-12-31 00:00:00",
    "number_as_written": "PERPU 5 TAHUN 2008",
+   "page_retrieved_at": "2026-10-05T13:56:59+00:00",
    "retrieved_at": "2026-09-21T14:05:25+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
    "type_as_written": "Peraturan Pemerintah Pengganti Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/perpu-5-tahun-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/perpu-5-tahun-2008",
+   "validity_as_written": "31 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

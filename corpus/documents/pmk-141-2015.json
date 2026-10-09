@@ -19,7 +19,13 @@
   "year": "2015"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:28:58+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ddc706d2-1eb6-44a1-ba5c-a47cc5d2cdd0/141~PMK.03~2015Per.pdf"
+  }
+ ],
  "pasal_ids": [
   "pmk-141-2015--b000-1",
   "pmk-141-2015--b001-2",
@@ -61,7 +67,14 @@
     "target_id": "uu-36-2008"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 244/PMK.03/2008 — Jenis Jasa Lain Sebagaimana Dimaksud dalam Pasal 23 Ayat (1) Huruf C Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008.",
+    "url": "https://jdih.kemenkeu.go.id/dok/244-pmk-03-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -77,6 +90,7 @@
   {
    "date_as_written": "2015-07-24 00:00:00",
    "number_as_written": "141/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:11:19+00:00",
    "retrieved_at": "2026-09-21T14:30:39+00:00",
    "selected_because": [
     "judul"
@@ -84,7 +98,8 @@
    "source": "JDIH",
    "title_as_written": "Jenis Jasa Lain Sebagaimana Dimaksud dalam Pasal 23 Ayat (1) Huruf C Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-03-2015",
+   "validity_as_written": "24 Jul 2015 - s.d. Dicabut"
   }
  ],
  "status": {

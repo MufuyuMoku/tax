@@ -63,7 +63,38 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 254/KMK.03/2001 — Penunjukan Pemungut Pph Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya",
+    "url": "https://jdih.kemenkeu.go.id/dok/254-kmk-03-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 236/KMK.03/2003 — Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tata Cara Penyetoran dan Pelaporannya",
+    "url": "https://jdih.kemenkeu.go.id/dok/236-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 392/KMK.03/2001 — Perubahan atas Kepmenkeu No. 254/KMK.03/2001 tentang Penunjukan Pemungut Pph Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya",
+    "url": "https://jdih.kemenkeu.go.id/dok/392-kmk-03-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 08/PMK.03/2008 — Perubahan Keempat atas Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tatacara Penyetoran dan Pelaporannya",
+    "url": "https://jdih.kemenkeu.go.id/dok/08-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 154/PMK.03/2010 — Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2010"
+   }
+  ]
  },
  "source_records": [
   {
@@ -79,6 +110,7 @@
   {
    "date_as_written": "2008-12-11 00:00:00",
    "number_as_written": "210/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T13:59:21+00:00",
    "retrieved_at": "2026-09-21T14:42:14+00:00",
    "selected_because": [
     "judul",
@@ -87,7 +119,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kelima atas Keputusan Menteri Keuangan Nomor 254/KMK.03/2001 tentang Penunjukan Pemungut Pajak Penghasilan Pasal 22, Sifat dan Besarnya Pungutan Serta Tata Cara Penyeloran dan Pelaporan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/210-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/210-pmk-03-2008",
+   "validity_as_written": "11 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

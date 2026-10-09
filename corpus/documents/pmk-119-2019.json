@@ -65,7 +65,26 @@
     "target_id": "pmk-158-2016"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 158/PMK.02/2016 — Perubahan atas Peraturan Menteri Keuangan Nomor 218/PMK.02/2014 tentang Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/158-pmk-02-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 218/PMK.02/2014 — Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/218-pmk-02-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 139 TAHUN 2024 — Tata Cara Pembayaran atas Tagihan kepada Pemerintah dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-139-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -81,11 +100,13 @@
   {
    "date_as_written": "2019-08-16 00:00:00",
    "number_as_written": "119/PMK.02/2019",
+   "page_retrieved_at": "2026-10-05T06:56:38+00:00",
    "retrieved_at": "2026-09-21T14:24:05+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pembayaran Kembali (Reimbursement) Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah atas Perolehan Barang Kena Pajak Dan/ atau Jasa Kena Pajak Kepada Kontraktor dalam Kegiatan Usaha Hulu Minyak dan Gas Bumi",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-02-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-02-2019",
+   "validity_as_written": "16 Agu 2019 - 31 Des 2024"
   }
  ],
  "status": {

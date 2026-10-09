@@ -55,7 +55,32 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 70/PMK.03/2017 — Petunjuk Teknis Mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 73/PMK.03/2017 — Perubahan atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis Mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/73-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 19/PMK.03/2018 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis Mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/19-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 108 TAHUN 2025 — Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-108-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +96,13 @@
   {
    "date_as_written": "2024-07-18 00:00:00",
    "number_as_written": "PMK 47 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T06:30:11+00:00",
    "retrieved_at": "2026-09-21T14:17:08+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 70/PMK.03/2017 tentang Petunjuk Teknis mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-47-tahun-2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-47-tahun-2024",
+   "validity_as_written": "06 Agu 2024 - 31 Des 2025"
   }
  ],
  "status": {

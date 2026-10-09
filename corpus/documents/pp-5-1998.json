@@ -21,16 +21,31 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pp-137-2000",
+    "key": [
+     "PP",
+     "137",
+     "2000",
+     null
+    ],
+    "number_as_written": "137 TAHUN 2000",
+    "quote": "Pasal 17 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 5 Tahun 1998 tentang Tata Cara Penyanderaan Dalam Rangka Penagihan Pajak Dengan Surat Paksa (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 7, Tambahan Lembaran Negara Nomor 3727) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TEMPAT DAN TATA CARA PENYANDERAAN, REHABILITASI NAMA BAIK PENANGGUNG PAJAK, DAN PEMBERIAN GANTI RUGI DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "1998-01-07",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "5 TAHUN 1998",
-   "retrieved_at": "2026-10-03T04:00:11+00:00",
+   "retrieved_at": "2026-10-05T06:51:18+00:00",
    "source": "DJP",
    "title_as_written": "PENYANDERAAN DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
    "type_as_written": "Peraturan Pemerintah",
@@ -38,7 +53,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +75,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENYANDERAAN DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"

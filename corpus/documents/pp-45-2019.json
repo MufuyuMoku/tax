@@ -61,7 +61,26 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 94 TAHUN 2010 — Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-94-tahun-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 9 TAHUN 2021 — Perlakuan Perpajakan Untuk Mendukung Kemudahan Berusaha",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PP 55 TAHUN 2022 — Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -77,6 +96,7 @@
   {
    "date_as_written": "2019-06-25 00:00:00",
    "number_as_written": "PP 45 TAHUN 2019",
+   "page_retrieved_at": "2026-10-05T07:03:47+00:00",
    "retrieved_at": "2026-09-21T14:06:35+00:00",
    "selected_because": [
     "judul",
@@ -85,7 +105,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 94 Tahun 2010 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-2019",
+   "validity_as_written": "25 Jun 2019 - 20 Des 2022"
   }
  ],
  "status": {

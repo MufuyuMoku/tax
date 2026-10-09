@@ -67,7 +67,20 @@
     "target_id": "pmk-138-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 138/PMK.03/2005 — Penetapan Bagian Penghsailan Sehubungan dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/138-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 206/PMK.011/2012 — Penetapan Bagian Penghasilan Sehubungan dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-011-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -83,6 +96,7 @@
   {
    "date_as_written": "2008-12-31 00:00:00",
    "number_as_written": "254/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T13:56:39+00:00",
    "retrieved_at": "2026-09-21T14:41:58+00:00",
    "selected_because": [
     "judul"
@@ -90,7 +104,8 @@
    "source": "JDIH",
    "title_as_written": "Penetapan Bagian Penghasilan Sehubungan dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/254-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/254-pmk-03-2008",
+   "validity_as_written": "31 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

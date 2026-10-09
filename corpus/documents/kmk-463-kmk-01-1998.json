@@ -27,7 +27,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 239/KMK.01/1996 — Pelaksanaan Peraturan Pemerintah Nomor 42 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/239-kmk-01-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 486/KMK.04/2000 — Perubahan Kedua Kepmenkeu No.239/KMK.01/1996 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
@@ -43,6 +56,7 @@
   {
    "date_as_written": "1998-10-21 00:00:00",
    "number_as_written": "463/KMK.01/1998",
+   "page_retrieved_at": "2026-10-06T03:37:13+00:00",
    "retrieved_at": "2026-09-21T14:51:30+00:00",
    "selected_because": [
     "judul"
@@ -50,7 +64,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kepmenkeu No.239/KMK.01/1996 tentang Pelaksanaan Pp.42/1991 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppn Bm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/463-kmk-01-1998"
+   "url": "https://jdih.kemenkeu.go.id/dok/463-kmk-01-1998",
+   "validity_as_written": "21 Okt 1998 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -97,7 +97,32 @@
     "target_id": "kmk-84-kmk-03-2002"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 84/KMK.03/2002 — Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 522/KMK.94/2000 tentang Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi,, Badan Usaha Milik Negara, Badan Usaha Milik Daerah dan Wajib Pajak Lainnya Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/84-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 522/KMK.04/2000 — Penghitungan Besarnya Angsuran Pph dalam Tahun Pajak Berjalan Yg Harus Dibayar Sendiri oleh Wajib Pajak, Bank, Sewa Guna Usaha dengan Hak Opsi, Bumn. Bumd dan Wajip Pajak Lainnya Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/522-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 208/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 255/PMK.03/2008 tentang Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa dan Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/208-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 215/PMK.03/2018 — Penghitungan Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa, Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala dan Wajib Pajak Orang Pribadi Pengusaha Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -113,6 +138,7 @@
   {
    "date_as_written": "2008-12-31 00:00:00",
    "number_as_written": "255/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T13:56:18+00:00",
    "retrieved_at": "2026-09-21T14:41:58+00:00",
    "selected_because": [
     "judul",
@@ -121,7 +147,8 @@
    "source": "JDIH",
    "title_as_written": "Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa dan Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/255-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/255-pmk-03-2008",
+   "validity_as_written": "31 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

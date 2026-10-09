@@ -21,16 +21,38 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kmk-541-kmk-04-2000",
+    "key": [
+     "KMK",
+     "541/KMK.04",
+     "2000",
+     null
+    ],
+    "number_as_written": "541/KMK.04/2000",
+    "quote": "Pasal 11 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 606/KMK.04/1994 tentang Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Tempat Pembayaran Pajak, Tata Cara Pembayaran, Penyetoran, dan Pelaporan Pajak, serta Tata Cara Pengangsuran dan Penundaan Pembayaran Pajak sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 251/KMK.04/1995 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PEMBERIAN ANGSURAN ATAU PENUNDAAN PEMBAYARAN PAJAK"
+   }
+  ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 541/KMK.04/2000 — Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Tempat Pembayaran, Tatacara Pembayaran, Penyetoran dan Pelapor-\r\nAn Serta Tatacara Pemberian Angsuran atau Penundaan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/541-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1994-12-21",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "606/KMK.04/1994",
-   "retrieved_at": "2026-10-03T04:03:18+00:00",
+   "retrieved_at": "2026-10-05T07:06:49+00:00",
    "source": "DJP",
    "title_as_written": "PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +61,13 @@
   {
    "date_as_written": "1994-12-21 00:00:00",
    "number_as_written": "606/KMK.04/1994",
+   "page_retrieved_at": "2026-10-05T14:40:05+00:00",
    "retrieved_at": "2026-09-21T14:53:55+00:00",
    "source": "JDIH",
    "title_as_written": "Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Tempat Pembayaran Pajak, Tata Cara Pembayaran, Penyetoran, dan Pelaporan Pajak, Serta Tata Cara Pengangsuran dan Penundaan Pembayaran Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/606-kmk-04-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/606-kmk-04-1994",
+   "validity_as_written": "21 Des 1994 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -77,7 +101,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK"

@@ -18,7 +18,7 @@ class TestAgreement(unittest.TestCase):
     def test_single_source_is_marked_as_such(self):
         result = status.resolve([claim("DJP", "Dicabut")])
         self.assertEqual(result["value"], "tidak_berlaku")
-        self.assertTrue(result["note"].startswith("klaim satu sumber saja"))
+        self.assertIn("saja; belum dibandingkan", result["note"])
 
     def test_verbatim_value_is_kept(self):
         claims = [claim("DJP", "Diubah/Disempurnakan/Dicabut sebagian")]

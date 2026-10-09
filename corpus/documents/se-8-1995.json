@@ -15,7 +15,20 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:21:08+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/15da5e83-d051-4af5-b571-247719cdb146/SE-08~PJ.4~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:21:50+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a891e192-c740-413b-a1a1-d15e519f8811/SE-08~BC~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -44,6 +57,7 @@
   {
    "date_as_written": "1995-02-23 00:00:00",
    "number_as_written": "SE SE-08/PJ.4/1995",
+   "page_retrieved_at": "2026-10-09T01:21:08+00:00",
    "retrieved_at": "2026-09-21T15:00:52+00:00",
    "selected_because": [
     "judul"
@@ -51,11 +65,13 @@
    "source": "JDIH",
    "title_as_written": "Wajib Pajak Orang Pribadi dalam Negeri yang Ditunjuk Sebagai Pemotong Pph Pasal 23 (Seri Pph Pasal 23/26-3)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-pj-4-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-pj-4-1995",
+   "validity_as_written": "23 Feb 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-05-24 00:00:00",
    "number_as_written": "SE SE-08/BC/1995",
+   "page_retrieved_at": "2026-10-09T01:21:50+00:00",
    "retrieved_at": "2026-09-21T15:00:52+00:00",
    "selected_because": [
     "judul"
@@ -63,7 +79,8 @@
    "source": "JDIH",
    "title_as_written": "Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Dana Pinjaman Luar Negeri",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-bc-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-08-bc-1995",
+   "validity_as_written": "24 Mei 1995 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -98,7 +115,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Wajib Pajak Orang Pribadi dalam Negeri yang Ditunjuk Sebagai Pemotong Pph Pasal 23 (Seri Pph Pasal 23/26-3)"

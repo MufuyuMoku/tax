@@ -30,6 +30,17 @@ const relations = [
   { kind: "revoked_by", label: "Dicabut oleh", items: doc.relations.revoked_by },
   { kind: "amended_by", label: "Diubah oleh", items: doc.relations.amended_by },
 ].filter((group) => group.items.length > 0);
+
+// Files fetched from JDIH whose text is not shown: linked unless JDIH answered 404 for them.
+const openableFiles = (doc.original_files || []).filter((file) => !file.missing);
+const heldBack = (doc.original_files || []).some((file) => /belum dimasukkan/.test(file.reason));
+const fileType = (url) => (url.split(".").pop() || "").toUpperCase();
+
+// One source: say whose claim it is and when it was taken, nothing about the other source.
+const singleSource = new Set(doc.status_claims.map((c) => c.source)).size === 1;
+const statusNote = doc.status.note
+  ? doc.status.note + (singleSource ? `, diambil ${formatDate(doc.status_claims.map((c) => c.retrieved_at).sort().at(-1))}` : "")
+  : "";
 ---
 
 <Base title={`${number} — Tax`} description={doc.title}>
@@ -78,7 +89,7 @@ const relations = [
   ) : (
     <p>
       {statusLabel(doc.status.value)}
-      {doc.status.note && <span class="hint"> ({doc.status.note})</span>}
+      {doc.status.note && <span class="hint">{` (${statusNote})`}</span>}
     </p>
   )}
 
@@ -103,6 +114,8 @@ const relations = [
           {record.type_as_written}
           {record.date_as_written ? ` · ${formatDate(record.date_as_written)}` : ""} · diambil{" "}
           {formatDate(record.retrieved_at)}
+          {record.validity_as_written &&
+            ` · masa berlaku di halaman JDIH: ${record.validity_as_written} (diambil ${formatDate(record.page_retrieved_at)})`}
         </span>
         <a href={record.url} rel="noopener">buka</a>
       </li>
@@ -135,7 +148,7 @@ const relations = [
                     ) : (
                       <>
                         <span>{label}</span>
-                        <span class="hint"> — di luar korpus PPh, tidak ada halamannya di sini</span>
+                        <span class="hint"> — di luar korpus situs ini, tidak ada halamannya di sini</span>
                       </>
                     )}
                     {item.title && <span class="hint"> — {item.title}</span>}
@@ -223,17 +236,18 @@ const relations = [
   {!doc.text.available ? (
     <div class="notice">
       <p>
-        <strong>Teks tidak tersedia di sumber.</strong> {doc.text.unavailable_reason}. Yang bisa
+        <strong>{heldBack ? "Teks belum dimuat di situs ini." : "Teks tidak tersedia di sumber."}</strong>{" "}
+        {doc.text.unavailable_reason}. Yang bisa
         ditampilkan hanya metadata di atas. Buka halaman sumbernya untuk memastikan sendiri.
       </p>
-      {(doc.original_files || []).length > 0 && (
+      {openableFiles.length > 0 && (
         <p>
           Berkas aslinya:{" "}
-          {doc.original_files.map((file, i) => (
+          {openableFiles.map((file, i) => (
             <>
               {i > 0 && " · "}
-              <a href={file.url} rel="noopener">buka PDF di JDIH</a>
-              <span class="hint"> ({file.reason}, diambil {formatDate(file.retrieved_at)})</span>
+              <a href={file.url} rel="noopener">buka berkas {fileType(file.url)} di JDIH</a>
+              <span class="hint"> (diambil {formatDate(file.retrieved_at)})</span>
             </>
           ))}
         </p>

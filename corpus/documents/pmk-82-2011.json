@@ -55,7 +55,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 199/PMK.03/2007 — Tatacara Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 17/PMK.03/2013 — Tata Cara Pemeriksaan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +84,13 @@
   {
    "date_as_written": "2011-05-03 00:00:00",
    "number_as_written": "82/PMK.03/2011",
+   "page_retrieved_at": "2026-10-05T13:32:35+00:00",
    "retrieved_at": "2026-09-21T14:38:03+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2011"
+   "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2011",
+   "validity_as_written": "03 Mei 2011 - s.d. Dicabut"
   }
  ],
  "status": {

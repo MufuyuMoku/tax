@@ -55,7 +55,26 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 39/PMK.03/2018 — Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 209/PMK.03/2021 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/209-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 28 TAHUN 2026 — Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-28-tahun-2026"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +90,13 @@
   {
    "date_as_written": "2019-08-16 00:00:00",
    "number_as_written": "117/PMK.03/2019",
+   "page_retrieved_at": "2026-10-05T06:56:58+00:00",
    "retrieved_at": "2026-09-21T14:24:09+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/117-pmk-03-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/117-pmk-03-2019",
+   "validity_as_written": "16 Agu 2019 - s.d. Dicabut"
   }
  ],
  "status": {

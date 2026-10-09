@@ -54,7 +54,20 @@
     "target_id": "pmk-38-2010"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 38/PMK.03/2010 — Tata Cara Pembuatan dan Tata Cara Pembetulan atau Penggantian Faktur Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/38-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 151/PMK.03/2013 — Tata Cara Pembuatan dan Tata Cara Pembetulan atau Penggantian Faktur Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/151-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -70,11 +83,13 @@
   {
    "date_as_written": "2012-06-06 00:00:00",
    "number_as_written": "84/PMK.03/2012",
+   "page_retrieved_at": "2026-10-05T13:27:11+00:00",
    "retrieved_at": "2026-09-21T14:36:24+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pembuatan dan Tata Cara Pembetulan atau Penggantian Faktur Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/84-pmk-03-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/84-pmk-03-2012",
+   "validity_as_written": "06 Jun 2012 - s.d. Dicabut"
   }
  ],
  "status": {

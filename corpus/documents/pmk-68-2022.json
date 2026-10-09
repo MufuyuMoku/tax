@@ -103,6 +103,7 @@
   {
    "date_as_written": "2022-03-30 00:00:00",
    "number_as_written": "68/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T14:55:39+00:00",
    "retrieved_at": "2026-09-21T14:19:42+00:00",
    "selected_because": [
     "judul"
@@ -110,7 +111,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2022",
+   "validity_as_written": "01 Mei 2022 - s.d. Dicabut"
   }
  ],
  "status": {

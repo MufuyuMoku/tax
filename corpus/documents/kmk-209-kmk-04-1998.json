@@ -44,7 +44,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 766/KMK.04/1992 — Tatacara Penghitungan, Penyetoran dan Pelaporan Bagian Pemerintah, Pph, Ppn dan Pungutan-Pungutan Lainnya atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi / Listrik",
+    "url": "https://jdih.kemenkeu.go.id/dok/766-kmk-04-1992"
+   }
+  ]
  },
  "source_records": [
   {
@@ -60,6 +67,7 @@
   {
    "date_as_written": "1998-04-09 00:00:00",
    "number_as_written": "209/KMK.04/1998",
+   "page_retrieved_at": "2026-10-06T03:40:42+00:00",
    "retrieved_at": "2026-09-21T14:51:57+00:00",
    "selected_because": [
     "judul",
@@ -68,7 +76,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kepmenkeu No.766/KMK.04/1992 tentang Tata Cara Penghitungan Penyetoran dan Pelaporan Bagian Pemerintah Pph, Ppn dan Pungutan-Pungutan Lainnya  atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/209-kmk-04-1998"
+   "url": "https://jdih.kemenkeu.go.id/dok/209-kmk-04-1998",
+   "validity_as_written": "09 Apr 1998 - s.d. Dicabut"
   }
  ],
  "status": {

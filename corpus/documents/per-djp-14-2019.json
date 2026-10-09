@@ -50,6 +50,7 @@
   {
    "date_as_written": "2019-07-03 00:00:00",
    "number_as_written": "PER-14/PJ/2019",
+   "page_retrieved_at": "2026-10-05T06:58:00+00:00",
    "retrieved_at": "2026-09-21T14:57:13+00:00",
    "selected_because": [
     "judul"
@@ -57,7 +58,8 @@
    "source": "JDIH",
    "title_as_written": "Pencabutan Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2010 tentang Pelaksanaan Pengenaan Pajak Penghasilan Pasal 25 Bagi Wajib Pajak Orang Pribadi Pengusaha Tertentu",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-14-pj-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-14-pj-2019",
+   "validity_as_written": "03 Jul 2019 - s.d. Dicabut"
   }
  ],
  "status": {

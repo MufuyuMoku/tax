@@ -107,6 +107,7 @@
   {
    "date_as_written": "2020-12-28 00:00:00",
    "number_as_written": "PER-23/PJ/2020",
+   "page_retrieved_at": "2026-10-05T06:44:05+00:00",
    "retrieved_at": "2026-09-21T14:56:41+00:00",
    "selected_because": [
     "judul"
@@ -114,7 +115,8 @@
    "source": "JDIH",
    "title_as_written": "Bentuk dan Tata Cara Pembuatan Bukti Pemotongan/Pemungutan Unifikasi serta Bentuk, Isi, Tata Cara Pengisian dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-23-pj-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-23-pj-2020",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
   }
  ],
  "status": {

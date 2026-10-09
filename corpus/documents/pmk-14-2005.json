@@ -27,7 +27,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 213/PMK.03/2018 — Pencabutan Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/213-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -43,11 +50,13 @@
   {
    "date_as_written": "2005-02-22 00:00:00",
    "number_as_written": "14/PMK.03/2005",
+   "page_retrieved_at": "2026-10-05T14:21:29+00:00",
    "retrieved_at": "2026-09-21T14:46:50+00:00",
    "source": "JDIH",
    "title_as_written": "Persyaratan Sumbangan Serta Tata Cara Pendaftaran, dan Pelaporan oleh Penampung, Penyalur dan/atau Pengelola Sumbangan dalam Rangka Bantuan Kemanusiaan Bencana Alam di Nangro Aceh Darusalam dan Sumatera Utara",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/14-pmk-03-2005"
+   "url": "https://jdih.kemenkeu.go.id/dok/14-pmk-03-2005",
+   "validity_as_written": "22 Feb 2005 - 20 Jul 2020"
   }
  ],
  "status": {

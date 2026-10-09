@@ -62,7 +62,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 54/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 193/PMK.03/2007 tentang Batasan Jumlah Peredaran Usaha, Jumlah Penyerahan, dan Jumlah Lebih Bayar Bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/54-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 198/PMK.03/2013 — Pengembalian Pendahuluan Kelebihan Pembayaran Pajak Bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,11 +101,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "193/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:11:42+00:00",
    "retrieved_at": "2026-09-21T14:43:47+00:00",
    "source": "JDIH",
    "title_as_written": "Batasan Jumlah Peredaran Usaha, Jumlah Penyerahan, dan Jumlah Lebih Bayar Bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/193-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/193-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

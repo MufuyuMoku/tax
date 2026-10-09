@@ -41,7 +41,44 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 16/PMK.03/2013 — Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 95/PMK.03/2013 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/95-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 79/PMK.03/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/79-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 228/PMK.03/2017 — Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi Yang\r\nBerkaitan dengan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/228-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 39/PMK.03/2016 — Perubahan Kelima atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 191/PMK.03/2014 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/191-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -57,11 +94,13 @@
   {
    "date_as_written": "2013-09-30 00:00:00",
    "number_as_written": "132/PMK.03/2013",
+   "page_retrieved_at": "2026-10-05T13:20:06+00:00",
    "retrieved_at": "2026-09-21T14:34:22+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 16/PMK.03/2013 tentang Rincian Jenis Data dan Informasi Serta Tata Cara Penyampaian Data dan Informasi yang Berkaitan dengan Perpajakan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/132-pmk-03-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/132-pmk-03-2013",
+   "validity_as_written": "30 Sep 2013 - s.d. Dicabut"
   }
  ],
  "status": {

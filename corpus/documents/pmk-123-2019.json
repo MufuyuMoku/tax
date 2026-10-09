@@ -53,7 +53,32 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 1/PMK.03/2015 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/1-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 196/PMK.03/2007 — Tatacara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Pajak Penghasilan Wajib Pajak Badan",
+    "url": "https://jdih.kemenkeu.go.id/dok/196-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 24/PMK.011/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/24-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -69,6 +94,7 @@
   {
    "date_as_written": "2019-08-27 00:00:00",
    "number_as_written": "123/PMK.03/2019",
+   "page_retrieved_at": "2026-10-05T06:55:57+00:00",
    "retrieved_at": "2026-09-21T14:24:05+00:00",
    "selected_because": [
     "judul",
@@ -77,7 +103,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2019",
+   "validity_as_written": "27 Agu 2019 - 18 Okt 2024"
   }
  ],
  "status": {

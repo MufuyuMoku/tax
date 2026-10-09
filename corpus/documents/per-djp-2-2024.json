@@ -102,6 +102,7 @@
   {
    "date_as_written": "2024-01-19 12:00:00",
    "number_as_written": "PER-2/PJ/2024",
+   "page_retrieved_at": "2026-10-05T06:30:52+00:00",
    "retrieved_at": "2026-09-21T14:55:35+00:00",
    "selected_because": [
     "judul"
@@ -109,7 +110,8 @@
    "source": "JDIH",
    "title_as_written": "Bentuk Dan Tata Cara Pembuatan Bukti Pemotongan Pajak Penghasilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26 Serta Bentuk, Isi, Tata Cara Pengisian, Dan Tata Cara Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-2pj2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-2pj2024",
+   "validity_as_written": "19 Jan 2024 - s.d. Dicabut"
   }
  ],
  "status": {

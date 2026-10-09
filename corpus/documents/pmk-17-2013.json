@@ -204,7 +204,50 @@
     "target_id": "pmk-82-2011"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 198/PMK.03/2007 — Tatacara Penyegelan dalam Rangka Pemeriksaan di Bidang Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 199/PMK.03/2007 — Tatacara Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/199-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 191/PMK.03/2007 — Penerbitan Surat Ketetapan Pajak atas Permohonan Pengembalian Kelebihan Pembayaran Pajak Terhadap Wajib Pajak yang Sedang Dilakukan Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/191-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 82/PMK.03/2011 — Perubahan atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 184/PMK.03/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara\r\nPemeriksaan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 15 TAHUN 2025 — Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-15-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -220,11 +263,13 @@
   {
    "date_as_written": "2013-01-07 00:00:00",
    "number_as_written": "17/PMK.03/2013",
+   "page_retrieved_at": "2026-10-05T13:22:07+00:00",
    "retrieved_at": "2026-09-21T14:35:10+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemeriksaan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2013",
+   "validity_as_written": "07 Jan 2013 - 14 Feb 2025"
   }
  ],
  "status": {

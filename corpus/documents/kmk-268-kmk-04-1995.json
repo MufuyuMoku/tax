@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1995-06-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "268/KMK.04/1995",
-   "retrieved_at": "2026-10-03T04:01:33+00:00",
+   "retrieved_at": "2026-10-05T06:58:44+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK BUMI DAN BANGUNAN DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +39,13 @@
   {
    "date_as_written": "1995-06-26 00:00:00",
    "number_as_written": "268/KMK.04/1995",
+   "page_retrieved_at": "2026-10-05T14:36:22+00:00",
    "retrieved_at": "2026-09-21T14:53:22+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Pelaksanaan Penagihan Pajak Bumi dan Bangunan dan Penunjukan Pejabat yang Berwenang Mengeluarkan Surat Paksa",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/268-kmk-04-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/268-kmk-04-1995",
+   "validity_as_written": "26 Jun 1995 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -78,7 +80,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK BUMI DAN BANGUNAN DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA"

@@ -15,7 +15,20 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:15:38+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9e739969-45b7-4f3f-b0f3-85b673a5d942/SE-39~PJ~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:16:19+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/1a9b974b-e0d1-4c12-864b-bca6b2ded2df/SE-39~PJ.4~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +42,7 @@
   {
    "date_as_written": "1995-05-24 00:00:00",
    "number_as_written": "SE SE-39/PJ/1995",
+   "page_retrieved_at": "2026-10-09T01:15:38+00:00",
    "retrieved_at": "2026-09-21T15:00:36+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +50,13 @@
    "source": "JDIH",
    "title_as_written": "Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Dana Pinjaman Luar Negeri",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-39-pj-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-39-pj-1995",
+   "validity_as_written": "24 Mei 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-07-19 00:00:00",
    "number_as_written": "SE SE-39/PJ.4/1995",
+   "page_retrieved_at": "2026-10-09T01:16:19+00:00",
    "retrieved_at": "2026-09-21T15:00:39+00:00",
    "selected_because": [
     "judul"
@@ -48,11 +64,12 @@
    "source": "JDIH",
    "title_as_written": "Penyuluhan tentang Perlakuan Pajak Penghasilan Bagi Yayasan atau Organisasi yang Sejenis (Seri Pph Umum No. 18)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-39-pj-4-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-39-pj-4-1995",
+   "validity_as_written": "19 Jul 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -82,7 +99,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Dana Pinjaman Luar Negeri"

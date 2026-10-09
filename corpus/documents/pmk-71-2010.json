@@ -31,7 +31,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 39/PMK.03/2018 — Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -47,11 +54,13 @@
   {
    "date_as_written": "2010-03-31 00:00:00",
    "number_as_written": "71/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:38:22+00:00",
    "retrieved_at": "2026-09-21T14:39:55+00:00",
    "source": "JDIH",
    "title_as_written": "Pengusaha Kena Pajak Berisiko Rendah yang Diberikan  Pengembalian Pendahuluan Kelebihan Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/71-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/71-pmk-03-2010",
+   "validity_as_written": "31 Mar 2010 - s.d. Dicabut"
   }
  ],
  "status": {

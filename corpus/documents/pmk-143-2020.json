@@ -81,7 +81,20 @@
     "target_id": "pmk-28-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 28/PMK.03/2020 — Pemberian Fasilitas Pajak Terhadap Barang dan Jasa yang Diperlukan dalam Rangka Penanganan Pandemi Corona Virus Disease 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/28-pmk-03-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 239/PMK.03/2020 — Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan\nPemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam rangka Penanganan Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/239-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -97,6 +110,7 @@
   {
    "date_as_written": "2020-10-01 00:00:00",
    "number_as_written": "143/PMK.03/2020",
+   "page_retrieved_at": "2026-10-06T01:39:27+00:00",
    "retrieved_at": "2026-09-21T14:22:25+00:00",
    "selected_because": [
     "judul"
@@ -104,7 +118,8 @@
    "source": "JDIH",
    "title_as_written": "Pemberian Fasilitas Pajak terhadap Barang dan Jasa yang Diperlukan dalam rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan Dalam Rangka Penanganan Corona Virus Disease 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/143-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/143-pmk-03-2020",
+   "validity_as_written": "01 Okt 2020 - 30 Des 2020"
   }
  ],
  "status": {

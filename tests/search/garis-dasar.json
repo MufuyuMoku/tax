@@ -1,5 +1,5 @@
 {
-  "keterangan": "Peringkat jawaban tiap pertanyaan kasus pada mesin sebelum padanan kata ditambahkan (K-030). npm test gagal bila ada pertanyaan yang lebih buruk dari ini.",
+  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP: pengukuran pertama, 2026-10-09 (M5). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063).",
   "peringkat": {
     "bonus-tahunan": 16,
     "thr": 84,
@@ -25,6 +25,44 @@
     "barang-impor": 1,
     "orang-asing": 17,
     "warisan": 5,
-    "kontraktor": 145
+    "kontraktor": 145,
+    "denda-telat-lapor": 7,
+    "pembetulan-spt": 16,
+    "keberatan": 13,
+    "surat-teguran": 2,
+    "restitusi": 82,
+    "pengungkapan-ketidakbenaran": 32,
+    "daluwarsa-penagihan": 36,
+    "npwp-jabatan": 8,
+    "pemeriksaan": 4,
+    "angsuran-tunggakan": 52
+  },
+  "median_acuan": {
+    "keterangan": "Median peringkat yang tidak boleh terlampaui. pph: 25 pertanyaan PPh, diukur sebelum KUP masuk korpus (M3-M4). semua: 35 pertanyaan, diukur 2026-10-09.",
+    "pph": 5,
+    "semua": 8
+  },
+  "penurunan_disetujui": {
+    "keterangan": "Penurunan yang disetujui pemilik pada 2026-10-08, akibat korpus bertambah dengan KUP (K-061, K-063). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",
+    "honor-pembicara": {
+      "garis_dasar": 10,
+      "paling_buruk": 24,
+      "penjelasan": "PER-DJP 26/2020 (KUP: permohonan pegawai DJP menjadi pembicara) dan dokumen KUP lain cocok kata per kata dengan 'pembicara'; kata itu juga kehilangan kelangkaannya."
+    },
+    "zakat": {
+      "garis_dasar": 13,
+      "paling_buruk": 22,
+      "penjelasan": "Dokumen KUP yang menyebut zakat dan pengurangan penghasilan bruto ikut bersaing; kelangkaan 'zakat' turun."
+    },
+    "beasiswa": {
+      "garis_dasar": 1,
+      "paling_buruk": 2,
+      "penjelasan": "Satu dokumen KUP yang menyebut beasiswa dan objek pajak naik ke peringkat 1."
+    },
+    "pajak-luar-negeri": {
+      "garis_dasar": 7,
+      "paling_buruk": 13,
+      "penjelasan": "Dokumen KUP tentang pengkreditan dan Persetujuan Penghindaran Pajak Berganda ikut bersaing. Pada 2026-10-05 (detail KUP 712/892) peringkatnya 11; dengan detail lengkap 13."
+    }
   }
 }

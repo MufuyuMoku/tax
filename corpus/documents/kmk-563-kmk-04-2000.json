@@ -16,7 +16,17 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "kmk-563-kmk-04-2000--b000-1",
+  "kmk-563-kmk-04-2000--b001-2",
+  "kmk-563-kmk-04-2000--b002-3",
+  "kmk-563-kmk-04-2000--b003-4",
+  "kmk-563-kmk-04-2000--b004-5",
+  "kmk-563-kmk-04-2000--b005-6",
+  "kmk-563-kmk-04-2000--b006-7",
+  "kmk-563-kmk-04-2000--b007-8",
+  "kmk-563-kmk-04-2000--b008-9"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -37,15 +47,42 @@
     "title": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR"
    }
   ],
-  "revokes": [],
-  "source_listed_related": []
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "148/KMK.04",
+     "1998",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 148/KMK.04/1998",
+    "quote": "Pasal 8 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 148/KMK.04/1998 tentang Pemblokiran dan Penyitaan Harta Kekayaan Penanggung Pajak Yang Tersimpan Pada Bank Dalam Rangka Penagihan Pajak dengan Surat Paksa dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-148-kmk-04-1998"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 148/KMK.04/1998 — Pemblokiran dan Penyitaan Harta Kekayaan Penanggung Pajak yang Tersimpan pada Bank dalam Rangka Penagihan Pajak dengan Surat Paksa",
+    "url": "https://jdih.kemenkeu.go.id/dok/148-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 189/PMK.03/2020 — Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar",
+    "url": "https://jdih.kemenkeu.go.id/dok/189-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "563/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:56:42+00:00",
+   "retrieved_at": "2026-10-05T06:37:01+00:00",
    "source": "DJP",
    "title_as_written": "PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -54,11 +91,13 @@
   {
    "date_as_written": "2000-12-26 00:00:00",
    "number_as_written": "563/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:27:35+00:00",
    "retrieved_at": "2026-09-21T14:49:35+00:00",
    "source": "JDIH",
    "title_as_written": "Pemblokiran dan Penyitaan Harta Kekayaan Penanggung Pajak yang Tersimpan pada Bank dalam Rangka Penagihan Pajak dengan Surat Paksa",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/563-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/563-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - 27 Nov 2020"
   }
  ],
  "status": {
@@ -84,16 +123,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8449,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:37:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemblokiran-dan-penyitaan-harta-kekayaan-penanggung-pajak-yang-tersimpan-pada-bank-dalam"
  },
  "title": "PEMBLOKIRAN DAN PENYITAAN HARTA KEKAYAAN PENANGGUNG PAJAK YANG TERSIMPAN PADA BANK DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
 }

@@ -5,26 +5,26 @@
   "tidak_terverifikasi": 17
  },
  "attachments": 127,
- "body_units": 12571,
+ "body_units": 12693,
  "category_counts": {
   "KUP": 1112,
   "PPh": 1122
  },
  "documents": 1970,
- "documents_with_quality_flags": 86,
- "documents_with_text": 1183,
- "documents_without_text": 787,
- "explanation_units": 1693,
+ "documents_with_quality_flags": 88,
+ "documents_with_text": 1202,
+ "documents_without_text": 768,
+ "explanation_units": 1808,
  "inputs": {
-  "djp_detail.jsonl": "f419152f0091212d785381a478f4ce96b1552e1b1f1ecba70a2d628c9802bbb2",
-  "djp_list.jsonl": "ce66f30b2ee1b0ab06d4b954c6aa18b4014690adc0ab34f25857a67a368608d0",
+  "djp_detail.jsonl": "7e239109ca20f3bbe9ca99ede607c1d43a9cd88127910d3b8e5aed45ab56303d",
+  "djp_list.jsonl": "22300b2a966502b9674f6fa47c026fad5ada9b5a38dd46a40940999142ea5fcb",
   "djp_pph_detail.jsonl": "d903fea0d9e2daf65d4563c5ac8805fe133b6c16dbbc8e2c85ca657efa99f702",
   "djp_pph_list.jsonl": "23b18e0d31ab085e5492f8e0ecb59476c27325f46eed93d64e23ac35e0b4ae9d",
-  "jdih_detail.jsonl": "a2686c44bb3f1b79b150e8bf06442bd52453a1e6a2beef1c28e04594066b4b5a",
+  "jdih_detail.jsonl": "e3be2d458e92667dca0fc7769f89ad9fc02ad680b5541576ac1601e70206f0a5",
   "jdih_metadata.jsonl": "cb1d89e665d731ccf093abf54e21dd1270be8f4c44b216dc6ca586980c3cb2c5",
   "jdih_pph_candidates.jsonl": "487e46834097dba4d116e7717bc630a96be08c55d6037d061e8321d315c1c653",
   "jdih_pph_detail.jsonl": "d6c279869dbfa96bdc9858f64ade5c005b9067d46a43b575ec7728ad043b8898",
-  "teks_berkas.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "teks_berkas.jsonl": "566cce7c79ea4853558cd1f251fe27e8cd42747c3897265d216a87d098eb91a8"
  },
  "note": "Dibangun dari arsip poc/ tanpa permintaan jaringan. Jalankan: python -m pipeline.build",
  "status_counts": {
@@ -34,8 +34,8 @@
   "tidak_pasti": 354
  },
  "structure_counts": {
-  "biasa": 840,
+  "biasa": 857,
   "diktum": 95,
-  "perubahan": 248
+  "perubahan": 250
  }
 }

@@ -113,7 +113,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 74 TAHUN 2011 — Tata Cara Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-74-tahun-2011"
+   }
+  ]
  },
  "source_records": [
   {
@@ -129,11 +136,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "PP 80 TAHUN 2007",
+   "page_retrieved_at": "2026-10-05T14:08:39+00:00",
    "retrieved_at": "2026-09-21T14:10:25+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pelaksanaan Hak dan Kewajiban Perpajakan Berdasarkan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 28 Tahun 2007",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

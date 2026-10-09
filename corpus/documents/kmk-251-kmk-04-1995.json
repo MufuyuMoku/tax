@@ -21,16 +21,31 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kmk-541-kmk-04-2000",
+    "key": [
+     "KMK",
+     "541/KMK.04",
+     "2000",
+     null
+    ],
+    "number_as_written": "541/KMK.04/2000",
+    "quote": "Pasal 11 Pada saat Keputusan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 606/KMK.04/1994 tentang Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Tempat Pembayaran Pajak, Tata Cara Pembayaran, Penyetoran, dan Pelaporan Pajak, serta Tata Cara Pengangsuran dan Penundaan Pembayaran Pajak sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 251/KMK.04/1995 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PEMBERIAN ANGSURAN ATAU PENUNDAAN PEMBAYARAN PAJAK"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "1995-06-02",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "251/KMK.04/1995",
-   "retrieved_at": "2026-10-03T04:01:55+00:00",
+   "retrieved_at": "2026-10-05T07:00:10+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 606/KMK.04/1994 TENTANG PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +53,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +75,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 606/KMK.04/1994 TENTANG PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK"

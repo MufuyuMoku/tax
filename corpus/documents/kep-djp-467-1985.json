@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1985-11-04",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP - 467/PJ.4/1985",
-   "retrieved_at": "2026-10-03T04:06:05+00:00",
+   "retrieved_at": "2026-10-05T07:17:39+00:00",
    "source": "DJP",
    "title_as_written": "PETUNJUK PELAKSANAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 823/KMK.04/1985",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PETUNJUK PELAKSANAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 823/KMK.04/1985"

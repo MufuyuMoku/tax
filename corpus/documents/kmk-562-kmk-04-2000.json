@@ -23,14 +23,21 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 149/KMK.04/1998 — Syarat-Syarat, Tatacara Pengangkatan dan Pemberhentian Juru Sita Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/149-kmk-04-1998"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "562/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:57:04+00:00",
+   "retrieved_at": "2026-10-05T06:37:22+00:00",
    "source": "DJP",
    "title_as_written": "SYARAT-SYARAT, TATA CARA PENGANGKATAN DAN PEMBERHENTIAN JURUSITA PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +46,13 @@
   {
    "date_as_written": "2000-12-26 00:00:00",
    "number_as_written": "562/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:27:55+00:00",
    "retrieved_at": "2026-09-21T14:49:39+00:00",
    "source": "JDIH",
    "title_as_written": "Syarat-Syarat, Tatacara Pengangkatan dan Pemberhentian Juru Sita Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/562-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/562-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -77,7 +86,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "SYARAT-SYARAT, TATA CARA PENGANGKATAN DAN PEMBERHENTIAN JURUSITA PAJAK"

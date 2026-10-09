@@ -15,7 +15,13 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:39:49+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/f3198085-eb46-49ca-9bf4-902ca7b24b71/203~PMK.07~2009Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -38,12 +44,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 209/PMK.07/2010 — Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010.",
+    "url": "https://jdih.kemenkeu.go.id/dok/209-pmk-07-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 10/PMK.07/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 203/PMK.07/2009 tentang Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010.",
+    "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-07-2010"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2009-12-04 00:00:00",
    "number_as_written": "203/PMK.07/2009",
+   "page_retrieved_at": "2026-10-09T00:39:28+00:00",
    "retrieved_at": "2026-09-21T14:40:39+00:00",
    "selected_because": [
     "judul",
@@ -52,11 +72,12 @@
    "source": "JDIH",
    "title_as_written": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/203-pmk-07-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/203-pmk-07-2009",
+   "validity_as_written": "04 Des 2009 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -78,7 +99,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010."

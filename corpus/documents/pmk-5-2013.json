@@ -15,7 +15,13 @@
   "year": "2013"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:49:56+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/efc5d4d9-543b-4670-96c2-18aac3eec9ca/5~PMK.02~2013Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -23,12 +29,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 34/PMK.02/2010 — Tata Cara Penyetoran Penerimaan Negara Bukan Pajak  Dari Dividen dan Sisa Surplus Bank Indonesia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-02-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 190/PMK.02/2017 — Tata Cara Pembayaran Penerimaan Negara Bukan Pajak Dari Hasil Pengelolaan Kekayaan Negara yang Dipisahkan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/190-pmk-02-2017"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2013-01-02 00:00:00",
    "number_as_written": "5/PMK.02/2013",
+   "page_retrieved_at": "2026-10-09T00:49:35+00:00",
    "retrieved_at": "2026-09-21T14:35:14+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +56,12 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Dividen.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-02-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-02-2013",
+   "validity_as_written": "02 Jan 2013 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -62,7 +83,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Dividen."

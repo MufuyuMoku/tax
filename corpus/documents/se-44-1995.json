@@ -15,7 +15,14 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:18:21+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/daf119cf-3edf-4922-b975-d32055364463/SE-44~PJ.4~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +36,7 @@
   {
    "date_as_written": "1995-10-02 00:00:00",
    "number_as_written": "SE SE-44/PJ.4/1995",
+   "page_retrieved_at": "2026-10-09T01:18:21+00:00",
    "retrieved_at": "2026-09-21T15:00:36+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +44,12 @@
    "source": "JDIH",
    "title_as_written": "Penyusutan atau Amortisasi atas Pengeluaran untuk Memperoleh Harta yang Masih Dimiliki dan Digunakan pada Awal Tahun Pajak 1995 (Seri Pph Umum No. 19)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-44-pj-4-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-44-pj-4-1995",
+   "validity_as_written": "02 Okt 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +71,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Penyusutan atau Amortisasi atas Pengeluaran untuk Memperoleh Harta yang Masih Dimiliki dan Digunakan pada Awal Tahun Pajak 1995 (Seri Pph Umum No. 19)"

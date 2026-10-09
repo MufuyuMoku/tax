@@ -65,7 +65,14 @@
     "target_id": "kmk-542-kmk-04-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 8/PMK.03/2013 — Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Surat Ketetapan Pajak atau Surat Tagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/8-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -81,11 +88,13 @@
   {
    "date_as_written": "2008-02-06 00:00:00",
    "number_as_written": "21/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T14:07:18+00:00",
    "retrieved_at": "2026-09-21T14:43:30+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengurangan dan Penghapusan Sanksi Administrasi, Pengurangan atau Pembatalan Surat Ketetapan Pajak atau Surat Tagihan Pajak yang Tidak Dibayar, dan Pembatalan Hasil Pemeriksaan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/21-pmk-03-2008",
+   "validity_as_written": "06 Feb 2008 - s.d. Dicabut"
   }
  ],
  "status": {

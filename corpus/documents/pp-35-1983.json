@@ -16,7 +16,15 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "pp-35-1983--b000-1",
+  "pp-35-1983--b001-2",
+  "pp-35-1983--b002-3",
+  "pp-35-1983--b003-4",
+  "pp-35-1983--b004-5",
+  "pp-35-1983--b005-6",
+  "pp-35-1983--b006-7"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -38,9 +46,9 @@
   },
   {
    "date_as_written": "1983-12-31",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "35 TAHUN 1983",
-   "retrieved_at": "2026-10-03T04:07:07+00:00",
+   "retrieved_at": "2026-10-05T07:27:30+00:00",
    "source": "DJP",
    "title_as_written": "PENDAFTARAN, PEMBERIAN NOMOR POKOK WAJIB PAJAK, PENYAMPAIAN SURAT PEMBERITAHUAN, DAN PERSYARATAN PENGAJUAN KEBERATAN",
    "type_as_written": "Peraturan Pemerintah",
@@ -71,16 +79,16 @@
    "value_verbatim": "Aktif"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 4689,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T07:27:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pendaftaran-pemberian-nomor-pokok-wajib-pajak-penyampaian-surat-pemberitahuan-dan-0"
  },
  "title": "PENDAFTARAN, PEMBERIAN NOMOR POKOK WAJIB PAJAK, PENYAMPAIAN SURAT PEMBERITAHUAN, DAN PERSYARATAN PENGAJUAN KEBERATAN"
 }

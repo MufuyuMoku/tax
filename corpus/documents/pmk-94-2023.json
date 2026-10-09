@@ -37,7 +37,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 34/PMK.03/2018 — Pedoman Pelaksanaan Pemeriksaan Bersama atas Pelaksanaan Kontrak Kerja Sama Berbentuk Kontrak Bagi Hasil dengan Pengembalian Biaya Operasi di Bidang Usaha Hulu Minyak dan Gas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -53,11 +60,13 @@
   {
    "date_as_written": "2023-09-15 00:00:00",
    "number_as_written": "PMK 94 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T06:32:13+00:00",
    "retrieved_at": "2026-09-21T14:18:00+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.03/2018 tentang Pedoman Pelaksanaan Pemeriksaan Bersama atas Pelaksanaan Kontrak Bagi Hasil dengan Pengembalian Biaya Operasi di Bidang Usaha Hulu Minyak dan Gas Bumi",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-94-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-94-tahun-2023",
+   "validity_as_written": "18 Sep 2023 - s.d. Dicabut"
   }
  ],
  "status": {

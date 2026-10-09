@@ -15,7 +15,13 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:29:39+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/962a6707-d7f3-4a98-a29e-a97c2515e623/147~PMK.011~2012Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "2012-09-10 00:00:00",
    "number_as_written": "147/PMK.011/2012",
+   "page_retrieved_at": "2026-10-09T00:29:18+00:00",
    "retrieved_at": "2026-09-21T14:35:57+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2012.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-011-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-011-2012",
+   "validity_as_written": "10 Sep 2012 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2012."

@@ -60,6 +60,7 @@
   {
    "date_as_written": "2000-06-23 00:00:00",
    "number_as_written": "PP 43 TAHUN 2000",
+   "page_retrieved_at": "2026-10-06T03:29:42+00:00",
    "retrieved_at": "2026-09-21T14:11:39+00:00",
    "selected_because": [
     "judul"
@@ -67,7 +68,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Peraturan Pemerintah Nomor 42 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppn Bm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri.",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-43-tahun-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-43-tahun-2000",
+   "validity_as_written": "23 Jun 2000 - s.d. Dicabut"
   }
  ],
  "status": {

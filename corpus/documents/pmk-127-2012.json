@@ -26,7 +26,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 186/PMK.07/2010 — Tahapan Persiapan Pengalihan Bea Perolehan Hak atas Tanah dan Bangunan Sebagai Pajak Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-07-2010"
+   }
+  ]
  },
  "source_records": [
   {
@@ -42,11 +49,13 @@
   {
    "date_as_written": "2012-08-06 00:00:00",
    "number_as_written": "127/PMK.07/2012",
+   "page_retrieved_at": "2026-10-05T13:26:51+00:00",
    "retrieved_at": "2026-09-21T14:36:04+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Bersama Menteri Keuangan dan Menteri dalam Negeri Nomor 186/PMK.07/2010 dan Nomor 53 Tahun 2010 tentang Tahapan Persiapan Pengalihan Bea Perolehan Hak atas Tanah dan Bangunan Sebagai Pajak Daerah.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/127-pmk-07-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/127-pmk-07-2012",
+   "validity_as_written": "06 Agu 2012 - s.d. Dicabut"
   }
  ],
  "status": {

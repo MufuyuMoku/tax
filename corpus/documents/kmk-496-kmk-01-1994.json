@@ -15,7 +15,13 @@
   "year": "1994"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:19:19+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/0744f568-5516-4617-a5a8-20bde710efe5/496~KMK.01~1994Kep.HTM"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "1994-10-10 00:00:00",
    "number_as_written": "496/KMK.01/1994",
+   "page_retrieved_at": "2026-10-09T00:18:59+00:00",
    "retrieved_at": "2026-09-21T14:54:03+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipu - Ngut atas Impor 100.000 Ton Kedele Campur Pos Tarip 1201.00. 500 oleh Badan Urusan Logistik (Bulog)",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/496-kmk-01-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/496-kmk-01-1994",
+   "validity_as_written": "10 Okt 1994 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipu - Ngut atas Impor 100.000 Ton Kedele Campur Pos Tarip 1201.00. 500 oleh Badan Urusan Logistik (Bulog)"

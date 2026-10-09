@@ -325,6 +325,156 @@
           "kutipan": "Judul: PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
         }
       ]
+    },
+    {
+      "id": "denda-telat-lapor",
+      "pertanyaan": "telat lapor SPT tahunan kena denda berapa",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "uu-28-2007",
+          "pasal": "uu-28-2007--b000-i",
+          "kutipan": "sebesar Rp100.000,00 (seratus ribu rupiah) untuk Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak orang pribadi"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "pembetulan-spt",
+      "pertanyaan": "SPT yang sudah dikirim ternyata salah isi, bisa diperbaiki",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b181-181",
+          "kutipan": "Wajib Pajak dengan kemauan sendiri dapat membetulkan Surat Pemberitahuan yang telah disampaikan dengan menyampaikan pernyataan tertulis"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "keberatan",
+      "pertanyaan": "tidak setuju dengan ketetapan pajak dari kantor pajak, bisa protes",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b007-25",
+          "kutipan": "Wajib Pajak dapat mengajukan keberatan hanya kepada Direktur Jenderal Pajak atas suatu"
+        },
+        {
+          "dokumen": "pmk-118-2024",
+          "pasal": "pmk-118-2024--b008-9",
+          "kutipan": "Wajib Pajak dapat mengajukan keberatan hanya kepada Direktur Jenderal Pajak atas suatu"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "surat-teguran",
+      "pertanyaan": "kapan dikirim surat teguran kalau utang pajak belum dibayar",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "pmk-61-2023",
+          "pasal": "pmk-61-2023--b005-6",
+          "kutipan": "Pejabat menerbitkan Surat Teguran setelah lewat waktu 7 (tujuh) Hari sejak saat jatuh tempo pembayaran Utang Pajak"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "restitusi",
+      "pertanyaan": "kelebihan bayar pajak bisa diminta kembali",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "uu-28-2007",
+          "pasal": "uu-28-2007--b000-i",
+          "kutipan": "Atas permohonan Wajib Pajak, kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 17, Pasal 17B, Pasal 17C, atau Pasal 17D dikembalikan"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "pengungkapan-ketidakbenaran",
+      "pertanyaan": "sedang diperiksa ternyata SPT saya salah, boleh mengaku sendiri",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b003-8",
+          "kutipan": "dapat mengungkapkan dalam laporan tersendiri tentang ketidakbenaran pengisian Surat Pemberitahuan yang telah disampaikan sesuai dengan keadaan yang sebenarnya"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "daluwarsa-penagihan",
+      "pertanyaan": "utang pajak lama apakah bisa hangus kalau tidak ditagih",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "pmk-61-2023",
+          "pasal": "pmk-61-2023--b140-141",
+          "kutipan": "daluwarsa setelah melampaui waktu 5 (lima) tahun terhitung sejak penerbitan surat tagihan pajak"
+        },
+        {
+          "dokumen": "uu-28-2007",
+          "pasal": "uu-28-2007--b000-i",
+          "kutipan": "daluwarsa setelah melampaui waktu 5 (lima) tahun terhitung sejak penerbitan Surat Tagihan Pajak"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "npwp-jabatan",
+      "pertanyaan": "tidak mendaftar NPWP, bisa dibuatkan sendiri oleh kantor pajak",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b022-22",
+          "kutipan": "Kepala Kantor Pelayanan Pajak dapat menerbitkan Nomor Pokok Wajib Pajak secara jabatan"
+        },
+        {
+          "dokumen": "uu-28-2007",
+          "pasal": "uu-28-2007--b000-i",
+          "kutipan": "Direktur Jenderal Pajak menerbitkan Nomor Pokok Wajib Pajak dan/atau mengukuhkan Pengusaha Kena Pajak secara jabatan"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "pemeriksaan",
+      "pertanyaan": "maksudnya diperiksa pajak itu apa",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "pmk-15-2025",
+          "pasal": "pmk-15-2025--b000-1",
+          "kutipan": "Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti"
+        },
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b001-1",
+          "kutipan": "Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "angsuran-tunggakan",
+      "pertanyaan": "tunggakan pajak boleh dicicil",
+      "kategori": "KUP",
+      "jawaban": [
+        {
+          "dokumen": "pmk-81-2024",
+          "pasal": "pmk-81-2024--b113-113",
+          "kutipan": "Wajib Pajak dapat mengajukan permohonan kepada Direktur Jenderal Pajak untuk mengangsur atau menunda pembayaran pajak"
+        }
+      ],
+      "catatan": "Ditambahkan di M5 (2026-10-09); belum diverifikasi ahli."
     }
   ]
 }

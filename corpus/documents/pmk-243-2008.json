@@ -62,7 +62,32 @@
     "target_id": "kmk-566-kmk-04-1999"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 635/KMK.04/1994 — Pelaksanaan Pembayaran dan Pemungutan Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah, dan/atau Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/635-kmk-04-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 566/KMK.04/1999 — Pajak Penghasilan Wajib Pajak Badan yang Usaha Pokoknya Melakukan Transaksi Penjualan atau Pengalihan Hak atas Tanah dan atau Bagnunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/566-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 392/KMK.04/1996 — Perubahan Keputusan Menteri Keuangan Nomor 635/KMK.04/1994 tentang Pelaksanaan Pembayaran dan Pungutan Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/392-kmk-04-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 261/PMK.03/2016 — Tata Cara Penyetoran, Pelaporan, dan Pengecualian Pengenaan Pajak Penghasilan Atas\r\nPenghasilan Dari Pengalihan Hak atas Tanah Dan/ atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah Dan/ atau Bangunan Beserta Perubahannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/261-pmk-03-2016"
+   }
+  ]
  },
  "source_records": [
   {
@@ -78,6 +103,7 @@
   {
    "date_as_written": "2008-12-31 00:00:00",
    "number_as_written": "243/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T13:55:58+00:00",
    "retrieved_at": "2026-09-21T14:42:02+00:00",
    "selected_because": [
     "judul"
@@ -85,7 +111,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 635/KMK.04/1974 tentang Pelaksanaan Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan Bangunan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2008",
+   "validity_as_written": "31 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

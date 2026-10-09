@@ -59,7 +59,20 @@
     "target_id": "pmk-64-2013"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 64/PMK.05/2013 — Mekanisme Pengawasan Terhadap Pemotongan/Pemungutan dan Penyetoran Pajak yang Dilakukan oleh Bendahara Pengeluaran Satuan Kerja Perangkat Daerah/Kuasa Bendahara Umum Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-05-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 231/PMK.07/2020 — Tata Cara Penyampaian Informasi Keuangan Daerah, Laporan Data Bulanan, dan Laporan Pemerintah Daerah Lainnya",
+    "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-07-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -75,11 +88,13 @@
   {
    "date_as_written": "2019-05-29 00:00:00",
    "number_as_written": "85/PMK.03/2019",
+   "page_retrieved_at": "2026-10-05T07:00:23+00:00",
    "retrieved_at": "2026-09-21T14:24:22+00:00",
    "source": "JDIH",
    "title_as_written": "Mekanisme Pengawasan Terhadap Pemotongan/Pemungutan dan Penyetoran Pajak atas Belanja yang Bersumber Dari Anggaran Pendapatan dan Belanja Daerah.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2019",
+   "validity_as_written": "29 Mei 2019 - 30 Des 2020"
   }
  ],
  "status": {

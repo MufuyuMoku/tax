@@ -15,7 +15,13 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:54:07+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/37ecbaa2-8aec-44c4-90fc-e263e781554c/16TAHUN2009PP.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -67,12 +73,38 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 6 TAHUN 2002 — Pajak Penghasilan atas Bunga dan Diskonto Obligasi yang Diperdagangkan dan/atau Dilaporkan Perdagangannya di Bursa Efek.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-6-tahun-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 55 TAHUN 2019 — Perubahan Kedua atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 100 TAHUN 2013 — Perubahan atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-100-tahun-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 91 TAHUN 2021 — Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi yang Diterima atau Diperoleh Wajib Pajak Dalam Negeri dan Bentuk Usaha Tetap",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-91-tahun-2021"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2009-02-09 00:00:00",
    "number_as_written": "PP 16 TAHUN 2009",
+   "page_retrieved_at": "2026-10-09T00:53:45+00:00",
    "retrieved_at": "2026-09-21T14:09:58+00:00",
    "selected_because": [
     "judul",
@@ -81,11 +113,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi.",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-16-tahun-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-16-tahun-2009",
+   "validity_as_written": "09 Feb 2009 - 30 Agu 2021"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -107,7 +140,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi."

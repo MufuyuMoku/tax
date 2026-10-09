@@ -23,7 +23,20 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 306/KMK.04/1997 — Perubahan dan Pemberian Kode Kantor Pelayanan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/306-kmk-04-1997"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 382/KMK.03/2004 — Perubahan Kedua atas Keputusan Menteri Keuangan No.58/KMK.03/2002 tentang Perubahan dan Pemberian Kode Kantor Pelayanan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/382-kmk-03-2004"
+   }
+  ]
  },
  "source_records": [
   {
@@ -39,11 +52,13 @@
   {
    "date_as_written": "2002-02-26 00:00:00",
    "number_as_written": "58/KMK.03/2002",
+   "page_retrieved_at": "2026-10-05T14:26:14+00:00",
    "retrieved_at": "2026-09-21T14:49:06+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan dan Pemberian Kode Kantor Pelayanan Pajak.",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/58-kmk-03-2002"
+   "url": "https://jdih.kemenkeu.go.id/dok/58-kmk-03-2002",
+   "validity_as_written": "26 Feb 2002 - s.d. Dicabut"
   }
  ],
  "status": {

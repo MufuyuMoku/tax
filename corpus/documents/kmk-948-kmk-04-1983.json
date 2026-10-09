@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1983-12-31",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "948/KMK.04/1983",
-   "retrieved_at": "2026-10-03T04:07:07+00:00",
+   "retrieved_at": "2026-10-05T07:28:31+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMBAYARAN, PENYETORAN DAN PELAPORAN PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMBAYARAN, PENYETORAN DAN PELAPORAN PAJAK"

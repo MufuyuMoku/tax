@@ -46,7 +46,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 225/PMK.05/2020 — Sistem Penerimaan Negara secara Elektronik",
+    "url": "https://jdih.kemenkeu.go.id/dok/225-pmk-05-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -62,11 +69,13 @@
   {
    "date_as_written": "2010-12-27 00:00:00",
    "number_as_written": "249/PMK.05/2010",
+   "page_retrieved_at": "2026-10-05T13:33:36+00:00",
    "retrieved_at": "2026-09-21T14:38:43+00:00",
    "source": "JDIH",
    "title_as_written": "Penatausahaan Penerimaan Negara dalam Mata Uang Asing.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/249-pmk-05-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/249-pmk-05-2010",
+   "validity_as_written": "27 Des 2010 - 30 Des 2020"
   }
  ],
  "status": {

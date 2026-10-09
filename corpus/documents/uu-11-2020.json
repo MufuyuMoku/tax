@@ -93,7 +93,188 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 7 TAHUN 1983 — Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1983"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 7 TAHUN 1991 — Perubahan atas Undang-Undang No.7 Tahun 1983 tentang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1991"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 10 TAHUN 1994 — Perubahan atas Undang-Undang No.7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Diubah dengan Undang-Undang No. 7 Tahun 1991",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 17 TAHUN 2000 — Perubahan Ketiga atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-17-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 36 TAHUN 2008 — Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-36-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 8 TAHUN 1983 — Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-8-tahun-1983"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 11 TAHUN 1994 — Perubahan atas Undang-Undang No. 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 18 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-18-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 42 TAHUN 2009 — Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-42-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 7 TAHUN 1992 — Perbankan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-1992"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 36 TAHUN 2000 — Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-36-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 22 TAHUN 2001 — Minyak dan Gas Bumi",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-22-tahun-2001"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 25 TAHUN 2007 — Penanaman Modal",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-25-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 40 TAHUN 2007 — Perseroan Terbatas",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-40-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 20 TAHUN 2008 — Usaha Mikro, Kecil, dan Menengah",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-20-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 21 TAHUN 2008 — Perbankan Syariah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-21-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 28 TAHUN 2009 — Pajak Daerah dan Retribusi Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 39 TAHUN 2009 — Kawasan Ekonomi Khusus.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-39-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 6 TAHUN 2014 — Desa.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 7 TAHUN 2014 — Perdagangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 11 TAHUN 2019 — Sistem Nasional Ilmu Pengetahuan dan Teknologi",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 33 TAHUN 2014 — Jaminan Produk Halal.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-33-tahun-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 30 TAHUN 2014 — Administrasi Pemerintahan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-30-tahun-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 23 TAHUN 2014 — Pemerintahan Daerah",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-23-tahun-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 2 TAHUN 2012 — Pengadaan Tanah Bagi Pembangunan untuk Kepentingan Umum.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-2-tahun-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 24 TAHUN 2011 — Badan Penyelenggara Jaminan Sosial.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-24-tahun-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PERPU 2 TAHUN 2022 — Cipta Kerja",
+    "url": "https://jdih.kemenkeu.go.id/dok/perpu-2-tahun-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: UU 6 TAHUN 2023 — Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2023"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2025 — Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2025"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 1 TAHUN 2025 — Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-1-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -109,11 +290,13 @@
   {
    "date_as_written": "2020-11-02 00:00:00",
    "number_as_written": "UU 11 TAHUN 2020",
+   "page_retrieved_at": "2026-10-05T06:45:47+00:00",
    "retrieved_at": "2026-09-21T14:02:49+00:00",
    "source": "JDIH",
    "title_as_written": "Cipta Kerja",
    "type_as_written": "Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020",
+   "validity_as_written": "02 Nov 2020 - 30 Des 2022"
   }
  ],
  "status": {

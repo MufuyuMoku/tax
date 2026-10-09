@@ -15,7 +15,13 @@
   "year": "2013"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:26:15+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/0a161615-3ba2-4dc8-82a8-0a5869e64ffa/112~PMK.011~2013Per.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "2013-08-01 00:00:00",
    "number_as_written": "112/PMK.011/2013",
+   "page_retrieved_at": "2026-10-09T00:25:55+00:00",
    "retrieved_at": "2026-09-21T14:34:31+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +44,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2013.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-011-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-011-2013",
+   "validity_as_written": "01 Agu 2013 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -63,7 +71,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2013."

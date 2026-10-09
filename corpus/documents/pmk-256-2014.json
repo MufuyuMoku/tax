@@ -138,7 +138,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 80 TAHUN 2023 — Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2023"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 15 TAHUN 2025 — Pemeriksaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-15-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -154,11 +167,13 @@
   {
    "date_as_written": "2014-12-30 00:00:00",
    "number_as_written": "256/PMK.03/2014",
+   "page_retrieved_at": "2026-10-05T13:14:42+00:00",
    "retrieved_at": "2026-09-21T14:31:55+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2014"
+   "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2014",
+   "validity_as_written": "30 Des 2014 - 14 Feb 2025"
   }
  ],
  "status": {

@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1993-01-05",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "22/KMK.04/1993",
-   "retrieved_at": "2026-10-03T04:04:20+00:00",
+   "retrieved_at": "2026-10-05T07:10:17+00:00",
    "source": "DJP",
    "title_as_written": "PENGHITUNGAN SANKSI ADMINISTRASI SEBAGAIMANA DIMAKSUD DALAM PASAL 13 AYAT (2) UNDANG-UNDANG NOMOR 6 TAHUN 1983",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENGHITUNGAN SANKSI ADMINISTRASI SEBAGAIMANA DIMAKSUD DALAM PASAL 13 AYAT (2) UNDANG-UNDANG NOMOR 6 TAHUN 1983"

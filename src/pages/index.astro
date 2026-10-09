@@ -159,7 +159,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
           {row.text_available ? (
             <span class="tanda netral">{row.pasal_count} pasal</span>
           ) : (
-            <span class="tanda tanpa-teks">Teks tidak tersedia di sumber</span>
+            <span class="tanda tanpa-teks">Tanpa teks di situs ini</span>
           )}
           {row.attachment_mismatch > 0 && (
             <span class="tanda peringatan">Lampiran tidak cocok</span>

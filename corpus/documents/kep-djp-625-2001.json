@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "2001-09-24",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP - 625/PJ./2001",
-   "retrieved_at": "2026-10-03T03:55:19+00:00",
+   "retrieved_at": "2026-10-05T06:30:01+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN PIUTANG PAJAK",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN PIUTANG PAJAK"

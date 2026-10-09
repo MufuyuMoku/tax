@@ -29,7 +29,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 242/PMK.03/2014 — Tata Cara Pembayaran dan Penyetoran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -45,11 +52,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "187/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:13:43+00:00",
    "retrieved_at": "2026-09-21T14:43:47+00:00",
    "source": "JDIH",
    "title_as_written": "Jangka Waktu Pelunasan Surat Tagihan Pajak, Surat Ketetapan Pajak Kurang Bayar, dan Surat Ketetapan Pajak Kurang Bayar Tambahan, Serta Surat Keputusan Pembetulan, Surat Keputusan Keberatan, Putusan Banding, dan Putusan Peninjauan Kembali, yang Menyebabkan Jumlah Pajak Yangharus Dibayar Bertambah Bagi Wajib Pajak Usaha Kecil dan Wajib Pajak di Daerah Tertentu",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

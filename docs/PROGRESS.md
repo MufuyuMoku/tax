@@ -46,6 +46,34 @@ jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran ma
 **Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
 pemilik tentang label kategori (K-051).
 
+## M5 tahap 1 — KUP terbit
+Tanggal: 2026-10-09
+Status: tahap 1 (KUP) selesai dan terbit; tahap 2 (PPN) menunggu
+
+**Pengambilan:** detail KUP 892/892; daftar PPN 496/496 (2.480 baris, 2.459 dokumen unik, 617 sudah
+di korpus PPh, 1.442 KMK kurs/bunga); detail PPN 810/810. Sebagian besar diambil pemilik 6–8
+Oktober. JDIH: status KUP 441/441, status PPN 472/472, teks PPh 84/88 (K-062, K-066).
+**Aturan JDIH (K-062):** sama dengan DJP; 404 = tidak ada di sumber. Uji 5 alamat acak: kelimanya 200.
+
+**Korpus (K-060):** 1.970 dokumen (PPh 1.122, KUP 1.112, keduanya 264), 1.202 berteks, 16.473
+berkas, deterministik (sidik jari sama dua kali). Ke-1.126 alamat KUP dalam cakupan tercakup dalam
+1.112 dokumen (10 dokumen punya lebih dari satu alamat). KUP: 846 berteks, 671 dengan status satu
+sumber, 441 dengan klaim JDIH. Status satu sumber tampil "klaim DJP saja; belum dibandingkan dengan
+sumber lain, diambil <tanggal>".
+
+**Situs:** saringan Kategori, "Dari daftar KUP katalog DJP" di kartu dan halaman dokumen, masa
+berlaku dari halaman JDIH di bagian Sumber, label "Tanpa teks di situs ini". Lebar 320 px tanpa
+gulir samping.
+
+**Set evaluasi (K-063):** 35 pertanyaan; median PPh 5 (acuan 5), median semua 8, 10 besar 20 dari
+35. Empat penurunan disetujui pemilik. `npm test` 52 lulus; tes Python lulus.
+**Set uji tahan (K-064):** pertanyaan 5 tetap 1; pertanyaan 7 kini berjawaban KUP, peringkat 20
+(tidak bersih); pertanyaan 1 turun 3 → 9.
+**Beban (K-067):** data 21,2 MB (3,6 MB gzip); siap 1,0 / 3,5 / 4,7 detik pada 1x / 4x / 6x; heap
+54,6 MB.
+
+**Ditahan:** teks 75 berkas JDIH PPh (K-066), karena median PPh memburuk; menunggu pemilik.
+
 ## M5 — KUP dan PPN, putaran 5 Oktober
 Tanggal: 2026-10-05
 Status: sebagian — dihentikan rapi 14.20 WIB (internet pemilik mati 14.30)

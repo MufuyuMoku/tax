@@ -67,7 +67,26 @@
     "target_id": "pmk-85-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 85/PMK.05/2020 — Tata Cara Pemberian Subsidi Bunga/Subsidi Margin untuk Kredit/Pembiayaan Usaha Mikro, Usaha Kecil, dan Usaha Menengah dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-05-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 50/PMK.05/2021 — Perubahan atas Peraturan Menteri Keuangan Nomor 138/PMK.05/2020 tentang Tata Cara Pemberian Subsidi Bunga/ Subsidi Margin dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional.",
+    "url": "https://jdih.kemenkeu.go.id/dok/50-pmk-05-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 150/PMK.05/2021 — Tata Cara Pemberian Subsidi Bunga/ Subsidi Margin dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional",
+    "url": "https://jdih.kemenkeu.go.id/dok/150-pmk-05-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -83,11 +102,13 @@
   {
    "date_as_written": "2020-09-25 00:00:00",
    "number_as_written": "138/PMK.05/2020",
+   "page_retrieved_at": "2026-10-05T06:46:27+00:00",
    "retrieved_at": "2026-09-21T14:22:29+00:00",
    "source": "JDIH",
    "title_as_written": " Tata Cara Pemberian Subsidi Bunga/Subsidi Margin dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/138-pmk-05-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/138-pmk-05-2020",
+   "validity_as_written": "28 Sep 2020 - 26 Okt 2021"
   }
  ],
  "status": {

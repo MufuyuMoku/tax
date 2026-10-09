@@ -35,7 +35,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -51,6 +58,7 @@
   {
    "date_as_written": "2011-07-13 00:00:00",
    "number_as_written": "102/PMK.011/2011",
+   "page_retrieved_at": "2026-10-06T02:53:09+00:00",
    "retrieved_at": "2026-09-21T14:37:55+00:00",
    "selected_because": [
     "judul"
@@ -58,7 +66,8 @@
    "source": "JDIH",
    "title_as_written": "Nilai Lain Sebagai Dasar Pengenaan Pajak atas Pemanfaatan Barang Kena Pajak Tidak Berwujud Dari Luar Daerah Pabean di dalam Daerah Pabean Berupa Film Cerita Impor dan Penyerahan Film Cerita Impor, Serta Dasar Pemungutan Pajak Penghasilan Pasal 22 atas Kegiatan Impor Film Cerita Impor.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/102-pmk-011-2011"
+   "url": "https://jdih.kemenkeu.go.id/dok/102-pmk-011-2011",
+   "validity_as_written": "13 Jul 2011 - s.d. Dicabut"
   }
  ],
  "status": {

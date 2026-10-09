@@ -61,7 +61,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 83/PMK.03/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 23/PMK.03/2008 tentang Tata Cara Penerbitan Surat Ketetapan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 145/PMK.03/2012 — Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/145-pmk-03-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -77,11 +90,13 @@
   {
    "date_as_written": "2008-02-06 00:00:00",
    "number_as_written": "23/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T14:06:37+00:00",
    "retrieved_at": "2026-09-21T14:43:30+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penerbitan Surat Ketetapan Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2008",
+   "validity_as_written": "06 Feb 2008 - s.d. Dicabut"
   }
  ],
  "status": {

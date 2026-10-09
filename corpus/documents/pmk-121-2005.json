@@ -55,7 +55,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 226/PMK.03/2013 — Tata Cara Penghitungan dan Pemberian Imbalan Bunga.",
+    "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +78,13 @@
   {
    "date_as_written": "2005-12-05 00:00:00",
    "number_as_written": "121/PMK.06/2005",
+   "page_retrieved_at": "2026-10-05T14:19:48+00:00",
    "retrieved_at": "2026-09-21T14:46:06+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemberian Imbalan Bunga Pajak Bumi dan Bangunan Kepada Wajib Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-06-2005"
+   "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-06-2005",
+   "validity_as_written": "05 Des 2005 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -15,7 +15,14 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:02:35+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/dd361d42-8749-433b-a1cf-d3c1e3d5f4fd/SE-14~PJ.41~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +36,7 @@
   {
    "date_as_written": "1995-03-07 00:00:00",
    "number_as_written": "SE SE-14/PJ.41/1995",
+   "page_retrieved_at": "2026-10-09T01:02:35+00:00",
    "retrieved_at": "2026-09-21T15:00:46+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +44,12 @@
    "source": "JDIH",
    "title_as_written": "Penegasan Pembayaran Pajak Penghasilan atas Penebusan Bahan Bakar Premix (Seri Pph Umum No. 5)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-14-pj-41-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-14-pj-41-1995",
+   "validity_as_written": "07 Mar 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +71,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Penegasan Pembayaran Pajak Penghasilan atas Penebusan Bahan Bakar Premix (Seri Pph Umum No. 5)"

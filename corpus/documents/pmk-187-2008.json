@@ -71,7 +71,20 @@
     "target_id": "kmk-559-kmk-04-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 559/KMK.04/2000 — Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/559-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 153/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 187/PMK.03/2008 tentang Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/153-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -87,6 +100,7 @@
   {
    "date_as_written": "2008-11-20 00:00:00",
    "number_as_written": "187/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T14:00:22+00:00",
    "retrieved_at": "2026-09-21T14:42:22+00:00",
    "selected_because": [
     "judul"
@@ -94,7 +108,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2008",
+   "validity_as_written": "20 Nov 2008 - s.d. Dicabut"
   }
  ],
  "status": {

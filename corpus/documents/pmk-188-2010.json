@@ -79,7 +79,32 @@
     "target_id": "pmk-89-2007"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 89/PMK.04/2007 — Impor Barang Pribadi Penumpang, Awak Sara Pengangkut, Pelintas Batas dan Barang Kiriman",
+    "url": "https://jdih.kemenkeu.go.id/dok/89-pmk-04-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 203/PMK.04/2017 — Ketentuan Ekspor dan Impor Barang yang Dibawa oleh Penumpang dan Awak Sarana\r\nPengangkut.",
+    "url": "https://jdih.kemenkeu.go.id/dok/203-pmk-04-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 80/PMK.04/2019 — Impor dan Ekspor Barang yang Dibawa oleh Pelintas Batas dan Pemberian Pembebasan Bea Masuk Barang yang Dibawa oleh Pelintas Batas",
+    "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-04-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 182/PMK.04/2016 — Ketentuan Impor Barang Kiriman.",
+    "url": "https://jdih.kemenkeu.go.id/dok/182-pmk-04-2016"
+   }
+  ]
  },
  "source_records": [
   {
@@ -95,11 +120,13 @@
   {
    "date_as_written": "2010-10-29 00:00:00",
    "number_as_written": "188/PMK.04/2010",
+   "page_retrieved_at": "2026-10-05T13:33:58+00:00",
    "retrieved_at": "2026-09-21T14:39:07+00:00",
    "source": "JDIH",
    "title_as_written": "Impor Barang yang Dibawa oleh Penumpang, Awak Sarana Pengangkut, Pelintas Batas, dan Barang Kiriman.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-04-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-04-2010",
+   "validity_as_written": "29 Okt 2010 - s.d. Dicabut"
   }
  ],
  "status": {

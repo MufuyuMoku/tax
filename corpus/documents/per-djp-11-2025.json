@@ -557,6 +557,7 @@
   {
    "date_as_written": "2025-05-22 12:00:00",
    "number_as_written": "PER-11/PJ/2025",
+   "page_retrieved_at": "2026-10-05T14:44:49+00:00",
    "retrieved_at": "2026-09-21T14:55:15+00:00",
    "selected_because": [
     "judul"
@@ -564,7 +565,8 @@
    "source": "JDIH",
    "title_as_written": "Ketentuan Pelaporan Pajak Penghasilan, Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah, dan Bea Meterai dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-11pj2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-11pj2025",
+   "validity_as_written": "22 Mei 2025 - s.d. Dicabut"
   }
  ],
  "status": {

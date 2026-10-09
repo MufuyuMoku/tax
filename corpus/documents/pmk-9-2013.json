@@ -89,7 +89,26 @@
     "target_id": "pmk-194-2007"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 194/PMK.03/2007 — Tatacara Pengajuan dan Penyelesaian Keberatan",
+    "url": "https://jdih.kemenkeu.go.id/dok/194-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 202/PMK.03/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 118 TAHUN 2024 — Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-118-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -105,11 +124,13 @@
   {
    "date_as_written": "2013-01-02 00:00:00",
    "number_as_written": "9/PMK.03/2013",
+   "page_retrieved_at": "2026-10-05T13:23:28+00:00",
    "retrieved_at": "2026-09-21T14:35:14+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengajuan dan Penyelesaian Keberatan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2013",
+   "validity_as_written": "02 Jan 2013 - 27 Des 2024"
   }
  ],
  "status": {

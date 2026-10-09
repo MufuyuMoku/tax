@@ -72,7 +72,26 @@
     "target_id": "pmk-15-2008"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 15/PMK.011/2008 — Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng dalam Kemasan di dalam Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-011-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 14/PMK.011/2008 — Pajak Pertambahan Nilai Dibayar oleh Pemerintah atas Penyerahan Minyak Goreng Curah di dalam Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/14-pmk-011-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 246/PMK.011/2009 — Pencabutan Peraturan Menteri Keuangan Nomor 231/PMK.011/2008 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Sawit di dalam Negeri untuk Tahun Anggaran 2009.",
+    "url": "https://jdih.kemenkeu.go.id/dok/246-pmk-011-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,11 +107,13 @@
   {
    "date_as_written": "2008-12-23 00:00:00",
    "number_as_written": "231/PMK.011/2008",
+   "page_retrieved_at": "2026-10-05T13:58:00+00:00",
    "retrieved_at": "2026-09-21T14:42:06+00:00",
    "source": "JDIH",
    "title_as_written": "Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Sawit di dalam Negeri untuk Tahun Anggaran 2009",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-011-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-011-2008",
+   "validity_as_written": "23 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

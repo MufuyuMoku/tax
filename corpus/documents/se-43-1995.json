@@ -15,7 +15,20 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:17:00+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/f8f154cd-983c-48ad-b91c-2764929d7e9c/SE-43~PJ.5~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:17:41+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9959d3a0-1569-4146-a9cd-1d33e2b0c231/SE-43~PJ.41~1995SE.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +42,7 @@
   {
    "date_as_written": "1995-08-31 00:00:00",
    "number_as_written": "SE SE-43/PJ.5/1995",
+   "page_retrieved_at": "2026-10-09T01:17:00+00:00",
    "retrieved_at": "2026-09-21T15:00:36+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +50,13 @@
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Pedoman Pengkreditan Pajak Masukan atas Pkp yang Menggunakan Norma Penghitungan Penghasilan Neto (Penyempurnaan Ke-1 atas Surat Edaran Seri Ppn 12-95)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-43-pj-5-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-43-pj-5-1995",
+   "validity_as_written": "31 Agu 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-09-21 00:00:00",
    "number_as_written": "SE SE-43/PJ.41/1995",
+   "page_retrieved_at": "2026-10-09T01:17:41+00:00",
    "retrieved_at": "2026-09-21T15:00:36+00:00",
    "selected_because": [
     "judul"
@@ -48,11 +64,12 @@
    "source": "JDIH",
    "title_as_written": "Tanda Pengenal Resmi Sebagai Penduduk Luar Negeri (Penlu) (Seri Pph Pasal 25 No 7)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-43-pj-41-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-43-pj-41-1995",
+   "validity_as_written": "21 Sep 1995 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -82,7 +99,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Pelaksanaan Pedoman Pengkreditan Pajak Masukan atas Pkp yang Menggunakan Norma Penghitungan Penghasilan Neto (Penyempurnaan Ke-1 atas Surat Edaran Seri Ppn 12-95)"

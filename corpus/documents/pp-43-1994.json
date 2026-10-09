@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1994-12-23",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "43 TAHUN 1994",
-   "retrieved_at": "2026-10-03T04:02:57+00:00",
+   "retrieved_at": "2026-10-05T07:05:20+00:00",
    "source": "DJP",
    "title_as_written": "PENCABUTAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 35 TAHUN 1983 TENTANG PENDAFTARAN, PEMBERIAN NOMOR POKOK WAJIB PAJAK, PENYAMPAIAN SURAT PEMBERITAHUAN, DAN PERSYARATAN PENGAJUAN KEBERATAN, DAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 31 TAHUN 1986 TENTANG TATA CARA PEMERIKSAAN DI BIDANG PERPAJAKAN",
    "type_as_written": "Peraturan Pemerintah",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENCABUTAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 35 TAHUN 1983 TENTANG PENDAFTARAN, PEMBERIAN NOMOR POKOK WAJIB PAJAK, PENYAMPAIAN SURAT PEMBERITAHUAN, DAN PERSYARATAN PENGAJUAN KEBERATAN, DAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 31 TAHUN 1986 TENTANG TATA CARA PEMERIKSAAN DI BIDANG PERPAJAKAN"

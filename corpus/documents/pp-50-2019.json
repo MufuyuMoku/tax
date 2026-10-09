@@ -58,7 +58,20 @@
     "target_id": "pp-69-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 69 TAHUN 2015 — Impor dan Penyerahan Alat Angkutan Tertentu dan Penyerahan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-69-tahun-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 49 TAHUN 2022 — Pajak Pertambahan Nilai Dibebaskan dan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Tidak Dipungut atas lmpor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu dan/atau Pemanfaatan Jasa Kena Pajak Tertentu dari luar Daerah Pabean",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-49-tahun-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -74,11 +87,13 @@
   {
    "date_as_written": "2019-07-04 00:00:00",
    "number_as_written": "PP 50 TAHUN 2019",
+   "page_retrieved_at": "2026-10-05T06:57:39+00:00",
    "retrieved_at": "2026-09-21T14:06:35+00:00",
    "source": "JDIH",
    "title_as_written": "Impor dan Penyerahan Alat Angkutan Tertentu Serta Penyerahan dan Pemanfaatan Jasa Kena Pajak Terkait Alat Angkutan Tertentu yang Tidak Dipungut Pajak Pertambahan Nilai",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-50-tahun-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-50-tahun-2019",
+   "validity_as_written": "04 Jul 2019 - 12 Des 2022"
   }
  ],
  "status": {

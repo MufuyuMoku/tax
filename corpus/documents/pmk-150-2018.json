@@ -80,7 +80,20 @@
     "target_id": "pmk-35-2018"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 35/PMK.010/2018 — Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-010-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 130/PMK.010/2020 — Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+    "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-010-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -96,6 +109,7 @@
   {
    "date_as_written": "2018-11-26 00:00:00",
    "number_as_written": "150/PMK.010/2018",
+   "page_retrieved_at": "2026-10-05T14:24:32+00:00",
    "retrieved_at": "2026-09-21T14:25:22+00:00",
    "selected_because": [
     "judul"
@@ -103,7 +117,8 @@
    "source": "JDIH",
    "title_as_written": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/150-pmk-010-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/150-pmk-010-2018",
+   "validity_as_written": "26 Nov 2018 - 15 Okt 2020"
   }
  ],
  "status": {

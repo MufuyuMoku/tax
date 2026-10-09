@@ -16,21 +16,235 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "uu-16-2000--b000-i",
+  "uu-16-2000--b001-ii",
+  "uu-16-2000--b002-iii",
+  "uu-16-2000--p003-i",
+  "uu-16-2000--p004-1",
+  "uu-16-2000--p005-2",
+  "uu-16-2000--p006-3",
+  "uu-16-2000--p007-4",
+  "uu-16-2000--p008-6",
+  "uu-16-2000--p009-7",
+  "uu-16-2000--p010-8",
+  "uu-16-2000--p011-9",
+  "uu-16-2000--p012-10",
+  "uu-16-2000--p013-11",
+  "uu-16-2000--p014-12",
+  "uu-16-2000--p015-14",
+  "uu-16-2000--p016-15",
+  "uu-16-2000--p017-16",
+  "uu-16-2000--p018-17b",
+  "uu-16-2000--p019-17c",
+  "uu-16-2000--p020-18",
+  "uu-16-2000--p021-19",
+  "uu-16-2000--p022-20",
+  "uu-16-2000--p023-21",
+  "uu-16-2000--p024-22",
+  "uu-16-2000--p025-23",
+  "uu-16-2000--p026-24",
+  "uu-16-2000--p027-25",
+  "uu-16-2000--p028-27",
+  "uu-16-2000--p029-27a",
+  "uu-16-2000--p030-28",
+  "uu-16-2000--p031-29",
+  "uu-16-2000--p032-31",
+  "uu-16-2000--p033-32",
+  "uu-16-2000--p034-33",
+  "uu-16-2000--p035-34",
+  "uu-16-2000--p036-36",
+  "uu-16-2000--p037-36a",
+  "uu-16-2000--p038-37",
+  "uu-16-2000--p039-38",
+  "uu-16-2000--p040-39",
+  "uu-16-2000--p041-41",
+  "uu-16-2000--p042-41a",
+  "uu-16-2000--p043-41b",
+  "uu-16-2000--p044-44",
+  "uu-16-2000--p045-47a",
+  "uu-16-2000--p046-ii",
+  "uu-16-2000--p047-iii"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "6",
+     "1983",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 6 TAHUN 1983",
+    "quote": "Beberapa ketentuan dalam Undang-undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Nomor 3262) sebagaimana telah diubah dengan Undang-undang Nomor 9 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 59, Tambahan Lembaran Negara Nomor 3566) diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "uu-6-1983"
+   }
+  ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 50 TAHUN 1994 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 11 TAHUN 1994, SEBAGAIMANA TELAH DIUBAH DENGAN PERATURAN PEMERINTAH NOMOR 20 TAHUN 1996",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-50-tahun-1994-tentang-pelaksanaan-undang-undang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN BESARNYA NILAI JUAL KENA PAJAK UNTUK PENGHITUNGAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-nilai-jual-kena-pajak-untuk-penghitungan-pajak-bumi-dan-bangunan-2"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGENAAN PAJAK BUMI DAN BANGUNAN BAGI INVESTASI DI WILAYAH TERTENTU",
+    "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-bumi-dan-bangunan-bagi-investasi-di-wilayah-tertentu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK ATAS PENGHASILAN DARI PEKERJAAN YANG DITERIMA TENAGA ASING YANG BEKERJA PADA WAJIB PAJAK BADAN DI BIDANG PENGEBORAN MINYAK DAN GAS BUMI DI INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-atas-penghasilan-dari-pekerjaan-yang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBAYARAN PAJAK DAN SANKSI ADMINISTRASI YANG TERUTANG SESUAI HASIL PEMERIKSAAN DAN PEMBAYARAN BUNGA DAN DENDA",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pajak-dan-sanksi-administrasi-yang-terutang-sesuai-hasil-pemeriksaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEDOMAN PENGKREDITAN PAJAK MASUKAN BAGI PEDAGANG ECERAN BESAR DALAM MASA PERALIHAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pedoman-pengkreditan-pajak-masukan-bagi-pedagang-eceran-besar-dalam-masa-peralihan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-dan-pengembalian-kelebihan-pembayaran-pajak-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 83/KMK.04/1994 TANGGAL 19 MARET 1994 TENTANG PENGGUNAAN PENERIMAAN PAJAK BUMI DAN BANGUNAN BAGIAN PEMERINTAH PUSAT",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-83kmk041994-tanggal-19"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 637/KMK.04/1994 TENTANG PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, ATAU PEMEKARAN USAHA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-637kmk041994-tentang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBEBASAN BEA MASUK DAN PERLAKUAN PERPAJAKAN DALAM RANGKA PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN",
+    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-bea-masuk-dan-perlakuan-perpajakan-dalam-rangka-pengembangan-pulau-bintan-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 19 SAMPAI DENGAN 25 MARET 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-111"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 12 SAMPAI DENGAN 18 NOVEMBER 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-150"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 29 JUNI SAMPAI DENGAN 5 JULI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-344"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 4 SAMPAI DENGAN 10 JANUARI 1999",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-376"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN ZAKAT ATAS PENGHASILAN DALAM PENGHITUNGAN PENGHASILAN KENA PAJAK PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-zakat-atas-penghasilan-dalam-penghitungan-penghasilan-kena-pajak-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PETUNJUK PENERBITAN SURAT TAGIHAN PAJAK DAN PELAKSANAAN PENAGIHAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-penerbitan-surat-tagihan-pajak-dan-pelaksanaan-penagihan-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHANKEPUTUSANDIREKTURJENDERALPAJAKNOMORKEP-1165/PJ.24/1993TENTANGSISTEM,BENTUKDANJENISLAPORANBIDANGOPERASIONALDALAMLINGKUNGANDIREKTORATJENDERALPAJAKKHUSUSMENGENAIBIDANGPENGOLAHANDATADANINFORMASIPERPAJAKANDANKEP-17/PJ.24/1995TENTANGPERUBAHANKEPUTUSANDIREKTURJENDERALPAJAKNOMORKEP-1165/PJ.24/1993TENTANGSISTEM,BENTUKDANJENISLAPORANBIDANGOPERASIONALDALAMLINGKUNGANDIREKTORATJENDERALPAJAKKHUSUSMENGENAISISTEMDANBENTUKLAPORANPENERIMAANPAJAK(LPP)DANLAPORANPENERIMAANPAJAK(LPP)II",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahankeputusandirekturjenderalpajaknomorkep"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 9 TAHUN 1994 — Perubahan atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-9-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 6 TAHUN 1983 — Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-1983"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2009 — Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 28 TAHUN 2007 — Perubahan Ketiga atas Undang-Undangan Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PERPU 5 TAHUN 2008 — Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/perpu-5-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 7 TAHUN 2021 — Harmonisasi Peraturan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2021"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-08-02",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "16 TAHUN 2000",
-   "retrieved_at": "2026-10-03T03:58:48+00:00",
+   "retrieved_at": "2026-10-05T06:46:07+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
    "type_as_written": "Undang-Undang",
@@ -39,11 +253,13 @@
   {
    "date_as_written": "2000-08-02 00:00:00",
    "number_as_written": "UU 16 TAHUN 2000",
+   "page_retrieved_at": "2026-10-05T14:32:59+00:00",
    "retrieved_at": "2026-09-21T14:04:32+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
    "type_as_written": "Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2000",
+   "validity_as_written": "02 Agu 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -70,16 +286,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "perubahan",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 139913,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:46:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata"
  },
  "title": "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN"
 }

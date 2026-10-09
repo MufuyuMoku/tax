@@ -15,7 +15,13 @@
   "year": "2018"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:48:13+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/42b4fe8e-5c6c-4e02-9715-6a8b65c8acc1/36~PMK.010~2018Per.pdf"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -38,12 +44,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 135/PMK.010/2020 — Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan dari Penghapusan secara Mutlak Piutang Negara Nonpokok yang Diterima Perusahaan Daerah Air Minum Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-010-2020"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2018-03-29 00:00:00",
    "number_as_written": "36/PMK.010/2018",
+   "page_retrieved_at": "2026-10-09T00:47:50+00:00",
    "retrieved_at": "2026-09-21T14:26:05+00:00",
    "selected_because": [
     "judul",
@@ -52,11 +66,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2018.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/36-pmk-010-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/36-pmk-010-2018",
+   "validity_as_written": "29 Mar 2018 - 24 Sep 2020"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -78,7 +93,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2018."

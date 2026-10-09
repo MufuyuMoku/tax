@@ -15,7 +15,13 @@
   "year": "2016"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:53:24+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/2874761e-f5b0-46f9-8350-7a3ecad5e721/91~PMK.010~2016Per.pdf"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "2016-06-09 00:00:00",
    "number_as_written": "91/PMK.010/2016",
+   "page_retrieved_at": "2026-10-09T00:53:03+00:00",
    "retrieved_at": "2026-09-21T14:29:05+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga\r\nNegara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Dan/ atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2016.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-010-2016"
+   "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-010-2016",
+   "validity_as_written": "09 Jun 2016 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga\r\nNegara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Dan/ atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2016."

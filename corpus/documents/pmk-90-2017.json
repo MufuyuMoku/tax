@@ -19,7 +19,13 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:52:43+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9a583071-9c12-40bf-912a-91799d51d678/90~PMK.02~2017Per.pdf"
+  }
+ ],
  "pasal_ids": [
   "pmk-90-2017--b000-i",
   "pmk-90-2017--b001-ii"
@@ -60,6 +66,7 @@
   {
    "date_as_written": "2017-07-05 00:00:00",
    "number_as_written": "90/PMK.02/2017",
+   "page_retrieved_at": "2026-10-05T13:03:13+00:00",
    "retrieved_at": "2026-09-21T14:27:20+00:00",
    "selected_because": [
     "judul"
@@ -67,7 +74,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 766/ Kmk.04/1992 tentang Tata Cara Penghitungan, Penyetoran dan Pelaporan Bagian Pemerintah, Pajak Penghasilan, Pajak Pertambahan Nilai dan Pungutan-Pungutan Lainnya atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi / Listrik.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-02-2017"
+   "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-02-2017",
+   "validity_as_written": "05 Jul 2017 - s.d. Dicabut"
   }
  ],
  "status": {

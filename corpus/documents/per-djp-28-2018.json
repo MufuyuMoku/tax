@@ -69,6 +69,7 @@
   {
    "date_as_written": "2018-12-14 00:00:00",
    "number_as_written": "PER-28/PJ/2018",
+   "page_retrieved_at": "2026-10-05T13:00:51+00:00",
    "retrieved_at": "2026-09-21T14:57:32+00:00",
    "selected_because": [
     "judul"
@@ -76,7 +77,8 @@
    "source": "JDIH",
    "title_as_written": "Surat Keterangan Domisili Bagi Subjek Pajak Dalam negeri Indonesia dalam rangka Penerapan Persetujuan Penghindaran Pajak Berganda",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-28-pj-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-28-pj-2018",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
   }
  ],
  "status": {

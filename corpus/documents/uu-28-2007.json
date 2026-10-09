@@ -105,7 +105,44 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 6 TAHUN 1983 — Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-1983"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 9 TAHUN 1994 — Perubahan atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-9-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 16 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PERPU 5 TAHUN 2008 — Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/perpu-5-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2009 — Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 7 TAHUN 2021 — Harmonisasi Peraturan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -121,11 +158,13 @@
   {
    "date_as_written": "2007-07-17 00:00:00",
    "number_as_written": "UU 28 TAHUN 2007",
+   "page_retrieved_at": "2026-10-05T14:16:25+00:00",
    "retrieved_at": "2026-09-21T14:03:53+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Undang-Undangan Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
    "type_as_written": "Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007",
+   "validity_as_written": "17 Jul 2007 - s.d. Dicabut"
   }
  ],
  "status": {

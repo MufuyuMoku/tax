@@ -62,7 +62,20 @@
     "target_id": "kmk-520-kmk-04-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 520/KMK.04/2000 — Jenis-Jenis Harta yang Termasuk dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan",
+    "url": "https://jdih.kemenkeu.go.id/dok/520-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 72 TAHUN 2023 — Penyusutan Harta Berwujud dan/atau Amortisasi Harta Tak Berwujud",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -78,11 +91,13 @@
   {
    "date_as_written": "2009-05-15 00:00:00",
    "number_as_written": "96/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:48:31+00:00",
    "retrieved_at": "2026-09-21T14:41:18+00:00",
    "source": "JDIH",
    "title_as_written": "Jenis-Jenis Harta yang Termasuk dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-03-2009",
+   "validity_as_written": "15 Mei 2009 - 17 Jul 2023"
   }
  ],
  "status": {

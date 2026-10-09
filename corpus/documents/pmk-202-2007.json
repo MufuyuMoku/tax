@@ -55,7 +55,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 18/PMK.03/2013 — Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +78,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "202/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:08:59+00:00",
    "retrieved_at": "2026-09-21T14:43:43+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

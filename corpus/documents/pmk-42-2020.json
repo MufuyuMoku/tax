@@ -99,7 +99,20 @@
     "target_id": "pmk-120-2017"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 48/PMK.04/2012 — Pemberitahuan Pabean dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditetapkan Sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-04-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 113 TAHUN 2024 — Pemberitahuan Pabean dalam rangka Pemasukan dan Pengeluaran Barang ke dan dari Kawasan yang Telah Ditetapkan sebagai Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-113-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -125,11 +138,13 @@
   {
    "date_as_written": "2020-04-24 00:00:00",
    "number_as_written": "42/PMK.04/2020",
+   "page_retrieved_at": "2026-10-05T06:49:51+00:00",
    "retrieved_at": "2026-09-21T14:23:06+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan  Nomor 48/PMK.04/2012 tentang Pemberitahuan Pabean dalam Rangka Pemasukan dan Pengeluaran Barang Ke dan Dari Kawasan yang Telah Ditetapkan Sebagai Kawasan \r\nPerdagangan Bebas dan Pelabuhan Bebas",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/42-pmk-04-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/42-pmk-04-2020",
+   "validity_as_written": "24 Apr 2020 - 31 Des 2024"
   }
  ],
  "status": {

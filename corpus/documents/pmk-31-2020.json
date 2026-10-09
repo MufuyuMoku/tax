@@ -38,7 +38,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 96/PMK.04/2022 — Pencabutan Peraturan Menteri Keuangan Nomor 31/PMK.04/2020 tentang Insentif Tambahan untuk Perusahaan Penerima Fasilitas Kawasan Berikat dan/atau Kemudahan Impor Tujuan Ekspor untuk Penanganan Dampak Bencana Penyakit Virus Corona ( Corona Virus Disease 2019 / COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -54,11 +61,13 @@
   {
    "date_as_written": "2020-04-13 00:00:00",
    "number_as_written": "31/PMK.04/2020",
+   "page_retrieved_at": "2026-10-05T06:50:52+00:00",
    "retrieved_at": "2026-09-21T14:23:10+00:00",
    "source": "JDIH",
    "title_as_written": "Insentif Tambahan untuk Perusahaan Penerima Fasilitas Kawasan Berikat dan/atau Kemudahan Impor Tujuan Ekspor untuk Penanganan Dampak Bencana Penyakit Virus Corona (Corona Virus Disease 2019/ Covid-19)",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-04-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-04-2020",
+   "validity_as_written": "13 Apr 2020 - 13 Jun 2022"
   }
  ],
  "status": {

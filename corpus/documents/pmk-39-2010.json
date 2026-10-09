@@ -23,7 +23,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 554/KMK.04/2000 — Batasan dan Tatacara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri yang Dilakukan Tidak dalam Kegiatan Usaha atau Pekerjaan oleh Orang Pribadi atau Badan yang Hasilnya Digunakan Sendiri atau Digunakan Pihak Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/554-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
@@ -39,11 +46,13 @@
   {
    "date_as_written": "2010-02-22 00:00:00",
    "number_as_written": "39/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:40:24+00:00",
    "retrieved_at": "2026-09-21T14:40:07+00:00",
    "source": "JDIH",
    "title_as_written": "Batasan dan Tata Cara Pengenaan Pajak Pertambahan Nilai atas Kegiatan Membangun Sendiri.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2010",
+   "validity_as_written": "22 Feb 2010 - s.d. Dicabut"
   }
  ],
  "status": {

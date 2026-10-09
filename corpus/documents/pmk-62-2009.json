@@ -175,7 +175,38 @@
     "target_id": "pmk-67-2008"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 67/PMK.01/2008 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 132/PMK.01/2006 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/67-pmk-01-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 132/PMK.01/2006 — Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/132-pmk-01-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 206.2/PMK.01/2014 — Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/206-2-pmk-01-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 29/PMK.01/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 62/PMK.01/2009 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/29-pmk-01-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 167/PMK.01/2012 — Perubahan Kedua Peraturan Menteri Keuangan Nomor 62/PMK.01/2009 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-01-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -191,11 +222,13 @@
   {
    "date_as_written": "2009-04-01 00:00:00",
    "number_as_written": "62/PMK.01/2009",
+   "page_retrieved_at": "2026-10-05T13:49:11+00:00",
    "retrieved_at": "2026-09-21T14:41:34+00:00",
    "source": "JDIH",
    "title_as_written": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-01-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-01-2009",
+   "validity_as_written": "01 Apr 2009 - s.d. Dicabut"
   }
  ],
  "status": {

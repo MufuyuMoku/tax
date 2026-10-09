@@ -59,7 +59,38 @@
     "target_id": "pmk-34-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 34/PMK.04/2020 — Pemberian Fasilitas Kepabeanan dan/atau Cukai Serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 83/PMK.04/2020 — Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 149/PMK.04/2020 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/ atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan\nPenanganan Pandemi Corona Virus Diseqse 2019(COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/149-pmk-04-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 92/PMK.04/2021 — Perubahan Ketiga Atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai Serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-04-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 164/PMK.04/2022 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/164-pmk-04-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -75,11 +106,13 @@
   {
    "date_as_written": "2023-11-27 00:00:00",
    "number_as_written": "PMK 126 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T06:31:53+00:00",
    "retrieved_at": "2026-09-21T14:17:47+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 164/PMK.04/2022 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-126-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-126-tahun-2023",
+   "validity_as_written": "29 Nov 2023 - s.d. Dicabut"
   }
  ],
  "status": {

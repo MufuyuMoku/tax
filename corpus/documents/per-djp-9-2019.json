@@ -93,6 +93,7 @@
   {
    "date_as_written": "2019-06-19 00:00:00",
    "number_as_written": "PerDJP PER-09/PJ/2019",
+   "page_retrieved_at": "2026-10-05T06:59:22+00:00",
    "retrieved_at": "2026-09-21T14:57:17+00:00",
    "selected_because": [
     "judul"
@@ -100,7 +101,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pembatalan dan Pencabutan Surat Keterangan Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 23 Tahun 2018",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-09-pj-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-09-pj-2019",
+   "validity_as_written": "19 Jun 2019 - s.d. Dicabut"
   }
  ],
  "status": {

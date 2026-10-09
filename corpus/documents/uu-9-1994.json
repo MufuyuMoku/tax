@@ -16,21 +16,187 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "uu-9-1994--b000-i",
+  "uu-9-1994--b001-ii",
+  "uu-9-1994--b002-iii",
+  "uu-9-1994--b003-iv",
+  "uu-9-1994--p004-i",
+  "uu-9-1994--p005-1",
+  "uu-9-1994--p006-2",
+  "uu-9-1994--p007-3",
+  "uu-9-1994--p008-6",
+  "uu-9-1994--p009-7",
+  "uu-9-1994--p010-8",
+  "uu-9-1994--p011-9",
+  "uu-9-1994--p012-11",
+  "uu-9-1994--p013-13",
+  "uu-9-1994--p014-14",
+  "uu-9-1994--p015-15",
+  "uu-9-1994--p016-16",
+  "uu-9-1994--p017-17",
+  "uu-9-1994--p018-17a",
+  "uu-9-1994--p019-17b",
+  "uu-9-1994--p020-18",
+  "uu-9-1994--p021-20",
+  "uu-9-1994--p022-21",
+  "uu-9-1994--p023-22",
+  "uu-9-1994--p024-23",
+  "uu-9-1994--p025-25",
+  "uu-9-1994--p026-27",
+  "uu-9-1994--p027-27a",
+  "uu-9-1994--p028-28",
+  "uu-9-1994--p029-29",
+  "uu-9-1994--p030-31",
+  "uu-9-1994--p031-32",
+  "uu-9-1994--p032-34",
+  "uu-9-1994--p033-35",
+  "uu-9-1994--p034-38",
+  "uu-9-1994--p035-39",
+  "uu-9-1994--p036-41",
+  "uu-9-1994--p037-41a",
+  "uu-9-1994--p038-41b",
+  "uu-9-1994--p039-42",
+  "uu-9-1994--p040-43",
+  "uu-9-1994--p041-44",
+  "uu-9-1994--p042-44a",
+  "uu-9-1994--p043-44b",
+  "uu-9-1994--p044-47",
+  "uu-9-1994--p045-ii",
+  "uu-9-1994--p046-iii",
+  "uu-9-1994--p047-iv"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "6",
+     "1983",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 6 TAHUN 1983",
+    "quote": "Mengubah beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan, sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "uu-6-1983"
+   }
+  ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-barang-dan-jasa-dan-pajak-penjualan-atas-barang-mewah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TEMPAT PENIMBUNAN BERIKAT",
+    "url": "https://www.pajak.go.id/id/peraturan/tempat-penimbunan-berikat"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 19 TAHUN 1997 TENTANG PAJAK DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-19-tahun-1997-tentang-pajak-daerah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK LUAR NEGERI YANG MEMPUNYAI KANTOR PERWAKILAN DAGANG DI INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-luar-negeri-yang-mempunyai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 7 TAHUN 1995 TENTANG PERUBAHAN TARIF BEA METERAI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-peraturan-pemerintah-nomor-7-tahun-1995-tentang-perubahan-tarif-bea-meterai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 2 SAMPAI DENGAN 8 FEBRUARI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-339"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 21 SAMPAI DENGAN 27 DESEMBER 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-371"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PETUNJUK PEMUNGUTAN PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN, SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pemungutan-pajak-penghasilan-pasal-22-sifat-dan-besarnya-pungutan-serta-tata"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK LUAR NEGERI YANG MEMPUNYAI KANTOR PERWAKILAN DAGANG DI INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-luar-negeri-yang-mempunyai-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "JADUAL WAKTU TINDAKAN PENAGIHAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/jadual-waktu-tindakan-penagihan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBENTUKAN TIM INFORMASI PERATURAN PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pembentukan-tim-informasi-peraturan-perpajakan"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 6 TAHUN 1983 — Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-1983"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PERPU 5 TAHUN 2008 — Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/perpu-5-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2009 — Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 28 TAHUN 2007 — Perubahan Ketiga atas Undang-Undangan Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1994-11-09",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "9 TAHUN 1994",
-   "retrieved_at": "2026-10-03T04:03:18+00:00",
+   "retrieved_at": "2026-10-05T07:07:11+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
    "type_as_written": "Undang-Undang",
@@ -39,11 +205,13 @@
   {
    "date_as_written": "1994-11-09 00:00:00",
    "number_as_written": "UU 9 TAHUN 1994",
+   "page_retrieved_at": "2026-10-05T14:40:25+00:00",
    "retrieved_at": "2026-09-21T14:04:53+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
    "type_as_written": "Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/uu-9-tahun-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-9-tahun-1994",
+   "validity_as_written": "09 Nov 1994 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -70,16 +238,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "perubahan",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 119013,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T07:07:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
  },
  "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN"
 }

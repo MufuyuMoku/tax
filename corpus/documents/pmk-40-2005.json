@@ -69,7 +69,14 @@
     "target_id": "kmk-683-kmk-03-2001"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 226/PMK.03/2013 — Tata Cara Penghitungan dan Pemberian Imbalan Bunga.",
+    "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -85,11 +92,13 @@
   {
    "date_as_written": "2005-06-06 00:00:00",
    "number_as_written": "40/PMK.03/2005",
+   "page_retrieved_at": "2026-10-05T14:21:09+00:00",
    "retrieved_at": "2026-09-21T14:46:38+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemberian Imbalan Bumga Kepada Wajib Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2005"
+   "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2005",
+   "validity_as_written": "06 Jun 2005 - s.d. Dicabut"
   }
  ],
  "status": {

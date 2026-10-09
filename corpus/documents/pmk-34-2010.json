@@ -19,7 +19,13 @@
   "year": "2010"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:47:08+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/e16ee2f1-1ac2-4943-9984-608bc29f24e1/34~PMK.02~2010Per.htm"
+  }
+ ],
  "pasal_ids": [
   "pmk-34-2010--b000-1",
   "pmk-34-2010--b001-2",
@@ -55,7 +61,20 @@
     "target_id": "pmk-41-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 6/PMK.02/2013 — Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Surplus Bank Indonesia Bagian Pemerintah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/6-pmk-02-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 5/PMK.02/2013 — Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Dividen.",
+    "url": "https://jdih.kemenkeu.go.id/dok/5-pmk-02-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,6 +90,7 @@
   {
    "date_as_written": "2010-02-12 00:00:00",
    "number_as_written": "34/PMK.02/2010",
+   "page_retrieved_at": "2026-10-05T13:41:05+00:00",
    "retrieved_at": "2026-09-21T14:40:07+00:00",
    "selected_because": [
     "judul"
@@ -78,7 +98,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Penyetoran Penerimaan Negara Bukan Pajak  Dari Dividen dan Sisa Surplus Bank Indonesia.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-02-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-02-2010",
+   "validity_as_written": "12 Feb 2010 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -71,7 +71,20 @@
     "target_id": "pmk-73-2012"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 73/PMK.03/2012 — Jangka Waktu Pendaftaran dan Pelaporan Kegiatan Usaha, Tata Cara Pendaftaran, Pemberian, dan Penghapusan Nomor Pokok Wajib Pajak, Serta Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/73-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 147/PMK.03/2017 — Tata Cara Pendaftaran Wajib Pajak dan Penghapusan Nomor Pokok Wajib Pajak Serta Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-03-2017"
+   }
+  ]
  },
  "source_records": [
   {
@@ -87,11 +100,13 @@
   {
    "date_as_written": "2015-09-30 00:00:00",
    "number_as_written": "182/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:10:59+00:00",
    "retrieved_at": "2026-09-21T14:30:23+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pendaftaran Nomor Pokok Wajib Pajak, Pengukuhan Pengusaha Kena Pajak, Penghapusan Nomor Pokok Wajib Pajak, dan Pencabutan Pengukuhan Pengusaha Kena Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/182-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/182-pmk-03-2015",
+   "validity_as_written": "30 Sep 2015 - s.d. Dicabut"
   }
  ],
  "status": {

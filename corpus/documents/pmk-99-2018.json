@@ -74,7 +74,20 @@
     "target_id": "pmk-107-2013"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 107/PMK.011/2013 — Tata Cara Penghitungan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/107-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 164 TAHUN 2023 — Tata Cara Pengenaan Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu dan Kewajiban Pelaporan Usaha untuk Dikukuhkan sebagai Pengusaha Kena Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-164-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -90,6 +103,7 @@
   {
    "date_as_written": "2018-08-24 00:00:00",
    "number_as_written": "99/PMK.03/2018",
+   "page_retrieved_at": "2026-10-05T13:01:32+00:00",
    "retrieved_at": "2026-09-21T14:25:42+00:00",
    "selected_because": [
     "judul"
@@ -97,7 +111,8 @@
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/99-pmk-03-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/99-pmk-03-2018",
+   "validity_as_written": "24 Agu 2018 - 29 Des 2023"
   }
  ],
  "status": {

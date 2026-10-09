@@ -56,7 +56,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 61/PMK.03/2005 — Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun",
+    "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 45/PMK.03/2009 — Tata Cara Pengawasan, Pengadministrasian, Pembayaran, Serta Pelunasan Pajak Pertambahan Nilai dan/atau Pajak Penjualan atas Barang Mewah atas Pengeluaran dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Kawasan Bebas Ke Tempat Lain dalam Daerah Pabean dan Pemasukan dan/atau Penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak Dari Tempat Lain dalam Daerah Pabean Ke Kawasan Bebas.",
+    "url": "https://jdih.kemenkeu.go.id/dok/45-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -72,11 +85,13 @@
   {
    "date_as_written": "2009-01-12 00:00:00",
    "number_as_written": "02/PMK.011/2009",
+   "page_retrieved_at": "2026-10-05T13:55:17+00:00",
    "retrieved_at": "2026-09-21T14:41:54+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-011-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-011-2009",
+   "validity_as_written": "12 Jan 2009 - s.d. Dicabut"
   }
  ],
  "status": {

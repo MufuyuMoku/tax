@@ -16,7 +16,14 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "kmk-947-kmk-04-1983--b000-1",
+  "kmk-947-kmk-04-1983--b001-2",
+  "kmk-947-kmk-04-1983--b002-3",
+  "kmk-947-kmk-04-1983--b003-4",
+  "kmk-947-kmk-04-1983--b004-5",
+  "kmk-947-kmk-04-1983--b005-6"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -28,9 +35,9 @@
  "source_records": [
   {
    "date_as_written": "1983-12-31",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "947/KMK.04/1983",
-   "retrieved_at": "2026-10-03T04:07:07+00:00",
+   "retrieved_at": "2026-10-05T07:27:50+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +45,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -52,16 +59,16 @@
    "value_verbatim": "Aktif"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3494,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T07:27:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak"
  },
  "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK"
 }

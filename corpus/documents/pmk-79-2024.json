@@ -61,7 +61,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -77,11 +84,13 @@
   {
    "date_as_written": "2024-10-14 00:00:00",
    "number_as_written": "PMK 79 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T06:29:31+00:00",
    "retrieved_at": "2026-09-21T14:16:56+00:00",
    "source": "JDIH",
    "title_as_written": "Perlakuan Perpajakan dalam Kerja Sama Operasi",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2024",
+   "validity_as_written": "18 Okt 2024 - s.d. Dicabut"
   }
  ],
  "status": {

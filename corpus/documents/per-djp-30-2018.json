@@ -554,11 +554,13 @@
   {
    "date_as_written": "2018-12-18 00:00:00",
    "number_as_written": "PER-30/PJ/2018",
+   "page_retrieved_at": "2026-10-05T12:59:50+00:00",
    "retrieved_at": "2026-09-21T14:57:28+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan Peraturan Direktur Jenderal Pajak dan Keputusan Direktur Jenderal Pajak dalam rangka Simplifikasi Regulasi",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-30-pj-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-30-pj-2018",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
   }
  ],
  "status": {

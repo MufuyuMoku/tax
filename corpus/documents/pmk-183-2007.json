@@ -19,7 +19,13 @@
   "year": "2007"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:36:04+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/2f1b4661-16a1-4d73-afa1-baf9350d1fd8/183~PMK.03~2007Per.htm"
+  }
+ ],
  "pasal_ids": [
   "pmk-183-2007--b000-1",
   "pmk-183-2007--b001-2",
@@ -63,7 +69,20 @@
     "target_id": "kmk-535-kmk-04-2000"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 535/KMK.04/2000 — Wajib Pajak Tertentu yang Dikecualikan Dari Kewajiban Menyampaikan Surat Pemberitahuan",
+    "url": "https://jdih.kemenkeu.go.id/dok/535-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 243/PMK.03/2014 — Surat Pemberitahuan (Spt).",
+    "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -79,6 +98,7 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "183/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:15:04+00:00",
    "retrieved_at": "2026-09-21T14:43:51+00:00",
    "selected_because": [
     "judul",
@@ -87,7 +107,8 @@
    "source": "JDIH",
    "title_as_written": "Wajib Pajak Pajak Penghasilan Tertentu yang Dikecualikan Dari Kewajiban Menyampaikan Surat Pemberitahuan Pajak Penghasilan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/183-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/183-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -40,7 +40,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 35/PMK.010/2017 — Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor Yang\r\nDikenai Pajak Penjualan atas Barang Mewah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/35-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 96/PMK.03/2021 — Penetapan Jenis Barang Kena Pajak Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengecualian Pengenaan Pajak Penjualan atas Barang Mewah",
+    "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +69,13 @@
   {
    "date_as_written": "2019-06-10 00:00:00",
    "number_as_written": "86/PMK.010/2019",
+   "page_retrieved_at": "2026-10-05T07:00:03+00:00",
    "retrieved_at": "2026-09-21T14:24:22+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 35/PMK.010/2017 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-010-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-010-2019",
+   "validity_as_written": "10 Jun 2019 - 26 Jul 2021"
   }
  ],
  "status": {

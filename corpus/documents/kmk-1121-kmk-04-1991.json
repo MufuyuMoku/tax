@@ -38,14 +38,57 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI DAN ATAU PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pembayaran-pajak-pertambahan-nilai-dan-atau-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 16 SAMPAI DENGAN 22 JULI 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-128"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 12 SAMPAI DENGAN 18 AGUSTUS 2002",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-167"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TEMPAT TERUTANGNYA PAJAK BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR",
+    "url": "https://www.pajak.go.id/id/peraturan/tempat-terutangnya-pajak-bagi-pengusaha-kena-pajak-yang-dikukuhkan-di-kantor-pelayanan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENERBITAN DAN PENGKREDITAN FAKTUR PAJAK YANG DIBUAT TIDAK TEPAT WAKTU",
+    "url": "https://www.pajak.go.id/id/peraturan/penerbitan-dan-pengkreditan-faktur-pajak-yang-dibuat-tidak-tepat-waktu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN ANGSURAN/PEMBAYARAN PAJAK MELALUI BANK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-angsuranpembayaran-pajak-melalui-bank"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1991-11-13",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "1121/KMK.04/1991",
-   "retrieved_at": "2026-10-03T04:04:41+00:00",
+   "retrieved_at": "2026-10-05T07:11:40+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK MELALUI BANK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -53,7 +96,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -75,7 +118,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK MELALUI BANK"

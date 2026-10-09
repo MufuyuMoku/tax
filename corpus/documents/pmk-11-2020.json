@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:24:52+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/61b447ed-ca6b-454e-8d50-72ab3d941db9/11~PMK.010~2020Per.pdf"
+  }
+ ],
  "pasal_ids": [
   "pmk-11-2020--b000-1",
   "pmk-11-2020--b001-2",
@@ -78,7 +84,26 @@
     "target_id": "pmk-89-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 89/PMK.010/2015 — Tata Cara Pemberian Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu Serta Pengalihan Aktiva dan Sanksi Bagi Wajib Pajak Badan dalam Negeri yang Diberikan Fasilitas Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/89-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 96/PMK.010/2020 — Perubahan atas Peraturan Menteri Keuangan Nomor 11/PMK.010/2020 tentang Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-010-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -94,6 +119,7 @@
   {
    "date_as_written": "2020-02-11 00:00:00",
    "number_as_written": "11/PMK.010/2020",
+   "page_retrieved_at": "2026-10-05T06:53:34+00:00",
    "retrieved_at": "2026-09-21T14:23:18+00:00",
    "selected_because": [
     "judul",
@@ -102,7 +128,8 @@
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-010-2020",
+   "validity_as_written": "11 Feb 2020 - 18 Okt 2024"
   }
  ],
  "status": {

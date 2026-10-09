@@ -55,7 +55,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 9/PMK.03/2013 — Tata Cara Pengajuan dan Penyelesaian Keberatan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +78,13 @@
   {
    "date_as_written": "2015-11-11 00:00:00",
    "number_as_written": "202/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:08:37+00:00",
    "retrieved_at": "2026-09-21T14:30:15+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-03-2015",
+   "validity_as_written": "11 Nov 2015 - s.d. Dicabut"
   }
  ],
  "status": {

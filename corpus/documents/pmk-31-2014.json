@@ -52,7 +52,20 @@
     "target_id": "pmk-81-2010"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 81/PMK.03/2010 — Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal  Berproduksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -68,11 +81,13 @@
   {
    "date_as_written": "2014-02-10 00:00:00",
    "number_as_written": "31/PMK.03/2014",
+   "page_retrieved_at": "2026-10-05T13:18:45+00:00",
    "retrieved_at": "2026-09-21T14:33:27+00:00",
    "source": "JDIH",
    "title_as_written": "Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal Berproduksi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2014"
+   "url": "https://jdih.kemenkeu.go.id/dok/31-pmk-03-2014",
+   "validity_as_written": "10 Feb 2014 - 17 Feb 2021"
   }
  ],
  "status": {

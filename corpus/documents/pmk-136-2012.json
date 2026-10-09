@@ -40,7 +40,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 85/PMK.03/2012 — Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 8/PMK.03/2021 — Tata Cara Pemungutan, Penyetoran dan Pelaporan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai  dan Pajak Penjualan Atas Barang Mewah oleh Badan Usaha Milik Negara dan Perusahaan Tertentu Yang Dimiliki Secara Langsung oleh Badan Usaha Milik Negara sebagai Pemungut Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/8-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +69,13 @@
   {
    "date_as_written": "2012-08-16 00:00:00",
    "number_as_written": "136/PMK.03/2012",
+   "page_retrieved_at": "2026-10-05T13:26:10+00:00",
    "retrieved_at": "2026-09-21T14:36:01+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2012 tentang Penunjukan Badan Usaha Milik Negara untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/136-pmk-03-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/136-pmk-03-2012",
+   "validity_as_written": "16 Agu 2012 - 01 Feb 2021"
   }
  ],
  "status": {

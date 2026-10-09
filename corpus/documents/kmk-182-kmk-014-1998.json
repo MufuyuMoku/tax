@@ -15,7 +15,13 @@
   "year": "1998"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T04:01:49+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/416d58ad-ef48-48f5-9891-98a940e0b08d/182~kmk.014~1998kep.htm"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "1998-03-09 00:00:00",
    "number_as_written": "182/KMK.014/1998",
+   "page_retrieved_at": "2026-10-06T04:01:28+00:00",
    "retrieved_at": "2026-09-21T14:52:02+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Nilai Kurs Sewbagai Dasar Pelunasan Bea Masuk, Ppn Barang dan Jasa, Ppn Barang Mewah, Pajak Ekspor dan Pph yang Berlaku untuk Tanggal 9 Sampai dengan 15 Maret 1998",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/182-kmk-014-1998"
+   "url": "https://jdih.kemenkeu.go.id/dok/182-kmk-014-1998",
+   "validity_as_written": "09 Mar 1998 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Nilai Kurs Sewbagai Dasar Pelunasan Bea Masuk, Ppn Barang dan Jasa, Ppn Barang Mewah, Pajak Ekspor dan Pph yang Berlaku untuk Tanggal 9 Sampai dengan 15 Maret 1998"

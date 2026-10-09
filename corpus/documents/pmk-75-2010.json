@@ -72,7 +72,44 @@
     "target_id": "kmk-251-kmk-03-2002"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 251/KMK.03/2002 — Perubahan atas Keputusan Menteri Keuangan Nomor 567/KMK.04/2000 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/251-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 567/KMK.04/2000 — Nilai Lain Sebagai Dasar Pengenaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/567-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 30/PMK.03/2014 — Pajak Pertambahan Nilai atas Penyerahan Emas Perhiasan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 38/PMK.011/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai Lain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/38-pmk-011-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 121/PMK.03/2015 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 75/PMK.03/2010 tentang Nilai\r\nLain Sebagai Dasar Pengenaan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,11 +125,13 @@
   {
    "date_as_written": "2010-03-31 00:00:00",
    "number_as_written": "75/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:37:42+00:00",
    "retrieved_at": "2026-09-21T14:39:52+00:00",
    "source": "JDIH",
    "title_as_written": "Nilai Lain Sebagai Dasar Pengenaan Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/75-pmk-03-2010",
+   "validity_as_written": "31 Mar 2010 - s.d. Dicabut"
   }
  ],
  "status": {

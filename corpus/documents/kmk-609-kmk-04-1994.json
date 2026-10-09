@@ -23,14 +23,21 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 629/KMK.04/1997 — Perubahan Kepmenkeu Nomor : 609/KMK.04/1994 tentang Penyelenggaraan Pembukuan dalam Bahasa Asing  dan Mata Uang Selain Rupiah Bagi Wajib Pajak dalam Rangka Pma, Kontrak Karya, Kontrak Bagi Hasil, dan Kegiatan Usaha atau Badan Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/629-kmk-04-1997"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1994-12-21",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "609/KMK.04/1994",
-   "retrieved_at": "2026-10-03T04:03:18+00:00",
+   "retrieved_at": "2026-10-05T07:05:41+00:00",
    "source": "DJP",
    "title_as_written": "PENYELENGGARAAN PEMBUKUAN DALAM BAHASA ASING DAN MATA UANG SELAIN RUPIAH BAGI WAJIB PAJAK DALAM RANGKA PENANAMAN MODAL ASING, KONTRAK KARYA, KONTRAK BAGI HASIL, DAN KEGIATAN USAHA ATAU BADAN LAIN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +46,13 @@
   {
    "date_as_written": "1994-12-21 00:00:00",
    "number_as_written": "609/KMK.04/1994",
+   "page_retrieved_at": "2026-10-05T14:39:04+00:00",
    "retrieved_at": "2026-09-21T14:53:51+00:00",
    "source": "JDIH",
    "title_as_written": "Penyelenggaraan Pembukuan dalam Bahasa Asing dan Mata Uang Selian Rupiah Bagi Wajib Pajak dalam Rangka Penanaman Modal Asing, Kontrak Karya, Kontrak Bagi Hasil, dan Kegiatan Usaha atau Badan Lain",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/609-kmk-04-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/609-kmk-04-1994",
+   "validity_as_written": "21 Des 1994 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -78,7 +87,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PENYELENGGARAAN PEMBUKUAN DALAM BAHASA ASING DAN MATA UANG SELAIN RUPIAH BAGI WAJIB PAJAK DALAM RANGKA PENANAMAN MODAL ASING, KONTRAK KARYA, KONTRAK BAGI HASIL, DAN KEGIATAN USAHA ATAU BADAN LAIN"

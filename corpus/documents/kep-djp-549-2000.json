@@ -16,7 +16,18 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "kep-djp-549-2000--b000-1",
+  "kep-djp-549-2000--b001-2",
+  "kep-djp-549-2000--b002-3",
+  "kep-djp-549-2000--b003-4",
+  "kep-djp-549-2000--b004-5",
+  "kep-djp-549-2000--b005-6",
+  "kep-djp-549-2000--b006-7",
+  "kep-djp-549-2000--b007-8",
+  "kep-djp-549-2000--b008-9",
+  "kep-djp-549-2000--b009-10"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [
@@ -38,15 +49,29 @@
   ],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "53",
+     "1994",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-53/PJ/1994",
+    "quote": "Pasal 9 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-53/PJ/1994 tanggal 29 Desember 1994, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-53-1994"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "2000-12-29",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP-549/PJ/2000",
-   "retrieved_at": "2026-10-03T03:56:21+00:00",
+   "retrieved_at": "2026-10-05T06:35:18+00:00",
    "source": "DJP",
    "title_as_written": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -54,7 +79,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -68,16 +93,16 @@
    "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8833,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:35:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/saat-pembuatan-bentuk-ukuran-pengadaan-tata-cara-penyampaian-dan-tata-cara-pembetulan"
  },
  "title": "SAAT PEMBUATAN, BENTUK, UKURAN, PENGADAAN, TATA CARA PENYAMPAIAN, DAN TATA CARA PEMBETULAN FAKTUR PAJAK STANDAR"
 }

@@ -15,7 +15,13 @@
   "year": "1994"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T04:12:31+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/fac466fe-575a-4c54-85c7-2a07125012b7/454~KMK.01~1994Kep.HTM"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "1994-09-07 00:00:00",
    "number_as_written": "454/KMK.01/1994",
+   "page_retrieved_at": "2026-10-06T04:12:10+00:00",
    "retrieved_at": "2026-09-21T14:54:07+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 100.000 Ton Pati Tapioka Pos Tarip 1108.14.900 oleh Badan Urusan Logistik (Bulog)",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/454-kmk-01-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/454-kmk-01-1994",
+   "validity_as_written": "07 Sep 1994 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 100.000 Ton Pati Tapioka Pos Tarip 1108.14.900 oleh Badan Urusan Logistik (Bulog)"

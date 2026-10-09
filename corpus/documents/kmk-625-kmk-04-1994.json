@@ -23,14 +23,21 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 545/KMK.04/2000 — Tatacara Pemerikasaan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/545-kmk-04-2000"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1994-12-27",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "625/KMK.04/1994",
-   "retrieved_at": "2026-10-03T04:02:57+00:00",
+   "retrieved_at": "2026-10-05T07:04:59+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMERIKSAAN DI BIDANG PERPAJAKAN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +46,13 @@
   {
    "date_as_written": "1994-12-27 00:00:00",
    "number_as_written": "625/KMK.04/1994",
+   "page_retrieved_at": "2026-10-05T14:38:43+00:00",
    "retrieved_at": "2026-09-21T14:53:51+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemeriksaan di Bidang Perpajakan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/625-kmk-04-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/625-kmk-04-1994",
+   "validity_as_written": "27 Des 1994 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -77,7 +86,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMERIKSAAN DI BIDANG PERPAJAKAN"

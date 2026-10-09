@@ -23,14 +23,33 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBENTUKAN TEAM INTENSIFIKASI PAJAK BUMI DAN BANGUNAN TINGKAT PUSAT",
+    "url": "https://www.pajak.go.id/id/peraturan/pembentukan-team-intensifikasi-pajak-bumi-dan-bangunan-tingkat-pusat"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEDOMAN PEMBAGIAN PAJAK BUMI DAN BANGUNAN YANG BERASAL DARI IURAN HASIL HUTAN ATAS KAYU TAHUN 1993/1994",
+    "url": "https://www.pajak.go.id/id/peraturan/pedoman-pembagian-pajak-bumi-dan-bangunan-yang-berasal-dari-iuran-hasil-hutan-atas-kayu"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1991-07-02",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "679/KMK.04/1991",
-   "retrieved_at": "2026-10-03T04:04:41+00:00",
+   "retrieved_at": "2026-10-05T07:12:22+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMBAYARAN PAJAK DAN SANKSI ADMINISTRASI YANG TERUTANG SESUAI HASIL PEMERIKSAAN DAN PEMBAYARAN BUNGA DAN DENDA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +57,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -60,7 +79,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMBAYARAN PAJAK DAN SANKSI ADMINISTRASI YANG TERUTANG SESUAI HASIL PEMERIKSAAN DAN PEMBAYARAN BUNGA DAN DENDA"

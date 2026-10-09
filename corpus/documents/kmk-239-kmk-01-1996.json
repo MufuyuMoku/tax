@@ -42,7 +42,26 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 486/KMK.04/2000 — Perubahan Kedua Kepmenkeu No.239/KMK.01/1996 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/486-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 463/KMK.01/1998 — Perubahan Kepmenkeu No.239/KMK.01/1996 tentang Pelaksanaan Pp.42/1991 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppn Bm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/463-kmk-01-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 80 TAHUN 2024 — Tata Cara Pemberian Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dan Pajak Penghasilan dalam rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -58,6 +77,7 @@
   {
    "date_as_written": "1996-04-01 00:00:00",
    "number_as_written": "239/KMK.01/1996",
+   "page_retrieved_at": "2026-10-06T03:55:32+00:00",
    "retrieved_at": "2026-09-21T14:53:02+00:00",
    "selected_because": [
     "judul"
@@ -65,7 +85,8 @@
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Peraturan Pemerintah Nomor 42 Tahun 1995 tentang Bea Masuk, Bea Masuk Tambahan, Ppn dan Ppnbm dan Pph dalam Rangka Pelaksanaan Proyek Pemerintah yang Dibiayai dengan Hibah atau Dana Pinjaman Luar Negeri",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/239-kmk-01-1996"
+   "url": "https://jdih.kemenkeu.go.id/dok/239-kmk-01-1996",
+   "validity_as_written": "01 Apr 1996 - 18 Okt 2024"
   }
  ],
  "status": {

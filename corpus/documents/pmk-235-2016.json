@@ -40,7 +40,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 87/PMK.03/2013 — Tata Cara Permintaan Keterangan atau Bukti Dari Pihak-Pihak yang Terikat oleh Kewajiban Merahasiakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/87-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 70/PMK.03/2017 — Petunjuk Teknis Mengenai Akses Informasi Keuangan untuk Kepentingan Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2017"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +69,13 @@
   {
    "date_as_written": "2016-12-30 00:00:00",
    "number_as_written": "235/PMK.03/2016",
+   "page_retrieved_at": "2026-10-05T13:04:54+00:00",
    "retrieved_at": "2026-09-21T14:28:09+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 87 / Pmk.03/ 2013 tentang Tata Cara\r\nPermintaan Keterangan atau Bukti Dari Pihak-Pihak yang Terikat oleh Kewajiban Merahasiakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-03-2016"
+   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-03-2016",
+   "validity_as_written": "30 Des 2016 - s.d. Dicabut"
   }
  ],
  "status": {

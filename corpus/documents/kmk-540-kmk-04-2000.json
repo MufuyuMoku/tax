@@ -23,14 +23,27 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 480/KMK.04/1997 — Perhitungan Besarnya Pemberian Imbalan Bunga Kepada Wajib Pajak atas Kelebihan Pembayaran yang Dikembalikan Karena Keputusan Keberatan atas Putusan Banding",
+    "url": "https://jdih.kemenkeu.go.id/dok/480-kmk-04-1997"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 163/KMK.04/1995 — Tatacara Pemberian Imbalan Bunga Kepada Wajib Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/163-kmk-04-1995"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-22",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "540/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:57:25+00:00",
+   "retrieved_at": "2026-10-05T06:39:50+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +52,13 @@
   {
    "date_as_written": "2000-12-22 00:00:00",
    "number_as_written": "540/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:30:17+00:00",
    "retrieved_at": "2026-09-21T14:49:47+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Pemberian Imbalan Bunga Kepada Wajib Pajak",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/540-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/540-kmk-04-2000",
+   "validity_as_written": "22 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -78,7 +93,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK"

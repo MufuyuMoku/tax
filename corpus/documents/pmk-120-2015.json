@@ -55,7 +55,20 @@
     "target_id": "kmk-174-kmk-03-2004"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 86/KMK.03/2002 — Tata Cara Penggunaan Stiker dalam Pemunguntan dan Pelunasan Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Gambar.",
+    "url": "https://jdih.kemenkeu.go.id/dok/86-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 174/KMK.03/2004 — Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Suara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/174-kmk-03-2004"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,11 +84,13 @@
   {
    "date_as_written": "2015-06-24 00:00:00",
    "number_as_written": "120/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:12:20+00:00",
    "retrieved_at": "2026-09-21T14:30:49+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan Keputusan Menteri Keuangan Nomor 86/KMK.03/2002 tentang Tata Cara Penggunaan Stiker dalam Pemungutan dan Pelunasan Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Gambar dan Keputusan Menteri Keuangan Nomor 174/KMK.03/2004 tentang Pajak Pertambahan Nilai atas Penyerahan Produk Rekaman Suara.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2015",
+   "validity_as_written": "24 Jun 2015 - s.d. Dicabut"
   }
  ],
  "status": {

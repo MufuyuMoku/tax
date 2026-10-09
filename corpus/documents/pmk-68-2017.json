@@ -40,7 +40,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 91/PMK.03/2015 — Pengurangan atau Penghapusan Sanksi Administrasi atas Keterlambatan Penyampaian Surat Pemberitahuan,Pembetulan Surat Pemberitahuan, dan Keterlambatan\r\nPembayaran atau Penyetoran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-03-2015"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +63,13 @@
   {
    "date_as_written": "2017-05-12 00:00:00",
    "number_as_written": "68/PMK.03/2017",
+   "page_retrieved_at": "2026-10-05T13:03:54+00:00",
    "retrieved_at": "2026-09-21T14:27:28+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 91/PMK.03/2015 tentang Pengurangan atau Penghapusan Sanksi Administrasi atas Keterlambatan Penyampaian Surat Pemberitahuan, Pembetulan Surat Pemberitahuan, dan Keterlambatan Pembayaran Atau\r\nPenyetoran Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2017"
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2017",
+   "validity_as_written": "12 Mei 2017 - s.d. Dicabut"
   }
  ],
  "status": {

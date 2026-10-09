@@ -53,7 +53,20 @@
     "target_id": "kmk-362-kmk-04-1999"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 82/PMK.03/2017 — Pemberian Pengurangan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 82/PMK.03/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 110/PMK.03/2009 tentang Pemberian Pengurangan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/82-pmk-03-2013"
+   }
+  ]
  },
  "source_records": [
   {
@@ -69,11 +82,13 @@
   {
    "date_as_written": "2009-06-17 00:00:00",
    "number_as_written": "110/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:46:08+00:00",
    "retrieved_at": "2026-09-21T14:41:14+00:00",
    "source": "JDIH",
    "title_as_written": "Pemberian Pengurangan Pajak Bumi dan Bangunan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-03-2009",
+   "validity_as_written": "17 Jun 2009 - s.d. Dicabut"
   }
  ],
  "status": {

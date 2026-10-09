@@ -44,7 +44,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 48 TAHUN 2023 — Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, Serta Jasa yang Terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya Yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 11 TAHUN 2025 — Ketentuan Nilai Lain sebagai Dasar Pengenaan Pajak dan Besaran Tertentu Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-11-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -60,6 +73,7 @@
   {
    "date_as_written": "2025-07-25 12:00:00",
    "number_as_written": "PMK 52 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:43:28+00:00",
    "retrieved_at": "2026-09-21T14:16:08+00:00",
    "selected_because": [
     "judul",
@@ -68,7 +82,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas\nPeraturan Menteri Keuangan Nomor 48 Tahun 2023 tentang  Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, serta Jasa yang terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-52-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-52-tahun-2025",
+   "validity_as_written": "01 Agu 2025 - s.d. Dicabut"
   }
  ],
  "status": {

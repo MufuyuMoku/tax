@@ -89,7 +89,20 @@
     "target_id": "pmk-185-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 16/PMK.03/2011 — Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -105,11 +118,13 @@
   {
    "date_as_written": "2015-12-28 00:00:00",
    "number_as_written": "244/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:07:16+00:00",
    "retrieved_at": "2026-09-21T14:29:55+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/244-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/244-pmk-03-2015",
+   "validity_as_written": "28 Des 2015 - 18 Okt 2024"
   }
  ],
  "status": {

@@ -51,7 +51,26 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 54/PMK.09/2008 — Komite Pengawas Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/54-pmk-09-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 63/PMK.09/2016 — Perubahan atas Peraturan Menteri Keuangan Nomor 54/PMK.09/2008 tentang Komite Pengawas Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/63-pmk-09-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 18/PMK.01/2020 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 54/PMK.09 /2008 tentang Komite Pengawas Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-01-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -67,11 +86,13 @@
   {
    "date_as_written": "2023-01-16 00:00:00",
    "number_as_written": "2/PMK.09/2023",
+   "page_retrieved_at": "2026-10-05T06:34:56+00:00",
    "retrieved_at": "2026-09-21T14:18:35+00:00",
    "source": "JDIH",
    "title_as_written": "Komite Pengawas Perpajakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/2-pmk-09-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/2-pmk-09-2023",
+   "validity_as_written": "17 Jan 2023 - s.d. Dicabut"
   }
  ],
  "status": {

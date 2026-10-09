@@ -71,7 +71,14 @@
     "target_id": "kmk-164-kmk-03-2002"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 164/KMK.03/2002 — Kredit Pajak Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/164-kmk-03-2002"
+   }
+  ]
  },
  "source_records": [
   {
@@ -87,6 +94,7 @@
   {
    "date_as_written": "2018-12-31 00:00:00",
    "number_as_written": "192/PMK.03/2018",
+   "page_retrieved_at": "2026-10-05T12:59:10+00:00",
    "retrieved_at": "2026-09-21T14:25:06+00:00",
    "selected_because": [
     "judul"
@@ -94,7 +102,8 @@
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Pengkreditan Pajak atas Penghasilan Dari Luar Negeri",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2018"
+   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2018",
+   "validity_as_written": "31 Des 2018 - s.d. Dicabut"
   }
  ],
  "status": {

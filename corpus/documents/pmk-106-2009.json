@@ -44,7 +44,32 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 143/PMK.06/2014 — Perubahan atas Peraturan Menteri Keuangan Nomor 106/PMK.06/2009 tentang Tata Cara Pengusulan, Pengangkatan, dan Pemberhentian Dewan Direktur Lembaga Pembiayaan Ekspor Indonesia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/143-pmk-06-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 105/PMK.06/2017 — Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 106/PMK.06/2009 tentang Tata Cara Pengusulan, Pengangkatan, dan Pemberhentian Dewan Direktur Lembaga Pembiayaan Ekspor Indonesia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/105-pmk-06-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 2/PMK.06/2017 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 106/PMK.06/2009 tentang Tata Cara Pengusulan, Pengangkatan, dan Pemberhentian Dewan Direktur Lembaga Pembiayaan\r\nEkspor Indonesia.",
+    "url": "https://jdih.kemenkeu.go.id/dok/2-pmk-06-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 58/PMK.06/2020 — Pembinaan dan Pengawasan Lembaga Pembiayaan Ekspor Indonesia",
+    "url": "https://jdih.kemenkeu.go.id/dok/58-pmk-06-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -60,11 +85,13 @@
   {
    "date_as_written": "2009-06-10 00:00:00",
    "number_as_written": "106/PMK.06/2009",
+   "page_retrieved_at": "2026-10-05T13:46:49+00:00",
    "retrieved_at": "2026-09-21T14:41:14+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengusulan, Pengangkatan dan Pemberhentian Dewan Direktur Lembaga Pembiayaan Ekspor Indonesia.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/106-pmk-06-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/106-pmk-06-2009",
+   "validity_as_written": "10 Jun 2009 - s.d. Dicabut"
   }
  ],
  "status": {

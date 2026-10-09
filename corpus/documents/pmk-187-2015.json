@@ -80,7 +80,20 @@
     "target_id": "pmk-10-2013"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 10/PMK.03/2013 — Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -96,11 +109,13 @@
   {
    "date_as_written": "2015-09-30 00:00:00",
    "number_as_written": "187/PMK.03/2015",
+   "page_retrieved_at": "2026-10-05T13:09:58+00:00",
    "retrieved_at": "2026-09-21T14:30:19+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2015"
+   "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2015",
+   "validity_as_written": "30 Sep 2015 - 18 Okt 2024"
   }
  ],
  "status": {

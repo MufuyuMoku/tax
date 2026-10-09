@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:22:05+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9b8215c0-56df-4bd2-a2fd-1313cafe9a93/PER-03 2020.pdf"
+  }
+ ],
  "pasal_ids": [
   "per-djp-3-2020--b000-1",
   "per-djp-3-2020--b001-2",
@@ -69,6 +75,7 @@
   {
    "date_as_written": "2020-02-20 00:00:00",
    "number_as_written": "PER-03/PJ/2020",
+   "page_retrieved_at": "2026-10-05T06:53:14+00:00",
    "retrieved_at": "2026-09-21T14:57:01+00:00",
    "selected_because": [
     "judul"
@@ -76,7 +83,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan atau Telah Mendapatkan Izin dari Otoritas Jasa Keuangan",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-03-pj-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-03-pj-2020",
+   "validity_as_written": "20 Feb 2020 - s.d. Dicabut"
   }
  ],
  "status": {

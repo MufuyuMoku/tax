@@ -75,7 +75,26 @@
     "target_id": "kmk-235-kmk-03-2003"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 544/KMK.04/2000 — Kriteria Wajib Pajak yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/544-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 235/KMK.03/2003 — Perubahan atas Keputusan Menteri Keuangan Nomor 544/KMK.04/2000 tentang Kriteria Wajib Pajak yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/235-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 74/PMK.03/2012 — Tata Cara Penetapan dan Pencabutan Penetapan Wajib Pajak dengan Kriteria Tertentu dalam Rangka Pengembalian Pendahuluan Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -91,11 +110,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "192/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:12:02+00:00",
    "retrieved_at": "2026-09-21T14:43:47+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Penetapan Wajib Pajak dengan Kriteria Tertentu dalam Rangka Pengembalian Pendahuluan Pembayaran Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/192-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

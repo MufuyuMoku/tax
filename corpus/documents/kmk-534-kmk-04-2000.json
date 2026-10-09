@@ -16,7 +16,14 @@
  },
  "identity_conflicts": [],
  "original_files": [],
- "pasal_ids": [],
+ "pasal_ids": [
+  "kmk-534-kmk-04-2000--b000-1",
+  "kmk-534-kmk-04-2000--b001-2",
+  "kmk-534-kmk-04-2000--b002-3",
+  "kmk-534-kmk-04-2000--b003-4",
+  "kmk-534-kmk-04-2000--b004-5",
+  "kmk-534-kmk-04-2000--b005-6"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -38,14 +45,21 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 243/PMK.03/2014 — Surat Pemberitahuan (Spt).",
+    "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-22",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "534/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:57:46+00:00",
+   "retrieved_at": "2026-10-05T06:41:55+00:00",
    "source": "DJP",
    "title_as_written": "BENTUK DAN ISI SURAT PEMBERITAHUAN SERTA KETERANGAN DAN ATAU DOKUMEN YANG HARUS DILAMPIRKAN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -54,11 +68,13 @@
   {
    "date_as_written": "2000-12-22 00:00:00",
    "number_as_written": "534/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:31:59+00:00",
    "retrieved_at": "2026-09-21T14:49:47+00:00",
    "source": "JDIH",
    "title_as_written": "Bentuk dan Isi Surat Pemberitahuan Serta Keterangan dan atau Dokumen yang Harus Dilampirkan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/534-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/534-kmk-04-2000",
+   "validity_as_written": "22 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -84,16 +100,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 6371,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T06:41:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-pemberitahuan-serta-keterangan-dan-atau-dokumen-yang-harus"
  },
  "title": "BENTUK DAN ISI SURAT PEMBERITAHUAN SERTA KETERANGAN DAN ATAU DOKUMEN YANG HARUS DILAMPIRKAN"
 }

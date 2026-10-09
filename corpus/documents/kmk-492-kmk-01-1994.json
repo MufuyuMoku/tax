@@ -15,7 +15,13 @@
   "year": "1994"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:18:38+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a1595f4b-7739-4cd1-b7d8-bd99f1e3c53f/492~KMK.01~1994Kep.HTM"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "1994-10-07 00:00:00",
    "number_as_written": "492/KMK.01/1994",
+   "page_retrieved_at": "2026-10-09T00:18:17+00:00",
    "retrieved_at": "2026-09-21T14:54:03+00:00",
    "selected_because": [
     "judul",
@@ -37,11 +44,12 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Lampiran Keputusan Menteri Keuangan Ri No. Kep-330/KMK.04/1992 tentang Perlakuan Pajak Penghasilan Bagi Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir dengan Keputusan Menteri Keuangan Ri No. 228/KMK.01/1994",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/492-kmk-01-1994"
+   "url": "https://jdih.kemenkeu.go.id/dok/492-kmk-01-1994",
+   "validity_as_written": "07 Okt 1994 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -63,7 +71,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Perubahan Lampiran Keputusan Menteri Keuangan Ri No. Kep-330/KMK.04/1992 tentang Perlakuan Pajak Penghasilan Bagi Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir dengan Keputusan Menteri Keuangan Ri No. 228/KMK.01/1994"

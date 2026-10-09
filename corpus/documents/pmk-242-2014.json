@@ -88,7 +88,50 @@
     "target_id": "pmk-76-2013"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 167/PMK.03/2007 — Peraturan Menteri Keuangan Ri Nomor 167/PMK.03/2007 Tanggal 18 Desember 2007 tentang Penunjukan Tempat dan Tata Cara Pembayaran Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 76/PMK.03/2013 — Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/76-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 187/PMK.03/2007 — Jangka Waktu Pelunasan Surat Tagihan Pajak, Surat Ketetapan Pajak Kurang Bayar, dan Surat Ketetapan Pajak Kurang Bayar Tambahan, Serta Surat Keputusan Pembetulan, Surat Keputusan Keberatan, Putusan Banding, dan Putusan Peninjauan Kembali, yang Menyebabkan Jumlah Pajak Yangharus Dibayar Bertambah Bagi Wajib Pajak Usaha Kecil dan Wajib Pajak di Daerah Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/187-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 80/PMK.03/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 184/PMK.03/2007 tentang Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Penentuan Tempat Pembayaran Pajak, dan Tata Cara Pembayaran, Penyetoran dan Pelaporan Pajak, Serta Tata Cara Pengangsuran dan Penundaan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 184/PMK.03/2007 — Penentuan Tanggal Jatuh Tempo Pembayaran dan Penyetoran Pajak, Penentuan Tempat Pembayaran Pajak, dan Tatacara Pembayaran, Penyetoran dan Pelaporan Pajak, Serta Tatacara Pengangsuran dan Penundaan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/184-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -104,11 +147,13 @@
   {
    "date_as_written": "2014-12-24 00:00:00",
    "number_as_written": "242/PMK.03/2014",
+   "page_retrieved_at": "2026-10-05T13:16:03+00:00",
    "retrieved_at": "2026-09-21T14:31:59+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pembayaran dan Penyetoran Pajak.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-03-2014"
+   "url": "https://jdih.kemenkeu.go.id/dok/242-pmk-03-2014",
+   "validity_as_written": "24 Des 2014 - 18 Okt 2024"
   }
  ],
  "status": {

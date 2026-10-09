@@ -40,7 +40,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +62,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "hanya terdaftar di JDIH, dan teksnya belum diambil situs ini",
   "url": null
  },
  "title": "Pemberian Pembebasan Bea Masuk, dan Cukai Serta Pajak Pertambahan Nilai dan Pajak Penghasilan Pasal 22 Tidak Dipungut atas Impor 700.000 Ton Gula Pasir oleh Badan Urusan Logistik (Bulog)"

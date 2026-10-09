@@ -55,7 +55,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 226/PMK.03/2021 — Pemberian Insentif Pajak terhadap Barang yang Diperlukan dalam Rangka Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan Bagi Sumber Daya Manusia di Bidang Kesehatan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam Rangka Penanganan Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/226-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -71,6 +78,7 @@
   {
    "date_as_written": "2022-07-11 00:00:00",
    "number_as_written": "113/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T14:54:58+00:00",
    "retrieved_at": "2026-09-21T14:19:26+00:00",
    "selected_because": [
     "judul"
@@ -78,7 +86,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 226/PMK.03/2021 tentang Pemberian Insentif Pajak terhadap Barang yang Diperlukan dalam Rangka . Penanganan Pandemi Corona Virus Disease 2019 dan Perpanjangan Pemberlakuan Fasilitas Pajak Penghasilan bagi Sumber Daya Manusia di Bidang Kesehatan Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 tentang Fasilitas Pajak Penghasilan dalam Rangka Penanganan Corona Virus Disease 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/113-pmk-03-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/113-pmk-03-2022",
+   "validity_as_written": "11 Jul 2022 - s.d. Dicabut"
   }
  ],
  "status": {

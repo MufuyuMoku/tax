@@ -188,10 +188,24 @@ def collect():
                 "retrieved_at": detail.get("pdf_retrieved_at") or detail.get("html_retrieved_at") or detail["retrieved_at"],
                 "text": text_path.read_text(encoding="utf8"),
             })
+        elif m5_detail.get(slug, {}).get("file_error"):
+            # HTTP 404 on the full-text file (K-062): the page lists a file JDIH does not serve.
+            doc["unusable_files"].append({
+                "url": m5_detail[slug]["file_url"],
+                "retrieved_at": m5_detail[slug]["retrieved_at"],
+                "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+                "missing": True,
+            })
         elif m5_detail.get(slug, {}).get("file_url"):
             fetched = m5_detail[slug]
             judged = m5_text.get(slug)
-            if judged and judged["usable"]:
+            if judged and judged["usable"] and not config.PUBLISH_JDIH_FILE_TEXT:
+                doc["unusable_files"].append({
+                    "url": fetched["file_url"],
+                    "retrieved_at": fetched["file_retrieved_at"],
+                    "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+                })
+            elif judged and judged["usable"]:
                 doc["texts"].append({
                     "source": "JDIH",
                     "format": fetched["file_type"],
@@ -395,13 +409,16 @@ def _same_title(a, b):
 def _no_text_reason(entry):
     sources = {r["source"] for r in entry["source_records"]}
     if entry["unusable_files"]:
-        return entry["unusable_files"][0]["reason"] + "; lihat berkas aslinya"
+        first = entry["unusable_files"][0]
+        return first["reason"] + ("" if first.get("missing") else "; berkas aslinya bisa dibuka")
+    if any(r.get("detail_error") == "tidak ada di sumber" for r in entry["source_records"]):
+        return "halaman detail tidak ada di sumber (HTTP 404)"
     if any(r.get("detail_error") == "detail belum diambil" for r in entry["source_records"]):
         return "halaman detail sumber belum diambil"
     if any(r.get("detail_error") for r in entry["source_records"]):
         return "halaman detail sumber gagal diambil"
     if sources == {"JDIH"}:
-        return "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil"
+        return "hanya terdaftar di JDIH, dan teksnya belum diambil situs ini"
     return "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran"
 
 

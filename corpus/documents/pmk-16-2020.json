@@ -59,7 +59,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -75,6 +82,7 @@
   {
    "date_as_written": "2020-03-09 00:00:00",
    "number_as_written": "16/PMK.010/2020",
+   "page_retrieved_at": "2026-10-05T06:52:53+00:00",
    "retrieved_at": "2026-09-21T14:23:18+00:00",
    "selected_because": [
     "judul"
@@ -82,7 +90,8 @@
    "source": "JDIH",
    "title_as_written": "Pemberian Fasilitas Pengurangan Penghasilan Neto atas Penanaman Modal Baru atau Perluasan Usaha pada Bidang Usaha Tertentu yang Merupakan Industri Padat Karya",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-010-2020",
+   "validity_as_written": "09 Mar 2020 - 18 Okt 2024"
   }
  ],
  "status": {

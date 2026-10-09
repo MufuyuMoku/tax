@@ -28,9 +28,9 @@
  "source_records": [
   {
    "date_as_written": "1987-07-31",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "465/KMK.01/1987",
-   "retrieved_at": "2026-10-03T04:05:43+00:00",
+   "retrieved_at": "2026-10-05T07:16:10+00:00",
    "source": "DJP",
    "title_as_written": "PEDOMAN PENERBITAN SURAT KETETAPAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH SERTA PENGHITUNGAN SANKSI ADMINISTRASI BERUPA BUNGA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -38,7 +38,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -60,7 +60,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PEDOMAN PENERBITAN SURAT KETETAPAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH SERTA PENGHITUNGAN SANKSI ADMINISTRASI BERUPA BUNGA"

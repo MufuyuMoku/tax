@@ -38,14 +38,33 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 335/KMK.04/1996 — Tatacara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan",
+    "url": "https://jdih.kemenkeu.go.id/dok/335-kmk-04-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 68/PMK.03/2012 — Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 539/KMK.03/2002 — Perubahan atas Keputusan Menteri Nomor 565/KMK.04/2000 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan",
+    "url": "https://jdih.kemenkeu.go.id/dok/539-kmk-03-2002"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "565/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:56:42+00:00",
+   "retrieved_at": "2026-10-05T06:36:20+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -54,11 +73,13 @@
   {
    "date_as_written": "2000-12-26 00:00:00",
    "number_as_written": "565/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:26:54+00:00",
    "retrieved_at": "2026-09-21T14:49:35+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/565-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/565-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -92,7 +113,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN"

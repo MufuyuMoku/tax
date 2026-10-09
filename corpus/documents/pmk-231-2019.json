@@ -102,7 +102,26 @@
     "target_id": "kmk-563-kmk-03-2003"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 563/KMK.03/2003 — Penunjukan Bendaharawan Pemerintah dan Kantor Perbendaharaan dan Kas Negara untuk Memungut, Menyetor,Dan Melaporkan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Beserta Tata Cara Pemungutan, Penyetoran dan Pelaporannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/563-kmk-03-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 59/PMK.03/2022 — Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.03/2019 tentang Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak, Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak, serta Pemotongan dan/atau Pemungutan, Penyetoran, dan Pelaporan Pajak bagi Instansi Pemerintah",
+    "url": "https://jdih.kemenkeu.go.id/dok/59-pmk-03-2022"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -128,11 +147,13 @@
   {
    "date_as_written": "2019-12-31 00:00:00",
    "number_as_written": "231/PMK.03/2019",
+   "page_retrieved_at": "2026-10-05T06:54:15+00:00",
    "retrieved_at": "2026-09-21T14:23:21+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak, Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak, Serta Pemotongan dan/atau Pemungutan, Penyetoran, dan Pelaporan Pajak Bagi Instansi Pemerintah",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-03-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/231-pmk-03-2019",
+   "validity_as_written": "31 Des 2019 - 18 Okt 2024"
   }
  ],
  "status": {

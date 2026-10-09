@@ -53,6 +53,7 @@
   {
    "date_as_written": "2008-05-02 00:00:00",
    "number_as_written": "PerDJP 18/PJ/2008",
+   "page_retrieved_at": "2026-10-05T14:04:35+00:00",
    "retrieved_at": "2026-09-21T14:58:11+00:00",
    "selected_because": [
     "judul",
@@ -61,7 +62,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Diskonto Surat Perbendaharaan Negara.",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-18-pj-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-18-pj-2008",
+   "validity_as_written": "02 Mei 2008 - s.d. Dicabut"
   }
  ],
  "status": {

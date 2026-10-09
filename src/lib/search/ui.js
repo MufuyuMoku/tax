@@ -274,7 +274,7 @@ export function startSearch({ base }) {
     tags.append(el("span", `tanda status-${item.status}`, statusLabel(item.status, true)));
     tags.append(el("span", "tanda netral", item.year || "Tahun tidak terbaca"));
     tags.append(
-      item.hasText ? el("span", "tanda netral", `${item.pasal} pasal`) : el("span", "tanda tanpa-teks", "Teks tidak tersedia di sumber")
+      item.hasText ? el("span", "tanda netral", `${item.pasal} pasal`) : el("span", "tanda tanpa-teks", "Tanpa teks di situs ini")
     );
     if (item.reasons.includes("nomor")) tags.append(el("span", "tanda alasan", "Cocok nomor"));
     if (item.reasons.includes("menyebut")) tags.append(el("span", "tanda netral", "Menyebut nomor ini"));

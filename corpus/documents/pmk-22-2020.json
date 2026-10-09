@@ -73,7 +73,20 @@
     "target_id": "pmk-7-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 7/PMK.03/2015 — Tata Cara Pembentukan dan Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement).",
+    "url": "https://jdih.kemenkeu.go.id/dok/7-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 172 TAHUN 2023 — Penerapan Prinsip Kewajaran dan Kelaziman Usaha dalam Transaksi yang Dipengaruhi Hubungan Istimewa",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-172-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -89,6 +102,7 @@
   {
    "date_as_written": "2020-03-18 00:00:00",
    "number_as_written": "22/PMK.03/2020",
+   "page_retrieved_at": "2026-10-05T06:52:13+00:00",
    "retrieved_at": "2026-09-21T14:23:14+00:00",
    "selected_because": [
     "judul"
@@ -96,7 +110,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pelaksanaan Kesepakatan Harga Transfer (Advance Pricing Agreement)",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/22-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/22-pmk-03-2020",
+   "validity_as_written": "18 Mar 2020 - 29 Des 2023"
   }
  ],
  "status": {

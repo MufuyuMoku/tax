@@ -80,7 +80,14 @@
     "target_id": "pmk-97-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 229/PMK.03/2014 — Persyaratan Serta Pelaksanaan Hak dan Kewajiban Seorang Kuasa.",
+    "url": "https://jdih.kemenkeu.go.id/dok/229-pmk-03-2014"
+   }
+  ]
  },
  "source_records": [
   {
@@ -96,11 +103,13 @@
   {
    "date_as_written": "2008-02-06 00:00:00",
    "number_as_written": "22/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T14:06:58+00:00",
    "retrieved_at": "2026-09-21T14:43:30+00:00",
    "source": "JDIH",
    "title_as_written": "Persyaratan Serta Pelaksanaan Hak dan Kewajiban Seorang Kuasa",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/22-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/22-pmk-03-2008",
+   "validity_as_written": "06 Feb 2008 - s.d. Dicabut"
   }
  ],
  "status": {

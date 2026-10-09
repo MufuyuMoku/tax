@@ -66,7 +66,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 111/PMK.03/2014 — Konsultan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/111-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 55 TAHUN 2026 — Konsultan Pajak dan Pihak Lain yang Bertindak sebagai Kuasa Wajib Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-55-tahun-2026"
+   }
+  ]
  },
  "source_records": [
   {
@@ -82,11 +95,13 @@
   {
    "date_as_written": "2022-11-22 00:00:00",
    "number_as_written": "175/PMK.01/2022",
+   "page_retrieved_at": "2026-10-05T06:36:17+00:00",
    "retrieved_at": "2026-09-21T14:18:58+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-01-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-01-2022",
+   "validity_as_written": "02 Des 2022 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -75,7 +75,26 @@
     "target_id": "kmk-571-kmk-03-2003"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 552/KMK.04/2000 — Batasan Pengusaha Kecil Pajak Pertambahan Nilai",
+    "url": "https://jdih.kemenkeu.go.id/dok/552-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 197/PMK.03/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/197-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 164 TAHUN 2023 — Tata Cara Pengenaan Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu dan Kewajiban Pelaporan Usaha untuk Dikukuhkan sebagai Pengusaha Kena Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-164-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -91,11 +110,13 @@
   {
    "date_as_written": "2010-03-23 00:00:00",
    "number_as_written": "68/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:38:43+00:00",
    "retrieved_at": "2026-09-21T14:39:55+00:00",
    "source": "JDIH",
    "title_as_written": "Batasan Pengusaha Kecil Pajak Pertambahan Nilai.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2010",
+   "validity_as_written": "23 Mar 2010 - 29 Des 2023"
   }
  ],
  "status": {

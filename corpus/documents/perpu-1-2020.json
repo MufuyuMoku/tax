@@ -128,7 +128,20 @@
     "target_id": "uu-20-2019"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : UU 7 TAHUN 2021 — Harmonisasi Peraturan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 4 TAHUN 2023 — Pengembangan dan Penguatan Sektor Keuangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-4-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -144,11 +157,13 @@
   {
    "date_as_written": "2020-03-31 00:00:00",
    "number_as_written": "PERPU 1 TAHUN 2020",
+   "page_retrieved_at": "2026-10-05T06:51:32+00:00",
    "retrieved_at": "2026-09-21T14:05:25+00:00",
    "source": "JDIH",
    "title_as_written": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan.",
    "type_as_written": "Peraturan Pemerintah Pengganti Undang-Undang",
-   "url": "https://jdih.kemenkeu.go.id/dok/perpu-1-tahun-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/perpu-1-tahun-2020",
+   "validity_as_written": "31 Mar 2020 - 29 Okt 2021"
   }
  ],
  "status": {

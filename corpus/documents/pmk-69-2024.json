@@ -48,7 +48,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 130/PMK.010/2020 — Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
+    "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-010-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -64,6 +71,7 @@
   {
    "date_as_written": "2024-10-08 00:00:00",
    "number_as_written": "PMK 69 TAHUN 2024",
+   "page_retrieved_at": "2026-10-05T06:29:51+00:00",
    "retrieved_at": "2026-09-21T14:17:00+00:00",
    "selected_because": [
     "judul",
@@ -72,7 +80,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 130/PMK.010/2020 tentang Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-69-tahun-2024"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-69-tahun-2024",
+   "validity_as_written": "09 Okt 2024 - s.d. Dicabut"
   }
  ],
  "status": {

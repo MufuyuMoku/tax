@@ -21,16 +21,31 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pp-136-2000",
+    "key": [
+     "PP",
+     "136",
+     "2000",
+     null
+    ],
+    "number_as_written": "136 TAHUN 2000",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, maka Peraturan Pemerintah Nomor 4 Tahun 1998 tentang Tata Cara Penjualan Barang Sitaan Yang Dikecualikan Dari Penjualan Secara Lelang Dalam Rangka Penagihan Pajak Dengan Surat Paksa (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 6, Tambahan Lembaran Negara Nomor 3726) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENJUALAN BARANG SITAAN YANG DIKECUALIKAN DARI PENJUALAN SECARA LELANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
  "source_records": [
   {
    "date_as_written": "1998-01-07",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "4 TAHUN 1998",
-   "retrieved_at": "2026-10-03T04:00:11+00:00",
+   "retrieved_at": "2026-10-05T06:51:39+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PENJUALAN BARANG SITAAN YANG DIKECUALIKAN DARI PENJUALAN SECARA LELANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
    "type_as_written": "Peraturan Pemerintah",
@@ -38,7 +53,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -60,7 +75,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PENJUALAN BARANG SITAAN YANG DIKECUALIKAN DARI PENJUALAN SECARA LELANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"

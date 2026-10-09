@@ -53,7 +53,20 @@
     "target_id": "pmk-25-2008"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 25/PMK.011/2008 — Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan/atau Penyerahan dalam Negeri Gandum Pos Tarif 1001.90.19.00",
+    "url": "https://jdih.kemenkeu.go.id/dok/25-pmk-011-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 10/PMK.011/2008 — Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan/atau Penyerahan Gandum dan Tepung Gandum/Terigu",
+    "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-011-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -69,11 +82,13 @@
   {
    "date_as_written": "2008-12-23 00:00:00",
    "number_as_written": "234/PMK.011/2008",
+   "page_retrieved_at": "2026-10-05T13:58:20+00:00",
    "retrieved_at": "2026-09-21T14:42:06+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan atas Peraturan Menteri Keuangan Nomor 10/PMK.011/2008 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan/atau Penyerahaan Gandum dan Tepung Gandum/Terigu dan Peraturan Menteri Keuangan Nomor 25/PMK.011/2008 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor dan/atau Penyerahan Gandum Pos Tarif 1001.90.19.00",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-011-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-011-2008",
+   "validity_as_written": "23 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

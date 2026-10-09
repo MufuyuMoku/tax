@@ -38,14 +38,27 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 21/KMK.04/1999 — Perubahan Kepmenkeu No.147/KMK.04/1998 tentang Penunjukan Pejabat untuk Penagihan Pajak Pusat, Tatacara dan Jadwal Waktu Pelaksanaan Penagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/21-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 147/KMK.04/1998 — Penunjukan Pejabat untuk Penagihan Pajak Pusat, Tatacara dan Jadwal Waktu Pelaksanaan Penagihan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/147-kmk-04-1998"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2000-12-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "561/KMK.04/2000",
-   "retrieved_at": "2026-10-03T03:57:04+00:00",
+   "retrieved_at": "2026-10-05T06:37:43+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS DAN PELAKSANAAN SURAT PAKSA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -54,11 +67,13 @@
   {
    "date_as_written": "2000-12-26 00:00:00",
    "number_as_written": "561/KMK.04/2000",
+   "page_retrieved_at": "2026-10-05T14:28:15+00:00",
    "retrieved_at": "2026-09-21T14:49:39+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Pelaksanaan Penagihan Seketika dan Sekaligus dan Pelaksanaan Surat Paksa",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-04-2000"
+   "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-04-2000",
+   "validity_as_written": "26 Des 2000 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -94,7 +109,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "TATA CARA PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS DAN PELAKSANAAN SURAT PAKSA"

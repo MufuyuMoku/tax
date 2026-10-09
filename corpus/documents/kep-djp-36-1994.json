@@ -19,7 +19,23 @@
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "kep-djp-1-1995",
+    "key": [
+     "KEP-DJP",
+     "1",
+     "1995",
+     null
+    ],
+    "number_as_written": "KEP - 01/PJ.24/1995",
+    "quote": "Mengubah Pasal 3 ayat (2) huruf b sehingga berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-36/PJ/1994 TENTANG PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [],
@@ -28,9 +44,9 @@
  "source_records": [
   {
    "date_as_written": "1994-07-12",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "KEP - 36/PJ./1994",
-   "retrieved_at": "2026-10-03T04:03:38+00:00",
+   "retrieved_at": "2026-10-05T07:07:32+00:00",
    "source": "DJP",
    "title_as_written": "PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC",
    "type_as_written": "Keputusan Dirjen Pajak",
@@ -38,7 +54,7 @@
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },
@@ -60,7 +76,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PEMINDAHAN WAJIB PAJAK PERUSAHAAN GO PUBLIC KE KANTOR PELAYANAN PAJAK PERUSAHAAN GO PUBLIC"

@@ -19,7 +19,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:23:43+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/cb203b0c-bdc8-409d-bf9c-a71264d96f60/2025pmkeuangan105.pdf"
+  }
+ ],
  "pasal_ids": [
   "pmk-105-2025--b000-1",
   "pmk-105-2025--b001-2",

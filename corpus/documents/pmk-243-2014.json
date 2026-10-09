@@ -145,7 +145,62 @@
     "target_id": "pmk-152-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 185/PMK.03/2007 — Tatacara Penerimaan dan Pengelolaan Surat Pemberitahuan",
+    "url": "https://jdih.kemenkeu.go.id/dok/185-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 183/PMK.03/2007 — Wajib Pajak Pajak Penghasilan Tertentu yang Dikecualikan Dari Kewajiban Menyampaikan Surat Pemberitahuan Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/183-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 534/KMK.04/2000 — Bentuk dan Isi Surat Pemberitahuan Serta Keterangan dan atau Dokumen yang Harus Dilampirkan",
+    "url": "https://jdih.kemenkeu.go.id/dok/534-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 152/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 181/PMK.03/2007 tentang Bentuk dan Isi Surat Pemberitahuan, Serta Tata Cara Pengambilan, Pengisian, Penandatanganan, dan Penyampaian Surat Pemberitahuan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/152-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 186/PMK.03/2007 — Wajib Pajak Tertentu yang Dikecualikan Dari Pengenaan Sanksi Administrasi Berupa Denda Karena Tidak Menyampaikan Surat Pemberitahuan dalam Jangka Waktu yang Ditentukan",
+    "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 181/PMK.03/2007 — Bentuk dan Isi Surat Pemberitahuan, Serta Tatacara Pengambilan, Pengisian, Penandatanganan, dan Penyampaian Surat Pemberitahuan",
+    "url": "https://jdih.kemenkeu.go.id/dok/181-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 9/PMK.03/2018 — Perubahan atas Peraturan Menteri Keuangan Nomor 243/PMK.03/2014 tentang Surat Pemberitahuan (Spt).",
+    "url": "https://jdih.kemenkeu.go.id/dok/9-pmk-03-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -161,11 +216,13 @@
   {
    "date_as_written": "2014-12-24 00:00:00",
    "number_as_written": "243/PMK.03/2014",
+   "page_retrieved_at": "2026-10-05T13:15:43+00:00",
    "retrieved_at": "2026-09-21T14:31:59+00:00",
    "source": "JDIH",
    "title_as_written": "Surat Pemberitahuan (Spt).",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2014"
+   "url": "https://jdih.kemenkeu.go.id/dok/243-pmk-03-2014",
+   "validity_as_written": "24 Des 2014 - 18 Okt 2024"
   }
  ],
  "status": {

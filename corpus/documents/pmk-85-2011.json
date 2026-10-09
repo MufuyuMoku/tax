@@ -87,7 +87,26 @@
     "target_id": "kmk-121-kmk-03-2002"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 121/KMK.03/2002 — Tata Cara Pelaksanaan Pemotongan Pajak Penghasilan atas Bunga dan Diskonto Obligasi yang Diperdagangkan dan atau Dilaporkan Perdagangannya di Bursa Efek.",
+    "url": "https://jdih.kemenkeu.go.id/dok/121-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 07/PMK.011/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 85/PMK.03/2011 tentang Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Bunga Obligasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/07-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -103,6 +122,7 @@
   {
    "date_as_written": "2011-05-23 00:00:00",
    "number_as_written": "85/PMK.03/2011",
+   "page_retrieved_at": "2026-10-05T13:31:54+00:00",
    "retrieved_at": "2026-09-21T14:38:03+00:00",
    "selected_because": [
     "judul",
@@ -111,7 +131,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemotongan, Penyetoran, dan Pelaporan  Pajak Penghasilan atas Bunga Obligasi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2011"
+   "url": "https://jdih.kemenkeu.go.id/dok/85-pmk-03-2011",
+   "validity_as_written": "23 Mei 2011 - 18 Okt 2024"
   }
  ],
  "status": {

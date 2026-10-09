@@ -19,7 +19,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T00:26:36+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/8830a44a-12f5-4717-84c0-fed0e6239bdf/2025pmkeuangan112.pdf"
+  }
+ ],
  "pasal_ids": [
   "pmk-112-2025--b000-1",
   "pmk-112-2025--b001-2",

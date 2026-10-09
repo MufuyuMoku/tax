@@ -19,7 +19,13 @@
   "year": "2008"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-09T01:00:08+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/7d749bf1-9a2b-4da7-b8bc-397578c4d46d/80TAHUN2008PP.htm"
+  }
+ ],
  "pasal_ids": [
   "pp-80-2008--b000-1",
   "pp-80-2008--b001-2",
@@ -70,7 +76,20 @@
     "target_id": "pp-41-2001"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 42 TAHUN 2000 — Pembayaran Pajak Penghasilan Bagi Orang Pribadi yang Akan Bertolak Ke Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-42-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 41 TAHUN 2001 — Perubahan atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan Bagi Orang Pribadi yang Akan Bertolak Ke Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-41-tahun-2001"
+   }
+  ]
  },
  "source_records": [
   {
@@ -86,6 +105,7 @@
   {
    "date_as_written": "2008-12-31 00:00:00",
    "number_as_written": "PP 80 TAHUN 2008",
+   "page_retrieved_at": "2026-10-05T13:55:38+00:00",
    "retrieved_at": "2026-09-21T14:10:05+00:00",
    "selected_because": [
     "judul",
@@ -94,7 +114,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Bali Wajib Pajak Orang Pribadi dalam Negeri yang Bertolak Ke Luar Negeri.",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2008",
+   "validity_as_written": "31 Des 2008 - s.d. Dicabut"
   }
  ],
  "status": {

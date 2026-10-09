@@ -72,6 +72,7 @@
   {
    "date_as_written": "2025-07-25 12:00:00",
    "number_as_written": "PMK 50 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T14:44:08+00:00",
    "retrieved_at": "2026-09-21T14:16:12+00:00",
    "selected_because": [
     "judul",
@@ -80,7 +81,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-50-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-50-tahun-2025",
+   "validity_as_written": "01 Agu 2025 - s.d. Dicabut"
   }
  ],
  "status": {

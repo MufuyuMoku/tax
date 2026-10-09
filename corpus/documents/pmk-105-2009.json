@@ -78,7 +78,26 @@
     "target_id": "kmk-130-kmk-04-1998"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 130/KMK.04/1998 — Penghapusan Piutang Tak Tertagih yang Boleh Dikurangkan Sebagai Biaya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/130-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 207/PMK.010/2015 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 105/PMK.03/2009 tentang Piutang yang Nyata-Nyata Tidak Dapat Ditagih yang Dapat Dikurangkan Dari Penghasilan Bruto.",
+    "url": "https://jdih.kemenkeu.go.id/dok/207-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 57/PMK.03/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 105/PMK.03/2009 tentang Piutang yang Nyata-Nyata Tidak Dapat Ditagih yang Dapat Dikurangkan Dari Penghasilan Bruto.",
+    "url": "https://jdih.kemenkeu.go.id/dok/57-pmk-03-2010"
+   }
+  ]
  },
  "source_records": [
   {
@@ -94,11 +113,13 @@
   {
    "date_as_written": "2009-06-10 00:00:00",
    "number_as_written": "105/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:47:09+00:00",
    "retrieved_at": "2026-09-21T14:41:18+00:00",
    "source": "JDIH",
    "title_as_written": "Piutang yang Nyata-Nyata Tidak Dapat Ditagih yang Dapat Dikurangkan Dari Penghasilan Bruto.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/105-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/105-pmk-03-2009",
+   "validity_as_written": "10 Jun 2009 - s.d. Dicabut"
   }
  ],
  "status": {

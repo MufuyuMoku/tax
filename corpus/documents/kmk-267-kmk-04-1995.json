@@ -23,14 +23,21 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 608/KMK.04/1994 — Tata Cara Pelaksanaan Penagihan Pajak dan Penunjukan Pejabat yang Berwenang Mengeluarkan Surat Paksa",
+    "url": "https://jdih.kemenkeu.go.id/dok/608-kmk-04-1994"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "1995-06-26",
-   "detail_error": "detail belum diambil",
+   "detail_error": null,
    "number_as_written": "267/KMK.04/1995",
-   "retrieved_at": "2026-10-03T04:01:33+00:00",
+   "retrieved_at": "2026-10-05T07:23:42+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 608/KMK.04/1994 TENTANG TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA",
    "type_as_written": "Keputusan Menteri Keuangan",
@@ -39,11 +46,13 @@
   {
    "date_as_written": "1995-06-26 00:00:00",
    "number_as_written": "267/KMK.04/1995",
+   "page_retrieved_at": "2026-10-05T14:36:42+00:00",
    "retrieved_at": "2026-09-21T14:53:22+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor: 608/KMK.04/1994 tentang Tata Cara Pelaksanaan Pelaksanaan Penagihan Pajak dan Penunjukan Pejabat yang Berwenang Mengeluarkan Surat Paksa",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/267-kmk-04-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/267-kmk-04-1995",
+   "validity_as_written": "26 Jun 1995 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -78,7 +87,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman detail sumber belum diambil",
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
   "url": null
  },
  "title": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 608/KMK.04/1994 TENTANG TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA"

@@ -63,7 +63,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 255/PMK.03/2008 — Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa dan Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/255-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 215/PMK.03/2018 — Penghitungan Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa, Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala dan Wajib Pajak Orang Pribadi Pengusaha Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -79,6 +92,7 @@
   {
    "date_as_written": "2009-12-10 00:00:00",
    "number_as_written": "208/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:43:47+00:00",
    "retrieved_at": "2026-09-21T14:40:35+00:00",
    "selected_because": [
     "judul"
@@ -86,7 +100,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 255/PMK.03/2008 tentang Penghitungan Besarnya Angsuran Pajak Penghasilan dalam Tahun Pajak Berjalan yang Harus Dibayar Sendiri oleh Wajib Pajak Baru, Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, Wajib Pajak Masuk Bursa dan Wajib Pajak Lainnya yang Berdasarkan Ketentuan Diharuskan Membuat Laporan Keuangan Berkala Termasuk Wajib Pajak Orang Pribadi Pengusaha Tertentu.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/208-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/208-pmk-03-2009",
+   "validity_as_written": "10 Des 2009 - s.d. Dicabut"
   }
  ],
  "status": {

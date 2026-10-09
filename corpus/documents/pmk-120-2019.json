@@ -84,7 +84,32 @@
     "target_id": "pmk-100-2013"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 100/PMK.03/2013 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/100-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 76/PMK.03/2010 — Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/76-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 18/PMK.03/2011 — Perubahan atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri.",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -100,11 +125,13 @@
   {
    "date_as_written": "2019-08-23 00:00:00",
    "number_as_written": "120/PMK.03/2019",
+   "page_retrieved_at": "2026-10-05T06:56:17+00:00",
    "retrieved_at": "2026-09-21T14:24:05+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2019",
+   "validity_as_written": "23 Agu 2019 - 18 Okt 2024"
   }
  ],
  "status": {

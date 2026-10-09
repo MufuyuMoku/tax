@@ -15,7 +15,13 @@
   "year": "1993"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
+   "retrieved_at": "2026-10-06T04:11:50+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ac9e152f-523c-4227-a988-e888d50189cc/292~KMK.05~1993Kep.HTM"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +35,7 @@
   {
    "date_as_written": "1993-02-27 00:00:00",
    "number_as_written": "292/KMK.05/1993",
+   "page_retrieved_at": "2026-10-06T04:04:11+00:00",
    "retrieved_at": "2026-09-21T14:54:31+00:00",
    "selected_because": [
     "judul"
@@ -36,11 +43,12 @@
    "source": "JDIH",
    "title_as_written": "Pembebasan Bea Masuk dan Ppn Serta Pph Pasal 22 Impor Tidak Dipungut atas Pemasukan Cadang Peralatan Teater Imax Keong Emas Taman Mini Indonesia Indah.",
    "type_as_written": "Keputusan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/292-kmk-05-1993"
+   "url": "https://jdih.kemenkeu.go.id/dok/292-kmk-05-1993",
+   "validity_as_written": "27 Feb 1993 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
+  "note": "klaim JDIH saja; belum dibandingkan dengan sumber lain",
   "reasons": [],
   "value": "berlaku"
  },
@@ -62,7 +70,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
+  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
   "url": null
  },
  "title": "Pembebasan Bea Masuk dan Ppn Serta Pph Pasal 22 Impor Tidak Dipungut atas Pemasukan Cadang Peralatan Teater Imax Keong Emas Taman Mini Indonesia Indah."

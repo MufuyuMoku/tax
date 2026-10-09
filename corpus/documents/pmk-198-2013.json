@@ -66,7 +66,26 @@
     "target_id": "pmk-54-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 54/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 193/PMK.03/2007 tentang Batasan Jumlah Peredaran Usaha, Jumlah Penyerahan, dan Jumlah Lebih Bayar Bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/54-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 193/PMK.03/2007 — Batasan Jumlah Peredaran Usaha, Jumlah Penyerahan, dan Jumlah Lebih Bayar Bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu yang Dapat Diberikan Pengembalian Pendahuluan Kelebihan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/193-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 39/PMK.03/2018 — Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/39-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -82,11 +101,13 @@
   {
    "date_as_written": "2013-12-27 00:00:00",
    "number_as_written": "198/PMK.03/2013",
+   "page_retrieved_at": "2026-10-05T13:19:45+00:00",
    "retrieved_at": "2026-09-21T14:33:50+00:00",
    "source": "JDIH",
    "title_as_written": "Pengembalian Pendahuluan Kelebihan Pembayaran Pajak Bagi Wajib Pajak yang Memenuhi Persyaratan Tertentu.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-03-2013"
+   "url": "https://jdih.kemenkeu.go.id/dok/198-pmk-03-2013",
+   "validity_as_written": "27 Des 2013 - s.d. Dicabut"
   }
  ],
  "status": {

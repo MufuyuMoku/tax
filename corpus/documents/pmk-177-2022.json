@@ -108,7 +108,20 @@
     "target_id": "uu-11-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 239/PMK.03/2014 — Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/239-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 18/PMK.03/2021 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -124,11 +137,13 @@
   {
    "date_as_written": "2022-11-30 00:00:00",
    "number_as_written": "177/PMK.03/2022",
+   "page_retrieved_at": "2026-10-05T06:35:57+00:00",
    "retrieved_at": "2026-09-21T14:18:58+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/177-pmk-03-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/177-pmk-03-2022",
+   "validity_as_written": "03 Feb 2023 - s.d. Dicabut"
   }
  ],
  "status": {

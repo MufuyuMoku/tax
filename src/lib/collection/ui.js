@@ -291,7 +291,7 @@ export function startCollection({ base }) {
           });
           target.append(el("span", "hint", ` — ditulis "${ref.written}"`));
         } else {
-          target.append(el("span", null, ref.written), el("span", "hint", " — tidak ada di korpus PPh situs ini"));
+          target.append(el("span", null, ref.written), el("span", "hint", " — tidak ada di korpus situs ini"));
         }
         li.append(target, el("blockquote", null, `“${ref.sentence}”`));
         list.append(li);

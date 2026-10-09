@@ -63,7 +63,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 189/PMK.03/2011 — Perubahan atas Peraturan Menteri Keuangan Nomor 130/PMK.03/2009 tentang Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/189-pmk-03-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 129/PMK.03/2012 — Tata Cara Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/129-pmk-03-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -79,11 +92,13 @@
   {
    "date_as_written": "2009-08-18 00:00:00",
    "number_as_written": "130/PMK.03/2009",
+   "page_retrieved_at": "2026-10-05T13:45:28+00:00",
    "retrieved_at": "2026-09-21T14:41:06+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan untuk Kepentingan Penerimaan Negara.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-03-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/130-pmk-03-2009",
+   "validity_as_written": "18 Agu 2009 - s.d. Dicabut"
   }
  ],
  "status": {

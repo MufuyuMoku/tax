@@ -64,7 +64,20 @@
     "target_id": "pmk-5-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 05/PMK.03/2005 — Tata Cara Pembayaran Kembali Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/05-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 16/PMK.03/2011 — Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2011"
+   }
+  ]
  },
  "source_records": [
   {
@@ -80,11 +93,13 @@
   {
    "date_as_written": "2007-12-28 00:00:00",
    "number_as_written": "188/PMK.03/2007",
+   "page_retrieved_at": "2026-10-05T14:13:23+00:00",
    "retrieved_at": "2026-09-21T14:43:47+00:00",
    "source": "JDIH",
    "title_as_written": "Tatacara Pengembalian Kelebihan Pembayaran Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-03-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/188-pmk-03-2007",
+   "validity_as_written": "28 Des 2007 - s.d. Dicabut"
   }
  ],
  "status": {

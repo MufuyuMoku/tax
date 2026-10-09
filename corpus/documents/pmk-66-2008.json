@@ -65,7 +65,20 @@
     "target_id": "pmk-18-2008"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 18/PMK.03/2008 — Penghapusan Sanksi Administrasi atas Keterlambatan Pelunasan Kekurangan Pembayaran Pajak Sehubungan dengan Penyampaian Surat Pemberitahuan Tahunan untuk Tahun Pajak 2007 dan Sebelumnya Serta Pembetulan Surat Pemberitahuan Tahunan untuk Tahun Pajak Sebelum Tahun 2007",
+    "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 12/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 66/PMK.03/2008 tentang Tata Cara Penyampaian atau Pembetulan Surat Pemberitahuan, dan Persyaratan Wajib Pajak yang Dapat Diberikan Penghapusan Sanksi Administrasi dalam Rangka Penerapan Pasal 37 A Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 28 Tahun 2007",
+    "url": "https://jdih.kemenkeu.go.id/dok/12-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -81,11 +94,13 @@
   {
    "date_as_written": "2008-04-29 00:00:00",
    "number_as_written": "66/PMK.03/2008",
+   "page_retrieved_at": "2026-10-05T14:04:56+00:00",
    "retrieved_at": "2026-09-21T14:43:10+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penyampaian atau Pembetulan Surat Pemberitahuan, dan Persyaratan Wajib Pajak yang Dapat Diberikan Penghapusan Sanksi Administrasi dalam Rangka Penerapan Pasal 37A Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 28 Tahun 2007",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/66-pmk-03-2008",
+   "validity_as_written": "29 Apr 2008 - s.d. Dicabut"
   }
  ],
  "status": {

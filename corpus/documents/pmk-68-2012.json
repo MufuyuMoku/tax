@@ -75,7 +75,26 @@
     "target_id": "kmk-539-kmk-03-2002"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 565/KMK.04/2000 — Tatacara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan",
+    "url": "https://jdih.kemenkeu.go.id/dok/565-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 539/KMK.03/2002 — Perubahan atas Keputusan Menteri Nomor 565/KMK.04/2000 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan",
+    "url": "https://jdih.kemenkeu.go.id/dok/539-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 117 TAHUN 2024 — Tata Cara Penghapusan Piutang Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-117-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -91,11 +110,13 @@
   {
    "date_as_written": "2012-05-02 00:00:00",
    "number_as_written": "68/PMK.03/2012",
+   "page_retrieved_at": "2026-10-05T13:28:52+00:00",
    "retrieved_at": "2026-09-21T14:36:27+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2012"
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2012",
+   "validity_as_written": "02 Mei 2012 - 27 Des 2024"
   }
  ],
  "status": {

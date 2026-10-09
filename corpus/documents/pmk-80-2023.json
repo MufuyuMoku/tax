@@ -101,7 +101,38 @@
     "target_id": "pmk-78-2016"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 145/PMK.03/2012 — Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/145-pmk-03-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 183/PMK.03/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 145/PMK.03/2012\r\nTentang Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/183-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 255/PMK.03/2014 — Tata Cara Penerbitan Surat Ketetapan Pajak Pajak Bumi dan Bangunan dan Surat Keputusan Kelebihan Pembayaran Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/255-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 256/PMK.03/2014 — Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 78/PMK.03/2016 — Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2016"
+   }
+  ]
  },
  "source_records": [
   {
@@ -117,11 +148,13 @@
   {
    "date_as_written": "2023-08-22 00:00:00",
    "number_as_written": "PMK 80 TAHUN 2023",
+   "page_retrieved_at": "2026-10-05T06:33:14+00:00",
    "retrieved_at": "2026-09-21T14:18:04+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2023",
+   "validity_as_written": "24 Agu 2023 - s.d. Dicabut"
   }
  ],
  "status": {

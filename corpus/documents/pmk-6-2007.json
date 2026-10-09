@@ -61,7 +61,14 @@
     "target_id": "kmk-450-kmk-01-2003"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 61/PMK.01/2012 — Persyaratan untuk Menjadi Kuasa Hukum pada Pengadilan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-01-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -77,11 +84,13 @@
   {
    "date_as_written": "2007-01-31 00:00:00",
    "number_as_written": "06/PMK.01/2007",
+   "page_retrieved_at": "2026-10-05T14:17:46+00:00",
    "retrieved_at": "2026-09-21T14:44:59+00:00",
    "source": "JDIH",
    "title_as_written": "Persyaratan untuk Menjadi Kuasa Hukum pada Pengadilan Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/06-pmk-01-2007"
+   "url": "https://jdih.kemenkeu.go.id/dok/06-pmk-01-2007",
+   "validity_as_written": "31 Jan 2007 - s.d. Dicabut"
   }
  ],
  "status": {

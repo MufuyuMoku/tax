@@ -102,6 +102,7 @@
   {
    "date_as_written": "2019-12-17 00:00:00",
    "number_as_written": "PER-20/PJ/2019",
+   "page_retrieved_at": "2026-10-05T06:54:56+00:00",
    "retrieved_at": "2026-09-21T14:57:09+00:00",
    "selected_because": [
     "judul"
@@ -109,7 +110,8 @@
    "source": "JDIH",
    "title_as_written": "Bentuk, Isi, Tata Cara Pengisian dan Penyampaian Surat Pemberitahuan Masa Pajak Penghasilan Unifikasi Serta Format Bukti Pemotongan/Pemungutan Unifikasi",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/per-20-pj-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/per-20-pj-2019",
+   "validity_as_written": "17 Des 2019 - s.d. Dicabut"
   }
  ],
  "status": {

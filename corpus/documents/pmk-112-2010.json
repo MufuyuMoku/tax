@@ -54,7 +54,20 @@
     "target_id": "kmk-522-kmk-04-1998"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 522/KMK.04/1998 — Atas Bunga Simpanan Anggota Koperasi yang Tidak Dipotong Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/522-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -70,6 +83,7 @@
   {
    "date_as_written": "2010-06-14 00:00:00",
    "number_as_written": "112/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:34:39+00:00",
    "retrieved_at": "2026-09-21T14:39:35+00:00",
    "selected_because": [
     "judul"
@@ -77,7 +91,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan atas Bunga Simpanan yang Dibayarkan oleh Koperasi Kepada Anggota Koperasi Orang Pribadi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/112-pmk-03-2010",
+   "validity_as_written": "14 Jun 2010 - 18 Okt 2024"
   }
  ],
  "status": {

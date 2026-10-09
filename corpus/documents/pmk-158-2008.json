@@ -40,7 +40,26 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 135/PMK.05/2005 — Perubahan atas Keputusan Menteri Keuangan Nomor 424/KMK.06/2003 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-05-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 424/KMK.06/2003 — Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi",
+    "url": "https://jdih.kemenkeu.go.id/dok/424-kmk-06-2003"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 53/PMK.010/2012 — Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/53-pmk-010-2012"
+   }
+  ]
  },
  "source_records": [
   {
@@ -56,11 +75,13 @@
   {
    "date_as_written": "2008-10-28 00:00:00",
    "number_as_written": "158/PMK.010/2008",
+   "page_retrieved_at": "2026-10-05T14:02:03+00:00",
    "retrieved_at": "2026-09-21T14:42:38+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 424/KMK.06/2003 tentang Kesehatan Keuangan Perubahan Asuransi dan Perusahaan Reasuransi.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/158-pmk-010-2008"
+   "url": "https://jdih.kemenkeu.go.id/dok/158-pmk-010-2008",
+   "validity_as_written": "28 Okt 2008 - s.d. Dicabut"
   }
  ],
  "status": {

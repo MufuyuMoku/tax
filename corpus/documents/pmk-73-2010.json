@@ -49,7 +49,14 @@
     "target_id": "pmk-11-2005"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -65,11 +72,13 @@
   {
    "date_as_written": "2010-03-31 00:00:00",
    "number_as_written": "73/PMK.03/2010",
+   "page_retrieved_at": "2026-10-05T13:37:21+00:00",
    "retrieved_at": "2026-09-21T14:39:52+00:00",
    "source": "JDIH",
    "title_as_written": "Penunjukan Kontraktor Kontrak Kerja Sama Pengusahaan Minyak dan Gas Bumi dan Kontraktor atau Pemegang Kuasa/Pemegang Izin Pengusahaan Sumber Daya Panas Bumi untuk Memungut, Menyetor, dan Melaporkan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Serta Tata Cara Pemungutan, Penyetoran, dan Pelaporannya.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/73-pmk-03-2010"
+   "url": "https://jdih.kemenkeu.go.id/dok/73-pmk-03-2010",
+   "validity_as_written": "31 Mar 2010 - 18 Okt 2024"
   }
  ],
  "status": {
