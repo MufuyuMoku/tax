@@ -188,6 +188,26 @@ function countIndexed(field, alternative, tf, positions = null, factor = 1, type
   }
 }
 
+// A category is named in a query by its abbreviation or its long form (K-079).
+const CATEGORY_NAMES = {
+  PPh: [["pph"], ["pajak", "penghasilan"]],
+  KUP: [["kup"], ["ketentuan", "umum", "dan", "tata", "cara", "perpajakan"]],
+  PPN: [["ppn"], ["pajak", "pertambahan", "nilai"]],
+};
+
+function mentionedCategories(query, ocr) {
+  const tokens = normalizeText(query, ocr).text.split(" ");
+  const found = new Set();
+  for (const [category, forms] of Object.entries(CATEGORY_NAMES)) {
+    for (const form of forms) {
+      for (let i = 0; i + form.length <= tokens.length; i++) {
+        if (form.every((t, k) => tokens[i + k] === t)) found.add(category);
+      }
+    }
+  }
+  return found;
+}
+
 function lowerBound(sorted, value) {
   let lo = 0;
   let hi = sorted.length;
@@ -450,7 +470,7 @@ export class SearchEngine {
         this.docs[a.d].id.localeCompare(this.docs[b.d].id)
     );
 
-    this.last = { results, active, number, unitScore, unitMask, titleMask, idfs, unseenIdf: idfOf(0, nUnits) };
+    this.last = { query, results, active, number, unitScore, unitMask, titleMask, idfs, unseenIdf: idfOf(0, nUnits) };
     return {
       total: results.length,
       took: Date.now() - started,
@@ -498,8 +518,39 @@ export class SearchEngine {
   /** One page of the last search, with snippets. */
   page(offset, limit) {
     if (!this.last) throw new Error("page() dipanggil sebelum search()");
-    const { results, active, unitMask } = this.last;
-    return results.slice(offset, offset + limit).map((entry) => {
+    return this.last.results.slice(offset, offset + limit).map((entry) => this.item(entry));
+  }
+
+  /**
+   * "Teratas per kategori" (K-079): the best `limit` results of each category from the last search,
+   * taken from the ranked list as it is, so no rank changes. A category named in the query comes
+   * first; the others follow the position of their best result. Display only.
+   */
+  byCategory(limit = 3) {
+    if (!this.last) throw new Error("byCategory() dipanggil sebelum search()");
+    const groups = new Map();
+    this.last.results.forEach((entry, position) => {
+      for (const category of this.docs[entry.d].categories || []) {
+        if (!groups.has(category)) groups.set(category, { category, first: position + 1, entries: [] });
+        const group = groups.get(category);
+        if (group.entries.length < limit) group.entries.push([position + 1, entry]);
+      }
+    });
+    const named = mentionedCategories(this.last.query || "", this.ocr);
+    return [...groups.values()]
+      .sort((a, b) => Number(named.has(b.category)) - Number(named.has(a.category)) || a.first - b.first)
+      .map((g) => ({
+        category: g.category,
+        named: named.has(g.category),
+        first: g.first,
+        items: g.entries.map(([rank, entry]) => ({ ...this.item(entry), rank })),
+      }));
+  }
+
+  /** One ranked entry as a result card, with snippets. */
+  item(entry) {
+    const { active, unitMask } = this.last;
+    {
       const doc = this.docs[entry.d];
       const matched = active.filter((_, i) => entry.mask & (1 << i)).map((c) => c.label);
       const missingIndexes = active.map((_, i) => i).filter((i) => !(entry.mask & (1 << i)));
@@ -525,7 +576,7 @@ export class SearchEngine {
           ...this.snippet(u, entry.cites && !unitMask[u] ? null : active),
         })),
       };
-    });
+    }
   }
 
   /**

@@ -27,6 +27,8 @@ export function startSearch({ base, listing }) {
   const results = document.getElementById("hasil");
   const summaryLine = document.getElementById("hasil-ringkas");
   const resultList = document.getElementById("hasil-daftar");
+  const groupBlock = document.getElementById("hasil-kategori");
+  const groupList = document.getElementById("kategori-grup");
   const publicBlock = document.getElementById("hasil-publik");
   const localTaxNote = document.getElementById("catatan-daerah");
   const more = document.getElementById("lagi");
@@ -171,11 +173,36 @@ export function startSearch({ base, listing }) {
     }
     showLocalTax(reply.summary ? reply.summary.localTax : []);
     publicBlock.hidden = !reply.summary;
+    showGroups(reply.groups || []);
     if (reply.summary) {
       describe(reply.summary, query);
       append(reply.results);
     } else {
       state.textContent = `Dicari di perangkat ini dalam ${reply.privateSummary ? reply.privateSummary.took : 0} md.`;
+    }
+  }
+
+  /** "Teratas per kategori" (K-079): each card says where it stands in the combined results. */
+  function showGroups(groups) {
+    groupList.replaceChildren();
+    groupBlock.hidden = !groups.length;
+    for (const group of groups) {
+      const section = el("section", "grup-kategori");
+      const head = el("h3", null, group.category);
+      if (group.named) head.append(el("span", "tanda netral", "disebut di kueri"));
+      section.append(head);
+      const list = el("ol", "daftar");
+      for (const item of group.items) {
+        // A compact card: the matching pasal are on the same card in the combined results. A note
+        // on a document without text stays (invariant 3).
+        const li = card(item);
+        li.classList.add("kartu-ringkas");
+        for (const node of li.querySelectorAll(".cocok-pasal, .hint")) node.remove();
+        li.prepend(el("p", "kartu-urutan", `Urutan ${item.rank.toLocaleString("id-ID")} di hasil gabungan`));
+        list.append(li);
+      }
+      section.append(list);
+      groupList.append(section);
     }
   }
 

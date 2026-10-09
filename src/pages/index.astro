@@ -110,6 +110,15 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
     </section>
     <section id="hasil-publik" aria-label="Hasil dari peraturan publik">
       <p class="hasil-ringkas" id="hasil-ringkas"></p>
+      <section class="blok-kategori" id="hasil-kategori" hidden aria-labelledby="judul-kategori">
+        <h2 id="judul-kategori">Teratas per kategori</h2>
+        <p class="hint">
+          Paling banyak tiga hasil terbaik dari tiap kategori, diambil dari hasil gabungan di bawah
+          tanpa mengubah urutannya. Kategori yang disebut di kueri tampil pertama.
+        </p>
+        <div id="kategori-grup"></div>
+        <h2>Semua hasil</h2>
+      </section>
       <ol class="daftar" id="hasil-daftar"></ol>
       <button type="button" class="tombol-lagi" id="lagi" hidden>Tampilkan lebih banyak</button>
     </section>

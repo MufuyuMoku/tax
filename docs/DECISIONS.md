@@ -1202,3 +1202,63 @@ makan siang kantor 90 → 146, zakat 13 → 28. Peringkatnya benar menurut kata,
 dicari pembaca tertimbun. Masalah ini akan membesar di M7 (kategori lain).
 **Usulan (belum dikerjakan):** lihat laporan sesi 2026-10-09; ringkasnya, hasil dikelompokkan per
 kategori sehingga jawaban terbaik tiap kategori tampil di atas.
+
+## K-077 — Jawaban sah tidak boleh peraturan yang dicabut
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (keputusan pemilik; mengoreksi K-075)
+
+**Aturan (versi akhir pemilik):** jawaban sah cukup diklaim berlaku, atau diubah tetapi masih
+berlaku, oleh setidaknya satu sumber. Yang ditolak hanya dokumen yang **semua** sumbernya menyatakan
+dicabut atau tidak berlaku, seperti KEP-DJP 28/1996. Tanda tidak pasti tidak menggugurkan jawaban:
+banyak dokumen tidak pasti hanya karena sumber berbeda kata ("berlaku" lawan "diubah"), padahal
+peraturannya masih berlaku, misalnya UU 28/2007. Pertanyaan yang jelas tentang aturan lama boleh
+ditandai `aturan_lama: true`. `tests/search/jawaban.test.mjs` memeriksa semua jawaban set evaluasi
+dan set uji tahan.
+**Versi pertama ditarik:** aturan awal ("berlaku menurut setidaknya satu sumber dan tidak bertanda
+tidak pasti") menggugurkan 12 jawaban di set evaluasi dan 6 di set uji tahan, dan membuat dua
+pertanyaan tanpa jawaban sah. Penggantian kunci jawaban yang sempat dibuat untuk itu dibatalkan; kunci
+jawaban kembali seperti sebelumnya.
+**Satu-satunya perubahan kunci jawaban:** `restitusi`. KEP-DJP 28/1996 (semua sumber: tidak berlaku)
+dihapus dan diganti UU 7/2021 Pasal 9 ayat (4b), "atas kelebihan Pajak Masukan dapat diajukan
+permohonan pengembalian", yaitu restitusi PPN yang berlaku. Jawaban pertamanya, UU 28/2007, tetap.
+**Dukungan yang tetap ada:** pertanyaan boleh diberi `tanpa_jawaban_sah` beserta alasannya bila memang
+tidak punya jawaban sah; pertanyaan seperti itu tidak dihitung peringkat maupun median. Saat ini tidak
+ada yang memakainya.
+
+## K-078 — Singkatan bermakna ganda: PKP
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
+
+**Keputusan:** kelompok istilah boleh berbentuk `{bentuk, utamakan}`. Untuk PKP, kueri "PKP" tetap
+mencari kedua bentuk panjang (Penghasilan Kena Pajak dan Pengusaha Kena Pajak) dengan bobot penuh.
+Bila kueri juga memuat PPN, faktur, atau pengusaha, Pengusaha Kena Pajak diutamakan: Penghasilan Kena
+Pajak dihitung seperti padanan (bobot 0,6). Diproses di `compileTerms`/`parseQuery`, yang dipakai
+bersama mesin dan salinan rujukan, sehingga tes kesetaraan K-069 tetap membandingkan hal yang sama.
+**Bukti dari korpus:** PKP didefinisikan sebagai Pengusaha Kena Pajak 53 kali dan tidak pernah sebagai
+Penghasilan Kena Pajak, walaupun frasa itu muncul 682 kali.
+**Singkatan lain diperiksa:** di istilah.json hanya PKP yang memuat dua arti. Arti lain yang mungkin
+tertukar ada di korpus tetapi tidak pernah disingkat: Perserikatan Bangsa-Bangsa (8 kali, tidak
+pernah "PBB"), Dewan Pengawas (34 kali, tidak pernah "DPP"). Surat Keputusan Bersama (SKB), Sasaran
+Kinerja Pegawai (SKP), Peraturan Menteri Agama (PMA), dan Nomor Induk Karyawan (NIK) tidak muncul.
+Tidak ada aturan lain yang ditambahkan.
+**Hasil:** tidak ada pertanyaan set evaluasi maupun set uji tahan yang berubah peringkat; tidak ada
+yang memuat PKP bersama kata konteksnya ("omzet berapa harus jadi PKP" ditangkap padanan K-073).
+Contoh "PKP wajib membuat faktur": lima teratas sama dengan dan tanpa aturan ini.
+
+## K-079 — "Teratas per kategori" di atas hasil gabungan
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (usulan K-076, disetujui pemilik)
+
+**Keputusan:** `SearchEngine.byCategory(3)` mengambil paling banyak 3 hasil terbaik tiap kategori
+(PPh, KUP, PPN) dari daftar yang sudah diperingkat, tanpa mengubah urutannya. Kategori yang disebut
+di kueri (singkatan atau bentuk panjangnya) tampil pertama; yang lain mengikuti posisi hasil
+terbaiknya. Tiap kartu menyebut urutannya di hasil gabungan, dan kartunya ringkas, tanpa potongan
+pasal (potongannya ada di kartu yang sama di hasil gabungan); catatan dokumen tanpa teks tetap ada
+(invarian 3). Kelompok tidak ditampilkan bila saringan Kategori aktif atau bila hasil hanya dari satu
+kategori. `page()` dipecah menjadi `item()`; tes kesetaraan K-069 tetap lulus.
+**Ukuran baru (informasi, bukan gerbang):** `evaluate()` mencatat `rankInCategory`, posisi jawaban
+di antara hasil kategorinya sendiri; `scripts/search-eval.mjs` menampilkannya. Median 5 dan 33 dari
+44 di 10 besar, dibanding median 6 dan 26 dari 44 untuk peringkat gabungan.
+**Batas yang terlihat:** untuk "jual rumah", kelompok PPh kini tampil di atas, tetapi tiga hasil PPh
+terbaiknya bukan jawabannya; PP 34/2016 ada di urutan 10 dalam PPh. Pengelompokan menolong
+pertanyaan yang jawabannya sudah dekat di kategorinya, bukan yang tertimbun di dalam kategorinya.
+**Diuji:** saringan Kategori PPh menyembunyikan kelompok; "tarif PPh pesangon" menaruh PPh pertama
+dengan tanda "disebut di kueri"; lebar 320 px tanpa gulir samping. `scripts/search-eval.mjs
+--baseline` dimatikan karena akan menimpa persetujuan dan toleransi di `garis-dasar.json`.

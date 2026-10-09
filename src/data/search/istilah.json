@@ -9,7 +9,7 @@
     ["PPnBM", "Pajak Penjualan atas Barang Mewah"],
     ["UU PPN", "Undang-Undang Pajak Pertambahan Nilai"],
     ["PTKP", "Penghasilan Tidak Kena Pajak"],
-    ["PKP", "Penghasilan Kena Pajak", "Pengusaha Kena Pajak"],
+    {"bentuk": ["PKP", "Penghasilan Kena Pajak", "Pengusaha Kena Pajak"], "utamakan": {"Pengusaha Kena Pajak": ["PPN", "faktur", "pengusaha"]}, "catatan": "PKP bermakna ganda. Di korpus PKP selalu didefinisikan sebagai Pengusaha Kena Pajak (53 kali); Penghasilan Kena Pajak muncul 682 kali, tidak pernah disingkat. Kueri yang memuat PPN, faktur, atau pengusaha mengutamakan Pengusaha Kena Pajak (K-078)."},
     ["NPWP", "Nomor Pokok Wajib Pajak"],
     ["NIK", "Nomor Induk Kependudukan"],
     ["KUP", "Ketentuan Umum dan Tata Cara Perpajakan"],

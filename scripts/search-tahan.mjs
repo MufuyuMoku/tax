@@ -14,7 +14,7 @@ if (problems.length) {
 }
 const engine = engineFor();
 const QUESTION_WORDS = /\b(bagaimana|cara|langkah-langkah|langkah|apa itu|apa|kapan|berapa|rincian|tutorial|melakukan)\b|\?/gi;
-const answered = cases.filter((c) => c.golongan === "a");
+const answered = cases.filter((c) => c.golongan === "a" && !c.tanpa_jawaban_sah);
 const ranks = evaluate(answered, engine);
 const stripped = evaluate(answered.map((c) => ({ ...c, pertanyaan: c.pertanyaan.replace(QUESTION_WORDS, " ") })), engine);
 
@@ -22,7 +22,9 @@ for (const c of cases) {
   const summary = engine.search(c.pertanyaan);
   const top = engine.page(0, 3);
   console.log(`\n[${c.golongan}] ${c.pertanyaan}`);
-  if (c.golongan === "a") {
+  if (c.tanpa_jawaban_sah) {
+    console.log(`  tanpa jawaban sah: ${c.tanpa_jawaban_sah}`);
+  } else if (c.golongan === "a") {
     console.log(`  peringkat jawaban: ${ranks[c.id].rank ?? "-"} (${ranks[c.id].best ?? "tidak ditemukan"})` +
       `${ranks[c.id].pasalShown ? ", pasal tepat tampil" : ""} · tanpa kata tanya: ${stripped[c.id].rank ?? "-"}`);
   } else {

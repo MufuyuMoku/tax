@@ -104,3 +104,15 @@ test("OCR corrections apply to both the text and the query", () => {
   const [concept] = parse("rnenteri", ocr);
   assert.deepEqual(concept.alternatives, [["menteri"]]);
 });
+
+test("PKP searches both meanings; PPN, faktur or pengusaha in the query prefer Pengusaha Kena Pajak (K-078)", () => {
+  const groups = [{ bentuk: ["PKP", "Penghasilan Kena Pajak", "Pengusaha Kena Pajak"], utamakan: { "Pengusaha Kena Pajak": ["PPN", "faktur", "pengusaha"] } }];
+  const terms = compileTerms(groups, {});
+  const weights = (q) => {
+    const concept = parseQuery(q, { terms, stopwords: [], ocr: {}, synonymWeight: 0.6 }).find((c) => c.label === "pkp");
+    return Object.fromEntries(concept.alternatives.map((a, i) => [a.join(" "), concept.weights[i]]));
+  };
+  assert.deepEqual(weights("PKP"), { pkp: 1, "penghasilan kena pajak": 1, "pengusaha kena pajak": 1 });
+  assert.deepEqual(weights("PKP faktur"), { pkp: 1, "penghasilan kena pajak": 0.6, "pengusaha kena pajak": 1 });
+  assert.deepEqual(weights("tarif atas PKP"), { pkp: 1, "penghasilan kena pajak": 1, "pengusaha kena pajak": 1 });
+});

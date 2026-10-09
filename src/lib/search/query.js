@@ -124,9 +124,22 @@ function phraseTokens(text, ocr) {
 /**
  * Compile istilah.json into patterns: each form becomes a token array where "{n}"/"{m}" are slots
  * for a number. Longer forms are tried first so "PPh 21" wins over "PPh".
+ *
+ * A group is a list of forms, or { bentuk, utamakan } for an abbreviation with two meanings
+ * (K-078): `utamakan` maps a long form to words that, anywhere in the query, make it the meaning
+ * to prefer; the other long forms then count like a padanan.
  */
-export function compileTerms(groups, ocr, scopes = null) {
+export function compileTerms(entries, ocr, scopes = null) {
   const patterns = [];
+  const groups = entries.map((entry) => (Array.isArray(entry) ? entry : entry.bentuk));
+  const prefer = entries.map((entry) =>
+    Array.isArray(entry) || !entry.utamakan
+      ? null
+      : Object.entries(entry.utamakan).map(([form, words]) => ({
+          form: phraseTokens(form, ocr).join(" "),
+          words: new Set(words.flatMap((w) => phraseTokens(w, ocr))),
+        }))
+  );
   groups.forEach((forms, group) => {
     for (const form of forms) {
       const tokens = (form.match(/\{[nm]\}|[\p{L}\p{N}]+/gu) || []).map((t) =>
@@ -136,7 +149,7 @@ export function compileTerms(groups, ocr, scopes = null) {
     }
   });
   patterns.sort((a, b) => b.tokens.length - a.tokens.length);
-  return { patterns, groups: groups.map((forms) => forms.slice()), scopes };
+  return { patterns, groups: groups.map((forms) => forms.slice()), scopes, prefer };
 }
 
 const SLOT_VALUE = /^\d+[a-z]?$/;
@@ -201,6 +214,10 @@ export function parseQuery(query, { terms, synonyms = null, synonymWeight = 1, s
       const weights = [];
       const scopes = [];
       const scope = found.kind === "padanan" && found.compiled.scopes ? found.compiled.scopes[found.pattern.group] : null;
+      // An abbreviation with two meanings: a context word elsewhere in the query picks one (K-078).
+      const rules = found.kind === "term" && found.compiled.prefer ? found.compiled.prefer[found.pattern.group] : null;
+      const others = new Set([...tokens.slice(0, at), ...tokens.slice(at + found.pattern.tokens.length)]);
+      const preferred = rules ? (rules.find((r) => [...r.words].some((w) => others.has(w))) || {}).form : null;
       const seen = new Set();
       for (const form of forms) {
         const alt = phraseTokens(fill(form), ocr);
@@ -208,8 +225,10 @@ export function parseQuery(query, { terms, synonyms = null, synonymWeight = 1, s
         if (alt.length && !seen.has(key)) {
           seen.add(key);
           alternatives.push(alt);
-          // A padanan counts for less than the word the user actually typed.
-          weights.push(found.kind === "padanan" && key !== typed ? synonymWeight : 1);
+          // A padanan counts for less than the word the user actually typed; so does the meaning of
+          // an abbreviation that the query's context does not point to.
+          const lesser = found.kind === "padanan" || (preferred && key !== preferred && alt.length > 1);
+          weights.push(lesser && key !== typed ? synonymWeight : 1);
           // The typed form is searched everywhere; a scoped padanan only where its group allows.
           scopes.push(key !== typed ? scope : null);
         }

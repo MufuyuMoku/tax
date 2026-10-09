@@ -69,6 +69,10 @@ self.onmessage = async (event) => {
       if (source !== "pribadi") {
         reply.summary = engine.search(event.data.query, event.data.filters);
         reply.results = engine.page(0, event.data.limit);
+        // "Teratas per kategori" (K-079): only when no category is filtered and more than one
+        // category has results.
+        const groups = event.data.filters && event.data.filters.category ? [] : engine.byCategory(3);
+        reply.groups = groups.length > 1 ? groups : [];
       }
       if (source !== "publik" && privateEngine) {
         reply.privateSummary = privateEngine.search(event.data.query, privateFilters(event.data.filters));

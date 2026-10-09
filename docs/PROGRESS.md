@@ -46,6 +46,20 @@ jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran ma
 **Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
 pemilik tentang label kategori (K-051).
 
+## Perbaikan setelah M5: jawaban sah, PKP, teratas per kategori
+Tanggal: 2026-10-09
+Status: selesai di lokal, **belum terbit**: gerbang median "semua" gagal (6 > 5), menunggu pemilik
+
+**Jawaban sah (K-077):** jawaban ditolak hanya bila semua sumbernya menyatakan tidak berlaku. Aturan
+pertama yang lebih ketat ditarik atas keputusan pemilik; kunci jawaban kembali seperti sebelumnya,
+kecuali restitusi: KEP-DJP 28/1996 diganti UU 7/2021 Pasal 9 ayat (4b). Restitusi 3 → 40 (garis
+dasar 82); karena itu median 45 pertanyaan 5 → 6, melewati acuan 5 yang diukur saat restitusi 3.
+**PKP (K-078):** kata PPN, faktur, atau pengusaha mengutamakan Pengusaha Kena Pajak; tidak ada
+pertanyaan yang berubah. Singkatan lain tidak perlu aturan.
+**Teratas per kategori (K-079):** tampil di atas hasil gabungan, kartu ringkas, urutan tidak berubah;
+tes kesetaraan lulus. Peringkat dalam kategori: median 5, 34 dari 45 di 10 besar.
+**Tes:** 60 tes; 59 lulus, gagal hanya gerbang median.
+
 ## M5 tahap 2 — PPN terbit; padanan KUP/PPN; daftar bertahap
 Tanggal: 2026-10-09
 Status: selesai dan terbit
