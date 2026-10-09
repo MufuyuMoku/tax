@@ -1262,3 +1262,19 @@ pertanyaan yang jawabannya sudah dekat di kategorinya, bukan yang tertimbun di d
 **Diuji:** saringan Kategori PPh menyembunyikan kelompok; "tarif PPh pesangon" menaruh PPh pertama
 dengan tanda "disebut di kueri"; lebar 320 px tanpa gulir samping. `scripts/search-eval.mjs
 --baseline` dimatikan karena akan menimpa persetujuan dan toleransi di `garis-dasar.json`.
+
+## K-080 — Acuan median "semua" menjadi 6
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (keputusan pemilik)
+
+**Keputusan pemilik:** `median_acuan.semua` di `tests/search/garis-dasar.json` diubah 5 → 6. Acuan 5
+diukur saat restitusi berperingkat 3 berkat KEP-DJP 28/1996, peraturan yang semua sumbernya
+menyatakan tidak berlaku. Setelah jawaban itu dihapus (K-077), restitusi 40 dan median 45 pertanyaan
+6; angka 6 adalah ukuran yang jujur. Acuan PPh (6) dan PPh+KUP (8) tidak berubah.
+
+## K-081 — Usulan terbuka: kotak definisi untuk pertanyaan "apa itu"
+Tanggal: 2026-10-09 · Milestone: M5 · Status: terbuka (usulan pemilik, belum dikerjakan)
+
+**Gejala:** pertanyaan definisi tertimbun; "apa itu PKP" berperingkat 146 karena PKP disebut di ribuan
+pasal, sedangkan pasal yang mendefinisikannya hanya sedikit.
+**Usulan:** pasal definisi ("... adalah ...") untuk istilah di kueri ditampilkan sebagai kotak
+tersendiri di atas hasil, tanpa mengubah peringkat (seperti K-079). Belum dikerjakan.

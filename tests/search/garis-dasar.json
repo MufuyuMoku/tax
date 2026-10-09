@@ -48,10 +48,10 @@
     "restitusi-ppn": 11
   },
   "median_acuan": {
-    "keterangan": "Median peringkat yang tidak boleh terlampaui, per himpunan pertanyaan yang sama (K-072). pph: 25 pertanyaan PPh (5 sebelum KUP; 6 sejak teks JDIH PPh, disetujui pemilik). pph_kup: pertanyaan PPh dan KUP (8 saat diukur 2026-10-09). semua: seluruh pertanyaan termasuk PPN, diukur saat PPN, padanan K-073, dan jawaban sah restitusi K-075 masuk.",
+    "keterangan": "Median peringkat yang tidak boleh terlampaui, per himpunan pertanyaan yang sama (K-072). pph: 25 pertanyaan PPh (5 sebelum KUP; 6 sejak teks JDIH PPh, disetujui pemilik). pph_kup: pertanyaan PPh dan KUP (8 saat diukur 2026-10-09). semua: seluruh pertanyaan termasuk PPN; 6 sejak KEP-DJP 28/1996 (dicabut) dihapus dari jawaban restitusi, keputusan pemilik K-080.",
     "pph": 6,
     "pph_kup": 8,
-    "semua": 5
+    "semua": 6
   },
   "penurunan_disetujui": {
     "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068), lalu akibat PPN masuk korpus (K-075). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",

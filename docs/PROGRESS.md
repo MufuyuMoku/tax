@@ -48,7 +48,7 @@ pemilik tentang label kategori (K-051).
 
 ## Perbaikan setelah M5: jawaban sah, PKP, teratas per kategori
 Tanggal: 2026-10-09
-Status: selesai di lokal, **belum terbit**: gerbang median "semua" gagal (6 > 5), menunggu pemilik
+Status: selesai dan terbit (acuan median "semua" 6, keputusan pemilik K-080)
 
 **Jawaban sah (K-077):** jawaban ditolak hanya bila semua sumbernya menyatakan tidak berlaku. Aturan
 pertama yang lebih ketat ditarik atas keputusan pemilik; kunci jawaban kembali seperti sebelumnya,
@@ -58,7 +58,8 @@ dasar 82); karena itu median 45 pertanyaan 5 → 6, melewati acuan 5 yang diukur
 pertanyaan yang berubah. Singkatan lain tidak perlu aturan.
 **Teratas per kategori (K-079):** tampil di atas hasil gabungan, kartu ringkas, urutan tidak berubah;
 tes kesetaraan lulus. Peringkat dalam kategori: median 5, 34 dari 45 di 10 besar.
-**Tes:** 60 tes; 59 lulus, gagal hanya gerbang median.
+**Tes:** 60 tes lulus setelah acuan median "semua" menjadi 6 (K-080).
+**Terbuka (K-081):** kotak definisi untuk pertanyaan "apa itu" ("apa itu PKP" berperingkat 146).
 
 ## M5 tahap 2 — PPN terbit; padanan KUP/PPN; daftar bertahap
 Tanggal: 2026-10-09
