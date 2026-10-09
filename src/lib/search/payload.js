@@ -6,6 +6,7 @@ import path from "node:path";
 import { listPasalIds, loadDocument, loadIndex, loadPasal, loadMeta } from "../corpus.js";
 import { categoryNote, regulationLabel } from "../labels.js";
 import { buildOcrMap, tokenFrequencies } from "./normalize.js";
+import { buildTextIndex } from "./textindex.js";
 
 const DATA = path.join(process.cwd(), "src", "data", "search");
 
@@ -76,13 +77,15 @@ export function buildSearchPayload() {
 
   return {
     payload: {
-      format: 1,
+      format: 2,
       // Changes whenever a document is added or its identity changes; references in the personal
       // collection are recomputed when it does (K-042).
       corpus: { documents: meta.documents, units: units.length, fingerprint: corpusFingerprint(docs) },
       docs,
       units,
       texts,
+      // The same texts, normalised here instead of in every browser (K-069).
+      index: buildTextIndex(texts, ocr.map),
       ocr: ocr.map,
       terms: readData("istilah.json").kelompok,
       synonyms: synonymsFrom(readData("padanan.json")),

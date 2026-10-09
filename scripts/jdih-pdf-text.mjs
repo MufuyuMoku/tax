@@ -19,7 +19,7 @@ const DIR = process.argv[2] || path.join("harvest", "jdih", "files");
 const OUT = process.argv[3] || path.join("harvest", "jdih", "teks_berkas.jsonl");
 
 const { payload } = buildSearchPayload();
-const vocabulary = new Set(new SearchEngine(payload).body.text.split(" "));
+const vocabulary = new SearchEngine(payload).vocabularySet();
 const isKnown = (word) => vocabulary.has(normToken(word, payload.ocr));
 
 /** Text of a full-text HTML file, as poc/jdih_docs.py did: scripts and styles dropped. */

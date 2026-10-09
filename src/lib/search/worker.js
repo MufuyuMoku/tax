@@ -17,7 +17,7 @@ let vocabulary = null;
 
 /** Whether a word occurs in the corpus, for judging imported text (K-043). */
 function isKnown(word) {
-  if (!vocabulary) vocabulary = new Set(engine.body.text.split(" "));
+  if (!vocabulary) vocabulary = engine.vocabularySet();
   return vocabulary.has(normToken(word, payload.ocr));
 }
 

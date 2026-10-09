@@ -1,23 +1,21 @@
+// Frozen copy of src/lib/search/engine.js as it was before the token index (K-069): it scans one
+// long normalised string with indexOf. tests/search/setara.test.mjs proves that the engine gives
+// identical results to it. Do not change this file to make that test pass.
 // Full-text search over the whole corpus, in memory. No network: the engine gets the payload once
 // and every query after that is answered from it.
 //
 // How it matches:
-// - Every pasal (and penjelasan) is normalised at build time into a token index: a vocabulary,
-//   token ids, and per token the character offset it would have in one long normalised string
-//   (K-069). Titles are normalised here into one string. A long word also matches as prefix or
-//   inside a word ("potong" finds "pemotongan" and "dipotong"), weighted lower than whole words;
-//   for pasal text that is found in the vocabulary, not by scanning all text. Results are identical
-//   to scanning the long string with indexOf, which is how titles are still searched
-//   (tests/search/setara.test.mjs).
+// - Every pasal (and penjelasan) is normalised into one long string of tokens, and titles into
+//   another. A query concept is found with indexOf, which also gives prefix and in-word matches
+//   for longer words ("potong" finds "pemotongan" and "dipotong"), weighted lower than whole words.
 // - Ranking is BM25 per pasal. A document is ranked first by which of the query's concepts occur
 //   close together in one of its pasal (or its title), each concept weighted by its rarity, then
 //   by score. Long documents and long pasal therefore do not win just by mentioning every word
 //   somewhere.
 // - Regulation numbers are matched on the document identity, so documents without text are found
 //   by number as well as by title (SPEC invariant 3).
-import { normToken, normalizeText, tokensWithOffsets } from "./normalize.js";
-import { citationPattern, compileTerms, detectLocalTax, numberMatches, parseNumber, parseQuery } from "./query.js";
-import { buildTextIndex, decodeVarints } from "./textindex.js";
+import { normToken, normalizeText, tokensWithOffsets } from "../../src/lib/search/normalize.js";
+import { citationPattern, compileTerms, detectLocalTax, numberMatches, parseNumber, parseQuery } from "../../src/lib/search/query.js";
 
 const K1 = 1.2;
 const B = 0.75;
@@ -85,109 +83,6 @@ function countInto(field, alternative, tf, positions = null, factor = 1, typedHi
   }
 }
 
-/**
- * The pasal text as a token index instead of one long string. Positions are the character offsets
- * the long string would have had, so everything downstream is unchanged.
- */
-function bodyIndex(index, nTexts) {
-  const vocab = index.vocab;
-  const ids = decodeVarints(index.ids, index.total);
-  const counts = decodeVarints(index.counts, nTexts);
-  const vocabLength = Int32Array.from(vocab, (t) => t.length);
-  const tokenStart = new Int32Array(nTexts + 1);
-  const starts = new Int32Array(nTexts + 1);
-  const lengths = new Float32Array(nTexts);
-  const charPos = new Int32Array(ids.length);
-  let position = 1;
-  let k = 0;
-  for (let i = 0; i < nTexts; i++) {
-    tokenStart[i] = k;
-    starts[i] = position;
-    lengths[i] = Math.max(counts[i], 1);
-    let p = position;
-    for (let n = 0; n < counts[i]; n++, k++) {
-      charPos[k] = p;
-      p += vocabLength[ids[k]] + 1;
-    }
-    position += (counts[i] ? p - position - 1 : 0) + SEPARATOR.length;
-  }
-  tokenStart[nTexts] = k;
-  starts[nTexts] = position;
-  const average = lengths.reduce((a, b) => a + b, 0) / Math.max(nTexts, 1);
-  // Postings: for every vocabulary entry, its token indexes in increasing order.
-  const postingStart = new Int32Array(vocab.length + 1);
-  for (let i = 0; i < ids.length; i++) postingStart[ids[i] + 1]++;
-  for (let v = 0; v < vocab.length; v++) postingStart[v + 1] += postingStart[v];
-  const fill = postingStart.slice(0, vocab.length);
-  const postings = new Int32Array(ids.length);
-  for (let i = 0; i < ids.length; i++) postings[fill[ids[i]]++] = i;
-  // The vocabulary as one string, to find every entry a long word occurs in.
-  const vocabStart = new Int32Array(vocab.length + 1);
-  for (let v = 0; v < vocab.length; v++) vocabStart[v + 1] = vocabStart[v] + vocabLength[v] + 1;
-  return {
-    vocab, ids, vocabLength, tokenStart, starts, lengths, average, charPos, postingStart, postings,
-    vocabText: vocab.join(String.fromCharCode(10)), vocabStart, idOf: new Map(vocab.map((t, i) => [t, i])),
-  };
-}
-
-function upperBound(sorted, value) {
-  let lo = 0;
-  let hi = sorted.length;
-  while (lo < hi) {
-    const mid = (lo + hi) >> 1;
-    if (sorted[mid] <= value) lo = mid + 1;
-    else hi = mid;
-  }
-  return lo;
-}
-
-/** countInto() for the token index: same matches, same weights, same order of addition. */
-function countIndexed(field, alternative, tf, positions = null, factor = 1, typedHits = null, allow = null) {
-  const single = alternative.length === 1 && alternative[0].length >= MIN_INFIX && !isNumeric(alternative[0]);
-  let keys;
-  if (single) {
-    // Every place the word occurs inside a token, as the long string's indexOf would find it.
-    const needle = alternative[0];
-    const found = [];
-    for (let q = field.vocabText.indexOf(needle); q !== -1; q = field.vocabText.indexOf(needle, q + 1)) {
-      const v = upperBound(field.vocabStart, q) - 1;
-      const j = q - field.vocabStart[v];
-      const code = j === 0 ? (j + needle.length === field.vocabLength[v] ? 0 : 1) : 2;
-      for (let p = field.postingStart[v]; p < field.postingStart[v + 1]; p++) {
-        found.push((field.charPos[field.postings[p]] + j) * 4 + code);
-      }
-    }
-    keys = Float64Array.from(found).sort();
-  } else {
-    // Whole tokens in a row, inside one pasal; the long string's match starts at the space before.
-    const want = alternative.map((t) => field.idOf.get(t));
-    if (want.some((v) => v === undefined)) return;
-    const found = [];
-    const first = want[0];
-    for (let p = field.postingStart[first]; p < field.postingStart[first + 1]; p++) {
-      const k = field.postings[p];
-      const unit = upperBound(field.tokenStart, k) - 1;
-      if (k + want.length > field.tokenStart[unit + 1]) continue;
-      let ok = true;
-      for (let m = 1; m < want.length && ok; m++) ok = field.ids[k + m] === want[m];
-      if (ok) found.push((field.charPos[k] - 1) * 4);
-    }
-    keys = found;
-  }
-  const WEIGHT = [1, 0.7, 0.5];
-  const starts = field.starts;
-  let segment = 0;
-  for (let i = 0; i < keys.length; i++) {
-    const at = Math.floor(keys[i] / 4);
-    while (starts[segment + 1] <= at) segment++;
-    if (allow && !allow[segment]) continue;
-    const weight = single ? WEIGHT[keys[i] % 4] : 1;
-    tf[segment] += weight * factor;
-    if (positions) positions.push(at * 2 + (factor === 1 ? 1 : 0));
-    if (typedHits && factor === 1) typedHits[segment] = 1;
-  }
-}
-
 function lowerBound(sorted, value) {
   let lo = 0;
   let hi = sorted.length;
@@ -224,9 +119,7 @@ export class SearchEngine {
     );
     this.withoutText = Uint8Array.from(this.docs, (d) => (d.hasText ? 0 : 1));
     this.synonymWeight = payload.synonyms ? payload.synonyms.weight : 1;
-    // The public data brings its index from the build; the personal collection is small and is
-    // indexed here, with the same code (K-069).
-    this.body = bodyIndex(payload.index || buildTextIndex(this.texts, this.ocr), this.texts.length);
+    this.body = concatenate(this.texts, this.ocr);
     this.titles = concatenate(
       this.docs.map((d) => d.title || ""),
       this.ocr
@@ -295,7 +188,7 @@ export class SearchEngine {
           countInto(this.titles, alternative, titleTf, null, factor, titleTypedHits, this.withoutText);
           return;
         }
-        countIndexed(this.body, alternative, tf, found, factor, typed);
+        countInto(this.body, alternative, tf, found, factor, typed);
         countInto(this.titles, alternative, titleTf, null, factor, titleTypedHits);
       });
       let df = 0;
@@ -403,7 +296,11 @@ export class SearchEngine {
       // alone; otherwise the words decide.
       if (!active.length) {
         const pattern = citationPattern(number);
-        for (const segment of this.citingSegments(pattern, number)) {
+        const text = this.body.text;
+        const starts = this.body.starts;
+        let segment = 0;
+        for (const match of text.matchAll(pattern)) {
+          while (starts[segment + 1] <= match.index) segment++;
           const entry = docEntry(this.units[segment].doc);
           if (!entry.number) {
             entry.cites++;
@@ -461,38 +358,6 @@ export class SearchEngine {
       // answers (pajak-daerah.json).
       localTax: detectLocalTax(query, this.localTax, this.ocr),
     };
-  }
-
-  /** Every normalised token of the pasal text, for judging imported text (K-043). */
-  vocabularySet() {
-    return new Set(this.body.vocab);
-  }
-
-  /**
-   * The segment of every citation match, in text order, as the long string's matchAll gave them.
-   * Only pasal holding both the serial and the year are rebuilt as text. A match at the very start
-   * of a pasal began, in the long string, at the space before it, which belonged to the pasal
-   * before: kept as it was.
-   */
-  citingSegments(pattern, number) {
-    const body = this.body;
-    const serial = body.idOf.get(number.serial.toLowerCase());
-    const year = body.idOf.get(number.year);
-    if (serial === undefined || year === undefined) return [];
-    const unitsOf = (v) => {
-      const set = new Set();
-      for (let p = body.postingStart[v]; p < body.postingStart[v + 1]; p++) set.add(upperBound(body.tokenStart, body.postings[p]) - 1);
-      return set;
-    };
-    const withYear = unitsOf(year);
-    const candidates = [...unitsOf(serial)].filter((u) => withYear.has(u)).sort((a, b) => a - b);
-    const out = [];
-    for (const u of candidates) {
-      const words = [];
-      for (let k = body.tokenStart[u]; k < body.tokenStart[u + 1]; k++) words.push(body.vocab[body.ids[k]]);
-      for (const match of words.join(" ").matchAll(pattern)) out.push(match.index === 0 && u > 0 ? u - 1 : u);
-    }
-    return out;
   }
 
   /** One page of the last search, with snippets. */

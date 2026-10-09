@@ -18,7 +18,7 @@ const read = (name) => {
   return b.buffer.slice(b.byteOffset, b.byteOffset + b.byteLength);
 };
 const { payload } = buildSearchPayload();
-const vocabulary = new Set(new SearchEngine(payload).body.text.split(" "));
+const vocabulary = new SearchEngine(payload).vocabularySet();
 const isKnown = (word) => vocabulary.has(normToken(word, payload.ocr));
 
 test("a PDF whose font has no Unicode map has a text layer, but it is judged unreadable", async () => {

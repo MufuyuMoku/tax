@@ -483,7 +483,7 @@ karena menolong dua pertanyaan lain (16→4, 11→7).
 **Hasil:** median peringkat 11 → 5; masuk 10 besar 12 → 18 dari 25; tidak ada yang memburuk.
 
 ## K-031 — Risiko diketahui: beban memuat dan memori pencarian di HP, terutama untuk M6
-Tanggal: 2026-10-02 · Milestone: koreksi M3 · Status: risiko terbuka, belum ditangani
+Tanggal: 2026-10-02 · Milestone: koreksi M3 · Status: ditangani oleh K-069 (opsi b dan c digabung); sisa di K-070
 
 **Ukuran nyata (korpus PPh):** `cari/data.json` dikirim GitHub Pages dengan
 `Content-Encoding: gzip`, 1.874.515 byte (10.536.888 byte setelah dibuka). Heap JS worker
@@ -997,3 +997,102 @@ Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku
 PMK 81/2024 masuk korpus lewat KUP, sehingga tes yang memakainya sebagai contoh "tidak ada di korpus"
 diganti dengan nomor tiruan (PMK 999/2099) di dokumen tiruan SE. Keterangan di halaman koleksi
 menjadi "tidak ada di korpus situs ini" (bukan "korpus PPh").
+
+## K-066 — Teks berkas JDIH (PPh JDIH-only) diambil, tetapi ditahan dari situs
+Tanggal: 2026-10-09 · Milestone: M5 · Status: digantikan K-068 (pemilik menyetujui; teks terbit)
+
+Catatan: keputusan ini dibuat dan diterapkan pada 2026-10-09 (commit `ea9b3ced`), tetapi entrinya
+baru ditulis di berkas ini kemudian, karena perintah yang menambahkannya gagal tanpa disadari.
+**Hasil pengambilan:** 84 dari 88 dokumen PPh JDIH-only diambil (4 diulang putaran berikutnya: 3
+waktu habis, 1 HTTP 504). Berkas teks penuh: 75 terunduh, semuanya lolos aturan mutu K-055 (28 PDF
+terbaca, 0 pindaian, 0 tidak terbaca; 47 HTML terbaca). Dua PDF dekat ambang: KEP-425/PJ/2019 (56%
+kata dikenal) dan Perpres 74/2020 (58%). 29 berkas HTML Surat Edaran tahun 1995 menjawab HTTP 404;
+alamatnya berasal dari halaman dokumen JDIH yang baru diambil, bukan dari daftar lama, dan tidak
+ditebak ulang (K-062). Dokumennya tetap tanpa teks, tanpa tautan ke berkas yang tidak ada.
+**Kenapa ditahan:** dengan teks itu, gerbang K-063 gagal: median PPh 5 → 6 dan beasiswa 2 → 3
+(Perpres 74/2020, P3B dengan Kamboja yang memuat pasal pelajar, naik ke peringkat 1), di luar
+penurunan yang disetujui. Ada juga perbaikan besar: jual rumah 45 → 9. Persetujuan pemilik saat itu
+hanya untuk penurunan akibat KUP, jadi penurunan ini tidak disetujui sendiri.
+**Keputusan saat itu:** `config.PUBLISH_JDIH_FILE_TEXT = False`; dokumen tampil "Teks belum dimuat di
+situs ini" dengan tautan ke berkas asli di JDIH.
+
+## K-067 — Ukur ulang beban (K-031) dengan korpus PPh + KUP
+Tanggal: 2026-10-09 · Milestone: M5 · Status: digantikan K-069
+
+Catatan: ditulis kemudian, sama seperti K-066.
+**Ukuran:** `cari/data.json` 21.229.786 byte (sebelumnya 10.540.016), 3.614.905 byte gzip
+(sebelumnya 1.787.442). **Mesin di thread utama yang diperlambat** (cara K-031): siap 1,02 / 3,47 /
+4,66 detik pada 1x / 4x / 6x (K-031: 0,30 / 1,06 / 2,03); "PPh 21" 51 / 316 / 555 md; kasus 112 /
+517 / 745 md; heap 54,6 MB (28,6). Di situs (worker tidak diperlambat): siap 1,51 / 3,65 / 4,57
+detik. Kenaikan sejalan dengan proyeksi linear K-031; pilihan arsitektur diputuskan di K-069.
+
+## K-068 — Teks JDIH PPh terbit; gerbang set evaluasi diberi toleransi
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (keputusan pemilik atas K-066)
+
+**Keputusan pemilik:** teks berkas JDIH PPh terbit (`PUBLISH_JDIH_FILE_TEXT = True`). Empat berkas
+yang tertunda diulang: PP 20/2026 berhasil, tiga lainnya kini HTTP 404. Hasilnya 1.261 dokumen
+berteks (sebelumnya 1.202).
+**Disetujui pemilik:** median PPh 5 → 6 (batas gerbang kini 6), beasiswa → 3, dan tiga penurunan satu
+peringkat pertanyaan KUP (denda telat lapor 7 → 8, pengungkapan ketidakbenaran 32 → 33, restitusi
+82 → 83). Alasannya: teks peraturan PPh yang sebelumnya kosong kini tercari; "jual rumah" membaik
+45 → 10.
+**Toleransi baru:** turun paling banyak 2 peringkat dari garis dasar tidak perlu persetujuan, selama
+pertanyaan yang garis dasarnya di 10 besar tetap di 10 besar dan median tidak melewati batas.
+Penurunan lebih dari itu tetap harus tercantum di `penurunan_disetujui`.
+**Tes lain:** contoh "dokumen tanpa teks ditemukan lewat nomor" diganti dari PP 20/2026 (kini
+berteks) ke PMK 166/PMK.010/2017 (JDIH-only, berkasnya 404).
+
+## K-069 — Data pencarian: indeks kosakata dihitung saat build (opsi B)
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku (menjawab K-031 dan K-067)
+
+**Target pemilik** untuk PPh + KUP + PPN, diukur seperti K-031 (mesin di thread utama yang
+diperlambat): siap mencari ≤ 3 detik pada 6x, satu pencarian ≤ 500 md pada 6x, memori ≤ 100 MB;
+hasil identik dengan mesin sebelumnya; tanpa permintaan jaringan per pencarian.
+**Penyebab lambat (profil):** saat memuat, normalisasi seluruh teks di browser (4,1–4,9 detik pada
+6x); saat mencari, pemindaian `indexOf` atas 22 juta karakter teks ternormalisasi, sekitar 85%
+waktu pencarian.
+**Dua prototipe**, keduanya diukur pada korpus ukur PPh + KUP + PPN (2.614 dokumen, 18.352 unit;
+dibangun di worktree terpisah, tidak masuk main):
+- **A: normalisasi saat build.** Teks ternormalisasi ikut dikirim; pencarian tetap `indexOf`.
+- **B: indeks kosakata saat build.** Kosakata (24.372 kata) dan aliran id kata (3,2 juta, varint,
+  base64) dikirim di `cari/data.json`; browser membangun daftar posisi tiap kata dan offset
+  karakternya. Kata panjang dicari di kosakata, bukan di seluruh teks.
+
+| Korpus PPh+KUP+PPN | Siap 1x / 4x / 6x | Pencarian terberat 1x / 4x / 6x | "kasus" 6x | Memori | Unduhan gzip (mentah) |
+|---|---|---|---|---|---|
+| Mesin lama | 1,26–1,35 / 4,50 / 5,21–6,00 dtk | 317–369 / 1.428–1.672 / 2.152–2.555 md | 837–855 md | 70,6 MB | 4,4 MB (26,2 MB) |
+| A | 1,28–1,30 / 2,14–2,40 / 2,29–2,49 dtk | 367–426 / 1.372–1.537 / 2.443–2.644 md | 805–839 md | 92,2 MB | 8,0 MB (48,2 MB) |
+| **B** | **0,96–0,97 / 1,95–1,97 / 1,95–1,96 dtk** | **50–74 / 266–437 / 366–388 md** | **244–257 md** | **35,7 MB** | 7,6 MB (32,5 MB) |
+
+Dua putaran berselang-seling, mesin tenang (beban CPU 1–3%). "Terberat" adalah pertanyaan TER di
+set uji tahan. Pengukuran sebelumnya hari itu dibuang karena sebuah gim berjalan bersamaan.
+**Hasil identik, dibuktikan otomatis:** pada korpus ukur, 69 kueri (35 set evaluasi, 10 set tahan,
+20 kueri nomor/frasa/istilah, 4 dengan saringan) dengan 101.284 baris hasil: daftar lengkap, skor,
+bobot, cakupan, rujukan, unit, dan seluruh potongan teks sama persis dengan mesin lama, untuk A
+maupun B. `tests/search/setara.test.mjs` mengulang pembuktian ini di setiap `npm test` terhadap
+salinan beku mesin lama (`tests/search/mesin-rujukan.mjs`). Hal yang ditiru persis: posisi karakter
+seperti di string panjang, urutan penjumlahan bobot (Float32), dan keanehan lama bahwa frasa di awal
+sebuah pasal tercatat pada pasal sebelumnya.
+**Keputusan: B.** Hanya B yang memenuhi ketiga target; A tidak mempercepat pencarian dan memorinya
+lebih besar. Varian B dengan berkas biner terpisah menghemat 0,9 MB unduhan (6,7 MB gzip) tetapi
+menambah satu berkas yang harus selalu sama versinya; ditunda ke M6 bila perlu.
+**Biaya:** unduhan naik sekitar 70% (4,4 → 7,6 MB gzip untuk PPh+KUP+PPN; untuk situs sekarang
+PPh+KUP 6,3 MB). Untuk M6, satu berkas 27–33 MB disimpan di perangkat, wajar untuk Cache Storage.
+**Tanpa permintaan jaringan per pencarian (K-023):** tidak berubah; indeks ikut `data.json` yang
+dimuat sekali. Koleksi pribadi diindeks di browser dengan kode yang sama (payload tanpa `index`).
+
+## K-070 — Halaman daftar: kartu di luar layar tidak ditata; perbaikan alat ukur
+Tanggal: 2026-10-09 · Milestone: M5 · Status: berlaku; risiko tercatat untuk M6
+
+**Temuan:** pada situs sungguhan, waktu sampai siap mencari di 6x lebih banyak habis di halaman daftar
+(1.970 kartu, `index.html` 2,1 MB) daripada di mesin: `DOMContentLoaded` 2,9 detik, hampir
+seluruhnya kerja gaya dan tata letak peramban, bukan skrip. Worker pencarian baru mulai sesudahnya.
+**Keputusan:** `.kartu { content-visibility: auto; contain-intrinsic-size: auto 9rem }`: peramban
+tidak menata kartu di luar layar. `DOMContentLoaded` di 6x 2,9 → 1,2–1,4 detik; hasil pencarian tidak
+tersentuh. Waktu "siap" situs di 6x 3,5–4,6 detik, karena DevTools tidak bisa memperlambat worker
+dan sisa waktunya tidak terukur adil; di HP sungguhan perkiraannya sekitar `DOMContentLoaded` +
+waktu mesin pada 6x (≈ 1,3 + 2,0 detik untuk PPh+KUP+PPN). Untuk M6 (PPN menambah sekitar 650
+kartu), pilihan lanjutan: daftar dibangun dari data yang sama di sisi klien, atau dibagi per halaman.
+**Alat ukur:** `scripts/measure-load.mjs` menunggu sampai navigasi benar-benar terjadi dan memeriksa
+kesiapan dengan polling. Sebelumnya, pada mesin yang sibuk, evaluasi dimulai di `about:blank` atau
+sebelum `#keadaan` terurai, dan hasilnya NaN.

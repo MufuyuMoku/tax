@@ -46,6 +46,32 @@ jeda rata-rata 26 detik dan batas 1.500 per 24 jam, butuh sekitar dua putaran ma
 **Belum dikerjakan:** B3–B5 (korpus, situs, kriteria selesai), menunggu data lengkap dan keputusan
 pemilik tentang label kategori (K-051).
 
+## M5 — teks JDIH PPh dan arsitektur data pencarian
+Tanggal: 2026-10-09
+Status: selesai dan terbit; PPN (tahap 2) belum dimasukkan
+
+**Teks JDIH PPh (K-068):** terbit atas persetujuan pemilik. JDIH PPh 88/88: 76 berkas terbaca
+(29 PDF, 47 HTML), 32 berkas HTTP 404. Dokumen berteks 1.202 → 1.261. Gerbang: median PPh 6,
+toleransi turun ≤ 2 peringkat tanpa keluar dari 10 besar.
+
+**Set evaluasi setelah teks JDIH masuk** (sebelum → sesudah): jual rumah 45 → 10, omzet UMKM
+19 → 20, makan siang 80 → 84, hibah ke anak 44 → 46, beasiswa 2 → 3, batas tidak kena pajak
+29 → 30, orang asing 5 → 6, kontraktor 100 → 105, denda telat lapor 7 → 8, pengungkapan 32 → 33,
+restitusi 82 → 83; lainnya sama. Median PPh 5 → 6, median semua 8, 10 besar 21 dari 35.
+
+**Arsitektur data pencarian (K-069):** dua prototipe diukur pada korpus ukur PPh+KUP+PPN (2.614
+dokumen, di luar main). Dipilih B, indeks kosakata saat build: siap 1,95 detik, pencarian terberat
+366–388 md, memori 35,7 MB pada 6x (mesin lama 5,2–6,0 detik, 2,2–2,6 detik, 70,6 MB). Hasil
+identik dengan mesin lama, dibuktikan otomatis (69 kueri, 101.284 baris hasil;
+`tests/search/setara.test.mjs` di setiap `npm test`). Unduhan PPh+KUP kini 6,3 MB gzip.
+
+**Halaman daftar (K-070):** `content-visibility: auto` pada kartu; `DOMContentLoaded` di 6x
+2,9 → 1,2–1,4 detik. `scripts/measure-load.mjs` diperbaiki (balapan navigasi dan `#keadaan`).
+
+**Catatan proses:** `git worktree remove` sempat menghapus sebagian `node_modules` lewat junction;
+dipulihkan dengan `npm ci`. Entri K-066 dan K-067 ternyata tidak pernah tertulis karena perintah
+berantai yang gagal; ditulis sekarang dengan catatan itu.
+
 ## M5 tahap 1 — KUP terbit
 Tanggal: 2026-10-09
 Status: tahap 1 (KUP) selesai dan terbit; tahap 2 (PPN) menunggu

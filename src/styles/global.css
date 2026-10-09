@@ -154,6 +154,11 @@ a {
   padding: 0.75rem;
   margin-bottom: 0.6rem;
   background: var(--surface);
+  /* Thousands of cards on the list page: let the browser skip layout and paint of the ones off
+     screen (K-070). The estimated size keeps the scrollbar steady; once rendered, the real size is
+     remembered. */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 9rem;
 }
 
 .kartu p {

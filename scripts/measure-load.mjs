@@ -57,11 +57,14 @@ function send(method, params = {}, sessionId = undefined) {
   return new Promise((resolve, reject) => waiting.set(id, { resolve, reject }));
 }
 
+// Polls rather than observing: early in a slow load the status element may not be parsed yet.
 const READY = `new Promise((resolve) => {
-  const state = document.getElementById("keadaan");
-  const check = () => state && state.textContent.startsWith("Siap") && resolve(performance.now());
+  const check = () => {
+    const state = document.getElementById("keadaan");
+    if (state && state.textContent.startsWith("Siap")) resolve(performance.now());
+    else setTimeout(check, 20);
+  };
   check();
-  new MutationObserver(check).observe(state, { childList: true, characterData: true, subtree: true });
 })`;
 const SEARCH = (query) => `new Promise((resolve) => {
   const list = document.getElementById("hasil-daftar");
@@ -105,7 +108,17 @@ for (const rate of rates) {
   throttled.push("halaman");
   await send("Page.enable", {}, sessionId);
   await send("Page.navigate", { url }, sessionId);
-  await sleep(300);
+  // Wait until the page has really replaced about:blank: on a busy machine at 6x the navigation can
+  // take longer than any fixed pause, and an evaluation started too early is cut off by it.
+  for (let i = 0; i < 600; i++) {
+    await sleep(100);
+    try {
+      const where = await send("Runtime.evaluate", { expression: "location.href", returnByValue: true }, sessionId);
+      if (where.result.value !== "about:blank") break;
+    } catch {
+      // the old document is going away; try again
+    }
+  }
   const ready = await send("Runtime.evaluate", { expression: READY, awaitPromise: true, returnByValue: true }, sessionId);
   const first = await send("Runtime.evaluate", { expression: SEARCH("PPh 21"), awaitPromise: true, returnByValue: true }, sessionId);
   const second = await send("Runtime.evaluate", { expression: SEARCH("karyawan dapat bonus tahunan"), awaitPromise: true, returnByValue: true }, sessionId);
