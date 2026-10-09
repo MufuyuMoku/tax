@@ -130,6 +130,14 @@ class TestPoliteFetcher(unittest.TestCase):
             self.fetcher.request("https://www.pajak.go.id/a")
         self.assertFalse((self.tmp / "host_stopped.json").exists())
 
+    def test_404_is_not_on_the_source_and_does_not_stop_the_host(self):
+        self.fetcher.robots["https://jdih.kemenkeu.go.id"] = type("Allow", (), {"can_fetch": lambda *a: True,
+                                                                               "crawl_delay": lambda *a: None})()
+        self.answer(FakeResponse(404, url="https://jdih.kemenkeu.go.id/dok/x"))
+        with self.assertRaises(self.polite.NotFound):
+            self.fetcher.get("https://jdih.kemenkeu.go.id/dok/x")
+        self.assertFalse((self.tmp / "host_stopped.json").exists())
+
     def test_failures_of_an_earlier_round_do_not_block_a_new_round(self):
         old = {"host": "www.pajak.go.id", "status": None, "error": "x", "retrieved_at": "2026-01-01T00:00:00+00:00"}
         with (self.tmp / "fetch_log.jsonl").open("w", encoding="utf8") as handle:

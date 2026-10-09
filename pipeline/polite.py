@@ -58,6 +58,13 @@ class TransientError(Exception):
     """One request failed without a refusal code. Retry the item in the next round."""
 
 
+class NotFound(Exception):
+    """HTTP 404: the page is not on the source. Recorded and skipped, never retried (K-062)."""
+
+
+NOT_FOUND = "tidak ada di sumber"
+
+
 class AlreadyRunning(Exception):
     """Another fetcher process holds the run lock."""
 
@@ -256,6 +263,8 @@ class Fetcher:
         if not self.allowed(url):
             raise PermissionError("robots.txt melarang: " + url)
         response, meta = self.request(url, params=params)
+        if response.status_code == 404:
+            raise NotFound(f"HTTP 404 pada {url}")
         if response.status_code >= 400:
             raise TransientError(f"HTTP {response.status_code} pada {url}")
         body_path.write_bytes(response.content)

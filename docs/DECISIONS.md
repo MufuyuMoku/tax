@@ -938,3 +938,23 @@ kehilangan kelangkaannya karena muncul di lebih banyak dokumen.
 **Keputusan:** kriteria M5 "set evaluasi tidak memburuk" belum terpenuhi, jadi tahap KUP tidak
 diterbitkan dulu. Perbaikannya keputusan peringkat (misalnya bobot kategori atau padanan baru) dan
 dikerjakan di sesi berikutnya dengan data KUP lengkap; tidak ditebak di sesi ini.
+
+## K-062 — Aturan JDIH disamakan dengan DJP; 404 berarti tidak ada di sumber
+Tanggal: 2026-10-08 · Milestone: M5 · Status: berlaku (menggantikan butir "kegagalan apa pun" di K-058)
+
+**Keputusan pemilik:** JDIH mengikuti aturan yang sama dengan DJP. Kode penolakan (401, 403, 429,
+503) menghentikannya selamanya; waktu habis atau putus koneksi diulang di putaran berikutnya; aturan
+putaran `polite.py` berlaku (lebih dari 6 dari 20 gagal mengakhiri putaran, 8 kegagalan sambung
+berturut-turut menghentikan host). **HTTP 404 dicatat "tidak ada di sumber" lalu dilewati**, untuk
+DJP maupun JDIH (`polite.NotFound`); itemnya tidak diulang. Berkas teks penuh JDIH yang 404 membuat
+dokumennya tetap tanpa teks.
+**Latar:** dengan aturan lama, satu berkas unduhan yang memang tidak ada
+(`/api/download/b2ddfb7e-…/475 a~KMK 1995Kep.htm`) menghentikan JDIH enam kali antara 6 dan 7
+Oktober, karena berkas itu selalu berada di depan antrean. Pemilik mencabut penghentian JDIH pada
+2026-10-08.
+**Catatan:** halaman `/dok/192-pmk-03-2018`, penyebab penghentian 5 Oktober, menurut log berhasil
+diambil saat diulang (5 Oktober 12.59 UTC, HTTP 200, PMK 192/PMK.03/2018). Waktu habis pertama itu
+gangguan sesaat, bukan halaman yang tidak ada.
+**Uji alamat (2026-10-09):** 5 alamat acak dari 94 yang tersisa di antrean
+(`pipeline.jdih_harvest cek-alamat`): kelimanya HTTP 200 dengan data dokumen. Daftar JDIH bukti
+konsep (21 September) masih berlaku; tidak perlu diambil ulang sekarang.

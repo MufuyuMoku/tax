@@ -32,7 +32,7 @@ import sys
 from bs4 import BeautifulSoup
 
 from . import config, net_guard
-from .polite import CAP_24H, CapReached, Fetcher, HostStopped, RoundOver, TransientError
+from .polite import CAP_24H, NOT_FOUND, CapReached, Fetcher, HostStopped, NotFound, RoundOver, TransientError
 
 BASE = config.DJP_BASE
 LIST = BASE + "/id/peraturan"
@@ -163,7 +163,7 @@ def list_complete(state, name):
 
 def detail_queue(name):
     """Paths in this category's list that still need their detail page."""
-    have = pph_paths() | {d["path"] for d in read_jsonl(DETAIL_OUT) if not d.get("error")}
+    have = pph_paths() | {d["path"] for d in read_jsonl(DETAIL_OUT) if d.get("error") in (None, NOT_FOUND)}
     queue = []
     for row in read_jsonl(LIST_OUT):
         path = row.get("path")
@@ -232,6 +232,10 @@ def run(fetcher, state, limit=None, pages=None):
                 if path not in state["detail_retry"]:
                     state["detail_retry"].append(path)
                 print(f"detail {name}: gagal ({error}); diulang di putaran berikutnya", flush=True)
+            except NotFound:
+                done += 1
+                append_jsonl(DETAIL_OUT, [{"path": path, "source_url": BASE + path, "error": NOT_FOUND}])
+                print(f"detail {name}: {path[:70]} {NOT_FOUND} (404), dilewati", flush=True)
             except PermissionError as error:
                 print(f"detail {name}: {error}", flush=True)
             save_state(state)

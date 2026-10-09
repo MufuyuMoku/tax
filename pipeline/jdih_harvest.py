@@ -10,8 +10,9 @@ Queues, in this order (owner, 2026-10-05):
     c. PPh: the document page and the full-text file of the PPh documents only JDIH has.
 Which DJP document is which JDIH document is decided by the number, as in pipeline.build.
 
-Every rule of SPEC section 8 holds (polite.py). The first refusal of any kind stops JDIH for good;
-the owner asked for no retry after one, so here a dropped connection stops JDIH for good as well.
+Every rule of SPEC section 8 holds (polite.py), the same as for DJP (owner, 2026-10-08, K-062): a
+refusal code stops JDIH for good; a timeout or dropped connection is retried in the next round, and
+the round rules of polite.py apply; a 404 is recorded as "tidak ada di sumber" and skipped.
 Source classification ("Label") is never kept (K-010). harvest/BERHENTI ends the round cleanly.
 """
 import argparse
@@ -21,7 +22,7 @@ import sys
 
 from . import config, net_guard
 from .identity import parse
-from .polite import CapReached, Fetcher, HostStopped, RoundOver, TransientError, now
+from .polite import NOT_FOUND, CapReached, Fetcher, HostStopped, NotFound, RoundOver, TransientError, now
 
 BASE = "https://jdih.kemenkeu.go.id"
 ROOT = config.HARVEST / "jdih"
@@ -142,7 +143,7 @@ def queues():
 
 
 def done_slugs():
-    return {(d["antrean"], d["slug"]) for d in read_jsonl(DETAIL_OUT) if not d.get("error")}
+    return {(d["antrean"], d["slug"]) for d in read_jsonl(DETAIL_OUT) if d.get("error") in (None, NOT_FOUND)}
 
 
 def full_text_file(record, listed):
@@ -169,7 +170,18 @@ def run(fetcher, limit=None):
             if limit is not None and done >= limit:
                 return done, f"batas {limit} permintaan putaran ini"
             url = f"{BASE}/dok/{slug}"
-            html, meta = fetcher.get(url)
+            try:
+                html, meta = fetcher.get(url)
+            except NotFound:
+                done += 1
+                append_jsonl(DETAIL_OUT, {"antrean": name, "slug": slug, "source_url": url, "retrieved_at": now(),
+                                          "error": NOT_FOUND})
+                print(f"{name} {slug}: {NOT_FOUND} (404), dilewati", flush=True)
+                continue
+            except TransientError as error:
+                done += 1
+                print(f"{name} {slug}: gagal ({error}); diulang di putaran berikutnya", flush=True)
+                continue
             done += 1
             record = parse_document(html)
             entry = {"antrean": name, "slug": slug, "source_url": url, "retrieved_at": meta["retrieved_at"]}
@@ -182,7 +194,18 @@ def run(fetcher, limit=None):
             if name == "PPh":
                 file_url = full_text_file(record, by_slug.get(slug, {}))
                 if file_url and not STOP_SIGNAL.exists():
-                    data, file_meta = fetcher.get(file_url, binary=True)
+                    try:
+                        data, file_meta = fetcher.get(file_url, binary=True)
+                    except NotFound:
+                        done += 1
+                        entry.update({"file_url": file_url, "file_error": NOT_FOUND})
+                        append_jsonl(DETAIL_OUT, entry)
+                        print(f"{name} {slug}: berkas {NOT_FOUND} (404); dokumen tetap tanpa teks", flush=True)
+                        continue
+                    except TransientError as error:
+                        done += 1
+                        print(f"{name} {slug}: berkas gagal ({error}); diulang di putaran berikutnya", flush=True)
+                        continue
                     done += 1
                     FILES.mkdir(parents=True, exist_ok=True)
                     suffix = "." + file_url.rsplit(".", 1)[-1].lower()
@@ -194,6 +217,29 @@ def run(fetcher, limit=None):
             append_jsonl(DETAIL_OUT, entry)
             print(f"{name} {slug}: {entry.get('masa_berlaku_tampil')}", flush=True)
     return done, "semua antrean selesai"
+
+
+def check_addresses(fetcher, count=5, seed=20261008):
+    """Whether the proof of concept's JDIH addresses (2026-09-21) still hold: `count` random addresses
+    still in the queue, one request each. The pages are cached, so the next round does not fetch them
+    again. A 404 is never answered by guessing a new address format."""
+    import random
+    out, _ = queues()
+    have = done_slugs()
+    remaining = sorted(slug for name in ("KUP", "PPN", "PPh") for slug in out[name] if (name, slug) not in have)
+    sample = random.Random(seed).sample(remaining, min(count, len(remaining)))
+    results = []
+    for slug in sample:
+        url = f"{BASE}/dok/{slug}"
+        try:
+            html, meta = fetcher.get(url)
+            found = parse_document(html) is not None
+            results.append((slug, f"HTTP {meta['status']}" + ("" if found else ", data dokumen tidak ada di halaman")))
+        except NotFound:
+            results.append((slug, "HTTP 404"))
+        except TransientError as error:
+            results.append((slug, f"gagal: {error}"))
+    return remaining, results
 
 
 def report():
@@ -213,7 +259,7 @@ def report():
 
 def main(argv=None):
     parser = argparse.ArgumentParser(prog="python -m pipeline.jdih_harvest")
-    parser.add_argument("perintah", choices=["jalan", "kemajuan"])
+    parser.add_argument("perintah", choices=["jalan", "kemajuan", "cek-alamat"])
     parser.add_argument("--tanpa-vpn", action="store_true")
     parser.add_argument("--batas", type=int, default=None)
     args = parser.parse_args(argv)
@@ -224,15 +270,20 @@ def main(argv=None):
     ROOT.mkdir(parents=True, exist_ok=True)
     fetcher = Fetcher(root=ROOT)
     started = now()
+    if args.perintah == "cek-alamat":
+        try:
+            fetcher.acquire()
+            remaining, results = check_addresses(fetcher)
+        finally:
+            fetcher.release()
+        print(f"antrean tersisa: {len(remaining)} alamat; contoh acak:")
+        for slug, result in results:
+            print(f"  /dok/{slug}: {result}")
+        return 0
     try:
         fetcher.acquire()
         done, end = run(fetcher, args.batas)
     except HostStopped as error:
-        done, end = None, f"JDIH DIHENTIKAN: {error}"
-    except TransientError as error:
-        # The owner's rule for JDIH: the smallest refusal stops it for good, without a retry. A dropped
-        # connection is how JDIH failed in the proof of concept, so it counts here.
-        fetcher.stop("jdih.kemenkeu.go.id", f"gagal tanpa kode HTTP, dihentikan sesuai aturan pemilik: {error}")
         done, end = None, f"JDIH DIHENTIKAN: {error}"
     except (CapReached, RoundOver) as error:
         done, end = None, f"berhenti untuk putaran ini: {error}"

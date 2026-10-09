@@ -1,7 +1,1 @@
-{
- "jdih.kemenkeu.go.id": {
-  "alasan": "gagal tanpa kode HTTP, dihentikan sesuai aturan pemilik: ReadTimeout pada https://jdih.kemenkeu.go.id/dok/192-pmk-03-2018",
-  "sejak": "2026-10-05T07:07:49+00:00",
-  "catatan": "hapus entri ini secara manual untuk mengizinkan lagi"
- }
-}
+{}
