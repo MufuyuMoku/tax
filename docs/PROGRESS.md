@@ -17,6 +17,55 @@ angka nyata, bukan klaim.
 
 ---
 
+## M6 — pemasangan dan luring
+Tanggal: 2026-10-09
+Status: selesai dan terbit. Pemasangan di HP Android diuji pemilik dengan langkah di `docs/PASANG.md`.
+
+**Dibangun (K-082):**
+- Manifes, ikon, dan service worker.
+- Halaman dokumen dan pasal dibuat oleh satu fungsi yang dipakai build dan service worker.
+- Data halaman luring: 64 berkas.
+- Penanda di setiap halaman: tanggal data sumber, versi data tersimpan, daring/luring, dan
+  penyimpanan permanen.
+- Tawaran "Muat data baru".
+- Tautan luar ditandai "(butuh internet)" saat luring.
+
+**Pilihan cara, dengan angka:**
+
+| Cara | Berkas | Mentah | Gzip |
+|---|---|---|---|
+| Halaman disimpan apa adanya | 20.966 | 81,1 MB, total 120,9 MB | 33,3 MB |
+| Dibangun dari data (dipilih) | 64 | 40,8 MB data halaman, total 80,6 MB | 6,1 MB data halaman |
+
+Simpanan di perangkat yang dipilih: 80 berkas, 80,7 MB menurut `navigator.storage.estimate()`.
+Unduhan pertama sekitar 15 MB.
+
+**Verifikasi:**
+- **Halaman luring sama dengan halaman terbit:** build membandingkan 20.966 halaman hasil jalur luring
+  dengan halaman terbit: semuanya sama byte demi byte. Uji negatif: satu halaman diubah, langsung
+  tertangkap.
+- **Uji Chrome sungguhan** (`node scripts/uji-luring.mjs`, Chrome 154, jendela biasa): 17 dari 17
+  lulus.
+  - Lolos pemeriksaan kelayakan pasang Chrome dan pembacaan manifes.
+  - Penyimpanan permanen diminta lagi bila terpasang.
+  - Server dimatikan dan tab dibuat luring; lalu daftar, cari, saring, dokumen, dokumen tanpa teks,
+    pasal, dan koleksi semuanya terbuka.
+  - Versi data tiruan: tawaran muncul tanpa memuat ulang halaman, hanya `luring/data/00.json` yang
+    diunduh, dan "Muat data baru" memakai versi baru.
+- **Lebar 320 px:** tanpa gulir samping.
+- **Tes:** `npm test` 65 lulus.
+
+**Tidak bisa diuji otomatis:**
+- Pemasangan sungguhan: `PWA.install` tidak tersedia di Chrome stabil.
+- Tampilan terpasang: tidak bisa diemulasikan lewat DevTools; untuk satu uji, halaman dibuat
+  seolah terpasang.
+- Apakah HP memberi penyimpanan permanen.
+- Mode pesawat di HP sungguhan.
+- Kecepatan simpanan pertama dan pembuatan halaman di HP lambat.
+- Safari/iOS.
+
+**Terbuka (K-081):** kotak definisi untuk pertanyaan "apa itu".
+
 ## M5 — KUP dan PPN
 Tanggal: 2026-10-03
 Status: sebagian — pengintaian dan pengambil selesai; pengambilan berjalan (dilanjutkan Senin 5 Oktober)

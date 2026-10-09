@@ -1,5 +1,7 @@
 ---
 import "../styles/global.css";
+import { dataDate } from "../lib/corpus.js";
+import { formatDate } from "../lib/labels.js";
 
 interface Props {
   title: string;
@@ -7,6 +9,7 @@ interface Props {
 }
 
 const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props;
+const base = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
@@ -18,6 +21,10 @@ const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props
     <meta name="description" content={description} />
     <!-- No icon file: without this line browsers request /favicon.ico on their own. -->
     <link rel="icon" href="data:," />
+    {/* Installing on a phone and offline use (M6, K-082). */}
+    <link rel="manifest" href={`${base}manifest.webmanifest`} />
+    <link rel="apple-touch-icon" href={`${base}ikon-192.png`} />
+    <meta name="theme-color" content="#1f4f82" />
   </head>
   <body>
     <div class="wrap">
@@ -25,6 +32,17 @@ const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props
         <a href={import.meta.env.BASE_URL}>Peraturan</a>
         <a href={`${import.meta.env.BASE_URL}koleksi/`}>Koleksi pribadi</a>
       </nav>
+      {/* When the data was read from its sources, which version is kept on this device, and
+          whether the device is online. Filled in by public/keadaan.js. */}
+      <div class="keadaan" id="keadaan-situs">
+        <span>Data sumber diambil sampai {formatDate(dataDate())}.</span>
+        <span id="keadaan-simpan"></span>
+        <span id="keadaan-jaringan"></span>
+      </div>
+      <div class="notice tawaran" id="tawaran-baru" hidden>
+        <p id="tawaran-teks"></p>
+        <button type="button" id="muat-baru">Muat data baru</button>
+      </div>
       <slot />
       <!-- Invariant: the site must always state that it is not an official government site
            and must name the sources of its data. -->
@@ -42,5 +60,6 @@ const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props
         </p>
       </footer>
     </div>
+    <script is:inline type="module" src={`${base}keadaan.js`}></script>
   </body>
 </html>

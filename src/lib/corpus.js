@@ -77,3 +77,22 @@ export function buildListing() {
   );
   return rows;
 }
+
+let latest = null;
+
+/** The most recent date any source was read for this corpus: "data sumber diambil sampai" (M6). */
+export function dataDate() {
+  if (latest) return latest;
+  let max = "";
+  for (const entry of loadIndex()) {
+    const doc = loadDocument(entry.id);
+    const dates = [
+      ...doc.status_claims.map((c) => c.retrieved_at),
+      ...doc.source_records.map((r) => r.retrieved_at),
+      doc.text.retrieved_at,
+    ];
+    for (const date of dates) if (date && date > max) max = date;
+  }
+  latest = max.slice(0, 10);
+  return latest;
+}

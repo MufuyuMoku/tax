@@ -1278,3 +1278,56 @@ Tanggal: 2026-10-09 · Milestone: M5 · Status: terbuka (usulan pemilik, belum d
 pasal, sedangkan pasal yang mendefinisikannya hanya sedikit.
 **Usulan:** pasal definisi ("... adalah ...") untuk istilah di kueri ditampilkan sebagai kotak
 tersendiri di atas hasil, tanpa mengubah peringkat (seperti K-079). Belum dikerjakan.
+
+## K-082 — Luring: halaman dokumen dan pasal dibangun di perangkat dari data, bukan disimpan apa adanya
+Tanggal: 2026-10-09 · Milestone: M6 · Status: berlaku
+
+**Diukur dulu** (`scripts/measure-offline.mjs`, build sebelum M6):
+- **Menyimpan halaman apa adanya:** 2.614 halaman dokumen (14,5 MB) dan 18.352 halaman pasal
+  (66,6 MB), yaitu 20.966 berkas, 81,1 MB mentah, 33,3 MB gzip. Ditambah yang tetap perlu untuk
+  daftar dan pencarian (`cari/data.json` 32,5 MB, daftar 2,8 MB, skrip 1,8 MB), totalnya 120,9 MB
+  di perangkat. Itu di atas target ±100 MB dan butuh 21 ribu permintaan untuk satu kali simpan.
+- **Membangun halaman dari data:** `cari/data.json` tidak memuat yang diwajibkan invarian (klaim
+  status per sumber, relasi dengan kutipan, lampiran, keterangan tanpa teks), jadi ditambah data
+  halaman `luring/data/NN.json`: 64 berkas, 40,8 MB mentah, 6,1 MB gzip. Seluruh simpanan menjadi
+  80 berkas, 80,6 MB mentah, sekitar 15 MB unduhan. `navigator.storage.estimate()` di Chrome:
+  80,7 MB.
+
+**Keputusan:** cara kedua. Halaman dokumen dan pasal kini dibuat oleh satu fungsi
+(`src/lib/render/pages.js`) yang dipakai dua jalur:
+- halaman Astro saat build;
+- service worker (`src/sw/sw.js`) di perangkat, dari data halaman dan kerangka halaman
+  `luring/kerangka/`.
+
+Build gagal bila satu saja dari 20.966 halaman hasil jalur luring tidak sama byte demi byte dengan
+halaman terbitnya (`src/lib/offline/integration.js`). Sebelum dialihkan, teks dan tautan hasil fungsi
+baru dibandingkan dengan seluruh halaman lama: 0 berbeda. Teks sumber selalu di-escape. Data halaman
+dibagi ke 64 berkas menurut hash nomor dokumen, tanpa tabel, sehingga perubahan satu dokumen hanya
+mengunduh ulang satu berkas kecil (ditambah `cari/data.json`).
+
+**Pembaruan:** `sw.js` memuat hash tiap berkas. Browser memeriksanya sendiri saat halaman dibuka, dan
+halaman memintanya lagi saat dibuka dan saat koneksi kembali. `sw.js` hanya berubah bila ada berkas
+yang berubah; saat dipasang, berkas yang hash-nya sama disalin dari simpanan lama, bukan diunduh.
+Isi tiap unduhan dicocokkan dengan hash-nya, jadi versi tidak pernah tercampur. Versi baru menunggu:
+pembaca tetap di versi lama sampai menekan "Muat data baru", atau sampai semua tab situs ditutup
+(perilaku bawaan browser).
+
+**Penanda di setiap halaman:**
+- tanggal data sumber terakhir diambil: tanggal terbaru dari klaim status, catatan sumber, dan teks;
+- versi data yang tersimpan: hash `cari/data.json` dan data halaman;
+- keadaan daring atau luring;
+- keadaan penyimpanan permanen. Setelah dipasang, penyimpanan permanen diminta lagi (janji K-047).
+
+Saat luring, tautan ke situs lain (PDF lampiran, halaman sumber) dilepas `href`-nya dan diberi
+"(butuh internet)". Tautannya kembali saat daring.
+
+**Diputuskan sendiri:**
+- Penyimpanan dimulai pada kunjungan pertama, tidak menunggu situs dipasang, karena itulah syarat
+  supaya halaman bisa jalan luring tanpa langkah tambahan. Akibatnya browser kantor juga menyimpan
+  sekitar 81 MB.
+- `/semua/` (daftar tanpa JavaScript) ikut disimpan, 2,8 MB.
+- Skrip penanda ditaruh di `public/keadaan.js`. Bila diproses build, skrip itu disisipkan ke tiap
+  halaman dan ukuran situs terbit hampir berlipat dua (pasal 66,6 → 152,8 MB).
+
+Koleksi pribadi tetap di IndexedDB dan tidak disentuh service worker (invarian 7). Service worker
+hanya menjawab permintaan GET ke situs ini sendiri dan tidak mengirim apa pun.

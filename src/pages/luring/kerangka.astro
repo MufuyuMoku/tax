@@ -1,0 +1,8 @@
+---
+// The page shell the service worker fills offline with a document or pasal page (K-082). Built from
+// the same layout as every other page; the markers are replaced, never shown to a reader.
+import Base from "../../layouts/Base.astro";
+import { SHELL_BODY, SHELL_DESCRIPTION, SHELL_TITLE } from "../../lib/render/html.js";
+---
+
+<Base title={SHELL_TITLE} description={SHELL_DESCRIPTION}><Fragment set:html={SHELL_BODY} /></Base>

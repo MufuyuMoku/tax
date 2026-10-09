@@ -14,11 +14,11 @@ const CANDIDATES = [
 
 export const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-export async function launch({ port = 9334 } = {}) {
+export async function launch({ port = 9334, headless = true } = {}) {
   const binary = CANDIDATES.find((p) => fs.existsSync(p));
   if (!binary) throw new Error("Chrome atau Edge tidak ditemukan");
   const profile = fs.mkdtempSync(path.join(os.tmpdir(), "tax-cdp-"));
-  const child = spawn(binary, [`--remote-debugging-port=${port}`, `--user-data-dir=${profile}`, "--headless=new", "--no-first-run", "about:blank"], {
+  const child = spawn(binary, [`--remote-debugging-port=${port}`, `--user-data-dir=${profile}`, ...(headless ? ["--headless=new"] : []), "--no-first-run", "--no-default-browser-check", "about:blank"], {
     stdio: "ignore",
   });
   let version = null;
