@@ -15,14 +15,12 @@
   "year": "1975"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T03:57:56+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/8ff545a1-0917-4273-9a5f-26390f92de52/KEP-335~MK~II~4~1975KEP.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kep-eselon1-335-1975--b000-1",
+  "kep-eselon1-335-1975--b001-2",
+  "kep-eselon1-335-1975--b002-3"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +60,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 2318,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T03:57:56+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/8ff545a1-0917-4273-9a5f-26390f92de52/KEP-335~MK~II~4~1975KEP.htm"
  },
  "title": "Penegasan tentang Tidak Dipungutnya Pajak atas Bunga, Deviden dan Royalty atas Bunga yang Diperoleh Dari Promes, Aksep, Wesel dan Surat Berharga Sejenis yang Lazimnya Diperdagangkan dalam Pasar Uang"
 }

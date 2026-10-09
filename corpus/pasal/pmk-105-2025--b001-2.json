@@ -7,14 +7,17 @@
  "id": "pmk-105-2025--b001-2",
  "label": "2",
  "order": 1,
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:9->21,21->21,21->21",
+  "pasal_ganda"
+ ],
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 2\n(1)\nPenghasilan yang diterima atau diperoleh Pegawai sehubungan dengan pekerjaan wajib dipotong Pajak Penghasilan Pasal 21 oleh Pemberi Kerja sesuai dengan ketentuan dalam Pasal 21 Undang-Undang Pajak Penghasilan.\n(2)\nPajak Penghasilan Pasal 21 sebagaimana dimaksud pada ayat (1) atas seluruh penghasilan bruto dalam tahun 2026 yang diterima atau diperoleh Pegawai tertentu dari Pemberi Kerja dengan kriteria tertentu diberikan insentif Pajak Penghasilan Pasal 21 ditanggung pemerintah.\n(3)\nJangka waktu pemberian insentif Pajak Penghasilan Pasal 21 ditanggung pemerintah sebagaimana dimaksud pada ayat (2) diberikan untuk Masa Pajak Januari 2026 sampai dengan Masa Pajak Desember 2026.\nBAB III\nKRITERIA DAN PERSYARATAN",
+ "text": "Pasal 2\n(1) Penghasilan yang diterima atau diperoleh Pegawai\nsehubungan dengan pekerjaan wajib dipotong Pajak\nPenghasilan Pasal 21 oleh Pemberi Kerja sesuai dengan\nketentuan dalam Pasal 21 Undang-Undang Pajak\nPenghasilan.\n(2) Pajak Penghasilan Pasal 21 sebagaimana dimaksud pada\nayat (1) atas seluruh penghasilan bruto dalam tahun 2026\nyang diterima atau diperoleh Pegawai tertentu dari\nPemberi Kerja dengan kriteria tertentu diberikan insentif\nPajak Penghasilan Pasal 21 ditanggung pemerintah.\n(3) Jangka waktu pemberian insentif Pajak Penghasilan\nPasal 21 ditanggung pemerintah sebagaimana dimaksud\npada ayat (2) diberikan untuk Masa Pajak Januari 2026\nsampai dengan Masa Pajak Desember 2026.\nBAB III\nKRITERIA DAN PERSYARATAN",
  "text_source": {
-  "retrieved_at": "2026-10-04T02:58:28+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0"
+  "retrieved_at": "2026-10-09T00:23:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/cb203b0c-bdc8-409d-bf9c-a71264d96f60/2025pmkeuangan105.pdf"
  }
 }

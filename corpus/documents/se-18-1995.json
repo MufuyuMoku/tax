@@ -19,6 +19,12 @@
   {
    "missing": true,
    "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T01:05:22+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/30c050d1-bd41-41f2-a635-681bc175fbe1/SE-18~PJ.43~1995SE.htm"
+  },
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
    "retrieved_at": "2026-10-09T01:08:03+00:00",
    "url": "https://jdih.kemenkeu.go.id/api/download/6eff3710-919a-4042-8764-a4d3373b0485/SE-18~PJ.23~1995SE.htm"
   }
@@ -36,6 +42,7 @@
   {
    "date_as_written": "1995-04-20 00:00:00",
    "number_as_written": "SE SE-18/PJ.43/1995",
+   "page_retrieved_at": "2026-10-09T01:05:22+00:00",
    "retrieved_at": "2026-09-21T15:00:42+00:00",
    "selected_because": [
     "judul"
@@ -43,7 +50,8 @@
    "source": "JDIH",
    "title_as_written": "Bagian Penghasilan Sehubungan dengan Pekerjaan Dari Pegawai Harian dan Mingguan Serta Pegawai Tidak Tetap Lainnya yang Tidak Dikenakan Pemotongan Pajak Penghasilan (Seri Pph Pasal 21 No. 3)",
    "type_as_written": "Lainnya",
-   "url": "https://jdih.kemenkeu.go.id/dok/se-se-18-pj-43-1995"
+   "url": "https://jdih.kemenkeu.go.id/dok/se-se-18-pj-43-1995",
+   "validity_as_written": "20 Apr 1995 - s.d. Dicabut"
   },
   {
    "date_as_written": "1995-06-06 00:00:00",

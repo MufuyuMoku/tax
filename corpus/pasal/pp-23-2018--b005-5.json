@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 700,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--b005-5",
+ "label": "5",
+ "order": 5,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 5\nJangka waktu tertentu pengenaan Pajak Penghasilan\nyang bersifat final sebagaimana dimaksud dalam Pasal 2\nayat (1) yaitu paling lama:\na. 7 (tujuh) Tahun Pajak bagi Wajib Pajak orang pribadi;\nb. 4 (empat) Tahun Pajak bagi Wajib Pajak badan\nberbentuk koperasi, persekutuan komanditer, atau\nfirma; dan\nc. 3 (tiga) Tahun Pajak bagi Wajib Pajak badan\nberbentuk perseroan terbatas.\nJangka waktu sebagaimana dimaksud pada ayat (1)\nterhitung sejak:\na. Tahun Pajak Wajib Pajak terdaftar, bagi Wajib Pajak\nyang terdaftar sejak berlakunya Peraturan\nPemerintah ini, atau\nb. Tahun Pajak berlakunya Peraturan Pemerintah ini,\nbagi Wajib Pajak yang telah terdaftar sebelum\nberlakunya Peraturan Pemerintah ini.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

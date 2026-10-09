@@ -15,18 +15,30 @@
   "year": "2018"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:25:34+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/11f31021-6498-4856-aafa-bc4fb3b4b24f/110~PMK.010~2018Per.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-110-2018--b000-i",
+  "pmk-110-2018--b001-ii"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "34",
+     "2017",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 34/PMK.010/2017",
+    "quote": "Lan1piran I, Lampiran II, Lampiran III, dan Lan1piran IV Peraturan Menteri Keuangan Non1or 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pen1bayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain (Berita Negara Republik Indonesia Tahun 2017 Nomor 361) diubah sehingga menjadi tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "JDIH",
+    "target_id": "pmk-34-2017"
+   }
+  ],
   "revoked_by": [
    {
     "id": "pmk-199-2019",
@@ -103,16 +115,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "perubahan",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 122179,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:25:34+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/11f31021-6498-4856-aafa-bc4fb3b4b24f/110~PMK.010~2018Per.pdf"
  },
  "title": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
 }

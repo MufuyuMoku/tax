@@ -7,14 +7,17 @@
  "id": "pmk-105-2025--b002-3",
  "label": "3",
  "order": 2,
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:9->21,21->21,21->21",
+  "pasal_ganda"
+ ],
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 3\n(1)\nPemberi Kerja dengan kriteria tertentu sebagaimana dimaksud dalam Pasal 2 ayat (2) harus memenuhi persyaratan sebagai berikut:\na.\nmelakukan kegiatan usaha pada bidang industri:\n1.\nalas kaki;\n2.\ntekstil dan pakaian jadi;\n3.\nfurnitur;\n4.\nkulit dan barang dari kulit; atau\n5.\npariwisata; dan\nb.\nmemiliki kode klasifikasi lapangan usaha sebagaimana tercantum dalam Lampiran huruf A yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.\n(2)\nKode klasifikasi lapangan usaha sebagaimana dimaksud pada ayat (1) huruf b merupakan kode klasifikasi lapangan usaha utama yang tercantum pada basis data yang terdapat dalam administrasi perpajakan Direktorat Jenderal Pajak pada:\na.\ntanggal 1 Januari 2026, untuk wajib pajak yang sudah terdaftar sebelum 1 Januari 2026; atau\nb.\ntanggal Pemberi Kerja terdaftar, untuk wajib pajak yang baru terdaftar setelah 1 Januari 2026.",
+ "text": "Pasal 3\n(1) Pemberi Kerja dengan kriteria tertentu sebagaimana\ndimaksud dalam Pasal 2 ayat (2) harus memenuhi\npersyaratan sebagai berikut:\na. melakukan kegiatan usaha pada bidang industri:\n1. alas kaki;\n2. tekstil dan pakaian jadi;\n3. furnitur;\n4. kulit dan barang dari kulit; atau\n5. pariwisata; dan\nb. memiliki kode klasifikasi lapangan usaha\nsebagaimana tercantum dalam Lampiran huruf A\nyang merupakan bagian tidak terpisahkan dari\nPeraturan Menteri ini.\n(2) Kode klasifikasi lapangan usaha sebagaimana dimaksud\npada ayat (1) huruf b merupakan kode klasifikasi lapangan\nusaha utama yang tercantum pada basis data yang\nterdapat dalam administrasi perpajakan Direktorat\nJenderal Pajak pada:\na. tanggal 1 Januari 2026, untuk wajib pajak yang\nsudah terdaftar sebelum 1 Januari 2026; atau\nb. tanggal Pemberi Kerja terdaftar, untuk wajib pajak\nyang baru terdaftar setelah 1 Januari 2026.",
  "text_source": {
-  "retrieved_at": "2026-10-04T02:58:28+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0"
+  "retrieved_at": "2026-10-09T00:23:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/cb203b0c-bdc8-409d-bf9c-a71264d96f60/2025pmkeuangan105.pdf"
  }
 }

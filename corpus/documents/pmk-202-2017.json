@@ -15,20 +15,47 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:39:08+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/ebf2e5b7-4a0e-414f-91d6-f9c15ec8da1e/202~PMK.010~2017Per.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-202-2017--b000-1",
+  "pmk-202-2017--b001-2",
+  "pmk-202-2017--b002-3",
+  "pmk-202-2017--b003-4",
+  "pmk-202-2017--b004-5"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "157",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 157/PMK.010/2015",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 157/PMK.010/2015 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Intemasional (Berita Negara Republik Indonesia Tahun 2015 Nomor 1189) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 5/PMK.010/2017 tentang Perubahan atas Peraturan Menteri Keuangan No1nor 157 /PMK.010/2015 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional (Berita Negara Republik Indonesia Tahun 2017 Nomor 142), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "target_id": "pmk-157-2015"
+   },
+   {
+    "key": [
+     "PMK",
+     "5",
+     "2017",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 5/PMK.010/2017",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 157/PMK.010/2015 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Intemasional (Berita Negara Republik Indonesia Tahun 2015 Nomor 1189) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 5/PMK.010/2017 tentang Perubahan atas Peraturan Menteri Keuangan No1nor 157 /PMK.010/2015 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional (Berita Negara Republik Indonesia Tahun 2017 Nomor 142), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "target_id": "pmk-5-2017"
+   }
+  ],
   "source_listed_related": [
    {
     "note": "jenis relasi menurut JDIH: Mencabut",
@@ -81,16 +108,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 11006,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:39:08+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/ebf2e5b7-4a0e-414f-91d6-f9c15ec8da1e/202~PMK.010~2017Per.pdf"
  },
  "title": "Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional."
 }

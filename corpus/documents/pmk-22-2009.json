@@ -15,14 +15,14 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:44:22+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/62d4a384-6ab0-4dd2-bcfc-641ae2995a75/22~PMK.02~2009Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-22-2009--b000-1",
+  "pmk-22-2009--b001-2",
+  "pmk-22-2009--b002-3",
+  "pmk-22-2009--b003-4",
+  "pmk-22-2009--b004-5"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -63,16 +63,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 4302,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:44:22+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/62d4a384-6ab0-4dd2-bcfc-641ae2995a75/22~PMK.02~2009Per.htm"
  },
  "title": "Mekanisme Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik Tahun Anggaran 2009."
 }

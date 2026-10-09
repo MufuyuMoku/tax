@@ -15,14 +15,15 @@
   "year": "2008"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:36:44+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/431fd48d-8ea6-4967-a781-6ad234fde410/193~PMK.07~2008Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-193-2008--b000-1",
+  "pmk-193-2008--b001-2",
+  "pmk-193-2008--b002-3",
+  "pmk-193-2008--b003-4",
+  "pmk-193-2008--b004-5",
+  "pmk-193-2008--b005-6"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +63,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 7963,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:36:44+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/431fd48d-8ea6-4967-a781-6ad234fde410/193~PMK.07~2008Per.htm"
  },
  "title": "Penetapan Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Psal 21 Tahun Anggaran 2008."
 }

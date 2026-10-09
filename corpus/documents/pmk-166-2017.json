@@ -15,7 +15,14 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-09T00:31:20+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/da547d6a-ee50-4390-8ccf-a6a77d5cce22/166~PMK.010~2017Per.pdf"
+  }
+ ],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -29,6 +36,7 @@
   {
    "date_as_written": "2017-11-20 00:00:00",
    "number_as_written": "166/PMK.010/2017",
+   "page_retrieved_at": "2026-10-09T00:31:20+00:00",
    "retrieved_at": "2026-09-21T14:26:48+00:00",
    "selected_because": [
     "judul"
@@ -36,7 +44,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Pembayaran Recurrent Cost Sistem Perbendaharaan dan Anggaran Negara (Span) Tahun Anggaran 2017.",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/166-pmk-010-2017"
+   "url": "https://jdih.kemenkeu.go.id/dok/166-pmk-010-2017",
+   "validity_as_written": "20 Nov 2017 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -62,7 +71,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan teksnya belum diambil situs ini",
+  "unavailable_reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
   "url": null
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Pembayaran Recurrent Cost Sistem Perbendaharaan dan Anggaran Negara (Span) Tahun Anggaran 2017."

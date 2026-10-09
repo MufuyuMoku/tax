@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 31,
+ "document_id": "pp-20-2026",
+ "document_number": "PP 20 TAHUN 2026",
+ "document_title": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+ "id": "pp-20-2026--p008-ii",
+ "label": "II",
+ "order": 8,
+ "quality_flags": [
+  "anomali_romawi:II",
+  "tidak_mulai_dari_1"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal II\nAngka 1\nSK No 283792 A",
+ "text_source": {
+  "retrieved_at": "2026-10-09T01:57:58+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/d057ff82-50e7-4127-b66b-f704a36f071d/2026pp020.pdf"
+ }
+}

@@ -15,14 +15,14 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:29:39+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/962a6707-d7f3-4a98-a29e-a97c2515e623/147~PMK.011~2012Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-147-2012--b000-1",
+  "pmk-147-2012--b001-2",
+  "pmk-147-2012--b002-3",
+  "pmk-147-2012--b003-4",
+  "pmk-147-2012--b004-5"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +62,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8111,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:29:39+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/962a6707-d7f3-4a98-a29e-a97c2515e623/147~PMK.011~2012Per.htm"
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2012."
 }

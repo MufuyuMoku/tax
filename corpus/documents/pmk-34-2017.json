@@ -38,6 +38,21 @@
  "relations": {
   "amended_by": [
    {
+    "id": "pmk-110-2018",
+    "key": [
+     "PMK",
+     "110",
+     "2018",
+     null
+    ],
+    "number_as_written": "110/PMK.010/2018",
+    "quote": "Lan1piran I, Lampiran II, Lampiran III, dan Lan1piran IV Peraturan Menteri Keuangan Non1or 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pen1bayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain (Berita Negara Republik Indonesia Tahun 2017 Nomor 361) diubah sehingga menjadi tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "JDIH",
+    "title": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+   },
+   {
     "id": "pmk-41-2022",
     "key": [
      "PMK",

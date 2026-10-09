@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 386,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--b012-11",
+ "label": "11",
+ "order": 12,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 11\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPemerintah Nomor 46 Tahun 2Ol3 tentang Pajak\nPenghasilan atas Penghasilan dari Usaha yang Diterima atau\nDiperoleh Wajib Pajak yang Memiliki Peredaran Bruto\nTertentu (Lembaran Negara Republik Indonesia Tahun 2013\nNomor 106, Tambahan Lembaran Negara Republik Indonesia\nNomor 5424), dicabut dan dinyatakan tidak berlaku.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

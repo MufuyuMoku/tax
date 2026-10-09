@@ -15,15 +15,38 @@
   "year": "2018"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:58:43+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pp-23-2018--b000-1",
+  "pp-23-2018--b001-2",
+  "pp-23-2018--b002-3",
+  "pp-23-2018--b003-4",
+  "pp-23-2018--b004-5",
+  "pp-23-2018--b005-5",
+  "pp-23-2018--b006-6",
+  "pp-23-2018--b007-7",
+  "pp-23-2018--b008-7",
+  "pp-23-2018--b009-8",
+  "pp-23-2018--b010-9",
+  "pp-23-2018--b011-10",
+  "pp-23-2018--b012-11",
+  "pp-23-2018--b013-12",
+  "pp-23-2018--p014-1",
+  "pp-23-2018--p015-2",
+  "pp-23-2018--p016-3",
+  "pp-23-2018--p017-4",
+  "pp-23-2018--p018-5",
+  "pp-23-2018--p019-6",
+  "pp-23-2018--p020-7",
+  "pp-23-2018--p021-8",
+  "pp-23-2018--p022-8",
+  "pp-23-2018--p023-9",
+  "pp-23-2018--p024-12"
  ],
- "pasal_ids": [],
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -90,16 +113,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 28176,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
  },
  "title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu"
 }

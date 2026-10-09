@@ -22,14 +22,13 @@
    "title": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI TAHUN PAJAK 2018"
   }
  ],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T04:00:48+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/1e7a232c-8826-4e84-a851-c235bb551d4d/KEP 95 PJ 2019.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kep-eselon1-95-2019--b000-kedua",
+  "kep-eselon1-95-2019--b001-ketiga",
+  "kep-eselon1-95-2019--b002-keempat",
+  "kep-eselon1-95-2019--b003-kelima"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -69,16 +68,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "diktum",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 4762,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T04:00:48+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/1e7a232c-8826-4e84-a851-c235bb551d4d/KEP 95 PJ 2019.pdf"
  },
  "title": "Pengecualian Pengenaan Sanksi Administrasi Berupa Denda atas Keterlambatan Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2018"
 }

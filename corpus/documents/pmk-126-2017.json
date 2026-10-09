@@ -15,15 +15,16 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:27:57+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/44f5d4d6-e189-4802-90cf-512b070cd675/126~PMK.010~2017Per.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-126-2017--b000-1",
+  "pmk-126-2017--b001-3",
+  "pmk-126-2017--b002-4",
+  "pmk-126-2017--b003-5"
  ],
- "pasal_ids": [],
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:1->3"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -63,16 +64,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8718,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:27:57+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/44f5d4d6-e189-4802-90cf-512b070cd675/126~PMK.010~2017Per.pdf"
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2017"
 }

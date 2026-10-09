@@ -38,12 +38,12 @@
     "angsuran-tunggakan": 52
   },
   "median_acuan": {
-    "keterangan": "Median peringkat yang tidak boleh terlampaui. pph: 25 pertanyaan PPh, diukur sebelum KUP masuk korpus (M3-M4). semua: 35 pertanyaan, diukur 2026-10-09.",
-    "pph": 5,
+    "keterangan": "Median peringkat yang tidak boleh terlampaui. pph: 25 pertanyaan PPh; 5 sebelum KUP, 6 sejak teks JDIH PPh masuk (disetujui pemilik 2026-10-09, K-068). semua: 35 pertanyaan, diukur 2026-10-09.",
+    "pph": 6,
     "semua": 8
   },
   "penurunan_disetujui": {
-    "keterangan": "Penurunan yang disetujui pemilik pada 2026-10-08, akibat korpus bertambah dengan KUP (K-061, K-063). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",
+    "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",
     "honor-pembicara": {
       "garis_dasar": 10,
       "paling_buruk": 24,
@@ -56,13 +56,33 @@
     },
     "beasiswa": {
       "garis_dasar": 1,
-      "paling_buruk": 2,
-      "penjelasan": "Satu dokumen KUP yang menyebut beasiswa dan objek pajak naik ke peringkat 1."
+      "paling_buruk": 3,
+      "penjelasan": "KUP (2026-10-08): satu dokumen KUP naik ke peringkat 1 (sampai 2). Teks JDIH PPh (2026-10-09): Perpres 74/2020, P3B dengan Kamboja yang memuat pasal pelajar, ikut bersaing (sampai 3). Disetujui karena teks PPh yang sebelumnya kosong kini tercari; 'jual rumah' membaik 45 -> 10."
     },
     "pajak-luar-negeri": {
       "garis_dasar": 7,
       "paling_buruk": 13,
       "penjelasan": "Dokumen KUP tentang pengkreditan dan Persetujuan Penghindaran Pajak Berganda ikut bersaing. Pada 2026-10-05 (detail KUP 712/892) peringkatnya 11; dengan detail lengkap 13."
+    },
+    "denda-telat-lapor": {
+      "garis_dasar": 7,
+      "paling_buruk": 8,
+      "penjelasan": "Teks JDIH PPh yang sebelumnya kosong kini tercari (2026-10-09, K-068)."
+    },
+    "pengungkapan-ketidakbenaran": {
+      "garis_dasar": 32,
+      "paling_buruk": 33,
+      "penjelasan": "Teks JDIH PPh yang sebelumnya kosong kini tercari (2026-10-09, K-068)."
+    },
+    "restitusi": {
+      "garis_dasar": 82,
+      "paling_buruk": 83,
+      "penjelasan": "Teks JDIH PPh yang sebelumnya kosong kini tercari (2026-10-09, K-068)."
     }
+  },
+  "toleransi": {
+    "keterangan": "Turun paling banyak 2 peringkat dari garis dasar boleh tanpa persetujuan, selama pertanyaan yang garis dasarnya di 10 besar tetap di 10 besar (pemilik, 2026-10-09, K-068). Penurunan lebih dari itu tetap harus tercantum di penurunan_disetujui.",
+    "peringkat_maks": 2,
+    "batas_10_besar": 10
   }
 }

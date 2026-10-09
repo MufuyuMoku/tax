@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 801,
+ "document_id": "perpres-74-2020",
+ "document_number": "PERPRES 74 TAHUN 2020",
+ "document_title": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Kamboja untuk Penghindaran Pajak Berganda dan Pencegahan Pengelakan Pajak yang Berkenaan dengan Pajak-pajak atas Penghasilan (Agreement between the Government of the Republic of Indonesia and the Royal Government of Cambodia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income)",
+ "id": "perpres-74-2020--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [
+  "urutan_loncat:2->2,4->8,9->14,14->20",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\n(1) Mengesahkan Persetujuan antara Pemerintah Republik\nIndonesia dan Pemerintah Kerajaan Kamboja untuk\nPenghindaran Pajak Berganda dan Pencegahan Pengelakan\nPajak yang Berkenaan dengan Pajak-pajak atas\nPenghasilan (Agreement betueen the Gouernment of the\nRepublic of Indonesia and the Rogal Gouernment of\nCambodia for the Auoidance of Double Taxation and the\nPreuention of Fiscal Euasion uith Respect to Taxes on Income)\nyang secara sirkuler telah ditandatangani di Jakarta,\nIndonesia pada tanggal 23 Oktober 2Ol7 dan di Phnom\nPenh, Kamboja pada tanggal 13 Oktober 2017.\n(21 Salinan naskah asli Persetujuan sebagaimana dimaksud\npada ayat (1) dalam bahasa Indonesia, bahasa Khmer, dan\nbahasa Inggris sebagaimana terlampir dan merupakan\nbagian yang tidak terpisahkan dari Peraturan Presiden ini.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:23:02+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/e9326bc2-47cb-49d7-97ed-e99546f4d911/74TAHUN2020PERPRES.pdf"
+ }
+}

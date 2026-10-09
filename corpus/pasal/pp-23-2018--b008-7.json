@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 683,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--b008-7",
+ "label": "7",
+ "order": 8,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 7\nWajib Pajak sebagaimana dimaksud dalam Pasal 3 ayat\n(1) yang peredaran brutonya pada Tahun Pajak berjatan\ntelah melebihi Rp4.800.000.000,00 (empat miliar\ndelapan ratus juta rupiah), atas penghasilan dari usaha\ntetap dikenai tarif Pajak Penghasilan sebagaimana\ndimaksud dalam Pasal 2 ayat (2) sampai dengan akhir\nTahun Pajak bersangkutan.\nAtas penghasilan dari usaha sebagaimana dimaksud\ndalam Pasal 2 ayat (ll yang diterima atau diperoleh pada\nTahun Pajak - Tahun Pajak berikutnya oleh Wajib Pajak\nsebagaimana dimaksud pada ayat (1) dikenai Pajak\nPenghasilan berdasarkan tarif Pasai 77 ayat (1) huruf a,\nPasal 17 ayat (2a), atau Pasal 3lE Undang-Undang Pajak\nPenghasilan.\n(1)",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

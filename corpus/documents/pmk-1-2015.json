@@ -19,13 +19,7 @@
   "year": "2015"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:23:23+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/713683eb-ac5c-43c4-b4e7-981d1aff216d/1~PMK.03~2015Per.pdf"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-1-2015--b000-i",
   "pmk-1-2015--b001-ii"
@@ -33,21 +27,7 @@
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [
-   {
-    "key": [
-     "PMK",
-     "196",
-     "2007",
-     null
-    ],
-    "name": "Peraturan Menteri Keuangan Nomor 196/PMK.03/2007",
-    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang selain Rupiah serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan. Pajak Penghasilan Wajib Pajak Badan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 24/PMK.011/2012, diubah sebagai berikut:",
-    "quote_excerpt": false,
-    "source_of_reading": "DJP",
-    "target_id": "pmk-196-2007"
-   }
-  ],
+  "amends": [],
   "revoked_by": [],
   "revokes": [],
   "source_listed_related": [
@@ -130,13 +110,21 @@
  "structure": "perubahan",
  "text": {
   "available": true,
-  "chars": 7053,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-04T04:05:20+00:00",
-  "source": "DJP",
+  "chars": 7520,
+  "format": "pdf",
+  "other_postings": [
+   {
+    "chars": 7053,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-04T04:05:20+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-196pmk032007-tentang-tata-cara"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:23:23+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-196pmk032007-tentang-tata-cara"
+  "url": "https://jdih.kemenkeu.go.id/api/download/713683eb-ac5c-43c4-b4e7-981d1aff216d/1~PMK.03~2015Per.pdf"
  },
  "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007 TENTANG TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN"
 }

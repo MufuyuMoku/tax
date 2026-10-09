@@ -42,7 +42,22 @@
     "target_id": "pmk-203-2009"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-209-2010",
+    "key": [
+     "PMK",
+     "209",
+     "2010",
+     null
+    ],
+    "number_as_written": "209/PMK.07/2010",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 203/PMK.07/2009 tentang Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi Dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010 sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 10/PMK.07/2010 , dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010."
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -72,7 +87,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 209/2010 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

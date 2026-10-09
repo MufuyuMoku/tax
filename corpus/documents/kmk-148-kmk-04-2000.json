@@ -19,14 +19,13 @@
   "year": "2000"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T04:01:08+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/37e9a482-3e7c-48b3-921a-f4a7397c8888/148~kmk.04~2000kep.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-148-kmk-04-2000--b000-1",
+  "kmk-148-kmk-04-2000--b001-2",
+  "kmk-148-kmk-04-2000--b002-3",
+  "kmk-148-kmk-04-2000--b003-4"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -106,16 +105,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3618,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T04:01:08+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/37e9a482-3e7c-48b3-921a-f4a7397c8888/148~kmk.04~2000kep.htm"
  },
  "title": "TATA CARA PELAKSANAAN SURAT PAKSA DAN PENYITAAN DI LUAR WILAYAH KERJA PEJABAT YANG MENERBITKAN SURAT PAKSA"
 }

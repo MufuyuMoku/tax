@@ -22,14 +22,12 @@
    "title": "KEBIJAKAN PERPAJAKAN TERHADAP PENYETORAN ATAS PEMOTONGAN ATAU PEMUNGUTAN PAJAK PENGHASILAN YANG JATUH TEMPO PADA TANGGAL 10 JUNI 2019"
   }
  ],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T04:00:06+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/7782f7a2-9c49-4628-b7fb-14518722964c/KEP-486.PJ.2019.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kep-eselon1-486-2019--b000-kedua",
+  "kep-eselon1-486-2019--b001-ketiga",
+  "kep-eselon1-486-2019--b002-keempat"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -69,16 +67,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "diktum",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 4894,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T04:00:06+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/7782f7a2-9c49-4628-b7fb-14518722964c/KEP-486.PJ.2019.pdf"
  },
  "title": "Kebijakan Perpajakan Terhadap Penyetoran atas Pemotongan atau Pemungutan Pajak Penghasilan yang Jatuh Tempo pada Tanggal 10 Juni 2019"
 }

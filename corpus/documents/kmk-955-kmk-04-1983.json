@@ -15,14 +15,11 @@
   "year": "1983"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:21:42+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/d25f7211-31d7-41d0-89ce-e66025c4327b/955~kmk.04~1983kep.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-955-kmk-04-1983--b000-1",
+  "kmk-955-kmk-04-1983--b001-2"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -63,16 +60,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3978,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:21:42+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/d25f7211-31d7-41d0-89ce-e66025c4327b/955~kmk.04~1983kep.htm"
  },
  "title": "Penentuan Organisasi Internasional yang Pejabat-Pejabatnya Tidak\r\nTermasuk Sebagai Subyek Pajak Penghasilan"
 }

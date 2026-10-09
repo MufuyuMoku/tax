@@ -7,14 +7,17 @@
  "id": "pmk-105-2025--b006-7",
  "label": "7",
  "order": 6,
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:9->21,21->21,21->21",
+  "pasal_ganda"
+ ],
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 7\nDirektur Jenderal Pajak melakukan pengawasan dalam rangka pembinaan, penelitian, dan/atau pengujian kepatuhan terhadap wajib pajak yang memanfaatkan insentif sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+ "text": "Pasal 7\nDirektur Jenderal Pajak melakukan pengawasan dalam rangka\npembinaan, penelitian, dan/atau pengujian kepatuhan\nterhadap wajib pajak yang memanfaatkan insentif sesuai\ndengan ketentuan peraturan perundang-undangan di bidang\nperpajakan.",
  "text_source": {
-  "retrieved_at": "2026-10-04T02:58:28+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0"
+  "retrieved_at": "2026-10-09T00:23:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/cb203b0c-bdc8-409d-bf9c-a71264d96f60/2025pmkeuangan105.pdf"
  }
 }

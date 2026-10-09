@@ -34,7 +34,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-107-2017",
+    "key": [
+     "PMK",
+     "107",
+     "2017",
+     null
+    ],
+    "number_as_written": "107/PMK.03/2017",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 256/PMK.03/2008 tentang Penetapan Saat Diperolehnya Dividen oleh Wajib Pajak Dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri selain Badan Usaha yang Menjual Sahamnya di Bursa Efek (Berita Negara Republik Indonesia Tahun 2009 Nomor 10), dicabut dan dinyatakan tidak berlaku.www.jdih.kemenkeu.go.id - 12 -",
+    "quote_excerpt": true,
+    "source_of_reading": "JDIH",
+    "title": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek."
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -78,7 +93,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 107/2017 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

@@ -19,27 +19,22 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:22:05+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/9b8215c0-56df-4bd2-a2fd-1313cafe9a93/PER-03 2020.pdf"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
-  "per-djp-3-2020--b000-1",
-  "per-djp-3-2020--b001-2",
-  "per-djp-3-2020--b002-3",
-  "per-djp-3-2020--b003-4",
-  "per-djp-3-2020--b004-5",
-  "per-djp-3-2020--b005-6",
-  "per-djp-3-2020--b006-7",
-  "per-djp-3-2020--b007-8",
-  "per-djp-3-2020--b008-9",
-  "per-djp-3-2020--b009-10",
-  "per-djp-3-2020--b010-11"
+  "per-djp-3-2020--b000-2",
+  "per-djp-3-2020--b001-3",
+  "per-djp-3-2020--b002-4",
+  "per-djp-3-2020--b003-5",
+  "per-djp-3-2020--b004-6",
+  "per-djp-3-2020--b005-7",
+  "per-djp-3-2020--b006-8",
+  "per-djp-3-2020--b007-9",
+  "per-djp-3-2020--b008-10",
+  "per-djp-3-2020--b009-11"
  ],
- "quality_flags": [],
+ "quality_flags": [
+  "tidak_mulai_dari_1"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -53,9 +48,9 @@
      null
     ],
     "name": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2013",
-    "quote": "Pasal 10 Dengan berlakunya Peraturan Direktur Jenderal ini, maka Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2013 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan, dicabut dan dinyatakan tidak berlaku.",
+    "quote": "Pasal 10 Dengan berlakunya Peraturan Direktur J enderal ini, maka Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2013 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan, dicabut dan dinyatakan tidak berlaku. -11-",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "per-djp-1-2013"
    }
   ],
@@ -113,13 +108,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 11607,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-04T03:31:21+00:00",
-  "source": "DJP",
+  "chars": 21541,
+  "format": "pdf",
+  "other_postings": [
+   {
+    "chars": 11607,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-04T03:31:21+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-keterangan-bebas-pemotongan-pajak-penghasilan-atas-bunga-0"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:22:05+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-keterangan-bebas-pemotongan-pajak-penghasilan-atas-bunga-0"
+  "url": "https://jdih.kemenkeu.go.id/api/download/9b8215c0-56df-4bd2-a2fd-1313cafe9a93/PER-03 2020.pdf"
  },
  "title": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN ATAU TELAH MENDAPATKAN IZIN DARI OTORITAS JASA KEUANGAN"
 }

@@ -172,7 +172,23 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pp-20-2026",
+    "key": [
+     "PP",
+     "20",
+     "2026",
+     null
+    ],
+    "number_as_written": "PP 20 TAHUN 2026",
+    "quote": "Pengeluaran berupa pemberian suap, gratifikasi, dan/ atau pemberian lain dengan nama dan dalam bentuk apa pun sebagaimana dimaksud dalam peraturan perundang-undangan yang mengatur mengenai tindak pidana korupsi dan/ atau tindak pidana suap, termasuk yang diberikan kepada pejabat publik asing, bukan merupakan biaya untuk mendapatkan, menagih, dan memelihara penghasilan yang dapat menjadi pengurang penghasilan bruto. 3. Ketentuan ayat (1) dan ayat (4) Pasal 56 diubah, sehingga Pasal 56 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "JDIH",
+    "title": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [

@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 850,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--p020-7",
+ "label": "7",
+ "order": 20,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal 7\nContoh:\nT\\ran I memiliki usaha restoran dan dikenai Pajak Penghasilan final\nsesuai dengan ketentuan Peraturan Pemerintah ini sejak Tahun Pajak\n2019, karena peredaran bruto Tuan I pada tahun 2O18 kurang dari\nRp4.800.0O0.000,00 (empat miliar delapan ratus juta rupiah).\nPada bulan Agustus tahun 2019, peredaran bruto Tuan I telah\nmencapai RpS.000.000.000,00 (lima miliar rupiah).\nMeskipun peredaran bruto Tuan I telah melebihi Rp4.800.000.000,00\n(empat miliar deiapan ratus juta rupiah), T\\ran I tetap dikenai Pajak\nPenghasilan yang bersifat final dengan tarif 0,57o (nol koma iima\npersen) sampai dengan akhir Tahun Pajak 2019.\nAtas penghasilan yang diterima atau diperoleh Tuan I pada Tahun\nPajak 2O2O dan seterusnya, dikenai Pajak Penghasilan dengan\nketentuan umum berdasarkan tarif Pasal 77 ayat (1) huruf a Undang-\nUndang Pajak Penghasilan.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

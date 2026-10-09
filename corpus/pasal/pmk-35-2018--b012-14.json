@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 277,
+ "document_id": "pmk-35-2018",
+ "document_number": "35/PMK.010/2018",
+ "document_title": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan.",
+ "id": "pmk-35-2018--b012-14",
+ "label": "14",
+ "order": 12,
+ "quality_flags": [
+  "urutan_loncat:10->12"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 14\nPengurangan Pajak Penghasilan badan berdasarkan Peraturan\nMenteri ini diberikan terhadap usulan sebagaimana dimaksud\ndalam Pasal 4 ayat (3) dan Pasal 5 ayat (3) yang disampaikan\ndalam jangka waktu selama 5 (lima) tahun terhitung sejak\nberlakunya Peraturan Menteri ini.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:47:30+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/c7562320-fb1e-44d4-b9b9-2818fcfc4fd0/35~PMK.010~2018Per.pdf"
+ }
+}

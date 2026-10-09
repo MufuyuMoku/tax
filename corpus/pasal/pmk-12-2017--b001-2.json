@@ -1,6 +1,6 @@
 {
  "amendment_items": null,
- "chars": 494,
+ "chars": 493,
  "document_id": "pmk-12-2017",
  "document_number": "12/PMK.03/2017",
  "document_title": "BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN",
@@ -11,10 +11,10 @@
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 2\n(1)\nPemotong dan/atau Pemungut Pajak Penghasilan harus membuat:\na.\nBukti Pemotongan PPh atas pemotongan Pajak Penghasilan yang dilakukan; dan/atau\nb.\nBukti Pemungutan PPh atas pemungutan Pajak Penghasilan yang dilakukan.\n(2)\nBukti Pemotongan PPh sebagaimana dimaksud pada ayat (1) huruf a dan/atau Bukti Pemungutan PPh sebagaimana dimaksud pada ayat (1) huruf b harus diberikan oleh Pemotong dan/ atau Pemungut Pajak Penghasilan kepada pihak yang dipotong dan/ atau pihak yang dipungut.",
+ "text": "Pasal 2\n(1) Pemotong dan/atau Pemungut Pajak Penghasilan harus\nmembuat:\na. Bukti Pemotongan PPh atas pemotongan Pajak\nPenghasilan yang dilakukan; dan/atau\nb. Bukti Pemungutan PPh atas pemungutan Pajak\nPenghasilan yang dilakukan.\n( 2) Bukti Pemotongan PPh sebagaimana dimaksud pada ayat\n(1) huruf a dan/atau Bukti Pemungutan PPh\nsebagaimana dimaksud pada ayat (1) huruf b harus\ndiberikan oleh Pemotong dan/atau Pemungut Pajak\nPenghasilan kepada pihak yang dipotong dan/atau pihak\nyang dipungut.",
  "text_source": {
-  "retrieved_at": "2026-10-04T03:45:38+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/bukti-pemotongan-danatau-pemungutan-pajak-penghasilan"
+  "retrieved_at": "2026-10-09T00:27:17+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/08536c98-cfbf-4893-a1e8-5c1af6cd003d/12~PMK.03~2017Per.pdf"
  }
 }

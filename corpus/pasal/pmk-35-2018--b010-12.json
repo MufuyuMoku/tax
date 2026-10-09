@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 164,
+ "document_id": "pmk-35-2018",
+ "document_number": "35/PMK.010/2018",
+ "document_title": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan.",
+ "id": "pmk-35-2018--b010-12",
+ "label": "12",
+ "order": 10,
+ "quality_flags": [
+  "urutan_loncat:10->12"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 12\nFasilitas pengurangan Pajak Penghasilan badan sebagaimana\ndimaksud dalam ketentuan Peraturan Menteri ini akan\ndipublikasikan dan dievaluasi secara berkala.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:47:30+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/c7562320-fb1e-44d4-b9b9-2818fcfc4fd0/35~PMK.010~2018Per.pdf"
+ }
+}

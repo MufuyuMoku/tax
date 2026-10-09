@@ -15,15 +15,16 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:28:38+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/edf6e666-4142-4afa-a50e-85b22717328d/140~PMK.03~2017Per.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-140-2017--b000-3",
+  "pmk-140-2017--b001-4",
+  "pmk-140-2017--b002-6"
  ],
- "pasal_ids": [],
- "quality_flags": [],
+ "quality_flags": [
+  "tidak_mulai_dari_1",
+  "urutan_loncat:4->6"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -63,16 +64,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 7976,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:28:38+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/edf6e666-4142-4afa-a50e-85b22717328d/140~PMK.03~2017Per.pdf"
  },
  "title": "Tata Cara Pengecualian Pemotongan Pajak Penghasilan atas Hasil Investasi atau Pengembangan Dana Dari Aset Dana Jaminan Sosial."
 }

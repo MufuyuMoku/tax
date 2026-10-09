@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 20,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--p019-6",
+ "label": "6",
+ "order": 19,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal 6\nCukup jelas.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

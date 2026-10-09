@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1204,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--p022-8",
+ "label": "8",
+ "order": 22,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal 8\nContoh:\nTtran R memiliki usaha toko elektronik dan memenuhi ketentuan\nuntuk dapat dikenakan Pajak Penghasilan final berdasarkan\nketentuan Peraturan Pemerintah ini. Pada bulan September 2019,\nTuan R memperoleh penghasilan dari usaha penjualan alat elektronik\ndengan peredaran bruto sebesar Rp80.000.000,00 (delapan puluh juta\nrupiah). Dari jumlah tersebut, penjualan dengan peredaran bruto\nsebesar Rp60.000.000,00 (enam putuh juta rupiah) dilakukan pada\ntanggal i7 September 20i9 kepada Dinas Perhubungan Provinsi DKI\nJakarta yang merupakan Pemotong atau Pemungut Pajak, sisanya\nsebesar Rp20.000.000,00 (dua puluh juta rupiah) diperoleh dari\npenjualan kepada pembeli orang pribadi yang langsung datang ke toko\nmiliknya. Tuan R memiliki surat keterangan Wajib Pajak dikenai Pajak\nPenghasilan yang bersifat final berdasarkan ketentuan Peraturan\nPemerintah ini.\nPajak Penghasilan yang bersifat final yang terutang untuk buian\nSeptember 20I9 dihitung sebagai berikut:\na. Pajak Penghasilan yang bersifat final yang dipotong oleh Dinas\nPerhubungan DKI Jakarta:\n: 0,5% x Rp60.000.000,00\n= RP300.000,00\nb. Pajak Penghasilan yang bersifat linal yang disetor sendiri:\n= 0,5% x Rp20.000.000,00\n= Rp10o.000,00",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

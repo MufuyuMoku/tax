@@ -22,20 +22,80 @@
    "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
   }
  ],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T03:57:15+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/94dd5950-7fb5-47c2-83ce-977440bfea82/PER8PJ2023.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-8-2023--b000-1",
+  "kep-djp-8-2023--b001-2",
+  "kep-djp-8-2023--b002-3",
+  "kep-djp-8-2023--b003-4",
+  "kep-djp-8-2023--b004-5",
+  "kep-djp-8-2023--b005-6",
+  "kep-djp-8-2023--b006-7",
+  "kep-djp-8-2023--b007-8",
+  "kep-djp-8-2023--b008-9",
+  "kep-djp-8-2023--b009-10",
+  "kep-djp-8-2023--b010-11",
+  "kep-djp-8-2023--b011-12",
+  "kep-djp-8-2023--b012-13",
+  "kep-djp-8-2023--b013-14",
+  "kep-djp-8-2023--b014-15",
+  "kep-djp-8-2023--b015-16",
+  "kep-djp-8-2023--b016-17",
+  "kep-djp-8-2023--b017-18",
+  "kep-djp-8-2023--b018-19",
+  "kep-djp-8-2023--b019-20"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "237",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 237/PMK.010/2020",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "rejected": "hierarki: KEP-DJP tidak dapat mencabut/mengubah PMK",
+    "source_of_reading": "JDIH",
+    "target_id": "pmk-237-2020"
+   }
+  ],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "71",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 71 Tahun 2008",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER- 28/PJ/2009 tentang Pelaksanaan Ketentuan Peralihan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan; dan b. Peraturan Direktur Jenderal Pajak Nomor PER- 30/PJ/2009 tentang Tata Cara Pemberian Pengecualian dari Kewajiban Pembayaran atau Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dicabut dan dinyatakan tidak berlaku. - 19 -",
+    "quote_excerpt": false,
+    "rejected": "hierarki: KEP-DJP tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "JDIH",
+    "target_id": "pp-71-2008"
+   },
+   {
+    "key": [
+     "PP",
+     "48",
+     "1994",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 48 Tahun 1994",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER- 28/PJ/2009 tentang Pelaksanaan Ketentuan Peralihan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan; dan b. Peraturan Direktur Jenderal Pajak Nomor PER- 30/PJ/2009 tentang Tata Cara Pemberian Pengecualian dari Kewajiban Pembayaran atau Pemungutan Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan, dicabut dan dinyatakan tidak berlaku. - 19 -",
+    "quote_excerpt": false,
+    "rejected": "hierarki: KEP-DJP tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "JDIH",
+    "target_id": "pp-48-1994"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
@@ -69,16 +129,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 115675,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T03:57:15+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/94dd5950-7fb5-47c2-83ce-977440bfea82/PER8PJ2023.pdf"
  },
  "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
 }

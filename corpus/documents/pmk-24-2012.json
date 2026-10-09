@@ -19,13 +19,7 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:46:06+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/6fb7bf9c-3d4c-4071-b43f-e7555c03a009/24~PMK.011~2012Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-24-2012--b000-i",
   "pmk-24-2012--b001-ii"
@@ -44,7 +38,7 @@
     "name": "PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007",
     "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan Dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan diubah sebagai berikut:",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "pmk-196-2007"
    }
   ],
@@ -130,13 +124,21 @@
  "structure": "perubahan",
  "text": {
   "available": true,
-  "chars": 6601,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-04T07:37:59+00:00",
-  "source": "DJP",
+  "chars": 6635,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 6601,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-04T07:37:59+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-196pmk032007-tentang-tata-cara"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:46:06+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-196pmk032007-tentang-tata-cara"
+  "url": "https://jdih.kemenkeu.go.id/api/download/6fb7bf9c-3d4c-4071-b43f-e7555c03a009/24~PMK.011~2012Per.htm"
  },
  "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007 TENTANG TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN"
 }

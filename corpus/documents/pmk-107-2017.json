@@ -15,14 +15,20 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:24:25+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/9b7ddf95-e615-47a1-90d8-3b70b29c3dfe/107~PMK.03~2017Per.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-107-2017--b000-1",
+  "pmk-107-2017--b001-2",
+  "pmk-107-2017--b002-3",
+  "pmk-107-2017--b003-4",
+  "pmk-107-2017--b004-5",
+  "pmk-107-2017--b005-6",
+  "pmk-107-2017--b006-7",
+  "pmk-107-2017--b007-8",
+  "pmk-107-2017--b008-9",
+  "pmk-107-2017--b009-10",
+  "pmk-107-2017--b010-11"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [
@@ -43,7 +49,34 @@
   ],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "164/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 164/KMK.03/2002",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku: 1. ketentuan yang mengatur mengena1 besarnya pengkreditan pajak penghasilan yang dibayar atau dipotong di luar negeri atas penghasilan berupa dividen yang diterima dari BULN Nonbursa terkendali langsung sebagaimana diatur dalam Keputusan Menteri Keuangan Nomor 164/KMK.03/2002 tentang Kredit Pajak Luar Negeri dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "target_id": "kmk-164-kmk-03-2002"
+   },
+   {
+    "key": [
+     "PMK",
+     "256",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 256/PMK.03/2008",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 256/PMK.03/2008 tentang Penetapan Saat Diperolehnya Dividen oleh Wajib Pajak Dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri selain Badan Usaha yang Menjual Sahamnya di Bursa Efek (Berita Negara Republik Indonesia Tahun 2009 Nomor 10), dicabut dan dinyatakan tidak berlaku.www.jdih.kemenkeu.go.id - 12 -",
+    "quote_excerpt": true,
+    "source_of_reading": "JDIH",
+    "target_id": "pmk-256-2008"
+   }
+  ],
   "source_listed_related": [
    {
     "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
@@ -90,16 +123,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 54072,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:24:25+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/9b7ddf95-e615-47a1-90d8-3b70b29c3dfe/107~PMK.03~2017Per.pdf"
  },
  "title": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek."
 }

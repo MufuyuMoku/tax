@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 176,
+ "document_id": "per-djp-3-2020",
+ "document_number": "PER-03/PJ/2020",
+ "document_title": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN ATAU TELAH MENDAPATKAN IZIN DARI OTORITAS JASA KEUANGAN",
+ "id": "per-djp-3-2020--b005-7",
+ "label": "7",
+ "order": 5,
+ "quality_flags": [
+  "tidak_mulai_dari_1"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 7\nBank/Pemotong Pajak tidak melakukan pemotongan\nPajak Penghasilan apabila Dana Pensiun yang melakukan\ninvestasi pada bank yang bersangkutan dapat\nmemberikan salinan SKB.",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:22:05+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/9b8215c0-56df-4bd2-a2fd-1313cafe9a93/PER-03 2020.pdf"
+ }
+}

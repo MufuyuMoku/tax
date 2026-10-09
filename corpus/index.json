@@ -9856,16 +9856,16 @@
   "id": "kep-djp-8-2023",
   "number": "8",
   "number_as_written": "KEP-8/PJ/2023",
-  "pasal_count": 0,
+  "pasal_count": 20,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 115675,
   "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA",
   "variant": null,
   "year": "2023"
@@ -10338,16 +10338,16 @@
   "id": "kep-eselon1-335-1975",
   "number": "335",
   "number_as_written": "KEP-335/MK/II/4/1975",
-  "pasal_count": 0,
+  "pasal_count": 3,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 2318,
   "title": "Penegasan tentang Tidak Dipungutnya Pajak atas Bunga, Deviden dan Royalty atas Bunga yang Diperoleh Dari Promes, Aksep, Wesel dan Surat Berharga Sejenis yang Lazimnya Diperdagangkan dalam Pasar Uang",
   "variant": null,
   "year": "1975"
@@ -10362,16 +10362,16 @@
   "id": "kep-eselon1-425-2019",
   "number": "425",
   "number_as_written": "KepDJP KEP-425/PJ/2019",
-  "pasal_count": 0,
+  "pasal_count": 3,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "diktum",
+  "text_available": true,
+  "text_chars": 102161,
   "title": "Penetapan Pemotong Pph Pasal 23 dan/atau Pasal 26 yang Diharuskan Membuat Bukti Pemotongan dan Diwajibkan Menyampaikan Spt Masa Pph Pasal 23 Dan/ atau Pasal 26 Berdasarkan Peraturan Direktur Jenderal Pajak Nomor Per-04/Pj/2017",
   "variant": null,
   "year": "2019"
@@ -10386,16 +10386,16 @@
   "id": "kep-eselon1-486-2019",
   "number": "486",
   "number_as_written": "KepDJP KEP-486/PJ/2019",
-  "pasal_count": 0,
+  "pasal_count": 3,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "diktum",
+  "text_available": true,
+  "text_chars": 4894,
   "title": "Kebijakan Perpajakan Terhadap Penyetoran atas Pemotongan atau Pemungutan Pajak Penghasilan yang Jatuh Tempo pada Tanggal 10 Juni 2019",
   "variant": null,
   "year": "2019"
@@ -10410,16 +10410,16 @@
   "id": "kep-eselon1-95-2019",
   "number": "95",
   "number_as_written": "KepDJP KEP-95/PJ/2019",
-  "pasal_count": 0,
+  "pasal_count": 4,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "diktum",
+  "text_available": true,
+  "text_chars": 4762,
   "title": "Pengecualian Pengenaan Sanksi Administrasi Berupa Denda atas Keterlambatan Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2018",
   "variant": null,
   "year": "2019"
@@ -12246,7 +12246,7 @@
   "id": "kmk-148-kmk-04-2000",
   "number": "148/KMK.04",
   "number_as_written": "148/KMK.04/2000",
-  "pasal_count": 0,
+  "pasal_count": 4,
   "quality_flags": [],
   "sources": [
    "DJP",
@@ -12254,9 +12254,9 @@
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3618,
   "title": "TATA CARA PELAKSANAAN SURAT PAKSA DAN PENYITAAN DI LUAR WILAYAH KERJA PEJABAT YANG MENERBITKAN SURAT PAKSA",
   "variant": null,
   "year": "2000"
@@ -12636,16 +12636,16 @@
   "id": "kmk-182-kmk-014-1998",
   "number": "182/KMK.014",
   "number_as_written": "182/KMK.014/1998",
-  "pasal_count": 0,
+  "pasal_count": 3,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 5321,
   "title": "Nilai Kurs Sewbagai Dasar Pelunasan Bea Masuk, Ppn Barang dan Jasa, Ppn Barang Mewah, Pajak Ekspor dan Pph yang Berlaku untuk Tanggal 9 Sampai dengan 15 Maret 1998",
   "variant": null,
   "year": "1998"
@@ -13398,16 +13398,16 @@
   "id": "kmk-249-kmk-01-1994",
   "number": "249/KMK.01",
   "number_as_written": "249/KMK.01/1994",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3061,
   "title": "Pembebasan Bea Masuk, Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 100.000 Ton Minyak Goreng (Palm Oil) Hs.1511.90.000 oleh Badan Urusan Logistik (Bulog)",
   "variant": null,
   "year": "1994"
@@ -13471,16 +13471,16 @@
   "id": "kmk-251-kmk-04-1986",
   "number": "251/KMK.04",
   "number_as_written": "251/KMK.04/1986",
-  "pasal_count": 0,
+  "pasal_count": 2,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 1600,
   "title": "Penetuan Asian - American Free Labor Institute yang Pejabat-Pejabat Perwakilannya Tidak Termasuk Sebagai Subyek Pajak Dari Pajak Penghasilan",
   "variant": null,
   "year": "1986"
@@ -13568,16 +13568,18 @@
   "id": "kmk-260-kmk-04-2000",
   "number": "260/KMK.04",
   "number_as_written": "260/KMK.04/2000",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 1,
+  "quality_flags": [
+   "anomali_romawi:I"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3270,
   "title": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir Denga Kepmenkeu No. 314/KMK.04/1998",
   "variant": null,
   "year": "2000"
@@ -13837,16 +13839,16 @@
   "id": "kmk-292-kmk-05-1993",
   "number": "292/KMK.05",
   "number_as_written": "292/KMK.05/1993",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3614,
   "title": "Pembebasan Bea Masuk dan Ppn Serta Pph Pasal 22 Impor Tidak Dipungut atas Pemasukan Cadang Peralatan Teater Imax Keong Emas Taman Mini Indonesia Indah.",
   "variant": null,
   "year": "1993"
@@ -15517,16 +15519,16 @@
   "id": "kmk-454-kmk-01-1994",
   "number": "454/KMK.01",
   "number_as_written": "454/KMK.01/1994",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3140,
   "title": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 100.000 Ton Pati Tapioka Pos Tarip 1108.14.900 oleh Badan Urusan Logistik (Bulog)",
   "variant": null,
   "year": "1994"
@@ -16225,16 +16227,16 @@
   "id": "kmk-492-kmk-01-1994",
   "number": "492/KMK.01",
   "number_as_written": "492/KMK.01/1994",
-  "pasal_count": 0,
+  "pasal_count": 2,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "perubahan",
+  "text_available": true,
+  "text_chars": 3040,
   "title": "Perubahan Lampiran Keputusan Menteri Keuangan Ri No. Kep-330/KMK.04/1992 tentang Perlakuan Pajak Penghasilan Bagi Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir dengan Keputusan Menteri Keuangan Ri No. 228/KMK.01/1994",
   "variant": null,
   "year": "1994"
@@ -16249,16 +16251,16 @@
   "id": "kmk-496-kmk-01-1994",
   "number": "496/KMK.01",
   "number_as_written": "496/KMK.01/1994",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3136,
   "title": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipu - Ngut atas Impor 100.000 Ton Kedele Campur Pos Tarip 1201.00. 500 oleh Badan Urusan Logistik (Bulog)",
   "variant": null,
   "year": "1994"
@@ -16445,16 +16447,16 @@
   "id": "kmk-519-kmk-01-1994",
   "number": "519/KMK.01",
   "number_as_written": "519/KMK.01/1994",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3189,
   "title": "Pembebasan Bea Masuk Serta Ppn dan Pph Pasal 22 Tidak Dipungut atas Impor 20.000 Ton Serat Goni Mentah yang Termasuk Pos Tarip 5303.10.000 oleh Badan Urusan Logistik (Bulog)",
   "variant": null,
   "year": "1994"
@@ -17160,16 +17162,18 @@
   "id": "kmk-553-kmk-04-2000",
   "number": "553/KMK.04",
   "number_as_written": "553/KMK.04/2000",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 9,
+  "quality_flags": [
+   "urutan_loncat:7->9,9->8"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 5816,
   "title": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Masukan Kena Pajak yang Berdasarkan Uu No.7 Tahun 1983 tentang Pph Sebagaimana Telah Diubah dengan Uu No. 17 Tahun 2000 Memilih Dikenakan Pajak dengan Menggunakan Norma Penghitungan Penghasilan",
   "variant": null,
   "year": "2000"
@@ -17358,16 +17362,16 @@
   "id": "kmk-564-kmk-03-2004",
   "number": "564/KMK.03",
   "number_as_written": "564/KMK.03/2004",
-  "pasal_count": 0,
+  "pasal_count": 3,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3190,
   "title": "Penyesuaian Besarnya Penghasilan Tidak Kena Pajak.",
   "variant": null,
   "year": "2004"
@@ -19949,16 +19953,16 @@
   "id": "kmk-955-kmk-04-1983",
   "number": "955/KMK.04",
   "number_as_written": "955/KMK.04/1983",
-  "pasal_count": 0,
+  "pasal_count": 2,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3978,
   "title": "Penentuan Organisasi Internasional yang Pejabat-Pejabatnya Tidak\r\nTermasuk Sebagai Subyek Pajak Penghasilan",
   "variant": null,
   "year": "1983"
@@ -26005,8 +26009,10 @@
   "id": "per-djp-3-2020",
   "number": "3",
   "number_as_written": "PER-03/PJ/2020",
-  "pasal_count": 11,
-  "quality_flags": [],
+  "pasal_count": 10,
+  "quality_flags": [
+   "tidak_mulai_dari_1"
+  ],
   "sources": [
    "DJP",
    "JDIH"
@@ -26015,7 +26021,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 11607,
+  "text_chars": 21541,
   "title": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN ATAU TELAH MENDAPATKAN IZIN DARI OTORITAS JASA KEUANGAN",
   "variant": null,
   "year": "2020"
@@ -31417,16 +31423,19 @@
   "id": "perpres-74-2020",
   "number": "74",
   "number_as_written": "PERPRES 74 TAHUN 2020",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 9,
+  "quality_flags": [
+   "urutan_loncat:2->2,4->8,9->14,14->20",
+   "pasal_ganda"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 204228,
   "title": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Kamboja untuk Penghindaran Pajak Berganda dan Pencegahan Pengelakan Pajak yang Berkenaan dengan Pajak-pajak atas Penghasilan (Agreement between the Government of the Republic of Indonesia and the Royal Government of Cambodia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income)",
   "variant": null,
   "year": "2020"
@@ -31627,7 +31636,7 @@
   "status_uncertain": true,
   "structure": "perubahan",
   "text_available": true,
-  "text_chars": 7053,
+  "text_chars": 7520,
   "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007 TENTANG TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN",
   "variant": null,
   "year": "2015"
@@ -32096,8 +32105,11 @@
   "id": "pmk-105-2025",
   "number": "105",
   "number_as_written": "105 TAHUN 2025",
-  "pasal_count": 8,
-  "quality_flags": [],
+  "pasal_count": 12,
+  "quality_flags": [
+   "urutan_loncat:9->21,21->21,21->21",
+   "pasal_ganda"
+  ],
   "sources": [
    "DJP",
    "JDIH"
@@ -32106,7 +32118,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 16199,
+  "text_chars": 75868,
   "title": "PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN TERTENTU YANG DITANGGUNG PEMERINTAH DALAM RANGKA STIMULUS EKONOMI TAHUN ANGGARAN 2026",
   "variant": null,
   "year": "2025"
@@ -32196,16 +32208,16 @@
   "id": "pmk-107-2017",
   "number": "107",
   "number_as_written": "107/PMK.03/2017",
-  "pasal_count": 0,
+  "pasal_count": 11,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 54072,
   "title": "Penetapan Saat Diperolehnya Dividen dan Dasar Penghitungannya oleh Wajib Pajak dalam Negeri atas Penyertaan Modal pada Badan Usaha di Luar Negeri Selain Badan Usaha yang Menjual Sahamnya di Bursa Efek.",
   "variant": null,
   "year": "2017"
@@ -32321,9 +32333,9 @@
   "id": "pmk-11-2020",
   "number": "11",
   "number_as_written": "11/PMK.010/2020",
-  "pasal_count": 19,
+  "pasal_count": 15,
   "quality_flags": [
-   "urutan_loncat:15->17"
+   "urutan_loncat:3->5,5->7,7->10"
   ],
   "sources": [
    "DJP",
@@ -32333,7 +32345,7 @@
   "status_uncertain": true,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 40884,
+  "text_chars": 56035,
   "title": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 78 TAHUN 2019 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
   "variant": null,
   "year": "2020"
@@ -32373,16 +32385,16 @@
   "id": "pmk-110-2018",
   "number": "110",
   "number_as_written": "110/PMK.010/2018",
-  "pasal_count": 0,
+  "pasal_count": 2,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "perubahan",
+  "text_available": true,
+  "text_chars": 122179,
   "title": "Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain",
   "variant": null,
   "year": "2018"
@@ -32571,16 +32583,16 @@
   "id": "pmk-112-2013",
   "number": "112",
   "number_as_written": "112/PMK.011/2013",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8756,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2013.",
   "variant": null,
   "year": "2013"
@@ -32631,7 +32643,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 54646,
+  "text_chars": 116355,
   "title": "TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA",
   "variant": null,
   "year": "2025"
@@ -32796,16 +32808,16 @@
   "id": "pmk-119-2012",
   "number": "119",
   "number_as_written": "119/PMK.011/2012",
-  "pasal_count": 0,
+  "pasal_count": 7,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8345,
   "title": "Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan  Energi/Listrik Tahun Anggaran 2012.",
   "variant": null,
   "year": "2012"
@@ -32931,7 +32943,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 5279,
+  "text_chars": 5475,
   "title": "BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN",
   "variant": null,
   "year": "2017"
@@ -33302,16 +33314,18 @@
   "id": "pmk-126-2017",
   "number": "126",
   "number_as_written": "126/PMK.010/2017",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 4,
+  "quality_flags": [
+   "urutan_loncat:1->3"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8718,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2017",
   "variant": null,
   "year": "2017"
@@ -33976,16 +33990,19 @@
   "id": "pmk-140-2017",
   "number": "140",
   "number_as_written": "140/PMK.03/2017",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 3,
+  "quality_flags": [
+   "tidak_mulai_dari_1",
+   "urutan_loncat:4->6"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 7976,
   "title": "Tata Cara Pengecualian Pemotongan Pajak Penghasilan atas Hasil Investasi atau Pengembangan Dana Dari Aset Dana Jaminan Sosial.",
   "variant": null,
   "year": "2017"
@@ -34011,7 +34028,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 17838,
+  "text_chars": 25776,
   "title": "JENIS JASA LAIN SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C ANGKA 2 UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 36 TAHUN 2008",
   "variant": null,
   "year": "2015"
@@ -34250,16 +34267,16 @@
   "id": "pmk-147-2012",
   "number": "147",
   "number_as_written": "147/PMK.011/2012",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8111,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2012.",
   "variant": null,
   "year": "2012"
@@ -34413,7 +34430,7 @@
   "status_uncertain": false,
   "structure": "perubahan",
   "text_available": true,
-  "text_chars": 6502,
+  "text_chars": 6741,
   "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 215/PMK.03/2008 TENTANG PENETAPAN ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT-PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN",
   "variant": null,
   "year": "2010"
@@ -34564,7 +34581,7 @@
   "status_uncertain": false,
   "structure": "perubahan",
   "text_available": true,
-  "text_chars": 10504,
+  "text_chars": 13732,
   "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 187/PMK03/2008TENTANG TATACARA PEMOTONGAN, PENYETORAN, PELAPORAN DAN PENATAUSAHAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
   "variant": null,
   "year": "2009"
@@ -34753,16 +34770,16 @@
   "id": "pmk-157-2012",
   "number": "157",
   "number_as_written": "157/PMK.07/2012",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 6950,
   "title": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, dan Tahun Anggaran 2010.",
   "variant": null,
   "year": "2012"
@@ -35484,16 +35501,16 @@
   "id": "pmk-175-2013",
   "number": "175",
   "number_as_written": "175/PMK.011/2013",
-  "pasal_count": 0,
+  "pasal_count": 2,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "perubahan",
+  "text_available": true,
+  "text_chars": 7341,
   "title": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
   "variant": null,
   "year": "2013"
@@ -35737,16 +35754,16 @@
   "id": "pmk-182-2009",
   "number": "182",
   "number_as_written": "182/PMK.011/2009",
-  "pasal_count": 0,
+  "pasal_count": 4,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 5166,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Berupa Kompensasi Terminasi Dini Hak Eksklusif  Pt. Telekomunikasi Indonesia (Persero), Tbk. Tahun Anggaran 2009",
   "variant": null,
   "year": "2009"
@@ -35761,16 +35778,16 @@
   "id": "pmk-182-2013",
   "number": "182",
   "number_as_written": "182/PMK.07/2013",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 6689,
   "title": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, Tahun Anggaran 2010, dan Tahun Anggaran 2011.",
   "variant": null,
   "year": "2013"
@@ -35821,7 +35838,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 3629,
+  "text_chars": 3654,
   "title": "WAJIB PAJAK PAJAK PENGHASILAN TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN PAJAK PENGHASILAN",
   "variant": null,
   "year": "2007"
@@ -36517,16 +36534,16 @@
   "id": "pmk-193-2008",
   "number": "193",
   "number_as_written": "193/PMK.07/2008",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 7963,
   "title": "Penetapan Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Psal 21 Tahun Anggaran 2008.",
   "variant": null,
   "year": "2008"
@@ -36652,7 +36669,7 @@
   "status_uncertain": true,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 22501,
+  "text_chars": 22536,
   "title": "TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN",
   "variant": null,
   "year": "2007"
@@ -36819,16 +36836,16 @@
   "id": "pmk-199-2016",
   "number": "199",
   "number_as_written": "199/PMK.010/2016",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 10085,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Pengalihan Hak Atas\r\nTanah Dan/ atau Bangunan yang Diterima atau Diperoleh Masyarakat yang Terkena Luapan Lumpur Sidoarjo untuk Tahun Anggaran 2016.",
   "variant": null,
   "year": "2016"
@@ -36867,16 +36884,16 @@
   "id": "pmk-2-2008",
   "number": "2",
   "number_as_written": "160.2/PMK.07/2008",
-  "pasal_count": 0,
+  "pasal_count": 7,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 7627,
   "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Pengahasilan Pasal 21 Tahun Anggaran 2009.",
   "variant": null,
   "year": "2008"
@@ -37093,16 +37110,16 @@
   "id": "pmk-202-2017",
   "number": "202",
   "number_as_written": "202/PMK.010/2017",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 11006,
   "title": "Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional.",
   "variant": null,
   "year": "2017"
@@ -37117,16 +37134,16 @@
   "id": "pmk-203-2009",
   "number": "203",
   "number_as_written": "203/PMK.07/2009",
-  "pasal_count": 0,
+  "pasal_count": 7,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 39541,
   "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010.",
   "variant": null,
   "year": "2009"
@@ -37141,16 +37158,16 @@
   "id": "pmk-203-2011",
   "number": "203",
   "number_as_written": "203/PMK.07/2011",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 6095,
   "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2012.",
   "variant": null,
   "year": "2011"
@@ -37165,16 +37182,16 @@
   "id": "pmk-204-2012",
   "number": "204",
   "number_as_written": "204/PMK.07/2012",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8476,
   "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2012.",
   "variant": null,
   "year": "2012"
@@ -37289,16 +37306,16 @@
   "id": "pmk-209-2010",
   "number": "209",
   "number_as_written": "209/PMK.07/2010",
-  "pasal_count": 0,
+  "pasal_count": 7,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 5768,
   "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2010.",
   "variant": null,
   "year": "2010"
@@ -37464,16 +37481,16 @@
   "id": "pmk-210-2011",
   "number": "210",
   "number_as_written": "210/PMK.07/2011",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8177,
   "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2011.",
   "variant": null,
   "year": "2011"
@@ -37640,16 +37657,16 @@
   "id": "pmk-213-2021",
   "number": "213",
   "number_as_written": "213/PMK.010/2021",
-  "pasal_count": 0,
+  "pasal_count": 8,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 11273,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan kepada Pemerintah atau Pihak Lain yang Mendapat Penugasan dalam rangka Penerbitan dan/atau Pembelian Kembali Surat Berharga Negara di Pasar Internasional",
   "variant": null,
   "year": "2021"
@@ -37716,16 +37733,16 @@
   "id": "pmk-218-2012",
   "number": "218",
   "number_as_written": "218/PMK.07/2012",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 5012,
   "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2013.",
   "variant": null,
   "year": "2012"
@@ -37791,16 +37808,16 @@
   "id": "pmk-22-2009",
   "number": "22",
   "number_as_written": "22/PMK.02/2009",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 4302,
   "title": "Mekanisme Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik Tahun Anggaran 2009.",
   "variant": null,
   "year": "2009"
@@ -38142,16 +38159,16 @@
   "id": "pmk-231-2011",
   "number": "231",
   "number_as_written": "231/PMK.011/2011",
-  "pasal_count": 0,
+  "pasal_count": 7,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8282,
   "title": "Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik Tahun Anggaran 2011.",
   "variant": null,
   "year": "2011"
@@ -38217,16 +38234,16 @@
   "id": "pmk-233-2009",
   "number": "233",
   "number_as_written": "233/PMK.011/2009",
-  "pasal_count": 0,
+  "pasal_count": 4,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 4752,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional untuk Tahun Anggaran 2009.",
   "variant": null,
   "year": "2009"
@@ -38638,7 +38655,7 @@
   "status_uncertain": true,
   "structure": "perubahan",
   "text_available": true,
-  "text_chars": 6601,
+  "text_chars": 6635,
   "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007 TENTANG TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN",
   "variant": null,
   "year": "2012"
@@ -38958,16 +38975,16 @@
   "id": "pmk-247-2008",
   "number": "247",
   "number_as_written": "247/PMK.03/2008",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3895,
   "title": "Bantuan atau Santunan yang Dibayarkan oleh Badan Penyelenggara Jaminan Sosial Kepada Wajab Pajak Tertentu yang Dikecualikan Dari Objek Pajak Penghasilan.",
   "variant": null,
   "year": "2008"
@@ -39888,11 +39905,11 @@
    "DJP",
    "JDIH"
   ],
-  "status": "berlaku",
-  "status_uncertain": false,
+  "status": "tidak_pasti",
+  "status_uncertain": true,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 13806,
+  "text_chars": 13909,
   "title": "TATA CARA PENYETORAN PENERIMAAN NEGARA BUKAN PAJAK DARI DIVIDEN DAN SISA SURPLUS BANK INDONESIA",
   "variant": null,
   "year": "2010"
@@ -39984,16 +40001,18 @@
   "id": "pmk-35-2018",
   "number": "35",
   "number_as_written": "35/PMK.010/2018",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 17,
+  "quality_flags": [
+   "urutan_loncat:10->12"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 34891,
   "title": "Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan.",
   "variant": null,
   "year": "2018"
@@ -40033,16 +40052,16 @@
   "id": "pmk-36-2018",
   "number": "36",
   "number_as_written": "36/PMK.010/2018",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 16523,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2018.",
   "variant": null,
   "year": "2018"
@@ -40497,7 +40516,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 4135,
+  "text_chars": 4182,
   "title": "PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA KATAGORI TERTENTU",
   "variant": null,
   "year": "2009"
@@ -40693,16 +40712,16 @@
   "id": "pmk-46-2018",
   "number": "46",
   "number_as_written": "46/PMK.010/2018",
-  "pasal_count": 0,
+  "pasal_count": 6,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8805,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan dan/atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional.",
   "variant": null,
   "year": "2018"
@@ -41019,16 +41038,16 @@
   "id": "pmk-5-2013",
   "number": "5",
   "number_as_written": "5/PMK.02/2013",
-  "pasal_count": 0,
+  "pasal_count": 17,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 16735,
   "title": "Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Dividen.",
   "variant": null,
   "year": "2013"
@@ -41044,15 +41063,17 @@
   "number": "5",
   "number_as_written": "5/PMK.010/2017",
   "pasal_count": 0,
-  "quality_flags": [],
+  "quality_flags": [
+   "tidak_ada_pasal"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8134,
   "title": "Perubahan atas Peraturan Menteri Keuangan Nomor 157 /PMK.010/2015 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional.",
   "variant": null,
   "year": "2017"
@@ -41424,16 +41445,16 @@
   "id": "pmk-59-2026",
   "number": "59",
   "number_as_written": "PMK 59 TAHUN 2026",
-  "pasal_count": 0,
+  "pasal_count": 4,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 9397,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga Negara Dalam Valuta Asing yang Diterbitkan oleh Pemerintah di Pasar Perdana Domestik Tahun Anggaran 2026",
   "variant": null,
   "year": "2026"
@@ -42603,16 +42624,16 @@
   "id": "pmk-79-2012",
   "number": "79",
   "number_as_written": "79/PMK.02/2012",
-  "pasal_count": 0,
+  "pasal_count": 18,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 22695,
   "title": "Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi.",
   "variant": null,
   "year": "2012"
@@ -43427,7 +43448,7 @@
   "status_uncertain": false,
   "structure": "perubahan",
   "text_available": true,
-  "text_chars": 3924,
+  "text_chars": 4164,
   "title": "PERUBAHAN KEENAM ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIOANL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN",
   "variant": null,
   "year": "2007"
@@ -43595,17 +43616,20 @@
   "id": "pmk-90-2017",
   "number": "90",
   "number_as_written": "90/PMK.02/2017",
-  "pasal_count": 2,
-  "quality_flags": [],
+  "pasal_count": 13,
+  "quality_flags": [
+   "anomali_romawi:II",
+   "urutan_loncat:5->8"
+  ],
   "sources": [
    "DJP",
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": "perubahan",
+  "structure": "biasa",
   "text_available": true,
-  "text_chars": 18235,
+  "text_chars": 18395,
   "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK",
   "variant": null,
   "year": "2017"
@@ -43670,16 +43694,16 @@
   "id": "pmk-91-2016",
   "number": "91",
   "number_as_written": "91/PMK.010/2016",
-  "pasal_count": 0,
+  "pasal_count": 5,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 10142,
   "title": "Pajak Penghasilan Ditanggung Pemerintah atas Bunga atau Imbalan Surat Berharga\r\nNegara yang Diterbitkan di Pasar Internasional dan Penghasilan Pihak Ketiga atas Jasa yang Diberikan Kepada Pemerintah dalam Penerbitan Dan/ atau Pembelian Kembali/Penukaran Surat Berharga Negara di Pasar Internasional Tahun Anggaran 2016.",
   "variant": null,
   "year": "2016"
@@ -44790,16 +44814,16 @@
   "id": "pp-16-2009",
   "number": "16",
   "number_as_written": "PP 16 TAHUN 2009",
-  "pasal_count": 0,
+  "pasal_count": 7,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 8257,
   "title": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi.",
   "variant": null,
   "year": "2009"
@@ -44912,16 +44936,16 @@
   "id": "pp-19-2009",
   "number": "19",
   "number_as_written": "PP 19 TAHUN 2009",
-  "pasal_count": 0,
+  "pasal_count": 4,
   "quality_flags": [],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 3836,
   "title": "Pajak Penghasilan atas Deviden yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi dalam Negeri.",
   "variant": null,
   "year": "2009"
@@ -44985,16 +45009,19 @@
   "id": "pp-20-2026",
   "number": "20",
   "number_as_written": "PP 20 TAHUN 2026",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 5,
+  "quality_flags": [
+   "anomali_romawi:II",
+   "tidak_mulai_dari_1"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 34658,
   "title": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
   "variant": null,
   "year": "2026"
@@ -45057,16 +45084,19 @@
   "id": "pp-23-2018",
   "number": "23",
   "number_as_written": "PP 23 TAHUN 2018",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 14,
+  "quality_flags": [
+   "urutan_loncat:5->5,7->7",
+   "pasal_ganda"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "tidak_berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 28176,
   "title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
   "variant": null,
   "year": "2018"
@@ -45506,16 +45536,19 @@
   "id": "pp-34-2016",
   "number": "34",
   "number_as_written": "PP 34 TAHUN 2016",
-  "pasal_count": 0,
-  "quality_flags": [],
+  "pasal_count": 13,
+  "quality_flags": [
+   "urutan_loncat:10->10",
+   "pasal_ganda"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 32698,
   "title": "Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya",
   "variant": null,
   "year": "2016"
@@ -47203,7 +47236,7 @@
   "status_uncertain": false,
   "structure": "biasa",
   "text_available": true,
-  "text_chars": 10629,
+  "text_chars": 10727,
   "title": "PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI DALAM NEGERI YANG BERTOLAK KE LUAR NEGERI",
   "variant": null,
   "year": "2008"
@@ -47927,15 +47960,17 @@
   "number": "5",
   "number_as_written": "SE SE-05/PJ.4/1995",
   "pasal_count": 0,
-  "quality_flags": [],
+  "quality_flags": [
+   "tidak_ada_pasal"
+  ],
   "sources": [
    "JDIH"
   ],
   "status": "berlaku",
   "status_uncertain": false,
-  "structure": null,
-  "text_available": false,
-  "text_chars": 0,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 2798,
   "title": "Badan-Badan dan Pengusaha Kecil yang Menerima Harta Hibahan yang Tidak Termasuk Sebagai Objek Pajak Penghasilan (Seri Pph Umum Nomor 1)",
   "variant": null,
   "year": "1995"

@@ -15,14 +15,16 @@
   "year": "2008"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:38:27+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/89786337-2a2d-4eea-84ed-6a796ed88314/160.2~PMK.07~2008Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-2-2008--b000-1",
+  "pmk-2-2008--b001-2",
+  "pmk-2-2008--b002-3",
+  "pmk-2-2008--b003-4",
+  "pmk-2-2008--b004-5",
+  "pmk-2-2008--b005-6",
+  "pmk-2-2008--b006-7"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -63,16 +65,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 7627,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:38:27+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/89786337-2a2d-4eea-84ed-6a796ed88314/160.2~PMK.07~2008Per.htm"
  },
  "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Pengahasilan Pasal 21 Tahun Anggaran 2009."
 }

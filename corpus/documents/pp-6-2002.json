@@ -25,7 +25,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pp-16-2009",
+    "key": [
+     "PP",
+     "16",
+     "2009",
+     null
+    ],
+    "number_as_written": "PP 16 TAHUN 2009",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 6 Tahun 2002 tentang Pajak Penghasilan atas Bunga dan Diskonto Obligasi yang Diperdagangkan dan/atau Dilaporkan Perdagangannya di Bursa Efek (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 4175), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "title": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi."
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },

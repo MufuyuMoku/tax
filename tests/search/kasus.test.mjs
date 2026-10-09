@@ -1,6 +1,6 @@
 // The case set: every quote is in the corpus, the median rank does not get worse, and no question
-// ranks worse than its baseline unless the owner approved that drop, up to the approved rank (K-063).
-// Improving a rank is fine.
+// ranks worse than its baseline unless the owner approved that drop, up to the approved rank (K-063),
+// or it is a drop of at most two ranks that does not leave the top 10 (K-068). Improving is fine.
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
@@ -46,6 +46,9 @@ test("no question ranks worse than its baseline, except drops the owner approved
       continue;
     }
     if (before === null || (after !== null && after <= before)) continue;
+    // Tolerance (K-068): a drop of up to two ranks needs no approval, unless it leaves the top 10.
+    const { peringkat_maks: slack, batas_10_besar: top } = reference.toleransi;
+    if (after !== null && after - before <= slack && (before > top || after <= top)) continue;
     const allowed = approved[c.id];
     if (allowed && allowed.penjelasan && after !== null && after <= allowed.paling_buruk) continue;
     worse.push(`${c.id}: ${before} -> ${after}${allowed ? ` (disetujui paling buruk ${allowed.paling_buruk})` : ""}`);

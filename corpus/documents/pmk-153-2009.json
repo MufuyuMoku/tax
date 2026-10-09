@@ -19,13 +19,7 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:30:19+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/8797c01a-4feb-4b0b-92e4-d8814df6183a/153~PMK.03~2009Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-153-2009--b000-i",
   "pmk-153-2009--b001-ii"
@@ -41,10 +35,10 @@
      "2008",
      null
     ],
-    "name": "PERATURAN MENTERI KEUANGAN NOMOR 187/PMK.03/2008",
-    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 187/PMK.03/2008 tentang Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan Pajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi diubah sebagai berikut :",
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 187/PMK.03/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 187/ PMK.03/ 2008 tentang Tata Cara Pemotongan, Penyetoran, Pelaporan, dan Penatausahaan. Pajak Penghasilan atas Penghasilan dari Usaha jasa Konstruksi diubah sebagai berikut:",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "pmk-187-2008"
    }
   ],
@@ -112,13 +106,21 @@
  "structure": "perubahan",
  "text": {
   "available": true,
-  "chars": 10504,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T01:36:59+00:00",
-  "source": "DJP",
+  "chars": 13732,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 10504,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T01:36:59+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-187pmk032008tentang-tatacara-pemotongan"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:30:19+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-187pmk032008tentang-tatacara-pemotongan"
+  "url": "https://jdih.kemenkeu.go.id/api/download/8797c01a-4feb-4b0b-92e4-d8814df6183a/153~PMK.03~2009Per.htm"
  },
  "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 187/PMK03/2008TENTANG TATACARA PEMOTONGAN, PENYETORAN, PELAPORAN DAN PENATAUSAHAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI"
 }

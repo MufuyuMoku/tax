@@ -19,13 +19,7 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:48:33+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/7cfeee3d-5885-4f2a-af31-39207116f746/43~PMK.03~2009Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-43-2009--b000-1",
   "pmk-43-2009--b001-2",
@@ -139,13 +133,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 4135,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T01:51:58+00:00",
-  "source": "DJP",
+  "chars": 4182,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 4135,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T01:51:58+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-ditanggung-pemerintah-atas-penghasilan-pekerja-pada-katagori"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:48:33+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-ditanggung-pemerintah-atas-penghasilan-pekerja-pada-katagori"
+  "url": "https://jdih.kemenkeu.go.id/api/download/7cfeee3d-5885-4f2a-af31-39207116f746/43~PMK.03~2009Per.htm"
  },
  "title": "PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA KATAGORI TERTENTU"
 }

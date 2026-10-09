@@ -15,14 +15,15 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:43:42+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/1d36e463-9196-48f9-a1f9-174d644e5139/218~PMK.07~2012Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-218-2012--b000-1",
+  "pmk-218-2012--b001-2",
+  "pmk-218-2012--b002-3",
+  "pmk-218-2012--b003-4",
+  "pmk-218-2012--b004-5",
+  "pmk-218-2012--b005-6"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +63,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 5012,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:43:42+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/1d36e463-9196-48f9-a1f9-174d644e5139/218~PMK.07~2012Per.htm"
  },
  "title": "Alokasi Sementara Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2013."
 }

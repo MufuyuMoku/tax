@@ -19,13 +19,7 @@
   "year": "2007"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:36:04+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/2f1b4661-16a1-4d73-afa1-baf9350d1fd8/183~PMK.03~2007Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-183-2007--b000-1",
   "pmk-183-2007--b001-2",
@@ -65,7 +59,7 @@
     "name": "Keputusan Menteri Keuangan Nomor 535/KMK.04/2000",
     "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 535/KMK.04/2000 tentang Wajib Pajak Tertentu yang Dikecualikan dari Kewajiban Menyampaikan Surat Pemberitahuan, dicabut dan dinyatakan tidak berlaku.",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "kmk-535-kmk-04-2000"
    }
   ],
@@ -137,13 +131,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 3629,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T02:31:36+00:00",
-  "source": "DJP",
+  "chars": 3654,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 3629,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T02:31:36+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-pajak-penghasilan-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:36:04+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/wajib-pajak-pajak-penghasilan-tertentu-yang-dikecualikan-dari-kewajiban-menyampaikan"
+  "url": "https://jdih.kemenkeu.go.id/api/download/2f1b4661-16a1-4d73-afa1-baf9350d1fd8/183~PMK.03~2007Per.htm"
  },
  "title": "WAJIB PAJAK PAJAK PENGHASILAN TERTENTU YANG DIKECUALIKAN DARI KEWAJIBAN MENYAMPAIKAN SURAT PEMBERITAHUAN PAJAK PENGHASILAN"
 }

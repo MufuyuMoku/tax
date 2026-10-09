@@ -15,15 +15,13 @@
   "year": "2000"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T04:03:50+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/d4e65fa8-1388-46c4-9585-17f2f04b2ff2/260~KMK.04~2000Kep.HTM"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-260-kmk-04-2000--b000-i"
  ],
- "pasal_ids": [],
- "quality_flags": [],
+ "quality_flags": [
+  "anomali_romawi:I"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -100,16 +98,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3270,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T04:03:50+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/d4e65fa8-1388-46c4-9585-17f2f04b2ff2/260~KMK.04~2000Kep.HTM"
  },
  "title": "Perubahan Lampiran Kepmenkeu No. 611/KMK.04/1994 tentang Perlakuan Pph Bagi Perwakilan Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional Sebagaimana Telah Diubah Terakhir Denga Kepmenkeu No. 314/KMK.04/1998"
 }

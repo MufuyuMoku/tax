@@ -15,14 +15,15 @@
   "year": "2011"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:42:32+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/ba5468f5-8d98-497f-8e2d-167fabc70840/210~PMK.07~2011Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-210-2011--b000-1",
+  "pmk-210-2011--b001-2",
+  "pmk-210-2011--b002-3",
+  "pmk-210-2011--b003-4",
+  "pmk-210-2011--b004-5",
+  "pmk-210-2011--b005-6"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +63,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8177,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:42:32+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/ba5468f5-8d98-497f-8e2d-167fabc70840/210~PMK.07~2011Per.htm"
  },
  "title": "Alokasi Definitif Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2011."
 }

@@ -15,14 +15,16 @@
   "year": "2011"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:45:03+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/d17e410c-9f01-4280-a7ee-c06684d68449/231~PMK.011~2011Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-231-2011--b000-1",
+  "pmk-231-2011--b001-2",
+  "pmk-231-2011--b002-3",
+  "pmk-231-2011--b003-4",
+  "pmk-231-2011--b004-5",
+  "pmk-231-2011--b005-6",
+  "pmk-231-2011--b006-7"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +64,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8282,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:45:03+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/d17e410c-9f01-4280-a7ee-c06684d68449/231~PMK.011~2011Per.htm"
  },
  "title": "Pajak Penghasilan Ditanggung Pemerintah dan Penghitungan Penerimaan Negara Bukan Pajak atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik Tahun Anggaran 2011."
 }

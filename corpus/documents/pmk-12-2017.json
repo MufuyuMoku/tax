@@ -19,13 +19,7 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:27:17+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/08536c98-cfbf-4893-a1e8-5c1af6cd003d/12~PMK.03~2017Per.pdf"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-12-2017--b000-1",
   "pmk-12-2017--b001-2",
@@ -96,13 +90,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 5279,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-04T03:45:38+00:00",
-  "source": "DJP",
+  "chars": 5475,
+  "format": "pdf",
+  "other_postings": [
+   {
+    "chars": 5279,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-04T03:45:38+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/bukti-pemotongan-danatau-pemungutan-pajak-penghasilan"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:27:17+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/bukti-pemotongan-danatau-pemungutan-pajak-penghasilan"
+  "url": "https://jdih.kemenkeu.go.id/api/download/08536c98-cfbf-4893-a1e8-5c1af6cd003d/12~PMK.03~2017Per.pdf"
  },
  "title": "BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN"
 }

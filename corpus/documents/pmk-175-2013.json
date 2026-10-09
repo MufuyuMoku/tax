@@ -15,18 +15,29 @@
   "year": "2013"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:34:21+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/bac3c293-e513-41a3-80da-10c8085c101c/175~PMK.011~2013Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-175-2013--b000-i",
+  "pmk-175-2013--b001-ii"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "154",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 154/PMK.03/2010",
+    "quote": "Ketentuan ayat (1) huruf a dan ayat (2) Pasal 2 dalam Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 146/PMK.011/2013, diubah sehingga Pasal 2 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "target_id": "pmk-154-2010"
+   }
+  ],
   "revoked_by": [],
   "revokes": [],
   "source_listed_related": [
@@ -99,16 +110,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "perubahan",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 7341,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:34:21+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/bac3c293-e513-41a3-80da-10c8085c101c/175~PMK.011~2013Per.htm"
  },
  "title": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 154/PMK.03/2010 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain."
 }

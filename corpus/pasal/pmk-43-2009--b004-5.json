@@ -1,6 +1,6 @@
 {
  "amendment_items": null,
- "chars": 247,
+ "chars": 248,
  "document_id": "pmk-43-2009",
  "document_number": "43/PMK.03/2009",
  "document_title": "PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA KATAGORI TERTENTU",
@@ -11,10 +11,10 @@
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 5\nKetentuan lebih lanjut mengenai pelaksanaan pemberian Pajak Penghasilan Pasal 21 ditanggung Pemerintah atas penghasilan pekerja pada pemberi kerja yang berusaha pada kategori usaha tertentu, diatur dengan Peraturan Direktur Jenderal Pajak.",
+ "text": "Pasal 5\nKetentuan lebih lanjut mengenai pelaksanaan\npemberian Pajak Penghasilan Pasal 21 ditanggung Pemerintah atas penghasilan\npekerja pada pemberi kerja yang berusaha pada kategori usaha tertentu,\ndiatur dengan Peraturan Direktur Jenderal Pajak .",
  "text_source": {
-  "retrieved_at": "2026-10-05T01:51:58+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-ditanggung-pemerintah-atas-penghasilan-pekerja-pada-katagori"
+  "retrieved_at": "2026-10-09T00:48:33+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/7cfeee3d-5885-4f2a-af31-39207116f746/43~PMK.03~2009Per.htm"
  }
 }

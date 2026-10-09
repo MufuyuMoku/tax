@@ -15,14 +15,23 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:54:07+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/37ecbaa2-8aec-44c4-90fc-e263e781554c/16TAHUN2009PP.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pp-16-2009--b000-1",
+  "pp-16-2009--b001-2",
+  "pp-16-2009--b002-3",
+  "pp-16-2009--b003-4",
+  "pp-16-2009--b004-5",
+  "pp-16-2009--b005-6",
+  "pp-16-2009--b006-7",
+  "pp-16-2009--p007-1",
+  "pp-16-2009--p008-2",
+  "pp-16-2009--p009-3",
+  "pp-16-2009--p010-4",
+  "pp-16-2009--p011-5",
+  "pp-16-2009--p012-6",
+  "pp-16-2009--p013-7"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [
@@ -72,7 +81,21 @@
     "title": "PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK DALAM NEGERI DAN BENTUK USAHA TETAP"
    }
   ],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "6",
+     "2002",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 6 Tahun 2002",
+    "quote": "Pasal 6 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 6 Tahun 2002 tentang Pajak Penghasilan atas Bunga dan Diskonto Obligasi yang Diperdagangkan dan/atau Dilaporkan Perdagangannya di Bursa Efek (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 4175), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "target_id": "pp-6-2002"
+   }
+  ],
   "source_listed_related": [
    {
     "note": "jenis relasi menurut JDIH: Mencabut",
@@ -132,16 +155,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 8257,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:54:07+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/37ecbaa2-8aec-44c4-90fc-e263e781554c/16TAHUN2009PP.htm"
  },
  "title": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi."
 }

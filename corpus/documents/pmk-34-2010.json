@@ -19,13 +19,7 @@
   "year": "2010"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:47:08+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/e16ee2f1-1ac2-4943-9984-608bc29f24e1/34~PMK.02~2010Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-34-2010--b000-1",
   "pmk-34-2010--b001-2",
@@ -45,7 +39,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-5-2013",
+    "key": [
+     "PMK",
+     "5",
+     "2013",
+     null
+    ],
+    "number_as_written": "5/PMK.02/2013",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri ini mulai berlaku, ketentuan mengenai tata cara penyetoran Penerimaan Negara Bukan Pajak dari Dividen sebagaimana diatur dalam Peraturan Menteri Keuangan Nomor 34/PMK.02/2010 tentang Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Dividen Dan Sisa Surplus Bank Indonesia, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "title": "Tata Cara Penyetoran Penerimaan Negara Bukan Pajak Dari Dividen."
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -57,7 +66,7 @@
     "name": "Peraturan Menteri Keuangan Nomor 41/PMK.02/2005",
     "quote": "Pasal 12 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 41/PMK.02/2005 tentang Tata Cara Penyetoran Penerimaan Negara Bukan Pajak dari Hasil-Hasil Pengelolaan Kekayaan Negara yang Dipisahkan, dicabut dan dinyatakan tidak berlaku.",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "pmk-41-2005"
    }
   ],
@@ -103,9 +112,10 @@
   }
  ],
  "status": {
-  "note": "disepakati JDIH & DJP",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 5/2013 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -128,13 +138,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 13806,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T01:29:52+00:00",
-  "source": "DJP",
+  "chars": 13909,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 13806,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T01:29:52+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penerimaan-negara-bukan-pajak-dari-dividen-dan-sisa-surplus-bank"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:47:08+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penerimaan-negara-bukan-pajak-dari-dividen-dan-sisa-surplus-bank"
+  "url": "https://jdih.kemenkeu.go.id/api/download/e16ee2f1-1ac2-4943-9984-608bc29f24e1/34~PMK.02~2010Per.htm"
  },
  "title": "TATA CARA PENYETORAN PENERIMAAN NEGARA BUKAN PAJAK DARI DIVIDEN DAN SISA SURPLUS BANK INDONESIA"
 }

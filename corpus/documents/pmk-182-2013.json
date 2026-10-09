@@ -15,14 +15,15 @@
   "year": "2013"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:35:44+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/80623a4c-a7e3-47ed-af9f-42f0b79bf438/182~PMK.07~2013Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-182-2013--b000-1",
+  "pmk-182-2013--b001-2",
+  "pmk-182-2013--b002-3",
+  "pmk-182-2013--b003-4",
+  "pmk-182-2013--b004-5",
+  "pmk-182-2013--b005-6"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -70,16 +71,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 6689,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:35:44+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/80623a4c-a7e3-47ed-af9f-42f0b79bf438/182~PMK.07~2013Per.htm"
  },
  "title": "Alokasi Kurang Bayar dan Lebih Bayar Dana Bagi Hasil Pajak Penghasilan Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi dalam Negeri dan Pajak Penghasilan Pasal 21 Tahun Anggaran 2008, Tahun Anggaran 2009, Tahun Anggaran 2010, dan Tahun Anggaran 2011."
 }

@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 130,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--p024-12",
+ "label": "12",
+ "order": 24,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "penjelasan",
+ "structure": "biasa",
+ "text": "Pasal 12\nCukup je1as.\na. Tahun 2017:\nb. Tahun 2Ol8:\nrupiah);\nc. Tahun 2019:\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6214",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

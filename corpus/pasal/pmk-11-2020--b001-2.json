@@ -1,6 +1,6 @@
 {
  "amendment_items": null,
- "chars": 787,
+ "chars": 798,
  "document_id": "pmk-11-2020",
  "document_number": "11/PMK.010/2020",
  "document_title": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 78 TAHUN 2019 TENTANG FASILITAS PAJAK PENGHASILAN UNTUK PENANAMAN MODAL DI BIDANG-BIDANG USAHA TERTENTU DAN/ATAU DI DAERAH-DAERAH TERTENTU",
@@ -8,15 +8,15 @@
  "label": "2",
  "order": 1,
  "quality_flags": [
-  "urutan_loncat:15->17"
+  "urutan_loncat:3->5,5->7,7->10"
  ],
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 2\nKepada Wajib Pajak badan dalam negeri yang melakukan Penanaman Modal pada Kegiatan Usaha Utama, baik Penanaman Modal baru maupun perluasan dari usaha yang telah ada, di:\na.\nBidang-bidang Usaha Tertentu sebagaimana tercantum dalam Lampiran I Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu; dan/atau\nb.\nBidang-bidang Usaha Tertentu dan di Daerah-daerah Tertentu sebagaimana tercantum dalarn Lampiran II Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu danjatau di Daerah-daerah Tertentu,\ndan memenuhi kriteria dan persyaratan tertentu, dapat diberikan fasilitas Pajak Penghasilan.",
+ "text": "Pasal 2\nKepada Wajib Pajak badan dalam negeri yang melakukan\nPenanaman Modal pada Kegiatan Usaha Utama, baik\nPenanaman Modal baru maupun perluasan dari usaha yang\ntelah ada, di:\na . Bidang-bidang Usaha Tertentu sebagaimana tercantum\ndalam Lampiran I Peraturan Pemerintah Nomor 78 Tahun\n2019 ten tang Fasilitas Pajak Penghasilan untuk\nPenanaman Modal di Bidang-bidang Usaha Tertentu\ndan/ atau di Daerah-daerah Tertentu; dan/ at au\nb . Bidang-bidang Usaha Tertentu dan di Daerah-daerah\nTertentu sebagaimana tercantum dalarn La mpiran II\nPeraturan Pemerintah Nomor 78 Tahun 2019 ten tang\nFasilitas Pajak Penghasilan untuk Penanaman Modal di\nBidang-bidang Usaha Tertentu danjatau di Daerah-\ndaerah Tertentu,\ndan memenuhi kriteria dan persyarata n tertentu, dapat\ndiberikan fasilitas Pajak Pen ghasilan.",
  "text_source": {
-  "retrieved_at": "2026-10-04T03:31:42+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-peraturan-pemerintah-nomor-78-tahun-2019-tentang-fasilitas-pajak-penghasilan"
+  "retrieved_at": "2026-10-09T00:24:52+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/61b447ed-ca6b-454e-8d50-72ab3d941db9/11~PMK.010~2020Per.pdf"
  }
 }

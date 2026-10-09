@@ -19,13 +19,7 @@
   "year": "2008"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T01:00:08+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/7d749bf1-9a2b-4da7-b8bc-397578c4d46d/80TAHUN2008PP.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pp-80-2008--b000-1",
   "pp-80-2008--b001-2",
@@ -59,7 +53,7 @@
     "name": "Peraturan Pemerintah Nomor 42 Tahun 2000",
     "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 41 Tahun 2001 tentang Perubahan Atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "pp-42-2000"
    },
    {
@@ -72,7 +66,7 @@
     "name": "Peraturan Pemerintah Nomor 41 Tahun 2001",
     "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 41 Tahun 2001 tentang Perubahan Atas Peraturan Pemerintah Nomor 42 Tahun 2000 tentang Pembayaran Pajak Penghasilan bagi Orang Pribadi yang Akan Bertolak ke Luar Negeri, dicabut dan dinyatakan tidak berlaku.",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "pp-41-2001"
    }
   ],
@@ -144,13 +138,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 10629,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T01:58:59+00:00",
-  "source": "DJP",
+  "chars": 10727,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 10629,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T01:58:59+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-wajib-pajak-orang-pribadi-dalam-negeri-yang-bertolak-ke-luar"
+   }
+  ],
+  "retrieved_at": "2026-10-09T01:00:08+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-bagi-wajib-pajak-orang-pribadi-dalam-negeri-yang-bertolak-ke-luar"
+  "url": "https://jdih.kemenkeu.go.id/api/download/7d749bf1-9a2b-4da7-b8bc-397578c4d46d/80TAHUN2008PP.htm"
  },
  "title": "PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI DALAM NEGERI YANG BERTOLAK KE LUAR NEGERI"
 }

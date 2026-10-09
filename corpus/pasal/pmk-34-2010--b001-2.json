@@ -1,6 +1,6 @@
 {
  "amendment_items": null,
- "chars": 493,
+ "chars": 494,
  "document_id": "pmk-34-2010",
  "document_number": "34/PMK.02/2010",
  "document_title": "TATA CARA PENYETORAN PENERIMAAN NEGARA BUKAN PAJAK DARI DIVIDEN DAN SISA SURPLUS BANK INDONESIA",
@@ -11,10 +11,10 @@
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 2\n(1)\nWajib Bayar wajib membayar seluruh Dividen yang terutang secara tunai paling lambat pada saat jatuh tempo.\n(2)\nWajib Bayar sebagaimana dimaksud pada ayat (1) terdiri dari Persero, Perum, dan Perseroan Terbatas Lainnya.\n(3)\nJatuh tempo pembayaran Dividen sebagaimana dimaksud pada ayat (1) paling lambat 1 (satu) bulan sejak tanggal diputuskannya penetapan Dividen oleh:\na.\nRUPS bagi Persero dan Perseroan Terbatas Lainnya; dan\nb.\nMenteri Negara Badan Usaha Milik Negara bagi Perum.",
+ "text": "Pasal 2\n(1)\nWajib Bayar wajib membayar seluruh Dividen yang\nterutang secara tunai paling lambat pada saat jatuh tempo.\n(2)\nWajib Bayar sebagaimana dimaksud pada ayat (1)\nterdiri dari Persero, Perum, dan Perseroan Terbatas Lainnya.\n(3)\nJatuh tempo pembayaran Dividen sebagaimana\ndimaksud pada ayat (1) paling lambat 1 (satu) bulan sejak tanggal\ndiputuskannya penetapan Dividen oleh :\na.\nRUPS bagi Persero dan Perseroan Terbatas Lainnya;\ndan\nb.\nMenteri Negara Badan Usaha Milik Negara bagi Perum.",
  "text_source": {
-  "retrieved_at": "2026-10-05T01:29:52+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penerimaan-negara-bukan-pajak-dari-dividen-dan-sisa-surplus-bank"
+  "retrieved_at": "2026-10-09T00:47:08+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/e16ee2f1-1ac2-4943-9984-608bc29f24e1/34~PMK.02~2010Per.htm"
  }
 }

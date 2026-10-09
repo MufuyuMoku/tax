@@ -15,14 +15,27 @@
   "year": "2012"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:52:01+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/a30822a0-3aee-4bcc-bf9c-39917e27b997/79~PMK.02~2012Per.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-79-2012--b000-1",
+  "pmk-79-2012--b001-2",
+  "pmk-79-2012--b002-3",
+  "pmk-79-2012--b003-4",
+  "pmk-79-2012--b004-5",
+  "pmk-79-2012--b005-6",
+  "pmk-79-2012--b006-7",
+  "pmk-79-2012--b007-8",
+  "pmk-79-2012--b008-9",
+  "pmk-79-2012--b009-10",
+  "pmk-79-2012--b010-11",
+  "pmk-79-2012--b011-12",
+  "pmk-79-2012--b012-13",
+  "pmk-79-2012--b013-14",
+  "pmk-79-2012--b014-15",
+  "pmk-79-2012--b015-16",
+  "pmk-79-2012--b016-17",
+  "pmk-79-2012--b017-18"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [
@@ -105,16 +118,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 22695,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:52:01+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/a30822a0-3aee-4bcc-bf9c-39917e27b997/79~PMK.02~2012Per.htm"
  },
  "title": "Tata Cara Penyetoran dan Pelaporan Penerimaan Negara Dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan Pajak Penghasilan untuk Keperluan Pembayaran Pajak Penghasilan Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi."
 }

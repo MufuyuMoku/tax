@@ -19,13 +19,7 @@
   "year": "2007"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:37:05+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/17c454fe-b26a-4641-b0bd-87d331318363/196~PMK.03~2007Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-196-2007--b000-1",
   "pmk-196-2007--b001-2",
@@ -51,20 +45,6 @@
  "relations": {
   "amended_by": [
    {
-    "id": "pmk-1-2015",
-    "key": [
-     "PMK",
-     "1",
-     "2015",
-     null
-    ],
-    "number_as_written": "1/PMK.03/2015",
-    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Asing dan Satuan Mata Uang selain Rupiah serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan. Pajak Penghasilan Wajib Pajak Badan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 24/PMK.011/2012, diubah sebagai berikut:",
-    "quote_excerpt": false,
-    "source_of_reading": "DJP",
-    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007 TENTANG TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN"
-   },
-   {
     "id": "pmk-123-2019",
     "key": [
      "PMK",
@@ -89,7 +69,7 @@
     "number_as_written": "24/PMK.011/2012",
     "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 196/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan Dengan Menggunakan Bahasa Asing dan Satuan Mata Uang Selain Rupiah Serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Badan diubah sebagai berikut:",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 196/PMK.03/2007 TENTANG TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN"
    }
   ],
@@ -106,7 +86,7 @@
     "name": "Peraturan Menteri Keuangan Nomor 49/PMK.03/2007",
     "quote": "Pasal 18 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 49/PMK.03/2007 tentang Tata Cara Penyelenggaraan Pembukuan Dengan Menggunakan Bahasa Asing dan Mata Uang Selain Rupiah serta Kewajiban Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Badan dicabut dan dinyatakan tidak berlaku.",
     "quote_excerpt": false,
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "pmk-49-2007"
    }
   ],
@@ -196,13 +176,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 22501,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T02:26:27+00:00",
-  "source": "DJP",
+  "chars": 22536,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 22501,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T02:26:27+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelenggaraan-pembukuan-dengan-menggunakan-bahasa-asing-dan-satuan-mata-uang"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:37:05+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelenggaraan-pembukuan-dengan-menggunakan-bahasa-asing-dan-satuan-mata-uang"
+  "url": "https://jdih.kemenkeu.go.id/api/download/17c454fe-b26a-4641-b0bd-87d331318363/196~PMK.03~2007Per.htm"
  },
  "title": "TATA CARA PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA ASING DAN SATUAN MATA UANG SELAIN RUPIAH SERTA KEWAJIBAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK BADAN"
 }

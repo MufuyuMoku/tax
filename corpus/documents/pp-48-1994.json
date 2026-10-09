@@ -66,6 +66,21 @@
     "title": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1994 TENTANG PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN"
    },
    {
+    "id": "pp-34-2016",
+    "key": [
+     "PP",
+     "34",
+     "2016",
+     null
+    ],
+    "number_as_written": "PP 34 TAHUN 2016",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "JDIH",
+    "title": "Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya"
+   },
+   {
     "id": "pp-71-2008",
     "key": [
      "PP",
@@ -95,7 +110,22 @@
    }
   ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pp-34-2016",
+    "key": [
+     "PP",
+     "34",
+     "2016",
+     null
+    ],
+    "number_as_written": "PP 34 TAHUN 2016",
+    "quote": "Pasal 11 Pada saat Peraturan Permerintah ini mulai berlaku, Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/ atau Bangunan (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 77, Tambalrran Lembaran Negara Republik Indonesia Nomor 3580) sebagaimana telah beberapa kali diubah terakhir dengan dengan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga Atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/ atau Bangunan (t embaran Negara Republik Indonesia Tahun 2OO8 Nomor 164, Tambahan Lembaran Negara Republik Indonesia Nomor 4914), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "JDIH",
+    "title": "Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya"
+   }
+  ],
   "revokes": [
    {
     "key": [

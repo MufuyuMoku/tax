@@ -29,19 +29,56 @@
   }
  ],
  "original_files": [],
- "pasal_ids": [],
- "quality_flags": [],
+ "pasal_ids": [
+  "pp-20-2026--b000-20a",
+  "pp-20-2026--b001-56",
+  "pp-20-2026--b002-57",
+  "pp-20-2026--b003-58",
+  "pp-20-2026--b004-ii",
+  "pp-20-2026--p005-56",
+  "pp-20-2026--p006-57",
+  "pp-20-2026--p007-58",
+  "pp-20-2026--p008-ii",
+  "pp-20-2026--p009-59"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II",
+  "tidak_mulai_dari_1"
+ ],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "PP",
+     "55",
+     "2022",
+     null
+    ],
+    "name": "PERATURAN PEMERINTAH NOMOR 55 TAHUN 2022",
+    "quote": "Pengeluaran berupa pemberian suap, gratifikasi, dan/ atau pemberian lain dengan nama dan dalam bentuk apa pun sebagaimana dimaksud dalam peraturan perundang-undangan yang mengatur mengenai tindak pidana korupsi dan/ atau tindak pidana suap, termasuk yang diberikan kepada pejabat publik asing, bukan merupakan biaya untuk mendapatkan, menagih, dan memelihara penghasilan yang dapat menjadi pengurang penghasilan bruto. 3. Ketentuan ayat (1) dan ayat (4) Pasal 56 diubah, sehingga Pasal 56 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "JDIH",
+    "target_id": "pp-55-2022"
+   }
+  ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 55 TAHUN 2022 — Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022"
+   }
+  ]
  },
  "source_records": [
   {
    "date_as_written": "2026-04-22 12:00:00",
    "number_as_written": "PP 20 TAHUN 2026",
+   "page_retrieved_at": "2026-10-09T00:55:13+00:00",
    "retrieved_at": "2026-09-21T14:05:32+00:00",
    "selected_because": [
     "judul"
@@ -49,7 +86,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026",
+   "validity_as_written": "22 Apr 2026 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -67,16 +105,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 34658,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan teksnya belum diambil situs ini",
-  "url": null
+  "retrieved_at": "2026-10-09T01:57:58+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/d057ff82-50e7-4127-b66b-f704a36f071d/2026pp020.pdf"
  },
  "title": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan"
 }

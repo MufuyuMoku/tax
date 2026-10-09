@@ -19,13 +19,7 @@
   "year": "2007"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:52:21+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/7d0101a2-25d6-47ec-8154-3bceda2de36f/87~PMK.03~2007Per.htm"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-87-2007--b000-i",
   "pmk-87-2007--b001-ii"
@@ -42,10 +36,9 @@
      null
     ],
     "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000",
-    "quote": "Mengubah Lampiran I angka Romawi III butir 11 Keputusan Menteri Keuangan Nomor 574/KMK04/2000 tentang Organisasi-Organisasi Internasioanal dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan yang telah beberapa kali diubah dengan Keputusan Menteri Keuangan : Nomor 230/KMK.03/2001;",
+    "quote": "Mengubah Lampiran I angka romawi III butir 11 Keputusan Menteri Keuangan Nomor 574/KMK.04/2000 tentang Organisasi-organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Sebagai Subjek Pajak Penghasilan yang telah beberapa kali diubah dengan Keputusan Menteri Keuangan : 1. Nomor 230/KMK.03/2001;",
     "quote_excerpt": false,
-    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
-    "source_of_reading": "DJP",
+    "source_of_reading": "JDIH",
     "target_id": "kmk-574-kmk-04-2000"
    }
   ],
@@ -134,13 +127,21 @@
  "structure": "perubahan",
  "text": {
   "available": true,
-  "chars": 3924,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-05T02:33:40+00:00",
-  "source": "DJP",
+  "chars": 4164,
+  "format": "htm",
+  "other_postings": [
+   {
+    "chars": 3924,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-05T02:33:40+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keenam-atas-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:52:21+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/perubahan-keenam-atas-keputusan-menteri-keuangan-nomor-574kmk042000-tentang-organisasi"
+  "url": "https://jdih.kemenkeu.go.id/api/download/7d0101a2-25d6-47ec-8154-3bceda2de36f/87~PMK.03~2007Per.htm"
  },
  "title": "PERUBAHAN KEENAM ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 574/KMK.04/2000 TENTANG ORGANISASI-ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIOANL YANG TIDAK TERMASUK SEBAGAI SUBJEK PAJAK PENGHASILAN"
 }

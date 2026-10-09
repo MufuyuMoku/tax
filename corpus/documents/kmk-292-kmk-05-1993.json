@@ -15,14 +15,15 @@
   "year": "1993"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T04:11:50+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/ac9e152f-523c-4227-a988-e888d50189cc/292~KMK.05~1993Kep.HTM"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-292-kmk-05-1993--b000-1",
+  "kmk-292-kmk-05-1993--b001-2",
+  "kmk-292-kmk-05-1993--b002-3",
+  "kmk-292-kmk-05-1993--b003-4",
+  "kmk-292-kmk-05-1993--b004-5",
+  "kmk-292-kmk-05-1993--b005-6"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -62,16 +63,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3614,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T04:11:50+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/ac9e152f-523c-4227-a988-e888d50189cc/292~KMK.05~1993Kep.HTM"
  },
  "title": "Pembebasan Bea Masuk dan Ppn Serta Pph Pasal 22 Impor Tidak Dipungut atas Pemasukan Cadang Peralatan Teater Imax Keong Emas Taman Mini Indonesia Indah."
 }

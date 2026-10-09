@@ -1,6 +1,6 @@
 {
  "amendment_items": null,
- "chars": 513,
+ "chars": 542,
  "document_id": "pmk-12-2017",
  "document_number": "12/PMK.03/2017",
  "document_title": "BUKTI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN",
@@ -11,10 +11,10 @@
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 3\n(1)\nPajak Penghasilan yang tercantum dalam Bukti Pemotongan PPh dan/atau Bukti Pemungutan PPh atas penghasilan yang dikenai Pajak Penghasilan yang bersifat tidak final dapat diperhitungkan sebagai kredit pajak bagi pihak yang dipotong dan/ atau dipungut.\n(2)\nPajak Penghasilan yang tercantum dalam Bukti Pemotongan PPh dan/atau Bukti Pemungutan PPh atas penghasilan yang dikenai Pajak Penghasilan yang bersifat final merupakan bukti pelunasan Pajak Penghasilan bagi pihak yang dipotong dan/ atau dipungut.",
+ "text": "Pasal 3\n(1) Pajak Penghasilan yang tercantum dalam Bukti\nPemotongan PPh dan/atau Bukti Pemungutan PPh atas\npenghasilan yang dikenai Pajak Penghasilan yang bersifat\ntidak final dapat diperhitungkan sebagai kredit pajak bagi\npihak yang dipotong dan/atau dipungut.\n( 2) Pajak Penghasilan yang tercantum dalam Bukti\nPemotongan PPh dan/atau Bukti Pemungutan PPh atas\npenghasilan yang dikenai Pajak Penghasilan yang bersifat\nfinal merupakan bukti pelunasan Pajak Penghasilan bagi\npihak yang dipotong dan/atau dipungut.www.jdih.kemenkeu.go.id\n\n- 4 -",
  "text_source": {
-  "retrieved_at": "2026-10-04T03:45:38+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/bukti-pemotongan-danatau-pemungutan-pajak-penghasilan"
+  "retrieved_at": "2026-10-09T00:27:17+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/08536c98-cfbf-4893-a1e8-5c1af6cd003d/12~PMK.03~2017Per.pdf"
  }
 }

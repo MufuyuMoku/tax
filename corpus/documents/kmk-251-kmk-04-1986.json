@@ -15,14 +15,11 @@
   "year": "1986"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T04:03:10+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/ece06bf6-f5cb-4903-ab8c-9afa77e68f56/251~kmk.04~1986kep.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-251-kmk-04-1986--b000-1",
+  "kmk-251-kmk-04-1986--b001-2"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -70,16 +67,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 1600,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T04:03:10+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/ece06bf6-f5cb-4903-ab8c-9afa77e68f56/251~kmk.04~1986kep.htm"
  },
  "title": "Penetuan Asian - American Free Labor Institute yang Pejabat-Pejabat Perwakilannya Tidak Termasuk Sebagai Subyek Pajak Dari Pajak Penghasilan"
 }

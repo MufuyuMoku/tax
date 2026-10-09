@@ -15,15 +15,22 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:23:02+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/e9326bc2-47cb-49d7-97ed-e99546f4d911/74TAHUN2020PERPRES.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "perpres-74-2020--b000-1",
+  "perpres-74-2020--b001-2",
+  "perpres-74-2020--b002-2",
+  "perpres-74-2020--b003-3",
+  "perpres-74-2020--b004-4",
+  "perpres-74-2020--b005-8",
+  "perpres-74-2020--b006-9",
+  "perpres-74-2020--b007-14",
+  "perpres-74-2020--b008-20"
  ],
- "pasal_ids": [],
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:2->2,4->8,9->14,14->20",
+  "pasal_ganda"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -62,16 +69,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 204228,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:23:02+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/e9326bc2-47cb-49d7-97ed-e99546f4d911/74TAHUN2020PERPRES.pdf"
  },
  "title": "Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Kamboja untuk Penghindaran Pajak Berganda dan Pencegahan Pengelakan Pajak yang Berkenaan dengan Pajak-pajak atas Penghasilan (Agreement between the Government of the Republic of Indonesia and the Royal Government of Cambodia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income)"
 }

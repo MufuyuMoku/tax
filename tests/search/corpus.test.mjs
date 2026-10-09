@@ -30,9 +30,10 @@ test("every way of writing PER-11/PJ/2025 puts it first", () => {
 test("documents without text are found by title and by number", () => {
   const byTitle = top("PTKP", null, 50).results.filter((r) => !r.hasText);
   assert.ok(byTitle.length >= 3, `${byTitle.length} dokumen tanpa teks`);
-  const pp20 = top("PP 20/2026").results;
-  assert.equal(pp20[0].id, "pp-20-2026");
-  assert.equal(pp20[0].hasText, false);
+  // PMK 166/PMK.010/2017 is listed only by JDIH, whose full-text file answers 404 (K-066).
+  const pmk166 = top("PMK 166/PMK.010/2017").results;
+  assert.equal(pmk166[0].id, "pmk-166-2017");
+  assert.equal(pmk166[0].hasText, false);
 });
 
 test("PPh 21 is read as Pajak Penghasilan Pasal 21", () => {

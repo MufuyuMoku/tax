@@ -15,14 +15,17 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:54:52+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/58a33c40-41b9-426d-b935-64f63173fb71/19TAHUN2009PP.htm"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "pp-19-2009--b000-1",
+  "pp-19-2009--b001-2",
+  "pp-19-2009--b002-3",
+  "pp-19-2009--b003-4",
+  "pp-19-2009--p004-1",
+  "pp-19-2009--p005-2",
+  "pp-19-2009--p006-3",
+  "pp-19-2009--p007-4"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -69,16 +72,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 3836,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T00:54:52+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/58a33c40-41b9-426d-b935-64f63173fb71/19TAHUN2009PP.htm"
  },
  "title": "Pajak Penghasilan atas Deviden yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi dalam Negeri."
 }

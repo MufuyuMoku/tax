@@ -7,14 +7,17 @@
  "id": "pmk-105-2025--b004-5",
  "label": "5",
  "order": 4,
- "quality_flags": [],
+ "quality_flags": [
+  "urutan_loncat:9->21,21->21,21->21",
+  "pasal_ganda"
+ ],
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 5\n(1)\nPajak Penghasilan Pasal 21 ditanggung pemerintah sebagaimana dimaksud dalam Pasal 2 ayat (2) merupakan insentif yang harus dibayarkan secara tunai oleh Pemberi Kerja pada saat pembayaran penghasilan kepada Pegawai tertentu, termasuk dalam hal Pemberi Kerja memberikan tunjangan Pajak Penghasilan Pasal 21 atau menanggung Pajak Penghasilan Pasal 21 kepada Pegawai.\n(2)\nPembayaran tunai Pajak Penghasilan Pasal 21 ditanggung pemerintah sebagaimana dimaksud pada ayat (1), tidak diperhitungkan sebagai penghasilan yang dikenakan pajak.\n(3)\nAtas pemberian insentif Pajak Penghasilan Pasal 21 ditanggung pemerintah sebagaimana dimaksud pada ayat (1), harus dibuatkan bukti pemotongan oleh Pemberi Kerja.\n(4)\nTata cara pembuatan bukti pemotongan sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.\n(5)\nDalam hal jumlah Pajak Penghasilan Pasal 21 ditanggung pemerintah untuk Pegawai Tetap tertentu yang telah dipotong dan diberikan insentif dalam tahun kalender yang bersangkutan lebih besar dari Pajak Penghasilan Pasal 21 yang terutang untuk 1 (satu) Tahun Pajak, kelebihan Pajak Penghasilan Pasal 21 ditanggung pemerintah tidak dikembalikan kepada Pegawai Tetap bersangkutan.\n(6)\nDalam hal Pemberi Kerja dengan kriteria tertentu yang memanfaatkan insentif Pajak Penghasilan Pasal 21 ditanggung pemerintah menyampaikan Surat Pemberitahuan Masa Pajak Penghasilan Pasal 21/26 dan menyatakan kelebihan pembayaran, kelebihan pembayaran yang berasal dari Pajak Penghasilan Pasal 21 ditanggung pemerintah tidak dapat dikembalikan dan tidak dapat dikompensasikan.\n(7)\nContoh penghitungan Pajak Penghasilan Pasal 21 ditanggung pemerintah sebagaimana tercantum dalam Lampiran huruf B yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+ "text": "Pasal 5\n(1) Pajak Penghasilan Pasal 21 ditanggung pemerintah\nsebagaimana dimaksud dalam Pasal 2 ayat (2) merupakan\ninsentif yang harus dibayarkan secara tunai oleh Pemberi\nKerja pada saat pembayaran penghasilan kepada Pegawai\ntertentu, termasuk dalam hal Pemberi Kerja memberikan\ntunjangan Pajak Penghasilan Pasal 21 atau menanggung\nPajak Penghasilan Pasal 21 kepada Pegawai.\n(2) Pembayaran tunai Pajak Penghasilan Pasal 21 ditanggung\npemerintah sebagaimana dimaksud pada ayat (1), tidak\ndiperhitungkan sebagai penghasilan yang\ndikenakan pajak.\n(3) Atas pemberian insentif Pajak Penghasilan Pasal 21\nditanggung pemerintah sebagaimana dimaksud pada\nayat (1), harus dibuatkan bukti pemotongan oleh Pemberi\nKerja.\n(4) Tata cara pembuatan bukti pemotongan sebagaimana\ndimaksud pada ayat (3) dilaksanakan sesuai dengan\nketentuan peraturan perundang-undangan di bidang\nperpajakan.\n(5) Dalam hal jumlah Pajak Penghasilan Pasal 21 ditanggung\npemerintah untuk Pegawai Tetap tertentu yang telah\ndipotong dan diberikan insentif dalam tahun kalender\nyang bersangkutan lebih besar dari Pajak Penghasilan\nPasal 21 yang terutang untuk 1 (satu) Tahun Pajak,\nkelebihan Pajak Penghasilan Pasal 21 ditanggung\npemerintah tidak dikembalikan kepada Pegawai Tetap\nbersangkutan.\n(6) Dalam hal Pemberi Kerja dengan kriteria tertentu yang\nmemanfaatkan insentif Pajak Penghasilan Pasal 21\nditanggung pemerintah menyampaikan Surat\nPemberitahuan Masa Pajak Penghasilan Pasal 21/26 dan\nmenyatakan kelebihan pembayaran, kelebihan\npembayaran yang berasal dari Pajak Penghasilan Pasal 21\nditanggung pemerintah tidak dapat dikembalikan dan\ntidak dapat dikompensasikan.\n(7) Contoh penghitungan Pajak Penghasilan Pasal 21\nditanggung pemerintah sebagaimana tercantum dalam\nLampiran huruf B yang merupakan bagian tidak\nterpisahkan dari Peraturan Menteri ini.",
  "text_source": {
-  "retrieved_at": "2026-10-04T02:58:28+00:00",
-  "source": "DJP",
-  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0"
+  "retrieved_at": "2026-10-09T00:23:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/cb203b0c-bdc8-409d-bf9c-a71264d96f60/2025pmkeuangan105.pdf"
  }
 }

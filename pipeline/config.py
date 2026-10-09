@@ -44,8 +44,8 @@ HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HAR
 # KUP first; PPN is added here once its details are fetched. PPh comes from the proof of concept.
 DJP_CATEGORIES = ["KUP"]
 
-# Text of the full-text files fetched from JDIH in M5 (PPh documents only JDIH has). Off until the
-# owner approves its effect on the evaluation set (K-066): with it, the PPh median goes 5 -> 6.
-# While off, the documents stay without text and link to the fetched original file.
-PUBLISH_JDIH_FILE_TEXT = False
+# Text of the full-text files fetched from JDIH in M5 (PPh documents only JDIH has). Approved by the
+# owner on 2026-10-09 together with its effect on the evaluation set (K-066): PPh median 5 -> 6.
+# When off, the documents stay without text and link to the fetched original file.
+PUBLISH_JDIH_FILE_TEXT = True
 

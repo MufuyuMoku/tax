@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 789,
+ "document_id": "pp-23-2018",
+ "document_number": "PP 23 TAHUN 2018",
+ "document_title": "Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+ "id": "pp-23-2018--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [
+  "urutan_loncat:5->5,7->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\nBesarnya peredaran bruto tertentu sebagaimana\ndimaksud dalam Pasal 3 ayat (1) merupakan jumlah\nperedaran bruto dalam I (satu) tahun dari Tahun Pajak\nterakhir sebelum Tahun Pajak bersangkutan, yang\nditentukan berdasarkan keseluruhan peredaran bruto\ndari usaha, termasuk peredaran bruto dari cabang.\nDalam hal Wajib Pajak orang pribadi merupakan suami-\nisteri yang:\na. menghendaki perjanjian pemisahan harta dan\npenghasilan secara tertulis; atau\nb. isterinya menghendaki memilih untuk menjalankan\nhak dan kewajiban perpajakannya sendiri,\nsebagaimana dimaksud dalam Pasal 8 ayat (2) huruf b\ndan huruf c Undang-Undang Pajak Penghasilan,\nbesarnya peredaran bruto sebagaimana dimaksud pada\nayat (1) ditentukan berdasarkan penggabungan\nperedaran bruto usaha dari suami dan isteri.\n(1)\n(2t",
+ "text_source": {
+  "retrieved_at": "2026-10-09T00:58:43+00:00",
+  "source": "JDIH",
+  "url": "https://jdih.kemenkeu.go.id/api/download/71e84d69-7de9-40af-a4a2-5a6e7f2888c7/23TAHUN2018PP.pdf"
+ }
+}

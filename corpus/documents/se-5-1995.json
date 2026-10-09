@@ -15,15 +15,11 @@
   "year": "1995"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T01:20:04+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/5617cf2f-3bcc-487f-b2f4-fec81e6eecb8/SE-05~PJ.4~1995SE.HTM"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [],
- "quality_flags": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
  "relations": {
   "amended_by": [],
   "amends": [],
@@ -63,16 +59,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 2798,
+  "format": "htm",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-09T01:20:04+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/5617cf2f-3bcc-487f-b2f4-fec81e6eecb8/SE-05~PJ.4~1995SE.HTM"
  },
  "title": "Badan-Badan dan Pengusaha Kecil yang Menerima Harta Hibahan yang Tidak Termasuk Sebagai Objek Pajak Penghasilan (Seri Pph Umum Nomor 1)"
 }

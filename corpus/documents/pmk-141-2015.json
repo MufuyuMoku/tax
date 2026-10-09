@@ -19,13 +19,7 @@
   "year": "2015"
  },
  "identity_conflicts": [],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-09T00:28:58+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/ddc706d2-1eb6-44a1-ba5c-a47cc5d2cdd0/141~PMK.03~2015Per.pdf"
-  }
- ],
+ "original_files": [],
  "pasal_ids": [
   "pmk-141-2015--b000-1",
   "pmk-141-2015--b001-2",
@@ -37,36 +31,7 @@
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [
-   {
-    "key": [
-     "UU",
-     "7",
-     "1983",
-     null
-    ],
-    "name": "Undang-Undang Nomor 7 Tahun 1983",
-    "quote": "Huruf c Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008, dicabut dan dinyatakan tidak berlaku.",
-    "quote_excerpt": false,
-    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
-    "source_of_reading": "DJP",
-    "target_id": "uu-7-1983"
-   },
-   {
-    "key": [
-     "UU",
-     "36",
-     "2008",
-     null
-    ],
-    "name": "Undang-Undang Nomor 36 Tahun 2008",
-    "quote": "Huruf c Angka 2 Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 36 Tahun 2008, dicabut dan dinyatakan tidak berlaku.",
-    "quote_excerpt": false,
-    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
-    "source_of_reading": "DJP",
-    "target_id": "uu-36-2008"
-   }
-  ],
+  "revokes": [],
   "source_listed_related": [
    {
     "note": "jenis relasi menurut JDIH: Mencabut",
@@ -128,13 +93,21 @@
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 17838,
-  "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-10-04T03:57:25+00:00",
-  "source": "DJP",
+  "chars": 25776,
+  "format": "pdf",
+  "other_postings": [
+   {
+    "chars": 17838,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-04T03:57:25+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-sebagaimana-dimaksud-dalam-pasal-23-ayat-1-huruf-c-angka-2-undang-0"
+   }
+  ],
+  "retrieved_at": "2026-10-09T00:28:58+00:00",
+  "source": "JDIH",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/jenis-jasa-lain-sebagaimana-dimaksud-dalam-pasal-23-ayat-1-huruf-c-angka-2-undang-0"
+  "url": "https://jdih.kemenkeu.go.id/api/download/ddc706d2-1eb6-44a1-ba5c-a47cc5d2cdd0/141~PMK.03~2015Per.pdf"
  },
  "title": "JENIS JASA LAIN SEBAGAIMANA DIMAKSUD DALAM PASAL 23 AYAT (1) HURUF C ANGKA 2 UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 36 TAHUN 2008"
 }

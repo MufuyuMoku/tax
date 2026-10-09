@@ -22,14 +22,12 @@
    "title": "PENETAPAN PEMOTONG PPH PASAL 23 DAN/ATAU PASAL 26 YANG DIHARUSKAN MEMBUAT BUKTI PEMOTONGAN DAN DIWAJIBKAN MENYAMPAIKAN SPT MASA PPH PASAL 23 DAN/ATAU PASAL 26 BERDASARKAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2017"
   }
  ],
- "original_files": [
-  {
-   "reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik)",
-   "retrieved_at": "2026-10-06T03:59:24+00:00",
-   "url": "https://jdih.kemenkeu.go.id/api/download/db7a5444-6073-4bbf-8e9b-21e4c954eadd/KEP-425.PJ.2019.pdf"
-  }
+ "original_files": [],
+ "pasal_ids": [
+  "kep-eselon1-425-2019--b000-kedua",
+  "kep-eselon1-425-2019--b001-ketiga",
+  "kep-eselon1-425-2019--b002-keempat"
  ],
- "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -69,16 +67,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "diktum",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 102161,
+  "format": "pdf",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "teks berkas JDIH sudah diambil tetapi belum dimasukkan ke situs (menunggu pemeriksaan pemilik); berkas aslinya bisa dibuka",
-  "url": null
+  "retrieved_at": "2026-10-06T03:59:24+00:00",
+  "source": "JDIH",
+  "unavailable_reason": null,
+  "url": "https://jdih.kemenkeu.go.id/api/download/db7a5444-6073-4bbf-8e9b-21e4c954eadd/KEP-425.PJ.2019.pdf"
  },
  "title": "Penetapan Pemotong Pph Pasal 23 dan/atau Pasal 26 yang Diharuskan Membuat Bukti Pemotongan dan Diwajibkan Menyampaikan Spt Masa Pph Pasal 23 Dan/ atau Pasal 26 Berdasarkan Peraturan Direktur Jenderal Pajak Nomor Per-04/Pj/2017"
 }
