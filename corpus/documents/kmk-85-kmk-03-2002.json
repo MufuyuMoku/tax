@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-85-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "85/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-23-2006",
+    "key": [
+     "PMK",
+     "23",
+     "2006",
+     null
+    ],
+    "number_as_written": "23/PMK.03/2006",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang Dalam Rangka Penagihan Pajak Dengan Surat Paksa diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 85/KMK.03/2002 TENTANG TATA CARA PENYITAAN KEKAYAAN PENANGGUNG PAJAK BERUPA PIUTANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   },
+   {
+    "id": "pmk-23-2006-ralat",
+    "key": [
+     "PMK",
+     "23",
+     "2006",
+     "ralat"
+    ],
+    "number_as_written": "23/PMK.03/2006",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang Dalam Rangka Penagihan Pajak Dengan Surat Paksa diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "RALAT PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 23/PMK.03/2006 TENTANG PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 85/KMK.03/2002 TENTANG TATA CARA PENYITAAN KEKAYAAN PENANGGUNG PAJAK BERUPA PIUTANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-61-2023",
+    "key": [
+     "PMK",
+     "61",
+     "2023",
+     null
+    ],
+    "number_as_written": "61 TAHUN 2023",
+    "quote": "Pasal 150 Pada saat Peraturan Menteri ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang dalam rangka Penagihan Pajak dengan Surat Paksa; b. Peraturan Menteri Keuangan Nomor 23/PMK.03/2006 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 85/KMK.03/2002 tentang Tata Cara Penyitaan Kekayaan Penanggung Pajak Berupa Piutang dalam rangka Penagihan Pajak dengan Surat Paksa; dan c. Peraturan Menteri Keuangan Nomor 189/PMK.03/2020 tentang Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar (Berita Negara Negara Republik Indonesia Tahun 2020 Nomor 1394), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-08",
+   "detail_error": null,
+   "number_as_written": "85/KMK.03/2002",
+   "retrieved_at": "2026-10-05T06:19:03+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYITAAN KEKAYAAN PENANGGUNG PAJAK BERUPA PIUTANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyitaan-kekayaan-penanggung-pajak-berupa-piutang-dalam-rangka-penagihan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=214",
+   "retrieved_at": "2026-10-03T03:51:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyitaan-kekayaan-penanggung-pajak-berupa-piutang-dalam-rangka-penagihan-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENYITAAN KEKAYAAN PENANGGUNG PAJAK BERUPA PIUTANG DALAM RANGKA PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+}

@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-19-2017",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "19",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-19-2017--b000-1",
+  "per-djp-19-2017--b001-2",
+  "per-djp-19-2017--b002-3",
+  "per-djp-19-2017--b003-4",
+  "per-djp-19-2017--b004-5",
+  "per-djp-19-2017--b005-6",
+  "per-djp-19-2017--b006-7",
+  "per-djp-19-2017--b007-8",
+  "per-djp-19-2017--b008-9",
+  "per-djp-19-2017--b009-10",
+  "per-djp-19-2017--b010-11",
+  "per-djp-19-2017--b011-12",
+  "per-djp-19-2017--b012-13",
+  "per-djp-19-2017--b013-14",
+  "per-djp-19-2017--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-9-2025",
+    "key": [
+     "PER-DJP",
+     "9",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-9/PJ/2025",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2017 tentang Perlakuan Terhadap Penerbitan dan/atau Penggunaan Faktur Pajak Tidak Sah oleh Wajib Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER16/PJ/2018 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2017 tentang Perlakuan Terhadap Penerbitan dan/atau Penggunaan Faktur Pajak Tidak Sah oleh Wajib Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENONAKTIFAN AKSES PEMBUATAN FAKTUR PAJAK DALAM RANGKA PENANGANAN TERHADAP KEGIATAN PENERBITAN DAN/ATAU PENGGUNAAN FAKTUR PAJAK TIDAK SAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-11-08",
+   "detail_error": null,
+   "number_as_written": "PER-19/PJ/2017",
+   "retrieved_at": "2026-10-04T03:42:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERLAKUAN TERHADAP PENERBITAN DAN/ATAU PENGGUNAAN FAKTUR PAJAK TIDAK SAH OLEH WAJIB PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-terhadap-penerbitan-danatau-penggunaan-faktur-pajak-tidak-sah-oleh-wajib-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=60",
+   "retrieved_at": "2026-10-03T02:53:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perlakuan-terhadap-penerbitan-danatau-penggunaan-faktur-pajak-tidak-sah-oleh-wajib-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 16709,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:42:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perlakuan-terhadap-penerbitan-danatau-penggunaan-faktur-pajak-tidak-sah-oleh-wajib-pajak"
+ },
+ "title": "PERLAKUAN TERHADAP PENERBITAN DAN/ATAU PENGGUNAAN FAKTUR PAJAK TIDAK SAH OLEH WAJIB PAJAK"
+}

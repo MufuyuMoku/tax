@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-16-2025",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2025"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-16-2025--b000-i",
   "per-djp-16-2025--b001-ii"
@@ -19,7 +30,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PER-6/PJ/2025 — Pelaksanaan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak Terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah, serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Berisiko Rendah",
+    "url": "https://jdih.kemenkeu.go.id/dok/per-6pj2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -31,10 +49,21 @@
    "title_as_written": "PELAKSANAAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK TERHADAP WAJIB PAJAK KRITERIA TERTENTU, WAJIB PAJAK PERSYARATAN TERTENTU, DAN PENGUSAHA KENA PAJAK BERISIKO RENDAH, SERTA SPECIAL PURPOSE COMPANY ATAU KONTRAK INVESTASI KOLEKTIF SEBAGAI PENGUSAHA KENA PAJAK BERISIKO RENDAH",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengembalian-pendahuluan-kelebihan-pembayaran-pajak-terhadap-wajib-pajak-0"
+  },
+  {
+   "date_as_written": "2025-08-13 12:00:00",
+   "number_as_written": "PER-16/PJ/2025",
+   "page_retrieved_at": "2026-10-05T06:25:25+00:00",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-6/PJ/2025 tentang Pelaksanaan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah, serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Kena Pajak Berisiko Rendah",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-16pj2025",
+   "validity_as_written": "13 Agu 2025 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -46,6 +75,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pengembalian-pendahuluan-kelebihan-pembayaran-pajak-terhadap-wajib-pajak-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=3",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-16pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "perubahan",

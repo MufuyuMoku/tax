@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-61-2005",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2005"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-61-2005--b000-1",
   "pmk-61-2005--b001-2",
@@ -22,9 +29,40 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-2-2009",
+    "key": [
+     "PMK",
+     "2",
+     "2009",
+     null
+    ],
+    "number_as_written": "02/PMK.011/2009",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 61/PMK.03/2005 TENTANG PERLAKUAN PERPAJAKAN DAN KEPABEANAN DALAM RANGKA PROYEK PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN"
+   }
+  ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-45-2009",
+    "key": [
+     "PMK",
+     "45",
+     "2009",
+     null
+    ],
+    "number_as_written": "45/PMK.03/2009",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 4. Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan Dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 02/PMK.011/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGAWASAN, PENGADMINISTRASIAN, PEMBAYARAN, SERTA PELUNASAN PAJAK PERTAMBAHAN NILAI DAN/ATAU PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI KAWASAN BEBAS KE TEMPAT LAIN DALAM DAERAH PABEAN DAN PEMASUKAN DAN/ ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -68,7 +106,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

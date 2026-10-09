@@ -1,0 +1,201 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-256-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "256",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-256-2014--b000-1",
+  "pmk-256-2014--b001-2",
+  "pmk-256-2014--b002-3",
+  "pmk-256-2014--b003-4",
+  "pmk-256-2014--b004-5",
+  "pmk-256-2014--b005-6",
+  "pmk-256-2014--b006-7",
+  "pmk-256-2014--b007-8",
+  "pmk-256-2014--b008-9",
+  "pmk-256-2014--b009-10",
+  "pmk-256-2014--b010-11",
+  "pmk-256-2014--b011-12",
+  "pmk-256-2014--b012-13",
+  "pmk-256-2014--b013-14",
+  "pmk-256-2014--b014-15",
+  "pmk-256-2014--b015-16",
+  "pmk-256-2014--b016-17",
+  "pmk-256-2014--b017-18",
+  "pmk-256-2014--b018-19",
+  "pmk-256-2014--b019-20",
+  "pmk-256-2014--b020-21",
+  "pmk-256-2014--b021-22",
+  "pmk-256-2014--b022-23",
+  "pmk-256-2014--b023-24",
+  "pmk-256-2014--b024-25",
+  "pmk-256-2014--b025-26",
+  "pmk-256-2014--b026-27",
+  "pmk-256-2014--b027-28",
+  "pmk-256-2014--b028-29",
+  "pmk-256-2014--b029-30",
+  "pmk-256-2014--b030-31",
+  "pmk-256-2014--b031-32",
+  "pmk-256-2014--b032-33",
+  "pmk-256-2014--b033-34",
+  "pmk-256-2014--b034-35",
+  "pmk-256-2014--b035-36",
+  "pmk-256-2014--b036-37",
+  "pmk-256-2014--b037-38",
+  "pmk-256-2014--b038-39",
+  "pmk-256-2014--b039-40",
+  "pmk-256-2014--b040-41",
+  "pmk-256-2014--b041-42",
+  "pmk-256-2014--b042-43",
+  "pmk-256-2014--b043-44",
+  "pmk-256-2014--b044-45",
+  "pmk-256-2014--b045-46",
+  "pmk-256-2014--b046-47",
+  "pmk-256-2014--b047-48",
+  "pmk-256-2014--b048-49",
+  "pmk-256-2014--b049-50",
+  "pmk-256-2014--b050-51",
+  "pmk-256-2014--b051-52",
+  "pmk-256-2014--b052-53",
+  "pmk-256-2014--b053-54",
+  "pmk-256-2014--b054-55",
+  "pmk-256-2014--b055-56",
+  "pmk-256-2014--b056-57",
+  "pmk-256-2014--b057-58",
+  "pmk-256-2014--b058-59",
+  "pmk-256-2014--b059-60",
+  "pmk-256-2014--b060-61",
+  "pmk-256-2014--b061-62",
+  "pmk-256-2014--b062-63",
+  "pmk-256-2014--b063-64",
+  "pmk-256-2014--b064-65",
+  "pmk-256-2014--b065-66",
+  "pmk-256-2014--b066-67",
+  "pmk-256-2014--b067-68",
+  "pmk-256-2014--b068-69",
+  "pmk-256-2014--b069-70",
+  "pmk-256-2014--b070-71",
+  "pmk-256-2014--b071-72",
+  "pmk-256-2014--b072-73",
+  "pmk-256-2014--b073-74",
+  "pmk-256-2014--b074-75",
+  "pmk-256-2014--b075-76",
+  "pmk-256-2014--b076-77",
+  "pmk-256-2014--b077-78",
+  "pmk-256-2014--b078-79",
+  "pmk-256-2014--b079-80",
+  "pmk-256-2014--b080-81",
+  "pmk-256-2014--b081-82",
+  "pmk-256-2014--b082-83",
+  "pmk-256-2014--b083-84",
+  "pmk-256-2014--b084-85"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-15-2025",
+    "key": [
+     "PMK",
+     "15",
+     "2025",
+     null
+    ],
+    "number_as_written": "15 TAHUN 2025",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 256/PMK.03/2014 tentang Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2014 Nomor 2015); dan c. Pasal 105 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PEMERIKSAAN PAJAK"
+   },
+   {
+    "id": "pmk-80-2023",
+    "key": [
+     "PMK",
+     "80",
+     "2023",
+     null
+    ],
+    "number_as_written": "80 TAHUN 2023",
+    "quote": "huruf a, Pasal 78 ayat (1), Pasal 78 ayat (4), dan Pasal 79 dalam Peraturan Menteri Keuangan Nomor 256/PMK.03/2014 tentang Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2014 Nomor 2015); dan d. Peraturan Menteri Keuangan Nomor 78/PMK.03/2016 tentang Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2016 Nomor 747), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-12-30",
+   "detail_error": null,
+   "number_as_written": "256/PMK.03/2014",
+   "retrieved_at": "2026-10-04T04:05:42+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN DAN PENELITIAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-dan-penelitian-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2014-12-30 00:00:00",
+   "number_as_written": "256/PMK.03/2014",
+   "retrieved_at": "2026-09-21T14:31:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2014"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 15/2025, PMK 80/2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=84",
+   "retrieved_at": "2026-10-03T03:02:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-dan-penelitian-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=244",
+   "retrieved_at": "2026-09-21T14:31:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/256-pmk-03-2014",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 107709,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:05:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-dan-penelitian-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PEMERIKSAAN DAN PENELITIAN PAJAK BUMI DAN BANGUNAN"
+}

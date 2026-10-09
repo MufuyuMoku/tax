@@ -1,0 +1,252 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK 118 TAHUN 2024.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "118",
+    "year": "2024"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK%20118%20TAHUN%202024.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-118-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "118",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-118-2024--b000-1",
+  "pmk-118-2024--b001-2",
+  "pmk-118-2024--b002-3",
+  "pmk-118-2024--b003-4",
+  "pmk-118-2024--b004-5",
+  "pmk-118-2024--b005-6",
+  "pmk-118-2024--b006-7",
+  "pmk-118-2024--b007-8",
+  "pmk-118-2024--b008-9",
+  "pmk-118-2024--b009-10",
+  "pmk-118-2024--b010-11",
+  "pmk-118-2024--b011-12",
+  "pmk-118-2024--b012-13",
+  "pmk-118-2024--b013-14",
+  "pmk-118-2024--b014-15",
+  "pmk-118-2024--b015-16",
+  "pmk-118-2024--b016-17",
+  "pmk-118-2024--b017-18",
+  "pmk-118-2024--b018-19",
+  "pmk-118-2024--b019-20",
+  "pmk-118-2024--b020-21",
+  "pmk-118-2024--b021-22",
+  "pmk-118-2024--b022-23",
+  "pmk-118-2024--b023-24",
+  "pmk-118-2024--b024-25",
+  "pmk-118-2024--b025-26",
+  "pmk-118-2024--b026-27",
+  "pmk-118-2024--b027-28",
+  "pmk-118-2024--b028-29",
+  "pmk-118-2024--b029-30",
+  "pmk-118-2024--b030-31",
+  "pmk-118-2024--b031-32",
+  "pmk-118-2024--b032-33",
+  "pmk-118-2024--b033-34",
+  "pmk-118-2024--b034-35",
+  "pmk-118-2024--b035-36",
+  "pmk-118-2024--b036-37",
+  "pmk-118-2024--b037-38",
+  "pmk-118-2024--b038-39",
+  "pmk-118-2024--b039-40",
+  "pmk-118-2024--b040-41",
+  "pmk-118-2024--b041-42",
+  "pmk-118-2024--b042-43",
+  "pmk-118-2024--b043-44",
+  "pmk-118-2024--b044-45",
+  "pmk-118-2024--b045-46",
+  "pmk-118-2024--b046-47",
+  "pmk-118-2024--b047-48",
+  "pmk-118-2024--b048-49",
+  "pmk-118-2024--b049-50",
+  "pmk-118-2024--b050-51",
+  "pmk-118-2024--b051-52",
+  "pmk-118-2024--b052-53",
+  "pmk-118-2024--b053-54",
+  "pmk-118-2024--b054-55",
+  "pmk-118-2024--b055-56",
+  "pmk-118-2024--b056-57",
+  "pmk-118-2024--b057-58",
+  "pmk-118-2024--b058-59",
+  "pmk-118-2024--b059-60",
+  "pmk-118-2024--b060-61",
+  "pmk-118-2024--b061-62",
+  "pmk-118-2024--b062-63",
+  "pmk-118-2024--b063-64"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "8",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 8/PMK.03/2013",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 8/PMK.03/2013 tentang Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Surat Ketetapan Pajak atau Surat Tagihan Pajak (Berita Negara Republik Indonesia Tahun 2013 Nomor 11); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-8-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "9",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 9/PMK.03/2013",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan (Berita Negara Republik Indonesia Tahun 2013 Nomor 12) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 202/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan (Berita Negara Republik Indonesia Tahun 2015 Nomor 1704); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-9-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "202",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 202/PMK.03/2015",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan (Berita Negara Republik Indonesia Tahun 2013 Nomor 12) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 202/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2013 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan (Berita Negara Republik Indonesia Tahun 2015 Nomor 1704); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-202-2015"
+   },
+   {
+    "key": [
+     "PMK",
+     "11",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 11/PMK.03/2013",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 11/PMK.03/2013 tentang Tata Cara Pembetulan (Berita Negara Republik Indonesia Tahun 2013 Nomor 14); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-11-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "253",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 253/PMK.03/2014",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … d. Peraturan Menteri Keuangan Nomor 253/PMK.03/2014 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2014 Nomor 2008) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 249/PMK.03/2016 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 253/PMK.03/2014 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2017 Nomor 22); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-253-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "249",
+     "2016",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 249/PMK.03/2016",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … d. Peraturan Menteri Keuangan Nomor 253/PMK.03/2014 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2014 Nomor 2008) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 249/PMK.03/2016 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 253/PMK.03/2014 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2017 Nomor 22); … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-249-2016"
+   },
+   {
+    "key": [
+     "PMK",
+     "81",
+     "2017",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 81/PMK.03/2017",
+    "quote": "Pasal 63 Pada saat Peraturan Menteri ini mulai berlaku: … e. Peraturan Menteri Keuangan Nomor 81/PMK.03/2017 tentang Pengurangan Denda Administrasi Pajak Bumi dan Bangunan dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar (Berita Negara Republik Indonesia Tahun 2017 Nomor 874), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-81-2017"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-12-23",
+   "detail_error": null,
+   "number_as_written": "118 TAHUN 2024",
+   "retrieved_at": "2026-10-04T03:03:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-keberatan-pengurangan-penghapusan-dan-pembatalan-di-bidang"
+  },
+  {
+   "date_as_written": "2024-12-23 00:00:00",
+   "number_as_written": "PMK 118 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:16:40+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-118-tahun-2024"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=10",
+   "retrieved_at": "2026-10-03T02:36:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-keberatan-pengurangan-penghapusan-dan-pembatalan-di-bidang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=21",
+   "retrieved_at": "2026-09-21T14:16:40+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-118-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 149596,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:03:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-keberatan-pengurangan-penghapusan-dan-pembatalan-di-bidang"
+ },
+ "title": "TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN"
+}

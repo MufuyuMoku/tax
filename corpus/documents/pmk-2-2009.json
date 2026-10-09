@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-2-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "2",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-2-2009--b000-i",
+  "pmk-2-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "61",
+     "2005",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 61/PMK.03/2005",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "target_id": "pmk-61-2005"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-45-2009",
+    "key": [
+     "PMK",
+     "45",
+     "2009",
+     null
+    ],
+    "number_as_written": "45/PMK.03/2009",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … 4. Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan Dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 02/PMK.011/2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGAWASAN, PENGADMINISTRASIAN, PEMBAYARAN, SERTA PELUNASAN PAJAK PERTAMBAHAN NILAI DAN/ATAU PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN DAN/ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI KAWASAN BEBAS KE TEMPAT LAIN DALAM DAERAH PABEAN DAN PEMASUKAN DAN/ ATAU PENYERAHAN BARANG KENA PAJAK DAN/ATAU JASA KENA PAJAK DARI TEMPAT LAIN DALAM DAERAH PABEAN KE KAWASAN BEBAS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-01-12",
+   "detail_error": null,
+   "number_as_written": "02/PMK.011/2009",
+   "retrieved_at": "2026-10-05T01:58:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 61/PMK.03/2005 TENTANG PERLAKUAN PERPAJAKAN DAN KEPABEANAN DALAM RANGKA PROYEK PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-61pmk032005-tentang-perlakuan-perpajakan"
+  },
+  {
+   "date_as_written": "2009-01-12 00:00:00",
+   "number_as_written": "02/PMK.011/2009",
+   "retrieved_at": "2026-09-21T14:41:54+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 61/PMK.03/2005 tentang Perlakuan Perpajakan dan Kepabeanan dalam Rangka Proyek Pengembangan Pulau Bintan dan Pulau Karimun.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-011-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=156",
+   "retrieved_at": "2026-10-03T03:29:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-61pmk032005-tentang-perlakuan-perpajakan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=393",
+   "retrieved_at": "2026-09-21T14:41:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/02-pmk-011-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 1939,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:58:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-61pmk032005-tentang-perlakuan-perpajakan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 61/PMK.03/2005 TENTANG PERLAKUAN PERPAJAKAN DAN KEPABEANAN DALAM RANGKA PROYEK PENGEMBANGAN PULAU BINTAN DAN PULAU KARIMUN"
+}

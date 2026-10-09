@@ -21,6 +21,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER21PJ2021.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-21-2021",
  "identity": {
@@ -30,6 +40,7 @@
   "year": "2021"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-21-2021--b000-i",
   "per-djp-21-2021--b001-ii",
@@ -80,7 +91,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

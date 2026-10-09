@@ -1,0 +1,162 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK80TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "80",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK80TAHUN2023.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-80-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "80",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-80-2023--b000-1",
+  "pmk-80-2023--b001-2",
+  "pmk-80-2023--b002-3",
+  "pmk-80-2023--b003-4",
+  "pmk-80-2023--b004-5",
+  "pmk-80-2023--b005-6",
+  "pmk-80-2023--b006-7",
+  "pmk-80-2023--b007-8",
+  "pmk-80-2023--b008-9",
+  "pmk-80-2023--b009-10",
+  "pmk-80-2023--b010-11",
+  "pmk-80-2023--b011-12",
+  "pmk-80-2023--b012-13",
+  "pmk-80-2023--b013-14",
+  "pmk-80-2023--b014-15",
+  "pmk-80-2023--b015-16",
+  "pmk-80-2023--b016-17",
+  "pmk-80-2023--b017-18",
+  "pmk-80-2023--b018-19",
+  "pmk-80-2023--b019-20",
+  "pmk-80-2023--b020-21",
+  "pmk-80-2023--b021-22",
+  "pmk-80-2023--b022-23",
+  "pmk-80-2023--b023-24",
+  "pmk-80-2023--b024-25",
+  "pmk-80-2023--b025-26",
+  "pmk-80-2023--b026-27",
+  "pmk-80-2023--b027-28",
+  "pmk-80-2023--b028-29",
+  "pmk-80-2023--b029-30",
+  "pmk-80-2023--b030-31",
+  "pmk-80-2023--b031-32",
+  "pmk-80-2023--b032-33",
+  "pmk-80-2023--b033-34",
+  "pmk-80-2023--b034-35",
+  "pmk-80-2023--b035-36",
+  "pmk-80-2023--b036-37",
+  "pmk-80-2023--b037-38",
+  "pmk-80-2023--b038-39"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "256",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 256/PMK.03/2014",
+    "quote": "huruf a, Pasal 78 ayat (1), Pasal 78 ayat (4), dan Pasal 79 dalam Peraturan Menteri Keuangan Nomor 256/PMK.03/2014 tentang Tata Cara Pemeriksaan dan Penelitian Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2014 Nomor 2015); dan d. Peraturan Menteri Keuangan Nomor 78/PMK.03/2016 tentang Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2016 Nomor 747), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-256-2014"
+   },
+   {
+    "key": [
+     "PMK",
+     "78",
+     "2016",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 78/PMK.03/2016",
+    "quote": "… d. Peraturan Menteri Keuangan Nomor 78/PMK.03/2016 tentang Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2016 Nomor 747), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-78-2016"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-08-22",
+   "detail_error": null,
+   "number_as_written": "80 TAHUN 2023",
+   "retrieved_at": "2026-10-04T03:07:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-ketetapan-pajak-dan-surat-tagihan-pajak-0"
+  },
+  {
+   "date_as_written": "2023-08-22 00:00:00",
+   "number_as_written": "PMK 80 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=16",
+   "retrieved_at": "2026-10-03T02:38:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-ketetapan-pajak-dan-surat-tagihan-pajak-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:18:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 46435,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:07:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-ketetapan-pajak-dan-surat-tagihan-pajak-0"
+ },
+ "title": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK"
+}

@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-19-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "19",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-19-2020--b000-1",
+  "per-djp-19-2020--b001-2",
+  "per-djp-19-2020--b002-3",
+  "per-djp-19-2020--b003-4",
+  "per-djp-19-2020--b004-5",
+  "per-djp-19-2020--b005-6",
+  "per-djp-19-2020--b006-7",
+  "per-djp-19-2020--b007-8",
+  "per-djp-19-2020--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "13",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2020",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2020 tentang Petunjuk Teknis Pemberian Nomor Pokok Wajib Pajak Secara Jabatan Sehubungan Dengan Pemberian Subsidi Bunga/Subsidi Margin untuk Kredit/Pembiayaan Usaha Mikro, Kecil, dan Menengah Dalam Rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-13-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-11-06",
+   "detail_error": null,
+   "number_as_written": "PER-19/PJ/2020",
+   "retrieved_at": "2026-10-04T03:21:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK TEKNIS PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN SEHUBUNGAN DENGAN PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN KEPADA DEBITUR DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pemberian-nomor-pokok-wajib-pajak-secara-jabatan-sehubungan-dengan"
+  },
+  {
+   "date_as_written": "2020-11-06 00:00:00",
+   "number_as_written": "PER-19/PJ/2020",
+   "retrieved_at": "2026-09-21T14:56:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Petunjuk Teknis Pemberian Nomor Pokok Wajib Pajak secara Jabatan Sehubungan dengan Pemberian Subsidi Bunga/Subsidi Margin kepada Debitur Dalam Rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-19-pj-2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=35",
+   "retrieved_at": "2026-10-03T02:45:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pemberian-nomor-pokok-wajib-pajak-secara-jabatan-sehubungan-dengan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=22",
+   "retrieved_at": "2026-09-21T14:56:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-19-pj-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14747,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:21:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pemberian-nomor-pokok-wajib-pajak-secara-jabatan-sehubungan-dengan"
+ },
+ "title": "PETUNJUK TEKNIS PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN SEHUBUNGAN DENGAN PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN KEPADA DEBITUR DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL"
+}

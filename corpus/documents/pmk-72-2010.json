@@ -1,0 +1,98 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-72-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "72",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-72-2010--b000-1",
+  "pmk-72-2010--b001-2",
+  "pmk-72-2010--b002-3",
+  "pmk-72-2010--b003-4",
+  "pmk-72-2010--b004-5",
+  "pmk-72-2010--b005-6",
+  "pmk-72-2010--b006-7",
+  "pmk-72-2010--b007-8",
+  "pmk-72-2010--b008-9",
+  "pmk-72-2010--b009-10",
+  "pmk-72-2010--b010-11",
+  "pmk-72-2010--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-31",
+   "detail_error": null,
+   "number_as_written": "72/PMK.03/2010",
+   "retrieved_at": "2026-10-05T01:20:27+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGEMBALIAN KELEBIHAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan"
+  },
+  {
+   "date_as_written": "2010-03-31 00:00:00",
+   "number_as_written": "72/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengembalian Kelebihan Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/72-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=132",
+   "retrieved_at": "2026-10-03T03:20:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=362",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/72-pmk-03-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14577,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:20:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan"
+ },
+ "title": "TATA CARA PENGEMBALIAN KELEBIHAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

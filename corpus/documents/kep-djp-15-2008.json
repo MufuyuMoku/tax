@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-15-2008",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "15",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-15-2008--b000-kedua",
+  "kep-djp-15-2008--b001-ketiga",
+  "kep-djp-15-2008--b002-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-03-25",
+   "detail_error": null,
+   "number_as_written": "KEP-15/PJ./2008",
+   "retrieved_at": "2026-10-05T02:18:29+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-bagi-wajib-pajak-tertentu-dan-atau-tempat-pelaporan-usaha-bagi-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=171",
+   "retrieved_at": "2026-10-03T03:34:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-bagi-wajib-pajak-tertentu-dan-atau-tempat-pelaporan-usaha-bagi-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5713,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:18:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-bagi-wajib-pajak-tertentu-dan-atau-tempat-pelaporan-usaha-bagi-0"
+ },
+ "title": "TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS"
+}

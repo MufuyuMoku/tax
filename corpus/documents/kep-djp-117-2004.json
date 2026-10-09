@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-117-2004",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2004"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-117-2004--b000-i",
   "kep-djp-117-2004--b001-ii"
@@ -49,7 +56,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

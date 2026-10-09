@@ -8,6 +8,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Undang-Undang%20Nomor%202%20TAHUN%202020.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "uu-2-2020",
  "identity": {
@@ -17,6 +27,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "uu-2-2020--b000-1",
   "uu-2-2020--b001-2",
@@ -56,6 +67,15 @@
    "title_as_written": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2020 TENTANG KEBIJAKAN KEUANGAN NEGARA DAN STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN MENJADI UNDANG-UNDANG",
    "type_as_written": "Undang-Undang",
    "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-2020-tentang"
+  },
+  {
+   "date_as_written": "2020-05-16 00:00:00",
+   "number_as_written": "UU 2 TAHUN 2020",
+   "retrieved_at": "2026-09-21T14:02:53+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan\r\nUntuk Penanganan Pandemi Corona Virus Disease 2019\r\n(Covid-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan Menjadi Undang-Undang",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-2-tahun-2020"
   }
  ],
  "status": {
@@ -72,6 +92,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-2020-tentang",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=4",
+   "retrieved_at": "2026-09-21T14:02:53+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-2-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

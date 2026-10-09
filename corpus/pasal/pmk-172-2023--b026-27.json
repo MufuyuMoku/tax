@@ -1,0 +1,24 @@
+{
+ "amendment_items": null,
+ "chars": 799,
+ "document_id": "pmk-172-2023",
+ "document_number": "172 TAHUN 2023",
+ "document_title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+ "id": "pmk-172-2023--b026-27",
+ "label": "27",
+ "order": 26,
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 27\nDalam rangka pelaksanaan kewajiban penyampaian laporan per negara sebagaimana dimaksud dalam Pasal 16 ayat (5), Direktur Jenderal Pajak mengumumkan daftar negara mitra atau yurisdiksi mitra yang memiliki:\na.\nperjanjian internasional yang mengatur mengenai pertukaran informasi perpajakan;\nb.\npersetujuan pejabat berwenang yang memenuhi kualifikasi (\nqualifying competent authority agreement)\n; dan\nc.\npersetujuan pejabat berwenang yang memenuhi kualifikasi (\nqualifying competent authority agreement\n) tetapi laporan per negara tidak dapat diperoleh sebagaimana dimaksud dalam Pasal 22 ayat (3),\ndi laman resmi Direktorat Jenderal Pajak pada setiap akhir tahun atau setiap terjadi perubahan daftar negara mitra atau yurisdiksi mitra sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ }
+}

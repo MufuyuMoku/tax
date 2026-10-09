@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 875,
+ "document_id": "per-djp-18-2020",
+ "document_number": "PER-18/PJ/2020",
+ "document_title": "TATA KELOLA SITUS WEB DIREKTORAT JENDERAL PAJAK",
+ "id": "per-djp-18-2020--b004-5",
+ "label": "5",
+ "order": 4,
+ "quality_flags": [
+  "urutan_loncat:15->17"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 5\n(1)\nPengembang Situs Web DJP melakukan pengembangan aplikasi layanan dan fitur baru pada Situs Web DJP sesuai dengan kebutuhan organisasi Direktorat Jenderal Pajak dengan mempertimbangkan masukan dari Pengguna Situs Web DJP.\n(2)\nPengembang Situs Web DJP bersama dengan Administrator Peladen bertanggung jawab atas pembaruan perangkat lunak pada Situs Web DUP.\n(3)\nPembaruan sebagaimana dimaksud pada ayat (2) dilakukan dalam rangka:\na.\ntindak lanjut atas evaluasi yang dilakukan oleh Administrator Peladen;\nb.\nkondisi mendesak yang dapat dan/atau telah menyebabkan gangguan pada Situs Web DJP, baik yang diketahui sendiri oleh Pengembang Situs Web DJP maupun merupakan masukan dari pihak lain melalui saluran pengaduan; dan/atau\nc.\nkepentingan organisasi Direktorat Jenderal Pajak sesuai arahan Direktur Jenderal Pajak.\nBAB III\nTATA KELOLA INFRASTRUKTUR SITUS WEB DJP",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:22:03+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-kelola-situs-web-direktorat-jenderal-pajak"
+ }
+}

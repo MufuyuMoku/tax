@@ -1,0 +1,134 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER_05_PJ_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "5",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER_05_PJ_2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-5-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-5-2021--b000-1",
+  "per-djp-5-2021--b001-5",
+  "per-djp-5-2021--b002-6",
+  "per-djp-5-2021--b003-20a",
+  "per-djp-5-2021--b004-ii"
+ ],
+ "quality_flags": [
+  "anomali_romawi:II",
+  "urutan_loncat:1->5"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "7",
+     "2020",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-07/PJ/2020",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2020 tentang Tempat Pendaftaran Wajib Pajak dan Pelaku Usaha Melalui Sistem Elektronik dan/atau Tempat Pelaporan Usaha Pengusaha Kena Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-7-2020"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-17-2025",
+    "key": [
+     "PER-DJP",
+     "17",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-17/PJ/2025",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2020 tentang Tempat Pendaftaran Wajib Pajak dan Pelaku Usaha Melalui Sistem Elektronik dan/atau Tempat Pelaporan Usaha Pengusaha Kena Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-05/PJ/2021 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2020 tentang Tempat Pendaftaran Wajib Pajak dan Pelaku Usaha Melalui Sistem Elektronik dan/atau Tempat Pelaporan Usaha Pengusaha Kena Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya, … tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2020 tentang Tempat Pendaftaran Wajib Pajak dan Pelaku Usaha Melalui Sistem Elektronik dan/atau Tempat Pelaporan Usaha Pengusaha Kena Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN TEMPAT TERDAFTAR BAGI WAJIB PAJAK, ORANG PRIBADI, DAN BADAN PADA KANTOR PELAYANAN PAJAK BESAR, KHUSUS, DAN MADYA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-03-16",
+   "detail_error": null,
+   "number_as_written": "PER-05/PJ/2021",
+   "retrieved_at": "2026-10-04T03:18:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-07/PJ/2020 TENTANG TEMPAT PENDAFTARAN WAJIB PAJAK  DAN PELAKU USAHA MELALUI SISTEM ELEKTRONIK DAN/ATAU TEMPAT PELAPORAN USAHA PENGUSAHA KENA PAJAK PADA KANTOR PELAYANAN  PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR  WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-07pj2020-tentang-tempat"
+  },
+  {
+   "date_as_written": "2021-03-16 00:00:00",
+   "number_as_written": "PER-05/PJ/2021",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2020 tentang Tempat Pendaftaran Wajib Pajak dan Pelaku Usaha Melalui Sistem Elektronik dan/atau Tempat Pelaporan Usaha Pengusaha Kena Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-05-pj-2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 17/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=31",
+   "retrieved_at": "2026-10-03T02:43:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-07pj2020-tentang-tempat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-05-pj-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18442,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:18:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-07pj2020-tentang-tempat"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-07/PJ/2020 TENTANG TEMPAT PENDAFTARAN WAJIB PAJAK  DAN PELAKU USAHA MELALUI SISTEM ELEKTRONIK DAN/ATAU TEMPAT PELAPORAN USAHA PENGUSAHA KENA PAJAK PADA KANTOR PELAYANAN  PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR  WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+}

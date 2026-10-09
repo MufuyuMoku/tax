@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-19-2006",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2006"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-19-2006--b000-1",
   "pmk-19-2006--b001-2",

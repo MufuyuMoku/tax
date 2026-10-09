@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-48-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "48",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-48-2009--b000-1",
+  "per-djp-48-2009--b001-2",
+  "per-djp-48-2009--b002-3",
+  "per-djp-48-2009--b003-4",
+  "per-djp-48-2009--b004-5",
+  "per-djp-48-2009--b005-6",
+  "per-djp-48-2009--b006-7",
+  "per-djp-48-2009--b007-8",
+  "per-djp-48-2009--b008-9",
+  "per-djp-48-2009--b009-10",
+  "per-djp-48-2009--b010-11",
+  "per-djp-48-2009--b011-12",
+  "per-djp-48-2009--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ.07/2007",
+    "quote": "Pasal 12 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ.07/2007 tentang Prosedur Pengajuan dan Penyelesaian Permohonan Pembetulan Ketetapan Pajak, Keberatan, Pengurangan atau Penghapusan Sanksi Administrasi, dan Pengurangan atau Pembatalan Ketetapan Pajak yang Tidak Benar Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah dinyatakan tidak berlaku sepanjang mengenai prosedur pengajuan dan penyelesaian permohonan pembetulan ketetapan pajak.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-09-07",
+   "detail_error": null,
+   "number_as_written": "PER-48/PJ/2009",
+   "retrieved_at": "2026-10-05T01:37:41+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBETULAN KESALAHAN TULIS, KESALAHAN HITUNG, DAN/ATAU KEKELIRUAN PENERAPAN KETENTUAN TERTENTU DALAM PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-kesalahan-tulis-kesalahan-hitung-danatau-kekeliruan-penerapan-1"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=143",
+   "retrieved_at": "2026-10-03T03:24:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-kesalahan-tulis-kesalahan-hitung-danatau-kekeliruan-penerapan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10477,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:37:41+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembetulan-kesalahan-tulis-kesalahan-hitung-danatau-kekeliruan-penerapan-1"
+ },
+ "title": "TATA CARA PEMBETULAN KESALAHAN TULIS, KESALAHAN HITUNG, DAN/ATAU KEKELIRUAN PENERAPAN KETENTUAN TERTENTU DALAM PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN"
+}

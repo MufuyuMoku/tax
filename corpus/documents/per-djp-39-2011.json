@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-39-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "39",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-39-2011--b000-1",
+  "per-djp-39-2011--b001-2",
+  "per-djp-39-2011--b002-3",
+  "per-djp-39-2011--b003-4",
+  "per-djp-39-2011--b004-5",
+  "per-djp-39-2011--b005-6",
+  "per-djp-39-2011--b006-7",
+  "per-djp-39-2011--b007-8",
+  "per-djp-39-2011--b008-9",
+  "per-djp-39-2011--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-1-2014",
+    "key": [
+     "PER-DJP",
+     "1",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-1/PJ/2014",
+    "quote": "Pasal 9 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2011 tentang Tata Cara Penyampaian Surat Pemberitahuan Tahunan Bagi Wajib Pajak Orang Pribadi yang Menggunakan Formulir 1770S atau 1770SS secara e-Filing melalui Website Direktorat Jenderal Pajak (www.pajak.go.id) dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENGGUNAKAN FORMULIR 1770S ATAU 1770SS SECARA E-FILING MELALUI WEBSITE DIREKTORAT JENDERAL PAJAK (WWW.PAJAK.GO.ID)"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-23",
+   "detail_error": null,
+   "number_as_written": "PER-39/PJ/2011",
+   "retrieved_at": "2026-10-04T07:40:04+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENGGUNAKAN FORMULIR 1770S ATAU 1770SS SECARA E-FILING MELALUI WEBSITE DIREKTORAT JENDERAL PAJAK (WWW.PAJAK.GO.ID)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-tahunan-bagi-wajib-pajak-orang-pribadi-yang"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=120",
+   "retrieved_at": "2026-10-03T03:16:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-tahunan-bagi-wajib-pajak-orang-pribadi-yang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11769,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:40:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-tahunan-bagi-wajib-pajak-orang-pribadi-yang"
+ },
+ "title": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENGGUNAKAN FORMULIR 1770S ATAU 1770SS SECARA E-FILING MELALUI WEBSITE DIREKTORAT JENDERAL PAJAK (WWW.PAJAK.GO.ID)"
+}

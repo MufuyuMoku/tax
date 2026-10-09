@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-449-kmk-04-1997",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "1997"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -74,7 +81,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

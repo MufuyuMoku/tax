@@ -12,6 +12,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/PP_20_2026_Perubahan%20PP%2055%20Tahun%202022.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "perpres-20-2026",
  "identity": {
@@ -34,6 +40,7 @@
    "title": "Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan"
   }
  ],
+ "original_files": [],
  "pasal_ids": [
   "perpres-20-2026--b000-i",
   "perpres-20-2026--b001-ii",
@@ -81,7 +88,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

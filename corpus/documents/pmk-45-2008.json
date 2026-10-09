@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-45-2008",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2008"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-45-2008--b000-1",
   "pmk-45-2008--b001-2",
@@ -23,7 +38,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-74-2010",
+    "key": [
+     "PMK",
+     "74",
+     "2010",
+     null
+    ],
+    "number_as_written": "74/PMK.03/2010",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku, Peraturan Menteri Keuangan Nomor 45/PMK.03/2008 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak Dengan Menggunakan Norma Penghitungan Penghasilan Neto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MEMPUNYAI PEREDARAN USAHA TIDAK MELEBIHI JUMLAH TERTENTU"
+   }
+  ],
   "revokes": [
    {
     "key": [

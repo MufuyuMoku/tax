@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-23-2014--b000-i",
+  "per-djp-23-2014--b001-ii",
+  "per-djp-23-2014--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-08-14",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2014",
+   "retrieved_at": "2026-10-04T04:11:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-27/PJ/2012 TENTANG BENTUK DAN ISI NOTA PENGHITUNGAN, BENTUK DAN ISI SURAT KETETAPAN PAJAK SERTA BENTUK DAN ISI SURAT TAGIHAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-27pj2012-tentang-bentuk-dan-isi-nota"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=89",
+   "retrieved_at": "2026-10-03T03:03:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-27pj2012-tentang-bentuk-dan-isi-nota",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4597,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:11:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-27pj2012-tentang-bentuk-dan-isi-nota"
+ },
+ "title": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-27/PJ/2012 TENTANG BENTUK DAN ISI NOTA PENGHITUNGAN, BENTUK DAN ISI SURAT KETETAPAN PAJAK SERTA BENTUK DAN ISI SURAT TAGIHAN PAJAK"
+}

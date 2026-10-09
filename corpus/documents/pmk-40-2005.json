@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-40-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "40",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-40-2005--b000-1",
+  "pmk-40-2005--b001-2",
+  "pmk-40-2005--b002-3",
+  "pmk-40-2005--b003-4",
+  "pmk-40-2005--b004-5",
+  "pmk-40-2005--b005-6",
+  "pmk-40-2005--b006-7",
+  "pmk-40-2005--b007-8",
+  "pmk-40-2005--b008-9",
+  "pmk-40-2005--b009-10",
+  "pmk-40-2005--b010-11",
+  "pmk-40-2005--b011-12",
+  "pmk-40-2005--b012-13",
+  "pmk-40-2005--b013-14",
+  "pmk-40-2005--b014-15",
+  "pmk-40-2005--b015-16"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-226-2013",
+    "key": [
+     "PMK",
+     "226",
+     "2013",
+     null
+    ],
+    "number_as_written": "226/PMK.03/2013",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 40/PMK.03/2005 tentang Tata Cara Pemberian Imbalan Bunga kepada Wajib Pajak; 2. Peraturan Menteri Keuangan Nomor 121/PMK.06/2005 tentang Tata Cara Pemberian Imbalan Bunga Pajak Bumi dan Bangunan kepada Wajib Pajak; 3. Peraturan Menteri Keuangan Nomor 195/PMK.03/2007 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga; dan 4. Peraturan Menteri Keuangan Nomor 12/PMK.03/2011 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 195/PMK.03/2007 tentang Tata Cara Penghitungan dan Pemberian Imbalan Bunga, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGHITUNGAN DAN PEMBERIAN IMBALAN BUNGA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "683/KMK.03",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 683/KMK.03/2001",
+    "quote": "Pasal 15 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 683/KMK.03/2001 tentang Tata Cara Pemberian Imbalan Bunga Kepada Wajib Pajak dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-683-kmk-03-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-06-06",
+   "detail_error": null,
+   "number_as_written": "40/PMK.03/2005",
+   "retrieved_at": "2026-10-05T03:01:28+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-imbalan-bunga-kepada-wajib-pajak-2"
+  },
+  {
+   "date_as_written": "2005-06-06 00:00:00",
+   "number_as_written": "40/PMK.03/2005",
+   "retrieved_at": "2026-09-21T14:46:38+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Imbalan Bumga Kepada Wajib Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2005"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=199",
+   "retrieved_at": "2026-10-03T03:46:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-imbalan-bunga-kepada-wajib-pajak-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=464",
+   "retrieved_at": "2026-09-21T14:46:38+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13872,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:01:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-imbalan-bunga-kepada-wajib-pajak-2"
+ },
+ "title": "TATA CARA PEMBERIAN IMBALAN BUNGA KEPADA WAJIB PAJAK"
+}

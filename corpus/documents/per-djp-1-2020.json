@@ -1,0 +1,151 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-1-2020--b000-1",
+  "per-djp-1-2020--b001-2",
+  "per-djp-1-2020--b002-3",
+  "per-djp-1-2020--b003-4",
+  "per-djp-1-2020--b004-5",
+  "per-djp-1-2020--b005-6",
+  "per-djp-1-2020--b006-7",
+  "per-djp-1-2020--b007-8",
+  "per-djp-1-2020--b008-9",
+  "per-djp-1-2020--b009-10",
+  "per-djp-1-2020--b010-11",
+  "per-djp-1-2020--b011-12",
+  "per-djp-1-2020--b012-13",
+  "per-djp-1-2020--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-25-2025",
+    "key": [
+     "PER-DJP",
+     "25",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-25/PJ/2025",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … c. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2020 tentang Penggolongan Kualitas Piutang Pajak dan Tata Cara Penghitungan Penyisihan Piutang Pajak; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2020 tentang Pedoman Akuntansi Piutang Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KEBIJAKAN AKUNTANSI MODUL REVENUE ACCOUNTING"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012",
+    "quote": "Pasal 13 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang Pajak; … d. Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2013 tentang Perubahan Ketiga Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2012"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2013",
+    "quote": "Pasal 13 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2013 tentang Perubahan Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang Pajak; c. Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2013 tentang Perubahan Kedua Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang Pajak; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2013 tentang Perubahan Ketiga Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2013"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "7",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2013",
+    "quote": "Pasal 13 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … c. Peraturan Direktur Jenderal Pajak Nomor PER-07/PJ/2013 tentang Perubahan Kedua Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang Pajak; dan d. Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2013 tentang Perubahan Ketiga Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-7-2013"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "39",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2013",
+    "quote": "Pasal 13 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … d. Peraturan Direktur Jenderal Pajak Nomor PER-39/PJ/2013 tentang Perubahan Ketiga Atas Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2012 tentang Penggolongan Kualitas Piutang Pajak dan Cara Penghitungan Penyisihan Piutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-39-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-01-13",
+   "detail_error": null,
+   "number_as_written": "PER-01/PJ/2020",
+   "retrieved_at": "2026-10-04T03:32:23+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGGOLONGAN KUALITAS PIUTANG PAJAK DAN TATA CARA PENGHITUNGAN PENYISIHAN PIUTANG PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penggolongan-kualitas-piutang-pajak-dan-tata-cara-penghitungan-penyisihan-piutang-pajak"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 25/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=45",
+   "retrieved_at": "2026-10-03T02:48:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/index.php/id/peraturan/penggolongan-kualitas-piutang-pajak-dan-tata-cara-penghitungan-penyisihan-piutang-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18045,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:32:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/index.php/id/peraturan/penggolongan-kualitas-piutang-pajak-dan-tata-cara-penghitungan-penyisihan-piutang-pajak"
+ },
+ "title": "PENGGOLONGAN KUALITAS PIUTANG PAJAK DAN TATA CARA PENGHITUNGAN PENYISIHAN PIUTANG PAJAK"
+}

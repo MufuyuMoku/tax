@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-18-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "18",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-18-2010--b000-i",
+  "per-djp-18-2010--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "6",
+     "2008",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 6/PJ/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor 6/PJ/2008 tentang Tata Cara Pengurangan Denda Administrasi Pajak Bumi dan Bangunan diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-6-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-26",
+   "detail_error": null,
+   "number_as_written": "PER-18/PJ/2010",
+   "retrieved_at": "2026-10-05T01:23:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-6/PJ./2008 TENTANG TATA CARA PENGURANGAN DENDA ADMINISTRASI PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-6pj2008-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=134",
+   "retrieved_at": "2026-10-03T03:21:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-6pj2008-tentang-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5046,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:23:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-6pj2008-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-6/PJ./2008 TENTANG TATA CARA PENGURANGAN DENDA ADMINISTRASI PAJAK BUMI DAN BANGUNAN"
+}

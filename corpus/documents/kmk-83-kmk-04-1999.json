@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-83-kmk-04-1999",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "1999"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {

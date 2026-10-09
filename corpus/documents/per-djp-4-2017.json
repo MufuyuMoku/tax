@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-4-2017",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "4",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-4-2017--b000-1",
+  "per-djp-4-2017--b001-2",
+  "per-djp-4-2017--b002-3",
+  "per-djp-4-2017--b003-4",
+  "per-djp-4-2017--b004-5",
+  "per-djp-4-2017--b005-6",
+  "per-djp-4-2017--b006-7",
+  "per-djp-4-2017--b007-8",
+  "per-djp-4-2017--b008-9",
+  "per-djp-4-2017--b009-10",
+  "per-djp-4-2017--b010-11",
+  "per-djp-4-2017--b011-12",
+  "per-djp-4-2017--b012-13",
+  "per-djp-4-2017--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-03-31",
+   "detail_error": null,
+   "number_as_written": "PER-04/PJ/2017",
+   "retrieved_at": "2026-10-04T03:45:18+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, ISI, TATA CARA PENGISIAN DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 23 DAN/ ATAU PASAL 26 SERTA BENTUK BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 23 DAN/ATAU PASAL 26",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-tata-cara-pengisian-dan-penyampaian-surat-pemberitahuan-masa-pajak-1"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=63",
+   "retrieved_at": "2026-10-03T02:54:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-tata-cara-pengisian-dan-penyampaian-surat-pemberitahuan-masa-pajak-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17743,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:45:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-tata-cara-pengisian-dan-penyampaian-surat-pemberitahuan-masa-pajak-1"
+ },
+ "title": "BENTUK, ISI, TATA CARA PENGISIAN DAN PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 23 DAN/ ATAU PASAL 26 SERTA BENTUK BUKTI PEMOTONGAN PAJAK PENGHASILAN PASAL 23 DAN/ATAU PASAL 26"
+}

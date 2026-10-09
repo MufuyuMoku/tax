@@ -1,0 +1,120 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-64-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "64",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-64-2013--b000-1",
+  "pmk-64-2013--b001-2",
+  "pmk-64-2013--b002-3",
+  "pmk-64-2013--b003-4",
+  "pmk-64-2013--b004-5",
+  "pmk-64-2013--b005-6",
+  "pmk-64-2013--b006-7",
+  "pmk-64-2013--b007-8",
+  "pmk-64-2013--b008-9",
+  "pmk-64-2013--b009-10",
+  "pmk-64-2013--b010-11",
+  "pmk-64-2013--b011-12",
+  "pmk-64-2013--b012-13",
+  "pmk-64-2013--b013-14",
+  "pmk-64-2013--b014-15",
+  "pmk-64-2013--b015-16",
+  "pmk-64-2013--b016-17",
+  "pmk-64-2013--b017-18",
+  "pmk-64-2013--b018-19",
+  "pmk-64-2013--b019-20"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-85-2019",
+    "key": [
+     "PMK",
+     "85",
+     "2019",
+     null
+    ],
+    "number_as_written": "85/PMK.03/2019",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 64/PMK.05/2013 tentang Mekanisme Pengawasan terhadap Pemotongan/Pemungutan dan Penyetoran Pajak yang Dilakukan oleh Bendahara Pengeluaran Satuan Kerja Perangkat Daerah/ Kuasa Bendahara Umum Daerah (Berita Negara Republik Indonesia Tahun 2013 Nomor 438), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "MEKANISME PENGAWASAN TERHADAP PEMOTONGAN /PEMUNGUTAN DAN PENYETORAN PAJAK ATAS BELANJA YANG BERSUMBER DARI ANGGARAN PENDAPATAN DAN BELANJA DAERAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-03-15",
+   "detail_error": null,
+   "number_as_written": "64/PMK.05/2013",
+   "retrieved_at": "2026-10-04T04:26:58+00:00",
+   "source": "DJP",
+   "title_as_written": "MEKANISME PENGAWASAN TERHADAP PEMOTONGAN/PEMUNGUTAN DAN PENYETORAN PAJAK YANG DILAKUKAN OLEH BENDAHARA PENGELUARAN SATUAN KERJA PERANGKAT DAERAH/KUASA BENDAHARA UMUM DAERAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan"
+  },
+  {
+   "date_as_written": "2013-03-15 00:00:00",
+   "number_as_written": "64/PMK.05/2013",
+   "retrieved_at": "2026-09-21T14:34:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Mekanisme Pengawasan Terhadap Pemotongan/Pemungutan dan Penyetoran Pajak yang Dilakukan oleh Bendahara Pengeluaran Satuan Kerja Perangkat Daerah/Kuasa Bendahara Umum Daerah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-05-2013"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=103",
+   "retrieved_at": "2026-10-03T03:10:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=286",
+   "retrieved_at": "2026-09-21T14:34:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/64-pmk-05-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 22269,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:26:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pengawasan-terhadap-pemotonganpemungutan-dan-penyetoran-pajak-yang-dilakukan"
+ },
+ "title": "MEKANISME PENGAWASAN TERHADAP PEMOTONGAN/PEMUNGUTAN DAN PENYETORAN PAJAK YANG DILAKUKAN OLEH BENDAHARA PENGELUARAN SATUAN KERJA PERANGKAT DAERAH/KUASA BENDAHARA UMUM DAERAH"
+}

@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-180-2007",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "180",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-180-2007--b000-1",
+  "per-djp-180-2007--b001-2",
+  "per-djp-180-2007--b002-3",
+  "per-djp-180-2007--b003-4",
+  "per-djp-180-2007--b004-5",
+  "per-djp-180-2007--b005-6",
+  "per-djp-180-2007--b006-7",
+  "per-djp-180-2007--b007-8",
+  "per-djp-180-2007--b008-9",
+  "per-djp-180-2007--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-14-2008",
+    "key": [
+     "PER-DJP",
+     "14",
+     "2008",
+     null
+    ],
+    "number_as_written": "PER-14/PJ./2008",
+    "quote": "Pasal 10 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor : PER-180/PJ./2007, tanggal 28 Desember 2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DALAM BENTUK FORMULIR KERTAS (HARD COPY) BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KPP PRATAMA, DALAM RANGKA PENGOLAHAN DATA DAN DOKUMEN DI PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "PER-180/PJ/2007",
+   "retrieved_at": "2026-10-05T02:23:39+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DALAM BENTUK FORMULIR KERTAS (HARD COPY) BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KPP PRATAMA JAKARTA GAMBIR DUA, KPP PRATAMA JAKARTA GAMBIR TIGA, DAN KPP PRATAMA JAKARTA TANAH ABANG SATU DALAM RANGKA UJI COBA PENGOLAHAN DATA DAN DOKUMEN DI KANTOR PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-2"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=174",
+   "retrieved_at": "2026-10-03T03:35:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8830,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:23:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-2"
+ },
+ "title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DALAM BENTUK FORMULIR KERTAS (HARD COPY) BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KPP PRATAMA JAKARTA GAMBIR DUA, KPP PRATAMA JAKARTA GAMBIR TIGA, DAN KPP PRATAMA JAKARTA TANAH ABANG SATU DALAM RANGKA UJI COBA PENGOLAHAN DATA DAN DOKUMEN DI KANTOR PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN"
+}

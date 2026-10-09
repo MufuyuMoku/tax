@@ -1,0 +1,86 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran Peraturan Direktur Jenderal Pajak Nomor _ PER-26_PJ_2020.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "26",
+    "year": "2020"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20Peraturan%20Direktur%20Jenderal%20Pajak%20Nomor%20_%20PER-26_PJ_2020.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-26-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "26",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-26-2020--b000-1",
+  "per-djp-26-2020--b001-2",
+  "per-djp-26-2020--b002-3",
+  "per-djp-26-2020--b003-4",
+  "per-djp-26-2020--b004-5",
+  "per-djp-26-2020--b005-6",
+  "per-djp-26-2020--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-12-31",
+   "detail_error": null,
+   "number_as_written": "PER-26/PJ/2020",
+   "retrieved_at": "2026-10-04T03:19:57+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGAJUAN PERMOHONAN PENYEDIAAN PEMBICARA, PEMBAHAS, ATAU MODERATOR DALAM KEGIATAN SEMINAR, LOKAKARYA, GELAR WICARA, ATAU KEGIATAN SEJENIS LAINNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-permohonan-penyediaan-pembicara-pembahas-atau-moderator-dalam"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=33",
+   "retrieved_at": "2026-10-03T02:44:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-permohonan-penyediaan-pembicara-pembahas-atau-moderator-dalam",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13186,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:19:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-permohonan-penyediaan-pembicara-pembahas-atau-moderator-dalam"
+ },
+ "title": "TATA CARA PENGAJUAN PERMOHONAN PENYEDIAAN PEMBICARA, PEMBAHAS, ATAU MODERATOR DALAM KEGIATAN SEMINAR, LOKAKARYA, GELAR WICARA, ATAU KEGIATAN SEJENIS LAINNYA"
+}

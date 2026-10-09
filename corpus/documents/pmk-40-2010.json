@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-40-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "40",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-40-2010--b000-1",
+  "pmk-40-2010--b001-2",
+  "pmk-40-2010--b002-3",
+  "pmk-40-2010--b003-4",
+  "pmk-40-2010--b004-5",
+  "pmk-40-2010--b005-6",
+  "pmk-40-2010--b006-7",
+  "pmk-40-2010--b007-8",
+  "pmk-40-2010--b008-9",
+  "pmk-40-2010--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "568/KMK.03",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 568/KMK.03/2000",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 568/KMK.03/2000 tentang Tata Cara Penghitungan, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan atau Jasa Kena Pajak dari Luar Daerah Pabean, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-568-kmk-03-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-02-22",
+   "detail_error": null,
+   "number_as_written": "40/PMK.03/2010",
+   "retrieved_at": "2026-10-05T01:28:07+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHITUNGAN, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-0"
+  },
+  {
+   "date_as_written": "2010-02-22 00:00:00",
+   "number_as_written": "40/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:40:07+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penghitungan, Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai atas Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak Dari Luar Daerah Pabean.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=136",
+   "retrieved_at": "2026-10-03T03:22:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=366",
+   "retrieved_at": "2026-09-21T14:40:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/40-pmk-03-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9473,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:28:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghitungan-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-atas-0"
+ },
+ "title": "TATA CARA PENGHITUNGAN, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN"
+}

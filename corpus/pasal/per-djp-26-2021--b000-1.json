@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1658,
+ "document_id": "per-djp-26-2021",
+ "document_number": "PER-26/PJ/2021",
+ "document_title": "TATA CARA PEMUNGUTAN BEA METERAI DALAM HAL TERJADI KEGAGALAN SISTEM METERAI ELEKTRONIK",
+ "id": "per-djp-26-2021--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal ini, yang dimaksud dengan:\n1.\nBea Meterai adalah pajak atas dokumen.\n2..\nDokumen adalah sesuatu yang ditulis atau tulisan, dalam bentuk tulisan tangan, cetakan, atau elektronik, yang dapat dipakai sebagai alat bukti atau keterangan.\n3.\nPemungut Bea Meterai adalah pihak yang wajib memungut Bea Meterai yang terutang atas Dokumen tertentu dari Pihak Yang Terutang, menyetorkan Bea Meterai ke kas negara, clan melaporkan pemungutan dan penyetoran Bea Meterai ke Direktorat Jenderal Pajak.\n4.\nPihak Yang Terutang adalah pihak yang dikenai Bea Meterai dan wajib membayar Bea Meterai yang terutang.\n5.\nMeterai Percetakan adalah meterai berupa label yang penggunaannya dilakukan dengan cara dibubuhkan pada Dokumen dengan menggunakan teknologi percetakan.\n6.\nMeterai Elektronik adalah meterai berupa label yang penggunaannya dilakukan dengan cara dibubuhkan pada Dokumen melalui sistem tertentu.\n7.\nSistem Meterai Elektronik adalah sistem tertentu berupa serangkaian perangkat dan prosedur elektronik dalam sistem atau aplikasi terintegrasi yang berfungsi membuat, mendistribusikan, dan membubuhkan Meterai Elektronik.\n8.\nApplication Programming Interface\nyang selanjutnya disingkat API adalah sekumpulan perintah, fungsi, serta protokol yang mengintegrasikan 2 (dua) bagian dari aplikasi atau dengan aplikasi yang berbeda secara bersamaan.\n9.\nSurat Pemberitahuan Masa Bea Meterai yang selanjutnya disebut SPT Masa Bea Meterai adalah surat pemberitahuan yang digunakan oleh Pemungut Surat Pemberitahuan Masa Bea Meterai yang selanjutnya disebut SPT Masa Bea Meterai adalah surat pemberitahuan yang digunakan oleh Pemungut.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:13:04+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-bea-meterai-dalam-hal-terjadi-kegagalan-sistem-meterai-elektronik"
+ }
+}

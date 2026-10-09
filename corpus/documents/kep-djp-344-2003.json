@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-344-2003",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "344",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-09-17",
+   "detail_error": null,
+   "number_as_written": "KEP-344/PJ/2003",
+   "retrieved_at": "2026-10-05T03:14:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PENAMBAHAN WAJIB PAJAK TERTENTU YANG TERDAFTAR DAN MELAPORKAN USAHANYA PADA KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR SATU DAN KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR DUA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penambahan-wajib-pajak-tertentu-yang-terdaftar-dan-melaporkan-usahanya-pada-kantor"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=207",
+   "retrieved_at": "2026-10-03T03:49:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penambahan-wajib-pajak-tertentu-yang-terdaftar-dan-melaporkan-usahanya-pada-kantor",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENAMBAHAN WAJIB PAJAK TERTENTU YANG TERDAFTAR DAN MELAPORKAN USAHANYA PADA KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR SATU DAN KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR DUA"
+}

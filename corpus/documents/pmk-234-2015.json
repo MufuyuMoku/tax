@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-234-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "234",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-12-21",
+   "detail_error": null,
+   "number_as_written": "234/PMK.01/2015",
+   "retrieved_at": "2026-10-04T03:50:52+00:00",
+   "source": "DJP",
+   "title_as_written": "ORGANISASI DAN TATA KERJA KEMENTERIAN KEUANGAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-kementerian-keuangan"
+  },
+  {
+   "date_as_written": "2015-12-21 00:00:00",
+   "number_as_written": "234/PMK.01/2015",
+   "retrieved_at": "2026-09-21T14:29:59+00:00",
+   "source": "JDIH",
+   "title_as_written": "Organisasi dan Tata Kerja Kementerian Keuangan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-01-2015"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=70",
+   "retrieved_at": "2026-10-03T02:57:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-kementerian-keuangan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=218",
+   "retrieved_at": "2026-09-21T14:29:59+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-01-2015",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 1695,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:50:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-kementerian-keuangan"
+ },
+ "title": "ORGANISASI DAN TATA KERJA KEMENTERIAN KEUANGAN"
+}

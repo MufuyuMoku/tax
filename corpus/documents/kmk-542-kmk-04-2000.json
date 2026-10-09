@@ -1,0 +1,113 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-542-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "542/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-21-2008",
+    "key": [
+     "PMK",
+     "21",
+     "2008",
+     null
+    ],
+    "number_as_written": "21/PMK.03/2008",
+    "quote": "Pasal 11 Pada saat berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 542/KMK.04/2000 tentang Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Ketetapan Pajak dinyatakan tidak berlaku kecuali untuk permohonan pengurangan atau penghapusan sanksi administrasi, dan pengurangan atau pembatalan ketetapan pajak yang tidak benar untuk Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak sebelum 1 Januari 2008.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI, PENGURANGAN ATAU PEMBATALAN SURAT KETETAPAN PAJAK ATAU SURAT TAGIHAN PAJAK YANG TIDAK BENAR, DAN PEMBATALAN HASIL PEMERIKSAAN"
+   },
+   {
+    "id": "pmk-8-2013",
+    "key": [
+     "PMK",
+     "8",
+     "2013",
+     null
+    ],
+    "number_as_written": "8/PMK.03/2013",
+    "quote": "Pasal 40 Pada saat Peraturan Menteri ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 542/KMK.04/2000 tentang Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Ketetapan Pajak; b. Peraturan Menteri Keuangan Nomor 21/PMK.03/2008 tentang Tata Cara Pengurangan atau Penghapusan Sanksi Administrasi, Pengurangan atau Pembatalan Surat Ketetapan Pajak atau Surat Tagihan Pajak yang Tidak Benar, dan Pembatalan Hasil Pemeriksaan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN SURAT KETETAPAN PAJAK ATAU SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-22",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "542/KMK.04/2000",
+   "retrieved_at": "2026-10-03T03:57:25+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-atau-penghapusan-sanksi-administrasi-dan-pengurangan-atau"
+  },
+  {
+   "date_as_written": "2000-12-22 00:00:00",
+   "number_as_written": "542/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Pengurangan atau Penghapusan Sanksi Administrasi dan Pengurangan atau Pembatalan Ketetapan Pajak",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/542-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=224",
+   "retrieved_at": "2026-10-03T03:57:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengurangan-atau-penghapusan-sanksi-administrasi-dan-pengurangan-atau",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:49:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/542-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI DAN PENGURANGAN ATAU PEMBATALAN KETETAPAN PAJAK"
+}

@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-227-2015",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2015"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-227-2015--b000-1",
   "pmk-227-2015--b001-2",
@@ -50,10 +61,29 @@
    "title_as_written": "NILAI TUKAR MATA UANG YANG DIGUNAKAN UNTUK PENGHITUNGAN DAN PEMBAYARAN BEA MASUK",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-0"
+  },
+  {
+   "date_as_written": "2015-12-16",
+   "detail_error": null,
+   "number_as_written": "227/PMK.04/2015",
+   "retrieved_at": "2026-10-04T03:51:33+00:00",
+   "source": "DJP",
+   "title_as_written": "NILAI TUKAR MATA UANG YANG DIGUNAKAN UNTUK PENGHITUNGAN DAN PEMBAYARAN BEA MASUK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-1"
+  },
+  {
+   "date_as_written": "2015-12-16 00:00:00",
+   "number_as_written": "227/PMK.04/2015",
+   "retrieved_at": "2026-09-21T14:30:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Nilai Tukar Mata Uang yang Digunakan untuk Penghitungan dan Pembayaran Bea Masuk.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/227-pmk-04-2015"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -65,18 +95,42 @@
    "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=70",
+   "retrieved_at": "2026-10-03T02:57:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=219",
+   "retrieved_at": "2026-09-21T14:30:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/227-pmk-04-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",
  "text": {
   "available": true,
-  "chars": 6574,
+  "chars": 6581,
   "format": "html",
-  "other_postings": [],
-  "retrieved_at": "2026-09-22T02:22:10+00:00",
+  "other_postings": [
+   {
+    "chars": 6574,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-09-22T02:22:10+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-0"
+   }
+  ],
+  "retrieved_at": "2026-10-04T03:51:33+00:00",
   "source": "DJP",
   "unavailable_reason": null,
-  "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-0"
+  "url": "https://www.pajak.go.id/id/peraturan/nilai-tukar-mata-uang-yang-digunakan-untuk-penghitungan-dan-pembayaran-bea-masuk-1"
  },
  "title": "NILAI TUKAR MATA UANG YANG DIGUNAKAN UNTUK PENGHITUNGAN DAN PEMBAYARAN BEA MASUK"
 }

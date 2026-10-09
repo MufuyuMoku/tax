@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-191-2015",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2015"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-191-2015--b000-1",
   "pmk-191-2015--b001-2",
@@ -75,7 +82,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },

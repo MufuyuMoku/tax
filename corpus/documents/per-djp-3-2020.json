@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-3-2020",
  "identity": {
@@ -9,16 +19,53 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2020--b000-1",
+  "per-djp-3-2020--b001-2",
+  "per-djp-3-2020--b002-3",
+  "per-djp-3-2020--b003-4",
+  "per-djp-3-2020--b004-5",
+  "per-djp-3-2020--b005-6",
+  "per-djp-3-2020--b006-7",
+  "per-djp-3-2020--b007-8",
+  "per-djp-3-2020--b008-9",
+  "per-djp-3-2020--b009-10",
+  "per-djp-3-2020--b010-11"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
   "revoked_by": [],
-  "revokes": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "1",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2013",
+    "quote": "Pasal 10 Dengan berlakunya Peraturan Direktur Jenderal ini, maka Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2013 tentang Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-1-2013"
+   }
+  ],
   "source_listed_related": []
  },
  "source_records": [
+  {
+   "date_as_written": "2020-02-20",
+   "detail_error": null,
+   "number_as_written": "PER-03/PJ/2020",
+   "retrieved_at": "2026-10-04T03:31:21+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN ATAU TELAH MENDAPATKAN IZIN DARI OTORITAS JASA KEUANGAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-keterangan-bebas-pemotongan-pajak-penghasilan-atas-bunga-0"
+  },
   {
    "date_as_written": "2020-02-20 00:00:00",
    "number_as_written": "PER-03/PJ/2020",
@@ -33,11 +80,19 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=44",
+   "retrieved_at": "2026-10-03T02:48:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-keterangan-bebas-pemotongan-pajak-penghasilan-atas-bunga-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=26",
    "retrieved_at": "2026-09-21T14:57:01+00:00",
@@ -47,16 +102,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 11607,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-04T03:31:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-keterangan-bebas-pemotongan-pajak-penghasilan-atas-bunga-0"
  },
- "title": "Tata Cara Penerbitan Surat Keterangan Bebas Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan serta Diskonto Sertifikat Bank Indonesia yang Diterima atau Diperoleh Dana Pensiun yang Pendiriannya Telah Disahkan oleh Menteri Keuangan atau Telah Mendapatkan Izin dari Otoritas Jasa Keuangan"
+ "title": "TATA CARA PENERBITAN SURAT KETERANGAN BEBAS PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DEPOSITO DAN TABUNGAN SERTA DISKONTO SERTIFIKAT BANK INDONESIA YANG DITERIMA ATAU DIPEROLEH DANA PENSIUN YANG PENDIRIANNYA TELAH DISAHKAN OLEH MENTERI KEUANGAN ATAU TELAH MENDAPATKAN IZIN DARI OTORITAS JASA KEUANGAN"
 }

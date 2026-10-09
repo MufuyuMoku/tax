@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-18-1995",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "1995"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -28,10 +39,20 @@
    "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-05/PJ.24/1995 TANGGAL 3 PEBRUARI 1995 TENTANG BENTUK SURAT TAGIHAN PAJAK DAN SURAT KETETAPAN PAJAK ATAS PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
    "type_as_written": "Keputusan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-05pj241995-tanggal-3-pebruari"
+  },
+  {
+   "date_as_written": "1995-02-23",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 18/PJ/1995",
+   "retrieved_at": "2026-10-03T04:02:37+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYEGELAN DALAM RANGKA PEMERIKSAAN DI BIDANG PERPAJAKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyegelan-dalam-rangka-pemeriksaan-di-bidang-perpajakan-0"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -41,6 +62,14 @@
    "retrieved_at": "2026-09-21T14:41:52+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-05pj241995-tanggal-3-pebruari",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=239",
+   "retrieved_at": "2026-10-03T04:02:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyegelan-dalam-rangka-pemeriksaan-di-bidang-perpajakan-0",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
   }
@@ -53,7 +82,7 @@
   "other_postings": [],
   "retrieved_at": null,
   "source": null,
-  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "unavailable_reason": "halaman detail sumber belum diambil",
   "url": null
  },
  "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-05/PJ.24/1995 TANGGAL 3 PEBRUARI 1995 TENTANG BENTUK SURAT TAGIHAN PAJAK DAN SURAT KETETAPAN PAJAK ATAS PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH"

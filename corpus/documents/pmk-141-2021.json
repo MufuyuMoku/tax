@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran_141_PMK.010_2021.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-141-2021",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2021"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-141-2021--b000-1",
   "pmk-141-2021--b001-2",
@@ -128,7 +135,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

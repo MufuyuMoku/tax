@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-27-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "27",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-27-2016--b000-1",
+  "per-djp-27-2016--b001-2",
+  "per-djp-27-2016--b002-3",
+  "per-djp-27-2016--b003-4",
+  "per-djp-27-2016--b004-5",
+  "per-djp-27-2016--b005-6",
+  "per-djp-27-2016--b006-7",
+  "per-djp-27-2016--b007-8",
+  "per-djp-27-2016--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "SE",
+     "55",
+     "2008",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-55/PJ/2008",
+    "quote": "Pasal 7 a. Surat Edaran Direktur Jenderal Pajak Nomor SE-55/PJ/2008 tentang Peningkatan Kualitas Pelayanan Perpajakan; b. Surat Edaran Direktur Jenderal Pajak Nomor SE-02/PJ/2010 tentang Pelayanan Administrasi Perpajakan Dalam Hal Terjadi Gangguan Pada Sistem Informasi Direktorat Jenderal Pajak (DJP); c. Surat Edaran Direktur Jenderal Pajak Nomor SE-84/PJ/2011 tentang Pelayanan Prima; dan d. Surat Edaran Direktur Jenderal Pajak Nomor SE-09/PJ/2013 tentang Panduan Pelayanan Prima Direktorat Jenderal Pajak. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "se-55-2008"
+   },
+   {
+    "key": [
+     "SE",
+     "2",
+     "2010",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-02/PJ/2010",
+    "quote": "… b. Surat Edaran Direktur Jenderal Pajak Nomor SE-02/PJ/2010 tentang Pelayanan Administrasi Perpajakan Dalam Hal Terjadi Gangguan Pada Sistem Informasi Direktorat Jenderal Pajak (DJP); c. Surat Edaran Direktur Jenderal Pajak Nomor SE-84/PJ/2011 tentang Pelayanan Prima; dan d. Surat Edaran Direktur Jenderal Pajak Nomor SE-09/PJ/2013 tentang Panduan Pelayanan Prima Direktorat Jenderal Pajak. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "se-2-2010"
+   },
+   {
+    "key": [
+     "SE",
+     "84",
+     "2011",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-84/PJ/2011",
+    "quote": "… c. Surat Edaran Direktur Jenderal Pajak Nomor SE-84/PJ/2011 tentang Pelayanan Prima; dan d. Surat Edaran Direktur Jenderal Pajak Nomor SE-09/PJ/2013 tentang Panduan Pelayanan Prima Direktorat Jenderal Pajak. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "se-84-2011"
+   },
+   {
+    "key": [
+     "SE",
+     "9",
+     "2013",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-09/PJ/2013",
+    "quote": "… d. Surat Edaran Direktur Jenderal Pajak Nomor SE-09/PJ/2013 tentang Panduan Pelayanan Prima Direktorat Jenderal Pajak. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "se-9-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-12-22",
+   "detail_error": null,
+   "number_as_written": "PER-27/PJ/2016",
+   "retrieved_at": "2026-10-04T03:46:39+00:00",
+   "source": "DJP",
+   "title_as_written": "STANDAR PELAYANAN DI TEMPAT PELAYANAN TERPADU KANTOR PELAYANAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/standar-pelayanan-di-tempat-pelayanan-terpadu-kantor-pelayanan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=64",
+   "retrieved_at": "2026-10-03T02:55:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/standar-pelayanan-di-tempat-pelayanan-terpadu-kantor-pelayanan-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10563,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:46:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/standar-pelayanan-di-tempat-pelayanan-terpadu-kantor-pelayanan-pajak"
+ },
+ "title": "STANDAR PELAYANAN DI TEMPAT PELAYANAN TERPADU KANTOR PELAYANAN PAJAK"
+}

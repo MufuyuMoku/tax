@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-7-2001",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2001"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pp-7-2001--b000-1",
   "pp-7-2001--b001-2",
@@ -51,7 +58,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

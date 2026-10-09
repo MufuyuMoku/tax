@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-17-2017",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "17",
+  "variant": null,
+  "year": "2017"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-17-2017--b000-1",
+  "per-djp-17-2017--b001-2",
+  "per-djp-17-2017--b002-3",
+  "per-djp-17-2017--b003-4",
+  "per-djp-17-2017--b004-5",
+  "per-djp-17-2017--b005-6",
+  "per-djp-17-2017--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2017-10-30",
+   "detail_error": null,
+   "number_as_written": "PER-17/PJ/2017",
+   "retrieved_at": "2026-10-04T03:43:13+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN WAJIB PAJAK BADAN SECARA ELEKTRONIK MELALUI NOTARIS",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-badan-secara-elektronik-melalui-notaris"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=61",
+   "retrieved_at": "2026-10-03T02:54:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-badan-secara-elektronik-melalui-notaris",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9425,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:43:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-wajib-pajak-badan-secara-elektronik-melalui-notaris"
+ },
+ "title": "TATA CARA PENDAFTARAN WAJIB PAJAK BADAN SECARA ELEKTRONIK MELALUI NOTARIS"
+}

@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 672,
+ "document_id": "per-djp-18-2020",
+ "document_number": "PER-18/PJ/2020",
+ "document_title": "TATA KELOLA SITUS WEB DIREKTORAT JENDERAL PAJAK",
+ "id": "per-djp-18-2020--b017-19",
+ "label": "19",
+ "order": 17,
+ "quality_flags": [
+  "urutan_loncat:15->17"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 19\n(1)\nDirektur Jenderal Pajak dapat membentuk tim pengembang Situs Web DJP yang ditetapkan dengan Keputusan Direktur Jenderal.\n(2)\nInstansi vertikal di lingkungan Direktorat Jenderal Pajak, Unit Pelaksana Teknis selain Kantor Layanan, Informasi, dan Pengaduan Direktorat Jenderal Pajak, dan Unit Eselon II di Lingkungan Kantor Pusat Direktorat Jenderal Pajak tidak diperkenankan mengembangkan, memiliki, dan mengelola situs web tersendiri yang diperuntukkan bagi pihak eksternal.\n(3)\nPenerapan\nSingle Sign-On\ndiberlakukan untuk seluruh aplikasi perpajakan daring yang dimuat dalam halaman Situs Web DJP, melalui Log Masuk di Situs Web DUP.\nBAB VII\nKETENTUAN PENUTUP",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:22:03+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-kelola-situs-web-direktorat-jenderal-pajak"
+ }
+}

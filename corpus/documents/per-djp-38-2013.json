@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-38-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "38",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-38-2013--b000-i",
+  "per-djp-38-2013--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "20",
+     "2013",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-20/PJ/2013",
+    "quote": "Ketentuan Pasal 6 ayat (1) dalam Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2013 tentang Tata Cara Pendaftaran dan Pemberian Nomor Pokok Wajib Pajak, Pelaporan Usaha dan Pengukuhan Pengusaha Kena Pajak, Penghapusan Nomor Pokok Wajib Pajak dan Pencabutan Pengukuhan Pengusaha Kena Pajak, serta Perubahan Data dan Pemindahan Wajib Pajak, diubah sehingga Pasal 6 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-20-2013"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-11-08",
+   "detail_error": null,
+   "number_as_written": "PER-38/PJ/2013",
+   "retrieved_at": "2026-10-04T04:21:29+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-20/PJ/2013 TENTANG TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-20pj2013-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=96",
+   "retrieved_at": "2026-10-03T03:06:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-20pj2013-tentang-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10819,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:21:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-20pj2013-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-20/PJ/2013 TENTANG TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+}

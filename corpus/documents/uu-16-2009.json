@@ -1,0 +1,112 @@
+{
+ "attachments": [
+  {
+   "file_name": "UU16TH.09.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/UU16TH.09.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-16-2009",
+ "identity": {
+  "code": "UU",
+  "number": "16",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "uu-16-2009--b000-1",
+  "uu-16-2009--b001-2",
+  "uu-16-2009--p002-1",
+  "uu-16-2009--p003-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "6",
+     "1983",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 6 TAHUN 1983",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "target_id": "uu-6-1983"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-25",
+   "detail_error": null,
+   "number_as_written": "16 TAHUN 2009",
+   "retrieved_at": "2026-10-05T01:47:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 5 TAHUN 2008 TENTANG PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN MENJADI UNDANG-UNDANG",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-5-tahun-2008-tentang"
+  },
+  {
+   "date_as_written": "2009-03-25 00:00:00",
+   "number_as_written": "UU 16 TAHUN 2009",
+   "retrieved_at": "2026-09-21T14:03:37+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=151",
+   "retrieved_at": "2026-10-03T03:27:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-5-tahun-2008-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=15",
+   "retrieved_at": "2026-09-21T14:03:37+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7234,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:47:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-5-tahun-2008-tentang"
+ },
+ "title": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 5 TAHUN 2008 TENTANG PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN MENJADI UNDANG-UNDANG"
+}

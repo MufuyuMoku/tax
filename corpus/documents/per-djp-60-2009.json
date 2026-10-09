@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-60-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "60",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-60-2009--b000-1",
+  "per-djp-60-2009--b001-2",
+  "per-djp-60-2009--b002-3",
+  "per-djp-60-2009--b003-4",
+  "per-djp-60-2009--b004-5",
+  "per-djp-60-2009--b005-6",
+  "per-djp-60-2009--b006-7",
+  "per-djp-60-2009--b007-8",
+  "per-djp-60-2009--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-10-29",
+   "detail_error": null,
+   "number_as_written": "PER-60/PJ/2009",
+   "retrieved_at": "2026-10-05T01:34:12+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN BAHAN BAKAR NABATI DI DALAM NEGERI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=141",
+   "retrieved_at": "2026-10-03T03:24:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7495,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:34:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-pertambahan-nilai-ditanggung-pemerintah-atas-penyerahan"
+ },
+ "title": "TATA CARA PENATAUSAHAAN PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN BAHAN BAKAR NABATI DI DALAM NEGERI"
+}

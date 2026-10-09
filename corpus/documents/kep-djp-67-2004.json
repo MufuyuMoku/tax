@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-67-2004",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "67",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-67-2004--b000-1",
+  "kep-djp-67-2004--b001-2",
+  "kep-djp-67-2004--b002-3",
+  "kep-djp-67-2004--b003-4",
+  "kep-djp-67-2004--b004-5",
+  "kep-djp-67-2004--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-91-2005",
+    "key": [
+     "PER-DJP",
+     "91",
+     "2005",
+     null
+    ],
+    "number_as_written": "PER - 91/PJ/2005",
+    "quote": "Mengubah ketentuan dalam Pasal 2 ayat (1) huruf h, huruf i, huruf l Keputusan Direktur Jenderal Pajak KEP-67/PJ./2004 sehingga menjadi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-67/PJ./2004 TENTANG TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "515",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-515/PJ./2000",
+    "quote": "Pasal 5 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-515/PJ./2000 tentang Tempat Pendaftaran Bagi Wajib Pajak Tertentu Dan Tempat Pelaporan Usaha Bagi Pengusaha Kena Pajak Tertentu sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-389/PJ/2003 dinyatakan tidak berlaku, kecuali bagi Wajib Pajak sebagaimana pada Pasal 1 angka 1 huruf b, huruf c, dan huruf d masih berlaku sampai dengan tanggal 31 Desember 2004.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-515-2000"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "389",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor : KEP-389/PJ/2003",
+    "quote": "Pasal 5 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor : KEP-515/PJ./2000 tentang Tempat Pendaftaran Bagi Wajib Pajak Tertentu Dan Tempat Pelaporan Usaha Bagi Pengusaha Kena Pajak Tertentu sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Direktur Jenderal Pajak Nomor : KEP-389/PJ/2003 dinyatakan tidak berlaku, kecuali bagi Wajib Pajak sebagaimana pada Pasal 1 angka 1 huruf b, huruf c, dan huruf d masih berlaku sampai dengan tanggal 31 Desember 2004.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-389-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-03-29",
+   "detail_error": null,
+   "number_as_written": "KEP-67/PJ/2004",
+   "retrieved_at": "2026-10-05T03:11:11+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-bagi-wajib-pajak-tertentu-dan-atau-tempat-pelaporan-usaha-bagi"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=205",
+   "retrieved_at": "2026-10-03T03:48:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-bagi-wajib-pajak-tertentu-dan-atau-tempat-pelaporan-usaha-bagi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12161,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:11:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-bagi-wajib-pajak-tertentu-dan-atau-tempat-pelaporan-usaha-bagi"
+ },
+ "title": "TEMPAT PENDAFTARAN BAGI WAJIB PAJAK TERTENTU DAN ATAU TEMPAT PELAPORAN USAHA BAGI PENGUSAHA KENA PAJAK TERTENTU"
+}

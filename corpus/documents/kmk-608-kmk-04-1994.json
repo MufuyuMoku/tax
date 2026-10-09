@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-608-kmk-04-1994",
+ "identity": {
+  "code": "KMK",
+  "number": "608/KMK.04",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-12-21",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "608/KMK.04/1994",
+   "retrieved_at": "2026-10-03T04:03:18+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-dan-penunjukan-pejabat-yang-berwenang-mengeluarkan"
+  },
+  {
+   "date_as_written": "1994-12-21 00:00:00",
+   "number_as_written": "608/KMK.04/1994",
+   "retrieved_at": "2026-09-21T14:53:51+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pelaksanaan Penagihan Pajak dan Penunjukan Pejabat yang Berwenang Mengeluarkan Surat Paksa",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/608-kmk-04-1994"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=241",
+   "retrieved_at": "2026-10-03T04:03:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-dan-penunjukan-pejabat-yang-berwenang-mengeluarkan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=103",
+   "retrieved_at": "2026-09-21T14:53:51+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/608-kmk-04-1994",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK DAN PENUNJUKAN PEJABAT YANG BERWENANG MENGELUARKAN SURAT PAKSA"
+}

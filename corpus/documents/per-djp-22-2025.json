@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-22-2025",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2025"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-22-2025--b000-i",
   "per-djp-22-2025--b001-ii"

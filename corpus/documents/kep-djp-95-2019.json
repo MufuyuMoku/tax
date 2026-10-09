@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-95-2019",
  "identity": {
@@ -16,6 +30,7 @@
    "title": "Pengecualian Pengenaan Sanksi Administrasi Berupa Denda atas Keterlambatan Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2018"
   }
  ],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-95-2019--b000-kedua",
   "kep-djp-95-2019--b001-ketiga",

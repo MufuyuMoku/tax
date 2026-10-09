@@ -1,0 +1,119 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-5-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-5-2025--b000-1",
+  "per-djp-5-2025--b001-2",
+  "per-djp-5-2025--b002-3",
+  "per-djp-5-2025--b003-4",
+  "per-djp-5-2025--b004-5",
+  "per-djp-5-2025--b005-6",
+  "per-djp-5-2025--b006-7",
+  "per-djp-5-2025--b007-8",
+  "per-djp-5-2025--b008-9",
+  "per-djp-5-2025--b009-10",
+  "per-djp-5-2025--b010-11",
+  "per-djp-5-2025--b011-12",
+  "per-djp-5-2025--b012-13",
+  "per-djp-5-2025--b013-14",
+  "per-djp-5-2025--b014-15",
+  "per-djp-5-2025--b015-16",
+  "per-djp-5-2025--b016-17",
+  "per-djp-5-2025--b017-18",
+  "per-djp-5-2025--b018-19",
+  "per-djp-5-2025--b019-20"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "11",
+     "2019",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019",
+    "quote": "Pasal 19 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan sebagaimana telah diubah dengan PER-10/PJ/2020 tentang Perubahan atas PER-11/PJ/2019 tentang Penyedia Jasa Aplikasi Perpajakan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-11-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-05-02",
+   "detail_error": null,
+   "number_as_written": "5/PJ/2025",
+   "retrieved_at": "2026-10-04T03:02:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEDIA JASA APLIKASI PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan-0"
+  },
+  {
+   "date_as_written": "2025-05-02 12:00:00",
+   "number_as_written": "PER-5/PJ/2025",
+   "retrieved_at": "2026-09-21T14:55:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyedia Jasa Aplikasi Perpajakan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-5pj2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=8",
+   "retrieved_at": "2026-10-03T02:33:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=4",
+   "retrieved_at": "2026-09-21T14:55:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-5pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 56254,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:02:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyedia-jasa-aplikasi-perpajakan-0"
+ },
+ "title": "PENYEDIA JASA APLIKASI PERPAJAKAN"
+}

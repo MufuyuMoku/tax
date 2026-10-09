@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-106-1991",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "1991"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {

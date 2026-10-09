@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-95-1984",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "95",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-08-27",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 95/PJ.BT5/1984",
+   "retrieved_at": "2026-10-03T04:06:46+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYEMPURNAAN LAMPIRAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-50/BPJ.5/1984, TANGGAL 25 APRIL 1984 TENTANG TEMPAT PENDAFTARAN DIRI WAJIB PAJAK PADA KANTOR DIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-lampiran-keputusan-direktur-jenderal-pajak-nomor-kep-50bpj51984-tanggal-25"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=251",
+   "retrieved_at": "2026-10-03T04:06:46+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-lampiran-keputusan-direktur-jenderal-pajak-nomor-kep-50bpj51984-tanggal-25",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PENYEMPURNAAN LAMPIRAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-50/BPJ.5/1984, TANGGAL 25 APRIL 1984 TENTANG TEMPAT PENDAFTARAN DIRI WAJIB PAJAK PADA KANTOR DIREKTORAT JENDERAL PAJAK"
+}

@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-34-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "34",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-34-2009--b000-1",
+  "per-djp-34-2009--b001-2",
+  "per-djp-34-2009--b002-3",
+  "per-djp-34-2009--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-66-2009",
+    "key": [
+     "PER-DJP",
+     "66",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-66/PJ./2009",
+    "quote": "Ketentuan Pasal 2 dalam Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2009 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi beserta Petunjuk Pengisiannya, diubah sehingga berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER - 34/PJ/2009 TENTANG SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI BESERTA PETUNJUK PENGISIANNYA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 4. Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ./2009 tentang Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-06-04",
+   "detail_error": null,
+   "number_as_written": "PER-34/PJ./2009",
+   "retrieved_at": "2026-10-05T01:44:37+00:00",
+   "source": "DJP",
+   "title_as_written": "SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI BESERTA PETUNJUK PENGISIANNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-tahunan-pajak-penghasilan-wajib-pajak-orang-pribadi-beserta-petunjuk"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=149",
+   "retrieved_at": "2026-10-03T03:26:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-tahunan-pajak-penghasilan-wajib-pajak-orang-pribadi-beserta-petunjuk",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5019,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:44:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-tahunan-pajak-penghasilan-wajib-pajak-orang-pribadi-beserta-petunjuk"
+ },
+ "title": "SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI BESERTA PETUNJUK PENGISIANNYA"
+}

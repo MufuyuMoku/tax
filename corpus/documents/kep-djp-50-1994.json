@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-50-1994",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "1994"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-50-1994--b000-1",
   "kep-djp-50-1994--b001-2",

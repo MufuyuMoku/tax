@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-62-2014",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "62",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-62-2014--b000-kedua",
+  "kep-djp-62-2014--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-03-25",
+   "detail_error": null,
+   "number_as_written": "KEP-62/PJ/2014",
+   "retrieved_at": "2026-10-04T04:16:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENYAMPAIKAN SURAT PEMBERITAHUAN (SPT) TAHUNAN PAJAK PENGHASILAN ORANG PRIBADI SECARA E-FILING",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=92",
+   "retrieved_at": "2026-10-03T03:04:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4276,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:16:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengecualian-pengenaan-sanksi-administrasi-berupa-denda-atas-keterlambatan-penyampaian-0"
+ },
+ "title": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN BAGI WAJIB PAJAK ORANG PRIBADI YANG MENYAMPAIKAN SURAT PEMBERITAHUAN (SPT) TAHUNAN PAJAK PENGHASILAN ORANG PRIBADI SECARA E-FILING"
+}

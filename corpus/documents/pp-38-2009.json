@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-38-2009",
+ "identity": {
+  "code": "PP",
+  "number": "38",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-05-28",
+   "detail_error": null,
+   "number_as_written": "38 TAHUN 2009",
+   "retrieved_at": "2026-10-05T01:45:00+00:00",
+   "source": "DJP",
+   "title_as_written": "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA DEPARTEMEN HUKUM DAN HAK ASASI MANUSIA",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-departemen-1"
+  },
+  {
+   "date_as_written": "2009-05-28 00:00:00",
+   "number_as_written": "PP 38 TAHUN 2009",
+   "retrieved_at": "2026-09-21T14:09:54+00:00",
+   "source": "JDIH",
+   "title_as_written": "Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Departemen Hukum dan Hak Asasi Manusia.",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-38-tahun-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=149",
+   "retrieved_at": "2026-10-03T03:26:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-departemen-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=64",
+   "retrieved_at": "2026-09-21T14:09:54+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-38-tahun-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA DEPARTEMEN HUKUM DAN HAK ASASI MANUSIA"
+}

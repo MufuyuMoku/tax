@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-510-kmk-03-2007",
+ "identity": {
+  "code": "KMK",
+  "number": "510/KMK.03",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-510-kmk-03-2007--b000-kedua",
+  "kmk-510-kmk-03-2007--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "510/KMK.03/2007",
+   "retrieved_at": "2026-10-05T02:24:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PEJABAT DAN/ATAU TENAGA AHLI YANG DAPAT MEMBERIKAN KETERANGAN KEPADA PEJABAT LEMBAGA NEGARA ATAU INSTANSI PEMERINTAH YANG BERWENANG MELAKUKAN PEMERIKSAAN DALAM BIDANG KEUANGAN NEGARA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pejabat-danatau-tenaga-ahli-yang-dapat-memberikan-keterangan-kepada-pejabat"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=175",
+   "retrieved_at": "2026-10-03T03:35:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pejabat-danatau-tenaga-ahli-yang-dapat-memberikan-keterangan-kepada-pejabat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3016,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:24:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-pejabat-danatau-tenaga-ahli-yang-dapat-memberikan-keterangan-kepada-pejabat"
+ },
+ "title": "PENETAPAN PEJABAT DAN/ATAU TENAGA AHLI YANG DAPAT MEMBERIKAN KETERANGAN KEPADA PEJABAT LEMBAGA NEGARA ATAU INSTANSI PEMERINTAH YANG BERWENANG MELAKUKAN PEMERIKSAAN DALAM BIDANG KEUANGAN NEGARA"
+}

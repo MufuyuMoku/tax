@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-112-2013",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2013"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -34,7 +41,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

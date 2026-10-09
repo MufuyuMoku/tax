@@ -1,0 +1,270 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-6-1983",
+ "identity": {
+  "code": "UU",
+  "number": "6",
+  "variant": null,
+  "year": "1983"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "uu-6-1983--b000-1",
+  "uu-6-1983--b001-2",
+  "uu-6-1983--b002-3",
+  "uu-6-1983--b003-4",
+  "uu-6-1983--b004-5",
+  "uu-6-1983--b005-6",
+  "uu-6-1983--b006-7",
+  "uu-6-1983--b007-8",
+  "uu-6-1983--b008-9",
+  "uu-6-1983--b009-10",
+  "uu-6-1983--b010-11",
+  "uu-6-1983--b011-12",
+  "uu-6-1983--b012-13",
+  "uu-6-1983--b013-14",
+  "uu-6-1983--b014-15",
+  "uu-6-1983--b015-16",
+  "uu-6-1983--b016-17",
+  "uu-6-1983--b017-18",
+  "uu-6-1983--b018-19",
+  "uu-6-1983--b019-20",
+  "uu-6-1983--b020-21",
+  "uu-6-1983--b021-22",
+  "uu-6-1983--b022-23",
+  "uu-6-1983--b023-24",
+  "uu-6-1983--b024-25",
+  "uu-6-1983--b025-26",
+  "uu-6-1983--b026-27",
+  "uu-6-1983--b027-28",
+  "uu-6-1983--b028-29",
+  "uu-6-1983--b029-30",
+  "uu-6-1983--b030-31",
+  "uu-6-1983--b031-32",
+  "uu-6-1983--b032-33",
+  "uu-6-1983--b033-34",
+  "uu-6-1983--b034-35",
+  "uu-6-1983--b035-36",
+  "uu-6-1983--b036-37",
+  "uu-6-1983--b037-38",
+  "uu-6-1983--b038-39",
+  "uu-6-1983--b039-40",
+  "uu-6-1983--b040-41",
+  "uu-6-1983--b041-42",
+  "uu-6-1983--b042-43",
+  "uu-6-1983--b043-44",
+  "uu-6-1983--b044-45",
+  "uu-6-1983--b045-46",
+  "uu-6-1983--b046-47",
+  "uu-6-1983--b047-48",
+  "uu-6-1983--b048-49",
+  "uu-6-1983--b049-50",
+  "uu-6-1983--p050-1",
+  "uu-6-1983--p051-2",
+  "uu-6-1983--p052-3",
+  "uu-6-1983--p053-4",
+  "uu-6-1983--p054-5",
+  "uu-6-1983--p055-6",
+  "uu-6-1983--p056-7",
+  "uu-6-1983--p057-8",
+  "uu-6-1983--p058-9",
+  "uu-6-1983--p059-10",
+  "uu-6-1983--p060-11",
+  "uu-6-1983--p061-12",
+  "uu-6-1983--p062-13",
+  "uu-6-1983--p063-14",
+  "uu-6-1983--p064-15",
+  "uu-6-1983--p065-16",
+  "uu-6-1983--p066-17",
+  "uu-6-1983--p067-18",
+  "uu-6-1983--p068-19",
+  "uu-6-1983--p069-20",
+  "uu-6-1983--p070-21",
+  "uu-6-1983--p071-22",
+  "uu-6-1983--p072-23",
+  "uu-6-1983--p073-24",
+  "uu-6-1983--p074-25",
+  "uu-6-1983--p075-26",
+  "uu-6-1983--p076-27",
+  "uu-6-1983--p077-28",
+  "uu-6-1983--p078-29",
+  "uu-6-1983--p079-30",
+  "uu-6-1983--p080-31",
+  "uu-6-1983--p081-32",
+  "uu-6-1983--p082-33",
+  "uu-6-1983--p083-34",
+  "uu-6-1983--p084-35",
+  "uu-6-1983--p085-36",
+  "uu-6-1983--p086-37",
+  "uu-6-1983--p087-38",
+  "uu-6-1983--p088-39",
+  "uu-6-1983--p089-40",
+  "uu-6-1983--p090-41",
+  "uu-6-1983--p091-42",
+  "uu-6-1983--p092-43",
+  "uu-6-1983--p093-44",
+  "uu-6-1983--p094-45",
+  "uu-6-1983--p095-46",
+  "uu-6-1983--p096-47",
+  "uu-6-1983--p097-48",
+  "uu-6-1983--p098-49",
+  "uu-6-1983--p099-50"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "perpu-5-2008",
+    "key": [
+     "PERPU",
+     "5",
+     "2008",
+     null
+    ],
+    "number_as_written": "5 TAHUN 2008",
+    "quote": "Ketentuan Pasal 37A ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262) sebagaimana telah beberapa kali diubah dengan Undang-Undang: a. Nomor 9 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 3566); b. Nomor 16 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 3984); c. Nomor 28 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 85, Tambahan Lembaran Negara Republik Indonesia Nomor 4740); diubah, sehingga berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NO 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN"
+   },
+   {
+    "id": "uu-16-2009",
+    "key": [
+     "UU",
+     "16",
+     "2009",
+     null
+    ],
+    "number_as_written": "16 TAHUN 2009",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 5 TAHUN 2008 TENTANG PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN MENJADI UNDANG-UNDANG"
+   },
+   {
+    "id": "uu-28-2007",
+    "key": [
+     "UU",
+     "28",
+     "2007",
+     null
+    ],
+    "number_as_written": "28 TAHUN 2007",
+    "quote": "Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 198 3 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262) yang telah beberapa kali diubah dengan Undang-Undang: Nomor 9 Tahun 1994 (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 3566); Nomor 16 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 3984), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 28 TAHUN 2007 — Perubahan Ketiga atas Undang-Undangan Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2000 — Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 9 TAHUN 1994 — Perubahan atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-9-tahun-1994"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PERPU 5 TAHUN 2008 — Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/perpu-5-tahun-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 16 TAHUN 2009 — Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-16-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 7 TAHUN 2021 — Harmonisasi Peraturan Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-7-tahun-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1983-12-31",
+   "detail_error": null,
+   "number_as_written": "6 TAHUN 1983",
+   "retrieved_at": "2026-10-04T02:55:02+00:00",
+   "source": "DJP",
+   "title_as_written": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+  },
+  {
+   "date_as_written": "1983-12-31 00:00:00",
+   "number_as_written": "UU 6 TAHUN 1983",
+   "page_retrieved_at": "2026-10-05T06:18:50+00:00",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "title_as_written": "Ketentuan Umum dan Tata Cara Perpajakan",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-1983",
+   "validity_as_written": "31 Des 1983 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=253",
+   "retrieved_at": "2026-10-03T02:29:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-1983",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 100675,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:55:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+ },
+ "title": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN"
+}

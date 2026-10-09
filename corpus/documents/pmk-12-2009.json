@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-12-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "12",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-12-2009--b000-i",
+  "pmk-12-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "66",
+     "2008",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 66/PMK.03/2008",
+    "quote": "Mengubah ketentuan Pasal 7 ayat (1) huruf f dan huruf g Peraturan Menteri Keuangan Nomor 66/PMK.03/2008 tentang Tata Cara Penyampaian atau Pembetulan Surat Pemberitahuan, dan Persyaratan Wajib Pajak yang Dapat Diberikan Penghapusan Sanksi Administrasi Dalam Rangka Penerapan Pasal 37A Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 28 Tahun 2007, sehingga Pasal 7 berbunyi sebagai berikut: Pasal 7 (1) Wajib Pajak yang diberikan penghapusan sanksi administrasi sebagaimana dimaksud dalam Pasal 1 ayat (2) adalah Wajib Pajak orang pribadi atau Wajib Pajak badan yang memenuhi persyaratan: a. telah memiliki Nomor Pokok Wajib Pajak sebelum tanggal 1 Januari 2008;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-66-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-02-02",
+   "detail_error": null,
+   "number_as_written": "12/PMK.03/2009",
+   "retrieved_at": "2026-10-05T01:56:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 66/PMK.03/2008 TENTANG TATA CARA PENYAMPAIAN ATAU PEMBETULAN SURAT PEMBERITAHUAN, DAN PERSYARATAN WAJIB PAJAK YANG DAPAT DIBERIKAN PENGHAPUSAN SANKSI ADMINISTRASI DALAM RANGKA PENERAPAN PASAL 37A UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 28 TAHUN 2007",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-66pmk032008-tentang-tata-cara-penyampaian"
+  },
+  {
+   "date_as_written": "2009-02-02 00:00:00",
+   "number_as_written": "12/PMK.03/2009",
+   "retrieved_at": "2026-09-21T14:41:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 66/PMK.03/2008 tentang Tata Cara Penyampaian atau Pembetulan Surat Pemberitahuan, dan Persyaratan Wajib Pajak yang Dapat Diberikan Penghapusan Sanksi Administrasi dalam Rangka Penerapan Pasal 37 A Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir dengan Undang-Undang Nomor 28 Tahun 2007",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/12-pmk-03-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=155",
+   "retrieved_at": "2026-10-03T03:28:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-66pmk032008-tentang-tata-cara-penyampaian",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=392",
+   "retrieved_at": "2026-09-21T14:41:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/12-pmk-03-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7436,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:56:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-66pmk032008-tentang-tata-cara-penyampaian"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 66/PMK.03/2008 TENTANG TATA CARA PENYAMPAIAN ATAU PEMBETULAN SURAT PEMBERITAHUAN, DAN PERSYARATAN WAJIB PAJAK YANG DAPAT DIBERIKAN PENGHAPUSAN SANKSI ADMINISTRASI DALAM RANGKA PENERAPAN PASAL 37A UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 28 TAHUN 2007"
+}

@@ -1,0 +1,144 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-74-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "74",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-74-2010--b000-1",
+  "pmk-74-2010--b001-2",
+  "pmk-74-2010--b002-3",
+  "pmk-74-2010--b003-4",
+  "pmk-74-2010--b004-5",
+  "pmk-74-2010--b005-6",
+  "pmk-74-2010--b006-7",
+  "pmk-74-2010--b007-8",
+  "pmk-74-2010--b008-9",
+  "pmk-74-2010--b009-10",
+  "pmk-74-2010--b010-11",
+  "pmk-74-2010--b011-12",
+  "pmk-74-2010--b012-13",
+  "pmk-74-2010--b013-14",
+  "pmk-74-2010--b014-15",
+  "pmk-74-2010--b015-16",
+  "pmk-74-2010--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "45",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 45/PMK.03/2008",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku, Peraturan Menteri Keuangan Nomor 45/PMK.03/2008 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak Dengan Menggunakan Norma Penghitungan Penghasilan Neto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-45-2008"
+   },
+   {
+    "key": [
+     "UU",
+     "7",
+     "1983",
+     null
+    ],
+    "name": "Undang-Undang Nomor 7 Tahun 1983",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku, Peraturan Menteri Keuangan Nomor 45/PMK.03/2008 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak Dengan Menggunakan Norma Penghitungan Penghasilan Neto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-7-1983"
+   },
+   {
+    "key": [
+     "UU",
+     "17",
+     "2000",
+     null
+    ],
+    "name": "Undang-Undang Nomor 17 Tahun 2000",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku, Peraturan Menteri Keuangan Nomor 45/PMK.03/2008 tentang Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Berdasarkan Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 17 Tahun 2000 Memilih Dikenakan Pajak Dengan Menggunakan Norma Penghitungan Penghasilan Neto, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-17-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-31",
+   "detail_error": null,
+   "number_as_written": "74/PMK.03/2010",
+   "retrieved_at": "2026-10-05T01:22:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MEMPUNYAI PEREDARAN USAHA TIDAK MELEBIHI JUMLAH TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-mempunyai"
+  },
+  {
+   "date_as_written": "2010-03-31 00:00:00",
+   "number_as_written": "74/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pedoman Penghitungan Pengkreditan Pajak Masukan Bagi Pengusaha Kena Pajak yang Mempunyai Peredaran Usaha Tidak Melebihi Jumlah Tertentu.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=133",
+   "retrieved_at": "2026-10-03T03:21:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-mempunyai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=362",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-03-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13674,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:22:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang-mempunyai"
+ },
+ "title": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG MEMPUNYAI PEREDARAN USAHA TIDAK MELEBIHI JUMLAH TERTENTU"
+}

@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Peraturan%20Menteri%20Keuangan%20Nomor%20143_PMK.03_2020.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-143-2020",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-143-2020--b000-1",
   "pmk-143-2020--b001-2",

@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-32-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "32",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-32-2013--b000-1",
+  "per-djp-32-2013--b001-2",
+  "per-djp-32-2013--b002-3",
+  "per-djp-32-2013--b003-4",
+  "per-djp-32-2013--b004-5",
+  "per-djp-32-2013--b005-6",
+  "per-djp-32-2013--b006-7",
+  "per-djp-32-2013--b007-8",
+  "per-djp-32-2013--b008-9",
+  "per-djp-32-2013--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-9-2019",
+    "key": [
+     "PER-DJP",
+     "9",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-09/PJ/2019",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2013 tentang Tata Cara Pembebasan dari Pemotongan dan/atau Pemungutan Pajak Penghasilan bagi Wajib Pajak yang Dikenai Pajak Penghasilan Berdasarkan Peraturan Pemerintah Nomor 46 Tahun 2013 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBATALAN DAN PENCABUTAN SURAT KETERANGAN PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR  23 TAHUN 2018"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-09-25",
+   "detail_error": null,
+   "number_as_written": "PER-32/PJ/2013",
+   "retrieved_at": "2026-10-04T04:22:51+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBEBASAN DARI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN BAGI WAJIB PAJAK YANG DIKENAI PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 46 TAHUN 2013 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK YANG MEMILIKI PEREDARAN BRUTO TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebasan-dari-pemotongan-danatau-pemungutan-pajak-penghasilan-bagi-wajib"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=97",
+   "retrieved_at": "2026-10-03T03:06:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebasan-dari-pemotongan-danatau-pemungutan-pajak-penghasilan-bagi-wajib",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12059,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:22:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembebasan-dari-pemotongan-danatau-pemungutan-pajak-penghasilan-bagi-wajib"
+ },
+ "title": "TATA CARA PEMBEBASAN DARI PEMOTONGAN DAN/ATAU PEMUNGUTAN PAJAK PENGHASILAN BAGI WAJIB PAJAK YANG DIKENAI PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 46 TAHUN 2013 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK YANG MEMILIKI PEREDARAN BRUTO TERTENTU"
+}

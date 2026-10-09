@@ -1,0 +1,71 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-3-2021",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-3-2021--b000-kedua",
+  "kep-djp-3-2021--b001-ketiga",
+  "kep-djp-3-2021--b002-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-01-08",
+   "detail_error": null,
+   "number_as_written": "KEP-03/PJ/2021",
+   "retrieved_at": "2026-10-04T03:19:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN KANTOR PELAYANAN PAJAK DAN JENIS SURAT PEMBERITAHUAN YANG DIOLAH DALAM RANGKA PERLUASAN DAN PENERAPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DAN KANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-kantor-pelayanan-pajak-dan-jenis-surat-pemberitahuan-yang-diolah-dalam-rangka"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=33",
+   "retrieved_at": "2026-10-03T02:44:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-kantor-pelayanan-pajak-dan-jenis-surat-pemberitahuan-yang-diolah-dalam-rangka",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 4379,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:19:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-kantor-pelayanan-pajak-dan-jenis-surat-pemberitahuan-yang-diolah-dalam-rangka"
+ },
+ "title": "PENETAPAN KANTOR PELAYANAN PAJAK DAN JENIS SURAT PEMBERITAHUAN YANG DIOLAH DALAM RANGKA PERLUASAN DAN PENERAPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DAN KANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN"
+}

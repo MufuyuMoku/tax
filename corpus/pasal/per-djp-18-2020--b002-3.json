@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 193,
+ "document_id": "per-djp-18-2020",
+ "document_number": "PER-18/PJ/2020",
+ "document_title": "TATA KELOLA SITUS WEB DIREKTORAT JENDERAL PAJAK",
+ "id": "per-djp-18-2020--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [
+  "urutan_loncat:15->17"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\nDirektur Jenderal Pajak berwenang membentuk Tim Pengelola Situs Web DJP yang ditetapkan melalui Keputusan Direktur Jenderal Pajak.\nBAB II\nTATA KELOLA PENGEMBANGAN APLIKASI SITUS WEB DJP",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:22:03+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-kelola-situs-web-direktorat-jenderal-pajak"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-24-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "24",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-24-2010--b000-1",
+  "pmk-24-2010--b001-2",
+  "pmk-24-2010--b002-3",
+  "pmk-24-2010--b003-4",
+  "pmk-24-2010--b004-5",
+  "pmk-24-2010--b005-6",
+  "pmk-24-2010--b006-7",
+  "pmk-24-2010--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-01-29",
+   "detail_error": null,
+   "number_as_written": "24/PMK.011/2010",
+   "retrieved_at": "2026-10-05T01:30:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR BARANG UNTUK KEGIATAN USAHA HULU EKSPLORASI MINYAK DAN GAS BUMI SERTA KEGIATAN USAHA EKSPLORASI PANAS BUMI UNTUK TAHUN ANGGARAN 2010",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-barang-untuk-kegiatan-usaha-hulu"
+  },
+  {
+   "date_as_written": "2010-01-29 00:00:00",
+   "number_as_written": "24/PMK.011/2010",
+   "retrieved_at": "2026-09-21T14:40:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Pertambahan Nilai Ditanggung Pemerintah atas Impor Barang untuk Kegiatan Usaha Hulu Eksplorasi Minyak dan Gas Bumi Serta Kegiatan Usaha Eksplorasi Panas Bumi untuk Tahun Anggaran 2010.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/24-pmk-011-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=138",
+   "retrieved_at": "2026-10-03T03:23:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-barang-untuk-kegiatan-usaha-hulu",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=367",
+   "retrieved_at": "2026-09-21T14:40:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/24-pmk-011-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8273,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:30:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-ditanggung-pemerintah-atas-impor-barang-untuk-kegiatan-usaha-hulu"
+ },
+ "title": "PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS IMPOR BARANG UNTUK KEGIATAN USAHA HULU EKSPLORASI MINYAK DAN GAS BUMI SERTA KEGIATAN USAHA EKSPLORASI PANAS BUMI UNTUK TAHUN ANGGARAN 2010"
+}

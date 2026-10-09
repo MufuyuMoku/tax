@@ -1,0 +1,74 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-8-2024",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "8",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-8-2024--b000-1",
+  "per-djp-8-2024--b001-2",
+  "per-djp-8-2024--b002-3",
+  "per-djp-8-2024--b003-4",
+  "per-djp-8-2024--b004-5",
+  "per-djp-8-2024--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-09-26",
+   "detail_error": null,
+   "number_as_written": "8/PJ/2024",
+   "retrieved_at": "2026-10-04T03:04:43+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN DAN PENGGUNAAN NOMOR POKOK WAJIB PAJAK UNTUK KEPENTINGAN ADMINISTRASI PERPAJAKAN BAGI PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA, YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penggunaan-nomor-pokok-wajib-pajak-untuk-kepentingan-administrasi"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=11",
+   "retrieved_at": "2026-10-03T02:36:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penggunaan-nomor-pokok-wajib-pajak-untuk-kepentingan-administrasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12447,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:04:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-dan-penggunaan-nomor-pokok-wajib-pajak-untuk-kepentingan-administrasi"
+ },
+ "title": "TATA CARA PEMBERIAN DAN PENGGUNAAN NOMOR POKOK WAJIB PAJAK UNTUK KEPENTINGAN ADMINISTRASI PERPAJAKAN BAGI PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA, YANG TIDAK TERMASUK SUBJEK PAJAK PENGHASILAN"
+}

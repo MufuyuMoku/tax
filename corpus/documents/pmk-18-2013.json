@@ -1,0 +1,156 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-18-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "18",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-18-2013--b000-1",
+  "pmk-18-2013--b001-2",
+  "pmk-18-2013--b002-3",
+  "pmk-18-2013--b003-4",
+  "pmk-18-2013--b004-5",
+  "pmk-18-2013--b005-6",
+  "pmk-18-2013--b006-7",
+  "pmk-18-2013--b007-8",
+  "pmk-18-2013--b008-9",
+  "pmk-18-2013--b009-10",
+  "pmk-18-2013--b010-11",
+  "pmk-18-2013--b011-12",
+  "pmk-18-2013--b012-13",
+  "pmk-18-2013--b013-14",
+  "pmk-18-2013--b014-15",
+  "pmk-18-2013--b015-16",
+  "pmk-18-2013--b016-17",
+  "pmk-18-2013--b017-18",
+  "pmk-18-2013--b018-19",
+  "pmk-18-2013--b019-20",
+  "pmk-18-2013--b020-21",
+  "pmk-18-2013--b021-22",
+  "pmk-18-2013--b022-23",
+  "pmk-18-2013--b023-24",
+  "pmk-18-2013--b024-25",
+  "pmk-18-2013--b025-26",
+  "pmk-18-2013--b026-27",
+  "pmk-18-2013--b027-28",
+  "pmk-18-2013--b028-29",
+  "pmk-18-2013--b029-30",
+  "pmk-18-2013--b030-31",
+  "pmk-18-2013--b031-32",
+  "pmk-18-2013--b032-33",
+  "pmk-18-2013--b033-34",
+  "pmk-18-2013--b034-35",
+  "pmk-18-2013--b035-36",
+  "pmk-18-2013--b036-37",
+  "pmk-18-2013--b037-38",
+  "pmk-18-2013--b038-39",
+  "pmk-18-2013--b039-40",
+  "pmk-18-2013--b040-41",
+  "pmk-18-2013--b041-42"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-239-2014",
+    "key": [
+     "PMK",
+     "239",
+     "2014",
+     null
+    ],
+    "number_as_written": "239/PMK.03/2014",
+    "quote": "Pasal 39 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 18/PMK.03/2013 tentang Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "202",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 202/PMK.03/2007",
+    "quote": "Pasal 41 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 202/PMK.03/2007 tentang Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-202-2007"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-01-07",
+   "detail_error": null,
+   "number_as_written": "18/PMK.03/2013",
+   "retrieved_at": "2026-10-04T05:58:38+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-0"
+  },
+  {
+   "date_as_written": "2013-01-07 00:00:00",
+   "number_as_written": "18/PMK.03/2013",
+   "retrieved_at": "2026-09-21T14:35:10+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemeriksaan Bukti Permulaan Tindak Pidana di Bidang Perpajakan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2013"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=105",
+   "retrieved_at": "2026-10-03T03:11:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=291",
+   "retrieved_at": "2026-09-21T14:35:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 53502,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T05:58:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan-0"
+ },
+ "title": "TATA CARA PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+}

@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "uu-11-2020",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "uu-11-2020--b000-111",
   "uu-11-2020--b001-2",
@@ -94,12 +105,22 @@
    "title_as_written": "CIPTA KERJA (KLASTER KEMUDAHAN BERUSAHA BIDANG PERPAJAKAN)",
    "type_as_written": "Undang-Undang",
    "url": "https://www.pajak.go.id/id/peraturan/cipta-kerja-klaster-kemudahan-berusaha-bidang-perpajakan"
+  },
+  {
+   "date_as_written": "2020-11-02 00:00:00",
+   "number_as_written": "UU 11 TAHUN 2020",
+   "retrieved_at": "2026-09-21T14:02:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Cipta Kerja",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -109,6 +130,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/cipta-kerja-klaster-kemudahan-berusaha-bidang-perpajakan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=3",
+   "retrieved_at": "2026-09-21T14:02:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-11-tahun-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

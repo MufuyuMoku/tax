@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-13-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-13-2020--b000-1",
+  "per-djp-13-2020--b001-2",
+  "per-djp-13-2020--b002-3",
+  "per-djp-13-2020--b003-4",
+  "per-djp-13-2020--b004-5",
+  "per-djp-13-2020--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-19-2020",
+    "key": [
+     "PER-DJP",
+     "19",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-19/PJ/2020",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-13/PJ/2020 tentang Petunjuk Teknis Pemberian Nomor Pokok Wajib Pajak Secara Jabatan Sehubungan Dengan Pemberian Subsidi Bunga/Subsidi Margin untuk Kredit/Pembiayaan Usaha Mikro, Kecil, dan Menengah Dalam Rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK TEKNIS PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN SEHUBUNGAN DENGAN PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN KEPADA DEBITUR DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-06-26",
+   "detail_error": null,
+   "number_as_written": "PER-13/PJ/2020",
+   "retrieved_at": "2026-10-04T03:24:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK TEKNIS PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN SEHUBUNGAN DENGAN PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN UNTUK KREDIT/PEMBIAYAAN USAHA MIKRO, KECIL, DAN MENENGAH DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pemberian-nomor-pokok-wajib-pajak-secara-jabatan-sehubungan-dengan-0"
+  },
+  {
+   "date_as_written": "2020-06-26 00:00:00",
+   "number_as_written": "PER-13/PJ/2020",
+   "retrieved_at": "2026-09-21T14:56:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Petunjuk Teknis Pemberian Nomor Pokok Wajib Pajak secara Jabatan Sehubungan dengan Pemberian Subsidi Bunga/Subsidi Margin untuk Kredit/Pembiayaan Usaha Mikro, Kecil, dan Menengah dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-13-pj-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 19/2020 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=38",
+   "retrieved_at": "2026-10-03T02:46:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pemberian-nomor-pokok-wajib-pajak-secara-jabatan-sehubungan-dengan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=23",
+   "retrieved_at": "2026-09-21T14:56:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-13-pj-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13503,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:24:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-teknis-pemberian-nomor-pokok-wajib-pajak-secara-jabatan-sehubungan-dengan-0"
+ },
+ "title": "PETUNJUK TEKNIS PEMBERIAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN SEHUBUNGAN DENGAN PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN UNTUK KREDIT/PEMBIAYAAN USAHA MIKRO, KECIL, DAN MENENGAH DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL"
+}

@@ -1,0 +1,80 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-479-kmk-01-2010",
+ "identity": {
+  "code": "KMK",
+  "number": "479/KMK.01",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kmk-479-kmk-01-2010--b000-kedua",
+  "kmk-479-kmk-01-2010--b001-ketiga",
+  "kmk-479-kmk-01-2010--b002-keempat",
+  "kmk-479-kmk-01-2010--b003-kelima",
+  "kmk-479-kmk-01-2010--b004-keenam",
+  "kmk-479-kmk-01-2010--b005-ketujuh",
+  "kmk-479-kmk-01-2010--b006-kedelapan",
+  "kmk-479-kmk-01-2010--b007-kesembilan",
+  "kmk-479-kmk-01-2010--b008-kesepuluh",
+  "kmk-479-kmk-01-2010--b009-kesebelas",
+  "kmk-479-kmk-01-2010--b010-kedua",
+  "kmk-479-kmk-01-2010--b011-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-13",
+   "detail_error": null,
+   "number_as_written": "479/KMK.01/2010",
+   "retrieved_at": "2026-10-04T07:46:36+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN DAN STANDAR SISTEM MANAJEMEN KEAMANAN INFORMASI DI LINGKUNGAN KEMENTERIAN KEUANGAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-dan-standar-sistem-manajemen-keamanan-informasi-di-lingkungan-kementerian"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=125",
+   "retrieved_at": "2026-10-03T03:18:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-dan-standar-sistem-manajemen-keamanan-informasi-di-lingkungan-kementerian",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 6016,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:46:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-dan-standar-sistem-manajemen-keamanan-informasi-di-lingkungan-kementerian"
+ },
+ "title": "KEBIJAKAN DAN STANDAR SISTEM MANAJEMEN KEAMANAN INFORMASI DI LINGKUNGAN KEMENTERIAN KEUANGAN"
+}

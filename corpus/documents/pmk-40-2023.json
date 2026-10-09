@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK40TAHUN2023.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-40-2023",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2023"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-40-2023--b000-1",
   "pmk-40-2023--b001-2",

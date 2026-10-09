@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-25-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-25-2016--b000-1",
+  "per-djp-25-2016--b001-2",
+  "per-djp-25-2016--b002-3",
+  "per-djp-25-2016--b003-4",
+  "per-djp-25-2016--b004-5",
+  "per-djp-25-2016--b005-6",
+  "per-djp-25-2016--b006-7",
+  "per-djp-25-2016--b007-8",
+  "per-djp-25-2016--b008-9",
+  "per-djp-25-2016--b009-10",
+  "per-djp-25-2016--b010-11",
+  "per-djp-25-2016--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "22",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2014",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-22/PJ/2014 tentang Penyelenggaraan Pelayanan pada Kantor Layanan Informasi dan Pengaduan Direktorat Jenderal Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-22-2014"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-12-13",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ/2016",
+   "retrieved_at": "2026-10-04T03:47:21+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYELENGGARAAN PELAYANAN PADAKANTOR LAYANAN INFORMASI DAN PENGADUANDIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-padakantor-layanan-informasi-dan-pengaduandirektorat-jenderal"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=65",
+   "retrieved_at": "2026-10-03T02:55:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-padakantor-layanan-informasi-dan-pengaduandirektorat-jenderal",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14237,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:47:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-padakantor-layanan-informasi-dan-pengaduandirektorat-jenderal"
+ },
+ "title": "PENYELENGGARAAN PELAYANAN PADAKANTOR LAYANAN INFORMASI DAN PENGADUANDIREKTORAT JENDERAL PAJAK"
+}

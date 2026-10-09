@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 3354,
+ "document_id": "per-djp-26-2014",
+ "document_number": "PER-26/PJ/2014",
+ "document_title": "SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK",
+ "id": "per-djp-26-2014--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal ini yang dimaksud\ndengan:\n1.\nSistem pembayaran pajak secara elektronik adalah bagian dari sistem Penerimaan Negara secara elektronik yang diadministrasikan oleh\nBiller\nDirektorat Jenderal Pajak dan menerapkan\nBilling System\n.\n2.\nBilling System\nadalah metode pembayaran elektronik dengan menggunakan Kode\nBilling\n.\n3.\nBiller\nadalah unit Eselon I Kementerian Keuangan yang diberi tugas dan kewenangan untuk mengelola Sistem\nBilling\ndan menerbitkan Kode\nBilling\n.\n4.\nSistem\nBilling\nadalah sistem informasi yang dikelola oleh masing-masing\nBiller\ndalam rangka pengadministrasian sistem Penerimaan Negara secara elektronik.\n5.\nKode\nBilling\nadalah kode identifikasi yang diterbitkan melalui Sistem\nBilling\natas suatu jenis pembayaran atau setoran yang akan dilakukan Wajib Pajak.\n6.\nAplikasi\nBilling\nDirektorat Jenderal Pajak yang selanjutnya disebut Aplikasi Billing DJP adalah bagian dari Sistem\nBilling\nDirektorat Jenderal Pajak yang menyediakan antarmuka berupa aplikasi berbasis\nweb\nbagi Wajib Pajak untuk menerbitkan Kode\nBilling\ndan dapat diakses melalui jaringan internet.\n7.\nBank Persepsi dan Pos Persepsi yang selanjutnya disebut Bank/Pos Persepsi adalah penyedia layanan penerimaan setoran penerimaan negara sebagai\ncollecting agent\ndalam sistem penerimaan negara menggunakan surat setoran elektronik.\n8.\nElectronic Data Capture\nyang selanjutnya disingkat EDC adalah alat yang dipergunakan untuk transaksi kartu debit/kredit yang terhubung secara online dengan sistem/jaringan Bank Persepsi.\n9.\nNomor Transaksi Penerimaan Negara yang selanjutnya disingkat NTPN adalah nomor tanda bukti pembayaran/penyetoran ke Kas Negara yang tertera pada Bukti Penerimaan Negara dan diterbitkan oleh sistem\nsettlement\nyang dikelola Direktorat Jenderal Perbendaharaan Kementerian Keuangan.\n10.\nNomor Transaksi Bank yang selanjutnya disingkat NTB adalah nomor bukti transaksi penyetoran penerimaan Negara yang diterbitkan oleh Bank Persepsi.\n11.\nNomor Transaksi Pos yang selanjutnya disingkat NTP adalah nomor bukti transaksi penyetoran penerimaan Negara yang diterbitkan oleh Pos Persepsi.\n12.\nBukti Penerimaan Negara yang selanjutnya disingkat BPN adalah dokumen yang diterbitkan oleh Bank/Pos Persepsi atas transaksi penerimaan negara dengan teraan NTPN dan NTB/NTP sebagai sarana administrasi lain yang kedudukannya disamakan dengan surat setoran.\n13.\nSurat Setoran Pajak yang selanjutnya disingkat SSP adalah bukti pembayaran atau penyetoran pajak yang telah dilakukan dengan menggunakan formulir atau telah dilakukan dengan cara lain ke Kas Negara melalui tempat pembayaran yang ditunjuk oleh Menteri Keuangan.\n14.\nSurat Setoran Pajak Pajak Bumi dan Bangunan yang selanjutnya disingkat dengan SSP PBB adalah surat setoran atas pembayaran Pajak Bumi dan Bangunan dari Wajib Pajak ke Bank/Pos Persepsi.\n15.\nSurat Pemberitahuan Pajak Terutang Pajak Bumi dan Bangunan yang selanjutnya disingkat SPPT PBB adalah surat yang digunakan oleh Direktorat Jenderal Pajak untuk memberitahukan besarnya PBB yang terutang kepada Wajib Pajak.\n16.\nSurat Ketetapan Pajak Pajak Bumi dan Bangunan yang selanjutnya disingkat SKP PBB adalah Surat Ketetapan Pajak sebagaimana dimaksud dalam Pasal 10 ayat (2) Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan sebagaimana telah diubah dengan Undang-Undang Nomor 12 Tahun 1994.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T04:08:47+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/sistem-pembayaran-pajak-secara-elektronik"
+ }
+}

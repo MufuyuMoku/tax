@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Peraturan%20Menteri%20Keuangan%20Nomor%20110_PMK.03_2020.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-110-2020",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-110-2020--b000-i",
   "pmk-110-2020--b001-ii"

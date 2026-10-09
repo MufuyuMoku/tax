@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-35-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "35",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-35-2009--b000-i",
+  "per-djp-35-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "9",
+     "2008",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-9/PJ/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-9/PJ/2008 tentang Tempat Pendaftaran Bagi Wajib Pajak Tertentu dan/atau Tempat Pelaporan Usaha Bagi Pengusaha Kena Pajak Tertentu diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-9-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-06-08",
+   "detail_error": null,
+   "number_as_written": "PER-35/PJ/2009",
+   "retrieved_at": "2026-10-05T01:44:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PER-9/PJ./2008 TENTANG TEMPAT PENDAFTARAN WAJIB PAJAK TERTENTU",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-9pj2008-tentang-tempat-pendaftaran-wajib-pajak-tertentu"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=148",
+   "retrieved_at": "2026-10-03T03:26:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-9pj2008-tentang-tempat-pendaftaran-wajib-pajak-tertentu",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 8836,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:44:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-9pj2008-tentang-tempat-pendaftaran-wajib-pajak-tertentu"
+ },
+ "title": "PERUBAHAN PER-9/PJ./2008 TENTANG TEMPAT PENDAFTARAN WAJIB PAJAK TERTENTU"
+}

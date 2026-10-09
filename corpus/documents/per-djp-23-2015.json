@@ -1,0 +1,126 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-23-2015--b000-1",
+  "per-djp-23-2015--b001-2",
+  "per-djp-23-2015--b002-3",
+  "per-djp-23-2015--b003-4",
+  "per-djp-23-2015--b004-5",
+  "per-djp-23-2015--b005-6",
+  "per-djp-23-2015--b006-7",
+  "per-djp-23-2015--b007-8",
+  "per-djp-23-2015--b008-9",
+  "per-djp-23-2015--b009-10",
+  "per-djp-23-2015--b010-11",
+  "per-djp-23-2015--b011-12",
+  "per-djp-23-2015--b012-13",
+  "per-djp-23-2015--b013-14",
+  "per-djp-23-2015--b014-15",
+  "per-djp-23-2015--b015-16"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-24-2020",
+    "key": [
+     "PER-DJP",
+     "24",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-24/PJ/2020",
+    "quote": "Pasal 21 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: 1. Peraturan Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2015 tentang Tata Cara Permohonan, Pemberitahuan, Pemberian, Pembatalan Serta Permohonan Dan Penerbitan Kembali Izin Penyelenggaraan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dolar Amerika Serikat, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, PEMBATALAN SERTA PERMOHONAN DAN PENERBITAN KEMBALI IZIN PENYELENGGARAAN PEMBUKUAN ATAU PENCATATAN DENGAN MENGGUNAKAN BAHASA INGGRIS ATAU PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLAR AMERIKA SERIKAT"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "11",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2010",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2010 tentang Tata Cara Permohonan, Pemberitahuan, Pemberian, dan Pembatalan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2012, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-11-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "10",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2012",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2010 tentang Tata Cara Permohonan, Pemberitahuan, Pemberian, dan Pembatalan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2012, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-10-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-06-01",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2015",
+   "retrieved_at": "2026-10-04T03:59:29+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, PEMBATALAN SERTA PERMOHONAN DAN PENERBITAN KEMBALI IZIN PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-pembatalan-serta-permohonan-dan-penerbitan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=78",
+   "retrieved_at": "2026-10-03T03:00:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-pembatalan-serta-permohonan-dan-penerbitan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 23677,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:59:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-permohonan-pemberitahuan-pemberian-pembatalan-serta-permohonan-dan-penerbitan-0"
+ },
+ "title": "TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, PEMBATALAN SERTA PERMOHONAN DAN PENERBITAN KEMBALI IZIN PENYELENGGARAAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT"
+}

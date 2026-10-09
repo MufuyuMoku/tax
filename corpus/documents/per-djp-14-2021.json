@@ -1,0 +1,112 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER14PJ2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "14",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER14PJ2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-14-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "14",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-14-2021--b000-1",
+  "per-djp-14-2021--b001-2",
+  "per-djp-14-2021--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-5-2022",
+    "key": [
+     "PER-DJP",
+     "5",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-05/PJ/2022",
+    "quote": "Pasal 3 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-14/PJ/2021 tentang Bentuk dan Isi Nota Penghitungan, Bentuk dan Isi Surat Ketetapan Pajak serta Bentuk dan Isi Surat Tagihan Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BENTUK DAN ISI NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK, SERTA SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "17",
+     "2018",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2018",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2018 tentang Bentuk dan Isi Nota Penghitungan, Bentuk danIsi Surat Ketetapan Pajak serta Bentuk dan Isi Surat Tagihan Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-17-2018"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-07-09",
+   "detail_error": null,
+   "number_as_written": "PER-14/PJ/2021",
+   "retrieved_at": "2026-10-04T03:14:48+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN ISI NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK, SERTA SURAT TAGIHAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-nota-penghitungan-surat-ketetapan-pajak-serta-surat-tagihan-pajak"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 5/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=27",
+   "retrieved_at": "2026-10-03T02:42:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-nota-penghitungan-surat-ketetapan-pajak-serta-surat-tagihan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5292,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:14:48+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-nota-penghitungan-surat-ketetapan-pajak-serta-surat-tagihan-pajak"
+ },
+ "title": "BENTUK DAN ISI NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK, SERTA SURAT TAGIHAN PAJAK"
+}

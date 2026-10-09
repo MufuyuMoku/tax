@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "perpres-97-2014",
+ "identity": {
+  "code": "PERPRES",
+  "number": "97",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "perpres-97-2014--b000-1",
+  "perpres-97-2014--b001-2",
+  "perpres-97-2014--b002-3",
+  "perpres-97-2014--b003-4",
+  "perpres-97-2014--b004-5",
+  "perpres-97-2014--b005-6",
+  "perpres-97-2014--b006-7",
+  "perpres-97-2014--b007-8",
+  "perpres-97-2014--b008-9",
+  "perpres-97-2014--b009-10",
+  "perpres-97-2014--b010-11",
+  "perpres-97-2014--b011-12",
+  "perpres-97-2014--b012-13",
+  "perpres-97-2014--b013-14",
+  "perpres-97-2014--b014-15",
+  "perpres-97-2014--b015-16",
+  "perpres-97-2014--b016-17",
+  "perpres-97-2014--b017-18",
+  "perpres-97-2014--b018-19",
+  "perpres-97-2014--b019-20",
+  "perpres-97-2014--b020-21",
+  "perpres-97-2014--b021-22",
+  "perpres-97-2014--b022-23",
+  "perpres-97-2014--b023-24",
+  "perpres-97-2014--b024-25",
+  "perpres-97-2014--b025-26",
+  "perpres-97-2014--b026-27",
+  "perpres-97-2014--b027-28",
+  "perpres-97-2014--b028-29",
+  "perpres-97-2014--b029-30",
+  "perpres-97-2014--b030-31",
+  "perpres-97-2014--b031-32",
+  "perpres-97-2014--b032-33",
+  "perpres-97-2014--b033-34",
+  "perpres-97-2014--b034-35"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PERPRES",
+     "27",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Presiden Nomor 27 Tahun 2009",
+    "quote": "Pasal 33 Dengan berlakunya Peraturan Presiden ini maka Peraturan Presiden Nomor 27 Tahun 2009 tentang Pelayanan Terpadu Satu Pintu di Bidang Penanaman Modal dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "perpres-27-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-09-15",
+   "detail_error": null,
+   "number_as_written": "97 TAHUN 2014",
+   "retrieved_at": "2026-10-04T04:11:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYELENGGARAAN  PELAYANAN   TERPADU  SATU PINTU",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-terpadu-satu-pintu"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=89",
+   "retrieved_at": "2026-10-03T03:03:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-terpadu-satu-pintu",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25911,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:11:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-terpadu-satu-pintu"
+ },
+ "title": "PENYELENGGARAAN  PELAYANAN   TERPADU  SATU PINTU"
+}

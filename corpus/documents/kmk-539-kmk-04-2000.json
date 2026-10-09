@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-539-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "539/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-22",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "539/KMK.04/2000",
+   "retrieved_at": "2026-10-03T03:57:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PIHAK LAIN YANG DAPAT DIBERIKAN KETERANGAN OLEH PEJABAT DAN TENAGA AHLI YANG DITUNJUK MENGENAI SEGALA SESUATU YANG DIKETAHUI ATAU DIBERITAHUKAN KEPADANYA OLEH WAJIB PAJAK DALAM RANGKA JABATAN ATAU PEKERJAANNYA UNTUK MENJALANKAN KETENTUAN PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pihak-lain-yang-dapat-diberikan-keterangan-oleh-pejabat-dan-tenaga-ahli-yang-ditunjuk"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=224",
+   "retrieved_at": "2026-10-03T03:57:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pihak-lain-yang-dapat-diberikan-keterangan-oleh-pejabat-dan-tenaga-ahli-yang-ditunjuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PIHAK LAIN YANG DAPAT DIBERIKAN KETERANGAN OLEH PEJABAT DAN TENAGA AHLI YANG DITUNJUK MENGENAI SEGALA SESUATU YANG DIKETAHUI ATAU DIBERITAHUKAN KEPADANYA OLEH WAJIB PAJAK DALAM RANGKA JABATAN ATAU PEKERJAANNYA UNTUK MENJALANKAN KETENTUAN PERATURAN PERUNDANG-UNDANGAN PERPAJAKAN"
+}

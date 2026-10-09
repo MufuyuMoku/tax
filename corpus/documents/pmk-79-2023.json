@@ -8,6 +8,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PMK792023.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-79-2023",
  "identity": {
@@ -17,6 +27,7 @@
   "year": "2023"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-79-2023--b000-1",
   "pmk-79-2023--b001-2",
@@ -75,10 +86,19 @@
    "title_as_written": "TATA CARA PENILAIAN UNTUK TUJUAN PERPAJAKAN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penilaian-untuk-tujuan-perpajakan"
+  },
+  {
+   "date_as_written": "2023-08-22 00:00:00",
+   "number_as_written": "PMK 79 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penilaian untuk Tujuan Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2023"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -90,6 +110,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penilaian-untuk-tujuan-perpajakan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:18:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

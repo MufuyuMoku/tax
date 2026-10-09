@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-18-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "18",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-18-2025--b000-1",
+  "per-djp-18-2025--b001-2",
+  "per-djp-18-2025--b002-3",
+  "per-djp-18-2025--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-09-24",
+   "detail_error": null,
+   "number_as_written": "PER-18/PJ/2025",
+   "retrieved_at": "2026-10-04T03:00:31+00:00",
+   "source": "DJP",
+   "title_as_written": "TINDAK LANJUT ATAS DATA KONKRET",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tindak-lanjut-atas-data-konkret"
+  },
+  {
+   "date_as_written": "2025-09-24 12:00:00",
+   "number_as_written": "PER-18/PJ/2025",
+   "page_retrieved_at": "2026-10-05T06:24:42+00:00",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tindak Lanjut atas Data Konkret",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-18pj2025",
+   "validity_as_written": "24 Sep 2025 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=6",
+   "retrieved_at": "2026-10-03T02:33:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tindak-lanjut-atas-data-konkret",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=3",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-18pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7151,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:00:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tindak-lanjut-atas-data-konkret"
+ },
+ "title": "TINDAK LANJUT ATAS DATA KONKRET"
+}

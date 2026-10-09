@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-8-2023",
  "identity": {
@@ -16,6 +22,7 @@
    "title": "TATA CARA PENGECUALIAN PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN ATAU PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA DAN PEMBEBASAN DARI PEMUNGUTAN PAJAK PENGHASILAN ATAS PENJUALAN RUMAH TINGGAL ATAU HUNIAN YANG TERGOLONG SANGAT MEWAH DI KAWASAN EKONOMI KHUSUS PARIWISATA"
   }
  ],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -40,7 +47,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

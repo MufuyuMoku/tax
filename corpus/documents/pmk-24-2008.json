@@ -1,0 +1,173 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-24-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "24",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-24-2008--b000-1",
+  "pmk-24-2008--b001-2",
+  "pmk-24-2008--b002-3",
+  "pmk-24-2008--b003-4",
+  "pmk-24-2008--b004-5",
+  "pmk-24-2008--b005-6",
+  "pmk-24-2008--b006-7",
+  "pmk-24-2008--b007-8",
+  "pmk-24-2008--b008-9",
+  "pmk-24-2008--b009-10",
+  "pmk-24-2008--b010-11",
+  "pmk-24-2008--b011-12",
+  "pmk-24-2008--b012-13",
+  "pmk-24-2008--b013-14",
+  "pmk-24-2008--b014-15",
+  "pmk-24-2008--b015-16",
+  "pmk-24-2008--b016-17",
+  "pmk-24-2008--b017-18",
+  "pmk-24-2008--b018-19",
+  "pmk-24-2008--b019-20",
+  "pmk-24-2008--b020-21",
+  "pmk-24-2008--b021-22",
+  "pmk-24-2008--b022-23",
+  "pmk-24-2008--b023-24",
+  "pmk-24-2008--b024-25",
+  "pmk-24-2008--b025-26",
+  "pmk-24-2008--b026-27",
+  "pmk-24-2008--b027-28",
+  "pmk-24-2008--b028-29",
+  "pmk-24-2008--b029-30",
+  "pmk-24-2008--b030-31"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-85-2010",
+    "key": [
+     "PMK",
+     "85",
+     "2010",
+     null
+    ],
+    "number_as_written": "85/PMK.03/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 24/PMK.03/2008 tentang Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 24/PMK.03/2008 TENTANG TATA CARA PELAKSANAAN PENAGIHAN DENGAN SURAT PAKSA DAN PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-189-2020",
+    "key": [
+     "PMK",
+     "189",
+     "2020",
+     null
+    ],
+    "number_as_written": "189/PMK.03/2020",
+    "quote": "Pasal 87 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 24/PMK.03/2008 tentang Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus; dan c. Peraturan Menteri Keuangan Nomor 85/PMK.03/2010 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 24/PMK.03/2008 tentang Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus (Berita Negara Republik Indonesia Tahun 2010 Nomor 189), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "561/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 561/KMK.04/2000",
+    "quote": "Pasal 30 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Keputusan Menteri Keuangan Nomor 561/KMK.04/2000 tentang Tata Cara Pelaksanaan Penagihan Seketika dan Sekaligus dan Pelaksanaan Surat Paksa dinyatakan tidak berlaku, kecuali untuk hak dan kewajiban perpajakan untuk Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak 2007 dan sebelumnya.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-561-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "564/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 564/KMK.04/2000",
+    "quote": "2. Keputusan Menteri Keuangan Nomor 564/KMK.04/2000 tentang Tata Cara Pelaksanaan Surat Paksa dan Penyitaan di Luar Wilayah Kerja Pejabat yang Menerbitkan Surat Paksa, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-564-kmk-04-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-02-06",
+   "detail_error": null,
+   "number_as_written": "24/PMK.03/2008",
+   "retrieved_at": "2026-10-05T02:20:54+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN DENGAN SURAT PAKSA DAN PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-dengan-surat-paksa-dan-pelaksanaan-penagihan-seketika-dan"
+  },
+  {
+   "date_as_written": "2008-02-06 00:00:00",
+   "number_as_written": "24/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pelaksanaan Penagihan dengan Surat Paksa dan Pelaksanaan Penagihan Seketika dan Sekaligus",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/24-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=173",
+   "retrieved_at": "2026-10-03T03:35:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-dengan-surat-paksa-dan-pelaksanaan-penagihan-seketika-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=417",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/24-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 27103,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:20:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-dengan-surat-paksa-dan-pelaksanaan-penagihan-seketika-dan"
+ },
+ "title": "TATA CARA PELAKSANAAN PENAGIHAN DENGAN SURAT PAKSA DAN PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS"
+}

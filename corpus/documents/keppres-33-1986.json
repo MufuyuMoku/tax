@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-33-1986",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "33",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-07-29",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "33 TAHUN 1986",
+   "retrieved_at": "2026-10-03T04:05:43+00:00",
+   "source": "DJP",
+   "title_as_written": "KEWAJIBAN PENYAMPAIAN LAPORAN PAJAK-PAJAK PRIBADI BAGI PEJABAT NEGARA, PEGAWAI NEGERI SIPIL, ANGGOTA ANGKATAN BERSENJATA REPUBLIK INDONESIA, DAN PEGAWAI BADAN USAHA MILIK NEGARA DAN DAERAH",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/kewajiban-penyampaian-laporan-pajak-pajak-pribadi-bagi-pejabat-negara-pegawai-negeri"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=248",
+   "retrieved_at": "2026-10-03T04:05:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kewajiban-penyampaian-laporan-pajak-pajak-pribadi-bagi-pejabat-negara-pegawai-negeri",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "KEWAJIBAN PENYAMPAIAN LAPORAN PAJAK-PAJAK PRIBADI BAGI PEJABAT NEGARA, PEGAWAI NEGERI SIPIL, ANGGOTA ANGKATAN BERSENJATA REPUBLIK INDONESIA, DAN PEGAWAI BADAN USAHA MILIK NEGARA DAN DAERAH"
+}

@@ -1,0 +1,129 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK 119 TAHUN 2024.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "119",
+    "year": "2024"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PMK%20119%20TAHUN%202024.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-119-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "119",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-119-2024--b000-i",
+  "pmk-119-2024--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "39",
+     "2018",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 39/PMK.03/2018",
+    "quote": "Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak (Berita Negara Republik Indonesia Tahun 2018 Nomor 514) yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: a. Nomor 117/PMK.03/2019 tentang Perubahan atas Peraturan Menteri Keuangan Nomor tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak (Berita Negara Republik Indonesia Tahun 2019 Nomor 934); dan b. Nomor 209/PMK.03/2021 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak (Berita Negara Republik Indonesia Tahun 2021 Nomor 1473), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-39-2018"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-28-2026",
+    "key": [
+     "PMK",
+     "28",
+     "2026",
+     null
+    ],
+    "number_as_written": "28 TAHUN 2026",
+    "quote": "Pasal 25 Pada saat Peraturan Menteri ini mulai berlaku: a. terhadap keputusan penetapan Wajib Pajak dengan kriteria tertentu yang telah diterbitkan berdasarkan Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 119 TAHUN 2024 tentang Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGEMBALIAN PENDAHULUANKELEBIHAN PEMBAYARAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-12-23",
+   "detail_error": null,
+   "number_as_written": "119 TAHUN 2024",
+   "retrieved_at": "2026-10-04T03:03:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 39/PMK.03/2018 TENTANG TATA CARA PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-39pmk032018-tentang-tata-cara"
+  },
+  {
+   "date_as_written": "2024-12-23 00:00:00",
+   "number_as_written": "PMK 119 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:16:40+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan ketiga atas Peraturan Menteri Keuangan Nomor 39/PMK.03/2018 tentang Tata Cara Pengembalian Pendahuluan Kelebihan Pembayaran Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-119-tahun-2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 28/2026 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=10",
+   "retrieved_at": "2026-10-03T02:36:33+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-39pmk032018-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=21",
+   "retrieved_at": "2026-09-21T14:16:40+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-119-tahun-2024",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 50039,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:03:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-39pmk032018-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 39/PMK.03/2018 TENTANG TATA CARA PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK"
+}

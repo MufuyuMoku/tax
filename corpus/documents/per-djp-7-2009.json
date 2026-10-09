@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-7-2009",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2009"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-7-2009--b000-i",
   "per-djp-7-2009--b001-ii"

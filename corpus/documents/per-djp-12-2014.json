@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-12-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "12",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-12-2014--b000-1",
+  "per-djp-12-2014--b001-2",
+  "per-djp-12-2014--b002-3",
+  "per-djp-12-2014--b003-4",
+  "per-djp-12-2014--b004-5",
+  "per-djp-12-2014--b005-6",
+  "per-djp-12-2014--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-04-02",
+   "detail_error": null,
+   "number_as_written": "PER-12/PJ/2014",
+   "retrieved_at": "2026-10-04T04:15:50+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK SECARA JABATAN ATAS PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI TAHUN 2014",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pencabutan-pengukuhan-pengusaha-kena-pajak-secara-jabatan-atas-pengusaha-kecil"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=92",
+   "retrieved_at": "2026-10-03T03:04:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pencabutan-pengukuhan-pengusaha-kena-pajak-secara-jabatan-atas-pengusaha-kecil",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8459,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:15:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pencabutan-pengukuhan-pengusaha-kena-pajak-secara-jabatan-atas-pengusaha-kecil"
+ },
+ "title": "TATA CARA PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK SECARA JABATAN ATAS PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI TAHUN 2014"
+}

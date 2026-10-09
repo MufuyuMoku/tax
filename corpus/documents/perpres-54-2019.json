@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "perpres-54-2019",
+ "identity": {
+  "code": "PERPRES",
+  "number": "54",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "perpres-54-2019--b000-1",
+  "perpres-54-2019--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-08-07",
+   "detail_error": null,
+   "number_as_written": "54 TAHUN 2019",
+   "retrieved_at": "2026-10-04T03:35:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SAN MARINO UNTUK PERTUKARAN INFORMASI BERKENAAN DENGAN KEPERLUAN PERPAJAKAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF REPUBLIC OF SAN MARINO FOR THE EXCHANGE OF INFORMATION RELATING TO TAX MATTERS)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-republik-san"
+  },
+  {
+   "date_as_written": "2019-08-07 00:00:00",
+   "number_as_written": "PERPRES 54 TAHUN 2019",
+   "retrieved_at": "2026-09-21T14:12:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengesahan Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Republik San Marino untuk Pertukaran Informasi Berkenaan Dengan\r\nKeperluan Perpajakan (Agreement Between The Government Of The Republic Of Indonesia And. The Government Of Republic Of San Maino For The Exchange Of Information Relating To Tax Matters)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-54-tahun-2019"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=49",
+   "retrieved_at": "2026-10-03T02:50:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-republik-san",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Presiden&order=desc&page=9",
+   "retrieved_at": "2026-09-21T14:12:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perpres-54-tahun-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3697,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:35:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-republik-san"
+ },
+ "title": "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SAN MARINO UNTUK PERTUKARAN INFORMASI BERKENAAN DENGAN KEPERLUAN PERPAJAKAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF REPUBLIC OF SAN MARINO FOR THE EXCHANGE OF INFORMATION RELATING TO TAX MATTERS)"
+}

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 348,
+ "document_id": "kep-djp-34-2003",
+ "document_number": "KEP-34/PJ./2003",
+ "document_title": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK",
+ "id": "kep-djp-34-2003--b001-2",
+ "label": "2",
+ "order": 1,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 2\nKode Klasifikasi Lapangan Usaha Wajib Pajak dipergunakan untuk:\na.\nTata Usaha Wajib Pajak, seperti data Kelompok Kegiatan Ekonomi Wajib Pajak dalam Master File Wajib Pajak, Kelompok Kegiatan Ekonomi pada SPT Pajak Penghasilan dan SPT Masa PPN dan PPn BM;\nb.\nDasar penyusunan Norma Penghitungan Penghasilan Neto;\nc.\nKeperluan khusus lainnya.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T03:18:06+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-lapangan-usaha-wajib-pajak"
+ }
+}

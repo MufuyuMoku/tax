@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-138-2020",
+ "identity": {
+  "code": "PMK",
+  "number": "138",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-138-2020--b000-1",
+  "pmk-138-2020--b001-2",
+  "pmk-138-2020--b002-3",
+  "pmk-138-2020--b003-4",
+  "pmk-138-2020--b004-5",
+  "pmk-138-2020--b005-6",
+  "pmk-138-2020--b006-7",
+  "pmk-138-2020--b007-8",
+  "pmk-138-2020--b008-9",
+  "pmk-138-2020--b009-10",
+  "pmk-138-2020--b010-11",
+  "pmk-138-2020--b011-12",
+  "pmk-138-2020--b012-13",
+  "pmk-138-2020--b013-14",
+  "pmk-138-2020--b014-15",
+  "pmk-138-2020--b015-16",
+  "pmk-138-2020--b016-17",
+  "pmk-138-2020--b017-18",
+  "pmk-138-2020--b018-19",
+  "pmk-138-2020--b019-20",
+  "pmk-138-2020--b020-21",
+  "pmk-138-2020--b021-22",
+  "pmk-138-2020--b022-23",
+  "pmk-138-2020--b023-24",
+  "pmk-138-2020--b024-25",
+  "pmk-138-2020--b025-26",
+  "pmk-138-2020--b026-27",
+  "pmk-138-2020--b027-28",
+  "pmk-138-2020--b028-29"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "85",
+     "2020",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 85/PMK.05/2020",
+    "quote": "Pasal 28 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 85/PMK.05/2020 tentang Tata Cara Pemberian Subsidi Bunga/Subsidi Margin untuk Kredit/Pembiayaan Usaha Mikro, Usaha Kecil, dan Usaha Menengah dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional (Berita Negara Republik Indonesia Tahun 2020 Nomor 736), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-85-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-09-25",
+   "detail_error": null,
+   "number_as_written": "138/PMK.05/2020",
+   "retrieved_at": "2026-10-04T03:22:23+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-subsidi-bungasubsidi-margin-dalam-rangka-mendukung-pelaksanaan"
+  },
+  {
+   "date_as_written": "2020-09-25 00:00:00",
+   "number_as_written": "138/PMK.05/2020",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "source": "JDIH",
+   "title_as_written": " Tata Cara Pemberian Subsidi Bunga/Subsidi Margin dalam rangka Mendukung Pelaksanaan Program Pemulihan Ekonomi Nasional",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/138-pmk-05-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=36",
+   "retrieved_at": "2026-10-03T02:45:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-subsidi-bungasubsidi-margin-dalam-rangka-mendukung-pelaksanaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=107",
+   "retrieved_at": "2026-09-21T14:22:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/138-pmk-05-2020",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 40439,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:22:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-subsidi-bungasubsidi-margin-dalam-rangka-mendukung-pelaksanaan"
+ },
+ "title": "TATA CARA PEMBERIAN SUBSIDI BUNGA/SUBSIDI MARGIN DALAM RANGKA MENDUKUNG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL"
+}

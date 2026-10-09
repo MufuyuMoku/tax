@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-26-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "26",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-26-2013--b000-i",
+  "per-djp-26-2013--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "34",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-34/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-34-2010"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2025",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2025",
+    "quote": "Pasal 146 a. Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 10. Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2013 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2010 tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak PenghasiIan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya; … 25. Keputusan Direktur Jenderal Pajak Nomor KEP-537/PJ./2000 tentang Penghitungan Besarnya Angsuran Pajak dalam Tahun Pajak Berjalan dalam Hal-Hal Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-07-05",
+   "detail_error": null,
+   "number_as_written": "PER-26/PJ/2013",
+   "retrieved_at": "2026-10-04T04:23:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-34/PJ/2010 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI DAN WAJIB PAJAK BADAN BESERTA PETUNJUK PENGISIANNYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-34pj2010-tentang-bentuk-formulir"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=99",
+   "retrieved_at": "2026-10-03T03:07:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-34pj2010-tentang-bentuk-formulir",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4280,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:23:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-34pj2010-tentang-bentuk-formulir"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-34/PJ/2010 TENTANG BENTUK FORMULIR SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI DAN WAJIB PAJAK BADAN BESERTA PETUNJUK PENGISIANNYA"
+}

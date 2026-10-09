@@ -1,0 +1,97 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN PER-13.PJ.2025.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%20PER-13.PJ.2025.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-13-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-13-2025--b000-1",
+  "per-djp-13-2025--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-07-14",
+   "detail_error": null,
+   "number_as_written": "PER-13/PJ/2025",
+   "retrieved_at": "2026-10-04T03:01:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PIAGAM WAJIB PAJAK (TAXPAYERS’ CHARTER)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/piagam-wajib-pajak-taxpayers-charter"
+  },
+  {
+   "date_as_written": "2025-07-14 12:00:00",
+   "number_as_written": "PER-13/PJ/2025",
+   "page_retrieved_at": "2026-10-05T06:26:26+00:00",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Piagam Wajib Pajak (Taxpayers Charter)",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-13pj2025",
+   "validity_as_written": "14 Jul 2025 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=7",
+   "retrieved_at": "2026-10-03T02:33:30+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/piagam-wajib-pajak-taxpayers-charter",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=3",
+   "retrieved_at": "2026-09-21T14:55:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-13pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 1649,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:01:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/piagam-wajib-pajak-taxpayers-charter"
+ },
+ "title": "PIAGAM WAJIB PAJAK (TAXPAYERS’ CHARTER)"
+}

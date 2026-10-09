@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-90-2017",
  "identity": {
@@ -9,16 +19,44 @@
   "year": "2017"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-90-2017--b000-i",
+  "pmk-90-2017--b001-ii"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
-  "amends": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "766/KMK.04",
+     "1992",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 766/KMK.04/1992 tentang Tata Cara Penghitungan, Penyetoran dan Pelaporan Bagian Pemerintah, Pajak Penghasilan, Pajak Pertambahan Nilai dan Pungutan-Pungutan Lainnya atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 209/KMK.04/1998 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 766/KMK.04/1992 tentang Tata Cara Penghitungan, Penyetoran dan Pelaporan Bagian Pemerintah, Pajak Penghasilan, Pajak Pertambahan Nilai dan Pungutan-Pungutan Lainnya atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi/Listrik, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-766-kmk-04-1992"
+   }
+  ],
   "revoked_by": [],
   "revokes": [],
   "source_listed_related": []
  },
  "source_records": [
+  {
+   "date_as_written": "2017-07-05",
+   "detail_error": null,
+   "number_as_written": "90/PMK.02/2017",
+   "retrieved_at": "2026-10-04T03:43:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-766kmk041992-tentang-tata-cara"
+  },
   {
    "date_as_written": "2017-07-05 00:00:00",
    "number_as_written": "90/PMK.02/2017",
@@ -33,11 +71,19 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=62",
+   "retrieved_at": "2026-10-03T02:54:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-766kmk041992-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=179",
    "retrieved_at": "2026-09-21T14:27:20+00:00",
@@ -47,16 +93,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "perubahan",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 18235,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-04T03:43:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-keputusan-menteri-keuangan-nomor-766kmk041992-tentang-tata-cara"
  },
- "title": "Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 766/ Kmk.04/1992 tentang Tata Cara Penghitungan, Penyetoran dan Pelaporan Bagian Pemerintah, Pajak Penghasilan, Pajak Pertambahan Nilai dan Pungutan-Pungutan Lainnya atas Hasil Pengusahaan Sumber Daya Panas Bumi untuk Pembangkitan Energi / Listrik."
+ "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 766/KMK.04/1992 TENTANG TATA CARA PENGHITUNGAN, PENYETORAN DAN PELAPORAN BAGIAN PEMERINTAH, PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI DAN PUNGUTAN-PUNGUTAN LAINNYA ATAS HASIL PENGUSAHAAN SUMBER DAYA PANAS BUMI UNTUK PEMBANGKITAN ENERGI/LISTRIK"
 }

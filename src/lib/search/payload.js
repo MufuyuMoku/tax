@@ -4,7 +4,7 @@ import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import { listPasalIds, loadDocument, loadIndex, loadPasal, loadMeta } from "../corpus.js";
-import { regulationLabel } from "../labels.js";
+import { categoryNote, regulationLabel } from "../labels.js";
 import { buildOcrMap, tokenFrequencies } from "./normalize.js";
 
 const DATA = path.join(process.cwd(), "src", "data", "search");
@@ -51,6 +51,8 @@ export function buildSearchPayload() {
       hasText: entry.text_available,
       pasal: entry.pasal_count,
       noTextReason: doc.text.unavailable_reason,
+      categories: (doc.categories || []).map((c) => c.kategori).filter((c, i, all) => all.indexOf(c) === i),
+      categoryNote: categoryNote(doc.categories || []),
       sources: doc.source_records.map((r) => ({ source: r.source, url: r.url })),
       twins: (doc.identity_conflicts || []).map((c) => ({
         id: c.id,

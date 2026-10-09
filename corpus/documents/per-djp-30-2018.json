@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-30-2018",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2018"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-30-2018--b000-1",
   "per-djp-30-2018--b001-2"
@@ -539,10 +550,19 @@
    "title_as_written": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-dan-keputusan-direktur-jenderal-pajak-2"
+  },
+  {
+   "date_as_written": "2018-12-18 00:00:00",
+   "number_as_written": "PER-30/PJ/2018",
+   "retrieved_at": "2026-09-21T14:57:28+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Peraturan Direktur Jenderal Pajak dan Keputusan Direktur Jenderal Pajak dalam rangka Simplifikasi Regulasi",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-30-pj-2018"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -554,6 +574,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-direktur-jenderal-pajak-dan-keputusan-direktur-jenderal-pajak-2",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=33",
+   "retrieved_at": "2026-09-21T14:57:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-30-pj-2018",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

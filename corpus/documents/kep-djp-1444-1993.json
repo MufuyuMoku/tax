@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-1444-1993",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "1993"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-1444-1993--b000-1",
   "kep-djp-1444-1993--b001-2",
@@ -21,7 +32,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-34-2003",
+    "key": [
+     "KEP-DJP",
+     "34",
+     "2003",
+     null
+    ],
+    "number_as_written": "KEP-34/PJ./2003",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, maka Keputusan Direktur Jenderal Pajak Nomor : KEP-1444/PJ.24/1993 tanggal 14 Desember 1993 tentang Klasifikasi Lapangan Usaha Wajib Pajak dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -38,7 +64,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

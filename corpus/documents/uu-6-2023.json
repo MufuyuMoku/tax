@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "uu-6-2023",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2023"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "uu-6-2023--b000-1",
   "uu-6-2023--b001-2",
@@ -33,10 +44,19 @@
    "title_as_written": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG",
    "type_as_written": "Undang-Undang",
    "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-2-tahun-2022-tentang-cipta"
+  },
+  {
+   "date_as_written": "2022-12-30 00:00:00",
+   "number_as_written": "UU 6 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:01:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2023"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -48,6 +68,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-2-tahun-2022-tentang-cipta",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=2",
+   "retrieved_at": "2026-09-21T14:01:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

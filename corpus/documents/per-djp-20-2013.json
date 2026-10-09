@@ -1,0 +1,263 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-20-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "20",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-20-2013--b000-1",
+  "per-djp-20-2013--b001-2",
+  "per-djp-20-2013--b002-3",
+  "per-djp-20-2013--b003-4",
+  "per-djp-20-2013--b004-5",
+  "per-djp-20-2013--b005-6",
+  "per-djp-20-2013--b006-7",
+  "per-djp-20-2013--b007-8",
+  "per-djp-20-2013--b008-9",
+  "per-djp-20-2013--b009-10",
+  "per-djp-20-2013--b010-11",
+  "per-djp-20-2013--b011-12",
+  "per-djp-20-2013--b012-13",
+  "per-djp-20-2013--b013-14",
+  "per-djp-20-2013--b014-15",
+  "per-djp-20-2013--b015-16",
+  "per-djp-20-2013--b016-17",
+  "per-djp-20-2013--b017-18",
+  "per-djp-20-2013--b018-19",
+  "per-djp-20-2013--b019-20",
+  "per-djp-20-2013--b020-21",
+  "per-djp-20-2013--b021-22",
+  "per-djp-20-2013--b022-23",
+  "per-djp-20-2013--b023-24",
+  "per-djp-20-2013--b024-25",
+  "per-djp-20-2013--b025-26",
+  "per-djp-20-2013--b026-27",
+  "per-djp-20-2013--b027-28",
+  "per-djp-20-2013--b028-29",
+  "per-djp-20-2013--b029-30",
+  "per-djp-20-2013--b030-31",
+  "per-djp-20-2013--b031-32",
+  "per-djp-20-2013--b032-33",
+  "per-djp-20-2013--b033-34",
+  "per-djp-20-2013--b034-35",
+  "per-djp-20-2013--b035-36",
+  "per-djp-20-2013--b036-37",
+  "per-djp-20-2013--b037-38",
+  "per-djp-20-2013--b038-39",
+  "per-djp-20-2013--b039-40",
+  "per-djp-20-2013--b040-41",
+  "per-djp-20-2013--b041-42",
+  "per-djp-20-2013--b042-43",
+  "per-djp-20-2013--b043-44",
+  "per-djp-20-2013--b044-45",
+  "per-djp-20-2013--b045-46",
+  "per-djp-20-2013--b046-47",
+  "per-djp-20-2013--b047-48",
+  "per-djp-20-2013--b048-49"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-38-2013",
+    "key": [
+     "PER-DJP",
+     "38",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-38/PJ/2013",
+    "quote": "Ketentuan Pasal 6 ayat (1) dalam Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2013 tentang Tata Cara Pendaftaran dan Pemberian Nomor Pokok Wajib Pajak, Pelaporan Usaha dan Pengukuhan Pengusaha Kena Pajak, Penghapusan Nomor Pokok Wajib Pajak dan Pencabutan Pengukuhan Pengusaha Kena Pajak, serta Perubahan Data dan Pemindahan Wajib Pajak, diubah sehingga Pasal 6 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-20/PJ/2013 TENTANG TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "161",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-161/PJ./2001",
+    "quote": "Pasal 48 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, a. Keputusan Direktur Jenderal Pajak Nomor KEP-161/PJ./2001 tentang Jangka Waktu Pendaftaran dan Pelaporan Kegiatan Usaha serta Tata Cara Pendaftaran serta Pengukuhan dan Pencabutan Pengusaha Kena Pajak; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-161-2001"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "144",
+     "2005",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-144/PJ./2005",
+    "quote": "… b. Keputusan Direktur Jenderal Pajak Nomor KEP-144/PJ./2005 tentang Tata Cara Penerbitan Nomor Pokok Wajib Pajak secara Jabatan oleh Kantor Pusat Direktorat Jenderal Pajak dan Penghapusannya; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-144-2005"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "47",
+     "2006",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-47/PJ./2006",
+    "quote": "… c. Keputusan Direktur Jenderal Pajak Nomor KEP-47/PJ./2006 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor KEP-144/PJ/2005 Tentang Tata Cara Penerbitan Nomor Pokok Wajib Pajak Secara Jabatan oleh Kantor Pusat Direktorat Jenderal Pajak dan Penghapusannya; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-47-2006"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "160",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-160/PJ/2007",
+    "quote": "… d. Peraturan Direktur Jenderal Pajak Nomor PER-160/PJ/2007 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-161/PJ/2001 Tentang Jangka Waktu Pendaftaran dan Pelaporan Kegiatan Usaha, Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak, serta Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-160-2007"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "26",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2008",
+    "quote": "… e. Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2008 tentang Tata Cara Penanganan Wajib Pajak yang Memiliki Nomor Pokok Wajib Pajak dengan Pengguna Ganda; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-26-2008"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "44",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008",
+    "quote": "… f. Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-44-2008"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "51",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-51/PJ/2008",
+    "quote": "… g. Peraturan Direktur Jenderal Pajak Nomor PER-51/PJ/2008 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak bagi Anggota Keluarga; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-51-2008"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "41",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor 41/PJ/2009",
+    "quote": "… h. Peraturan Direktur Jenderal Pajak Nomor 41/PJ/2009 tentang Perubahan atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak; i. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2009 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak dan Perubahan Data Wajib Pajak dan/atau Pengusaha Kena Pajak Dengan Sistem e-Registration ; dan j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-41-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "24",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2009",
+    "quote": "… i. Peraturan Direktur Jenderal Pajak Nomor PER-24/PJ/2009 tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak dan Perubahan Data Wajib Pajak dan/atau Pengusaha Kena Pajak Dengan Sistem e-Registration ; dan j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-24-2009"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "62",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010",
+    "quote": "… j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-62-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-05-30",
+   "detail_error": null,
+   "number_as_written": "PER-20/PJ/2013",
+   "retrieved_at": "2026-10-04T04:25:36+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak-pelaporan-usaha-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=100",
+   "retrieved_at": "2026-10-03T03:07:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak-pelaporan-usaha-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 80594,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:25:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak-pelaporan-usaha-dan"
+ },
+ "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+}

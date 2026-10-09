@@ -145,6 +145,7 @@ export class SearchEngine {
   passesFilters(doc, filters) {
     if (!filters) return true;
     if (filters.codes && filters.codes.length && !filters.codes.includes(doc.code)) return false;
+    if (filters.category && !(doc.categories || []).includes(filters.category)) return false;
     if (filters.statuses && filters.statuses.length && !filters.statuses.includes(doc.status)) return false;
     const year = Number(doc.year);
     if (filters.from && !(year >= filters.from)) return false;

@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { loadIndex, loadDocument, loadPasal } from "../../lib/corpus.js";
-import { statusLabel, typeLabel, yearLabel, formatDate, flagNote, regulationLabel, STRUCTURE_NOTE } from "../../lib/labels.js";
+import { categoryNote, statusLabel, typeLabel, yearLabel, formatDate, flagNote, regulationLabel, STRUCTURE_NOTE } from "../../lib/labels.js";
 
 export function getStaticPaths() {
   return loadIndex().map((entry) => ({ params: { id: entry.id } }));
@@ -44,6 +44,7 @@ const relations = [
     <span class="tanda netral">{yearLabel(doc.identity.year)}</span>
     {doc.identity.variant && <span class="tanda netral">{doc.identity.variant}</span>}
   </p>
+  {(doc.categories || []).length > 0 && <p class="kartu-asal">{categoryNote(doc.categories)}</p>}
 
   {doc.identity_conflicts.length > 0 && (
     <div class="notice">
@@ -225,6 +226,18 @@ const relations = [
         <strong>Teks tidak tersedia di sumber.</strong> {doc.text.unavailable_reason}. Yang bisa
         ditampilkan hanya metadata di atas. Buka halaman sumbernya untuk memastikan sendiri.
       </p>
+      {(doc.original_files || []).length > 0 && (
+        <p>
+          Berkas aslinya:{" "}
+          {doc.original_files.map((file, i) => (
+            <>
+              {i > 0 && " · "}
+              <a href={file.url} rel="noopener">buka PDF di JDIH</a>
+              <span class="hint"> ({file.reason}, diambil {formatDate(file.retrieved_at)})</span>
+            </>
+          ))}
+        </p>
+      )}
       {twinsWithText.length > 0 && (
         <p>
           <strong>Teksnya ada pada catatan kembarannya.</strong> Peraturan dengan nomor, tahun, dan

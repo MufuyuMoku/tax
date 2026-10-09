@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-6-2019",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2019"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-6-2019--b000-1",
   "per-djp-6-2019--b001-4",
@@ -50,10 +61,19 @@
    "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-41/PJ/2015 TENTANG PENGAMANAN TRANSAKSI ELEKTRONIK LAYANAN PAJAK ONLINE",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-direktur-jenderal-pajak-nomor-41pj2015-tentang-pengamanan"
+  },
+  {
+   "date_as_written": "2019-03-27 00:00:00",
+   "number_as_written": "PerDJP PER-06/PJ/2019",
+   "retrieved_at": "2026-09-21T14:57:20+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Peraturan Direktur Jenderal Pajak Nomor Per-41/Pj/2015 tentang Pengamanan Transaksi Elektronik Layanan Pajak Online",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-06-pj-2019"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -65,6 +85,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-direktur-jenderal-pajak-nomor-41pj2015-tentang-pengamanan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=31",
+   "retrieved_at": "2026-09-21T14:57:20+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-06-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

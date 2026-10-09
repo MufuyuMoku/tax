@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-11-2010-ralat",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "11",
+  "variant": "ralat",
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-08-10",
+   "detail_error": null,
+   "number_as_written": "PER-11/PJ/2010",
+   "retrieved_at": "2026-10-05T01:15:39+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-11/PJ/2010 TENTANG TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, DAN PEMBATALAN IZIN MENYELENGGARAKAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-11pj2010-tentang-tata-cara-permohonan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=127",
+   "retrieved_at": "2026-10-03T03:19:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-11pj2010-tentang-tata-cara-permohonan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 1111,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:15:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/ralat-peraturan-direktur-jenderal-pajak-nomor-11pj2010-tentang-tata-cara-permohonan"
+ },
+ "title": "RALAT PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-11/PJ/2010 TENTANG TATA CARA PERMOHONAN, PEMBERITAHUAN, PEMBERIAN, DAN PEMBATALAN IZIN MENYELENGGARAKAN PEMBUKUAN DENGAN MENGGUNAKAN BAHASA INGGRIS DAN SATUAN MATA UANG DOLLAR AMERIKA SERIKAT"
+}

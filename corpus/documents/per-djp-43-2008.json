@@ -1,0 +1,91 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-43-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "43",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-43-2008--b000-1",
+  "per-djp-43-2008--b001-2",
+  "per-djp-43-2008--b002-3",
+  "per-djp-43-2008--b003-4",
+  "per-djp-43-2008--b004-5",
+  "per-djp-43-2008--b005-6",
+  "per-djp-43-2008--b006-7",
+  "per-djp-43-2008--b007-8",
+  "per-djp-43-2008--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "30",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor KEP-30/PJ/2006",
+    "quote": "Pasal 8 Dengan berlakunya Peraturan Direktur Jenderal Pajak ini, maka Peraturan Direktur Jenderal Pajak Nomor KEP-30/PJ/2006 tanggal 23 Maret 2006 tentang Pojok Pajak dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-30-2006"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-10-20",
+   "detail_error": null,
+   "number_as_written": "PER-43/PJ./2008",
+   "retrieved_at": "2026-10-05T02:04:12+00:00",
+   "source": "DJP",
+   "title_as_written": "POJOK PAJAK DAN MOBIL PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pojok-pajak-dan-mobil-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=162",
+   "retrieved_at": "2026-10-03T03:31:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pojok-pajak-dan-mobil-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6765,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:04:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pojok-pajak-dan-mobil-pajak"
+ },
+ "title": "POJOK PAJAK DAN MOBIL PAJAK"
+}

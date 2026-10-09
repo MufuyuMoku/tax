@@ -1,0 +1,147 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-120-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "120",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-120-2019--b000-1",
+  "pmk-120-2019--b001-2",
+  "pmk-120-2019--b002-3",
+  "pmk-120-2019--b003-4",
+  "pmk-120-2019--b004-5",
+  "pmk-120-2019--b005-6",
+  "pmk-120-2019--b006-7",
+  "pmk-120-2019--b007-8",
+  "pmk-120-2019--b008-10",
+  "pmk-120-2019--b009-11",
+  "pmk-120-2019--b010-12",
+  "pmk-120-2019--b011-13",
+  "pmk-120-2019--b012-14",
+  "pmk-120-2019--b013-15",
+  "pmk-120-2019--b014-16",
+  "pmk-120-2019--b015-17"
+ ],
+ "quality_flags": [
+  "urutan_loncat:8->10"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 29. Peraturan Menteri Keuangan Nomor 120/PMK.03/2019 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri (Berita Negara Republik Indonesia Tahun 2019 Nomor 954); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "76",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 76/PMK.03/2010",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri (Berita Negara Republik Indonesia Tahun 2010 Nomor 159) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Menteri Keuangan Nomor 100/PMK.03/2013 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri (Berita Negara Republik Indonesia Tahun 2013 Nomor 906), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-76-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "100",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 100/PMK.03/2013",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri (Berita Negara Republik Indonesia Tahun 2010 Nomor 159) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Menteri Keuangan Nomor 100/PMK.03/2013 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2010 tentang Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri (Berita Negara Republik Indonesia Tahun 2013 Nomor 906), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-100-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-08-23",
+   "detail_error": null,
+   "number_as_written": "120/PMK.03/2019",
+   "retrieved_at": "2026-10-04T03:34:34+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGAJUAN DAN PENYELESAIAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penyelesaian-permintaan-kembali-pajak-pertambahan-nilai-barang-0"
+  },
+  {
+   "date_as_written": "2019-08-23 00:00:00",
+   "number_as_written": "120/PMK.03/2019",
+   "retrieved_at": "2026-09-21T14:24:05+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengajuan dan Penyelesaian Permintaan Kembali Pajak Pertambahan Nilai Barang Bawaan Orang Pribadi Pemegang Paspor Luar Negeri",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2019"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=48",
+   "retrieved_at": "2026-10-03T02:49:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penyelesaian-permintaan-kembali-pajak-pertambahan-nilai-barang-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=131",
+   "retrieved_at": "2026-09-21T14:24:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/120-pmk-03-2019",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25977,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:34:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penyelesaian-permintaan-kembali-pajak-pertambahan-nilai-barang-0"
+ },
+ "title": "TATA CARA PENGAJUAN DAN PENYELESAIAN PERMINTAAN KEMBALI PAJAK PERTAMBAHAN NILAI BARANG BAWAAN ORANG PRIBADI PEMEGANG PASPOR LUAR NEGERI"
+}

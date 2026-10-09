@@ -1,0 +1,119 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-123-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "123",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-123-2006--b000-i",
+  "pmk-123-2006--b001-ii",
+  "pmk-123-2006--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KMK",
+     "545/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "KEPUTUSAN MENTERI KEUANGAN NOMOR 545/KMK.04/2000",
+    "quote": "Beberapa ketentuan dalam Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tatacara Pemeriksaan Pajak diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-545-kmk-04-2000"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-199-2007",
+    "key": [
+     "PMK",
+     "199",
+     "2007",
+     null
+    ],
+    "number_as_written": "199/PMK.03/2007",
+    "quote": "Pasal 46 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Terhadap Surat Perintah Pemeriksaan yang diterbitkan sebelum tanggal 1 Januari 2008 dan sampai dengan berlakunya Peraturan Menteri Keuangan ini belum selesai, Pemeriksaannya tetap dilakukan berdasarkan Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tata Cara Pemeriksaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.03/2006. 2. Keputusan Menteri Keuangan Nomor 545/KMK.04/2000 tentang Tata Cara Pemeriksaan Pajak sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.03/2006, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMERIKSAAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-12-07",
+   "detail_error": null,
+   "number_as_written": "123/PMK.03/2006",
+   "retrieved_at": "2026-10-05T02:48:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 545/KMK.04/2000 TENTANG TATA CARA PEMERIKSAAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-545kmk042000-tentang-tata-cara"
+  },
+  {
+   "date_as_written": "2006-12-07 00:00:00",
+   "number_as_written": "123/PMK.03/2006",
+   "retrieved_at": "2026-09-21T14:45:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan 545/PMK.04/2000 tentang Tatacara Pemeriksaan Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2006"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 199/2007 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=191",
+   "retrieved_at": "2026-10-03T03:43:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-545kmk042000-tentang-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=442",
+   "retrieved_at": "2026-09-21T14:45:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2006",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10060,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:48:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-545kmk042000-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 545/KMK.04/2000 TENTANG TATA CARA PEMERIKSAAN PAJAK"
+}

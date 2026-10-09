@@ -8,6 +8,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/UU%20PPh%20No%2036%20Th%202008.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "uu-36-2008-konsolidasi",
  "identity": {
@@ -17,6 +23,7 @@
   "year": "2008"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -39,7 +46,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

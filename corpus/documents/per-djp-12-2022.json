@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PER_12_PJ_2022.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-12-2022",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2022"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-12-2022--b000-1",
   "per-djp-12-2022--b001-2",
@@ -79,7 +86,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

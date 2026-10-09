@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-467-1985",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "467",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-11-04",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 467/PJ.4/1985",
+   "retrieved_at": "2026-10-03T04:06:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 823/KMK.04/1985",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-keputusan-menteri-keuangan-republik-indonesia-nomor-823kmk041985"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=249",
+   "retrieved_at": "2026-10-03T04:06:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-keputusan-menteri-keuangan-republik-indonesia-nomor-823kmk041985",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "PETUNJUK PELAKSANAAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR : 823/KMK.04/1985"
+}

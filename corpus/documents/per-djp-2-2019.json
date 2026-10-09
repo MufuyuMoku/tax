@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-2-2019",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2019"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-2-2019--b000-1",
   "per-djp-2-2019--b001-2",
@@ -138,6 +149,15 @@
    "title_as_written": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan"
+  },
+  {
+   "date_as_written": "2019-01-23 00:00:00",
+   "number_as_written": "PerDJP PER-02/PJ/2019",
+   "retrieved_at": "2026-09-21T14:57:24+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penyampaian, Penerimaan, dan Pengolahan Surat Pemberitahuan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-02-pj-2019"
   }
  ],
  "status": {
@@ -154,6 +174,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-penerimaan-dan-pengolahan-surat-pemberitahuan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=32",
+   "retrieved_at": "2026-09-21T14:57:24+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-02-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

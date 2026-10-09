@@ -1,0 +1,236 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-62-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "62",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-62-2009--b000-1",
+  "pmk-62-2009--b001-2",
+  "pmk-62-2009--b002-3",
+  "pmk-62-2009--b003-4",
+  "pmk-62-2009--b004-5",
+  "pmk-62-2009--b005-6",
+  "pmk-62-2009--b006-7",
+  "pmk-62-2009--b007-8",
+  "pmk-62-2009--b008-9",
+  "pmk-62-2009--b009-10",
+  "pmk-62-2009--b010-11",
+  "pmk-62-2009--b011-12",
+  "pmk-62-2009--b012-13",
+  "pmk-62-2009--b013-14",
+  "pmk-62-2009--b014-15",
+  "pmk-62-2009--b015-16",
+  "pmk-62-2009--b016-17",
+  "pmk-62-2009--b017-18",
+  "pmk-62-2009--b018-19",
+  "pmk-62-2009--b019-20",
+  "pmk-62-2009--b020-21",
+  "pmk-62-2009--b021-22",
+  "pmk-62-2009--b022-23",
+  "pmk-62-2009--b023-24",
+  "pmk-62-2009--b024-25",
+  "pmk-62-2009--b025-26",
+  "pmk-62-2009--b026-27",
+  "pmk-62-2009--b027-28",
+  "pmk-62-2009--b028-29",
+  "pmk-62-2009--b029-30",
+  "pmk-62-2009--b030-31",
+  "pmk-62-2009--b031-32",
+  "pmk-62-2009--b032-33",
+  "pmk-62-2009--b033-34",
+  "pmk-62-2009--b034-35",
+  "pmk-62-2009--b035-36",
+  "pmk-62-2009--b036-37",
+  "pmk-62-2009--b037-38",
+  "pmk-62-2009--b038-39",
+  "pmk-62-2009--b039-40",
+  "pmk-62-2009--b040-41",
+  "pmk-62-2009--b041-42",
+  "pmk-62-2009--b042-43",
+  "pmk-62-2009--b043-44",
+  "pmk-62-2009--b044-45",
+  "pmk-62-2009--b045-46",
+  "pmk-62-2009--b046-47",
+  "pmk-62-2009--b047-48",
+  "pmk-62-2009--b048-49",
+  "pmk-62-2009--b049-50",
+  "pmk-62-2009--b050-51",
+  "pmk-62-2009--b051-52",
+  "pmk-62-2009--b052-53",
+  "pmk-62-2009--b053-54",
+  "pmk-62-2009--b054-55",
+  "pmk-62-2009--b055-56",
+  "pmk-62-2009--b056-57",
+  "pmk-62-2009--b057-58",
+  "pmk-62-2009--b058-59",
+  "pmk-62-2009--b059-60",
+  "pmk-62-2009--b060-61",
+  "pmk-62-2009--b061-62",
+  "pmk-62-2009--b062-63",
+  "pmk-62-2009--b063-64",
+  "pmk-62-2009--b064-65",
+  "pmk-62-2009--b065-66",
+  "pmk-62-2009--b066-67",
+  "pmk-62-2009--b067-68",
+  "pmk-62-2009--b068-69",
+  "pmk-62-2009--b069-70",
+  "pmk-62-2009--b070-71",
+  "pmk-62-2009--b071-72",
+  "pmk-62-2009--b072-73",
+  "pmk-62-2009--b073-74",
+  "pmk-62-2009--b074-75",
+  "pmk-62-2009--b075-76",
+  "pmk-62-2009--b076-77",
+  "pmk-62-2009--b077-78",
+  "pmk-62-2009--b078-79",
+  "pmk-62-2009--b079-80",
+  "pmk-62-2009--b080-81",
+  "pmk-62-2009--b081-82",
+  "pmk-62-2009--b082-83"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-167-2012",
+    "key": [
+     "PMK",
+     "167",
+     "2012",
+     null
+    ],
+    "number_as_written": "167/PMK.01/2012",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 62/PMK.01/2009 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009 TENTANG ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "443/KMK.01",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 443/KMK.01/2001",
+    "quote": "Pasal 82 Dengan berlakunya Peraturan Menteri Keuangan ini, maka : a. Keputusan Menteri Keuangan Nomor 443/KMK.01/2001 tentang Organisasi dan Tata Kerja Kantor Wilayah Direktorat Jenderal Pajak, Kantor Pelayanan Pajak, Kantor Pelayanan Pajak Bumi dan Bangunan, Kantor Pemeriksaan dan Penyidikan Pajak, dan Kantor Penyuluhan dan Pengamatan Potensi Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 473/KMK.01/2004, dan b. Peraturan Menteri Keuangan Nomor 132/PMK.01/2006 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 67/PMK.01/2008, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-443-kmk-01-2001"
+   },
+   {
+    "key": [
+     "KMK",
+     "473/KMK.01",
+     "2004",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 473/KMK.01/2004",
+    "quote": "Pasal 82 Dengan berlakunya Peraturan Menteri Keuangan ini, maka : a. Keputusan Menteri Keuangan Nomor 443/KMK.01/2001 tentang Organisasi dan Tata Kerja Kantor Wilayah Direktorat Jenderal Pajak, Kantor Pelayanan Pajak, Kantor Pelayanan Pajak Bumi dan Bangunan, Kantor Pemeriksaan dan Penyidikan Pajak, dan Kantor Penyuluhan dan Pengamatan Potensi Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 473/KMK.01/2004, dan b. Peraturan Menteri Keuangan Nomor 132/PMK.01/2006 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 67/PMK.01/2008, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-473-kmk-01-2004"
+   },
+   {
+    "key": [
+     "PMK",
+     "132",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 132/PMK.01/2006",
+    "quote": "Pasal 82 Dengan berlakunya Peraturan Menteri Keuangan ini, maka : a. Keputusan Menteri Keuangan Nomor 443/KMK.01/2001 tentang Organisasi dan Tata Kerja Kantor Wilayah Direktorat Jenderal Pajak, Kantor Pelayanan Pajak, Kantor Pelayanan Pajak Bumi dan Bangunan, Kantor Pemeriksaan dan Penyidikan Pajak, dan Kantor Penyuluhan dan Pengamatan Potensi Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 473/KMK.01/2004, dan b. Peraturan Menteri Keuangan Nomor 132/PMK.01/2006 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 67/PMK.01/2008, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-132-2006"
+   },
+   {
+    "key": [
+     "PMK",
+     "67",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 67/PMK.01/2008",
+    "quote": "Pasal 82 Dengan berlakunya Peraturan Menteri Keuangan ini, maka : a. Keputusan Menteri Keuangan Nomor 443/KMK.01/2001 tentang Organisasi dan Tata Kerja Kantor Wilayah Direktorat Jenderal Pajak, Kantor Pelayanan Pajak, Kantor Pelayanan Pajak Bumi dan Bangunan, Kantor Pemeriksaan dan Penyidikan Pajak, dan Kantor Penyuluhan dan Pengamatan Potensi Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 473/KMK.01/2004, dan b. Peraturan Menteri Keuangan Nomor 132/PMK.01/2006 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 67/PMK.01/2008, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-67-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-04-01",
+   "detail_error": null,
+   "number_as_written": "62/PMK.01/2009",
+   "retrieved_at": "2026-10-05T01:46:50+00:00",
+   "source": "DJP",
+   "title_as_written": "ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-instansi-vertikal-direktorat-jenderal-pajak-2"
+  },
+  {
+   "date_as_written": "2009-04-01 00:00:00",
+   "number_as_written": "62/PMK.01/2009",
+   "retrieved_at": "2026-09-21T14:41:34+00:00",
+   "source": "JDIH",
+   "title_as_written": "Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-01-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=150",
+   "retrieved_at": "2026-10-03T03:27:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-instansi-vertikal-direktorat-jenderal-pajak-2",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=388",
+   "retrieved_at": "2026-09-21T14:41:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/62-pmk-01-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 44536,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:46:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-instansi-vertikal-direktorat-jenderal-pajak-2"
+ },
+ "title": "ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK"
+}

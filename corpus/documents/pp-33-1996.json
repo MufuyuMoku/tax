@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-33-1996",
  "identity": {
@@ -9,12 +15,28 @@
   "year": "1996"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pp-32-2009",
+    "key": [
+     "PP",
+     "32",
+     "2009",
+     null
+    ],
+    "number_as_written": "32 TAHUN 2009",
+    "quote": "Pasal 49 Pada saat Peraturan Pemerintah ini mulai berlaku: 1. Peraturan Pemerintah Nomor 33 Tahun 1996 tentang Tempat Penimbunan Berikat (Lembaran Negara Republik Indonesia Tahun 1996 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 3638) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 43 Tahun 1997 tentang Perubahan atas Peraturan Pemerintah Nomor 33 Tahun 1996 tentang Tempat Penimbunan Berikat (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 90, Tambahan Lembaran Negara Republik Indonesia Nomor 3717), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TEMPAT PENIMBUNAN BERIKAT"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -31,7 +53,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },

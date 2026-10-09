@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-81-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "81",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-81-2010--b000-1",
+  "pmk-81-2010--b001-2",
+  "pmk-81-2010--b002-3",
+  "pmk-81-2010--b003-4",
+  "pmk-81-2010--b004-5",
+  "pmk-81-2010--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-31-2014",
+    "key": [
+     "PMK",
+     "31",
+     "2014",
+     null
+    ],
+    "number_as_written": "31/PMK.03/2014",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Republik Indonesia Nomor 81/PMK.03/2010 tentang Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal Berproduksi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SAAT PENGHITUNGAN DAN TATA CARA PEMBAYARAN KEMBALI PAJAK MASUKAN YANG TELAH DIKREDITKAN DAN TELAH DIBERIKAN PENGEMBALIAN BAGI PENGUSAHA KENA PAJAK YANG MENGALAMI KEADAAN GAGAL BERPRODUKSI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-04-05",
+   "detail_error": null,
+   "number_as_written": "81/PMK.03/2010",
+   "retrieved_at": "2026-10-05T01:20:07+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT PENGHITUNGAN DAN TATA CARA PEMBAYARAN KEMBALI PAJAK MASUKAN YANG TELAH DIKREDITKAN DAN TELAH DIBERIKAN PENGEMBALIAN BAGI PENGUSAHA KENA PAJAK YANG MENGALAMI KEADAAN GAGAL BERPRODUKSI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-penghitungan-dan-tata-cara-pembayaran-kembali-pajak-masukan-yang-telah-dikreditkan"
+  },
+  {
+   "date_as_written": "2010-04-05 00:00:00",
+   "number_as_written": "81/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "title_as_written": "Saat Penghitungan dan Tata Cara Pembayaran Kembali Pajak Masukan yang Telah Dikreditkan dan Telah Diberikan Pengembalian Bagi Pengusaha Kena Pajak yang Mengalami Keadaan Gagal  Berproduksi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=131",
+   "retrieved_at": "2026-10-03T03:20:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-penghitungan-dan-tata-cara-pembayaran-kembali-pajak-masukan-yang-telah-dikreditkan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=362",
+   "retrieved_at": "2026-09-21T14:39:52+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/81-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6996,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:20:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/saat-penghitungan-dan-tata-cara-pembayaran-kembali-pajak-masukan-yang-telah-dikreditkan"
+ },
+ "title": "SAAT PENGHITUNGAN DAN TATA CARA PEMBAYARAN KEMBALI PAJAK MASUKAN YANG TELAH DIKREDITKAN DAN TELAH DIBERIKAN PENGEMBALIAN BAGI PENGUSAHA KENA PAJAK YANG MENGALAMI KEADAAN GAGAL BERPRODUKSI"
+}

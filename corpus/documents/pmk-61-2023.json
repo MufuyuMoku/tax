@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-61-2023",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2023"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-61-2023--b000-1",
   "pmk-61-2023--b001-2",
@@ -220,10 +231,19 @@
    "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-2"
+  },
+  {
+   "date_as_written": "2023-06-09 00:00:00",
+   "number_as_written": "PMK 61 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-61-tahun-2023"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -235,6 +255,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-2",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=44",
+   "retrieved_at": "2026-09-21T14:18:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-61-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

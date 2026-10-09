@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-25-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-25-2014--b000-i",
+  "per-djp-25-2014--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "44",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-44/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-44/PJ/2010 tentang Bentuk, lsi, dan Tata Cara Pengisian serta Penyampaian Surat Pemberitahuan Masa Pajak Pertambahan Nilai (SPT Masa PPN) sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2013, diubah, di antara Pasal 8 dan Pasal 9 disisipkan 1 (satu) pasal yakni Pasal 8A yang berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-44-2010"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-09-23",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ/2014",
+   "retrieved_at": "2026-10-04T04:10:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-44/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-44pj2010-tentang-bentuk-isi"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=88",
+   "retrieved_at": "2026-10-03T03:03:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-44pj2010-tentang-bentuk-isi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5484,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:10:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-direktur-jenderal-pajak-nomor-44pj2010-tentang-bentuk-isi"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-44/PJ/2010 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN SERTA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)"
+}

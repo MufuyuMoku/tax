@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "peraturan-menteri-perdagangan-1-2010",
+ "identity": {
+  "code": "PERATURAN MENTERI PERDAGANGAN",
+  "number": "1",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-01-26",
+   "detail_error": null,
+   "number_as_written": "02/M-DAG/PER/1/2010",
+   "retrieved_at": "2026-10-05T01:30:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI PERDAGANGAN NOMOR 23/M-DAG/PER/6/2009 TENTANG KETENTUAN IMPOR TEKSTIL DAN PRODUK TEKSTIL",
+   "type_as_written": "Peraturan Menteri Perdagangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-perdagangan-nomor-23m-dagper62009-tentang-ketentuan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=138",
+   "retrieved_at": "2026-10-03T03:23:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-perdagangan-nomor-23m-dagper62009-tentang-ketentuan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI PERDAGANGAN NOMOR 23/M-DAG/PER/6/2009 TENTANG KETENTUAN IMPOR TEKSTIL DAN PRODUK TEKSTIL"
+}

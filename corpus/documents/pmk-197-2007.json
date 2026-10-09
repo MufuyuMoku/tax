@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-197-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "197",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-197-2007--b000-1",
+  "pmk-197-2007--b001-2",
+  "pmk-197-2007--b002-3",
+  "pmk-197-2007--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-54-2021",
+    "key": [
+     "PMK",
+     "54",
+     "2021",
+     null
+    ],
+    "number_as_written": "54/PMK.03/2021",
+    "quote": "Pasal 20 Pada saat Peraturan Menteri ini mulai berlaku: a. peraturan pelaksanaan dari Peraturan Menteri Keuangan Nomor 197/PMK.03/2007 tentang Bentuk dan Tata Cara Pencatatan bagi Wajib Pajak Orang Pribadi, dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Menteri ini; dan b. Peraturan Menteri Keuangan Nomor 197/PMK.03/2007 tentang Bentuk dan Tata Cara Pencatatan bagi Wajib Pajak Orang Pribadi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA MELAKUKAN PENCATATAN DAN KRITERIA TERTENTU SERTA TATA CARA MENYELENGGARAKAN PEMBUKUAN UNTUK TUJUAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "197/PMK.03/2007",
+   "retrieved_at": "2026-10-05T02:26:06+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN TATA CARA PENCATATAN BAGI WAJIB PAJAK ORANG PRIBADI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pencatatan-bagi-wajib-pajak-orang-pribadi-0"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "197/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bentuk dan Tatacara Pencatatan Wajib Pajak Orang Pribadi",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/197-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 54/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=176",
+   "retrieved_at": "2026-10-03T03:36:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pencatatan-bagi-wajib-pajak-orang-pribadi-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=420",
+   "retrieved_at": "2026-09-21T14:43:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/197-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3273,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:26:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pencatatan-bagi-wajib-pajak-orang-pribadi-0"
+ },
+ "title": "BENTUK DAN TATA CARA PENCATATAN BAGI WAJIB PAJAK ORANG PRIBADI"
+}

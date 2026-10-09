@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-561-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "561/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-24-2008",
+    "key": [
+     "PMK",
+     "24",
+     "2008",
+     null
+    ],
+    "number_as_written": "24/PMK.03/2008",
+    "quote": "Pasal 30 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Keputusan Menteri Keuangan Nomor 561/KMK.04/2000 tentang Tata Cara Pelaksanaan Penagihan Seketika dan Sekaligus dan Pelaksanaan Surat Paksa dinyatakan tidak berlaku, kecuali untuk hak dan kewajiban perpajakan untuk Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak 2007 dan sebelumnya.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN PENAGIHAN DENGAN SURAT PAKSA DAN PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-26",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "561/KMK.04/2000",
+   "retrieved_at": "2026-10-03T03:57:04+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS DAN PELAKSANAAN SURAT PAKSA",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-seketika-dan-sekaligus-dan-pelaksanaan-surat-paksa"
+  },
+  {
+   "date_as_written": "2000-12-26 00:00:00",
+   "number_as_written": "561/KMK.04/2000",
+   "retrieved_at": "2026-09-21T14:49:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Pelaksanaan Penagihan Seketika dan Sekaligus dan Pelaksanaan Surat Paksa",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-04-2000"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 24/2008 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=223",
+   "retrieved_at": "2026-10-03T03:57:04+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-seketika-dan-sekaligus-dan-pelaksanaan-surat-paksa",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=40",
+   "retrieved_at": "2026-09-21T14:49:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-04-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS DAN PELAKSANAAN SURAT PAKSA"
+}

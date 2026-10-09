@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-114-2025",
  "identity": {
@@ -9,6 +23,7 @@
   "year": "2025"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-114-2025--b000-1",
   "pmk-114-2025--b001-2",
@@ -95,7 +110,32 @@
     "target_id": "pmk-90-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 245/PMK.03/2008 — Badan-Badan dan Orang Pribadi yang Menjalankan Usaha Mikro dan Kecil yang Menerima Harta Hibah, Bantuan, atau Sumbangan yang Tidak Termasuk Sebagai Obyek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/245-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 254/PMK.03/2010 — Tata Cara Pembebanan Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dapat Dikurangkan Dari Penghasilan Bruto.",
+    "url": "https://jdih.kemenkeu.go.id/dok/254-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 76/PMK.03/2011 — Tata Cara Pencatatan dan Pelaporan Sumbangan Penanggulangan Bencana Nasional, Sumbangan Penelitian dan Pengembangan, Sumbangan Fasilitas Pendidikan, Sumbangan Pembinaan Olahraga, dan Biaya Pembangunan Infrastruktur Sosial yang Dapat Dikurangkan Dari Penghasilan Bruto.",
+    "url": "https://jdih.kemenkeu.go.id/dok/76-pmk-03-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 90/PMK.03/2020 — Bantuan atau Sumbangan, serta Harta Hibahan yang Dikecualikan sebagai Objek Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-03-2020"
+   }
+  ]
  },
  "source_records": [
   {
@@ -111,6 +151,7 @@
   {
    "date_as_written": "2025-12-30 00:00:00",
    "number_as_written": "PMK 114 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T06:22:18+00:00",
    "retrieved_at": "2026-09-21T14:15:45+00:00",
    "selected_because": [
     "judul"
@@ -118,7 +159,8 @@
    "source": "JDIH",
    "title_as_written": "Perlakuan atas Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib, serta Harta Hibahan dalam Pajak Penghasilan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-114-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-114-tahun-2025",
+   "validity_as_written": "31 Des 2025 - s.d. Dicabut"
   }
  ],
  "status": {

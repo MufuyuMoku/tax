@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-6-2003-ralat",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "6",
+  "variant": "ralat",
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-01-06",
+   "detail_error": null,
+   "number_as_written": "KEP - 06/PJ/2003",
+   "retrieved_at": "2026-10-05T03:19:10+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT LAMPIRAN 4 KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR : KEP-17/PJ/2002 TANGGAL 9 JANUARI 2002 TENTANG BENTUK, JENIS DAN KODE KARTU, FORMULIR, SURAT DAN DAFTAR YANG DIGUNAKAN DALAM PELAKSANAAN PEMERIKSAAN LAPANGAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-lampiran-4-keputusan-direktur-jenderal-pajak-nomor-kep-17pj2002-tanggal-9-januari"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=211",
+   "retrieved_at": "2026-10-03T03:50:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-lampiran-4-keputusan-direktur-jenderal-pajak-nomor-kep-17pj2002-tanggal-9-januari",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT LAMPIRAN 4 KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR : KEP-17/PJ/2002 TANGGAL 9 JANUARI 2002 TENTANG BENTUK, JENIS DAN KODE KARTU, FORMULIR, SURAT DAN DAFTAR YANG DIGUNAKAN DALAM PELAKSANAAN PEMERIKSAAN LAPANGAN"
+}

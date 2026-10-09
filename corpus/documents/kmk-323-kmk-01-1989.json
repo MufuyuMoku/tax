@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-323-kmk-01-1989",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "1989"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kmk-323-kmk-01-1989--b000-i"
  ],
@@ -18,7 +25,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kmk-210-kmk-03-2002",
+    "key": [
+     "KMK",
+     "210/KMK.03",
+     "2002",
+     null
+    ],
+    "number_as_written": "210/KMK.03/2002",
+    "quote": "Dengan berlakunya Keputusan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 338/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 323/KMK.01/1989 dan Keputusan Menteri Keuangan Nomor 346/KMK.01/1985 yang disempurnakan dengan Keputusan Menteri Keuangan Nomor 324/KMK.01/1989 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 5/KMK.01/1993 TENTANG PENUNJUKAN BANK SEBAGAI BANK PERSEPSI DALAM RANGKA PENGELOLAAN SETORAN PENERIMAAN NEGARA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -35,7 +57,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

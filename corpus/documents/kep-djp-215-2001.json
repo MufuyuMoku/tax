@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-215-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "215",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-2-2019",
+    "key": [
+     "PER-DJP",
+     "2",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-02/PJ/2019",
+    "quote": "Pasal 27 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-215/PJ/2001 tentang Tata Cara Penerimaan Surat Pemberitahuan; 2. Peraturan Direktur Jenderal Nomor PER-179/PJ/2007 tentang Tempat Lain yang Dapat Digunakan Untuk Menerima Surat Pemberitahuan Direktur Jenderal Pajak sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2009; 3. Peraturan Direktur Jenderal Pajak Nomor PER-2/PJ/2011 tentang Tata Cara Penerimaan Surat Pemberitahuan Masa PPN sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nom or PER-21/PJ/2013; 4. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2016 tentang Tata Cara Penerimaan dan Pengolahan SPTTahunan; dan 5. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2017 tentang Penyampaian SPT Elektronik, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYAMPAIAN, PENERIMAAN, DAN PENGOLAHAN SURAT PEMBERITAHUAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-03-15",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-215/PJ./2001",
+   "retrieved_at": "2026-10-03T03:56:00+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERIMAAN SURAT PEMBERITAHUAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-surat-pemberitahuan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=220",
+   "retrieved_at": "2026-10-03T03:56:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-surat-pemberitahuan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PENERIMAAN SURAT PEMBERITAHUAN"
+}

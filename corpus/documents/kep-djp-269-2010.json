@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-269-2010",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "269",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-269-2010--b000-kedua",
+  "kep-djp-269-2010--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-06-16",
+   "detail_error": null,
+   "number_as_written": "KEP-269/PJ/2010",
+   "retrieved_at": "2026-10-05T01:17:22+00:00",
+   "source": "DJP",
+   "title_as_written": "HASIL SELEKSI KANTOR PELAYANAN PERCONTOHAN TINGKAT DIREKTORAT JENDERAL PAJAK TAHUN 2010",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/hasil-seleksi-kantor-pelayanan-percontohan-tingkat-direktorat-jenderal-pajak-tahun-2010"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=129",
+   "retrieved_at": "2026-10-03T03:19:54+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/hasil-seleksi-kantor-pelayanan-percontohan-tingkat-direktorat-jenderal-pajak-tahun-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3343,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:17:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/hasil-seleksi-kantor-pelayanan-percontohan-tingkat-direktorat-jenderal-pajak-tahun-2010"
+ },
+ "title": "HASIL SELEKSI KANTOR PELAYANAN PERCONTOHAN TINGKAT DIREKTORAT JENDERAL PAJAK TAHUN 2010"
+}

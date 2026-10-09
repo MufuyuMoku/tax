@@ -1,0 +1,136 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK92TAHUN2023.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "92",
+    "year": "2023"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK92TAHUN2023.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-92-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "92",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-92-2023--b000-1",
+  "pmk-92-2023--b001-2",
+  "pmk-92-2023--b002-3",
+  "pmk-92-2023--b003-4",
+  "pmk-92-2023--b004-5",
+  "pmk-92-2023--b005-6",
+  "pmk-92-2023--b006-7",
+  "pmk-92-2023--b007-8",
+  "pmk-92-2023--b008-9",
+  "pmk-92-2023--b009-10",
+  "pmk-92-2023--b010-11",
+  "pmk-92-2023--b011-12",
+  "pmk-92-2023--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "228",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 228/PMK.05/2010",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 228/PMK.05/2010 tentang Mekanisme Pelaksanaan dan Pertanggungjawaban atas Pajak Ditanggung Pemerintah (Berita Negara Republik Indonesia Tahun 2010 Nomor 632) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 237/PMK.05/2011 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 228/PMK.05/2010 tentang Mekanisme Pelaksanaan dan Pertanggungjawaban atas Pajak Ditanggung Pemerintah (Berita Negara Republik Indonesia Tahun 2011 Nomor 898), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-228-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "237",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 237/PMK.05/2011",
+    "quote": "Pasal 12 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 228/PMK.05/2010 tentang Mekanisme Pelaksanaan dan Pertanggungjawaban atas Pajak Ditanggung Pemerintah (Berita Negara Republik Indonesia Tahun 2010 Nomor 632) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 237/PMK.05/2011 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 228/PMK.05/2010 tentang Mekanisme Pelaksanaan dan Pertanggungjawaban atas Pajak Ditanggung Pemerintah (Berita Negara Republik Indonesia Tahun 2011 Nomor 898), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-237-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-09-15",
+   "detail_error": null,
+   "number_as_written": "92 TAHUN 2023",
+   "retrieved_at": "2026-10-04T03:07:33+00:00",
+   "source": "DJP",
+   "title_as_written": "MEKANISME PELAKSANAAN DAN PERTANGGUNGJAWABAN ATAS PAJAK DITANGGUNG PEMERINTAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pelaksanaan-dan-pertanggungjawaban-atas-pajak-ditanggung-pemerintah-0"
+  },
+  {
+   "date_as_written": "2023-09-15 00:00:00",
+   "number_as_written": "PMK 92 TAHUN 2023",
+   "retrieved_at": "2026-09-21T14:18:00+00:00",
+   "source": "JDIH",
+   "title_as_written": "Peraturan Menteri Keuangan tentang Mekanisme Pelaksanaan dan Pertanggungjawaban atas Pajak Ditanggung Pemerintah",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-92-tahun-2023"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=15",
+   "retrieved_at": "2026-10-03T02:38:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pelaksanaan-dan-pertanggungjawaban-atas-pajak-ditanggung-pemerintah-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=41",
+   "retrieved_at": "2026-09-21T14:18:00+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-92-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17263,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:07:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/mekanisme-pelaksanaan-dan-pertanggungjawaban-atas-pajak-ditanggung-pemerintah-0"
+ },
+ "title": "MEKANISME PELAKSANAAN DAN PERTANGGUNGJAWABAN ATAS PAJAK DITANGGUNG PEMERINTAH"
+}

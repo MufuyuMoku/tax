@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-148-2011",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2011"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-148-2011--b000-i",
   "pmk-148-2011--b001-ii"
@@ -45,12 +56,22 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 145/PMK.04/2007  TENTANG KETENTUAN KEPABEANAN DI BIDANG EKSPOR",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-145pmk042007-tentang-ketentuan-kepabeanan"
+  },
+  {
+   "date_as_written": "2011-09-07 00:00:00",
+   "number_as_written": "148/PMK.04/2011",
+   "retrieved_at": "2026-09-21T14:37:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 145/PMK.04/2007 tentang Ketentuan Kepabeanan di Bidang Ekspor.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/148-pmk-04-2011"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -60,6 +81,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-145pmk042007-tentang-ketentuan-kepabeanan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=329",
+   "retrieved_at": "2026-09-21T14:37:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/148-pmk-04-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "perubahan",

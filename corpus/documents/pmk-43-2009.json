@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-43-2009",
  "identity": {
@@ -9,7 +19,15 @@
   "year": "2009"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-43-2009--b000-1",
+  "pmk-43-2009--b001-2",
+  "pmk-43-2009--b002-3",
+  "pmk-43-2009--b003-4",
+  "pmk-43-2009--b004-5",
+  "pmk-43-2009--b005-6"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [
@@ -51,6 +69,16 @@
  },
  "source_records": [
   {
+   "date_as_written": "2009-03-03",
+   "detail_error": null,
+   "number_as_written": "43/PMK.03/2009",
+   "retrieved_at": "2026-10-05T01:51:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA KATAGORI TERTENTU",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-ditanggung-pemerintah-atas-penghasilan-pekerja-pada-katagori"
+  },
+  {
    "date_as_written": "2009-03-03 00:00:00",
    "number_as_written": "43/PMK.03/2009",
    "retrieved_at": "2026-09-21T14:41:38+00:00",
@@ -65,11 +93,19 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=152",
+   "retrieved_at": "2026-10-03T03:27:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-ditanggung-pemerintah-atas-penghasilan-pekerja-pada-katagori",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=389",
    "retrieved_at": "2026-09-21T14:41:38+00:00",
@@ -79,16 +115,16 @@
    "value_verbatim": "Tidak Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 4135,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-05T01:51:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-ditanggung-pemerintah-atas-penghasilan-pekerja-pada-katagori"
  },
- "title": "Pajak Penghasilan Pasal 21 Ditanggung Pemerintah atas Penghasilan Pekerja pada Kategori Usaha Tertentu."
+ "title": "PAJAK PENGHASILAN PASAL 21 DITANGGUNG PEMERINTAH ATAS PENGHASILAN PEKERJA PADA KATAGORI TERTENTU"
 }

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 2706,
+ "document_id": "per-djp-47-2008",
+ "document_number": "PER-47/PJ/2008",
+ "document_title": "TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN DAN PENYAMPAIAN PEMBERITAHUAN PERPANJANGAN SURAT PEMBERITAHUAN TAHUNAN SECARA ELEKTRONIK (E-FILING) MELALUI PERUSAHAAN PENYEDIA JASA APLIKASI (ASP)",
+ "id": "per-djp-47-2008--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini, yang dimaksud dengan:\nSurat Pemberitahuan yang selanjutnya disebut SPT adalah Surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan.\nSPT Masa adalah SPT untuk suatu Masa Pajak.\nSPT Tahunan adalah SPT untuk suatu Tahun Pajak atau Bagian Tahun Pajak.\nPemberitahuan Perpanjangan SPT Tahunan adalah pemberitahuan perpanjangan jangka waktu penyampaian SPT Tahunan.\nKantor Pelayanan Pajak adalah Kantor Pelayanan Pajak tempat Wajib Pajak terdaftar dan/atau tempat Pengusaha Kena Pajak dikukuhkan.\nPenyedia Jasa Aplikasi (Application Service Provider) yang selanjutnya disebut ASP adalah perusahaan yang telah ditunjuk dengan Keputusan Direktur Jenderal Pajak sebagai perusahaan yang dapat menyalurkan penyampaian SPT dan Pemberitahuan Perpanjangan SPT Tahunan secara elektronik ke Direktorat Jenderal Pajak.\ne-Filing adalah suatu cara penyampaian SPT dan penyampaian Pemberitahuan Perpanjangan SPT Tahunan secara elektronik yang dilakukan secara online dan real time melalui Penyedia Jasa Aplikasi (ASP).\ne-SPT adalah data SPT Wajib Pajak dalam bentuk elektronik yang dibuat oleh Wajib Pajak dengan menggunakan aplikasi e-SPT yang disediakan oleh Direktorat Jenderal Pajak.\ne-SPTy adalah data Pemberitahuan Perpanjangan SPT Tahunan Wajib Pajak dalam bentuk elektronik yang dibuat oleh Wajib Pajak dengan menggunakan aplikasi e-SPTy yang disediakan oleh Direktorat Jenderal Pajak.\nElectronic Filing Identification Number (e-FIN) adalah nomor identitas yang diberikan oleh Kantor Pelayanan Pajak tempat Wajib Pajak terdaftar kepada Wajib Pajak yang mengajukan permohonan untuk melaksanakan e-Filing.\nDigital Certificate (DC) adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukan status subjek hukum para pihak dalam transaksi elektronik yang dikeluarkan Penyelenggara Sertifikasi Elektronik.\nBukti Penerimaan Elektronik adalah informasi yang meliputi nama, Nomor Pokok Wajib Pajak, tanggal, jam, Nomor Tanda Terima Elektronik (NTTE) dan Nomor Transaksi Pengiriman ASP (NTPA) serta nama Perusahaan Penyedia Jasa Aplikasi (ASP), yang tertera pada hasil cetakan SPT Induk dan Pemberitahuan Perpanjangan SPT Tahunan.\nTanda Tangan Elektronik atau Tanda Tangan Digital adalah informasi elektronik yang dilekatkan, memiliki hubungan langsung atau terasosiasi pada suatu informasi elektronik lain termasuk sarana administrasi perpajakan yang ditujukan oleh Wajib Pajak atau kuasanya untuk menunjukkan identitas dan status yang bersangkutan.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T02:01:04+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyampaian-surat-pemberitahuan-dan-penyampaian-pemberitahuan-perpanjangan"
+ }
+}

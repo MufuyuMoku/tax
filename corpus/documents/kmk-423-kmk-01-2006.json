@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-423-kmk-01-2006",
+ "identity": {
+  "code": "KMK",
+  "number": "423/KMK.01",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-07-20",
+   "detail_error": null,
+   "number_as_written": "423/KMK.01/2006",
+   "retrieved_at": "2026-10-05T02:50:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 58/KMK.03/2002 TENTANG PERUBAHAN DAN PEMBERIAN KODE KANTOR PELAYANAN PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-menteri-keuangan-nomor-58kmk032002-tentang-perubahan-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=192",
+   "retrieved_at": "2026-10-03T03:44:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kelima-atas-keputusan-menteri-keuangan-nomor-58kmk032002-tentang-perubahan-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KELIMA ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 58/KMK.03/2002 TENTANG PERUBAHAN DAN PEMBERIAN KODE KANTOR PELAYANAN PAJAK"
+}

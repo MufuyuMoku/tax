@@ -1,0 +1,88 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-38-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "38",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-38-2015--b000-1",
+  "per-djp-38-2015--b001-2",
+  "per-djp-38-2015--b002-3",
+  "per-djp-38-2015--b003-4",
+  "per-djp-38-2015--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-5-2016",
+    "key": [
+     "PER-DJP",
+     "5",
+     "2016",
+     null
+    ],
+    "number_as_written": "PER-5/PJ/2016",
+    "quote": "Pasal 9 Pada saat mulai berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-38/PJ/2015 tentang Tata Cara Pendaftaran dan Pemberian Nomor Pokok Wajib Pajak Dalam Rangka Percepatan Investasi dengan Kriteria Tertentu Melalui Pelayanan Terpadu Satu Pintu (PTSP) Pusat di Badan Koordinasi Penanaman Modal dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA PERCEPATAN INVESTASI DENGAN KRITERIA TERTENTU MELALUI PELAYANAN TERPADU SATU PINTU PUSAT DI BADAN KOORDINASI PENANAMAN MODAL"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-02",
+   "detail_error": null,
+   "number_as_written": "38/PJ/2015",
+   "retrieved_at": "2026-10-05T06:21:08+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA PERCEPATAN INVESTASI DENGAN KRITERIA TERTENTU MELALUI PELAYANAN TERPADU SATU PINTU (PTSP) PUSAT DI BADAN KOORDINASI PENANAMAN MODAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak-dalam-rangka-percepatan-1"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=72",
+   "retrieved_at": "2026-10-03T03:53:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak-dalam-rangka-percepatan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8357,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:21:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-dan-pemberian-nomor-pokok-wajib-pajak-dalam-rangka-percepatan-1"
+ },
+ "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA PERCEPATAN INVESTASI DENGAN KRITERIA TERTENTU MELALUI PELAYANAN TERPADU SATU PINTU (PTSP) PUSAT DI BADAN KOORDINASI PENANAMAN MODAL"
+}

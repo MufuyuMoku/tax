@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-200-2015",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2015"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-200-2015--b000-1",
   "pmk-200-2015--b001-2",
@@ -40,6 +51,20 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PEMBAYARAN DAN PELAPORAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN REAL ESTAT DALAM SKEMA KONTRAK INVESTASI KOLEKTIF TERTENTU"
+   },
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 19. Pasal 4 dan Pasal 5 Peraturan Menteri Keuangan Republik Indonesia Nomor 200/PMK.03/2015 tentang Perlakuan Perpajakan bagi Wajib Pajak dan Pengusaha Kena Pajak yang Menggunakan Skema Kontrak Investasi Kolektif Tertentu dalam Rangka Pendalaman Sektor Keuangan (Berita Negara Republik Indonesia Tahun 2015 Nomor 1692); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }
   ],
   "revokes": [],
@@ -55,11 +80,20 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN BAGI WAJIB PAJAK DAN PENGUSAHA KENA PAJAK YANG MENGGUNAKAN SKEMA KONTRAK INVESTASI KOLEKTIF TERTENTU DALAM RANGKA PENDALAMAN SEKTOR KEUANGAN",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema"
+  },
+  {
+   "date_as_written": "2015-11-10 00:00:00",
+   "number_as_written": "200/PMK.03/2015",
+   "retrieved_at": "2026-09-21T14:30:15+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan Bagi Wajib Pajak dan Pengusaha Kena Pajak yang Menggunakan Skema Kontrak Investasi Kolektif Tertentu dalam Rangka Pendalaman Sektor Keuangan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/200-pmk-03-2015"
   }
  ],
  "status": {
   "reasons": [
-   "sumber menyatakan berlaku, tetapi teks PMK 37/2017 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 37/2017, PMK 81/2024 mencabutnya"
   ],
   "value": "tidak_pasti"
  },
@@ -71,6 +105,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-wajib-pajak-dan-pengusaha-kena-pajak-yang-menggunakan-skema",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=222",
+   "retrieved_at": "2026-09-21T14:30:15+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/200-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

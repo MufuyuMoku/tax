@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-48-2011",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2011"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-48-2011--b000-i",
   "per-djp-48-2011--b001-ii"
@@ -31,7 +42,22 @@
     "target_id": "per-djp-19-2009"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-26-2012",
+    "key": [
+     "PER-DJP",
+     "26",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-26/PJ/2012",
+    "quote": "Pasal 7 Dengan ditetapkannya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2009 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan Tahunan sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2011 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN TAHUNAN"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -48,7 +74,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

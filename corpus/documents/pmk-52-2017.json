@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-52-2017",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2017"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-52-2017--b000-1",
   "pmk-52-2017--b001-2",
@@ -49,7 +56,22 @@
    }
   ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 24. Peraturan Menteri Keuangan Nomor 52/PMK.010/2017 tentang Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha (Berita Negara Republik Indonesia Tahun 2017 Nomor 586) sebagaimana telah diubah beberapa kali terakhir dengan Peraturan Menteri Keuangan Nomor 56/PMK.010/2021 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 52/PMK.010/2017 tentang Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha (Berita Negara Republik Indonesia Tahun 2021 Nomor 637); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -80,7 +102,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "diubah_atau_dicabut_sebagian"
  },

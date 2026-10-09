@@ -1,0 +1,95 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER22PJ2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "22",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER22PJ2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-22-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "22",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-22-2021--b000-i",
+  "per-djp-22-2021--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "9",
+     "2020",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK  NOMOR PER-09/PJ/2020",
+    "quote": "Lampiran Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2020 tentang Bentuk, Isi, dan Tata Cara Pengisian Surat Setoran Pajak diubah sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Direktur Jenderal ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-9-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-12-13",
+   "detail_error": null,
+   "number_as_written": "PER-22/PJ/2021",
+   "retrieved_at": "2026-10-04T03:13:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK  NOMOR PER-09/PJ/2020 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN  SURAT SETORAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-09pj2020-tentang-bentuk-isi-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=25",
+   "retrieved_at": "2026-10-03T02:41:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-09pj2020-tentang-bentuk-isi-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5302,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:13:45+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-09pj2020-tentang-bentuk-isi-dan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK  NOMOR PER-09/PJ/2020 TENTANG BENTUK, ISI, DAN TATA CARA PENGISIAN  SURAT SETORAN PAJAK"
+}

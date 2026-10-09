@@ -1,0 +1,70 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-76-2010",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "76",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-76-2010--b000-kedua",
+  "kep-djp-76-2010--b001-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-02-18",
+   "detail_error": null,
+   "number_as_written": "KEP-76/PJ/2010",
+   "retrieved_at": "2026-10-05T01:29:10+00:00",
+   "source": "DJP",
+   "title_as_written": "SAAT MULAI PEMINDAHAN PENGELOLAAN ADMINISTRASI PERPAJAKAN ATAS WAJIB PAJAK DI WILAYAH KECAMATAN SETU KOTA TANGERANG SELATAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-mulai-pemindahan-pengelolaan-administrasi-perpajakan-atas-wajib-pajak-di-wilayah"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=137",
+   "retrieved_at": "2026-10-03T03:22:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/saat-mulai-pemindahan-pengelolaan-administrasi-perpajakan-atas-wajib-pajak-di-wilayah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 1736,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:29:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/saat-mulai-pemindahan-pengelolaan-administrasi-perpajakan-atas-wajib-pajak-di-wilayah"
+ },
+ "title": "SAAT MULAI PEMINDAHAN PENGELOLAAN ADMINISTRASI PERPAJAKAN ATAS WAJIB PAJAK DI WILAYAH KECAMATAN SETU KOTA TANGERANG SELATAN"
+}

@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-17-2007",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "17",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-17-2007--b000-kedua"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-63-2007",
+    "key": [
+     "KEP-DJP",
+     "63",
+     "2007",
+     null
+    ],
+    "number_as_written": "KEP-63/PJ/2007",
+    "quote": "Mengubah Lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-17/PJ/2007 sehingga menjadi sebagaimana ditetapkan dalam Lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-17/PJ./2007 TENTANG PENAMBAHAN WAJIB PAJAK TERTENTU YANG TERDAFTAR DAN MELAPORKAN USAHANYA PADA KANTOR PELAYANAN PAJAK MADYA BEKASI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-01-26",
+   "detail_error": null,
+   "number_as_written": "KEP-17/PJ/2007",
+   "retrieved_at": "2026-10-05T06:17:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENAMBAHAN WAJIB PAJAK TERTENTU YANG TERDAFTAR DAN MELAPORKAN USAHANYA PADA KANTOR PELAYANAN PAJAK MADYA BEKASI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penambahan-wajib-pajak-tertentu-yang-terdaftar-dan-melaporkan-usahanya-pada-kantor-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=189",
+   "retrieved_at": "2026-10-03T03:43:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penambahan-wajib-pajak-tertentu-yang-terdaftar-dan-melaporkan-usahanya-pada-kantor-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3117,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:17:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penambahan-wajib-pajak-tertentu-yang-terdaftar-dan-melaporkan-usahanya-pada-kantor-0"
+ },
+ "title": "PENAMBAHAN WAJIB PAJAK TERTENTU YANG TERDAFTAR DAN MELAPORKAN USAHANYA PADA KANTOR PELAYANAN PAJAK MADYA BEKASI"
+}

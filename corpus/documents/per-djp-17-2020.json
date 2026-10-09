@@ -1,0 +1,129 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran Peraturan Direktur Jenderal Pajak Nomor PER-17_PJ_2020.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "17",
+    "year": "2020"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Peraturan%20Direktur%20Jenderal%20Pajak%20Nomor%20PER-17_PJ_2020.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-17-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "17",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-17-2020--b000-1",
+  "per-djp-17-2020--b001-2",
+  "per-djp-17-2020--b002-3",
+  "per-djp-17-2020--b003-4",
+  "per-djp-17-2020--b004-5",
+  "per-djp-17-2020--b005-6",
+  "per-djp-17-2020--b006-7",
+  "per-djp-17-2020--b007-8",
+  "per-djp-17-2020--b008-9",
+  "per-djp-17-2020--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "69",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ/2010",
+    "quote": "Pasal 9 Pada saat berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-69/PJ/2010 tentang Kesepakatan Harga Transfer ( Advance Pricing Agreement ) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-69-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-09-17",
+   "detail_error": null,
+   "number_as_written": "PER-17/PJ/2020",
+   "retrieved_at": "2026-10-04T03:22:44+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYELESAIAN PERMOHONAN, PELAKSANAAN, DAN EVALUASI KESEPAKATAN HARGA TRANSFER (ADVANCE PRICING AGREEMENT)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-permohonan-pelaksanaan-dan-evaluasi-kesepakatan-harga-transfer"
+  },
+  {
+   "date_as_written": "2020-09-17",
+   "detail_error": null,
+   "number_as_written": "PER-17/PJ/2020",
+   "retrieved_at": "2026-10-04T03:23:05+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYELESAIAN PERMOHONAN, PELAKSANAAN, DAN EVALUASI KESEPAKATAN HARGA TRANSFER (ADVANCE PRICING AGREEMENT)",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-permohonan-pelaksanaan-dan-evaluasi-kesepakatan-harga-transfer-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=36",
+   "retrieved_at": "2026-10-03T02:45:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-permohonan-pelaksanaan-dan-evaluasi-kesepakatan-harga-transfer",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=36",
+   "retrieved_at": "2026-10-03T02:45:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-permohonan-pelaksanaan-dan-evaluasi-kesepakatan-harga-transfer-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13575,
+  "format": "html",
+  "other_postings": [
+   {
+    "chars": 13575,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-04T03:23:05+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-permohonan-pelaksanaan-dan-evaluasi-kesepakatan-harga-transfer-0"
+   }
+  ],
+  "retrieved_at": "2026-10-04T03:22:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-permohonan-pelaksanaan-dan-evaluasi-kesepakatan-harga-transfer"
+ },
+ "title": "TATA CARA PENYELESAIAN PERMOHONAN, PELAKSANAAN, DAN EVALUASI KESEPAKATAN HARGA TRANSFER (ADVANCE PRICING AGREEMENT)"
+}

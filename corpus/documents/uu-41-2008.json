@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-41-2008",
+ "identity": {
+  "code": "UU",
+  "number": "41",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-11-10",
+   "detail_error": null,
+   "number_as_written": "41 TAHUN 2008",
+   "retrieved_at": "2026-10-05T02:02:48+00:00",
+   "source": "DJP",
+   "title_as_written": "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2009",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-2009"
+  },
+  {
+   "date_as_written": "2008-10-11 00:00:00",
+   "number_as_written": "UU 41 TAHUN 2008",
+   "retrieved_at": "2026-09-21T14:03:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2009.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-41-tahun-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=161",
+   "retrieved_at": "2026-10-03T03:30:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=17",
+   "retrieved_at": "2026-09-21T14:03:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-41-tahun-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2009"
+}

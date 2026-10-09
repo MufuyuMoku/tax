@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-188-2020",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-188-2020--b000-1",
   "pmk-188-2020--b001-2",

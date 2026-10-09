@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-335-kmk-04-1996",
+ "identity": {
+  "code": "KMK",
+  "number": "335/KMK.04",
+  "variant": null,
+  "year": "1996"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1996-05-13",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "335/KMK.04/1996",
+   "retrieved_at": "2026-10-03T04:00:52+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghapusan-piutang-pajak-dan-penetapan-besarnya-penghapusan-1"
+  },
+  {
+   "date_as_written": "1996-05-13 00:00:00",
+   "number_as_written": "335/KMK.04/1996",
+   "retrieved_at": "2026-09-21T14:52:58+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/335-kmk-04-1996"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=234",
+   "retrieved_at": "2026-10-03T04:00:52+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghapusan-piutang-pajak-dan-penetapan-besarnya-penghapusan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=90",
+   "retrieved_at": "2026-09-21T14:52:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/335-kmk-04-1996",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN"
+}

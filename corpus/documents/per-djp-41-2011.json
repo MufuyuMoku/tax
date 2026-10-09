@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-41-2011",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2011"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-41-2011--b000-1",
   "per-djp-41-2011--b001-2",
@@ -23,7 +30,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-2-2020",
+    "key": [
+     "PER-DJP",
+     "2",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-02/PJ/2020",
+    "quote": "Pasal 11 Pada aaat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-41/PJ/2011 tentang Petunjuk Pelaksanaan Pemeriksaan Dalarn Rangka Pertukaran Informasi Berdasarkan Persetujuan Penghindaran Pajak Berganda yang Melibatkan Otoritas Pajak Negara Mitra, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN TAX EXAMINATION ABROAD DALAM RANGKA PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -40,7 +62,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-103-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "103",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-103-2009--b000-i",
+  "pmk-103-2009--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "620",
+     "2004",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 620/PMK.03/2004",
+    "quote": "Mengubah Lampiran II Peraturan Menteri Keuangan Nomor 620/KMK.03/2004 tentarig Jenis Basing Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan Atas Barang Mewah yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: a. Nomor 35/PMK.03/2008;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-620-2004"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-06-10",
+   "detail_error": null,
+   "number_as_written": "103/PMK.03/2009",
+   "retrieved_at": "2026-10-05T01:43:35+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 620/PMK.03/2004 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-620pmk032004-tentang-jenis-barang"
+  },
+  {
+   "date_as_written": "2009-06-10 00:00:00",
+   "number_as_written": "103/PMK.03/2009",
+   "retrieved_at": "2026-09-21T14:41:18+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Ketiga atas Peraturan Menteri Keuangan Nomor 620/PMK.03/2004 tentang Jenis Barang Kena Pajak yang Tergolong Mewah Selain Kendaraan Bermotor yang Dikenakan Pajak Penjualan atas Barang Mewah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/103-pmk-03-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=148",
+   "retrieved_at": "2026-10-03T03:26:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-620pmk032004-tentang-jenis-barang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=384",
+   "retrieved_at": "2026-09-21T14:41:18+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/103-pmk-03-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4276,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:43:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-ketiga-atas-peraturan-menteri-keuangan-nomor-620pmk032004-tentang-jenis-barang"
+ },
+ "title": "PERUBAHAN KETIGA ATAS PERATURAN MENTERI KEUANGAN NOMOR 620/PMK.03/2004 TENTANG JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+}

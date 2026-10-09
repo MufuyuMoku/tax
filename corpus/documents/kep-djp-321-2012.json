@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-321-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "321",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-321-2012--b000-i",
+  "kep-djp-321-2012--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "233",
+     "2012",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-233/PJ/2012",
+    "quote": "Beberapa ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-233/PJ/2012 tentang Klasifikasi Lapangan Usaha Wajib Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-233-2012"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-12-2022",
+    "key": [
+     "PER-DJP",
+     "12",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-12/PJ/2022",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-233/PJ/2012 tentang Klasifikasi Lapangan Usaha Wajib Pajak sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-321/PJ/2012 tentang Perubahan atas Keputusan Direktur Jenderal Pajak Nomor KEP-233/PJ/2012 tentang Klasifikasi Lapangan Usaha Wajib Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-10-31",
+   "detail_error": null,
+   "number_as_written": "KEP-321/PJ/2012",
+   "retrieved_at": "2026-10-04T06:49:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 233/PJ/2012 TENTANG KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-233pj2012-tentang-klasifikasi"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 12/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=108",
+   "retrieved_at": "2026-10-03T03:12:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-233pj2012-tentang-klasifikasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4494,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:49:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-233pj2012-tentang-klasifikasi"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 233/PJ/2012 TENTANG KLASIFIKASI LAPANGAN USAHA WAJIB PAJAK"
+}

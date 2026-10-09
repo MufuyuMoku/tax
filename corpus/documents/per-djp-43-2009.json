@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-43-2009",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2009"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-43-2009--b000-1",
   "per-djp-43-2009--b001-2",
@@ -22,7 +33,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-53-2009",
+    "key": [
+     "PER-DJP",
+     "53",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-53/PJ/2009",
+    "quote": "Pada saat ditetapkannya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-43/PJ/2009 dinyatakan dicabut dan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BENTUK FORMULIR SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN FINAL PASAL 4 AYAT (2), SURAT PEMBERITAHUAN MASA PAJAK PENGHASILAN PASAL 15, PASAL 22, PASAL 23 DAN/ATAU PASAL 26 SERTA BUKTI PEMOTONGAN/PEMUNGUTANNYA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -39,7 +65,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

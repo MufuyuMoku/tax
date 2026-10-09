@@ -1,0 +1,154 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-19-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "19",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-19-2009--b000-1",
+  "per-djp-19-2009--b001-2",
+  "per-djp-19-2009--b002-3",
+  "per-djp-19-2009--b003-4",
+  "per-djp-19-2009--b004-5",
+  "per-djp-19-2009--b005-6",
+  "per-djp-19-2009--b006-7",
+  "per-djp-19-2009--b007-8",
+  "per-djp-19-2009--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-1-2010",
+    "key": [
+     "PER-DJP",
+     "1",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-1/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2009 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan Tahunan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-19/PJ/2009 TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN TAHUNAN"
+   },
+   {
+    "id": "per-djp-48-2011",
+    "key": [
+     "PER-DJP",
+     "48",
+     "2011",
+     null
+    ],
+    "number_as_written": "PER-48/PJ/2011",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2009 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan Tahunan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-1/PJ/2010 diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-19/PJ/2009 TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN TAHUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-26-2012",
+    "key": [
+     "PER-DJP",
+     "26",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-26/PJ/2012",
+    "quote": "Pasal 7 Dengan ditetapkannya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2009 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan Tahunan sebagaimana telah diubah terakhir dengan Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2011 dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN TAHUNAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "49",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-49/PJ/2003",
+    "quote": "Pasal 8 1. Pada saat Peraturan Direktur Jenderal Pajak ini berlaku maka Keputusan Direktur Jenderal Pajak Nomor KEP-49/PJ/2003 tentang Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan Tahunan Pajak Penghasilan sebagaimana telah diubah dengan KEP-36/PJ/2004 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-49-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-02-25",
+   "detail_error": null,
+   "number_as_written": "PER-19/PJ/2009",
+   "retrieved_at": "2026-10-05T01:53:01+00:00",
+   "source": "DJP",
+   "title_as_written": "TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SPT TAHUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-tata-cara-penerimaan-dan-pengolahan-spt-tahunan"
+  },
+  {
+   "date_as_written": "2009-02-25 00:00:00",
+   "number_as_written": "PerDJP 19/PJ/2009",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penerimaan dan Pengolahan Surat Pemberitahuan Tahunan.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-19-pj-2009"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 26/2012 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=153",
+   "retrieved_at": "2026-10-03T03:28:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tentang-tata-cara-penerimaan-dan-pengolahan-spt-tahunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=43",
+   "retrieved_at": "2026-09-21T14:58:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-19-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12754,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:53:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tentang-tata-cara-penerimaan-dan-pengolahan-spt-tahunan"
+ },
+ "title": "TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SPT TAHUNAN"
+}

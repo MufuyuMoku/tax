@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 2287,
+ "document_id": "per-djp-47-2011",
+ "document_number": "PER-47/PJ/2011",
+ "document_title": "TATA CARA PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+ "id": "per-djp-47-2011--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini, yang dimaksud dengan:\n1.\nModul Penerimaan Negara adalah modul penerimaan yang memuat serangkaian prosedur mulai dari penerimaan, penyetoran, pengumpulan data, pencatatan, pengikhtisaran sampai dengan pelaporan yang berhubungan dengan penerimaan negara dan merupakan bagian dari sistem perbendaharaan dan anggaran negara.\n2.\nSistem pembayaran pajak secara elektronik (\nbilling system)\nadalah serangkaian proses yang meliputi kegiatan pendaftaran peserta\nbilling\n, pembuatan Kode\nBilling\n, pembayaran berdasarkan Kode\nBilling\ndan rekonsiliasi\nbilling\ndalam sistem Modul Penerimaan Negara.\n3.\nNomor Identitas Peserta\nBilling\nyang selanjutnya disingkat dengan NIPB adalah nomor yang diberikan kepada Wajib Pajak sebagai identitas peserta sistem pembayaran pajak secara elektronik.\n4.\nPersonal Identification Number\n(PIN) atau\npassword\nadalah nomor identitas Wajib Pajak sebagai sarana untuk dapat masuk aplikasi pembuatan Kode\nBilling\ndan melakukan pembayaran pajak secara elektronik.\n5.\nUser ID\nadalah nama identitas Wajib Pajak yang bersama dengan PIN dapat digunakan sebagai sarana untuk dapat masuk ke aplikasi pembuatan kode\nbilling\ndan melakukan pembayaran pajak secara elektronik.\n6.\nKode\nBilling\nadalah kode identifikasi suatu jenis pembayaran atau setoran pajak yang akan dilakukan Wajib Pajak.\n7.\nBukti Penerimaan Negara adalah dokumen yang diterbitkan oleh Bank/Pos Persepsi atas transaksi penerimaan negara yang mencantumkan NTPN dan NTB/NTP serta elemen lainnya yang ditentukan oleh Direktorat Jenderal Perbendaharaan atau dokumen yang diterbitkan oleh KPPN atas transaksi penerimaan negara yang berasal dari potongan SPM yang mencantumkan NTPN dan NPP.\n8.\nBank/Pos Persepsi adalah Bank/Pos Persepsi yang ditunjuk oleh Direktur Jenderal Perbendaharaan.\n9.\nKantor Pelayanan Pajak adalah Kantor Pelayanan Pajak tempat Wajib Pajak terdaftar dan/atau tempat Pengusaha Kena Pajak dikukuhkan.\n10.\nReversal\nadalah prosedur pembalikan transaksi yang dilakukan oleh Bank/Pos Persepsi dengan Direktorat Jenderal Perbendaharaan untuk perbaikan transaksi yang tidak mengakibatkan uang keluar dari Kas Negara.\n11.\nRekonsiliasi\nbilling\nadalah kegiatan mencocokkan data\nbilling\nyang telah diterbitkan dengan data\nbilling\nyang telah dibayar.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T07:39:01+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik"
+ }
+}

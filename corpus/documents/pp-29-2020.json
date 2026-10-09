@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PP_Nomor_29_Tahun_2020.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pp-29-2020",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pp-29-2020--b000-1",
   "pp-29-2020--b001-2",

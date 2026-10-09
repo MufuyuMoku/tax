@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-246-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "246",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-246-2009--b000-1",
+  "pmk-246-2009--b001-2"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "231",
+     "2008",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 231/PMK.011/2008",
+    "quote": "Pasal 1 Peraturan Menteri Keuangan Nomor 231/PMK.011/2008 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Sawit di Dalam Negeri untuk Tahun Anggaran 2009, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-231-2008"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-12-31",
+   "detail_error": null,
+   "number_as_written": "246/PMK.011/2009",
+   "retrieved_at": "2026-10-05T01:31:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 31/PMK.011/2008 TENTANG  PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN  MINYAK GORENG SAWIT DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2009",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-31pmk0112008-tentang-pajak-pertambahan-nilai"
+  },
+  {
+   "date_as_written": "2009-12-31 00:00:00",
+   "number_as_written": "246/PMK.011/2009",
+   "retrieved_at": "2026-09-21T14:40:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor 231/PMK.011/2008 tentang Pajak Pertambahan Nilai Ditanggung Pemerintah atas Penyerahan Minyak Goreng Sawit di dalam Negeri untuk Tahun Anggaran 2009.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/246-pmk-011-2009"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=139",
+   "retrieved_at": "2026-10-03T03:23:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-31pmk0112008-tentang-pajak-pertambahan-nilai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=370",
+   "retrieved_at": "2026-09-21T14:40:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/246-pmk-011-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2512,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:31:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-peraturan-menteri-keuangan-nomor-31pmk0112008-tentang-pajak-pertambahan-nilai"
+ },
+ "title": "PENCABUTAN PERATURAN MENTERI KEUANGAN NOMOR 31/PMK.011/2008 TENTANG  PAJAK PERTAMBAHAN NILAI DITANGGUNG PEMERINTAH ATAS PENYERAHAN  MINYAK GORENG SAWIT DI DALAM NEGERI UNTUK TAHUN ANGGARAN 2009"
+}

@@ -1,0 +1,97 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-144-2005",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "144",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-47-2006",
+    "key": [
+     "KEP-DJP",
+     "47",
+     "2006",
+     null
+    ],
+    "number_as_written": "KEP-47/PJ/2006",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor KEP-144/PJ./2005 tanggal 31 Agustus 2005 tentang Tata Cara Penerbitan Nomor Pokok Wajib Pajak Secara Jabatan oleh Kantor Pusat Direktorat Jenderal Pajak dan penghapusannya diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR KEP-144/PJ./2005 TENTANG TATA CARA PENERBITAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN OLEH KANTOR PUSAT DIREKTORAT JENDERAL PAJAK DAN PENGHAPUSANNYA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-20-2013",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-20/PJ/2013",
+    "quote": "… b. Keputusan Direktur Jenderal Pajak Nomor KEP-144/PJ./2005 tentang Tata Cara Penerbitan Nomor Pokok Wajib Pajak secara Jabatan oleh Kantor Pusat Direktorat Jenderal Pajak dan Penghapusannya; … j. Peraturan Direktur Jenderal Pajak Nomor PER-62/PJ/2010 tentang Perubahan Kedua atas Peraturan Direktur Jenderal Pajak Nomor-44/PJ/2008 Tentang Tata Cara Pendaftaran Nomor Pokok Wajib Pajak dan/atau Pengukuhan Pengusaha Kena Pajak, Perubahan Data dan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENDAFTARAN DAN PEMBERIAN NOMOR POKOK WAJIB PAJAK, PELAPORAN USAHA DAN PENGUKUHAN PENGUSAHA KENA PAJAK, PENGHAPUSAN NOMOR POKOK WAJIB PAJAK DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK, SERTA PERUBAHAN DATA DAN PEMINDAHAN WAJIB PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-08-31",
+   "detail_error": null,
+   "number_as_written": "KEP-144/PJ./2005",
+   "retrieved_at": "2026-10-05T02:59:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN OLEH KANTOR PUSAT DIREKTORAT JENDERAL PAJAK DAN PENGHAPUSANNYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-nomor-pokok-wajib-pajak-secara-jabatan-oleh-kantor-pusat-direktorat"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=198",
+   "retrieved_at": "2026-10-03T03:46:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-nomor-pokok-wajib-pajak-secara-jabatan-oleh-kantor-pusat-direktorat",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENERBITAN NOMOR POKOK WAJIB PAJAK SECARA JABATAN OLEH KANTOR PUSAT DIREKTORAT JENDERAL PAJAK DAN PENGHAPUSANNYA"
+}

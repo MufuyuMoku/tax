@@ -1,5 +1,19 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-53-2008",
  "identity": {
@@ -9,10 +23,26 @@
   "year": "2008"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-14-2009",
+    "key": [
+     "PER-DJP",
+     "14",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-14/PJ./2009",
+    "quote": "Ketentuan Pasal 13 ayat (1) huruf a Peraturan Direktur Jenderal Pajak Nomor 53/PJ/2008 tentang Tata Cara Pembayaran, Pengecualian Pembayaran dan Pengelolaan Administrasi Pajak Penghasilan Bagi Wajib Pajak Orang Pribadi Dalam Negeri yang Akan Bertolak ke Luar Negeri, diubah sehingga seluruhnya berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 53/PJ/2008 TENTANG TATA CARA PEMBAYARAN, PENGECUALIAN PEMBAYARAN DAN PENGELOLAAN ADMINISTRASI PAJAK PENGHASILAN BAGI WAJIB PAJAK ORANG PRIBADI DALAM NEGERI YANG AKAN BERTOLAK KE LUAR NEGERI"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {

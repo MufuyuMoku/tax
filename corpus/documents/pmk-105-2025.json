@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-105-2025",
  "identity": {
@@ -9,7 +19,17 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "pasal_ids": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-105-2025--b000-1",
+  "pmk-105-2025--b001-2",
+  "pmk-105-2025--b002-3",
+  "pmk-105-2025--b003-4",
+  "pmk-105-2025--b004-5",
+  "pmk-105-2025--b005-6",
+  "pmk-105-2025--b006-7",
+  "pmk-105-2025--b007-8"
+ ],
  "quality_flags": [],
  "relations": {
   "amended_by": [],
@@ -20,8 +40,19 @@
  },
  "source_records": [
   {
+   "date_as_written": "2025-12-29",
+   "detail_error": null,
+   "number_as_written": "105 TAHUN 2025",
+   "retrieved_at": "2026-10-04T02:58:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN TERTENTU YANG DITANGGUNG PEMERINTAH DALAM RANGKA STIMULUS EKONOMI TAHUN ANGGARAN 2026",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0"
+  },
+  {
    "date_as_written": "2025-12-29 00:00:00",
    "number_as_written": "PMK 105 TAHUN 2025",
+   "page_retrieved_at": "2026-10-05T06:23:20+00:00",
    "retrieved_at": "2026-09-21T14:15:48+00:00",
    "selected_because": [
     "judul",
@@ -30,15 +61,24 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2026",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-105-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-105-tahun-2025",
+   "validity_as_written": "31 Des 2025 - s.d. Dicabut"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
  "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=5",
+   "retrieved_at": "2026-10-03T02:32:49+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=8",
    "retrieved_at": "2026-09-21T14:15:48+00:00",
@@ -48,16 +88,16 @@
    "value_verbatim": "Berlaku"
   }
  ],
- "structure": null,
+ "structure": "biasa",
  "text": {
-  "available": false,
-  "chars": 0,
-  "format": null,
+  "available": true,
+  "chars": 16199,
+  "format": "html",
   "other_postings": [],
-  "retrieved_at": null,
-  "source": null,
-  "unavailable_reason": "hanya terdaftar di JDIH, dan JDIH berhenti dapat diakses sebelum teksnya diambil",
-  "url": null
+  "retrieved_at": "2026-10-04T02:58:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-pasal-21-atas-penghasilan-tertentu-yang-ditanggung-pemerintah-dalam-0"
  },
- "title": "Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2026"
+ "title": "PAJAK PENGHASILAN PASAL 21 ATAS PENGHASILAN TERTENTU YANG DITANGGUNG PEMERINTAH DALAM RANGKA STIMULUS EKONOMI TAHUN ANGGARAN 2026"
 }

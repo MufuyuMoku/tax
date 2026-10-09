@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-190-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "190",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-190-2007--b000-1",
+  "pmk-190-2007--b001-2",
+  "pmk-190-2007--b002-3",
+  "pmk-190-2007--b003-4",
+  "pmk-190-2007--b004-5",
+  "pmk-190-2007--b005-6",
+  "pmk-190-2007--b006-7",
+  "pmk-190-2007--b007-8",
+  "pmk-190-2007--b008-9",
+  "pmk-190-2007--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-10-2013",
+    "key": [
+     "PMK",
+     "10",
+     "2013",
+     null
+    ],
+    "number_as_written": "10/PMK.03/2013",
+    "quote": "Pasal 13 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 190/PMK.03/2007 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak Yang Seharusnya Tidak Terutang, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGEMBALIAN ATAS KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-28",
+   "detail_error": null,
+   "number_as_written": "190/PMK.03/2007",
+   "retrieved_at": "2026-10-05T02:29:11+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang"
+  },
+  {
+   "date_as_written": "2007-12-28 00:00:00",
+   "number_as_written": "190/PMK.03/2007",
+   "retrieved_at": "2026-09-21T14:43:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tatacara Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/190-pmk-03-2007"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=178",
+   "retrieved_at": "2026-10-03T03:37:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=421",
+   "retrieved_at": "2026-09-21T14:43:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/190-pmk-03-2007",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8125,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:29:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pembayaran-pajak-yang-seharusnya-tidak-terutang"
+ },
+ "title": "TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK YANG SEHARUSNYA TIDAK TERUTANG"
+}

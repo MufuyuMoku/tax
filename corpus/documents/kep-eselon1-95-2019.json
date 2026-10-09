@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-eselon1-95-2019",
  "identity": {
@@ -16,6 +22,7 @@
    "title": "PENGECUALIAN PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA ATAS KETERLAMBATAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI TAHUN PAJAK 2018"
   }
  ],
+ "original_files": [],
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -40,7 +47,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (JDIH); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

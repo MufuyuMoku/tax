@@ -1,0 +1,127 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-2-2020",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "2",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-2-2020--b000-1",
+  "per-djp-2-2020--b001-2",
+  "per-djp-2-2020--b002-3",
+  "per-djp-2-2020--b003-4",
+  "per-djp-2-2020--b004-5",
+  "per-djp-2-2020--b005-6",
+  "per-djp-2-2020--b006-7",
+  "per-djp-2-2020--b007-8",
+  "per-djp-2-2020--b008-9",
+  "per-djp-2-2020--b009-10",
+  "per-djp-2-2020--b010-11",
+  "per-djp-2-2020--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-2-2022",
+    "key": [
+     "PER-DJP",
+     "2",
+     "2022",
+     null
+    ],
+    "number_as_written": "PER-02/PJ/2022",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal mi mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2020 tentang Tata Cara Pelaksanaan Tax Examination Abroad dalam Rangka Pertukaran Informasi Berdasarkan Perjanjian Internasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN COMPETENT AUTHORITY MEETINGS, TAX EXAMINATIONS ABROAD, DAN SIMULTANEOUS TAX EXAMINATIONS DALAM RANGKA PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "41",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-41/PJ/2011",
+    "quote": "Pasal 11 Pada aaat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-41/PJ/2011 tentang Petunjuk Pelaksanaan Pemeriksaan Dalarn Rangka Pertukaran Informasi Berdasarkan Persetujuan Penghindaran Pajak Berganda yang Melibatkan Otoritas Pajak Negara Mitra, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-41-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-01-27",
+   "detail_error": null,
+   "number_as_written": "PER-02/PJ/2020",
+   "retrieved_at": "2026-10-04T03:32:02+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN TAX EXAMINATION ABROAD DALAM RANGKA PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-tax-examination-abroad-dalam-rangka-pertukaran-informasi"
+  },
+  {
+   "date_as_written": "2020-01-27 00:00:00",
+   "number_as_written": "PER-02/PJ/2020",
+   "retrieved_at": "2026-09-21T14:57:01+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pelaksanaan Tax Examination Abroad dalam rangka Pertukaran Informasi Berdasarkan Perjanjian Internasional",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-02-pj-2020"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 2/2022 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=44",
+   "retrieved_at": "2026-10-03T02:48:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-tax-examination-abroad-dalam-rangka-pertukaran-informasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=26",
+   "retrieved_at": "2026-09-21T14:57:01+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-02-pj-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 20336,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:32:02+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-tax-examination-abroad-dalam-rangka-pertukaran-informasi"
+ },
+ "title": "TATA CARA PELAKSANAAN TAX EXAMINATION ABROAD DALAM RANGKA PERTUKARAN INFORMASI BERDASARKAN PERJANJIAN INTERNASIONAL"
+}

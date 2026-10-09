@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-173-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "173",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-173-2006--b000-i",
+  "per-djp-173-2006--b001-ii",
+  "per-djp-173-2006--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "142",
+     "2005",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR KEP-142/PJ./2005",
+    "quote": "Beberapa ketentuan dalam Peraturan Dirjen Pajak No. KEP-142/PJ./2005 Tanggal 31 Agustus 2005 tentang Petunjuk Pelaksanaan Pemeriksaan Kantor diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-142-2005"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-12-19",
+   "detail_error": null,
+   "number_as_written": "PER-173/PJ./2006",
+   "retrieved_at": "2026-10-05T02:48:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR KEP-142/PJ./2005 TENTANG PETUNJUK PELAKSANAAN PEMERIKSAAN KANTOR",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-kep-142pj2005-tentang-petunjuk"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=190",
+   "retrieved_at": "2026-10-03T03:43:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-kep-142pj2005-tentang-petunjuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 15533,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:48:09+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-kep-142pj2005-tentang-petunjuk"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR KEP-142/PJ./2005 TENTANG PETUNJUK PELAKSANAAN PEMERIKSAAN KANTOR"
+}

@@ -1,0 +1,82 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-520-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "520",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-4-2009",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-4/PJ/2009",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor 520/PJ./2000 tentang Bentuk dan Tata Cara Pencatatan Bagi Wajib Pajak Orang Pribadi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN PENCATATAN BAGI WAJIB PAJAK ORANG PRIBADI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-04",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP-520/PJ./2000",
+   "retrieved_at": "2026-10-03T03:58:06+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN TATA CARA PENCATATAN BAGI WAJIB PAJAK ORANG PRIBADI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pencatatan-bagi-wajib-pajak-orang-pribadi"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=226",
+   "retrieved_at": "2026-10-03T03:58:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-tata-cara-pencatatan-bagi-wajib-pajak-orang-pribadi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "BENTUK DAN TATA CARA PENCATATAN BAGI WAJIB PAJAK ORANG PRIBADI"
+}

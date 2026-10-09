@@ -1,0 +1,22 @@
+{
+ "amendment_items": null,
+ "chars": 1928,
+ "document_id": "per-djp-145-2005",
+ "document_number": "PER - 145/PJ./2005",
+ "document_title": "BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN)",
+ "id": "per-djp-145-2005--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [
+  "urutan_loncat:12->14"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini, yang dimaksud dengan:\n1.\nSurat Pemberitahuan (SPT) adalah SPT Masa PPN.\n2.\nLampiran SPT adalah Lampiran SPT Masa PPN yang terdiri dari Formulir 1106 A, Formulir 1106 B dan Formulir 1106 BM.\n3.\nSPT Lengkap adalah SPT yang semua unsur yang tercantum dalam SPT Masa PPN Formulir 1106 telah diisi dengan lengkap serta ditandatangani oleh Pengusaha Kena Pajak (PKP) atau Kuasanya, dan semua unsur yang tercantum dalam Formulir 1106 A dan Formulir 1106 B telah diisi dengan lengkap, khusus bagi PKP yang menghasilkan Barang Kena Pajak yang tergolong mewah, SPT Masa PPN dianggap lengkap bila Formulir 1106 BM telah diisi, serta dokumen lain yang disyaratkan sebagai kelengkapan penyampaian SPT selain Lampiran SPT, telah disampaikan.\n4.\nMedia elektronik adalah sarana penyimpanan data yang dapat digunakan untuk memindahkan data dari suatu komputer ke komputer lainnya secara elektronik, antara lain : diskette, Digital Data Storage (DDE) atau Digital Audio Tape (DAT) dan Compact Disc (CD).\n5.\ne-SPT adalah SPT yang berbentuk formulir elektronik dalam media elektronik.\n6.\nPenyampaian SPT secara elektronik (e-Filing) adalah suatu cara penyampaian SPT yang dilakukan melalui sistem on-line yang real time sebagaimana diatur dalam Pasal 1 angka 2 Peraturan Direktur Jenderal Pajak Nomor KEP-05/PJ./2005 tentang Tata Cara Penyampaian Surat Pemberitahuan Secara Elektronik (e-Filing) Melalui Perusahaan Penyedia Jasa Aplikasi (ASP).\n7.\nSktruktur data adalah urutan dan atribut elemen data yang tersusun dalam satu kesatuan yang baku.\n8.\nPenelitian adalah serangkaian kegiatan yang dilakukan untuk menilai kelengkapan pengisian SPT dan Lampiran SPT sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.\n9.\nPengujian data adalah serangkaian kegiatan yang dilakukan untuk menilai kebenaran pengisian data elektronik Lampiran SPT sesuai dengan struktur data yang ditetapkan.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T02:59:18+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-isi-dan-tata-cara-penyampaian-surat-pemberitahuan-masa-pajak-pertambahan-nilai-spt"
+ }
+}

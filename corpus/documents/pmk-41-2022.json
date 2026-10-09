@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK41PMK0202022.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  },
+  {
+   "asal": "pilihan_jdih",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-41-2022",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2022"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-41-2022--b000-i",
   "pmk-41-2022--b001-ii"
@@ -56,6 +67,20 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PAJAK PENGHASILAN DAN/ATAU PAJAK PERTAMBAHAN NILAI ATAS PENJUALAN/PENYERAHAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, SERTA JASA YANG TERKAIT DENGAN EMAS PERHIASAN, EMAS BATANGAN, PERHIASAN YANG BAHAN SELURUHNYA BUKAN DARI EMAS, DAN/ATAU BATU PERMATA DAN/ATAU BATU LAINNYA YANG SEJENIS, YANG DILAKUKAN OLEH PABRIKAN EMAS PERHIASAN, PEDAGANG EMAS PERHIASAN, DAN/ATAU PENGUSAHA EMAS BATANGAN"
+   },
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 22. Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain (Berita Negara Republik Indonesia Tahun 2017 Nomor 361) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 41/PMK.010/2022 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain (Berita Negara Republik Indonesia Tahun 2022 Nomor 341); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
    }
   ],
   "revokes": [],
@@ -89,7 +114,7 @@
  "status": {
   "reasons": [
    "status berbeda antar sumber",
-   "sumber menyatakan berlaku, tetapi teks PMK 48/2023 mencabutnya"
+   "sumber menyatakan berlaku, tetapi teks PMK 48/2023, PMK 81/2024 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

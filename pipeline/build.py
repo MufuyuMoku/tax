@@ -44,27 +44,40 @@ def collect():
                 "texts": [],
                 "source_listed_related": [],
                 "attachment_urls": [],
+                "categories": [],
+                "unusable_files": [],
             }
         return documents[key]
 
     # --- DJP: the list gives every document and its status; the detail page gives the text.
+    # PPh comes from the proof of concept; KUP (and later PPN) from pipeline/harvest.py. Which
+    # category list a row was found in is kept as provenance (K-051), never the source's own
+    # classification fields.
     details = {}
-    for row in read_jsonl(config.IN_DJP_DETAIL):
-        if row.get("error"):
-            details.setdefault(row["path"], row)
-        else:
-            details[row["path"]] = row
+    for path in (config.IN_DJP_DETAIL, config.HARVEST_DJP_DETAIL):
+        for row in _read_optional(path):
+            if row.get("error"):
+                details.setdefault(row["path"], row)
+            else:
+                details[row["path"]] = row
 
-    seen_urls = set()
-    for row in read_jsonl(config.IN_DJP_LIST):
+    djp_rows = [(row, "PPh") for row in read_jsonl(config.IN_DJP_LIST)]
+    djp_rows += [(row, row["_kategori_daftar"]) for row in _read_optional(config.HARVEST_DJP_LIST)
+                 if row["_kategori_daftar"] in config.DJP_CATEGORIES]
+
+    seen_urls = {}
+    for row, category in djp_rows:
         if not row.get("path") or OUT_OF_SCOPE.search(row.get("judul") or ""):
             continue
         url = config.DJP_BASE + row["path"]
         if url in seen_urls:
-            continue  # the catalogue lists some documents twice
-        seen_urls.add(url)
+            # The catalogue lists some documents twice, and some in two categories.
+            _add_category(seen_urls[url], category, "daftar_djp")
+            continue
         detail = details.get(row["path"], {"error": "detail belum diambil"})
         doc = slot(parse(row.get("jenis"), row.get("nomor"), row.get("judul")), row["path"], row.get("judul"))
+        seen_urls[url] = doc
+        _add_category(doc, category, "daftar_djp")
         doc["source_records"].append({
             "source": "DJP",
             "url": url,
@@ -100,18 +113,43 @@ def collect():
                 "text": detail["body_text"],
             })
 
-    # --- JDIH: metadata for every candidate; text only for the one document fetched before the
-    # site stopped responding (LAPORAN section 2.1).
+    # --- JDIH. The status claim comes from JDIH's own listing (poc, 2026-09-21): for the PPh
+    # candidates of the proof of concept, and for every KUP/PPN document JDIH also has, matched by
+    # number. Document pages fetched in M5 (pipeline/jdih_harvest.py) add JDIH's relations and its
+    # validity period, and for the PPh documents only JDIH has, the full text when it passes the
+    # text quality rule (K-055).
     jdih_meta = {row["slug"]: row for row in read_jsonl(config.IN_JDIH_META)}
     jdih_detail = {row["slug"]: row for row in read_jsonl(config.IN_JDIH_DETAIL) if not row.get("error")}
-    for candidate in read_jsonl(config.IN_JDIH_CANDIDATES):
-        meta = jdih_meta[candidate["slug"]]
+    m5_detail = {row["slug"]: row for row in _read_optional(config.HARVEST_JDIH_DETAIL) if not row.get("error")}
+    m5_text = {row["slug"]: row for row in _read_optional(config.HARVEST_JDIH_TEXT)}
+
+    wanted = [(c["slug"], "PPh", c.get("alasan")) for c in read_jsonl(config.IN_JDIH_CANDIDATES)]
+    jdih_by_key = {}
+    for slug in sorted(jdih_meta):
+        meta = jdih_meta[slug]
+        key = parse(meta.get("bentuk"), meta.get("nomor"), meta.get("judul"))
+        if key:
+            jdih_by_key.setdefault(key, slug)
+    for key in sorted(documents, key=str):
+        doc = documents[key]
+        m5 = [c["kategori"] for c in doc["categories"] if c["kategori"] in config.DJP_CATEGORIES]
+        if m5 and key[0] != "?" and key in jdih_by_key:
+            wanted.append((jdih_by_key[key], m5[0], None))
+
+    seen_slugs = set()
+    for slug, category, reason in wanted:
+        if slug in seen_slugs:
+            continue
+        seen_slugs.add(slug)
+        meta = jdih_meta[slug]
         if OUT_OF_SCOPE.search(meta.get("judul") or ""):
             continue
-        url = config.JDIH_BASE + "/dok/" + candidate["slug"]
-        detail = jdih_detail.get(candidate["slug"], {})
-        doc = slot(parse(meta.get("bentuk"), meta.get("nomor"), meta.get("judul")), candidate["slug"], meta.get("judul"))
-        doc["source_records"].append({
+        url = config.JDIH_BASE + "/dok/" + slug
+        detail = jdih_detail.get(slug) or m5_detail.get(slug) or {}
+        doc = slot(parse(meta.get("bentuk"), meta.get("nomor"), meta.get("judul")), slug, meta.get("judul"))
+        if category == "PPh":
+            _add_category(doc, "PPh", "pilihan_jdih")
+        record = {
             "source": "JDIH",
             "url": url,
             "retrieved_at": meta["_retrieved_at"],
@@ -119,8 +157,13 @@ def collect():
             "title_as_written": meta.get("judul"),
             "type_as_written": meta.get("bentuk"),
             "date_as_written": meta.get("tanggal_penetapan"),
-            "selected_because": candidate.get("alasan"),
-        })
+        }
+        if reason is not None:
+            record["selected_because"] = reason
+        if detail.get("masa_berlaku_tampil"):
+            record["validity_as_written"] = detail["masa_berlaku_tampil"]
+            record["page_retrieved_at"] = detail["retrieved_at"]
+        doc["source_records"].append(record)
         doc["status_claims"].append({
             "source": "JDIH",
             "value_verbatim": meta.get("status"),
@@ -135,8 +178,9 @@ def collect():
                 "url": (config.JDIH_BASE + "/dok/" + relation["slug"]) if relation.get("slug") else None,
                 "note": f"jenis relasi menurut JDIH: {relation.get('nama')}",
             })
-        text_path = config.POC_TEXT / "jdih" / (candidate["slug"] + ".txt")
-        if detail and text_path.exists():
+        text_path = config.POC_TEXT / "jdih" / (slug + ".txt")
+        if slug in jdih_detail and text_path.exists():
+            detail = jdih_detail[slug]
             doc["texts"].append({
                 "source": "JDIH",
                 "format": detail.get("format", "pdf"),
@@ -144,8 +188,39 @@ def collect():
                 "retrieved_at": detail.get("pdf_retrieved_at") or detail.get("html_retrieved_at") or detail["retrieved_at"],
                 "text": text_path.read_text(encoding="utf8"),
             })
+        elif m5_detail.get(slug, {}).get("file_url"):
+            fetched = m5_detail[slug]
+            judged = m5_text.get(slug)
+            if judged and judged["usable"]:
+                doc["texts"].append({
+                    "source": "JDIH",
+                    "format": fetched["file_type"],
+                    "url": fetched["file_url"],
+                    "retrieved_at": fetched["file_retrieved_at"],
+                    "text": judged["text"],
+                })
+            else:
+                # Invariants 3 and 4: no usable text, so the original file is linked instead.
+                doc["unusable_files"].append({
+                    "url": fetched["file_url"],
+                    "retrieved_at": fetched["file_retrieved_at"],
+                    "reason": ("mutu teks berkas belum diperiksa" if not judged
+                               else "PDF tanpa lapisan teks (pindaian)" if not judged["hasTextLayer"]
+                               else "lapisan teks PDF tidak terbaca (K-055)"),
+                })
 
     return documents
+
+
+def _read_optional(path):
+    """A harvest file: absent until the M5 fetchers have written it."""
+    return list(read_jsonl(path)) if path.exists() else []
+
+
+def _add_category(doc, name, origin):
+    entry = {"kategori": name, "asal": origin}
+    if entry not in doc["categories"]:
+        doc["categories"].append(entry)
 
 
 def build():
@@ -231,6 +306,9 @@ def build():
             },
             "attachments": [attachments.check(url, key) for url in dict.fromkeys(entry["attachment_urls"])],
             "identity_conflicts": [],
+            # Which category lists the document was found in: provenance, PPh/KUP/PPN only (K-051).
+            "categories": sorted(entry["categories"], key=lambda c: (c["kategori"], c["asal"])),
+            "original_files": entry["unusable_files"],
         }
         documents.append(document)
 
@@ -316,6 +394,10 @@ def _same_title(a, b):
 
 def _no_text_reason(entry):
     sources = {r["source"] for r in entry["source_records"]}
+    if entry["unusable_files"]:
+        return entry["unusable_files"][0]["reason"] + "; lihat berkas aslinya"
+    if any(r.get("detail_error") == "detail belum diambil" for r in entry["source_records"]):
+        return "halaman detail sumber belum diambil"
     if any(r.get("detail_error") for r in entry["source_records"]):
         return "halaman detail sumber gagal diambil"
     if sources == {"JDIH"}:
@@ -349,6 +431,7 @@ def write(documents, units):
         "status": d["status"]["value"],
         "status_uncertain": d["status"]["value"] == "tidak_pasti",
         "sources": sorted({r["source"] for r in d["source_records"]}),
+        "categories": sorted({c["kategori"] for c in d["categories"]}),
         "text_available": d["text"]["available"],
         "text_chars": d["text"]["chars"],
         "pasal_count": len([p for p in d["pasal_ids"] if "--b" in p]),
@@ -371,7 +454,8 @@ def write(documents, units):
         "documents_with_quality_flags": sum(1 for d in documents if d["quality_flags"]),
         "attachments": sum(len(d["attachments"]) for d in documents),
         "attachment_match_counts": _counts(a["match"] for d in documents for a in d["attachments"]),
-        "inputs": {p.name: _sha256(p) for p in config.INPUTS},
+        "inputs": {p.name: _sha256(p) for p in config.INPUTS + config.HARVEST_INPUTS if p.exists()},
+        "category_counts": _counts(c for d in documents for c in sorted({x["kategori"] for x in d["categories"]})),
         "note": "Dibangun dari arsip poc/ tanpa permintaan jaringan. Jalankan: python -m pipeline.build",
     }
     _dump(config.CORPUS / "meta.json", meta)

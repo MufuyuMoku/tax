@@ -1,0 +1,108 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-249-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "249",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-249-2010--b000-1",
+  "pmk-249-2010--b001-2",
+  "pmk-249-2010--b002-3",
+  "pmk-249-2010--b003-4",
+  "pmk-249-2010--b004-5",
+  "pmk-249-2010--b005-6",
+  "pmk-249-2010--b006-7",
+  "pmk-249-2010--b007-8",
+  "pmk-249-2010--b008-9",
+  "pmk-249-2010--b009-10",
+  "pmk-249-2010--b010-11",
+  "pmk-249-2010--b011-12",
+  "pmk-249-2010--b012-13",
+  "pmk-249-2010--b013-14",
+  "pmk-249-2010--b014-15",
+  "pmk-249-2010--b015-16",
+  "pmk-249-2010--b016-17",
+  "pmk-249-2010--b017-18",
+  "pmk-249-2010--b018-19",
+  "pmk-249-2010--b019-20",
+  "pmk-249-2010--b020-21",
+  "pmk-249-2010--b021-22"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-27",
+   "detail_error": null,
+   "number_as_written": "249/PMK.05/2010",
+   "retrieved_at": "2026-10-04T07:45:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PENATAUSAHAAN PENERIMAAN NEGARA DALAM MATA UANG ASING",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penatausahaan-penerimaan-negara-dalam-mata-uang-asing"
+  },
+  {
+   "date_as_written": "2010-12-27 00:00:00",
+   "number_as_written": "249/PMK.05/2010",
+   "retrieved_at": "2026-09-21T14:38:43+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penatausahaan Penerimaan Negara dalam Mata Uang Asing.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/249-pmk-05-2010"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=125",
+   "retrieved_at": "2026-10-03T03:18:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penatausahaan-penerimaan-negara-dalam-mata-uang-asing",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=345",
+   "retrieved_at": "2026-09-21T14:38:43+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/249-pmk-05-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 30971,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:45:54+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penatausahaan-penerimaan-negara-dalam-mata-uang-asing"
+ },
+ "title": "PENATAUSAHAAN PENERIMAAN NEGARA DALAM MATA UANG ASING"
+}

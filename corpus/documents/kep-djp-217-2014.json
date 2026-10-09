@@ -1,5 +1,11 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-217-2014",
  "identity": {
@@ -9,6 +15,7 @@
   "year": "2014"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-217-2014--b000-kedua",
   "kep-djp-217-2014--b001-ketiga",
@@ -51,7 +58,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

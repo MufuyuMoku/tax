@@ -1,0 +1,138 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-68-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "68",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-68-2012--b000-1",
+  "pmk-68-2012--b001-2",
+  "pmk-68-2012--b002-3",
+  "pmk-68-2012--b003-4",
+  "pmk-68-2012--b004-5",
+  "pmk-68-2012--b005-6",
+  "pmk-68-2012--b006-7",
+  "pmk-68-2012--b007-8",
+  "pmk-68-2012--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-117-2024",
+    "key": [
+     "PMK",
+     "117",
+     "2024",
+     null
+    ],
+    "number_as_written": "117 TAHUN 2024",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 68/PMK.03/2012 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan (Berita Negara Republik Indonesia Tahun 2012 Nomor 480); dan b. Peraturan Menteri Keuangan Nomor 43/PMK.03/2018 tentang Kebijakan Akuntansi Penghapusbukuan Piutang Pajak yang Telah Daluwarsa (Berita Negara Republik Indonesia Tahun 2018 Nomor 597), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGHAPUSAN PIUTANG PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "565/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 565/KMK.04/2000",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri ini mulai berlaku: 1. Keputusan Menteri Keuangan Nomor 565/KMK.04/2000 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan; dan 2. Keputusan Menteri Keuangan Nomor 539/KMK.03/2002 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 565/KMK.04/2000 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-565-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "539/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 539/KMK.03/2002",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Keputusan Menteri Keuangan Nomor 539/KMK.03/2002 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 565/KMK.04/2000 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-539-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-05-02",
+   "detail_error": null,
+   "number_as_written": "68/PMK.03/2012",
+   "retrieved_at": "2026-10-04T06:55:43+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghapusan-piutang-pajak-dan-penetapan-besarnya-penghapusan-3"
+  },
+  {
+   "date_as_written": "2012-05-02 00:00:00",
+   "number_as_written": "68/PMK.03/2012",
+   "retrieved_at": "2026-09-21T14:36:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2012"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 117/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=113",
+   "retrieved_at": "2026-10-03T03:14:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghapusan-piutang-pajak-dan-penetapan-besarnya-penghapusan-3",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=311",
+   "retrieved_at": "2026-09-21T14:36:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7052,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:55:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penghapusan-piutang-pajak-dan-penetapan-besarnya-penghapusan-3"
+ },
+ "title": "TATA CARA PENGHAPUSAN PIUTANG PAJAK DAN PENETAPAN BESARNYA PENGHAPUSAN"
+}

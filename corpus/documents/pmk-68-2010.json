@@ -1,0 +1,138 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-68-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "68",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-68-2010--b000-1",
+  "pmk-68-2010--b001-2",
+  "pmk-68-2010--b002-3",
+  "pmk-68-2010--b003-4",
+  "pmk-68-2010--b004-5",
+  "pmk-68-2010--b005-6",
+  "pmk-68-2010--b006-7",
+  "pmk-68-2010--b007-8",
+  "pmk-68-2010--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-164-2023",
+    "key": [
+     "PMK",
+     "164",
+     "2023",
+     null
+    ],
+    "number_as_written": "164 TAHUN 2023",
+    "quote": "Pasal 24 Pada saat Peraturan Menteri ini mulai berlaku: a. ketentuan Pasal 4 dan Pasal 5 Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2010 Nomor 146) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 197/PMK.03/2013 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai (Berita Negara Republik Indonesia Tahun 2013 Nomor 1521); dan b. Peraturan Menteri Keuangan Nomor 99/PMK.03/2018 tentang Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu (Berita Negara Republik Indonesia Tahun 2018 Nomor 1146), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGENAAN PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK YANG MEMILIKI PEREDARAN BRUTO TERTENTU DAN KEWAJIBAN PELAPORAN USAHA UNTUK DIKUKUHKAN SEBAGAI PENGUSAHA KENA PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "552/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 552/KMK.04/2000",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 552/KMK.04/2000 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 571/KMK.03/2003, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-552-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "571/KMK.03",
+     "2003",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 571/KMK.03/2003",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 552/KMK.04/2000 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 571/KMK.03/2003, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-571-kmk-03-2003"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-23",
+   "detail_error": null,
+   "number_as_written": "68/PMK.03/2010",
+   "retrieved_at": "2026-10-05T01:24:57+00:00",
+   "source": "DJP",
+   "title_as_written": "BATASAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-pengusaha-kecil-pajak-pertambahan-nilai-1"
+  },
+  {
+   "date_as_written": "2010-03-23 00:00:00",
+   "number_as_written": "68/PMK.03/2010",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "title_as_written": "Batasan Pengusaha Kecil Pajak Pertambahan Nilai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2010"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 164/2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=134",
+   "retrieved_at": "2026-10-03T03:21:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/batasan-pengusaha-kecil-pajak-pertambahan-nilai-1",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=363",
+   "retrieved_at": "2026-09-21T14:39:55+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2010",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5677,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:24:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/batasan-pengusaha-kecil-pajak-pertambahan-nilai-1"
+ },
+ "title": "BATASAN PENGUSAHA KECIL PAJAK PERTAMBAHAN NILAI"
+}

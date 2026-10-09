@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-206-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "206",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-206-2008--b000-1",
+  "pmk-206-2008--b001-2",
+  "pmk-206-2008--b002-3",
+  "pmk-206-2008--b003-4",
+  "pmk-206-2008--b004-5",
+  "pmk-206-2008--b005-6",
+  "pmk-206-2008--b006-7",
+  "pmk-206-2008--b007-8",
+  "pmk-206-2008--b008-9",
+  "pmk-206-2008--b009-10",
+  "pmk-206-2008--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-12-10",
+   "detail_error": null,
+   "number_as_written": "206/PMK.01/2008",
+   "retrieved_at": "2026-10-05T02:01:46+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENATAUSAHAAN DOKUMEN PENTING DAN/ATAU BERSIFAT RAHASIA TERKAIT PENANGANAN MASALAH HUKUM DAN PENYELESAIAN PIUTANG NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-dokumen-penting-danatau-bersifat-rahasia-terkait-penanganan"
+  },
+  {
+   "date_as_written": "2008-12-10 00:00:00",
+   "number_as_written": "206/PMK.01/2008",
+   "retrieved_at": "2026-09-21T14:42:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penatausahaan Dokumen Penting dan/atau Bersifat Rahasia Terkait Penanganan Masalah Hukum dan Penyelesaian Piutang Negara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-01-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=160",
+   "retrieved_at": "2026-10-03T03:30:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-dokumen-penting-danatau-bersifat-rahasia-terkait-penanganan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=398",
+   "retrieved_at": "2026-09-21T14:42:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/206-pmk-01-2008",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8186,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:01:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-dokumen-penting-danatau-bersifat-rahasia-terkait-penanganan"
+ },
+ "title": "TATA CARA PENATAUSAHAAN DOKUMEN PENTING DAN/ATAU BERSIFAT RAHASIA TERKAIT PENANGANAN MASALAH HUKUM DAN PENYELESAIAN PIUTANG NEGARA"
+}

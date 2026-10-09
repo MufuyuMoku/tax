@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-58-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "58/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-02-26",
+   "detail_error": null,
+   "number_as_written": "58/KMK.03/2002",
+   "retrieved_at": "2026-10-05T06:25:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN DAN PEMBERIAN KODE KANTOR PELAYANAN PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-dan-pemberian-kode-kantor-pelayanan-pajak"
+  },
+  {
+   "date_as_written": "2002-02-26 00:00:00",
+   "number_as_written": "58/KMK.03/2002",
+   "retrieved_at": "2026-09-21T14:49:06+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan dan Pemberian Kode Kantor Pelayanan Pajak.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/58-kmk-03-2002"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=215",
+   "retrieved_at": "2026-10-03T03:54:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-dan-pemberian-kode-kantor-pelayanan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=32",
+   "retrieved_at": "2026-09-21T14:49:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/58-kmk-03-2002",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN DAN PEMBERIAN KODE KANTOR PELAYANAN PAJAK"
+}

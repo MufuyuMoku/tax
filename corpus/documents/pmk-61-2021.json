@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-61-2021",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2021"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-61-2021--b000-1",
   "pmk-61-2021--b001-2",
@@ -36,10 +47,19 @@
    "title_as_written": "HAK DAN KEWAJIBAN PERPAJAKAN BAGI PEMEGANG IZIN USAHA PERFAMBANGAN, IZIN USAHA PERTAMBANGAN KHUSUS, IZIN PERTAMBANGAN RAKYAT, IZIN USAHA PERTAMBANGAN KHUSUS OPERASI PRODUKSI SEBAGAI KELANJUTAN OPERASI KONTRAK, ATAU KONTRAK KARYA DALAM RANGKA KERJA SAMA DI BIDANG USAHA PERTAMBANGAN MINERAL",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/hak-dan-kewajiban-perpajakan-bagi-pemegang-izin-usaha-perfambangan-izin-usaha"
+  },
+  {
+   "date_as_written": "2021-06-07 00:00:00",
+   "number_as_written": "61/PMK.03/2021",
+   "retrieved_at": "2026-09-21T14:21:25+00:00",
+   "source": "JDIH",
+   "title_as_written": "Hak dan Kewajiban Perpajakan bagi Pemegang Izin Usaha Pertambangan, lzin Usaha Pertambangan Khusus, lzin Pertambangan Rakyat, lzin\nUsaha Pertambangan Khusus Operasi Produksi Sebagai Kelanjutan Operasi Kontrak, atau Kontrak Karya dalam rangka Kerja Sama di Bidang Usaha Pertambangan Mineral",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2021"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -51,6 +71,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/hak-dan-kewajiban-perpajakan-bagi-pemegang-izin-usaha-perfambangan-izin-usaha",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=91",
+   "retrieved_at": "2026-09-21T14:21:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/61-pmk-03-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

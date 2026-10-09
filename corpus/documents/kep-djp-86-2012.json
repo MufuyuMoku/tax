@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-86-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "86",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-86-2012--b000-i",
+  "kep-djp-86-2012--b001-ii",
+  "kep-djp-86-2012--b002-iii",
+  "kep-djp-86-2012--b003-iv"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "26",
+     "2012",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-26/PJ/2012",
+    "quote": "Mengubah diktum kedua menjadi diktum ketiga sehingga seluruhnya berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-26-2012"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-03-09",
+   "detail_error": null,
+   "number_as_written": "KEP-86/PJ/2012",
+   "retrieved_at": "2026-10-04T06:59:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 26/PJ/2012 TENTANG PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-26pj2012-tentang-pemindahan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=116",
+   "retrieved_at": "2026-10-03T03:15:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-26pj2012-tentang-pemindahan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3693,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:59:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-26pj2012-tentang-pemindahan"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 26/PJ/2012 TENTANG PEMINDAHAN WAJIB PAJAK DARI KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+}

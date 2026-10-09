@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-235-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "235",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-235-2016--b000-i",
+  "pmk-235-2016--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "87",
+     "2013",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 87/PMK.03/2013",
+    "quote": "Ketentuan Pasal 1 dalam Peraturan Menteri Keuangan Nomor 87/PMK.03/2013 tentang Tata Cara Permintaan Keterangan atau Bukti dari Pihak-Pihak yang Terikat oleh Kewajiban Merahasiakan (Berita Negara Republik Indonesia Tahun 2013 Nomor 624) diubah, sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-87-2013"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-12-30",
+   "detail_error": null,
+   "number_as_written": "235/PMK.03/2016",
+   "retrieved_at": "2026-10-04T03:46:19+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 87/PMK.03/2013 TENTANG TATA CARA PERMINTAAN KETERANGAN ATAU BUKTI DARI PIHAK-PIHAK YANG TERIKAT OLEH KEWAJIBAN MERAHASIAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-87pmk032013-tentang-tata-cara-permintaan"
+  },
+  {
+   "date_as_written": "2016-12-30 00:00:00",
+   "number_as_written": "235/PMK.03/2016",
+   "retrieved_at": "2026-09-21T14:28:09+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 87 / Pmk.03/ 2013 tentang Tata Cara\r\nPermintaan Keterangan atau Bukti Dari Pihak-Pihak yang Terikat oleh Kewajiban Merahasiakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-03-2016"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=64",
+   "retrieved_at": "2026-10-03T02:55:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-87pmk032013-tentang-tata-cara-permintaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=191",
+   "retrieved_at": "2026-09-21T14:28:09+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-03-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4951,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:46:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-87pmk032013-tentang-tata-cara-permintaan"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 87/PMK.03/2013 TENTANG TATA CARA PERMINTAAN KETERANGAN ATAU BUKTI DARI PIHAK-PIHAK YANG TERIKAT OLEH KEWAJIBAN MERAHASIAKAN"
+}

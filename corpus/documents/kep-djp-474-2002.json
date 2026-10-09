@@ -1,0 +1,114 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-474-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "474",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-474-2002--b000-i",
+  "kep-djp-474-2002--b001-ii",
+  "kep-djp-474-2002--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "645",
+     "2001",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-645/PJ./2001",
+    "quote": "Mengubah sebagian formulir lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ/2001 tentang Bentuk, Jenis, dan Kode Kartu, Formulir, Surat, dan Buku yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa sehingga menjadi sebagaimana lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-645-2001"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-4-2016",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2016",
+     null
+    ],
+    "number_as_written": "PER-04/PJ/2016",
+    "quote": "b. Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ./2001 tentang Bentuk, Jenis, dan Kode Kartu, Formulir, Surat, dan Buku yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-474/PJ./2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SURAT, DAFTAR, FORMULIR, DAN LAPORAN YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "645",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ/2001",
+    "quote": "Pasal II Terhitung mulai tanggal berlakunya Keputusan Direktur Jenderal Pajak ini, maka bentuk formulir semula sebagaimana Lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ/2001, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-645-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-11-12",
+   "detail_error": null,
+   "number_as_written": "KEP-474/PJ./2002",
+   "retrieved_at": "2026-10-05T03:20:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-645/PJ./2001 TENTANG BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-645pj2001-tentang-bentuk-jenis"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=212",
+   "retrieved_at": "2026-10-03T03:51:16+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-645pj2001-tentang-bentuk-jenis",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 5956,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:20:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-645pj2001-tentang-bentuk-jenis"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-645/PJ./2001 TENTANG BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+}

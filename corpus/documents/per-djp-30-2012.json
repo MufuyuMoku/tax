@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-30-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "30",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-30-2012--b000-1",
+  "per-djp-30-2012--b001-2",
+  "per-djp-30-2012--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "11",
+     "1994",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-11/PJ./1994",
+    "quote": "Pasal 1 Keputusan Direktur Jenderal Pajak Nomor KEP-11/PJ./1994 tentang Pedoman Induk Tata Usaha Penerimaan dan Restitusi Pajak dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-11-1994"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-12-27",
+   "detail_error": null,
+   "number_as_written": "PER-30/PJ/2012",
+   "retrieved_at": "2026-10-04T06:01:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-11/PJ./1994 TENTANG PEDOMAN INDUK TATA USAHA PENERIMAAN DAN RESTITUSI PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-direktur-jenderal-pajak-nomor-kep-11pj1994-tentang-pedoman-induk"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=106",
+   "retrieved_at": "2026-10-03T03:12:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-direktur-jenderal-pajak-nomor-kep-11pj1994-tentang-pedoman-induk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2258,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:01:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-direktur-jenderal-pajak-nomor-kep-11pj1994-tentang-pedoman-induk"
+ },
+ "title": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-11/PJ./1994 TENTANG PEDOMAN INDUK TATA USAHA PENERIMAAN DAN RESTITUSI PAJAK"
+}

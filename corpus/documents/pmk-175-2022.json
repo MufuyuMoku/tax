@@ -1,0 +1,129 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK175PMK012022.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "175",
+    "year": "2022"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK175PMK012022.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-175-2022",
+ "identity": {
+  "code": "PMK",
+  "number": "175",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-175-2022--b000-i",
+  "pmk-175-2022--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "111",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 111/PMK.03/2014",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 761) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-111-2014"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-55-2026",
+    "key": [
+     "PMK",
+     "55",
+     "2026",
+     null
+    ],
+    "number_as_written": "55 TAHUN 2026",
+    "quote": "2. Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2014 Nomor 761) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 175/PMK.01/2022 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak (Berita Negara Republik Indonesia Tahun 2022 Nomor 1203), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "KONSULTAN PAJAK DAN PIHAK LAIN YANG BERTINDAK SEBAGAI KUASA WAJIB PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-11-22",
+   "detail_error": null,
+   "number_as_written": "175/PMK.01/2022",
+   "retrieved_at": "2026-10-04T03:10:40+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 111/PMK.03/2014 TENTANG KONSULTAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-111pmk032014-tentang-konsultan-pajak"
+  },
+  {
+   "date_as_written": "2022-11-22 00:00:00",
+   "number_as_written": "175/PMK.01/2022",
+   "retrieved_at": "2026-09-21T14:18:58+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 111/PMK.03/2014 tentang Konsultan Pajak",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-01-2022"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 55/2026 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=20",
+   "retrieved_at": "2026-10-03T02:39:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-111pmk032014-tentang-konsultan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=56",
+   "retrieved_at": "2026-09-21T14:18:58+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/175-pmk-01-2022",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 39328,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:10:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-111pmk032014-tentang-konsultan-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 111/PMK.03/2014 TENTANG KONSULTAN PAJAK"
+}

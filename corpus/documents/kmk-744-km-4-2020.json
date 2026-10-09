@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%20KMK744KM042020.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kmk-744-km-4-2020",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2020"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "kmk-744-km-4-2020--b000-kedua",
   "kmk-744-km-4-2020--b001-ketiga"
@@ -28,7 +35,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "kmk-272-2023",
+    "key": [
+     "KMK",
+     "272",
+     "2023",
+     null
+    ],
+    "number_as_written": "272 TAHUN 2023",
+    "quote": "KEDUA : Pada saat Keputusan Menteri ini berlaku, Keputusan Menteri Keuangan Nomor 744/KM.4/2020 tentang Penetapan Barang Ekspor Sumber Daya Alam dengan Kewajiban Memasukkan Devisa Hasil Ekspor ke dalam Sistem Keuangan Indonesia, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN JENIS BARANG EKSPOR SUMBER DAYA ALAM DENGAN KEWAJIBAN MEMASUKKAN DEVISA HASIL EKSPOR KE DALAM SISTEM KEUANGAN INDONESIA"
+   }
+  ],
   "revokes": [
    {
     "key": [
@@ -59,7 +81,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "tidak_berlaku"
  },

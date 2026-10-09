@@ -1,0 +1,76 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-170-2007",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "170",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-170-2007--b000-1",
+  "per-djp-170-2007--b001-2",
+  "per-djp-170-2007--b002-3",
+  "per-djp-170-2007--b003-4",
+  "per-djp-170-2007--b004-5",
+  "per-djp-170-2007--b005-6",
+  "per-djp-170-2007--b006-7",
+  "per-djp-170-2007--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-12-11",
+   "detail_error": null,
+   "number_as_written": "PER-170/PJ/2007",
+   "retrieved_at": "2026-10-05T02:32:38+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN KONSELING TERHADAP WAJIB PAJAK SEBAGAI TINDAK LANJUT SURAT HIMBAUAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-konseling-terhadap-wajib-pajak-sebagai-tindak-lanjut-surat-himbauan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=180",
+   "retrieved_at": "2026-10-03T03:37:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-konseling-terhadap-wajib-pajak-sebagai-tindak-lanjut-surat-himbauan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6715,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:32:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-konseling-terhadap-wajib-pajak-sebagai-tindak-lanjut-surat-himbauan"
+ },
+ "title": "TATA CARA PELAKSANAAN KONSELING TERHADAP WAJIB PAJAK SEBAGAI TINDAK LANJUT SURAT HIMBAUAN"
+}

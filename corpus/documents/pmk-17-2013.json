@@ -1,0 +1,266 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-17-2013",
+ "identity": {
+  "code": "PMK",
+  "number": "17",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-17-2013--b000-1",
+  "pmk-17-2013--b001-2",
+  "pmk-17-2013--b002-3",
+  "pmk-17-2013--b003-4",
+  "pmk-17-2013--b004-5",
+  "pmk-17-2013--b005-6",
+  "pmk-17-2013--b006-7",
+  "pmk-17-2013--b007-8",
+  "pmk-17-2013--b008-9",
+  "pmk-17-2013--b009-10",
+  "pmk-17-2013--b010-11",
+  "pmk-17-2013--b011-12",
+  "pmk-17-2013--b012-13",
+  "pmk-17-2013--b013-14",
+  "pmk-17-2013--b014-15",
+  "pmk-17-2013--b015-16",
+  "pmk-17-2013--b016-17",
+  "pmk-17-2013--b017-18",
+  "pmk-17-2013--b018-19",
+  "pmk-17-2013--b019-20",
+  "pmk-17-2013--b020-21",
+  "pmk-17-2013--b021-22",
+  "pmk-17-2013--b022-23",
+  "pmk-17-2013--b023-24",
+  "pmk-17-2013--b024-25",
+  "pmk-17-2013--b025-26",
+  "pmk-17-2013--b026-27",
+  "pmk-17-2013--b027-28",
+  "pmk-17-2013--b028-29",
+  "pmk-17-2013--b029-30",
+  "pmk-17-2013--b030-31",
+  "pmk-17-2013--b031-32",
+  "pmk-17-2013--b032-33",
+  "pmk-17-2013--b033-34",
+  "pmk-17-2013--b034-35",
+  "pmk-17-2013--b035-36",
+  "pmk-17-2013--b036-37",
+  "pmk-17-2013--b037-38",
+  "pmk-17-2013--b038-39",
+  "pmk-17-2013--b039-40",
+  "pmk-17-2013--b040-41",
+  "pmk-17-2013--b041-42",
+  "pmk-17-2013--b042-43",
+  "pmk-17-2013--b043-44",
+  "pmk-17-2013--b044-45",
+  "pmk-17-2013--b045-46",
+  "pmk-17-2013--b046-47",
+  "pmk-17-2013--b047-48",
+  "pmk-17-2013--b048-49",
+  "pmk-17-2013--b049-50",
+  "pmk-17-2013--b050-51",
+  "pmk-17-2013--b051-52",
+  "pmk-17-2013--b052-53",
+  "pmk-17-2013--b053-54",
+  "pmk-17-2013--b054-55",
+  "pmk-17-2013--b055-56",
+  "pmk-17-2013--b056-57",
+  "pmk-17-2013--b057-58",
+  "pmk-17-2013--b058-59",
+  "pmk-17-2013--b059-60",
+  "pmk-17-2013--b060-61",
+  "pmk-17-2013--b061-62",
+  "pmk-17-2013--b062-63",
+  "pmk-17-2013--b063-64",
+  "pmk-17-2013--b064-65",
+  "pmk-17-2013--b065-66",
+  "pmk-17-2013--b066-67",
+  "pmk-17-2013--b067-68",
+  "pmk-17-2013--b068-69",
+  "pmk-17-2013--b069-70",
+  "pmk-17-2013--b070-71",
+  "pmk-17-2013--b071-72",
+  "pmk-17-2013--b072-73",
+  "pmk-17-2013--b073-74",
+  "pmk-17-2013--b074-75",
+  "pmk-17-2013--b075-76",
+  "pmk-17-2013--b076-77",
+  "pmk-17-2013--b077-78",
+  "pmk-17-2013--b078-79",
+  "pmk-17-2013--b079-80",
+  "pmk-17-2013--b080-81",
+  "pmk-17-2013--b081-82",
+  "pmk-17-2013--b082-83",
+  "pmk-17-2013--b083-84",
+  "pmk-17-2013--b084-85",
+  "pmk-17-2013--b085-86",
+  "pmk-17-2013--b086-87",
+  "pmk-17-2013--b087-88",
+  "pmk-17-2013--b088-89",
+  "pmk-17-2013--b089-90",
+  "pmk-17-2013--b090-91",
+  "pmk-17-2013--b091-92",
+  "pmk-17-2013--b092-93",
+  "pmk-17-2013--b093-94",
+  "pmk-17-2013--b094-95",
+  "pmk-17-2013--b095-96"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-184-2015",
+    "key": [
+     "PMK",
+     "184",
+     "2015",
+     null
+    ],
+    "number_as_written": "184/PMK.03/2015",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nornor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 17/PMK.03/2013 TENTANG TATA CARA PEMERIKSAAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-15-2025",
+    "key": [
+     "PMK",
+     "15",
+     "2025",
+     null
+    ],
+    "number_as_written": "15 TAHUN 2025",
+    "quote": "Pasal 31 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan (Berita Negara Republik Indonesia Tahun 2013 Nomor 47) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 184/PMK.03/2015 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 17/PMK.03/2013 tentang Tata Cara Pemeriksaan (Berita Negara Republik Indonesia Tahun 2015 Nomor 1468); … c. Pasal 105 Peraturan Menteri Keuangan Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan (Berita Negara Republik Indonesia Tahun 2021 Nomor 153), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PEMERIKSAAN PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "191",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 191/PMK.03/2007",
+    "quote": "Pasal 95 Pada saat Peraturan Menteri ini berlaku: a. Peraturan Menteri Keuangan Nomor 191/PMK.03/2007 tentang Penerbitan Surat Ketetapan Pajak Atas Permohonan Pengembalian Kelebihan Pembayaran Pajak Terhadap Wajib Pajak Yang Sedang Dilakukan Pemeriksaan Bukti Permulaan Tindak Pidana Di Bidang Perpajakan; b. Peraturan Menteri Keuangan Nomor 198/PMK.03/2007 tentang Tata Cara Penyegelan Dalam Rangka Pemeriksaan di Bidang Perpajakan; c. Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak; d. Peraturan Menteri Keuangan Nomor 82/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-191-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "198",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 198/PMK.03/2007",
+    "quote": "Pasal 95 Pada saat Peraturan Menteri ini berlaku: … b. Peraturan Menteri Keuangan Nomor 198/PMK.03/2007 tentang Tata Cara Penyegelan Dalam Rangka Pemeriksaan di Bidang Perpajakan; c. Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak; d. Peraturan Menteri Keuangan Nomor 82/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-198-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "199",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 199/PMK.03/2007",
+    "quote": "Pasal 95 Pada saat Peraturan Menteri ini berlaku: … c. Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak; d. Peraturan Menteri Keuangan Nomor 82/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-199-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "82",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 82/PMK.03/2011",
+    "quote": "Pasal 95 Pada saat Peraturan Menteri ini berlaku: … d. Peraturan Menteri Keuangan Nomor 82/PMK.03/2011 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 199/PMK.03/2007 tentang Tata Cara Pemeriksaan Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-82-2011"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-01-07",
+   "detail_error": null,
+   "number_as_written": "17/PMK.03/2013",
+   "retrieved_at": "2026-10-04T04:28:01+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan"
+  },
+  {
+   "date_as_written": "2013-01-07 00:00:00",
+   "number_as_written": "17/PMK.03/2013",
+   "retrieved_at": "2026-09-21T14:35:10+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemeriksaan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2013"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=104",
+   "retrieved_at": "2026-10-03T03:11:19+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=291",
+   "retrieved_at": "2026-09-21T14:35:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2013",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 119399,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:28:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan"
+ },
+ "title": "TATA CARA PEMERIKSAAN"
+}

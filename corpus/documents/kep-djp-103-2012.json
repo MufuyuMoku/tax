@@ -1,0 +1,69 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-103-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "103",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-103-2012--b000-kedua"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-03-29",
+   "detail_error": null,
+   "number_as_written": "KEP-103/PJ/2012",
+   "retrieved_at": "2026-10-04T06:57:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PENERAPAN ORGANISASI DAN TATA KERJA KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK ACEH",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penerapan-organisasi-dan-tata-kerja-kantor-wilayah-direktorat-jenderal-pajak-aceh"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=115",
+   "retrieved_at": "2026-10-03T03:15:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penerapan-organisasi-dan-tata-kerja-kantor-wilayah-direktorat-jenderal-pajak-aceh",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 1672,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:57:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-organisasi-dan-tata-kerja-kantor-wilayah-direktorat-jenderal-pajak-aceh"
+ },
+ "title": "PENERAPAN ORGANISASI DAN TATA KERJA KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK ACEH"
+}

@@ -1,0 +1,182 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-645-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "645",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-645-2001--b000-1",
+  "kep-djp-645-2001--b001-2",
+  "kep-djp-645-2001--b002-3",
+  "kep-djp-645-2001--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-474-2002",
+    "key": [
+     "KEP-DJP",
+     "474",
+     "2002",
+     null
+    ],
+    "number_as_written": "KEP-474/PJ./2002",
+    "quote": "Mengubah sebagian formulir lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ/2001 tentang Bentuk, Jenis, dan Kode Kartu, Formulir, Surat, dan Buku yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa sehingga menjadi sebagaimana lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-645/PJ./2001 TENTANG BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-474-2002",
+    "key": [
+     "KEP-DJP",
+     "474",
+     "2002",
+     null
+    ],
+    "number_as_written": "KEP-474/PJ./2002",
+    "quote": "Pasal II Terhitung mulai tanggal berlakunya Keputusan Direktur Jenderal Pajak ini, maka bentuk formulir semula sebagaimana Lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ/2001, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-645/PJ./2001 TENTANG BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   },
+   {
+    "id": "per-djp-4-2016",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2016",
+     null
+    ],
+    "number_as_written": "PER-04/PJ/2016",
+    "quote": "b. Keputusan Direktur Jenderal Pajak Nomor KEP-645/PJ./2001 tentang Bentuk, Jenis, dan Kode Kartu, Formulir, Surat, dan Buku yang Digunakan dalam Pelaksanaan Penagihan Pajak dengan Surat Paksa sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-474/PJ./2002, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SURAT, DAFTAR, FORMULIR, DAN LAPORAN YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "19",
+     "1995",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ/1995",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ/1995 tentang pedoman Tata Usaha Piutang dan Penagihan Pajak; … Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-19-1995"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "1",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.7/1996",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : … Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.7/1996 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan Piutang Pajak sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-228/PJ/1999; Keputusan Direktur Jenderal Pajak Nomor KEP-115/PJ/1997 tentang Bentuk-bentuk Formulir yang Digunakan untuk Penagihan Pajak sebagaimana tercantum pada lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ/1995 tentang Pedoman Tata Usaha Piutang dan Penagihan Pajak; Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-1-1996"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "228",
+     "1999",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-228/PJ/1999",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : … Keputusan Direktur Jenderal Pajak Nomor KEP-01/PJ.7/1996 tentang Tata Cara Penghapusan Piutang Pajak dan Penetapan Besarnya Penghapusan Piutang Pajak sebagaimana telah diubah dengan Keputusan Direktur Jenderal Pajak Nomor KEP-228/PJ/1999; Keputusan Direktur Jenderal Pajak Nomor KEP-115/PJ/1997 tentang Bentuk-bentuk Formulir yang Digunakan untuk Penagihan Pajak sebagaimana tercantum pada lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ/1995 tentang Pedoman Tata Usaha Piutang dan Penagihan Pajak; Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-228-1999"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "115",
+     "1997",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-115/PJ/1997",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : … Keputusan Direktur Jenderal Pajak Nomor KEP-115/PJ/1997 tentang Bentuk-bentuk Formulir yang Digunakan untuk Penagihan Pajak sebagaimana tercantum pada lampiran Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ/1995 tentang Pedoman Tata Usaha Piutang dan Penagihan Pajak; Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-115-1997"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "325",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, bentuk, jenis, dan kode kartu, formulir, surat dan buku yang digunakan dalam penagihan pajak dengan Surat Paksa sebagaimana ditetapkan dalam : … Keputusan Direktur Jenderal Pajak Nomor KEP-325/PJ/2001 tentang Tata Cara Pemberian Angsuran atau Penundaan Pembayaran Pajak, Dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-325-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-10-04",
+   "detail_error": null,
+   "number_as_written": "KEP-645/PJ./2001",
+   "retrieved_at": "2026-10-05T06:27:34+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-jenis-dan-kode-kartu-formulir-surat-dan-buku-yang-digunakan-dalam-pelaksanaan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=216",
+   "retrieved_at": "2026-10-03T03:54:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-jenis-dan-kode-kartu-formulir-surat-dan-buku-yang-digunakan-dalam-pelaksanaan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6344,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T06:27:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-jenis-dan-kode-kartu-formulir-surat-dan-buku-yang-digunakan-dalam-pelaksanaan"
+ },
+ "title": "BENTUK, JENIS, DAN KODE KARTU, FORMULIR, SURAT, DAN BUKU YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+}

@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-6-2011",
+ "identity": {
+  "code": "UU",
+  "number": "6",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [
+  "tidak_ada_pasal"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "uu-6-2011",
+    "key": [
+     "UU",
+     "6",
+     "2011",
+     null
+    ],
+    "number_as_written": "6 TAHUN 2011",
+    "quote": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN DENGAN RAHMAT TUHAN YANG MAHA ESA PRESIDEN REPUBLIK INDONESIA, Menimbang : a. bahwa Keimigrasian merupakan bagian dari perwujudan pelaksanaan penegakan kedaulatan atas Wilayah Indonesia dalam rangka menjaga ketertiban kehidupan berbangsa dan bernegara menuju masyarakat yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; … c. bahwa Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian sudah tidak memadai lagi untuk memenuhi berbagai perkembangan kebutuhan pengaturan, pelayanan, dan pengawasan di bidang Keimigrasian sehingga perlu dicabut dan diganti dengan undang-undang baru yang lebih komprehensif serta mampu menjawab tantangan yang ada;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KEIMIGRASIAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "UU",
+     "6",
+     "2011",
+     null
+    ],
+    "name": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2011",
+    "quote": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN DENGAN RAHMAT TUHAN YANG MAHA ESA PRESIDEN REPUBLIK INDONESIA, Menimbang : a. bahwa Keimigrasian merupakan bagian dari perwujudan pelaksanaan penegakan kedaulatan atas Wilayah Indonesia dalam rangka menjaga ketertiban kehidupan berbangsa dan bernegara menuju masyarakat yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; … c. bahwa Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian sudah tidak memadai lagi untuk memenuhi berbagai perkembangan kebutuhan pengaturan, pelayanan, dan pengawasan di bidang Keimigrasian sehingga perlu dicabut dan diganti dengan undang-undang baru yang lebih komprehensif serta mampu menjawab tantangan yang ada;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "uu-6-2011"
+   },
+   {
+    "key": [
+     "UU",
+     "9",
+     "1992",
+     null
+    ],
+    "name": "Undang-Undang Nomor 9 Tahun 1992",
+    "quote": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN DENGAN RAHMAT TUHAN YANG MAHA ESA PRESIDEN REPUBLIK INDONESIA, Menimbang : … c. bahwa Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian sudah tidak memadai lagi untuk memenuhi berbagai perkembangan kebutuhan pengaturan, pelayanan, dan pengawasan di bidang Keimigrasian sehingga perlu dicabut dan diganti dengan undang-undang baru yang lebih komprehensif serta mampu menjawab tantangan yang ada;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "uu-9-1992"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-05-05",
+   "detail_error": null,
+   "number_as_written": "6 TAHUN 2011",
+   "retrieved_at": "2026-10-04T07:43:29+00:00",
+   "source": "DJP",
+   "title_as_written": "KEIMIGRASIAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/keimigrasian"
+  },
+  {
+   "date_as_written": "2011-05-05 00:00:00",
+   "number_as_written": "UU 6 TAHUN 2011",
+   "retrieved_at": "2026-09-21T14:03:25+00:00",
+   "source": "JDIH",
+   "title_as_written": "Keimigrasian",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2011"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks UU 6/2011 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=123",
+   "retrieved_at": "2026-10-03T03:17:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/keimigrasian",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=12",
+   "retrieved_at": "2026-09-21T14:03:25+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-6-tahun-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 1724,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:43:29+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/keimigrasian"
+ },
+ "title": "KEIMIGRASIAN"
+}

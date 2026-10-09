@@ -8,6 +8,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN%2079%20TAHUN%202024.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-79-2024",
  "identity": {
@@ -17,6 +27,7 @@
   "year": "2024"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-79-2024--b000-1",
   "pmk-79-2024--b001-2",
@@ -62,10 +73,19 @@
    "title_as_written": "PERLAKUAN PERPAJAKAN DALAM KERJA SAMA OPERASI",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dalam-kerja-sama-operasi"
+  },
+  {
+   "date_as_written": "2024-10-14 00:00:00",
+   "number_as_written": "PMK 79 TAHUN 2024",
+   "retrieved_at": "2026-09-21T14:16:56+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perlakuan Perpajakan dalam Kerja Sama Operasi",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2024"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -77,6 +97,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dalam-kerja-sama-operasi",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=25",
+   "retrieved_at": "2026-09-21T14:16:56+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-79-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

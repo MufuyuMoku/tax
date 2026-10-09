@@ -1,0 +1,108 @@
+{
+ "attachments": [
+  {
+   "file_name": "LAMPIRAN-PER-45-2009_0.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/LAMPIRAN-PER-45-2009_0.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-45-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "45",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-45-2009--b000-1",
+  "per-djp-45-2009--b001-2",
+  "per-djp-45-2009--b002-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-9-2015",
+    "key": [
+     "PER-DJP",
+     "9",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-09/PJ/2015",
+    "quote": "Pasal 1 Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2009 tentang Pedoman Administrasi Pembangunan, Pengelolaan, dan Pengawasan Data dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-45/PJ/2009 TENTANG PEDOMAN ADMINISTRASI PEMBANGUNAN, PENGELOLAAN, DAN PENGAWASAN DATA"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "20",
+     "2009",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2009",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal Pajak ini ditetapkan, Peraturan Direktur Jenderal Pajak Nomor PER-20/PJ/2009 tentang Pedoman Administrasi Pembangunan, Pengelolaan, dan Pengawasan Data dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-20-2009"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-08-13",
+   "detail_error": null,
+   "number_as_written": "PER-45/PJ/2009",
+   "retrieved_at": "2026-10-05T01:40:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN ADMINISTRASI PEMBANGUNAN, PENGELOLAAN DAN PENGAWASAN DATA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-administrasi-pembangunan-pengelolaan-dan-pengawasan-data-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=145",
+   "retrieved_at": "2026-10-03T03:25:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-administrasi-pembangunan-pengelolaan-dan-pengawasan-data-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2532,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:40:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-administrasi-pembangunan-pengelolaan-dan-pengawasan-data-0"
+ },
+ "title": "PEDOMAN ADMINISTRASI PEMBANGUNAN, PENGELOLAAN DAN PENGAWASAN DATA"
+}

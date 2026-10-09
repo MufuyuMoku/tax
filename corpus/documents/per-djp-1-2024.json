@@ -1,0 +1,113 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PER1PJ2024.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "1",
+    "year": "2024"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PER1PJ2024.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2024",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-1-2024--b000-1",
+  "per-djp-1-2024--b001-2",
+  "per-djp-1-2024--b002-3",
+  "per-djp-1-2024--b003-4",
+  "per-djp-1-2024--b004-5",
+  "per-djp-1-2024--b005-6",
+  "per-djp-1-2024--b006-7",
+  "per-djp-1-2024--b007-8",
+  "per-djp-1-2024--b008-9",
+  "per-djp-1-2024--b009-10",
+  "per-djp-1-2024--b010-11",
+  "per-djp-1-2024--b011-12",
+  "per-djp-1-2024--b012-13",
+  "per-djp-1-2024--b013-14",
+  "per-djp-1-2024--b014-15",
+  "per-djp-1-2024--b015-16",
+  "per-djp-1-2024--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-01-19",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 2024",
+   "retrieved_at": "2026-10-04T03:05:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan"
+  },
+  {
+   "date_as_written": "2024-01-19 12:00:00",
+   "number_as_written": "PER-1/PJ/2024",
+   "retrieved_at": "2026-09-21T14:55:38+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Pemeriksaan Bukti Permulaan Tindak Pidana Di Bidang Perpajakan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-1pj2024"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=13",
+   "retrieved_at": "2026-10-03T02:37:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=9",
+   "retrieved_at": "2026-09-21T14:55:38+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-1pj2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 28224,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:05:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemeriksaan-bukti-permulaan-tindak-pidana-di-bidang-perpajakan"
+ },
+ "title": "PELAKSANAAN PEMERIKSAAN BUKTI PERMULAAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+}

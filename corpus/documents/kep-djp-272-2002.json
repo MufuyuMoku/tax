@@ -1,0 +1,164 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-272-2002",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "272",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-272-2002--b000-1",
+  "kep-djp-272-2002--b001-2",
+  "kep-djp-272-2002--b002-3",
+  "kep-djp-272-2002--b003-4",
+  "kep-djp-272-2002--b004-5",
+  "kep-djp-272-2002--b005-6",
+  "kep-djp-272-2002--b006-7",
+  "kep-djp-272-2002--b007-8",
+  "kep-djp-272-2002--b008-9",
+  "kep-djp-272-2002--b009-10",
+  "kep-djp-272-2002--b010-11",
+  "kep-djp-272-2002--b011-12",
+  "kep-djp-272-2002--b012-13",
+  "kep-djp-272-2002--b013-14",
+  "kep-djp-272-2002--b014-15",
+  "kep-djp-272-2002--b015-16",
+  "kep-djp-272-2002--b016-17",
+  "kep-djp-272-2002--b017-18",
+  "kep-djp-272-2002--b018-19",
+  "kep-djp-272-2002--b019-20",
+  "kep-djp-272-2002--b020-21",
+  "kep-djp-272-2002--b021-22",
+  "kep-djp-272-2002--b022-23",
+  "kep-djp-272-2002--b023-24",
+  "kep-djp-272-2002--b024-25"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2011",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2011",
+     null
+    ],
+    "number_as_written": "PER-3/PJ/2011",
+    "quote": "Pasal 15 Dengan ditetapkannya Peraturan Direktur Jenderal Pajak ini, Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ/2002 tentang Petunjuk Pelaksanaan Pengamatan, Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana di Bidang Perpajakan yang berkaitan dengan Pengamatan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERATURAN DIREKTUR JENDERAL PAJAK TENTANG TATA CARA PELAKSANAAN PENGEMBANGAN DAN ANALISIS INFORMASI, DATA, LAPORAN, DAN PENGADUAN MELALUI PENGAMATAN ATAU KEGIATAN INTELIJEN PERPAJAKAN."
+   },
+   {
+    "id": "per-djp-38-2010",
+    "key": [
+     "PER-DJP",
+     "38",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-38/PJ/2010",
+    "quote": "Pasal 11 Dengan ditetapkannya Peraturan Direktur Jenderal Pajak ini, Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ./2002 tentang Petunjuk Pelaksanaan Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana di bidang Perpajakan yang berkaitan dengan pengembangan dan analisis IDLP dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PELAKSANAAN PENGEMBANGAN DAN ANALISIS INFORMASI, DATA, LAPORAN, DAN PENGADUAN"
+   },
+   {
+    "id": "per-djp-4-2014",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-04/PJ/2014",
+    "quote": "Pasal 1 Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ/2002 tentang Petunjuk Pelaksanaan Pengamatan, Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana di Bidang Perpajakan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-272/PJ/2002 TENTANG PETUNJUK PELAKSANAAN PENGAMATAN, PEMERIKSAAN BUKTI PERMULAAN, DAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+   },
+   {
+    "id": "per-djp-47-2009",
+    "key": [
+     "PER-DJP",
+     "47",
+     "2009",
+     null
+    ],
+    "number_as_written": "PER-47/PJ./2009",
+    "quote": "Pasal 20 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku: 1. Tahapan Pemeriksaan Bukti Permulaan sebelum tanggal berlakunya Peraturan Direktur Jenderal Pajak ini, mengacu pada Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ./2002 tentang Petunjuk Pelaksanaan Pengamatan, Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana di Bidang Perpajakan. 2. Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ./2002 tentang Petunjuk Pelaksanaan Pengamatan, Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana di Bidang Perpajakan yang berkaitan dengan Pemeriksaan Bukti Permulaan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN PEMERIKSAAN BUKTI PERMULAAN TERHADAP WAJIB PAJAK YANG DIDUGA MELAKUKAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "2",
+     "1990",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor: KEP-02/PJ.7/1990",
+    "quote": "Pasal 24 Dengan ditetapkannya Surat Keputusan ini, Keputusan Direktur Jenderal Pajak Nomor: KEP-02/PJ.7/1990 tanggal 24 Desember 1990 tentang Petunjuk Pelaksanaan Pengamatan, Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana Di Bidang Perpajakan dan Surat Edaran Nomor: SE-03/PJ.56/1988 tanggal 12 Januari 1988 tentang Pemeriksaan Untuk Tujuan Lain Dalam Rangka Mendapatkan Bukti Permulaan tentang Telah Terjadinya Tindak Pidana Di Bidang Perpajakan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-2-1990"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-05-17",
+   "detail_error": null,
+   "number_as_written": "KEP-272/PJ/2002",
+   "retrieved_at": "2026-10-05T03:22:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PENGAMATAN, PEMERIKSAAN BUKTI PERMULAAN, DAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pengamatan-pemeriksaan-bukti-permulaan-dan-penyidikan-tindak-pidana"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=213",
+   "retrieved_at": "2026-10-03T03:51:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pengamatan-pemeriksaan-bukti-permulaan-dan-penyidikan-tindak-pidana",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 22247,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:22:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pengamatan-pemeriksaan-bukti-permulaan-dan-penyidikan-tindak-pidana"
+ },
+ "title": "PETUNJUK PELAKSANAAN PENGAMATAN, PEMERIKSAAN BUKTI PERMULAAN, DAN PENYIDIKAN TINDAK PIDANA DI BIDANG PERPAJAKAN"
+}

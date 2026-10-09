@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "kep-djp-425-2019",
  "identity": {
@@ -16,6 +26,7 @@
    "title": "Penetapan Pemotong Pph Pasal 23 dan/atau Pasal 26 yang Diharuskan Membuat Bukti Pemotongan dan Diwajibkan Menyampaikan Spt Masa Pph Pasal 23 Dan/ atau Pasal 26 Berdasarkan Peraturan Direktur Jenderal Pajak Nomor Per-04/Pj/2017"
   }
  ],
+ "original_files": [],
  "pasal_ids": [
   "kep-djp-425-2019--b000-kedua",
   "kep-djp-425-2019--b001-ketiga",
@@ -43,7 +54,7 @@
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
   "reasons": [],
   "value": "berlaku"
  },

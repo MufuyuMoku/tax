@@ -1,0 +1,107 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2019",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-1-2019--b000-1",
+  "per-djp-1-2019--b001-2",
+  "per-djp-1-2019--b002-3",
+  "per-djp-1-2019--b003-4",
+  "per-djp-1-2019--b004-5",
+  "per-djp-1-2019--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2025",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-7/PJ/2025",
+    "quote": "Pasal 94 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 2. Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2019 tentang Tata Cara Pemberian Nomor Pokok Wajib Pajak dalam Rangka Ekstensifikasi; … 7. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2021 tentang Jenis Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan Secara Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik, Persyaratan Dokumen Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik yang Digunakan, Tata Cara Penyampaian Dokumen Elektronik dan Saluran yang Digunakan, serta Tata Cara Tindak Lanjut atas Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan secara Elektronik. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, PENGUSAHA KENA PAJAK, OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SERTA PERINCIAN JENIS, DOKUMEN, DAN SALURAN UNTUK PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-01-08",
+   "detail_error": null,
+   "number_as_written": "PER-01/PJ/2019",
+   "retrieved_at": "2026-10-04T03:40:06+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA EKSTENSIFIKASI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-pokok-wajib-pajak-dalam-rangka-ekstensifikasi"
+  },
+  {
+   "date_as_written": "2019-01-08 00:00:00",
+   "number_as_written": "PerDJP PER-01/PJ/2019",
+   "retrieved_at": "2026-09-21T14:57:28+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian Nomor Pokok Wajib Pajak dalam Rangka Ekstensifikasi",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-01-pj-2019"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=56",
+   "retrieved_at": "2026-10-03T02:52:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-pokok-wajib-pajak-dalam-rangka-ekstensifikasi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=33",
+   "retrieved_at": "2026-09-21T14:57:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-per-01-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8000,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:40:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-pokok-wajib-pajak-dalam-rangka-ekstensifikasi"
+ },
+ "title": "TATA CARA PEMBERIAN NOMOR POKOK WAJIB PAJAK DALAM RANGKA EKSTENSIFIKASI"
+}

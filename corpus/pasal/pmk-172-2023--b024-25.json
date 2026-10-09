@@ -1,0 +1,24 @@
+{
+ "amendment_items": null,
+ "chars": 687,
+ "document_id": "pmk-172-2023",
+ "document_number": "172 TAHUN 2023",
+ "document_title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+ "id": "pmk-172-2023--b024-25",
+ "label": "25",
+ "order": 24,
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 25\n(1)\nLaporan per negara yang disampaikan oleh:\na.\nWajib Pajak sebagaimana dimaksud dalam Pasal 16 ayat (4) diselenggarakan berdasarkan data dan informasi yang tersedia sampai dengan akhir tahun pajak Wajib Pajak dimaksud; atau\nb.\nWajib Pajak dalam negeri sebagaimana dimaksud dalam Pasal 16 ayat (5) diselenggarakan berdasarkan data dan informasi yang tersedia sampai dengan akhir tahun pajak entitas induk yang merupakan subjek pajak luar negeri.\n(2)\nLaporan per negara sebagaimana dimaksud pada ayat (1) huruf a harus diselenggarakan melalui pembentukan kertas kerja laporan per negara dalam bentuk salinan digital (\nsoftcopy\n) dengan ekstensi\nextensible markup language\n(xml).",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ }
+}

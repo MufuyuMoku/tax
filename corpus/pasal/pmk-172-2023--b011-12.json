@@ -1,0 +1,24 @@
+{
+ "amendment_items": null,
+ "chars": 1981,
+ "document_id": "pmk-172-2023",
+ "document_number": "172 TAHUN 2023",
+ "document_title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+ "id": "pmk-172-2023--b011-12",
+ "label": "12",
+ "order": 11,
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 12\n(1)\nNilai indikator harga Transaksi Independen sebagaimana dimaksud dalam Pasal 3 ayat (4) dapat berupa:\na.\ntitik kewajaran (\narm\"s length point\n); atau\nb.\ntitik di dalam rentang kewajaran (\narm\"s length range\n).\n(2)\nNilai indikator harga Transaksi Independen sebagaimana dimaksud pada ayat (1) dibentuk\nberdasarkan data pembanding tahun tunggal (\nsingle year\n).\n(3)\nNilai indikator harga Transaksi Independen sebagaimana dimaksud pada ayat (1) dapat dibentuk berdasarkan data pembanding tahun jamak (\nmultiple year\n) sepanjang dapat meningkatkan kesebandingan.\n(4)\nData pembanding tahun tunggal (\nsingle year\n) atau tahun jamak (\nmultiple year\n) sebagaimana dimaksud pada ayat (2) dan ayat (3) merupakan data yang tersedia dan paling mendekati pada saat Penentuan Harga Transfer dan/ atau terjadinya Transaksi yang Dipengaruhi Hubungan Istimewa.\n(5)\nTitik kewajaran sebagaimana dimaksud pada ayat (1) huruf a merupakan titik indikator harga yang terbentuk dari satu atau lebih pembanding yang memiliki nilai indikator harga yang sama.\n(6)\nRentang kewajaran sebagaimana dimaksud pada ayat (1) huruf b merupakan rentang indikator harga yang terbentuk dari dua atau lebih pembanding yang memiliki nilai indikator harga yang berbeda, berupa:\na.\nnilai minimum sampai dengan nilai maksimum (\nfull range\n), dalam hal terbentuk dari dua pembanding; atau\nb.\nnilai kuartil satu sampai dengan nilai kuartil tiga (\ninterquartile range\n), dalam hal terbentuk dari tiga atau lebih pembanding.\n(7)\nDalam hal Harga Transfer tidak memenuhi Prinsip Kewajaran dan Kelaziman Usaha sebagaimana dimaksud dalam Pasal 3 ayat (4), Penentuan Harga Transfer dilakukan sebagaimana penentuan harga dalam Transaksi Independen dengan menggunakan:\na.\ntitik kewajaran;\nb.\ntitik yang paling tepat di dalam rentang kewajaran sesuai kesebandingannya; atau\nc.\ntitik tengah (median) di dalam rentang kewajaran, dalam hal tidak dapat ditentukan titik paling tepat sebagaimana dimaksud dalam huruf b.\nParagraf 8",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ }
+}

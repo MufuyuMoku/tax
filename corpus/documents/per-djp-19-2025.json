@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-19-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "19",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-19-2025--b000-1",
+  "per-djp-19-2025--b001-2",
+  "per-djp-19-2025--b002-3",
+  "per-djp-19-2025--b003-4",
+  "per-djp-19-2025--b004-5",
+  "per-djp-19-2025--b005-6",
+  "per-djp-19-2025--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-10-22",
+   "detail_error": null,
+   "number_as_written": "PER-19/PJ/2025",
+   "retrieved_at": "2026-10-04T03:00:11+00:00",
+   "source": "DJP",
+   "title_as_written": "PENONAKTIFAN AKSES PEMBUATAN FAKTUR PAJAK TERHADAP PENGUSAHA KENA PAJAK YANG TIDAK MELAKSANAKAN KEWAJIBAN SESUAI DENGAN KETENTUAN PERATURAN PERUNDANG-UNDANGAN DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penonaktifan-akses-pembuatan-faktur-pajak-terhadap-pengusaha-kena-pajak-yang-tidak"
+  },
+  {
+   "date_as_written": "2025-10-22 12:00:00",
+   "number_as_written": "PER-19/PJ/2025",
+   "page_retrieved_at": "2026-10-05T06:24:22+00:00",
+   "retrieved_at": "2026-09-21T14:55:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penonaktifan Akses Pembuatan Faktur Pajak terhadap Pengusaha Kena Pajak yang Tidak Melaksanakan Kewajiban sesuai dengan Ketentuan Peraturan Perundang-undangan di Bidang Perpajakan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-19pj2025",
+   "validity_as_written": "22 Okt 2025 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=6",
+   "retrieved_at": "2026-10-03T02:33:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penonaktifan-akses-pembuatan-faktur-pajak-terhadap-pengusaha-kena-pajak-yang-tidak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=2",
+   "retrieved_at": "2026-09-21T14:55:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-19pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11651,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:00:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penonaktifan-akses-pembuatan-faktur-pajak-terhadap-pengusaha-kena-pajak-yang-tidak"
+ },
+ "title": "PENONAKTIFAN AKSES PEMBUATAN FAKTUR PAJAK TERHADAP PENGUSAHA KENA PAJAK YANG TIDAK MELAKSANAKAN KEWAJIBAN SESUAI DENGAN KETENTUAN PERATURAN PERUNDANG-UNDANGAN DI BIDANG PERPAJAKAN"
+}

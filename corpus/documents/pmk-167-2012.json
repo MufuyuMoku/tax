@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-167-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "167",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-167-2012--b000-i",
+  "pmk-167-2012--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "62",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 62/PMK.01/2009 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-62-2009"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-11-06",
+   "detail_error": null,
+   "number_as_written": "167/PMK.01/2012",
+   "retrieved_at": "2026-10-04T06:02:48+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009 TENTANG ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-62pmk012009-tentang-organisasi-dan"
+  },
+  {
+   "date_as_written": "2012-11-06 00:00:00",
+   "number_as_written": "167/PMK.01/2012",
+   "retrieved_at": "2026-09-21T14:35:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Kedua Peraturan Menteri Keuangan Nomor 62/PMK.01/2009 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-01-2012"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=108",
+   "retrieved_at": "2026-10-03T03:12:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-62pmk012009-tentang-organisasi-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=301",
+   "retrieved_at": "2026-09-21T14:35:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-01-2012",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 22387,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:02:48+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-62pmk012009-tentang-organisasi-dan"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 62/PMK.01/2009 TENTANG ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK"
+}

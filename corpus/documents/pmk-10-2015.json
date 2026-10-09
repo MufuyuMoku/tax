@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-10-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "10",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-10-2015--b000-i",
+  "pmk-10-2015--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "105",
+     "2009",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 105/PMK.03/2009 tentang Piutang yang Nyata-nyata Tidak Dapat Ditagih yang Dapat Dikurangkan Dari Penghasilan Bruto sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 57/PMK.03/2010, diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-105-2009"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-11-20",
+   "detail_error": null,
+   "number_as_written": "207/PMK .010/2015",
+   "retrieved_at": "2026-10-04T03:52:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009 TENTANG PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-105pmk032009-tentang-piutang-yang"
+  },
+  {
+   "date_as_written": "2015-01-12 00:00:00",
+   "number_as_written": "10/PMK.09/2015",
+   "retrieved_at": "2026-09-21T14:31:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Standar Reviu atas Laporan Keuangan Bendahara Umum Negara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-09-2015"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=71",
+   "retrieved_at": "2026-10-03T02:57:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-105pmk032009-tentang-piutang-yang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=241",
+   "retrieved_at": "2026-09-21T14:31:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/10-pmk-09-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 7508,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:52:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-atas-peraturan-menteri-keuangan-nomor-105pmk032009-tentang-piutang-yang"
+ },
+ "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 105/PMK.03/2009 TENTANG PIUTANG YANG NYATA-NYATA TIDAK DAPAT DITAGIH YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO"
+}

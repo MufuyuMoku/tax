@@ -1,0 +1,105 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-18-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "18",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "pmk-18-2008--b000-1",
+  "pmk-18-2008--b001-2",
+  "pmk-18-2008--b002-3",
+  "pmk-18-2008--b003-4",
+  "pmk-18-2008--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-66-2008",
+    "key": [
+     "PMK",
+     "66",
+     "2008",
+     null
+    ],
+    "number_as_written": "66/PMK.03/2008",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Peraturan Menteri Keuangan Nomor 18/PMK.03/2008 tentang Penghapusan Sanksi Administrasi atas Keterlambatan Pelunasan Kekurangan pembayaran Pajak Sehubungan dengan penyampaian Surat Pemberitahuan Tahunan untuk Tahun Pajak 2007 dan Sebelumnya serta Pembetulan Surat Pemberitahuan Tahunan untuk Tahun Pajak Sebelum Tahun Pajak 2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYAMPAIAN ATAU PEMBETULAN SURAT PEMBERITAHUAN, DAN PERSYARATAN WAJIB PAJAK YANG DAPAT DIBERIKAN PENGHAPUSAN SANKSI ADMINISTRASI DALAM RANGKA PENERAPAN PASAL 37A UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 28 TAHUN 2007"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-02-06",
+   "detail_error": null,
+   "number_as_written": "18/PMK.03/2008",
+   "retrieved_at": "2026-10-05T02:22:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHAPUSAN SANKSI ADMINISTRASI ATAS KETERLAMBATAN PELUNASAN KEKURANGAN PEMBAYARAN PAJAK SEHUBUNGAN DENGAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN UNTUK TAHUN PAJAK 2007 DAN SEBELUMNYA SERTA PEMBETULAN SURAT PEMBERITAHUAN TAHUNAN UNTUK TAHUN PAJAK SEBELUM TAHUN PAJAK 2007",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penghapusan-sanksi-administrasi-atas-keterlambatan-pelunasan-kekurangan-pembayaran-pajak"
+  },
+  {
+   "date_as_written": "2008-02-06 00:00:00",
+   "number_as_written": "18/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penghapusan Sanksi Administrasi atas Keterlambatan Pelunasan Kekurangan Pembayaran Pajak Sehubungan dengan Penyampaian Surat Pemberitahuan Tahunan untuk Tahun Pajak 2007 dan Sebelumnya Serta Pembetulan Surat Pemberitahuan Tahunan untuk Tahun Pajak Sebelum Tahun 2007",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2008"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=174",
+   "retrieved_at": "2026-10-03T03:35:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penghapusan-sanksi-administrasi-atas-keterlambatan-pelunasan-kekurangan-pembayaran-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=417",
+   "retrieved_at": "2026-09-21T14:43:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/18-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4901,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:22:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penghapusan-sanksi-administrasi-atas-keterlambatan-pelunasan-kekurangan-pembayaran-pajak"
+ },
+ "title": "PENGHAPUSAN SANKSI ADMINISTRASI ATAS KETERLAMBATAN PELUNASAN KEKURANGAN PEMBAYARAN PAJAK SEHUBUNGAN DENGAN PENYAMPAIAN SURAT PEMBERITAHUAN TAHUNAN UNTUK TAHUN PAJAK 2007 DAN SEBELUMNYA SERTA PEMBETULAN SURAT PEMBERITAHUAN TAHUNAN UNTUK TAHUN PAJAK SEBELUM TAHUN PAJAK 2007"
+}

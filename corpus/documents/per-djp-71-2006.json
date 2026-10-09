@@ -1,0 +1,73 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-71-2006",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "71",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-71-2006--b000-1",
+  "per-djp-71-2006--b001-2",
+  "per-djp-71-2006--b002-3",
+  "per-djp-71-2006--b003-4",
+  "per-djp-71-2006--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-06-07",
+   "detail_error": null,
+   "number_as_written": "PER - 71/PJ./2006",
+   "retrieved_at": "2026-10-05T02:51:58+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGGUNAAN FORMULIR PERPAJAKAN DAN FAKTUR PAJAK LAMA OLEH WAJIB PAJAK YANG TERDAFTAR PADA KANTOR PELAYANAN PAJAK MADYA PEKANBARU, KANTOR PELAYANAN PAJAK MADYA TANGERANG, KANTOR PELAYANAN PAJAK MADYA BEKASI, DAN KANTOR PELAYANAN PAJAK MADYA DENPASAR",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penggunaan-formulir-perpajakan-dan-faktur-pajak-lama-oleh-wajib-pajak-yang-1"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=193",
+   "retrieved_at": "2026-10-03T03:44:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penggunaan-formulir-perpajakan-dan-faktur-pajak-lama-oleh-wajib-pajak-yang-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8947,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:51:58+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penggunaan-formulir-perpajakan-dan-faktur-pajak-lama-oleh-wajib-pajak-yang-1"
+ },
+ "title": "TATA CARA PENGGUNAAN FORMULIR PERPAJAKAN DAN FAKTUR PAJAK LAMA OLEH WAJIB PAJAK YANG TERDAFTAR PADA KANTOR PELAYANAN PAJAK MADYA PEKANBARU, KANTOR PELAYANAN PAJAK MADYA TANGERANG, KANTOR PELAYANAN PAJAK MADYA BEKASI, DAN KANTOR PELAYANAN PAJAK MADYA DENPASAR"
+}

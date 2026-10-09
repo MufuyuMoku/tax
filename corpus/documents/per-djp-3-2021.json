@@ -11,6 +11,16 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER%2003%20PJ%202021.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "per-djp-3-2021",
  "identity": {
@@ -20,6 +30,7 @@
   "year": "2021"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "per-djp-3-2021--b000-1",
   "per-djp-3-2021--b001-2",
@@ -92,10 +103,19 @@
    "title_as_written": "TATA CARA PENGAJUAN DAN PENERBITAN KEPUTUSAN MENGENAI PENGGUNAAN  NILAI BUKU ATAS PENGALIHAN DAN PEROLEHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, PEMEKARAN, ATAU PENGAMBILALIHAN USAHA",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penerbitan-keputusan-mengenai-penggunaan-nilai-buku-atas"
+  },
+  {
+   "date_as_written": "2021-02-18 00:00:00",
+   "number_as_written": "PER-03/PJ/2021",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengajuan dan Penerbitan Keputusan Mengenai Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta Dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-03-pj-2021"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "berlaku"
  },
@@ -107,6 +127,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penerbitan-keputusan-mengenai-penggunaan-nilai-buku-atas",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=19",
+   "retrieved_at": "2026-09-21T14:56:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-03-pj-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
   }
  ],
  "structure": "biasa",

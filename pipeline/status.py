@@ -63,5 +63,7 @@ def resolve(claims, revoked_by_text=()):
     return {
         "value": values[0],
         "reasons": [],
-        "note": "hanya satu sumber" if len(sources) == 1 else "disepakati JDIH & DJP",
+        # One source is one claim, never a certainty (M5 criterion): the note names the source.
+        "note": (f"klaim satu sumber saja ({next(iter(sources))}); tidak ada sumber kedua untuk dibandingkan"
+                 if len(sources) == 1 else "disepakati JDIH & DJP"),
     }

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 526,
+ "document_id": "per-djp-12-2010",
+ "document_number": "PER-12/PJ/2010",
+ "document_title": "NOMOR OBJEK PAJAK BUMI DAN BANGUNAN",
+ "id": "per-djp-12-2010--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\nStruktur NOP terdiri dari 18 (delapan belas) digit, dengan rincian sebagai berikut:\na.\ndigit ke-1 dan ke-2 merupakan kode provinsi;\nb.\ndigit ke-3 dan ke-4 merupakan kode kabupaten/kota;\nc.\ndigit ke-5 sampai dengan digit ke-7 merupakan kode kecamatan;\nd.\ndigit ke-8 sampai dengan digit ke-10 merupakan kode kelurahan/desa;\ne.\ndigit ke-11 sampai dengan digit ke-13 merupakan kode nomor urut blok;\nf.\ndigit ke-14 sampai dengan digit ke-17 merupakan kode nomor urut objek pajak;\ng.\ndigit ke-18 merupakan kode tanda khusus.",
+ "text_source": {
+  "retrieved_at": "2026-10-05T01:25:17+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/nomor-objek-pajak-bumi-dan-bangunan"
+ }
+}

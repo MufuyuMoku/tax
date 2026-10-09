@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-27-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "27",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-27-2012--b000-kesatu",
+  "kep-djp-27-2012--b001-kedua",
+  "kep-djp-27-2012--b002-ketiga"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-87-2012",
+    "key": [
+     "KEP-DJP",
+     "87",
+     "2012",
+     null
+    ],
+    "number_as_written": "KEP-87/PJ/2012",
+    "quote": "Mengubah diktum ketiga menjadi diktum keempat sehingga seluruhnya berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 27/PJ/2012 TENTANG TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+   },
+   {
+    "id": "kep-djp-9-2012",
+    "key": [
+     "KEP-DJP",
+     "9",
+     "2012",
+     null
+    ],
+    "number_as_written": "KEP-09/PJ.08/2012",
+    "quote": "Mengubah daftar Wajib Pajak yang keliru sebagaimana dalam Lampiran II, Lampiran III, Lampiran IV, Lampiran VI, Lampiran VII, Lampiran VIII, Lampiran IX, Lampiran X, Lampiran XII, Lampiran XV, Lampiran XVI , Lampiran XVII, Lampiran XVIII, Lampiran XIX, Lampiran XX, Lampiran XXI, Lampiran XXII, Lampiran XXIII, Lampiran XXIV, Lampiran XXV, Lampiran XXVI, Lampiran XXVII, dan Lampiran XXX Keputusan Direktur Jenderal Pajak Nomor KEP-27/PJ/2012 tentang Tempat Pendaftaran dan Pelaporan Usaha bagi Wajib Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya, sehingga menjadi sebagaimana ditetapkan dalam Lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-27/PJ/2012 TENTANG TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kep-djp-102-2012",
+    "key": [
+     "KEP-DJP",
+     "102",
+     "2012",
+     null
+    ],
+    "number_as_written": "KEP-102/PJ/2012",
+    "quote": "KETIGA : … Lampiran I dan Lampiran V Keputusan Direktur Jenderal Pajak Nomor KEP-27/PJ/2012 tentang Tempat Pendaftaran dan Pelaporan Usaha bagi Wajib Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR TIGA, KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR EMPAT, DAN KANTOR PELAYANAN PAJAK MINYAK DAN GAS BUMI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-01-30",
+   "detail_error": null,
+   "number_as_written": "KEP-27/PJ/2012",
+   "retrieved_at": "2026-10-04T07:38:20+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-di-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=118",
+   "retrieved_at": "2026-10-03T03:16:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-di-0",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3776,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:38:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-di-0"
+ },
+ "title": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+}

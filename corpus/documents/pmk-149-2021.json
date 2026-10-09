@@ -11,6 +11,12 @@
    "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20Peraturan%20Menteri%20Keuangan%20Nomor%20149_PMK.03_2021.pdf"
   }
  ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-149-2021",
  "identity": {
@@ -20,6 +26,7 @@
   "year": "2021"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-149-2021--b000-i",
   "pmk-149-2021--b001-ii"

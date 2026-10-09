@@ -1,0 +1,86 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-176-2004",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "176",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "kep-djp-176-2004--b000-1",
+  "kep-djp-176-2004--b001-2",
+  "kep-djp-176-2004--b002-3",
+  "kep-djp-176-2004--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "695",
+     "2001",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-695/PJ./2001",
+    "quote": "Pasal 3 Pada saat Keputusan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-695/PJ./2001 tanggal 3 September 2001 tentang Pembagian Kerja Penatausahaan Dokumen Penerimaan Setoran Pajak dari Kantor Perbendaharaan dan Kas Negara di Wilayah DKI Jakarta, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-695-2001"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-12-09",
+   "detail_error": null,
+   "number_as_written": "KEP-176/PJ/2004",
+   "retrieved_at": "2026-10-05T03:06:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAGIAN KERJA PENATAUSAHAN DOKUMEN PENERIMAAN SETORAN PAJAK DARI KANTOR PELAYANAN PERBENDAHARAAN NEGARA DI WILAYAH DKI JAKARTA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-kerja-penatausahan-dokumen-penerimaan-setoran-pajak-dari-kantor-pelayanan"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=203",
+   "retrieved_at": "2026-10-03T03:48:09+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-kerja-penatausahan-dokumen-penerimaan-setoran-pajak-dari-kantor-pelayanan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5725,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T03:06:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembagian-kerja-penatausahan-dokumen-penerimaan-setoran-pajak-dari-kantor-pelayanan"
+ },
+ "title": "PEMBAGIAN KERJA PENATAUSAHAN DOKUMEN PENERIMAAN SETORAN PAJAK DARI KANTOR PELAYANAN PERBENDAHARAAN NEGARA DI WILAYAH DKI JAKARTA"
+}

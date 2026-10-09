@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-36-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "36",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-36-2013--b000-i",
+  "per-djp-36-2013--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "47",
+     "2008",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-47/PJ/2008",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2008 tentang Tata Cara Penyampaian Surat Pemberitahuan dan Penyampaian Pemberitahuan Perpanjangan Surat Pemberitahuan Tahunan Secara Elektronik (e-Filing) Melalui Perusahaan Penyedia Jasa Aplikasi (ASP) diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-47-2008"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-3-2015",
+    "key": [
+     "PER-DJP",
+     "3",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-03/PJ/2015",
+    "quote": "… c. Peraturan Direktur Jenderal Pajak Nomor PER-36/PJ/2013 tentang Perubahan Atas Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2008 tentang Tata Cara Penyampaian Surat Pemberitahuan dan Penyampaian Pemberitahuan Perpanjangan Surat Pemberitahuan Tahunan secara Elektronik (e-Filing) Melalui Perusahaan Penyedia Jasa Aplikasi (ASP); … e. Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2014 tentang Tata Cara Penyampaian Surat Pemberitahuan Tahunan Bagi Wajib Pajak Orang Pribadi yang Menggunakan Formulir 1770S Atau 1770SS Secara e-Filing dan Merupakan Pegawai Tetap pada Pemberi Kerja Tertentu, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENYAMPAIAN SURAT PEMBERITAHUAN ELEKTRONIK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-10-30",
+   "detail_error": null,
+   "number_as_written": "PER-36/PJ/2013",
+   "retrieved_at": "2026-10-04T04:21:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-47/PJ/2008 TENTANG TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN DAN PENYAMPAIAN PEMBERITAHUAN PERPANJANGAN SURAT PEMBERITAHUAN TAHUNAN SECARA ELEKTRONIK (E-FILING) MELALUI PERUSAHAAN PENYEDIA JASA APLIKASI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-47pj2008-tentang-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=96",
+   "retrieved_at": "2026-10-03T03:06:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-47pj2008-tentang-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 6192,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:21:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-47pj2008-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-47/PJ/2008 TENTANG TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN DAN PENYAMPAIAN PEMBERITAHUAN PERPANJANGAN SURAT PEMBERITAHUAN TAHUNAN SECARA ELEKTRONIK (E-FILING) MELALUI PERUSAHAAN PENYEDIA JASA APLIKASI"
+}

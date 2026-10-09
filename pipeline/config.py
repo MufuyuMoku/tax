@@ -34,3 +34,13 @@ OUT_OF_SCOPE_TITLE = (
 # details (text included) are committed here, like poc/data, so the corpus can be rebuilt without
 # the network. The HTTP cache and lock files are not committed.
 HARVEST = ROOT / "harvest"
+HARVEST_DJP_LIST = HARVEST / "djp_list.jsonl"
+HARVEST_DJP_DETAIL = HARVEST / "djp_detail.jsonl"
+HARVEST_JDIH_DETAIL = HARVEST / "jdih" / "jdih_detail.jsonl"
+HARVEST_JDIH_TEXT = HARVEST / "jdih" / "teks_berkas.jsonl"  # scripts/jdih-pdf-text.mjs (K-055)
+HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HARVEST_JDIH_TEXT]
+
+# Categories of the DJP catalogue that are in the corpus. M5 runs in two stages (SPEC section 7):
+# KUP first; PPN is added here once its details are fetched. PPh comes from the proof of concept.
+DJP_CATEGORIES = ["KUP"]
+

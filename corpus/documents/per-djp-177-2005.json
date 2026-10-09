@@ -1,0 +1,78 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-177-2005",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "177",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-177-2005--b000-1",
+  "per-djp-177-2005--b001-2",
+  "per-djp-177-2005--b002-3",
+  "per-djp-177-2005--b003-4",
+  "per-djp-177-2005--b004-5",
+  "per-djp-177-2005--b005-6",
+  "per-djp-177-2005--b006-7",
+  "per-djp-177-2005--b007-8",
+  "per-djp-177-2005--b008-9",
+  "per-djp-177-2005--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-12-30",
+   "detail_error": null,
+   "number_as_written": "PER - 177/PJ/2005",
+   "retrieved_at": "2026-10-05T02:56:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMINDAHAN WAJIB PAJAK KE KANTOR PELAYANAN PAJAK MADYA BATAM",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemindahan-wajib-pajak-ke-kantor-pelayanan-pajak-madya-batam"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=196",
+   "retrieved_at": "2026-10-03T03:45:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemindahan-wajib-pajak-ke-kantor-pelayanan-pajak-madya-batam",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8650,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T02:56:33+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemindahan-wajib-pajak-ke-kantor-pelayanan-pajak-madya-batam"
+ },
+ "title": "TATA CARA PEMINDAHAN WAJIB PAJAK KE KANTOR PELAYANAN PAJAK MADYA BATAM"
+}

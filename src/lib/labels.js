@@ -137,3 +137,16 @@ export function documentTitle(doc) {
   const number = doc.source_records.find((r) => r.number_as_written)?.number_as_written;
   return number ? `${number} — ${doc.title}` : doc.title;
 }
+
+// Category provenance (K-051, SPEC section 9): only which category list of the DJP catalogue a
+// document was found in, and only PPh, KUP, PPN. Never the source's own classification or tags.
+export const CATEGORIES = ["PPh", "KUP", "PPN"];
+
+export function categoryNote(categories) {
+  const fromDjp = CATEGORIES.filter((name) => categories.some((c) => c.kategori === name && c.asal === "daftar_djp"));
+  const chosen = categories.some((c) => c.asal === "pilihan_jdih") && !fromDjp.includes("PPh");
+  const parts = [];
+  if (fromDjp.length) parts.push(`Dari daftar ${fromDjp.join(" dan ")} katalog DJP`);
+  if (chosen) parts.push("PPh menurut pilihan situs ini dari JDIH");
+  return parts.join("; ");
+}

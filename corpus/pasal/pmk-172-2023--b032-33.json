@@ -1,0 +1,24 @@
+{
+ "amendment_items": null,
+ "chars": 160,
+ "document_id": "pmk-172-2023",
+ "document_number": "172 TAHUN 2023",
+ "document_title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+ "id": "pmk-172-2023--b032-33",
+ "label": "33",
+ "order": 32,
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 33\nDokumen Penentuan Harga Transfer sebagaimana dimaksud dalam Pasal 16 ayat (2) huruf c diterima dan dikelola secara khusus oleh Direktur Jenderal Pajak.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-3-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "3",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-3-2011--b000-1",
+  "per-djp-3-2011--b001-2",
+  "per-djp-3-2011--b002-3",
+  "per-djp-3-2011--b003-4",
+  "per-djp-3-2011--b004-5",
+  "per-djp-3-2011--b005-6",
+  "per-djp-3-2011--b006-7",
+  "per-djp-3-2011--b007-8",
+  "per-djp-3-2011--b008-9",
+  "per-djp-3-2011--b009-10",
+  "per-djp-3-2011--b010-11",
+  "per-djp-3-2011--b011-12",
+  "per-djp-3-2011--b012-13",
+  "per-djp-3-2011--b013-14",
+  "per-djp-3-2011--b014-15",
+  "per-djp-3-2011--b015-16"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-15-2019",
+    "key": [
+     "PER-DJP",
+     "15",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-15/PJ/2019",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-3/PJ/2011 tentang Tata Cara Pelaksanaan Pengembangan dan Analisis Informasi, Data, Laporan, dan Pengaduan melalui Pengamatan atau Kegiatan Intelijen Perpajakan, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANAAN KEGIATAN INTELIJEN PERPAJAKAN DAN PENGAMATAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "272",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ/2002",
+    "quote": "Pasal 15 Dengan ditetapkannya Peraturan Direktur Jenderal Pajak ini, Keputusan Direktur Jenderal Pajak Nomor KEP-272/PJ/2002 tentang Petunjuk Pelaksanaan Pengamatan, Pemeriksaan Bukti Permulaan, dan Penyidikan Tindak Pidana di Bidang Perpajakan yang berkaitan dengan Pengamatan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-272-2002"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-01-19",
+   "detail_error": null,
+   "number_as_written": "PER-3/PJ/2011",
+   "retrieved_at": "2026-10-04T07:44:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PERATURAN DIREKTUR JENDERAL PAJAK TENTANG TATA CARA PELAKSANAAN PENGEMBANGAN DAN ANALISIS INFORMASI, DATA, LAPORAN, DAN PENGADUAN MELALUI PENGAMATAN ATAU KEGIATAN INTELIJEN PERPAJAKAN.",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-direktur-jenderal-pajak-tentang-tata-cara-pelaksanaan-pengembangan-dan-analisis"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=124",
+   "retrieved_at": "2026-10-03T03:18:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-direktur-jenderal-pajak-tentang-tata-cara-pelaksanaan-pengembangan-dan-analisis",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 15790,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T07:44:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-direktur-jenderal-pajak-tentang-tata-cara-pelaksanaan-pengembangan-dan-analisis"
+ },
+ "title": "PERATURAN DIREKTUR JENDERAL PAJAK TENTANG TATA CARA PELAKSANAAN PENGEMBANGAN DAN ANALISIS INFORMASI, DATA, LAPORAN, DAN PENGADUAN MELALUI PENGAMATAN ATAU KEGIATAN INTELIJEN PERPAJAKAN."
+}

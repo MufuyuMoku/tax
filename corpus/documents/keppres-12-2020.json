@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-12-2020",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "12",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "keppres-12-2020--b000-kesatu",
+  "keppres-12-2020--b001-kedua",
+  "keppres-12-2020--b002-ketiga",
+  "keppres-12-2020--b003-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-04-13",
+   "detail_error": null,
+   "number_as_written": "12 TAHUN 2020",
+   "retrieved_at": "2026-10-04T03:29:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BENCANA NONALAM PENYEBARAN CORONA VIRUS DISEASE 2019 (COVID-19) SEBAGAI BENCANA NASIONAL",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bencana-nonalam-penyebaran-corona-virus-disease-2019-covid-19-sebagai-bencana"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=41",
+   "retrieved_at": "2026-10-03T02:47:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bencana-nonalam-penyebaran-corona-virus-disease-2019-covid-19-sebagai-bencana",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 2941,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T03:29:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-bencana-nonalam-penyebaran-corona-virus-disease-2019-covid-19-sebagai-bencana"
+ },
+ "title": "PENETAPAN BENCANA NONALAM PENYEBARAN CORONA VIRUS DISEASE 2019 (COVID-19) SEBAGAI BENCANA NASIONAL"
+}

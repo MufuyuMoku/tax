@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 690,
+ "document_id": "perpres-97-2014",
+ "document_number": "97 TAHUN 2014",
+ "document_title": "PENYELENGGARAAN  PELAYANAN   TERPADU  SATU PINTU",
+ "id": "perpres-97-2014--b018-19",
+ "label": "19",
+ "order": 18,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 19\nPTSP dalam mengelola PSE, mempunyai kewajiban:\na.\nmenjamin PSE beroperasi secara terus menerus sesuai standar tingkat layanan, keamanan data dan informasi;\nb.\nmelakukan manajemen sistem aplikasi otomatisasi proses kerja (business process) pelayanan Perizinan dan Nonperizinan, serta data dan informasi;\nc.\nmelakukan koordinasi dan sinkronisasi pertukaran data dan informasi secara langsung (online) dengan pihak terkait;\nd.\nmelakukan tindakan untuk mengatasi gangguan terhadap PSE;\ne.\nmenyediakan jejak audit (audit trail); dan\nf.\nmenjamin keamanan dan kerahasiaan data dan informasi yang disampaikan Kementerian/ Lembaga, BPMPTSP Provinsi, dan BPMPTSP Kabupaten/ Kota melalui PSE.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T04:11:17+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyelenggaraan-pelayanan-terpadu-satu-pintu"
+ }
+}

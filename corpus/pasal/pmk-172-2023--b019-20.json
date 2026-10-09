@@ -1,0 +1,24 @@
+{
+ "amendment_items": null,
+ "chars": 990,
+ "document_id": "pmk-172-2023",
+ "document_number": "172 TAHUN 2023",
+ "document_title": "PENERAPAN PRINSIP KEWAJARAN DAN KELAZIMAN USAHA DALAM TRANSAKSI YANG DIPENGARUHI HUBUNGAN ISTIMEWA",
+ "id": "pmk-172-2023--b019-20",
+ "label": "20",
+ "order": 19,
+ "quality_flags": [
+  "anomali_romawi:I",
+  "urutan_loncat:3->8,8->5",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 20\n(1)\nWajib Pajak dalam negeri yang merupakan entitas induk sebagaimana dimaksud dalam Pasal 16 ayat (4) merupakan entitas yang:\na.\nmemiliki secara langsung atau tidak langsung satu atau lebih anggota lain dalam Grup Usaha;\nb.\nmempunyai kewajiban untuk menyelenggarakan laporan keuangan konsolidasi berdasarkan standar akuntansi keuangan yang berlaku di Indonesia dan/atau berdasarkan ketentuan yang mengikat emiten bursa efek di Indonesia; dan\nc.\ntidak dimiliki secara langsung atau tidak langsung oleh entitas konstituen lain dalam Grup Usaha atau dimiliki secara langsung atau tidak langsung oleh entitas konstituen lain, tetapi entitas konstituen lain tersebut tidak diwajibkan mengonsolidasi laporan keuangan entitas induk dimaksud.\n(2)\nWajib Pajak sebagaimana dimaksud pada ayat (1) tidak diperbolehkan menunjuk entitas konstituen lainnya untuk menggantikannya dalam memenuhi kewajiban penyampaian laporan per negara, baik di Indonesia maupun di negara atau yurisdiksi lainnya.",
+ "text_source": {
+  "retrieved_at": "2026-10-04T03:06:10+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penerapan-prinsip-kewajaran-dan-kelaziman-usaha-dalam-transaksi-yang-dipengaruhi-hubungan"
+ }
+}

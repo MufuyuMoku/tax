@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-13-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "13",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-13-2015--b000-1",
+  "per-djp-13-2015--b001-2",
+  "per-djp-13-2015--b002-3",
+  "per-djp-13-2015--b003-4",
+  "per-djp-13-2015--b004-5",
+  "per-djp-13-2015--b005-6",
+  "per-djp-13-2015--b006-7",
+  "per-djp-13-2015--b007-8",
+  "per-djp-13-2015--b008-9",
+  "per-djp-13-2015--b009-10",
+  "per-djp-13-2015--b010-11",
+  "per-djp-13-2015--b011-12",
+  "per-djp-13-2015--b012-13",
+  "per-djp-13-2015--b013-14",
+  "per-djp-13-2015--b014-15",
+  "per-djp-13-2015--b015-16",
+  "per-djp-13-2015--b016-18",
+  "per-djp-13-2015--b017-19",
+  "per-djp-13-2015--b018-20",
+  "per-djp-13-2015--b019-21",
+  "per-djp-13-2015--b020-22",
+  "per-djp-13-2015--b021-23",
+  "per-djp-13-2015--b022-24",
+  "per-djp-13-2015--b023-25",
+  "per-djp-13-2015--b024-26",
+  "per-djp-13-2015--b025-27"
+ ],
+ "quality_flags": [
+  "urutan_loncat:16->18"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "SE",
+     "6",
+     "1996",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-06/PJ.01/1996",
+    "quote": "Surat Edaran Direktur Jenderal Pajak Nomor SE-06/PJ.01/1996 tentang Pemberian Piagam Penghargaan Pensiunan Pegawai Direktorat Jenderal Pajak (setara Brevet Konsultan Pajak) dalam rangka penerbitan Izin Praktik Konsultan Pajak; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "se-6-1996"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-03-10",
+   "detail_error": null,
+   "number_as_written": "PER-13/PJ/2015",
+   "retrieved_at": "2026-10-04T04:01:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN KETENTUAN KONSULTAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-ketentuan-konsultan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=80",
+   "retrieved_at": "2026-10-03T03:00:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-ketentuan-konsultan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 43456,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T04:01:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-ketentuan-konsultan-pajak"
+ },
+ "title": "PETUNJUK PELAKSANAAN KETENTUAN KONSULTAN PAJAK"
+}

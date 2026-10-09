@@ -1,0 +1,122 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-61-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "61",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-61-2009--b000-1",
+  "per-djp-61-2009--b001-2",
+  "per-djp-61-2009--b002-3",
+  "per-djp-61-2009--b003-4",
+  "per-djp-61-2009--b004-5",
+  "per-djp-61-2009--b005-6",
+  "per-djp-61-2009--b006-7",
+  "per-djp-61-2009--b007-8",
+  "per-djp-61-2009--b008-10",
+  "per-djp-61-2009--b009-11"
+ ],
+ "quality_flags": [
+  "urutan_loncat:8->10"
+ ],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-24-2010",
+    "key": [
+     "PER-DJP",
+     "24",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-24/PJ./2010",
+    "quote": "Ketentuan Pasal 4 dalam Peraturan Direktur Jenderal Pajak Nomor PER-61/PJ/2009 tentang Tata Cara Penerapan Persetujuan Penghindaran Pajak Berganda, diubah sehingga berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-61/PJ./2009 TENTANG TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "SE",
+     "3",
+     "1996",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-03/PJ.101/1996",
+    "quote": "Pasal 10 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, maka : 1. Surat Edaran Direktur Jenderal Pajak Nomor SE-03/PJ.101/1996 tanggal 29 Maret 1996 tentang Penerapan Persetujuan Penghindaran Pajak Berganda (P3B); 2. Surat Edaran Direktur Jenderal Pajak Nomor SE-04/PJ.101/1996 tanggal 28 Mei 1996 tentang Masa Transisi Penerapan SE-03/PJ.101/1996; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "se-3-1996"
+   },
+   {
+    "key": [
+     "SE",
+     "4",
+     "1996",
+     null
+    ],
+    "name": "Surat Edaran Direktur Jenderal Pajak Nomor SE-04/PJ.101/1996",
+    "quote": "Pasal 10 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, maka : … 2. Surat Edaran Direktur Jenderal Pajak Nomor SE-04/PJ.101/1996 tanggal 28 Mei 1996 tentang Masa Transisi Penerapan SE-03/PJ.101/1996; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "se-4-1996"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-11-05",
+   "detail_error": null,
+   "number_as_written": "PER-61/PJ./2009",
+   "retrieved_at": "2026-10-05T01:33:51+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerapan-persetujuan-penghindaran-pajak-berganda"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=141",
+   "retrieved_at": "2026-10-03T03:24:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerapan-persetujuan-penghindaran-pajak-berganda",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9324,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:33:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerapan-persetujuan-penghindaran-pajak-berganda"
+ },
+ "title": "TATA CARA PENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA"
+}

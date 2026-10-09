@@ -1,0 +1,67 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-18-1986",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "18",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-04-05",
+   "detail_error": "detail belum diambil",
+   "number_as_written": "KEP - 18/PJ/1986",
+   "retrieved_at": "2026-10-03T04:06:05+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMUNGUTAN, PENYETORAN DAN PELAPORAN BEA MASUK, PPN DAN PPn BARANG MEWAH SERTA PPh PASAL 22 ATAS IMPOR BARANG MELALUI PERUSAHAAN UMUM POS DAN GIRO",
+   "type_as_written": "Keputusan Bersama Dirjen",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-bea-masuk-ppn-dan-ppn-barang-mewah-serta"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=249",
+   "retrieved_at": "2026-10-03T04:06:05+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-bea-masuk-ppn-dan-ppn-barang-mewah-serta",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman detail sumber belum diambil",
+  "url": null
+ },
+ "title": "TATA CARA PEMUNGUTAN, PENYETORAN DAN PELAPORAN BEA MASUK, PPN DAN PPn BARANG MEWAH SERTA PPh PASAL 22 ATAS IMPOR BARANG MELALUI PERUSAHAAN UMUM POS DAN GIRO"
+}

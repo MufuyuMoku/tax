@@ -1,5 +1,15 @@
 {
  "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PPh"
+  }
+ ],
  "category": "substantif",
  "id": "pmk-43-2008",
  "identity": {
@@ -9,6 +19,7 @@
   "year": "2008"
  },
  "identity_conflicts": [],
+ "original_files": [],
  "pasal_ids": [
   "pmk-43-2008--b000-1",
   "pmk-43-2008--b001-2",
@@ -80,10 +91,19 @@
    "title_as_written": "PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN, ATAU PEMEKARAN USAHA",
    "type_as_written": "Peraturan Menteri Keuangan",
    "url": "https://www.pajak.go.id/id/peraturan/penggunaan-nilai-buku-atas-pengalihan-harta-dalam-rangka-penggabungan-peleburan-atau-1"
+  },
+  {
+   "date_as_written": "2008-03-13 00:00:00",
+   "number_as_written": "43/PMK.03/2008",
+   "retrieved_at": "2026-09-21T14:43:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penggunaan Nilai Buku atas Pengalihan Harta dalam Rangka Penggabungan, Peleburan, atau Pemekaran Usaha",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2008"
   }
  ],
  "status": {
-  "note": "hanya satu sumber",
+  "note": "disepakati JDIH & DJP",
   "reasons": [],
   "value": "tidak_berlaku"
  },
@@ -95,6 +115,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penggunaan-nilai-buku-atas-pengalihan-harta-dalam-rangka-penggabungan-peleburan-atau-1",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=415",
+   "retrieved_at": "2026-09-21T14:43:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/43-pmk-03-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
   }
  ],
  "structure": "biasa",

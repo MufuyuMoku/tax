@@ -1,0 +1,85 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-15-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "15",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-15-2010--b000-i",
+  "per-djp-15-2010--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "29",
+     "2008",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 29/PJ/2008",
+    "quote": "1. Ketentuan Pasal 1 angka 2 diubah dan diantara angka 1 dan 3 ditambahkan 1 angka sehingga Pasal 1 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-29-2008"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-03-26",
+   "detail_error": null,
+   "number_as_written": "PER-15/PJ/2010",
+   "retrieved_at": "2026-10-05T01:23:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PERTAMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 29/PJ/2008 TENTANG BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DALAM BENTUK FORMULIR KERTAS (HARD COPY) BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KANTOR PELAYANAN PAJAK, DALAM RANGKA PENGOLAHAN DATA DAN DOKUMEN DI PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-pertama-atas-peraturan-direktur-jenderal-pajak-nomor-29pj2008-tentang-bentuk"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=133",
+   "retrieved_at": "2026-10-03T03:21:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-pertama-atas-peraturan-direktur-jenderal-pajak-nomor-29pj2008-tentang-bentuk",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 40174,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-05T01:23:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-pertama-atas-peraturan-direktur-jenderal-pajak-nomor-29pj2008-tentang-bentuk"
+ },
+ "title": "PERUBAHAN PERTAMA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR 29/PJ/2008 TENTANG BENTUK, ISI, DAN TATA CARA PENYAMPAIAN SURAT PEMBERITAHUAN MASA PAJAK PERTAMBAHAN NILAI (SPT MASA PPN) DALAM BENTUK FORMULIR KERTAS (HARD COPY) BAGI PENGUSAHA KENA PAJAK YANG DIKUKUHKAN DI KANTOR PELAYANAN PAJAK, DALAM RANGKA PENGOLAHAN DATA DAN DOKUMEN DI PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN"
+}

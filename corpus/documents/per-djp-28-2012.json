@@ -1,0 +1,110 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-28-2012",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "28",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pasal_ids": [
+  "per-djp-28-2012--b000-1",
+  "per-djp-28-2012--b001-2",
+  "per-djp-28-2012--b002-3",
+  "per-djp-28-2012--b003-4",
+  "per-djp-28-2012--b004-5",
+  "per-djp-28-2012--b005-6",
+  "per-djp-28-2012--b006-7",
+  "per-djp-28-2012--b007-8",
+  "per-djp-28-2012--b008-9",
+  "per-djp-28-2012--b009-10",
+  "per-djp-28-2012--b010-11",
+  "per-djp-28-2012--b011-12",
+  "per-djp-28-2012--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-13-2014",
+    "key": [
+     "PER-DJP",
+     "13",
+     "2014",
+     null
+    ],
+    "number_as_written": "PER-13/PJ/2014",
+    "quote": "Mengubah ketentuan yang diatur dalam Pasal 9 Peraturan Direktur Jenderal Pajak Nomor PER-28/PJ/2012 tentang Tempat Pendaftaran dan/atau Tempat Pelaporan Usaha bagi Wajib Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya, sehingga keseluruhan Pasal 9 berbunyi sebagai berikut: Pasal 9 (1) Direktur Jenderal Pajak melakukan evaluasi terhadap Wajib Pajak yang terdaftar pada KPP sebagaimana dimaksud dalam Pasal 2 ayat (1), kecuali untuk Wajib Pajak yang terdaftar di KPP Wajib Pajak Besar Tiga, KPP Wajib Pajak Besar Empat untuk Wajib Pajak BUMN, KPP Minyak dan Gas Bumi, dan KPP Badan dan Orang Asing.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-28/PJ/2012 TENTANG TEMPAT PENDAFTARAN DAN/ATAU TEMPAT PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "8",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2012",
+    "quote": "Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2012 tentang Tempat Pendaftaran dan/atau Tempat Pelaporan Usaha bagi Wajib Pajak pada Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-8-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-12-17",
+   "detail_error": null,
+   "number_as_written": "PER-28/PJ/2012",
+   "retrieved_at": "2026-10-04T06:01:46+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN DAN/ATAU TEMPAT PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-danatau-tempat-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-0"
+  }
+ ],
+ "status": {
+  "note": "klaim satu sumber saja (DJP); tidak ada sumber kedua untuk dibandingkan",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=107",
+   "retrieved_at": "2026-10-03T03:12:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-danatau-tempat-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26617,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T06:01:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-danatau-tempat-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-0"
+ },
+ "title": "TEMPAT PENDAFTARAN DAN/ATAU TEMPAT PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+}
