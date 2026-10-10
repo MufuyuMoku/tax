@@ -8,8 +8,8 @@ The owner runs this; it can also be run from a session. It resumes where it stop
     .venv/Scripts/python -m pipeline.harvest jalan --tanpa-vpn     one round, until done or a limit is hit
     .venv/Scripts/python -m pipeline.harvest kemajuan              progress, no network
 
-Order of work in a round: KUP list, KUP details, PPN list, PPN details, then the M7 categories in the
-order of CATEGORIES, each list before its details. KUP is finished first because it is what the users
+Order of work in a round: KUP list, KUP details, PPN list, PPN details, then every M7 list in the
+order of CATEGORIES, then the M7 details. KUP is finished first because it is what the users
 need first (owner, 2026-10-04, K-053). A list page or detail that fails
 without a refusal stays in the queue for the next round.
 
@@ -50,6 +50,7 @@ CATEGORIES = {
     "PBB": "13930",
     "Lainnya": "13933",
 }
+M5 = ("KUP", "PPN")
 STATE = config.HARVEST / "state.json"
 STOP_SIGNAL = config.HARVEST / "BERHENTI"  # created by a human to end the current round cleanly
 LIST_OUT = config.HARVEST / "djp_list.jsonl"
@@ -260,9 +261,17 @@ def run(fetcher, state, limit=None, pages=None):
         return done
     # Owner's order (2026-10-04, K-053): KUP completely first (list, then details), because KUP is
     # what the users need first; then the PPN list and the PPN details.
-    for name in CATEGORIES:
+    for name in M5:
         lists(name)
         details(name)
+    # M7 (K-085): every list first, since the lists alone tell how many regulations are new (overlap
+    # with the corpus, exchange-rate decrees) and so what the phone would store; then the details.
+    for name in CATEGORIES:
+        if name not in M5:
+            lists(name)
+    for name in CATEGORIES:
+        if name not in M5:
+            details(name)
     return done
 
 
