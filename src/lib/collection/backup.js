@@ -58,7 +58,7 @@ export async function parseBackup(bytes) {
   } catch {
     throw new BackupError("berkas ini bukan cadangan koleksi (bukan JSON yang sah)");
   }
-  if (!data || data.format !== FORMAT) throw new BackupError("berkas ini bukan cadangan koleksi Tax");
+  if (!data || data.format !== FORMAT) throw new BackupError("berkas ini bukan cadangan koleksi Saku Pajak");
   if (data.version !== VERSION) throw new BackupError(`versi cadangan ${data.version} tidak dikenali`);
   if (!Array.isArray(data.documents) || data.documents.length !== data.count) {
     throw new BackupError("isi cadangan tidak lengkap");

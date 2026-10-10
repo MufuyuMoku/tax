@@ -7,7 +7,8 @@ Queues, in this order (owner, 2026-10-05):
     a. KUP: the document page of every KUP document in the DJP list that JDIH also has, for JDIH's
        own status claim (validity period, revocations);
     b. PPN: the same for the PPN documents in the DJP list fetched so far;
-    c. PPh: the document page and the full-text file of the PPh documents only JDIH has.
+    c. PPh: the document page and the full-text file of the PPh documents only JDIH has;
+    d. M7 (2026-10-10): the other DJP categories, as a and b.
 Which DJP document is which JDIH document is decided by the number, as in pipeline.build.
 
 Every rule of SPEC section 8 holds (polite.py), the same as for DJP (owner, 2026-10-08, K-062): a
@@ -120,7 +121,10 @@ def jdih_listing():
 
 def queues():
     by_key, by_slug = jdih_listing()
-    out = {"KUP": [], "PPN": [], "PPh": []}
+    # KUP, PPN and PPh first (M5 order); then the M7 categories of pipeline.harvest, so JDIH's status
+    # claim is queued for every new DJP document JDIH also has.
+    from .harvest import CATEGORIES
+    out = {"KUP": [], "PPN": [], "PPh": [], **{name: [] for name in CATEGORIES if name not in ("KUP", "PPN")}}
     out_of_scope = re.compile(config.OUT_OF_SCOPE_TITLE, re.I)
     for row in read_jsonl(DJP_LIST):
         name = row["_kategori_daftar"]
@@ -161,7 +165,7 @@ def run(fetcher, limit=None):
     out, by_slug = queues()
     have = done_slugs()
     done = 0
-    for name in ("KUP", "PPN", "PPh"):
+    for name in out:
         for slug in out[name]:
             if (name, slug) in have:
                 continue
@@ -226,7 +230,7 @@ def check_addresses(fetcher, count=5, seed=20261008):
     import random
     out, _ = queues()
     have = done_slugs()
-    remaining = sorted(slug for name in ("KUP", "PPN", "PPh") for slug in out[name] if (name, slug) not in have)
+    remaining = sorted(slug for name in out for slug in out[name] if (name, slug) not in have)
     sample = random.Random(seed).sample(remaining, min(count, len(remaining)))
     results = []
     for slug in sample:
@@ -246,7 +250,7 @@ def report():
     out, _ = queues()
     have = done_slugs()
     lines = []
-    for name in ("KUP", "PPN", "PPh"):
+    for name in out:
         got = sum(1 for s in out[name] if (name, s) in have)
         lines.append(f"JDIH {name}: {got} dari {len(out[name])} diambil")
     fetcher = Fetcher(root=ROOT)

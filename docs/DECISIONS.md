@@ -1388,3 +1388,83 @@ tampilan. Peringkat tidak berubah (tes kesetaraan K-069 lulus), dan halaman luri
 - Judul berhuruf kapital semua dari sumber tidak diubah, karena itu teks sumber.
 - Saringan "Status" masih memakai pengelompokan pipa data (berlaku, tidak pasti, dan sebagainya).
   Itu alat saring, bukan label di dokumen.
+
+## K-084 — Rilis v1.0.0: nama "Saku Pajak", ikon, dua versi, halaman batasan
+Tanggal: 2026-10-10 · Milestone: M8 (dikerjakan sebelum M7, keputusan pemilik) · Status: berlaku
+
+**Nama:** "Saku Pajak" tampil di judul halaman, kepala halaman, kaki halaman, manifes, dan Cara
+pakai; diambil dari `src/lib/brand.js`. Alamat, repositori, path `/tax/`, dan `id` manifes
+(`/tax/`) tidak diubah. Karena `id` sama, Chrome memperlakukannya sebagai aplikasi yang sama dan
+memperbarui nama serta ikon aplikasi yang sudah terpasang. Di Android, Chrome bisa meminta
+persetujuan pengguna sekali saat nama atau ikon berganti. Penafian invarian 9 tetap di setiap
+halaman. Nama tidak memakai kata "resmi", lambang negara, atau logo DJP/Kemenkeu.
+
+**Ikon:** satu SVG buatan sendiri, `public/ikon.svg`: lembaran dokumen dengan kaca pembesar, biru
+situs dan kuning. Ada juga varian maskable, `public/ikon-maskable.svg`, dengan gambar di 70% tengah.
+`scripts/make-icons.mjs` merender lewat Chrome:
+- ikon 192 dan 512;
+- maskable 512;
+- apple-touch-icon 180;
+- `favicon.ico` (16, 32, 48 dalam satu berkas).
+
+Halaman kini menautkan `favicon.ico` dan `ikon.svg`; sebelumnya `<link rel="icon" href="data:,">`.
+Catatan: `/favicon.ico` di akar domain `mufuyumoku.github.io` bukan milik repositori ini dan tidak
+bisa diperbaiki dari sini. Browser yang mengikuti `<link rel="icon">` tidak memintanya lagi.
+
+**Versi:**
+- Versi aplikasi mengikuti semver di `package.json`, saat ini v1.0.0.
+- Versi data adalah tanggal datanya, yaitu tanggal terbaru data diambil dari sumber.
+- Keduanya tampil terpisah di kaki halaman, penanda data, dan tawaran pembaruan. Kode hash data
+  tetap tampil sebagai "kode", untuk membedakan dua build bertanggal sama.
+- `tests/tampilan/versi.test.mjs` gagal bila versi di `package.json` tidak punya catatan di "Apa
+  yang baru".
+
+**Halaman baru:** "Apa yang baru" dan "Tentang dan batasan". Semua angka di halaman batasan dihitung
+dari korpus saat build: cakupan per kategori, berteks dan tanpa teks, sumber yang berbeda pendapat,
+lampiran, dan tanggal data. Ketepatan relasi diambil dari uji manual 20 contoh. Kedua halaman ikut
+disimpan untuk luring.
+
+**Penyerahan:** `docs/PENYERAHAN.md` dan tag git `v1.0.0`.
+
+## K-085 — M7: kategori lain diambil; pembaruan bertahap tanpa mengambil ulang semua detail
+Tanggal: 2026-10-10 · Milestone: M7 (terbit sebagai v1.1) · Status: berlaku; pengambilan berjalan
+
+**Pengintaian** (2026-10-10, 9 permintaan, halaman pertama dan terakhir tiap daftar). Kategori di
+katalog DJP selain PPh, KUP, dan PPN:
+
+| Kategori | Halaman | Baris |
+|---|---|---|
+| Bea Meterai (BM) | 13 | 64 |
+| BPHTB | 16 | sekitar 80 |
+| PBB | 48 | 236 |
+| Lainnya | 377 | 1.883 |
+| BPHTB Lainnya | — | 0 |
+
+Angkanya sama dengan 21 September. Irisan dengan korpus dan jumlah KMK kurs/bunga dihitung dari
+daftar lengkap; lihat PROGRESS.
+
+**Pengambilan:** `pipeline/harvest.py` kini mengenal kategori M7 (urut dari yang terkecil) dan
+memakai aturan yang sama. Antrean JDIH (`pipeline/jdih_harvest.py`) ikut memuat dokumen kategori
+baru yang juga ada di JDIH. Mengambil sebuah kategori tidak memasukkannya ke situs:
+`pipeline/build.py` hanya membaca `config.DJP_CATEGORIES` (masih KUP dan PPN).
+
+**Pembaruan bertahap** (`pipeline/pembaruan.py`): satu perintah, bisa dijalankan di laptop atau
+server Linux kecil. Pemeriksa VPN kini juga membaca adapter Linux.
+- **Baru:** daftar katalog urut terbaru dulu. Halaman 0 tiap kategori diambil segar; halaman
+  berikutnya hanya bila masih ada yang belum dikenal (paling banyak 3 per kategori).
+- **Berubah:** baris daftar sudah memuat status, judul, nomor, jenis, dan tanggal. Satu halaman
+  daftar memeriksa 5 peraturan sekaligus tanpa membuka detailnya. Tiap kali jalan disapu 60
+  halaman daftar berikutnya, bergiliran antarkategori, dari kursor di `harvest/pembaruan.json`.
+  Seluruh katalog (1.699 halaman) tersapu tiap 29 kali jalan.
+- **Petunjuk:** peraturan yang disebut "peraturan terkait" oleh peraturan baru langsung diperiksa
+  detailnya, karena kemungkinan besar dicabut atau diubah olehnya.
+- **Detail:** hanya untuk yang baru, berubah, atau ditunjuk petunjuk.
+
+Satu kali jalan tanpa peraturan baru: 8 halaman baru + 60 sapuan = 68 permintaan, sekitar 23 menit,
+ditambah satu permintaan per peraturan baru atau berubah. Berhenti sendiri bila host menolak, bila
+batas 24 jam tercapai, atau bila ada `harvest/BERHENTI`. Perintah ini menolak jalan sebelum
+pengambilan awal semua daftar selesai, karena tanpa itu satu kategori penuh akan terhitung "baru".
+Hasilnya ditulis ke berkas sendiri (`harvest/pembaruan_*.jsonl`) dan belum dibaca build; masuk situs
+bersama v1.1.
+**Belum:** daftar JDIH untuk peraturan yang terbit setelah 21 September belum diperbarui. Status
+JDIH untuk peraturan baru menunggu pengambilan daftar JDIH yang baru.

@@ -22,7 +22,7 @@ const BASE = "/tax/";
 const shots = process.argv[2] || fs.mkdtempSync(path.join(os.tmpdir(), "tax-luring-"));
 fs.mkdirSync(shots, { recursive: true });
 
-const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".mjs": "text/javascript", ".css": "text/css", ".json": "application/json", ".png": "image/png", ".webmanifest": "application/manifest+json" };
+const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".mjs": "text/javascript", ".css": "text/css", ".json": "application/json", ".png": "image/png", ".webmanifest": "application/manifest+json", ".svg": "image/svg+xml", ".ico": "image/x-icon" };
 
 let requests = [];
 function serve(root) {

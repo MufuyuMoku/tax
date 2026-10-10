@@ -67,6 +67,19 @@ def _windows_findings():
     return found, unsure
 
 
+def _linux_findings():
+    """Network interfaces whose names look like a VPN (tun0, wg0, tailscale0, ...), from /sys."""
+    found = []
+    net = "/sys/class/net"
+    if not os.path.isdir(net):
+        return found, ["daftar adapter jaringan (/sys/class/net) tidak bisa dibaca"]
+    for name in sorted(os.listdir(net)):
+        low = name.lower()
+        if low.startswith(("tun", "tap", "wg", "ppp")) or any(word.strip() in low for word in VPN_ADAPTER_WORDS if len(word.strip()) > 3):
+            found.append(f"adapter jaringan {name} tampak seperti VPN")
+    return found, []
+
+
 def check():
     """Return (blocking findings, things that could not be checked)."""
     found = [f"variabel lingkungan {name} berisi proxy" for name in PROXY_VARIABLES if os.environ.get(name)]
@@ -75,8 +88,13 @@ def check():
         more_found, more_unsure = _windows_findings()
         found += more_found
         unsure += more_unsure
+    elif platform.system() == "Linux":
+        # A small Linux server can run the update (M7, K-085): its adapters are checked too.
+        more_found, more_unsure = _linux_findings()
+        found += more_found
+        unsure += more_unsure
     else:
-        unsure.append("pemeriksaan adapter VPN hanya tersedia di Windows")
+        unsure.append("pemeriksaan adapter VPN hanya tersedia di Windows dan Linux")
     return found, unsure
 
 

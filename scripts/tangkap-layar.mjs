@@ -5,7 +5,8 @@
 //
 // Writes <screen>-320.png and <screen>-desktop.png for: the empty home page, the results for
 // "jual rumah" and "PMK 168/2023", a document whose status is uncertain, a document without text,
-// one pasal, and the personal collection.
+// one pasal, the personal collection, "Apa yang baru" and "Tentang dan batasan"; and the footer of
+// the last of them as kaki-<width>.png.
 import fs from "node:fs";
 import http from "node:http";
 import path from "node:path";
@@ -19,7 +20,7 @@ fs.mkdirSync(out, { recursive: true });
 const PORT = 4398;
 const ORIGIN = `http://localhost:${PORT}`;
 const BASE = "/tax/";
-const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".mjs": "text/javascript", ".css": "text/css", ".json": "application/json", ".png": "image/png", ".webmanifest": "application/manifest+json" };
+const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".mjs": "text/javascript", ".css": "text/css", ".json": "application/json", ".png": "image/png", ".webmanifest": "application/manifest+json", ".svg": "image/svg+xml", ".ico": "image/x-icon" };
 const server = http.createServer((req, res) => {
   const url = new URL(req.url, ORIGIN);
   let file = path.join("dist", decodeURIComponent(url.pathname.slice(BASE.length)));
@@ -47,6 +48,8 @@ const SCREENS = [
   ["dokumen-tanpa-teks", `${BASE}dokumen/${bare.id}/`, null],
   ["pasal", `${BASE}pasal/uu-7-2021--b036-9/`, null],
   ["koleksi", `${BASE}koleksi/`, null],
+  ["apa-yang-baru", `${BASE}apa-yang-baru/`, null],
+  ["tentang", `${BASE}tentang/`, null],
 ];
 const VIEWS = [
   ["320", { width: 320, height: 720, deviceScaleFactor: 2, mobile: true }],
@@ -91,6 +94,14 @@ try {
       fs.writeFileSync(path.join(out, `${name}-${view}.png`), Buffer.from(data, "base64"));
       report.push(`${name}-${view}: lebar halaman ${scroll} px${scroll > metrics.width ? " (GULIR SAMPING)" : ""}`);
     }
+    // The footer with the disclaimer and the two versions, on its own.
+    const box = await js("(r => ({ y: r.top + scrollY - 8, h: r.height + 16 }))(document.querySelector('footer').getBoundingClientRect())");
+    const { data: foot } = await S("Page.captureScreenshot", {
+      format: "png",
+      captureBeyondViewport: true,
+      clip: { x: 0, y: box.y, width: metrics.width, height: box.h, scale: 1 },
+    });
+    fs.writeFileSync(path.join(out, `kaki-${view}.png`), Buffer.from(foot, "base64"));
   }
 } finally {
   chrome.close();

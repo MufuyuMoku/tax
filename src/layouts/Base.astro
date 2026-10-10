@@ -3,6 +3,8 @@ import "../styles/global.css";
 import "../styles/tampilan.css";
 import { dataDate } from "../lib/corpus.js";
 import { formatDate } from "../lib/labels.js";
+import { APP_NAME } from "../lib/brand.js";
+import pkg from "../../package.json";
 
 interface Props {
   title: string;
@@ -11,6 +13,9 @@ interface Props {
 
 const { title, description = "Pencari peraturan pajak Indonesia" } = Astro.props;
 const base = import.meta.env.BASE_URL;
+// Two versions, shown apart (K-084): the app follows semver (package.json), the data is its date.
+const appVersion = `v${pkg.version}`;
+const dataVersion = formatDate(dataDate());
 ---
 
 <!doctype html>
@@ -20,11 +25,12 @@ const base = import.meta.env.BASE_URL;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <!-- No icon file: without this line browsers request /favicon.ico on their own. -->
-    <link rel="icon" href="data:," />
+    {/* Icons (K-084): the SVG for current browsers, favicon.ico for the rest. */}
+    <link rel="icon" href={`${base}favicon.ico`} sizes="16x16 32x32 48x48" />
+    <link rel="icon" href={`${base}ikon.svg`} type="image/svg+xml" />
     {/* Installing on a phone and offline use (M6, K-082). */}
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
-    <link rel="apple-touch-icon" href={`${base}ikon-192.png`} />
+    <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
     <meta name="theme-color" content="#1f4f82" />
     {/* Theme and text size chosen by the reader, applied before the page is drawn (K-083). */}
     <script is:inline>try{var d=document.documentElement,t=localStorage.getItem("tax-tema"),h=localStorage.getItem("tax-huruf");if(t)d.dataset.theme=t;if(h)d.dataset.huruf=h}catch(e){}</script>
@@ -32,7 +38,7 @@ const base = import.meta.env.BASE_URL;
   <body>
     <div class="wrap">
       <header class="atas">
-        <a class="merek" href={base}>Tax</a>
+        <a class="merek" href={base}><img src={`${base}ikon.svg`} alt="" width="28" height="28" />{APP_NAME}</a>
         <nav aria-label="Navigasi utama">
           <a href={base}>Cari</a>
           <a href={`${base}koleksi/`}>Koleksi pribadi</a>
@@ -60,11 +66,11 @@ const base = import.meta.env.BASE_URL;
           whether the device is online: one line, details on tap. Filled in by public/keadaan.js. */}
       <details class="keadaan" id="keadaan-situs">
         <summary>
-          <span>Data per {formatDate(dataDate())}</span>
+          <span>Data per {dataVersion}</span>
           <span id="ringkas-simpan"></span>
           <span id="keadaan-jaringan"></span>
         </summary>
-        <p>Data sumber diambil sampai {formatDate(dataDate())}.</p>
+        <p>Versi aplikasi {appVersion} · versi data {dataVersion} (data sumber diambil sampai tanggal itu).</p>
         <p id="keadaan-simpan">Belum tersimpan untuk dipakai luring.</p>
       </details>
       <div class="notice tawaran" id="tawaran-baru" hidden>
@@ -76,7 +82,7 @@ const base = import.meta.env.BASE_URL;
            and must name the sources of its data. -->
       <footer>
         <p>
-          <strong>Tax</strong> bukan situs resmi pemerintah dan tidak berafiliasi dengan
+          <strong>{APP_NAME}</strong> bukan situs resmi pemerintah dan tidak berafiliasi dengan
           Kementerian Keuangan maupun Direktorat Jenderal Pajak.
         </p>
         <p>
@@ -85,6 +91,11 @@ const base = import.meta.env.BASE_URL;
           Keuangan (<a href="https://jdih.kemenkeu.go.id">jdih.kemenkeu.go.id</a>). Setiap dokumen
           membawa URL sumber dan tanggal pengambilannya. Untuk kepastian hukum, rujuk naskah resmi
           di sumbernya.
+        </p>
+        <p class="versi">
+          {APP_NAME} {appVersion} · data {dataVersion} ·
+          <a href={`${base}apa-yang-baru/`}>Apa yang baru</a> ·
+          <a href={`${base}tentang/`}>Tentang dan batasan</a>
         </p>
       </footer>
     </div>

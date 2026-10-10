@@ -15,6 +15,10 @@ di bawah menunjuk ke berkas itu.
   - Syarat jam pengambilan "di atas pukul 21.00 WIB" dicabut, dan VPN dinyatakan termasuk proxy
     (bagian 8). Alasannya: pola kegagalan per jam di laporan bagian 12 kemungkinan tercampur
     pemakaian VPN di mesin pemilik saat itu.
+- **2026-10-10**, keputusan pemilik:
+  - Urutan: M8 (penyiapan rilis) dikerjakan dan diterbitkan lebih dulu sebagai v1.0.0, dengan
+    cakupan PPh, KUP, PPN dan nama tampilan "Saku Pajak". M7 (kategori lain dan pembaruan
+    bertahap) dimulai bersamaan tetapi terbit sebagai v1.1 (bagian 7).
 - **2026-10-04**, keputusan pemilik:
   - M5 dikerjakan dalam dua tahap: KUP dulu (diambil, masuk korpus, dan terbit), PPN menyusul
     (bagian 7).
@@ -175,15 +179,21 @@ Bisa dipasang di HP dan jalan tanpa internet.
 **Selesai bila:** situs bisa dipasang; setelah dipasang, daftar, halaman, dan pencarian tetap jalan
 dalam keadaan luring; ada penanda kapan data terakhir diperbarui.
 
-### M7 — kategori lain dan pipa pembaruan malam
-Perluasan ke kategori pajak lainnya, ditambah pipa pembaruan bertahap yang jalan malam hari.
+### M7 — kategori lain dan pipa pembaruan bertahap (v1.1)
+Perluasan ke kategori pajak lainnya di katalog DJP, ditambah perintah pembaruan bertahap yang bisa
+dijalankan terjadwal di mesin mana pun. Terbit sebagai v1.1, tidak bersama v1.0.0 (pemilik,
+2026-10-10).
 **Selesai bila:** pipa hanya mengambil yang baru dan berubah, mematuhi seluruh aturan pengambilan
-di bagian 8, dan berhenti sendiri bila host menolak.
+di bagian 8, dan berhenti sendiri bila host menolak; ukuran simpanan di perangkat diukur dengan
+semua kategori.
 
-### M8 — penyiapan rilis
-Halaman tentang sumber dan batasan, lalu penyerahan ke pemintanya.
+### M8 — penyiapan rilis v1.0.0
+Halaman tentang sumber dan batasan, nama tampilan dan ikon, versi aplikasi, lalu penyerahan ke
+pemintanya. **Dikerjakan dan diterbitkan sebelum M7** (pemilik, 2026-10-10), dengan cakupan PPh, KUP,
+dan PPN.
 **Selesai bila:** halaman batasan memuat angka nyata (cakupan, ketidakpastian status, ketepatan
-relasi) dan tanggal data; penyerahan tercatat.
+relasi) dan tanggal data; versi aplikasi (semver) dan versi data (tanggal) tampil terpisah;
+penyerahan tercatat; tag git v1.0.0.
 
 ## 8. Aturan pengambilan data
 

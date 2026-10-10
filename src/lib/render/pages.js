@@ -6,6 +6,7 @@
 // Input is a document "view" (src/lib/render/views.js): the corpus document plus the few facts
 // that need other documents (which relation targets exist, which twin has text), and its units.
 import { categoryNote, flagNote, formatDate, plainReason, regulationLabel, STRUCTURE_NOTE, typeLabel, yearLabel } from "../labels.js";
+import { APP_NAME } from "../brand.js";
 import { compactClaims, statusChips } from "./chips.js";
 import { esc, h, thousands } from "./html.js";
 
@@ -280,7 +281,7 @@ export function renderDocumentPage(doc, units, base) {
         `</details>`
       )
   );
-  return { title: `${number} — Tax`, description: doc.title, body: html };
+  return { title: `${number} — ${APP_NAME}`, description: doc.title, body: html };
 }
 
 function relationItem(item, kind, known, base) {
@@ -381,5 +382,5 @@ export function renderPasalPage(doc, unit, base) {
     link(unit.text_source.url, esc(unit.text_source.source)),
     ` pada ${esc(formatDate(unit.text_source.retrieved_at))}. Untuk kepastian hukum, rujuk naskah resmi di sumbernya.</p>`
   );
-  return { title: `${heading} — ${unit.document_number || doc.title} — Tax`, description: doc.title, body: html };
+  return { title: `${heading} — ${unit.document_number || doc.title} — ${APP_NAME}`, description: doc.title, body: html };
 }

@@ -18,7 +18,7 @@ import { renderDocumentPage, renderPasalPage } from "../lib/render/pages.js";
 import { documentOfPasal, shardOf, shardPath } from "../lib/render/shards.js";
 
 /* global __TAX__ */
-const M = __TAX__; // { version, base, shell, data: { version, date }, files: [{ path, url, hash, bytes }] }
+const M = __TAX__; // { version, app, base, shell, data: { version, date }, files: [{ path, url, hash, bytes }] }
 const CACHE = `tax-${M.version}`;
 const LEDGER = `${M.base}__berkas__`; // what this cache holds: url -> hash; written last
 const known = new Set(M.files.map((f) => f.url));
@@ -107,7 +107,7 @@ self.addEventListener("message", (event) => {
   if (type === "pakai") self.skipWaiting();
   if (type === "info") {
     const bytes = M.files.reduce((sum, f) => sum + f.bytes, 0);
-    event.ports[0]?.postMessage({ version: M.version, data: M.data, files: M.files.length, bytes });
+    event.ports[0]?.postMessage({ version: M.version, app: M.app, data: M.data, files: M.files.length, bytes });
   }
 });
 

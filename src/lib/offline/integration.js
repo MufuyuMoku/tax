@@ -58,7 +58,15 @@ export function compare(dist, base) {
 
 /** Files the service worker keeps, as { path, url, hash, bytes }. */
 function filesToKeep(dist, base) {
-  const pages = ["index.html", "semua/index.html", "koleksi/index.html", "cara-pakai/index.html", "luring/kerangka/index.html"];
+  const pages = [
+    "index.html",
+    "semua/index.html",
+    "koleksi/index.html",
+    "cara-pakai/index.html",
+    "apa-yang-baru/index.html",
+    "tentang/index.html",
+    "luring/kerangka/index.html",
+  ];
   const listed = (dir) => fs.readdirSync(path.join(dist, dir)).map((name) => `${dir}/${name}`);
   const paths = [
     ...pages,
@@ -67,7 +75,9 @@ function filesToKeep(dist, base) {
     ...listed("luring/data"),
     "manifest.webmanifest",
     "keadaan.js",
-    ...fs.readdirSync(dist).filter((name) => /^ikon-.*\.png$/.test(name)),
+    ...fs.readdirSync(dist).filter((name) => /^ikon.*\.(png|svg)$/.test(name)),
+    "favicon.ico",
+    "apple-touch-icon.png",
   ];
   return paths.map((p) => {
     const bytes = fs.readFileSync(path.join(dist, p));
@@ -85,6 +95,8 @@ export async function writeWorker(dist, base, root) {
     base,
     shell: `${base}luring/kerangka/`,
     data: { version: hash(dataFiles.map((f) => f.hash).join("\n")), date: dataDate() },
+    // The app's own version (semver, package.json), shown apart from the data's date (K-084).
+    app: `v${JSON.parse(fs.readFileSync(path.join(root, "package.json"), "utf8")).version}`,
     files,
   };
   const { build } = await import("esbuild");

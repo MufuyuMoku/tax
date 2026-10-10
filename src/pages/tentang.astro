@@ -1,0 +1,110 @@
+---
+// "Tentang dan batasan" (K-084): what the site covers and what it does not, in plain words. Every
+// number is computed from the corpus at build time, so it stays true when the data changes.
+import Base from "../layouts/Base.astro";
+import { APP_NAME } from "../lib/brand.js";
+import { CATEGORIES, formatDate } from "../lib/labels.js";
+import { dataDate, loadIndex, loadMeta } from "../lib/corpus.js";
+
+const base = import.meta.env.BASE_URL;
+const index = loadIndex();
+const meta = loadMeta();
+const n = (x) => x.toLocaleString("id-ID");
+const pct = (part, whole) => `${((100 * part) / whole).toLocaleString("id-ID", { maximumFractionDigits: 0 })}%`;
+
+const rows = CATEGORIES.map((name) => {
+  const docs = index.filter((e) => e.categories.includes(name));
+  return {
+    name,
+    total: docs.length,
+    text: docs.filter((e) => e.text_available).length,
+    differ: docs.filter((e) => e.status === "tidak_pasti").length,
+  };
+});
+const total = index.length;
+const withText = index.filter((e) => e.text_available).length;
+const differ = index.filter((e) => e.status === "tidak_pasti").length;
+const inSeveral = index.filter((e) => e.categories.length > 1).length;
+const attachments = meta.attachment_match_counts;
+// Relations: the manual check of 20 relations read from the text (SPEC, poc/LAPORAN.md).
+const RELATION_SAMPLE = { checked: 20, right: 16, partial: 2, unsure: 2 };
+---
+
+<Base title={`Tentang dan batasan — ${APP_NAME}`} description={`Cakupan dan batasan ${APP_NAME}`}>
+  <p class="breadcrumb"><a href={base}>← Cari peraturan</a></p>
+  <h1>Tentang dan batasan</h1>
+  <p class="lead">
+    {APP_NAME} membantu menemukan peraturan pajak dan pasalnya. Ini <strong>bukan situs resmi
+    pemerintah</strong> dan bukan nasihat pajak. Untuk kepastian hukum, rujuk naskah resmi di sumbernya.
+  </p>
+
+  <h2>Yang dicakup</h2>
+  <p>
+    {n(total)} peraturan dari katalog Direktorat Jenderal Pajak dan JDIH Kementerian Keuangan, data
+    sumber diambil sampai {formatDate(dataDate())}. {n(withText)} di antaranya berteks
+    ({pct(withText, total)}) dan bisa dicari sampai ke pasalnya; {n(total - withText)} lainnya hanya
+    tercatat nomor, judul, dan statusnya karena sumbernya memang tidak memuat teks.
+  </p>
+  <div class="tabel-gulir">
+    <table class="tabel">
+      <thead>
+        <tr><th scope="col">Kategori</th><th scope="col">Peraturan</th><th scope="col">Berteks</th><th scope="col">Tanpa teks</th><th scope="col">Beda pendapat</th></tr>
+      </thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <th scope="row">{r.name}</th>
+            <td>{n(r.total)}</td>
+            <td>{n(r.text)}</td>
+            <td>{n(r.total - r.text)}</td>
+            <td>{n(r.differ)} ({pct(r.differ, r.total)})</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="hint">
+    {n(inSeveral)} peraturan ada di lebih dari satu kategori, jadi jumlah per kategori lebih besar
+    dari {n(total)}.
+  </p>
+
+  <h2>Seberapa bisa dipercaya</h2>
+  <ul>
+    <li>
+      <strong>Status.</strong> Situs ini tidak menentukan status; yang tampil adalah catatan tiap
+      sumber beserta tanggalnya. Untuk {n(differ)} peraturan ({pct(differ, total)}) sumber resmi
+      berbeda pendapat; peraturan itu ditandai “⚠ Perlu dicek”.
+    </li>
+    <li>
+      <strong>Relasi</strong> (mencabut, mengubah) dibaca otomatis dari kalimat di teks peraturan. Dari
+      {RELATION_SAMPLE.checked} contoh yang diperiksa manual, {RELATION_SAMPLE.right} benar
+      ({pct(RELATION_SAMPLE.right, RELATION_SAMPLE.checked)}), {RELATION_SAMPLE.partial} sebenarnya
+      pencabutan sebagian, dan {RELATION_SAMPLE.unsure} perlu diperiksa manusia. Karena itu setiap
+      relasi selalu disertai kutipan kalimat sumbernya.
+    </li>
+    <li>
+      <strong>Lampiran</strong> dibuka sebagai PDF asli. Dari {n(attachments.cocok + attachments.tidak_cocok + attachments.tidak_terverifikasi)}
+      lampiran, {n(attachments.tidak_cocok)} nomornya tidak cocok dengan peraturannya (ditandai) dan
+      {" "}{n(attachments.tidak_terverifikasi)} tidak bisa diperiksa dari nama berkasnya.
+    </li>
+    <li>
+      <strong>Pencarian</strong> mencocokkan kata, singkatan, dan nomor; bukan tanya-jawab dan tidak
+      menebak maksud. Jawaban yang tepat kadang ada di bawah urutan teratas.
+    </li>
+  </ul>
+
+  <h2>Yang tidak dicakup</h2>
+  <ul>
+    <li>Surat Edaran, Nota Dinas, penegasan, dan putusan pengadilan. Dokumen seperti itu bisa Anda simpan sendiri di <a href={`${base}koleksi/`}>Koleksi pribadi</a>; tetap hanya di perangkat Anda.</li>
+    <li>Pajak daerah (misalnya PBB-P2, BPHTB, pajak kendaraan): diatur peraturan daerah, bukan di sini.</li>
+    <li>Kategori katalog DJP yang belum masuk: PBB, BPHTB, Bea Meterai, dan “Lainnya”. Sedang disiapkan untuk versi berikutnya.</li>
+    <li>Keputusan Menteri Keuangan tentang kurs mingguan dan tarif bunga bulanan.</li>
+    <li>Peraturan yang terbit setelah tanggal data di atas, sampai data diperbarui.</li>
+  </ul>
+
+  <h2>Privasi</h2>
+  <p>
+    Tanpa akun dan tanpa pelacakan. Pencarian berjalan di perangkat Anda; yang Anda ketik dan dokumen
+    koleksi pribadi tidak dikirim ke mana pun.
+  </p>
+</Base>

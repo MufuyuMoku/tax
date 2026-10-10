@@ -1,0 +1,44 @@
+---
+// "Apa yang baru" (K-084): release notes per app version, for the public, newest first. The app
+// version follows semver (package.json); the data has its own version, its date, shown apart.
+import Base from "../layouts/Base.astro";
+import { APP_NAME } from "../lib/brand.js";
+import { formatDate } from "../lib/labels.js";
+import { dataDate } from "../lib/corpus.js";
+import pkg from "../../package.json";
+
+const base = import.meta.env.BASE_URL;
+const RELEASES = [
+  {
+    version: "1.0.0",
+    date: "2026-10-10",
+    title: "Rilis pertama",
+    points: [
+      "Cari peraturan PPh, KUP, dan PPN dengan nomor (PMK 168/2023), singkatan (PPh 21, PTKP), istilah, atau pertanyaan sehari-hari.",
+      "Hasil sampai ke pasalnya, dengan potongan kalimat yang cocok, dan tiga hasil terbaik per kategori pajak.",
+      "Status tiap peraturan menurut tiap sumber resmi (DJP dan JDIH), dengan tanggal pengambilannya. Bila sumber berbeda pendapat, ditandai “⚠ Perlu dicek”.",
+      "Halaman peraturan: ringkasan, daftar pasal, relasi dengan peraturan lain beserta kutipannya, dan lampiran PDF asli.",
+      "Salin kutipan pasal lengkap dengan nama peraturan dan tautannya.",
+      "Koleksi pribadi: simpan SE, ND, atau putusan Anda sendiri supaya ikut tercari, hanya di perangkat Anda.",
+      "Bisa dipasang di HP dan dipakai tanpa internet. Data baru diunduh hanya bila berubah, dan baru dipakai setelah Anda menekan “Muat data baru”.",
+      "Tema terang atau gelap, ukuran huruf, dan halaman Cara pakai.",
+    ],
+  },
+];
+---
+
+<Base title={`Apa yang baru — ${APP_NAME}`} description={`Catatan versi ${APP_NAME}`}>
+  <p class="breadcrumb"><a href={base}>← Cari peraturan</a></p>
+  <h1>Apa yang baru</h1>
+  <p class="lead">
+    Versi aplikasi sekarang <strong>v{pkg.version}</strong>. Versi data adalah tanggal datanya:
+    <strong>{formatDate(dataDate())}</strong>. Data bisa diperbarui tanpa ganti versi aplikasi.
+  </p>
+  {RELEASES.map((release) => (
+    <section class="rilis">
+      <h2>v{release.version} · {formatDate(release.date)}</h2>
+      <p><strong>{release.title}</strong></p>
+      <ul>{release.points.map((point) => <li>{point}</li>)}</ul>
+    </section>
+  ))}
+</Base>

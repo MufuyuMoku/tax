@@ -32,6 +32,7 @@ header.atas {
 }
 
 header.atas .merek {
+  gap: 0.4rem;
   font-weight: 700;
   font-size: 1.15rem;
   text-decoration: none;
@@ -532,4 +533,39 @@ kbd {
   border-radius: 4px;
   padding: 0 0.3rem;
   background: var(--surface);
+}
+
+/* ---------- version line in the footer (K-084) ---------- */
+footer .versi a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+/* ---------- tables on the about page: scroll inside the box on narrow phones ---------- */
+.tabel-gulir {
+  overflow-x: auto;
+}
+
+.tabel {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.tabel th,
+.tabel td {
+  border-bottom: 1px solid var(--line);
+  padding: 0.4rem 0.5rem;
+  text-align: left;
+}
+
+.tabel th,
+.tabel td {
+  white-space: nowrap;
+  overflow-wrap: normal;
+}
+
+header.atas .merek img {
+  display: block;
 }

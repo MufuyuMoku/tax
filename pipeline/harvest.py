@@ -1,4 +1,5 @@
-"""Fetch the KUP and PPN categories of the DJP regulation catalogue (M5). Derived from poc/djp_enum.py.
+"""Fetch category lists of the DJP regulation catalogue and their detail pages: KUP and PPN (M5), the
+other categories (M7). Derived from poc/djp_enum.py.
 
 The owner runs this; it can also be run from a session. It resumes where it stopped.
 
@@ -7,8 +8,9 @@ The owner runs this; it can also be run from a session. It resumes where it stop
     .venv/Scripts/python -m pipeline.harvest jalan --tanpa-vpn     one round, until done or a limit is hit
     .venv/Scripts/python -m pipeline.harvest kemajuan              progress, no network
 
-Order of work in a round: KUP list, KUP details, PPN list, PPN details. KUP is finished first because
-it is what the users need first (owner, 2026-10-04, K-053). A list page or detail that fails
+Order of work in a round: KUP list, KUP details, PPN list, PPN details, then the M7 categories in the
+order of CATEGORIES, each list before its details. KUP is finished first because it is what the users
+need first (owner, 2026-10-04, K-053). A list page or detail that fails
 without a refusal stays in the queue for the next round.
 
 Files (harvest/):
@@ -36,7 +38,18 @@ from .polite import CAP_24H, NOT_FOUND, CapReached, Fetcher, HostStopped, NotFou
 
 BASE = config.DJP_BASE
 LIST = BASE + "/id/peraturan"
-CATEGORIES = {"KUP": "13927", "PPN": "13929"}  # ids as in poc/djp_enum.py
+# Ids as in poc/djp_enum.py and poc/data/djp_kategori_counts.json. M5: KUP and PPN. M7 (2026-10-10):
+# the other lists of the catalogue, smallest first; PPh came from the proof of concept. Fetching a
+# category does not put it on the site: pipeline/build.py only reads config.DJP_CATEGORIES.
+CATEGORIES = {
+    "KUP": "13927",
+    "PPN": "13929",
+    "BPHTB Lainnya": "13931",
+    "BM": "13932",
+    "BPHTB": "14029",
+    "PBB": "13930",
+    "Lainnya": "13933",
+}
 STATE = config.HARVEST / "state.json"
 STOP_SIGNAL = config.HARVEST / "BERHENTI"  # created by a human to end the current round cleanly
 LIST_OUT = config.HARVEST / "djp_list.jsonl"
@@ -105,10 +118,11 @@ def parse_detail(html):
 
 # ---------- state ----------
 def load_state():
-    if STATE.exists():
-        return json.loads(STATE.read_text(encoding="utf8"))
-    return {"categories": {name: {"id": cid, "last_page": None, "pages_done": []} for name, cid in CATEGORIES.items()},
-            "detail_retry": [], "rounds": []}
+    state = json.loads(STATE.read_text(encoding="utf8")) if STATE.exists() else {"categories": {}, "detail_retry": [], "rounds": []}
+    # Categories added after the state file was written (M7) start empty.
+    for name, cid in CATEGORIES.items():
+        state["categories"].setdefault(name, {"id": cid, "last_page": None, "pages_done": []})
+    return state
 
 
 def save_state(state):

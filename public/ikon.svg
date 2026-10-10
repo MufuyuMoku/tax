@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Saku Pajak (K-084): a page of a regulation under a magnifying glass. No state emblem and no
+       DJP or Ministry of Finance logo. Drawn bold so it still reads at 16 and 48 px. -->
+  <rect width="512" height="512" rx="112" fill="#1f4f82"/>
+  <path d="M132 84h168l84 84v256a20 20 0 0 1-20 20H132a20 20 0 0 1-20-20V104a20 20 0 0 1 20-20z" fill="#ffffff"/>
+  <path d="M300 84v64a20 20 0 0 0 20 20h64z" fill="#b9cde4"/>
+  <rect x="156" y="196" width="168" height="26" rx="13" fill="#1f4f82"/>
+  <rect x="156" y="252" width="120" height="26" rx="13" fill="#1f4f82"/>
+  <rect x="156" y="308" width="72" height="26" rx="13" fill="#1f4f82"/>
+  <line x1="392" y1="392" x2="452" y2="452" stroke="#1f4f82" stroke-width="68" stroke-linecap="round"/>
+  <line x1="392" y1="392" x2="448" y2="448" stroke="#f5b83d" stroke-width="40" stroke-linecap="round"/>
+  <circle cx="330" cy="330" r="86" fill="#ffffff" stroke="#1f4f82" stroke-width="20"/>
+  <circle cx="330" cy="330" r="70" fill="#eef4fb" stroke="#f5b83d" stroke-width="28"/>
+</svg>

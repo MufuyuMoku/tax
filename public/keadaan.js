@@ -190,7 +190,10 @@ async function startOfflineStatus(base) {
     const current = navigator.serviceWorker.controller && (await info(navigator.serviceWorker.controller));
     if (!current) return;
     saved.textContent =
-      `Tersimpan di perangkat: data versi ${current.data.version.slice(0, 8)} (${mb(current.bytes)}).` +
+      // Two versions, apart (K-084): the app's semver and the data's date; the code tells two builds
+      // of the same date apart.
+      `Tersimpan di perangkat: aplikasi ${current.app || "?"}, data ${date(current.data.date)} ` +
+      `(kode ${current.data.version.slice(0, 8)}, ${mb(current.bytes)}).` +
       (await persistence());
   }
 
@@ -200,9 +203,9 @@ async function startOfflineStatus(base) {
     if (!next) return;
     const sameData = current && current.data.version === next.data.version;
     $("tawaran-teks").textContent = sameData
-      ? "Versi baru situs sudah diunduh (data sama). Halaman ini tidak berubah sampai Anda memuatnya."
-      : `Data baru sudah diunduh: versi ${next.data.version.slice(0, 8)}, data sumber diambil sampai ` +
-        `${date(next.data.date)}. Halaman ini tidak berubah sampai Anda memuatnya.`;
+      ? `Versi baru aplikasi sudah diunduh (${next.app || "?"}; data sama). Halaman ini tidak berubah sampai Anda memuatnya.`
+      : `Data baru sudah diunduh: data ${date(next.data.date)} (kode ${next.data.version.slice(0, 8)}), ` +
+        `aplikasi ${next.app || "?"}. Halaman ini tidak berubah sampai Anda memuatnya.`;
     $("muat-baru").textContent = sameData ? "Muat versi baru" : "Muat data baru";
     $("muat-baru").onclick = () => {
       switching = true;

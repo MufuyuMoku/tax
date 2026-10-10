@@ -17,6 +17,30 @@ angka nyata, bukan klaim.
 
 ---
 
+## M8 — rilis v1.0.0 "Saku Pajak" (dikerjakan sebelum M7)
+Tanggal: 2026-10-10
+Status: selesai dan terbit; tag `v1.0.0`
+
+**Dibangun (K-084):**
+- Nama tampilan Saku Pajak; alamat dan `/tax/` tetap.
+- Ikon SVG buatan sendiri, dengan favicon.ico, ikon 192/512, maskable, dan apple-touch-icon.
+- Versi aplikasi v1.0.0 dan versi data (tanggal) tampil terpisah di kaki halaman dan penanda data.
+- Halaman "Apa yang baru" dan "Tentang dan batasan", dengan angka dari korpus.
+- `docs/PENYERAHAN.md`.
+
+**Verifikasi:**
+- `npm test` lulus, termasuk tes versi dan kontras.
+- Build: 20.966 halaman luring identik.
+- `scripts/uji-luring.mjs` lulus.
+- 320 px tanpa gulir samping di 9 layar.
+
+## M7 — kategori lain dan pembaruan bertahap (v1.1)
+Tanggal: 2026-10-10
+Status: sebagian. Pengintaian selesai, pengambilan berjalan, dan perintah pembaruan dibuat. Belum
+masuk situs.
+
+**Pengintaian dan rancangan:** K-085.
+
 ## Perbaikan tampilan: petugas dan orang awam (K-083)
 Tanggal: 2026-10-09
 Status: selesai dan terbit
