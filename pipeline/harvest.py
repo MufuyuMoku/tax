@@ -197,12 +197,15 @@ def fetch_detail(fetcher, path):
     append_jsonl(DETAIL_OUT, [detail])
 
 
-def run(fetcher, state, limit=None, pages=None):
-    """One round. `pages` limits list work to these page numbers (used by `intai`)."""
+def run(fetcher, state, limit=None, pages=None, tally=None):
+    """One round. `pages` limits list work to these page numbers (used by `intai`). `tally["n"]`
+    follows the request count, so a round that ends on an exception still records how many it made."""
     done = 0
     retry_lists = []
 
     def budget():
+        if tally is not None:
+            tally["n"] = done
         # A human can end a round between two requests by creating harvest/BERHENTI.
         if STOP_SIGNAL.exists():
             return False
@@ -337,16 +340,17 @@ def main(argv=None):
     started = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
     ending = "selesai"
     count = 0
+    tally = {"n": 0}
     try:
         if args.perintah == "uji":
             allowed = fetcher.allowed(LIST + "?field_kategori_peraturan_target_id=13927&page=0")
             print(f"robots.txt terbaca; katalog peraturan {'boleh' if allowed else 'TIDAK boleh'} diambil.")
             return 0 if allowed else 1
         if args.perintah == "intai":
-            count = run(fetcher, state, pages=lambda last: {0, last})
+            count = run(fetcher, state, pages=lambda last: {0, last}, tally=tally)
             ending = "pengintaian"
         else:
-            count = run(fetcher, state, limit=args.batas)
+            count = run(fetcher, state, limit=args.batas, tally=tally)
             if STOP_SIGNAL.exists():
                 ending = "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan"
     except (CapReached, RoundOver) as error:
@@ -355,6 +359,7 @@ def main(argv=None):
         ending = f"BERHENTI TOTAL: {error}"
     finally:
         fetcher.release()
+        count = max(count, tally["n"])
         if args.perintah != "uji":
             state["rounds"].append({"mulai": started, "selesai": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
                                     "permintaan": count, "akhir": ending})

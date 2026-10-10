@@ -1468,3 +1468,21 @@ Hasilnya ditulis ke berkas sendiri (`harvest/pembaruan_*.jsonl`) dan belum dibac
 bersama v1.1.
 **Belum:** daftar JDIH untuk peraturan yang terbit setelah 21 September belum diperbarui. Status
 JDIH untuk peraturan baru menunggu pengambilan daftar JDIH yang baru.
+
+## K-086 — Rencana v1.1: BPHTB dan PBB masuk korpus dengan keterangan pajak daerah
+Tanggal: 2026-10-10 · Milestone: M7 (v1.1) · Status: rencana pemilik; dikerjakan saat kategori baru masuk build
+
+Sejak UU 28/2009, BPHTB serta PBB perdesaan dan perkotaan menjadi pajak daerah; PBB-P5L
+(perkebunan, perhutanan, pertambangan, migas) tetap urusan pusat. Keputusan pemilik:
+1. **Korpus:** peraturan dari daftar BPHTB dan PBB tetap boleh masuk korpus.
+2. **Kartu dan halaman dokumen** kategori itu memuat keterangan awam: BPHTB dan PBB rumah atau
+   tanah kini diatur pemerintah daerah lewat perda. Peraturan pusat di sini berlaku untuk PBB-P5L
+   atau untuk keadaan sebelum peralihan, jadi status per sumbernya perlu diperiksa. Lewat fungsi
+   pembuat halaman bersama, supaya halaman luring tetap identik (K-082).
+3. **Keterangan pajak daerah di pencarian** (`src/data/search/pajak-daerah.json`): untuk
+   BPHTB/PBB tidak lagi "tidak ada di situs ini", tetapi "pajak daerah; aturan pusat yang tersisa
+   ada di sini, perda tidak". PKB, Samsat, dan pajak hotel/restoran tetap seperti sekarang.
+4. **Laporan:** jumlah dokumen BPHTB/PBB yang berlaku menurut sumber.
+
+**Untuk keputusan cakupan "Lainnya":** isi daftarnya dilaporkan per jenis begitu daftar lengkap,
+yaitu KMK kurs/bunga, bea cukai, dan topik lain di luar pajak DJP.
