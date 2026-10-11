@@ -48,7 +48,15 @@ masuk situs.
 - Putaran 2026-10-10 berhenti rapi dengan `harvest/BERHENTI`. Satu putaran sempat berakhir karena
   7 dari 20 permintaan gagal (putus koneksi sporadis DJP); semua halaman yang gagal sudah diulang.
 
-**Perintah melanjutkan:** `.venv/Scripts/python -m pipeline.harvest jalan --tanpa-vpn`.
+**2026-10-11 (K-088):**
+- Cakupan "Lainnya" diputuskan per peraturan: 163 masuk, 707 tidak, 83 meragukan dan tidak diambil.
+- Status JDIH kategori baru: 162 dari 163 diambil; 1 halaman PBB gagal sementara.
+- Detail DJP: putaran berhenti rapi lewat `harvest/BERHENTI` yang tidak dibuat oleh sesi ini, setelah
+  251 permintaan. Putaran berikutnya tidak dimulai tanpa konfirmasi pemilik. Sisa: Bea Meterai 1,
+  BPHTB 2, PBB 3, Lainnya 159 detail.
+
+**Perintah melanjutkan:** `.venv/Scripts/python -m pipeline.harvest jalan --tanpa-vpn`, lalu
+`.venv/Scripts/python -m pipeline.jdih_harvest jalan --tanpa-vpn`.
 
 **Proyeksi simpanan:** semua kategori 120,6 MB (melewati 100 MB). Usulan pilihan kategori ada di
 K-087, belum dikerjakan.
