@@ -39,7 +39,21 @@ Tanggal: 2026-10-10
 Status: sebagian. Pengintaian selesai, pengambilan berjalan, dan perintah pembaruan dibuat. Belum
 masuk situs.
 
-**Pengintaian dan rancangan:** K-085.
+**Pengintaian dan rancangan:** K-085. **Hasil daftar lengkap dan proyeksi:** K-087.
+
+**Posisi pengambilan:**
+- Semua daftar M7 lengkap: Bea Meterai 13/13, BPHTB 16/16, PBB 48/48, Lainnya 377/377 halaman.
+- Ada 1.223 peraturan baru. Detail Bea Meterai sebagian sudah diambil; sisanya, sekitar 1.190
+  detail ditambah antrean JDIH, menunggu putaran berikutnya.
+- Putaran 2026-10-10 berhenti rapi dengan `harvest/BERHENTI`. Satu putaran sempat berakhir karena
+  7 dari 20 permintaan gagal (putus koneksi sporadis DJP); semua halaman yang gagal sudah diulang.
+
+**Perintah melanjutkan:** `.venv/Scripts/python -m pipeline.harvest jalan --tanpa-vpn`.
+
+**Proyeksi simpanan:** semua kategori 120,6 MB (melewati 100 MB). Usulan pilihan kategori ada di
+K-087, belum dikerjakan.
+
+**Rencana v1.1 dari pemilik:** keterangan pajak daerah untuk BPHTB dan PBB (K-086).
 
 ## Perbaikan tampilan: petugas dan orang awam (K-083)
 Tanggal: 2026-10-09

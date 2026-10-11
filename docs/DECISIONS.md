@@ -1486,3 +1486,54 @@ Sejak UU 28/2009, BPHTB serta PBB perdesaan dan perkotaan menjadi pajak daerah; 
 
 **Untuk keputusan cakupan "Lainnya":** isi daftarnya dilaporkan per jenis begitu daftar lengkap,
 yaitu KMK kurs/bunga, bea cukai, dan topik lain di luar pajak DJP.
+
+## K-087 — M7: hasil daftar lengkap, isi "Lainnya", dan proyeksi simpanan
+Tanggal: 2026-10-10 · Milestone: M7 (v1.1) · Status: angka untuk keputusan pemilik; belum ada perubahan situs
+
+**Daftar lengkap** (2026-10-10, `scripts/rincian-m7.mjs`):
+
+| Kategori | Baris | Unik | Sudah di korpus | KMK kurs/bunga | Baru |
+|---|---|---|---|---|---|
+| Bea Meterai | 64 | 64 | 12 | 5 | 47 |
+| BPHTB | 80 | 80 | 19 | 1 | 60 |
+| PBB | 236 | 236 | 59 | 6 | 171 |
+| Lainnya | 1.883 | 1.864 | 106 | 804 | 954 |
+
+Angka "baru" dihitung per kategori; setelah irisan antarkategori, `scripts/proyeksi-simpanan.mjs`
+menghitung 1.223 peraturan baru.
+
+**BPHTB dan PBB (K-086):** 299 peraturan unik, 167 berstatus "Aktif" menurut DJP (BPHTB 39 dari 80,
+PBB 139 dari 236). Status JDIH menyusul.
+
+**Isi "Lainnya"**, 954 peraturan di luar korpus dan di luar KMK kurs/bunga, menurut kata di judul:
+- bea masuk, bea keluar, cukai, kepabeanan: 426;
+- organisasi DJP dan Kemenkeu, kepegawaian, tempat terdaftar wajib pajak di KPP: 139;
+- KUP, tata cara, administrasi pajak: 48;
+- PNBP: 41;
+- persetujuan penghindaran pajak berganda (P3B): 24;
+- pajak daerah dan retribusi: 12;
+- PBB/BPHTB: 7;
+- PPN/PPh: 4;
+- anggaran dan perbendaharaan: 3;
+- lain-lain: 250 (antara lain Permendag ekspor-impor, pelayanan publik, KEK, pencucian uang, mata
+  uang, hari libur).
+
+Menurut jenisnya, 512 KMK dan 208 PMK.
+
+**Proyeksi simpanan di perangkat:**
+- **Model:** 2,66 byte per karakter teks + 2,76 KB per dokumen + 1,9 MB tetap, cocok dengan build
+  sekarang (82,6 MB).
+- **Teks dokumen baru:** dari detail yang sudah diambil bila ada (Bea Meterai: 92% berteks,
+  rata-rata 12.923 karakter); sisanya memakai rata-rata korpus (61% berteks, 17.249 karakter).
+- **Hasil:**
+  - semua kategori: **120,6 MB**, melewati 100 MB;
+  - PPh, KUP, PPN, ditambah Bea Meterai, BPHTB, dan PBB: sekitar 91 MB;
+  - "Lainnya" sendiri sekitar 29 MB.
+
+**Usulan (belum dikerjakan; keputusan pemilik):**
+1. **Cakupan "Lainnya" dipersempit** ke topik pajak DJP: KUP/tata cara, P3B, PBB/BPHTB, PPN/PPh, dan
+   bila perlu penetapan tempat terdaftar wajib pajak. Itu sekitar 80–220 peraturan, +3–7 MB.
+   Bea masuk, cukai, kepabeanan, Permendag, dan PNBP bukan peraturan pajak DJP.
+2. **Bila "Lainnya" dimuat utuh:** data pencarian dan data halaman dipecah per kategori. Perangkat
+   menyimpan kategori inti secara bawaan (sekitar 91 MB), dan "Lainnya" hanya bila pengguna
+   memilih "Simpan juga untuk luring". Saat daring, semuanya tetap bisa dicari.
