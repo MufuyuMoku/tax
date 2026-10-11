@@ -126,10 +126,14 @@ def queues():
     from .harvest import CATEGORIES
     out = {"KUP": [], "PPN": [], "PPh": [], **{name: [] for name in CATEGORIES if name not in ("KUP", "PPN")}}
     out_of_scope = re.compile(config.OUT_OF_SCOPE_TITLE, re.I)
+    from .harvest import lainnya_in_scope
+    lainnya = lainnya_in_scope()
     for row in read_jsonl(DJP_LIST):
         name = row["_kategori_daftar"]
         if out_of_scope.search(row.get("judul") or ""):
             continue  # weekly exchange-rate and interest-rate decrees (SPEC section 3)
+        if name == "Lainnya" and row.get("path") not in lainnya:
+            continue  # outside the owner's scope for "Lainnya", or undecided (K-088)
         key = parse(row.get("jenis"), row.get("nomor"), row.get("judul"))
         hit = by_key.get(key) if key else None
         if hit and hit["slug"] not in out[name]:

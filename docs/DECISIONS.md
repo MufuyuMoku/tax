@@ -1537,3 +1537,44 @@ Menurut jenisnya, 512 KMK dan 208 PMK.
 2. **Bila "Lainnya" dimuat utuh:** data pencarian dan data halaman dipecah per kategori. Perangkat
    menyimpan kategori inti secara bawaan (sekitar 91 MB), dan "Lainnya" hanya bila pengguna
    memilih "Simpan juga untuk luring". Saat daring, semuanya tetap bisa dicari.
+
+## K-088 — Cakupan "Lainnya": hanya topik pajak DJP, diputuskan per peraturan
+Tanggal: 2026-10-11 · Milestone: M7 (v1.1) · Status: berlaku (keputusan pemilik atas usulan 1 K-087)
+
+**Keputusan pemilik:**
+- **Masuk:** KUP dan tata cara/administrasi pajak, P3B, PBB/BPHTB, PPN/PPh, penetapan tempat terdaftar
+  wajib pajak, serta pajak daerah dan retribusi (dengan keterangan pajak daerah seperti K-086).
+- **Tidak masuk:** bea masuk/keluar, cukai, kepabeanan; Permendag; PNBP; anggaran dan perbendaharaan;
+  organisasi dan kepegawaian lainnya; lain-lain yang bukan pajak DJP.
+
+**Bentuknya:** `src/data/cakupan-lainnya.json`, satu baris per peraturan "Lainnya" yang belum ada di
+korpus, tidak ada di daftar kategori lain, dan bukan KMK kurs/bunga. Isinya nomor, jenis, judul,
+`masuk` (true/false/null), kelompok, alasan, dan siapa yang memutuskan. Cara memindahkan ada di
+`src/data/README-cakupan.md`, dan `tests/data/cakupan.test.mjs` memeriksa bentuknya.
+
+**Usulan awal** dari kata di judul (`scripts/cakupan-lainnya.mjs`). Aturan judul hanya usulan; baris
+yang diputuskan pemilik tidak pernah ditimpa. Dua penyempurnaan setelah membaca contoh:
+- Judul yang hanya memuat kata "pajak" tanpa topik jelas tidak ditebak. Sebelumnya 155 dari 190
+  "KUP" masuk hanya karena kata itu: ada tim lomba, seleksi kantor percontohan, dan pajak ekspor.
+- Judul yang di sumber ditulis tanpa spasi tidak bisa dibaca aturan judul.
+
+Judul yang memuat kelompok masuk sekaligus kelompok tidak masuk juga tidak ditebak.
+
+**Hasil (953 peraturan):**
+- **Masuk 163:** KUP dan administrasi pajak 122, P3B 24, pajak daerah dan retribusi 9, tempat
+  terdaftar wajib pajak 6, PPN/PPh 2.
+- **Tidak masuk 707:** bea cukai 424, lain-lain bukan pajak DJP 138, organisasi dan kepegawaian 90,
+  PNBP 41, anggaran dan perbendaharaan 7, Permendag 7.
+- **Meragukan 83**, daftarnya di `docs/LAINNYA-MERAGUKAN.md`:
+  - hanya menyebut "pajak": 25;
+  - pajak ekspor: 22;
+  - campuran kelompok: 23;
+  - diterbitkan Dirjen Pajak tanpa topik jelas: 8;
+  - judul tanpa spasi: 5.
+
+**Antrean:** detail DJP dan status JDIH untuk "Lainnya" hanya untuk yang `masuk: true`. Yang
+meragukan menunggu keputusan. Penghematan: 790 detail DJP (707 tidak masuk dan 83 meragukan) dan 420
+halaman JDIH (dari 441 menjadi 21).
+
+**Halaman "Tentang dan batasan"** menyebut kelompok yang tidak dimuat beserta jumlahnya, dihitung dari
+berkas cakupan saat build. Terbit sebagai v1.0.1.

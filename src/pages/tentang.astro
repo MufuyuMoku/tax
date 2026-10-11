@@ -1,6 +1,8 @@
 ---
 // "Tentang dan batasan" (K-084): what the site covers and what it does not, in plain words. Every
 // number is computed from the corpus at build time, so it stays true when the data changes.
+import fs from "node:fs";
+import path from "node:path";
 import Base from "../layouts/Base.astro";
 import { APP_NAME } from "../lib/brand.js";
 import { CATEGORIES, formatDate } from "../lib/labels.js";
@@ -28,6 +30,12 @@ const inSeveral = index.filter((e) => e.categories.length > 1).length;
 const attachments = meta.attachment_match_counts;
 // Relations: the manual check of 20 relations read from the text (SPEC, poc/LAPORAN.md).
 const RELATION_SAMPLE = { checked: 20, right: 16, partial: 2, unsure: 2 };
+// What of the DJP list "Lainnya" stays out (owner, K-088), counted from the editable scope file.
+const scope = JSON.parse(fs.readFileSync(path.join(process.cwd(), "src", "data", "cakupan-lainnya.json"), "utf8")).peraturan;
+const excluded = Object.entries(
+  scope.filter((e) => e.masuk === false).reduce((m, e) => ((m[e.kelompok] = (m[e.kelompok] || 0) + 1), m), {})
+).sort((a, b) => b[1] - a[1]);
+const undecided = scope.filter((e) => e.masuk === null).length;
 ---
 
 <Base title={`Tentang dan batasan — ${APP_NAME}`} description={`Cakupan dan batasan ${APP_NAME}`}>
@@ -98,6 +106,11 @@ const RELATION_SAMPLE = { checked: 20, right: 16, partial: 2, unsure: 2 };
     <li>Surat Edaran, Nota Dinas, penegasan, dan putusan pengadilan. Dokumen seperti itu bisa Anda simpan sendiri di <a href={`${base}koleksi/`}>Koleksi pribadi</a>; tetap hanya di perangkat Anda.</li>
     <li>Pajak daerah (misalnya PBB-P2, BPHTB, pajak kendaraan): diatur peraturan daerah, bukan di sini.</li>
     <li>Kategori katalog DJP yang belum masuk: PBB, BPHTB, Bea Meterai, dan “Lainnya”. Sedang disiapkan untuk versi berikutnya.</li>
+    <li>
+      Dari daftar “Lainnya” katalog DJP, hanya yang tentang pajak DJP yang akan dimuat. Yang tidak dimuat:
+      {excluded.map(([group, count], i) => <>{i > 0 && "; "}{group} ({n(count)})</>)}.
+      {undecided > 0 && ` ${n(undecided)} lainnya masih ditimbang.`}
+    </li>
     <li>Keputusan Menteri Keuangan tentang kurs mingguan dan tarif bunga bulanan.</li>
     <li>Peraturan yang terbit setelah tanggal data di atas, sampai data diperbarui.</li>
   </ul>

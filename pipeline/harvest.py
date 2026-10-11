@@ -176,9 +176,23 @@ def list_complete(state, name):
     return category["last_page"] is not None and len(category["pages_done"]) == category["last_page"] + 1
 
 
+SCOPE_LAINNYA = config.ROOT / "src" / "data" / "cakupan-lainnya.json"
+
+
+def lainnya_in_scope():
+    """Paths of "Lainnya" that enter the corpus (owner, 2026-10-11, K-088): only masuk true. Excluded
+    and undecided ones are not fetched. The file is edited by people; scripts/cakupan-lainnya.mjs
+    writes its first proposal."""
+    if not SCOPE_LAINNYA.exists():
+        return set()
+    data = json.loads(SCOPE_LAINNYA.read_text(encoding="utf8"))
+    return {entry["path"] for entry in data["peraturan"] if entry.get("masuk") is True}
+
+
 def detail_queue(name):
     """Paths in this category's list that still need their detail page."""
     have = pph_paths() | {d["path"] for d in read_jsonl(DETAIL_OUT) if d.get("error") in (None, NOT_FOUND)}
+    wanted = lainnya_in_scope() if name == "Lainnya" else None
     queue = []
     for row in read_jsonl(LIST_OUT):
         path = row.get("path")
@@ -186,6 +200,8 @@ def detail_queue(name):
             continue
         if OUT_OF_SCOPE.search(row.get("judul") or ""):
             continue  # weekly exchange-rate and interest-rate decrees: counted, not fetched (SPEC section 3)
+        if wanted is not None and path not in wanted:
+            continue  # "Lainnya" outside the owner's scope, or not decided yet (K-088)
         queue.append(path)
     return queue
 
