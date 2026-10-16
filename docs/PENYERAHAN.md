@@ -62,6 +62,9 @@ Aturan pengambilan:
 Catatan: hasil `pipeline.pembaruan` belum dibaca oleh `pipeline.build`. Hasil itu masuk situs
 bersama kategori lain di v1.1 (M7).
 
+Sejak v1.2.0, data diperbarui otomatis oleh GitHub Actions. Panduannya ada di
+[docs/PEMBARUAN.md](PEMBARUAN.md).
+
 ## Batasan utama
 
 - Tidak memuat Surat Edaran, Nota Dinas, penegasan, putusan, pajak daerah, atau KMK kurs dan bunga.

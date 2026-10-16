@@ -17,6 +17,34 @@ angka nyata, bukan klaim.
 
 ---
 
+## M9 — pembaruan otomatis (v1.2.0)
+Tanggal: 2026-10-16
+Status: selesai dan terbit; tag `v1.2.0`. Jadwal harian aktif mulai 02.00 WIB.
+
+**Tempat (K-090):** GitHub Actions. Dari server GitHub, DJP dan JDIH menjawab robots.txt dan halaman
+daftar sungguhan: DJP 5 baris daftar, JDIH `pageCount` ada.
+
+**Alur (K-091):**
+- Setiap hari diambil peraturan yang baru dan berubah (DJP dan JDIH).
+- Setiap Minggu dilakukan pemeriksaan dan terbit, hanya bila data berubah dan semua gerbang lulus.
+- Masalah yang butuh manusia membuka issue.
+- Tanda hidup mingguan dicatat di `src/data/pemeriksaan.json`.
+
+**Sisi pengguna:**
+- penanda "terakhir diperiksa" dan "terakhir berubah";
+- halaman "Peraturan baru dan yang berubah";
+- data baru terpasang sendiri saat aplikasi dibuka lagi.
+
+**Verifikasi:** uji ujung ke ujung di Actions.
+- Jalur berhasil: uji luring 18 dari 18 dan sisi HP 6 dari 6.
+- Jalur gagal: terbit ditahan, issue dibuka, dan masalah berulang hanya menambah komentar.
+- `npm test` 71 lulus; tes Python lulus.
+
+**Ukuran unduhan per pembaruan kecil:** 9,2 MB lewat jaringan. Usulan memperkecil ke sekitar
+1,5–2 MB ada di K-092, belum dikerjakan.
+
+**Panduan pemilik:** `docs/PEMBARUAN.md`.
+
 ## M7 — v1.1.0: kategori lain masuk
 Tanggal: 2026-10-16
 Status: selesai dan terbit; tag `v1.1.0`

@@ -1721,3 +1721,48 @@ di-commit walau tidak ada perubahan. Ini mencegah jadwal dimatikan GitHub setela
   menolak menulis ke `harvest/` sungguhan di luar Actions.
 - `scripts/uji-pembaruan-hp.mjs` menguji sisi HP.
 - `tests/otomatis/uji-gagal.test.mjs` gagal hanya bila `TAX_UJI_GAGAL=1`, untuk jalur gagal.
+
+**Hasil uji ujung ke ujung (2026-10-16):**
+- **Jalur berhasil** (run 38839873460; data tiruan: 1 peraturan baru, 1 status DJP Aktif → Dicabut):
+  - perubahan terdeteksi (baru 1, status berubah 1);
+  - tidak ada penurunan peringkat;
+  - `npm test` lulus, build lulus (halaman identik), uji luring 18 dari 18;
+  - uji sisi HP 6 dari 6: tawaran muncul tanpa halaman berganti; dibuka lagi dari keadaan tertutup,
+    versi baru terpasang sendiri; luring, halaman "Peraturan baru" memuat peraturan baru dan
+    "DJP: Aktif → Dicabut", dan halaman peraturan barunya terbuka.
+- **Percobaan pertama jalur berhasil sempat ditahan** (issue #1). Uji luring menghitung
+  `pemeriksaan.json` sebagai unduhan service worker, padahal berkas itu sengaja dibaca halaman.
+  Ujinya diperbaiki, dan issue ditutup.
+- **Jalur gagal** (run 38861476789 dan 38862050466): tes gagal-disengaja menahan terbit; tidak ada
+  commit, push, atau deploy; issue #2 dibuka. Percobaan kedua menambah komentar, bukan issue baru, dan
+  laporan kini menyebut nama tes yang gagal. Issue #2 ditutup sebagai uji.
+
+## K-092 — Usulan: unduhan pembaruan kecil diperkecil dari 9,2 MB
+Tanggal: 2026-10-16 · Milestone: M9 · Status: usulan, belum dikerjakan (menunggu persetujuan pemilik)
+
+**Diukur** pada uji ujung ke ujung (1 peraturan baru, 1 status berubah). HP mengunduh 46,0 MB
+mentah, **9,2 MB lewat jaringan (gzip)**:
+
+| Berkas | Gzip |
+|---|---|
+| `cari/data.json` | 8,33 MB |
+| `index.html` | 0,31 MB |
+| `semua/index.html` | 0,31 MB |
+| dua berkas data halaman | 0,22 MB |
+| sisanya | kurang dari 0,05 MB |
+
+`cari/data.json` berubah seluruhnya walau hanya satu peraturan yang berubah. Isinya (gzip):
+teks pasal 4,47 MB, nomor token indeks 3,29 MB, daftar dokumen 0,30 MB, daftar pasal 0,15 MB,
+kosakata 0,09 MB.
+
+**Usulan:** pecah teks dan indeks pencarian ke 64 berkas menurut dokumen, dengan pembagian yang sama
+seperti data halaman luring (K-082). Kosakata dibuat hanya-tambah: kata baru diberi nomor di ujung,
+nomor lama tidak pernah bergeser, sehingga berkas yang dokumennya tidak berubah tetap sama byte demi
+byte. Satu pembaruan kecil kira-kira menjadi:
+- daftar dokumen, daftar pasal, dan kosakata: sekitar 0,55 MB;
+- satu sampai dua pecahan teks dan indeks: sekitar 0,1–0,2 MB;
+- dua halaman daftar: 0,62 MB;
+- data halaman luring: sekitar 0,2 MB.
+
+Totalnya **sekitar 1,5–2 MB**. Mesin pencari tetap memuat semua pecahan saat mulai, jadi hasilnya
+tetap harus lulus tes kesetaraan (K-069). Waktu siap di HP perlu diukur ulang.
