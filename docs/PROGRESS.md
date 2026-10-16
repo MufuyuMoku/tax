@@ -17,6 +17,24 @@ angka nyata, bukan klaim.
 
 ---
 
+## M7 — v1.1.0: kategori lain masuk
+Tanggal: 2026-10-16
+Status: selesai dan terbit; tag `v1.1.0`
+
+**Isi:**
+- Bea Meterai 59, BPHTB 78, PBB 227, dan "Lainnya" 194 masuk korpus (K-088, K-089). Korpus 3.065
+  dokumen, 1.786 berteks.
+- Keterangan pajak daerah ada di 225 dokumen.
+
+**Verifikasi:**
+- `npm test` 70 lulus, termasuk kesetaraan hasil dan gerbang set evaluasi (median 6 dari 50
+  pertanyaan; empat penurunan disetujui pemilik).
+- 23.676 halaman luring identik.
+- Uji luring 18 dari 18.
+- Simpanan di perangkat 91,3 MB.
+
+**Belum:** halaman JDIH PER-4/PJ/2025 tidak memuat data dokumen; pembaruan otomatis (M9).
+
 ## M8 — rilis v1.0.0 "Saku Pajak" (dikerjakan sebelum M7)
 Tanggal: 2026-10-10
 Status: selesai dan terbit; tag `v1.0.0`

@@ -1580,7 +1580,7 @@ halaman JDIH (dari 441 menjadi 21).
 berkas cakupan saat build. Terbit sebagai v1.0.1.
 
 ## K-089 — v1.1: Bea Meterai, BPHTB, PBB, dan "Lainnya" dalam cakupan masuk korpus
-Tanggal: 2026-10-16 · Milestone: M7 · Status: siap terbit, menunggu persetujuan penurunan peringkat
+Tanggal: 2026-10-16 · Milestone: M7 · Status: berlaku; terbit sebagai v1.1.0. Keempat penurunan dan keputusan keterangan lintas kategori disetujui pemilik (2026-10-16).
 
 **Keputusan pemilik atas 83 peraturan meragukan (K-088):**
 - tidak masuk: 25 yang hanya menyebut "pajak" (internal), 22 pajak ekspor;

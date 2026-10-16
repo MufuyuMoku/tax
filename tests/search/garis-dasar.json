@@ -59,11 +59,11 @@
     "semua": 6
   },
   "penurunan_disetujui": {
-    "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068), lalu akibat PPN masuk korpus (K-075). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal.",
+    "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068), lalu akibat PPN masuk korpus (K-075). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal. 2026-10-16: akibat kategori baru v1.1 (K-089).",
     "honor-pembicara": {
       "garis_dasar": 10,
-      "paling_buruk": 24,
-      "penjelasan": "PER-DJP 26/2020 (KUP: permohonan pegawai DJP menjadi pembicara) dan dokumen KUP lain cocok kata per kata dengan 'pembicara'; kata itu juga kehilangan kelangkaannya."
+      "paling_buruk": 26,
+      "penjelasan": "PER-DJP 26/2020 (KUP: permohonan pegawai DJP menjadi pembicara) dan dokumen KUP lain cocok kata per kata dengan 'pembicara'; kata itu juga kehilangan kelangkaannya. v1.1 (2026-10-16, K-089, disetujui pemilik): tidak ada dokumen baru di atas jawaban; kelangkaan kata berubah karena 451 dokumen baru (sampai 26)."
     },
     "zakat": {
       "garis_dasar": 13,
@@ -87,8 +87,8 @@
     },
     "pengungkapan-ketidakbenaran": {
       "garis_dasar": 32,
-      "paling_buruk": 33,
-      "penjelasan": "Teks JDIH PPh yang sebelumnya kosong kini tercari (2026-10-09, K-068)."
+      "paling_buruk": 37,
+      "penjelasan": "Teks JDIH PPh yang sebelumnya kosong kini tercari (2026-10-09, K-068). v1.1 (2026-10-16, K-089, disetujui pemilik): UU Pengadilan Pajak, UU BPSP, Standar Pemeriksaan, dan PMK Penilai Publik dari 'Lainnya' ikut bersaing (sampai 37)."
     },
     "restitusi": {
       "garis_dasar": 82,
@@ -102,8 +102,13 @@
     },
     "makan-siang-kantor": {
       "garis_dasar": 90,
-      "paling_buruk": 146,
-      "penjelasan": "PPN (2026-10-09, K-075): 62 dokumen PPN-saja tentang makanan, minuman, dan jasa boga (mis. PMK 70/2022) ikut bersaing."
+      "paling_buruk": 151,
+      "penjelasan": "PPN (2026-10-09, K-075): 62 dokumen PPN-saja tentang makanan, minuman, dan jasa boga (mis. PMK 70/2022) ikut bersaing. v1.1 (2026-10-16, K-089, disetujui pemilik): 8 dokumen kategori baru (Bea Meterai, BPHTB, PBB, Lainnya) naik di atas jawaban (sampai 151)."
+    },
+    "kontraktor": {
+      "garis_dasar": 145,
+      "paling_buruk": 180,
+      "penjelasan": "v1.1 (2026-10-16, K-089, disetujui pemilik): 66 dokumen kategori baru, terutama PBB/BPHTB yang memuat kata 'bangunan'."
     }
   },
   "toleransi": {
