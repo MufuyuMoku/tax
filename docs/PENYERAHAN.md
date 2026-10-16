@@ -2,6 +2,9 @@
 
 Tanggal: 2026-10-10 · Versi aplikasi: v1.0.0 (tag git `v1.0.0`) · Versi data: 9 Okt 2026
 
+Diperbarui 2026-10-16 untuk v1.2.0 (tag `v1.2.0`): kategori lain masuk di v1.1 dan pembaruan
+otomatis di v1.2. Versi dan catatan per versi ada di halaman "Apa yang baru".
+
 ## Alamat
 
 **https://mufuyumoku.github.io/tax/**
@@ -14,7 +17,8 @@ Direktorat Jenderal Pajak.
 
 ## Apa isinya
 
-- Peraturan PPh, KUP, dan PPN dari katalog DJP dan JDIH Kemenkeu: 2.614 peraturan, 1.602 berteks.
+- Peraturan PPh, KUP, PPN, Bea Meterai, PBB, BPHTB, dan bagian "Lainnya" yang tentang pajak, dari katalog DJP
+  dan JDIH Kemenkeu: 3.065 peraturan, 1.786 berteks (data 16 Okt 2026).
 - Pencarian sampai ke pasal, berjalan di perangkat.
 - Status menurut tiap sumber.
 - Koleksi pribadi yang hanya ada di perangkat.
@@ -59,20 +63,18 @@ Aturan pengambilan:
   penghentiannya.
 - Jangan pernah lewat VPN atau proxy.
 
-Catatan: hasil `pipeline.pembaruan` belum dibaca oleh `pipeline.build`. Hasil itu masuk situs
-bersama kategori lain di v1.1 (M7).
-
 Sejak v1.2.0, data diperbarui otomatis oleh GitHub Actions. Panduannya ada di
 [docs/PEMBARUAN.md](PEMBARUAN.md).
 
 ## Batasan utama
 
 - Tidak memuat Surat Edaran, Nota Dinas, penegasan, putusan, pajak daerah, atau KMK kurs dan bunga.
-- Kategori DJP PBB, BPHTB, Bea Meterai, dan "Lainnya" belum masuk; disiapkan untuk v1.1.
-- Situs tidak menentukan status peraturan. Untuk 19% peraturan, sumber resmi berbeda pendapat.
+- Sejak v1.1, Bea Meterai, PBB, BPHTB, dan bagian "Lainnya" yang tentang pajak ikut dimuat. PBB rumah
+  dan tanah serta BPHTB kini pajak daerah; yang ada di sini hanya aturan pusatnya.
+- Situs tidak menentukan status peraturan. Untuk 18% peraturan (data 16 Okt 2026), sumber resmi berbeda pendapat.
 - Relasi antarperaturan dibaca otomatis: 16 dari 20 contoh benar. Karena itu setiap relasi selalu
   disertai kutipannya.
-- Sekitar 39% peraturan tanpa teks, karena sumbernya hanya memuat data ringkas.
+- Sekitar 42% peraturan tanpa teks, karena sumbernya hanya memuat data ringkas.
 
 ## Kontak pembuat
 
