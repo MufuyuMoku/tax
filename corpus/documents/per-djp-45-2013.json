@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-45-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "45",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-45-2013--b000-1",
+  "per-djp-45-2013--b001-2",
+  "per-djp-45-2013--b002-3",
+  "per-djp-45-2013--b003-4",
+  "per-djp-45-2013--b004-5",
+  "per-djp-45-2013--b005-6",
+  "per-djp-45-2013--b006-7",
+  "per-djp-45-2013--b007-8",
+  "per-djp-45-2013--b008-9",
+  "per-djp-45-2013--b009-10",
+  "per-djp-45-2013--b010-11",
+  "per-djp-45-2013--b011-12",
+  "per-djp-45-2013--b012-13",
+  "per-djp-45-2013--b013-14",
+  "per-djp-45-2013--b014-15",
+  "per-djp-45-2013--b015-16",
+  "per-djp-45-2013--b016-17",
+  "per-djp-45-2013--b017-18"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2020",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2020",
+    "quote": "Pasal 1 a. Peraturan Direktur Jenderal Pajak Nomor PER-45/PJ/2013 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "11",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2012",
+    "quote": "Pasal 17 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2012 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-11-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-12-20",
+   "detail_error": null,
+   "number_as_written": "PER-45/PJ/2013",
+   "retrieved_at": "2026-10-11T02:10:27+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=13",
+   "retrieved_at": "2026-10-10T01:09:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26381,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:10:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-0"
+ },
+ "title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI"
+}

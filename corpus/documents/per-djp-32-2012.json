@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   }
  ],
  "category": "substantif",
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-32-2012--b000-1",
   "per-djp-32-2012--b001-2",
@@ -37,7 +42,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-47-2015",
+    "key": [
+     "PER-DJP",
+     "47",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-47/PJ/2015",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2012 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINERAL DAN BATUBARA"
+   }
+  ],
   "revokes": [
    {
     "key": [

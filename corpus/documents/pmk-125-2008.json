@@ -1,0 +1,213 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-125-2008",
+ "identity": {
+  "code": "PMK",
+  "number": "125",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-125-2008--b000-1",
+  "pmk-125-2008--b001-2",
+  "pmk-125-2008--b002-3",
+  "pmk-125-2008--b003-4",
+  "pmk-125-2008--b004-5",
+  "pmk-125-2008--b005-6",
+  "pmk-125-2008--b006-7",
+  "pmk-125-2008--b007-8",
+  "pmk-125-2008--b008-9",
+  "pmk-125-2008--b009-10",
+  "pmk-125-2008--b010-11",
+  "pmk-125-2008--b011-12",
+  "pmk-125-2008--b012-13",
+  "pmk-125-2008--b013-14",
+  "pmk-125-2008--b014-15",
+  "pmk-125-2008--b015-16",
+  "pmk-125-2008--b016-17",
+  "pmk-125-2008--b017-18",
+  "pmk-125-2008--b018-19",
+  "pmk-125-2008--b019-20",
+  "pmk-125-2008--b020-21",
+  "pmk-125-2008--b021-22",
+  "pmk-125-2008--b022-23",
+  "pmk-125-2008--b023-24",
+  "pmk-125-2008--b024-25",
+  "pmk-125-2008--b025-26",
+  "pmk-125-2008--b026-27",
+  "pmk-125-2008--b027-28",
+  "pmk-125-2008--b028-29",
+  "pmk-125-2008--b029-30",
+  "pmk-125-2008--b030-31",
+  "pmk-125-2008--b031-32",
+  "pmk-125-2008--b032-33",
+  "pmk-125-2008--b033-34",
+  "pmk-125-2008--b034-35",
+  "pmk-125-2008--b035-36",
+  "pmk-125-2008--b036-37",
+  "pmk-125-2008--b037-38",
+  "pmk-125-2008--b038-39",
+  "pmk-125-2008--b039-40",
+  "pmk-125-2008--b040-41",
+  "pmk-125-2008--b041-42",
+  "pmk-125-2008--b042-43",
+  "pmk-125-2008--b043-44",
+  "pmk-125-2008--b044-45",
+  "pmk-125-2008--b045-46",
+  "pmk-125-2008--b046-47",
+  "pmk-125-2008--b047-48",
+  "pmk-125-2008--b048-49",
+  "pmk-125-2008--b049-50",
+  "pmk-125-2008--b050-51",
+  "pmk-125-2008--b051-52",
+  "pmk-125-2008--b052-53",
+  "pmk-125-2008--b053-54",
+  "pmk-125-2008--b054-55",
+  "pmk-125-2008--b055-56",
+  "pmk-125-2008--b056-57",
+  "pmk-125-2008--b057-58",
+  "pmk-125-2008--b058-59",
+  "pmk-125-2008--b059-60",
+  "pmk-125-2008--b060-61",
+  "pmk-125-2008--b061-62",
+  "pmk-125-2008--b062-63",
+  "pmk-125-2008--b063-64",
+  "pmk-125-2008--b064-65",
+  "pmk-125-2008--b065-66",
+  "pmk-125-2008--b066-67",
+  "pmk-125-2008--b067-68",
+  "pmk-125-2008--b068-69",
+  "pmk-125-2008--b069-70",
+  "pmk-125-2008--b070-71",
+  "pmk-125-2008--b071-72",
+  "pmk-125-2008--b072-73",
+  "pmk-125-2008--b073-74",
+  "pmk-125-2008--b074-75"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "57/KMK.017",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 57/KMK.017/1996",
+    "quote": "Pasal 74 Pada saat mulai berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 57/KMK.017/1996 tentang Jasa Penilai sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 106/PMK.01/2006 dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-57-kmk-017-1996"
+   },
+   {
+    "key": [
+     "PMK",
+     "106",
+     "2006",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 106/PMK.01/2006",
+    "quote": "Pasal 74 Pada saat mulai berlakunya Peraturan Menteri Keuangan ini, Keputusan Menteri Keuangan Nomor 57/KMK.017/1996 tentang Jasa Penilai sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 106/PMK.01/2006 dicabut dan dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-106-2006"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 106/PMK.01/2006 — Perubahan atas Keputusan Menteri Keuangan Nomor 57/KMK.01/1996 tentang Jasa Penilai. -- Jakarta, 2006",
+    "url": "https://jdih.kemenkeu.go.id/dok/106-pmk-01-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 57/KMK.017/1996 — Jasa Penilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/57-kmk-017-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 101/PMK.01/2014 — Penilai Publik.",
+    "url": "https://jdih.kemenkeu.go.id/dok/101-pmk-01-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-09-03",
+   "detail_error": null,
+   "number_as_written": "125/PMK.01/2008",
+   "retrieved_at": "2026-10-11T01:39:22+00:00",
+   "source": "DJP",
+   "title_as_written": "JASA PENILAI PUBLIK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/jasa-penilai-publik-0"
+  },
+  {
+   "date_as_written": "2008-09-03 00:00:00",
+   "number_as_written": "125/PMK.01/2008",
+   "page_retrieved_at": "2026-10-11T01:40:05+00:00",
+   "retrieved_at": "2026-09-21T14:42:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Jasa Penilai Publik.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/125-pmk-01-2008",
+   "validity_as_written": "03 Sep 2008 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=4",
+   "retrieved_at": "2026-10-10T01:01:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/jasa-penilai-publik-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=407",
+   "retrieved_at": "2026-09-21T14:42:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/125-pmk-01-2008",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 90506,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:39:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/jasa-penilai-publik-0"
+ },
+ "title": "JASA PENILAI PUBLIK"
+}

@@ -1,0 +1,110 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER 4.PJ_.2025.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran%20PER%204.PJ_.2025.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-4-2025",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "4",
+  "variant": null,
+  "year": "2025"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-4-2025--b000-i",
+  "per-djp-4-2025--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "25",
+     "2020",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-25/PJ/2020",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-25/PJ/2020 tentang Bentuk dan Isi Surat Pemberitahuan Pajak Terutang, Nota Penghitungan, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Keputusan Kelebihan Pembayaran Pajak Bumi dan Bangunan, Surat Pemberitahuan, serta Surat Tagihan Pajak Pajak Bumi dan Bangunan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-25-2020"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2025-04-29",
+   "detail_error": null,
+   "number_as_written": "PER-4/PJ/2025",
+   "retrieved_at": "2026-10-11T01:58:01+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-25/PJ/2020 TENTANG BENTUK DAN ISI SURAT PEMBERITAHUAN PAJAK TERUTANG, NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT KEPUTUSAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN, SURAT PEMBERITAHUAN, SERTA SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-25pj2020-tentang-bentuk-dan-isi"
+  },
+  {
+   "date_as_written": "2025-04-29 12:00:00",
+   "number_as_written": "PER-4/PJ/2025",
+   "retrieved_at": "2026-09-21T14:55:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Atas Peraturan Direktur Jenderal Pajak Nomor PER-25/PJ/2020 Tentang Bentuk Dan Isi Surat Pemberitahuan Pajak Terutang, Nota Penghitungan, Surat Ketetapan Pajak Pajak Bumi Dan Bangunan, Surat Keputusan Kelebihan Pembayaran Pajak Bumi Dan Bangunan, Surat Pemberitahuan, Serta Surat Tagihan Pajak Pajak Bumi Dan Bangunan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-4pj2025"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=0",
+   "retrieved_at": "2026-10-10T00:41:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-25pj2020-tentang-bentuk-dan-isi",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=5",
+   "retrieved_at": "2026-09-21T14:55:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-4pj2025",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9321,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:58:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-25pj2020-tentang-bentuk-dan-isi"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-25/PJ/2020 TENTANG BENTUK DAN ISI SURAT PEMBERITAHUAN PAJAK TERUTANG, NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT KEPUTUSAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN, SURAT PEMBERITAHUAN, SERTA SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN"
+}

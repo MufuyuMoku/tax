@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-269-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "269",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-04-02",
+   "detail_error": null,
+   "number_as_written": "KEP - 269/PJ/2001",
+   "retrieved_at": "2026-10-11T01:44:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN DAN BENTUK SERTA FUNGSI SURAT SETORAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN (SSB)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan-dan-bentuk-1"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=8",
+   "retrieved_at": "2026-10-10T01:02:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan-dan-bentuk-1",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PETUNJUK PELAKSANAAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN DAN BENTUK SERTA FUNGSI SURAT SETORAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN (SSB)"
+}

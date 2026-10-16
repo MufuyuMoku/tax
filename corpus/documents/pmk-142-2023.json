@@ -1,0 +1,94 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-142-2023",
+ "identity": {
+  "code": "PMK",
+  "number": "142",
+  "variant": null,
+  "year": "2023"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-142-2023--b000-1",
+  "pmk-142-2023--b001-2",
+  "pmk-142-2023--b002-3",
+  "pmk-142-2023--b003-4",
+  "pmk-142-2023--b004-5",
+  "pmk-142-2023--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2023-12-15",
+   "detail_error": null,
+   "number_as_written": "142 TAHUN 2023",
+   "retrieved_at": "2026-10-11T01:58:42+00:00",
+   "source": "DJP",
+   "title_as_written": "BIAYA OPERASIONAL PEMUNGUTAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/biaya-operasional-pemungutan-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2023-12-15 00:00:00",
+   "number_as_written": "PMK 142 TAHUN 2023",
+   "page_retrieved_at": "2026-10-11T01:46:53+00:00",
+   "retrieved_at": "2026-09-21T14:17:40+00:00",
+   "source": "JDIH",
+   "title_as_written": "Biaya Operasional Pemungutan Pajak Bumi dan Bangunan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-142-tahun-2023",
+   "validity_as_written": "18 Des 2023 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=0",
+   "retrieved_at": "2026-10-10T00:41:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/biaya-operasional-pemungutan-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=36",
+   "retrieved_at": "2026-09-21T14:17:40+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-142-tahun-2023",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5544,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:58:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/biaya-operasional-pemungutan-pajak-bumi-dan-bangunan"
+ },
+ "title": "BIAYA OPERASIONAL PEMUNGUTAN PAJAK BUMI DAN BANGUNAN"
+}

@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-7-1995",
+ "identity": {
+  "code": "PP",
+  "number": "7",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-24-2000",
+    "key": [
+     "PP",
+     "24",
+     "2000",
+     null
+    ],
+    "number_as_written": "24 TAHUN 2000",
+    "quote": "Pasal 5 Dengan berlakunya Peraturan Pemerintah ini, maka Peraturan Pemerintah Republik Indonesia Nomor 7 Tahun 1995 tentang Perubahan Tarif Bea Meterai, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN TARIF BEA METERAI DAN BESARNYA BATAS PENGENAAN HARGA NOMINAL YANG DIKENAKAN BEA METERAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-04-21",
+   "detail_error": null,
+   "number_as_written": "7 TAHUN 1995",
+   "retrieved_at": "2026-10-11T01:36:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN TARIF BEA METERAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=11",
+   "retrieved_at": "2026-10-10T00:47:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN TARIF BEA METERAI"
+}

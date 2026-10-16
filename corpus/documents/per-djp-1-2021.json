@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-1-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-1-2021--b000-1",
+  "per-djp-1-2021--b001-2",
+  "per-djp-1-2021--b002-3",
+  "per-djp-1-2021--b003-4",
+  "per-djp-1-2021--b004-5",
+  "per-djp-1-2021--b005-6",
+  "per-djp-1-2021--b006-7",
+  "per-djp-1-2021--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-11-2021",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2021",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2021",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-01/PJ/2021 tentang Tata Cara Pelunasan Selisih Kurang Bea Meterai yang Terutang atas Dokumen Berupa Cek dan Bilyet Giro diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-01/PJ/2021 TENTANG TATA CARA PELUNASAN SELISIH KURANG BEA METERAI YANG TERUTANG ATAS DOKUMEN BERUPA CEK DAN BILYET GIRO"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-01-08",
+   "detail_error": null,
+   "number_as_written": "PER-01/PJ/2021",
+   "retrieved_at": "2026-10-10T00:54:11+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELUNASAN SELISIH KURANG BEA METERAI YANG TERUTANG ATAS DOKUMEN BERUPA CEK DAN BILYET GIRO",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelunasan-selisih-kurang-bea-meterai-yang-terutang-atas-dokumen-berupa-cek-dan"
+  },
+  {
+   "date_as_written": "2021-01-08 00:00:00",
+   "number_as_written": "Per-01/PJ/2021",
+   "page_retrieved_at": "2026-10-11T01:31:59+00:00",
+   "retrieved_at": "2026-09-21T14:56:37+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pelunasan Selisih Kurang Bea Meterai Yang Terutang Atas Dokumen Berupa Cek Dan Bilyet Giro",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-01-pj-2021",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=2",
+   "retrieved_at": "2026-10-10T00:43:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelunasan-selisih-kurang-bea-meterai-yang-terutang-atas-dokumen-berupa-cek-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=20",
+   "retrieved_at": "2026-09-21T14:56:37+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-01-pj-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7359,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:54:11+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelunasan-selisih-kurang-bea-meterai-yang-terutang-atas-dokumen-berupa-cek-dan"
+ },
+ "title": "TATA CARA PELUNASAN SELISIH KURANG BEA METERAI YANG TERUTANG ATAS DOKUMEN BERUPA CEK DAN BILYET GIRO"
+}

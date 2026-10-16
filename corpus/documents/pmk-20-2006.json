@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-20-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "20",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-20-2006--b000-1",
+  "pmk-20-2006--b001-2",
+  "pmk-20-2006--b002-3",
+  "pmk-20-2006--b003-4",
+  "pmk-20-2006--b004-5",
+  "pmk-20-2006--b005-6",
+  "pmk-20-2006--b006-7",
+  "pmk-20-2006--b007-8",
+  "pmk-20-2006--b008-9",
+  "pmk-20-2006--b009-10",
+  "pmk-20-2006--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-03-13",
+   "detail_error": null,
+   "number_as_written": "20/PMK.02/2006",
+   "retrieved_at": "2026-10-11T01:41:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PERKIRAAN ALOKASI DANA BAGI HASIL PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN DAERAH SERTA PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN PEMERINTAH PUSAT YANG DIBAGIKAN KEPADA SELURUH KABUPATEN DAN KOTA TAHUN ANGGARAN 2006",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-perkiraan-alokasi-dana-bagi-hasil-pajak-bumi-dan-bangunan-dan-bea-perolehan-hak"
+  },
+  {
+   "date_as_written": "2006-03-13 00:00:00",
+   "number_as_written": "20/PMK.02/2006",
+   "page_retrieved_at": "2026-10-11T01:42:07+00:00",
+   "retrieved_at": "2026-09-21T14:45:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Perkiraan Alokasi Dana Bagi Hasil Pajak Bumi dan Bangunan dan Bphtb Bagian Daerah Serta  Pajak Bumi dan Bangunan dan Bphtb Bagian Pemerintah Pusat yang Dibagikan Kepada Seluruh Kabupaten dan Kota Tahun Anggaran 2006.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/20-pmk-02-2006",
+   "validity_as_written": "13 Mar 2006 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=6",
+   "retrieved_at": "2026-10-10T01:01:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-perkiraan-alokasi-dana-bagi-hasil-pajak-bumi-dan-bangunan-dan-bea-perolehan-hak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=452",
+   "retrieved_at": "2026-09-21T14:45:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/20-pmk-02-2006",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 11785,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:41:53+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-perkiraan-alokasi-dana-bagi-hasil-pajak-bumi-dan-bangunan-dan-bea-perolehan-hak"
+ },
+ "title": "PENETAPAN PERKIRAAN ALOKASI DANA BAGI HASIL PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN DAERAH SERTA PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN PEMERINTAH PUSAT YANG DIBAGIKAN KEPADA SELURUH KABUPATEN DAN KOTA TAHUN ANGGARAN 2006"
+}

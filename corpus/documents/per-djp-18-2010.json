@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   }
  ],
  "category": "substantif",
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-18-2010--b000-i",
   "per-djp-18-2010--b001-ii"

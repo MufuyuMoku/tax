@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PBB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPN"
   }
  ],
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -52,6 +57,16 @@
    "url": "https://www.pajak.go.id/id/peraturan/dokumen-pemberitahuan-ekspor-barang-peb-sebagai-faktur-pajak-standar"
   },
   {
+   "date_as_written": "1995-02-10",
+   "detail_error": null,
+   "number_as_written": "KEP - 06/PJ.6/1995",
+   "retrieved_at": "2026-10-11T02:39:49+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN SECARA KOLEKTIF BAGI WAJIB PAJAK PERSEORANGAN SEBELUM SPPT DITERBITKAN",
+   "type_as_written": "Keputusan Bersama Dirjen",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pengurangan-pajak-bumi-dan-bangunan-secara-kolektif-bagi-wajib-pajak"
+  },
+  {
    "date_as_written": "1995-01-26 00:00:00",
    "number_as_written": "KEP-06/PJ/1995",
    "page_retrieved_at": "2026-10-06T03:48:37+00:00",
@@ -78,6 +93,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/dokumen-pemberitahuan-ekspor-barang-peb-sebagai-faktur-pajak-standar",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=38",
+   "retrieved_at": "2026-10-10T01:23:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-pengurangan-pajak-bumi-dan-bangunan-secara-kolektif-bagi-wajib-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
   },
   {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Unit+Eselon+I&order=desc&page=16",

@@ -1,0 +1,43 @@
+{
+ "amendment_items": [
+  {
+   "action": "diubah",
+   "number": 1,
+   "target_pasal": [
+    "1",
+    "1"
+   ],
+   "text": "1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:\nPasal 1\n(1) Pelaksanaan Sensus Pajak Nasional dilakukan sesuai dengan pedoman teknis Sensus Pajak Nasional.\n(2) Pedoman teknis Sensus Pajak Nasional meliputi:\na. pedoman teknis persiapan;\nb. pedoman teknis pelaksanaan;\nc. pedoman teknis monitoring dan evaluasi; dan\nd. pedoman teknis pemanfaatan data hasil sensus."
+  },
+  {
+   "action": "disisipkan",
+   "number": 2,
+   "target_pasal": [
+    "4",
+    "5",
+    "4A"
+   ],
+   "text": "2. Diantara Pasal 4 dan Pasal 5 disisipkan 1 pasal, yakni Pasal 4A yang berbunyi sebagai berikut:\nPasal 4A\nPedoman teknis pemanfaatan data hasil sensus sebagaimana dimaksud dalam Pasal 1 ayat (2) huruf d ditetapkan dalam Lampiran I Peraturan Direktur Jenderal Pajak ini, yang merupakan bagian yang tidak terpisahkan dari Peraturan Direktur Jenderal Pajak ini."
+  }
+ ],
+ "chars": 896,
+ "document_id": "per-djp-9-2012",
+ "document_number": "PER-09/PJ/2012",
+ "document_title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-30/PJ/2011 TENTANG PEDOMAN TEKNIS SENSUS PAJAK NASIONAL",
+ "id": "per-djp-9-2012--b000-i",
+ "label": "I",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": [
+  "1",
+  "4A"
+ ],
+ "section": "batang_tubuh",
+ "structure": "perubahan",
+ "text": "PASAL I\nBeberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional, diubah sebagai berikut :\n1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:\nPasal 1\n(1) Pelaksanaan Sensus Pajak Nasional dilakukan sesuai dengan pedoman teknis Sensus Pajak Nasional.\n(2) Pedoman teknis Sensus Pajak Nasional meliputi:\na. pedoman teknis persiapan;\nb. pedoman teknis pelaksanaan;\nc. pedoman teknis monitoring dan evaluasi; dan\nd. pedoman teknis pemanfaatan data hasil sensus.\n2. Diantara Pasal 4 dan Pasal 5 disisipkan 1 pasal, yakni Pasal 4A yang berbunyi sebagai berikut:\nPasal 4A\nPedoman teknis pemanfaatan data hasil sensus sebagaimana dimaksud dalam Pasal 1 ayat (2) huruf d ditetapkan dalam Lampiran I Peraturan Direktur Jenderal Pajak ini, yang merupakan bagian yang tidak terpisahkan dari Peraturan Direktur Jenderal Pajak ini.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T03:17:57+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-30pj2011-tentang-pedoman-teknis"
+ }
+}

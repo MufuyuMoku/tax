@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   },
   {
@@ -20,6 +24,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-30-2009--b000-1",
   "per-djp-30-2009--b001-2",
@@ -66,6 +71,7 @@
   {
    "date_as_written": "2009-04-27 00:00:00",
    "number_as_written": "PerDJP 30/PJ/2009",
+   "page_retrieved_at": "2026-10-11T01:39:05+00:00",
    "retrieved_at": "2026-09-21T14:58:03+00:00",
    "selected_because": [
     "judul",
@@ -74,7 +80,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pemberian Pengecualian Dari Kewajiban Pembayaran atau Pemungutan Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-30-pj-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-30-pj-2009",
+   "validity_as_written": "27 Apr 2009 - 15 Des 2023"
   }
  ],
  "status": {

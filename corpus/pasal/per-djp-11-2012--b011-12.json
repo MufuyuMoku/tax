@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 536,
+ "document_id": "per-djp-11-2012",
+ "document_number": "PER-11/PJ/2012",
+ "document_title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI",
+ "id": "per-djp-11-2012--b011-12",
+ "label": "12",
+ "order": 11,
+ "quality_flags": [
+  "urutan_loncat:13->1,1->15,15->1,1->17",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 12\n(1)\nHasil produksi Minyak Bumi yang digunakan sebagai dasar penentuan nilai bumi adalah\nsebesar volume\nMinyak Bumi yang terjual (\nlifting\n)\ndalam satu tahun sebelum tahun pajak.\n(2)\nHasil produksi Gas Bumi yang digunakan sebagai dasar penentuan nilai bumi adalah\nsebesar volume\nGas Bumi yang terjual\n(\nlifting\n)\ndalam satu tahun sebelum tahun pajak\n.\n(3)\nHasil produksi Panas Bumi yang digunakan sebagai dasar penentuan nilai bumi adalah\nsebesar energi\nuap dan\n/atau\nlistrik yan\ng terjual\ndalam satu tahun sebelum tahun pajak\n.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T02:13:34+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-minyak"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-19-1997",
+ "identity": {
+  "code": "UU",
+  "number": "19",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "uu-19-2000",
+    "key": [
+     "UU",
+     "19",
+     "2000",
+     null
+    ],
+    "number_as_written": "19 TAHUN 2000",
+    "quote": "PASAL I Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 1997 tentang Penagihan Pajak dengan Surat Paksa (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 42, Tambahan Lembaran Negara Nomor 3686) diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 19 TAHUN 1997 TENTANG PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-05-23",
+   "detail_error": null,
+   "number_as_written": "19 TAHUN 1997",
+   "retrieved_at": "2026-10-12T07:14:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PENAGIHAN PAJAK DENGAN SURAT PAKSA",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/penagihan-pajak-dengan-surat-paksa"
+  },
+  {
+   "date_as_written": "1997-05-23 00:00:00",
+   "number_as_written": "UU 19 TAHUN 1997",
+   "page_retrieved_at": "2026-10-11T02:09:37+00:00",
+   "retrieved_at": "2026-09-21T14:04:44+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penagihan Pajak dengan Surat Paksa",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-19-tahun-1997",
+   "validity_as_written": "23 Mei 1997 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=340",
+   "retrieved_at": "2026-10-10T07:24:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penagihan-pajak-dengan-surat-paksa",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=32",
+   "retrieved_at": "2026-09-21T14:04:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-19-tahun-1997",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+}

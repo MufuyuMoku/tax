@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1692,
+ "document_id": "per-djp-17-2008",
+ "document_number": "PER-17/PJ/2008",
+ "document_title": "PENGGUNAAN MESIN TERAAN METERAI DIGITAL",
+ "id": "per-djp-17-2008--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\n(1)\nWajib Pajak yang akan menggunakan Mesin Teraan Meterai Digital harus melakukan hal-hal sebagai berikut:\na.\nmendaftarkan Mesin Teraan Meterai Digital dengan melampirkan surat keterangan layak pakai yang diterbitkan oleh distributor Mesin Teraan Meterai Digital ke Kantor Pelayanan Pajak yang wilayah kerjanya meliputi domisili atau tempat tinggal Wajib Pajak;\nb.\nsetelah mendapat izin penggunaan Mesin Teraan Meterai Digital dari Kantor Pelayanan Pajak, Wajib Pajak membayar deposit ke Kantor Penerimaan Pembayaran yang sudah\non line\n;\nc.\nmengisikan kode deposit yang dihasilkan oleh sistem\nDeposit Code\nRecrediting\n(DCR) ke dalam Mesin Teraan Meterai Digital yang akan digunakannya.\n(2)\nKantor Pelayanan Pajak setelah meneliti permohonan pendaftaran dari Wajib Pajak sebagaimana dimaksud pada ayat (1) huruf a:\na.\nmenerbitkan izin penggunaan Mesin Teraan Meterai Digital paling lambat 7 (tujuh) hari sejak surat permohonan diterima lengkap;\nb.\nmemasukkan informasi mengenai identitas Wajib Pajak, dan identitas/nomor seri Mesin Teraan Meterai Digital ke dalam server e-Meterai.\n(3)\nModul Penerimaan Negara (MPN) yang berada di Kantor Pusat Direktorat Jenderal Pajak setelah menerima deposit pembayaran sebagaimana dimaksud pada ayat (1) huruf b secara otomatis memberitahukan adanya pembayaran tersebut kepada Server e-Meterai.\n(4)\nServer Aplikasi Kode Deposit setelah menerima informasi pembayaran deposit dari Server e-Meterai:\na.\nsecara otomatis membangkitkan kode deposit yang diperuntukkan khusus bagi mesin yang akan diisi depositnya;\nb.\nsecara otomatis menginformasikan kode deposit tersebut kepada Wajib Pajak melalui faksimili, e-mail, sms, terminal data, atau cara lain.",
+ "text_source": {
+  "retrieved_at": "2026-10-10T00:57:27+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penggunaan-mesin-teraan-meterai-digital"
+ }
+}

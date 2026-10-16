@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "perpres-18-2006",
+ "identity": {
+  "code": "PERPRES",
+  "number": "18",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-05-11",
+   "detail_error": null,
+   "number_as_written": "18 TAHUN 2006",
+   "retrieved_at": "2026-10-11T03:37:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK ISLAM IRAN TENTANG PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE GOVERMENT OF THE REPUBLIC INDONESIA AND THE GOVERMENT OF THE ISLAMIC REPUBLIC OF IRAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)",
+   "type_as_written": "Peraturan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-republik-7"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=124",
+   "retrieved_at": "2026-10-10T02:34:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-republik-7",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK ISLAM IRAN TENTANG PENGHINDARAN PAJAK BERGANDA DAN PENCEGAHAN PENGELAKAN PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE GOVERMENT OF THE REPUBLIC INDONESIA AND THE GOVERMENT OF THE ISLAMIC REPUBLIC OF IRAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME)"
+}

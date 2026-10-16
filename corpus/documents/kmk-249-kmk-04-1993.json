@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-249-kmk-04-1993",
+ "identity": {
+  "code": "KMK",
+  "number": "249/KMK.04",
+  "variant": null,
+  "year": "1993"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kmk-249-kmk-04-1993--b000-1",
+  "kmk-249-kmk-04-1993--b001-2",
+  "kmk-249-kmk-04-1993--b002-3",
+  "kmk-249-kmk-04-1993--b003-4",
+  "kmk-249-kmk-04-1993--b004-5",
+  "kmk-249-kmk-04-1993--b005-6",
+  "kmk-249-kmk-04-1993--b006-7",
+  "kmk-249-kmk-04-1993--b007-8",
+  "kmk-249-kmk-04-1993--b008-9",
+  "kmk-249-kmk-04-1993--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-127-2007",
+    "key": [
+     "PMK",
+     "127",
+     "2007",
+     null
+    ],
+    "number_as_written": "127/PMK.03/2007",
+    "quote": "huruf c Keputusan Menteri Keuangan Nomor 249/KMK.04/1993 tentang Penunjukan Tempat dan Tata Cara Pembayaran Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENATAUSAHAAN PENERIMAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN MINYAK BUMI DAN GAS BUMI DAN ENERGI PANAS BUMI"
+   },
+   {
+    "id": "pmk-167-2007",
+    "key": [
+     "PMK",
+     "167",
+     "2007",
+     null
+    ],
+    "number_as_written": "167/PMK.03/2007",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan itii mulai berlaku, Keputusan Menteri Keuangan Nomor 249/KMK.04/1993 tentang Penunjukan Tempat dan Tata Cara Pembayaran Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "1005/KMK.04",
+     "1985",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Republik Indonesia Nomor 1005/KMK.04/1985",
+    "quote": "Pasal 9 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Republik Indonesia Nomor 1005/KMK.04/1985 tentang Penyetoran Pajak Bumi dan bangunan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-1005-kmk-04-1985"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1993-02-27",
+   "detail_error": null,
+   "number_as_written": "249/KMK.04/1993",
+   "retrieved_at": "2026-10-11T02:43:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tempat-dan-tata-cara-pembayaran-pajak-bumi-dan-bangunan-0"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PMK 127/2007, PMK 167/2007 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=40",
+   "retrieved_at": "2026-10-10T01:24:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tempat-dan-tata-cara-pembayaran-pajak-bumi-dan-bangunan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6134,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:43:15+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tempat-dan-tata-cara-pembayaran-pajak-bumi-dan-bangunan-0"
+ },
+ "title": "PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN PAJAK BUMI DAN BANGUNAN"
+}

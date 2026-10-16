@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-1-1998",
+ "identity": {
+  "code": "UU",
+  "number": "1",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "uu-1-1998--b000-1",
+  "uu-1-1998--b001-2",
+  "uu-1-1998--b002-3",
+  "uu-1-1998--p003-1",
+  "uu-1-1998--p004-2",
+  "uu-1-1998--p005-3"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-02-16",
+   "detail_error": null,
+   "number_as_written": "1 TAHUN 1998",
+   "retrieved_at": "2026-10-11T01:51:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 1997 TENTANG PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG NOMOR 21 TAHUN 1997 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN MENJADI UNDANG-UNDANG",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-1997-tentang"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=12",
+   "retrieved_at": "2026-10-10T01:04:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-1997-tentang",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6896,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:51:51+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-1997-tentang"
+ },
+ "title": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 1997 TENTANG PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG NOMOR 21 TAHUN 1997 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN MENJADI UNDANG-UNDANG"
+}

@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-356-2003",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "356",
+  "variant": null,
+  "year": "2003"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2003-10-29",
+   "detail_error": null,
+   "number_as_written": "KEP - 356/PJ/2003",
+   "retrieved_at": "2026-10-12T06:59:14+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMINDAHAN TAMBAHAN WAJIB PAJAK KE KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemindahan-tambahan-wajib-pajak-ke-kantor-pelayanan-pajak-wajib-pajak-besar"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=193",
+   "retrieved_at": "2026-10-10T06:27:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemindahan-tambahan-wajib-pajak-ke-kantor-pelayanan-pajak-wajib-pajak-besar",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PEMINDAHAN TAMBAHAN WAJIB PAJAK KE KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR"
+}

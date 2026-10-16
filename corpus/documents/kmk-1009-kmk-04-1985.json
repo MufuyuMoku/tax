@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1009-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "1009/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN PEMERINTAH DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-pemerintah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEDOMAN PENGHITUNGAN PENGKREDITAN PAJAK MASUKAN BAGI PENGUSAHA KENA PAJAK YANG BERDASARKAN UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK PENGHASILAN SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN UNDANG-UNDANG NOMOR 17 TAHUN 2000 MEMILIH DIKENAKAN PAJAK DENGAN MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO",
+    "url": "https://www.pajak.go.id/id/peraturan/pedoman-penghitungan-pengkreditan-pajak-masukan-bagi-pengusaha-kena-pajak-yang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI ATAS IMPOR SUKU CADANG PESAWAT C-130 DAN F-27/F-28 UNTUK OPTIMALISASI DUKUNGAN PENERBANGAN VVIP",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-atas-impor-suku-cadang-pesawat-c-130-dan-f-27f-28-untuk"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYETORAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembayaran-pajak-penghasilan-bagi-orang-pribadi-yang-bertolak-ke-luar-negeri"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN LAMPIRAN I DAN LAMPIRAN II KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 644/KMK.04/1994 TENTANG MACAM DAN JENIS BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAKAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-i-dan-lampiran-ii-keputusan-menteri-keuangan-republik-indonesia-nomor"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 17 SAMPAI DENGAN 23 APRIL 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-62"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 24 SAMPAI DENGAN 30 JULI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-78"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-28",
+   "detail_error": null,
+   "number_as_written": "1009/KMK.04/1985",
+   "retrieved_at": "2026-10-11T02:50:54+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=45",
+   "retrieved_at": "2026-10-10T01:26:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PELAKSANAAN PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN"
+}

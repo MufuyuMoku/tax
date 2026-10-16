@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-638-kmk-04-1997",
+ "identity": {
+  "code": "KMK",
+  "number": "638/KMK.04",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-12-22",
+   "detail_error": null,
+   "number_as_written": "638/KMK.04/1997",
+   "retrieved_at": "2026-10-11T01:52:33+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-bea-perolehan-hak-atas-tanah-dan-bangunan-karena-pemberian-hak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=13",
+   "retrieved_at": "2026-10-10T01:04:28+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-bea-perolehan-hak-atas-tanah-dan-bangunan-karena-pemberian-hak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN"
+}

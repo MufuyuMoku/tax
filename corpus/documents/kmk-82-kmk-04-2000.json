@@ -1,0 +1,168 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-82-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "82/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-34-2005",
+    "key": [
+     "PMK",
+     "34",
+     "2005",
+     null
+    ],
+    "number_as_written": "34/PMK.03/2005",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Keputusan Menteri Keuangan Nomor 82/KMK.04/2000 tentang Pembagian Hasil Penerimaan Pajak Bumi dan Bangunan antara Pemerintah Pusat Dan Daerah sebagaimana telah diubah dengan Keputusan Menteri Keuangan Nomor 552/KMK.04/2003 dan Keputusan Menteri Keuangan Nomor 112/KMK.04/2000 tentang Bentuk Formulir Keputusan Penetapan Pembagian Hasil Penerimaan PBB (KP-PHP-PBB) dan Surat Perintah Membayar Biaya Pemungutan PBB (SPM-BP-PBB) dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 12 TAHUN 1985 TENTANG PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-12-tahun-1985-tentang-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-daerah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS DAN PELAKSANAAN SURAT PAKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-seketika-dan-sekaligus-dan-pelaksanaan-surat-paksa"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN NOMOR 522/KMK.04/2000 TENTANG PENGHITUNGAN BESARNYA ANGSURAN PAJAK PENGHASILAN DALAM TAHUN PAJAK BERJALAN YANG HARUS DIBAYAR SENDIRI OLEH WAJIB PAJAK BARU, BANK, SEWA GUNA USAHA DENGAN HAK OPSI, BADAN USAHA MILIK NEGARA, BADAN USAHA MILIK DAERAH DAN WAJIB PAJAK LAINNYA TERMASUK WAJIB PAJAK ORANG PRIBADI PENGUSAHA TERTENTU Ãƒâ€šÃ‚Â",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-nomor-522kmk042000-tentang-penghitungan-besarnya"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 606/KMK.04/1994 TENTANG PENENTUAN TANGGAL JATUH TEMPO PEMBAYARAN DAN PENYETORAN PAJAK, TEMPAT PEMBAYARAN PAJAK, TATA CARA PEMBAYARAN, PENYETORAN, DAN PELAPORAN PAJAK, SERTA TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-menteri-keuangan-republik-indonesia-nomor-606kmk041994-tentang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBAYARAN PAJAK PENGHASILAN ATAS PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK BADAN YANG USAHA POKOKNYA MELAKUKAN TRANSAKSI PENJUALAN ATAU PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-pajak-penghasilan-atas-penghasilan-yang-diterima-atau-diperoleh"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 28 AGUSTUS SAMPAI DENGAN 3 SEPTEMBER 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-56"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 24 SAMPAI DENGAN 30 APRIL 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-63"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 15 SAMPAI DENGAN 21 MEI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-66"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 16 SAMPAI DENGAN 22 OKTOBER 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-92"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 12 SAMPAI DENGAN 18 APRIL 1999",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-381"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 20 SAMPAI DENGAN 26 DESEMBER 1999",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-427"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-03-21",
+   "detail_error": null,
+   "number_as_written": "82/KMK.04/2000",
+   "retrieved_at": "2026-10-11T02:30:08+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-daerah-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=34",
+   "retrieved_at": "2026-10-10T01:22:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-daerah-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH"
+}

@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-17-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "17",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-17-2011--b000-1",
+  "pmk-17-2011--b001-2",
+  "pmk-17-2011--b002-3",
+  "pmk-17-2011--b003-4",
+  "pmk-17-2011--b004-5",
+  "pmk-17-2011--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-01-24",
+   "detail_error": null,
+   "number_as_written": "17/PMK.03/2011",
+   "retrieved_at": "2026-10-11T02:15:17+00:00",
+   "source": "DJP",
+   "title_as_written": "PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/permohonan-pengembalian-kelebihan-pembayaran-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2011-01-24 00:00:00",
+   "number_as_written": "17/PMK.03/2011",
+   "page_retrieved_at": "2026-10-11T01:53:59+00:00",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Permohonan Pengembalian Kelebihan Pembayaran Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2011",
+   "validity_as_written": "24 Jan 2011 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=18",
+   "retrieved_at": "2026-10-10T01:14:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/permohonan-pengembalian-kelebihan-pembayaran-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=342",
+   "retrieved_at": "2026-09-21T14:38:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-03-2011",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7846,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:15:17+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/permohonan-pengembalian-kelebihan-pembayaran-pajak-bumi-dan-bangunan"
+ },
+ "title": "PERMOHONAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN"
+}

@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-33-1997",
+ "identity": {
+  "code": "PP",
+  "number": "33",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-10-07",
+   "detail_error": null,
+   "number_as_written": "33 TAHUN 1997",
+   "retrieved_at": "2026-10-11T01:56:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAGIAN HASIL PENERIMAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN PEMERINTAH DAERAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan-antara-pemerintah"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=15",
+   "retrieved_at": "2026-10-10T01:05:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan-antara-pemerintah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBAGIAN HASIL PENERIMAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN PEMERINTAH DAERAH"
+}

@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
   }
  ],
  "category": "substantif",
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-2-2013--b000-i",
   "per-djp-2-2013--b001-ii"
@@ -68,6 +73,16 @@
    "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-02/PJ/2012 TENTANG PENGGOLONGAN KUALITAS PIUTANG PAJAK DAN CARA PENGHITUNGAN PENYISIHAN PIUTANG PAJAK PAJAK",
    "type_as_written": "Peraturan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-02pj2012-tentang-penggolongan-0"
+  },
+  {
+   "date_as_written": "2013-01-31",
+   "detail_error": null,
+   "number_as_written": "PER-02/PJ/2013",
+   "retrieved_at": "2026-10-11T03:17:36+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-02/PJ/2012 TENTANG PENGGOLONGAN KUALITAS PIUTANG PAJAK DAN CARA PENGHITUNGAN PENYISIHAN PIUTANG PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-02pj2012-tentang-penggolongan"
   }
  ],
  "status": {
@@ -83,6 +98,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-02pj2012-tentang-penggolongan-0",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=21",
+   "retrieved_at": "2026-10-10T01:38:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-02pj2012-tentang-penggolongan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
   }
  ],
  "structure": "perubahan",
@@ -90,7 +113,15 @@
   "available": true,
   "chars": 12693,
   "format": "html",
-  "other_postings": [],
+  "other_postings": [
+   {
+    "chars": 12222,
+    "differs_from_chosen": true,
+    "retrieved_at": "2026-10-11T03:17:36+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-02pj2012-tentang-penggolongan"
+   }
+  ],
   "retrieved_at": "2026-10-04T04:27:40+00:00",
   "source": "DJP",
   "unavailable_reason": null,

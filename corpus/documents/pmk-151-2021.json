@@ -1,0 +1,127 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lamp_151_PMK03_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "151",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lamp_151_PMK03_2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-151-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "151",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-151-2021--b000-1",
+  "pmk-151-2021--b001-2",
+  "pmk-151-2021--b002-3",
+  "pmk-151-2021--b003-4",
+  "pmk-151-2021--b004-5",
+  "pmk-151-2021--b005-6",
+  "pmk-151-2021--b006-7",
+  "pmk-151-2021--b007-8",
+  "pmk-151-2021--b008-9",
+  "pmk-151-2021--b009-10",
+  "pmk-151-2021--b010-11",
+  "pmk-151-2021--b011-12",
+  "pmk-151-2021--b012-13",
+  "pmk-151-2021--b013-14",
+  "pmk-151-2021--b014-15",
+  "pmk-151-2021--b015-16",
+  "pmk-151-2021--b016-17",
+  "pmk-151-2021--b017-18",
+  "pmk-151-2021--b018-19",
+  "pmk-151-2021--b019-20"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 78 TAHUN 2024 — Ketentuan Pelaksanaan Bea Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-78-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-10-26",
+   "detail_error": null,
+   "number_as_written": "151/PMK.03/2021",
+   "retrieved_at": "2026-10-10T00:48:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PEMUNGUT BEA METERAI DAN TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORAN BEA METERAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pemungut-bea-meterai-dan-tata-cara-pemungutan-penyetoran-dan-pelaporan-bea"
+  },
+  {
+   "date_as_written": "2021-10-26 00:00:00",
+   "number_as_written": "151/PMK.03/2021",
+   "page_retrieved_at": "2026-10-11T01:29:37+00:00",
+   "retrieved_at": "2026-09-21T14:20:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Pemungut Bea Meterai dan Tata Cara Pemungutan, Penyetoran, dan Pelaporan Bea Meterai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/151-pmk-03-2021",
+   "validity_as_written": "27 Okt 2021 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=0",
+   "retrieved_at": "2026-10-10T00:39:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-pemungut-bea-meterai-dan-tata-cara-pemungutan-penyetoran-dan-pelaporan-bea",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=82",
+   "retrieved_at": "2026-09-21T14:20:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/151-pmk-03-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 25195,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:48:22+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-pemungut-bea-meterai-dan-tata-cara-pemungutan-penyetoran-dan-pelaporan-bea"
+ },
+ "title": "PENETAPAN PEMUNGUT BEA METERAI DAN TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORAN BEA METERAI"
+}

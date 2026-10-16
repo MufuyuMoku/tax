@@ -1,0 +1,218 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-186-2019",
+ "identity": {
+  "code": "PMK",
+  "number": "186",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-186-2019--b000-1",
+  "pmk-186-2019--b001-2",
+  "pmk-186-2019--b002-3",
+  "pmk-186-2019--b003-4",
+  "pmk-186-2019--b004-5",
+  "pmk-186-2019--b005-6",
+  "pmk-186-2019--b006-7",
+  "pmk-186-2019--b007-8",
+  "pmk-186-2019--b008-9",
+  "pmk-186-2019--b009-10",
+  "pmk-186-2019--b010-11",
+  "pmk-186-2019--b011-12",
+  "pmk-186-2019--b012-13",
+  "pmk-186-2019--b013-14",
+  "pmk-186-2019--b014-15",
+  "pmk-186-2019--b015-16",
+  "pmk-186-2019--b016-17",
+  "pmk-186-2019--b017-18",
+  "pmk-186-2019--b018-19",
+  "pmk-186-2019--b019-20",
+  "pmk-186-2019--b020-21",
+  "pmk-186-2019--b021-22",
+  "pmk-186-2019--b022-23",
+  "pmk-186-2019--b023-24",
+  "pmk-186-2019--b024-25",
+  "pmk-186-2019--b025-26",
+  "pmk-186-2019--b026-27",
+  "pmk-186-2019--b027-28",
+  "pmk-186-2019--b028-29",
+  "pmk-186-2019--b029-30",
+  "pmk-186-2019--b030-31",
+  "pmk-186-2019--b031-32",
+  "pmk-186-2019--b032-33",
+  "pmk-186-2019--b033-34",
+  "pmk-186-2019--b034-35",
+  "pmk-186-2019--b035-36",
+  "pmk-186-2019--b036-37",
+  "pmk-186-2019--b037-38",
+  "pmk-186-2019--b038-39",
+  "pmk-186-2019--b039-40",
+  "pmk-186-2019--b040-41",
+  "pmk-186-2019--b041-42",
+  "pmk-186-2019--b042-43",
+  "pmk-186-2019--b043-44"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-234-2022",
+    "key": [
+     "PMK",
+     "234",
+     "2022",
+     null
+    ],
+    "number_as_written": "234/PMK.03/2022",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan Nilai Jual Objek Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2019 Nomor 1595) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGANNOMOR 186/PMK.03/2019 TENTANG KLASIFIKASI OBJEK PAJAK DAN TATACARA PENETAPAN NILAI JUAL OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "76",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 76/PMK.03/2013",
+    "quote": "Pasal 43 Pada saat Peraturan Menteri ini mulai berlaku: a. ketentuan Pasal 2, Pasal 3, Pasal 4, Pasal 5, Pasal 6, Pasal 6A, Pasal 7, Pasal 10, Pasal 11, Pasal 12, Pasal 13, dan Pasal 27 Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, (Berita Negara Republik Indonesia Tahun 2013 Nomor 573), sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 131/PMK.03/2017 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, (Berita Negara Republik Indonesia Tahun 2017 Nomor 1381); … b. Peraturan Menteri Keuangan Nomor 139/PMK.03/2014 tentang Klasifikasi dan Penetapan Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan, (Berita Negara Republik Indonesia Tahun 2014 Nomor 944), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-76-2013"
+   },
+   {
+    "key": [
+     "PMK",
+     "131",
+     "2017",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 131/PMK.03/2017",
+    "quote": "Pasal 43 Pada saat Peraturan Menteri ini mulai berlaku: a. ketentuan Pasal 2, Pasal 3, Pasal 4, Pasal 5, Pasal 6, Pasal 6A, Pasal 7, Pasal 10, Pasal 11, Pasal 12, Pasal 13, dan Pasal 27 Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, (Berita Negara Republik Indonesia Tahun 2013 Nomor 573), sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 131/PMK.03/2017 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, (Berita Negara Republik Indonesia Tahun 2017 Nomor 1381); … b. Peraturan Menteri Keuangan Nomor 139/PMK.03/2014 tentang Klasifikasi dan Penetapan Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan, (Berita Negara Republik Indonesia Tahun 2014 Nomor 944), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-131-2017"
+   },
+   {
+    "key": [
+     "PMK",
+     "139",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 139/PMK.03/2014",
+    "quote": "Pasal 43 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 139/PMK.03/2014 tentang Klasifikasi dan Penetapan Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan, (Berita Negara Republik Indonesia Tahun 2014 Nomor 944), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-139-2014"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 76/PMK.03/2013 — Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/76-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 139/PMK.03/2014 — Klasifikasi dan Penetapan Nilai Jual Objek Pajak Sebagai Dasar Pengenaan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/139-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 131/PMK.03/2017 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/131-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 26/PMK.03/2015 — Perubahan atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/26-pmk-03-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 234/PMK.03/2022 — Perubahan atas Peraturan Menteri Keuangan Nomor 186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan Nilai Jual Objek Pajak Bumi dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/234-pmk-03-2022"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-12-10",
+   "detail_error": null,
+   "number_as_written": "186/PMK.03/2019",
+   "retrieved_at": "2026-10-11T02:01:07+00:00",
+   "source": "DJP",
+   "title_as_written": "KLASIFIKASI OBJEK PAJAK DAN TATA CARA PENETAPAN NILAI JUAL OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-objek-pajak-dan-tata-cara-penetapan-nilai-jual-objek-pajak-pajak-bumi-dan"
+  },
+  {
+   "date_as_written": "2019-12-10 00:00:00",
+   "number_as_written": "186/PMK.03/2019",
+   "page_retrieved_at": "2026-10-11T01:48:34+00:00",
+   "retrieved_at": "2026-09-21T14:23:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Klasifikasi Objek Pajak dan Tata Cara Penetapan Nilai Jual Objek Pajak Pajak Bumi dan Bangunan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2019",
+   "validity_as_written": "10 Des 2019 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=3",
+   "retrieved_at": "2026-10-10T01:06:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-objek-pajak-dan-tata-cara-penetapan-nilai-jual-objek-pajak-pajak-bumi-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=125",
+   "retrieved_at": "2026-09-21T14:23:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 74938,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:01:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-objek-pajak-dan-tata-cara-penetapan-nilai-jual-objek-pajak-pajak-bumi-dan"
+ },
+ "title": "KLASIFIKASI OBJEK PAJAK DAN TATA CARA PENETAPAN NILAI JUAL OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+}

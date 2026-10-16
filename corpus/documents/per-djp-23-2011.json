@@ -16,6 +16,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-23-2011--b000-1",
   "per-djp-23-2011--b001-2",
@@ -25,7 +26,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-10-2019",
+    "key": [
+     "PER-DJP",
+     "10",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-10/PJ/2019",
+    "quote": "Pasal 4 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2011 tentang Bentuk dan Isi Nota Penghitungan, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, Surat Keputusan Kelebihan Pembayaran Pajak Bumi dan Bangunan, dan Surat Pemberitahuan; dan b. Ketentuan Pasal 6 dalam Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2015 tentang Tata Cara Penerbitan Surat Pemberitahuan Pajak Terutang Pajak Bumi dan Bangunan untuk Sektor Perkebunan, Sektor Perhutanan, Sektor Pertambangan, dan Sektor Lainnya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BENTUK DAN ISI SURAT PEMBERITAHUAN PAJAK TERUTANG NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT KEPUTUSAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN, SURAT PEMBERITAHUAN, SERTA SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -42,9 +58,10 @@
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 10/2019 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {

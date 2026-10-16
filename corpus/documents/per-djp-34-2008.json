@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   }
  ],
  "category": "substantif",
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-34-2008--b000-1",
   "per-djp-34-2008--b001-2",
@@ -25,7 +30,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-2-2015",
+    "key": [
+     "PER-DJP",
+     "2",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-02/PJ/2015",
+    "quote": "Pasal 7 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-34/PJ/2008 tentang Bentuk dan lsi Formulir Surat Pemberitahuan Pajak Terhutang Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERBITAN SURAT PEMBERITAHUAN PAJAK TERUTANG PAJAK BUMI DAN BANGUNAN UNTUK SEKTOR PERKEBUNAN, SEKTOR PERHUTANAN, SEKTOR PERTAMBANGAN, DAN SEKTOR LAINNYA"
+   }
+  ],
   "revokes": [],
   "source_listed_related": []
  },
@@ -54,7 +74,8 @@
  ],
  "status": {
   "reasons": [
-   "status berbeda antar sumber"
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 2/2015 mencabutnya"
   ],
   "value": "tidak_pasti"
  },

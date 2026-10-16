@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1003-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "1003/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN BESARNYA TARIF DAN TATA CARA PEMBAYARAN SERTA PENYETORAN PAJAK EKSPOR",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-tarif-dan-tata-cara-pembayaran-serta-penyetoran-pajak-ekspor"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "HARGA EKSPOR ATAS CRUDE PALM OIL (CPO), REFINED BLEACHED DEODORIZED PALM OIL (RBD PO), CRUDE OLEIN DAN REFINED BLEACHED DEODORIZED OLEIN (RBD OLEIN) DALAM RANGKA PERHITUNGAN PAJAK EKSPOR",
+    "url": "https://www.pajak.go.id/id/peraturan/harga-ekspor-atas-crude-palm-oil-cpo-refined-bleached-deodorized-palm-oil-rbd-po-crude"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-28",
+   "detail_error": null,
+   "number_as_written": "1003/KMK.04/1985",
+   "retrieved_at": "2026-10-11T02:55:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN KLASIFIKASI DAN BESARNYA NILAI JUAL OBYEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-klasifikasi-dan-besarnya-nilai-jual-obyek-pajak-sebagai-dasar-pengenaan-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=46",
+   "retrieved_at": "2026-10-10T06:11:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-klasifikasi-dan-besarnya-nilai-jual-obyek-pajak-sebagai-dasar-pengenaan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENENTUAN KLASIFIKASI DAN BESARNYA NILAI JUAL OBYEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN"
+}

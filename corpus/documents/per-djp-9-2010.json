@@ -16,6 +16,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-9-2010--b000-1",
   "per-djp-9-2010--b001-2",
@@ -30,7 +31,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-23-2013",
+    "key": [
+     "PER-DJP",
+     "23",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-23/PJ/2013",
+    "quote": "Pada saat berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-9/PJ/2010 tentang Standar Pemeriksnan Untuk Menguji Kepatuhan Pemenuhan Kewajiban Perpajakan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "STANDAR PEMERIKSAAN"
+   }
+  ],
   "revokes": [
    {
     "key": [

@@ -1,0 +1,121 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PMK_133_2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "133",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PMK_133_2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-133-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "133",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-133-2021--b000-i",
+  "pmk-133-2021--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 133a/KMK.04/2000 — Pengadaan, Pengelolaan dan Penjualan Benda Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/133a-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 133c/KMK.04/2000 — Pemusnahan Benda Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/133c-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 78 TAHUN 2024 — Ketentuan Pelaksanaan Bea Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-78-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-09-29",
+   "detail_error": null,
+   "number_as_written": "133/PMK.03/2021",
+   "retrieved_at": "2026-10-10T00:50:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PERATURAN PELAKSANAAN PERATURAN PEMERINTAH NOMOR 86 TAHUN 2021 TENTANG PENGADAAN, PENGELOLAAN, DAN PENJUALAN METERAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-pelaksanaan-peraturan-pemerintah-nomor-86-tahun-2021-tentang-pengadaan-0"
+  },
+  {
+   "date_as_written": "2021-09-29 00:00:00",
+   "number_as_written": "133/PMK.03/2021",
+   "page_retrieved_at": "2026-10-11T01:30:58+00:00",
+   "retrieved_at": "2026-09-21T14:20:46+00:00",
+   "source": "JDIH",
+   "title_as_written": "Peraturan Pelaksanaan Peraturan Pemerintah Nomor 86 Tahun 2021 tentang Pengadaan, Pengelolaan, dan Penjualan Meterai",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/133-pmk-03-2021",
+   "validity_as_written": "29 Sep 2021 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=1",
+   "retrieved_at": "2026-10-10T00:43:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/peraturan-pelaksanaan-peraturan-pemerintah-nomor-86-tahun-2021-tentang-pengadaan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=83",
+   "retrieved_at": "2026-09-21T14:20:46+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/133-pmk-03-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 10968,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:50:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/peraturan-pelaksanaan-peraturan-pemerintah-nomor-86-tahun-2021-tentang-pengadaan-0"
+ },
+ "title": "PERATURAN PELAKSANAAN PERATURAN PEMERINTAH NOMOR 86 TAHUN 2021 TENTANG PENGADAAN, PENGELOLAAN, DAN PENJUALAN METERAI"
+}

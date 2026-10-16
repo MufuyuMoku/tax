@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-269-kmk-03-2006",
+ "identity": {
+  "code": "KMK",
+  "number": "269/KMK.03",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-05-23",
+   "detail_error": null,
+   "number_as_written": "269/KMK.03/2006",
+   "retrieved_at": "2026-10-11T03:36:56+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 92/KMK.03/2006 TENTANG PENETAPAN PENCEGAHAN PENANGGUNG PAJAK BEPERGIAN KE LUAR NEGERI",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-92kmk032006-tentang-penetapan-pencegahan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=123",
+   "retrieved_at": "2026-10-10T02:33:40+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-92kmk032006-tentang-penetapan-pencegahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 92/KMK.03/2006 TENTANG PENETAPAN PENCEGAHAN PENANGGUNG PAJAK BEPERGIAN KE LUAR NEGERI"
+}

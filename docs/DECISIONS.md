@@ -1578,3 +1578,63 @@ halaman JDIH (dari 441 menjadi 21).
 
 **Halaman "Tentang dan batasan"** menyebut kelompok yang tidak dimuat beserta jumlahnya, dihitung dari
 berkas cakupan saat build. Terbit sebagai v1.0.1.
+
+## K-089 — v1.1: Bea Meterai, BPHTB, PBB, dan "Lainnya" dalam cakupan masuk korpus
+Tanggal: 2026-10-16 · Milestone: M7 · Status: siap terbit, menunggu persetujuan penurunan peringkat
+
+**Keputusan pemilik atas 83 peraturan meragukan (K-088):**
+- tidak masuk: 25 yang hanya menyebut "pajak" (internal), 22 pajak ekspor;
+- masuk: 23 campuran, 8 terbitan Dirjen Pajak tanpa topik jelas;
+- 5 judul tanpa spasi dibaca satu per satu dengan aturan yang sama: semuanya tidak masuk (2 kawasan
+  berikat/kepabeanan, 1 tunjangan pegawai, 2 organisasi kanwil/KPP).
+
+Semua ditandai `"diputuskan": "pemilik"`. Cakupan akhir "Lainnya": 194 masuk, 759 tidak, 0 meragukan.
+Detail DJP dan status JDIH untuk yang baru masuk sudah diambil. Sisa satu: halaman JDIH
+PER-4/PJ/2025 terambil, tetapi tidak memuat data dokumen yang bisa dibaca (sejak 2026-10-11). Status
+JDIH-nya tetap ada dari daftar JDIH; yang hilang hanya relasi dan masa berlaku dari halaman dokumen.
+
+**Build:**
+- `config.DJP_CATEGORIES` memuat BM, BPHTB, PBB, dan Lainnya. "Lainnya" hanya untuk `masuk: true`.
+  BM tampil sebagai "Bea Meterai".
+- Korpus 2.614 → 3.065 dokumen, 1.786 berteks.
+- Per kategori: PPh 1.122, KUP 1.112, PPN 992, PBB 227, Lainnya 194, BPHTB 78, Bea Meterai 59. Satu
+  peraturan bisa di beberapa kategori.
+
+**Keterangan pajak daerah (K-086):**
+- Dokumen PBB/BPHTB dan "Lainnya" berkelompok pajak daerah diberi keterangan awam di kartu, hasil
+  pencarian, dan halaman dokumen (lewat pembuat halaman bersama).
+- `pajak-daerah.json` untuk PBB/BPHTB kini berbunyi "aturan pusat yang tersisa ada di sini, perdanya
+  tidak". PKB, Samsat, dan pajak hotel/restoran tidak berubah.
+- **Diputuskan sendiri:** keterangan tidak dipasang pada dokumen PBB/BPHTB yang juga tercatat sebagai
+  PPh, KUP, PPN, atau Bea Meterai (75 dokumen). Contohnya PP 34/2016 tentang PPh atas pengalihan
+  tanah dan bangunan: kalimat "kini pajak daerah" di sana menyesatkan. Hasilnya 214 dokumen PBB/BPHTB
+  dan 11 dokumen pajak daerah dari "Lainnya" berketerangan.
+- **BPHTB dan PBB:** 289 dokumen. 173 berlaku menurut setidaknya satu sumber (PBB 144 dari 227,
+  BPHTB 40 dari 78).
+
+**Set evaluasi:**
+- 5 pertanyaan awam baru (kategori "M7") dengan peringkat pertamanya sebagai garis dasar:
+
+  | Pertanyaan | Peringkat |
+  |---|---|
+  | surat perjanjian harus pakai meterai tidak | 7 |
+  | PBB kebun sawit dihitung dari apa | 9 |
+  | perjanjian pajak berganda Indonesia dengan Uni Emirat Arab | 1 |
+  | perusahaan saya dipindah terdaftar ke KPP Madya | 28 |
+  | tanah warisan kena BPHTB tidak | 75 |
+
+  Pertanyaan terakhir lemah karena PP 111/2000 tanpa teks dan "warisan" tidak sama dengan "waris";
+  tidak disetel.
+- Kunci "jual rumah" pindah dari judul ke Pasal 2 PP 34/2016, karena dokumen itu kini berteks dari
+  daftar BPHTB/PBB DJP.
+- Median 50 pertanyaan 6, 32 di 10 besar.
+- **Penurunan yang perlu persetujuan:**
+
+  | Pertanyaan | v1.0 | v1.1 | Batas disetujui | Penyebab |
+  |---|---|---|---|---|
+  | makan siang kantor | 146 | 151 | 146 | 8 dokumen berkategori baru naik di atasnya |
+  | honor pembicara | 24 | 26 | 24 | tidak ada dokumen baru di atasnya; kelangkaan kata berubah |
+  | kontraktor | 137 | 180 | garis dasar 145 | 66 dokumen berkategori baru, terutama PBB/BPHTB dengan kata "bangunan" |
+  | pengungkapan ketidakbenaran | 32 | 37 | 33 | UU Pengadilan Pajak, UU BPSP, Standar Pemeriksaan, PMK Penilai Publik |
+
+**Ukuran simpanan:** 91,3 MB untuk 88 berkas, di bawah 100 MB.

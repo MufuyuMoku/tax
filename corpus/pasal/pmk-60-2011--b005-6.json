@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1652,
+ "document_id": "pmk-60-2011",
+ "document_number": "60/PMK.05/2011",
+ "document_title": "PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+ "id": "pmk-60-2011--b005-6",
+ "label": "6",
+ "order": 5,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 6\nDalam pelaksanaan uji coba penerapan sistem pembayaran pajak secara elektronik (billing system), pihak-pihak terkait sebagaimana dimaksud dalam Pasal 5 mempunyai tugas dan/atau kewajiban sebagai berikut:\na.\nDirektorat Jenderal Pajak:\n1)\nmenyiapkan infrastruktur server billing pada unit kerja Direktorat Jenderal Pajak;\n2)\nmenyediakan layanan pendaftaran peserta billing;\n3)\nmenyediakan layanan pembuatan kode billing;\n4)\nmenyediakan help desk uji coba penerapan sistem pembayaran pajak secara elektronik (billing system);\n5)\nmembandingkan data pembayaran berdasarkan kode billing dengan data kode billing yang diterbitkan;\n6)\nmelaksanakan tugas sebagai operator sistem dan pemeliharaan infrastruktur MPN.\nb.\nDirektorat Jenderal Perbendaharaan:\n1)\nmenunjuk Bank/Pos Persepsi yang menjadi peserta uji coba;\n2)\nmelakukan pengawasan terhadap Bank/Pos Persepsi;\n3)\nmenyediakan data billing yang telah dibayar.\nc.\nPusintek:\n1)\nmenyediakan jaringan dan infrastruktur back up data MPN;\n2)\nmemelihara jaringan dan infrastruktur back up data MPN\nd.\nBank/Pos Persepsi:\n1)\ndapat menyediakan jasa layanan pendaftaran peserta billing bagi Wajib Pajak;\n2)\ndapat menyediakan jasa layanan pembuatan kode billing bagi Wajib Pajak;\n3)\nmenerima pembayaran pajak melalui sistem pembayaran pajak secara elektronik (billing system);\n4)\nmelaporkan pembayaran pajak yang dilakukan dengan sistem pembayaran pajak secara elektronik (billing system).\ne.\nWajib Pajak:\n1)\nmelakukan pendaftaran peserta billing satu kali untuk pertama kali;\n2)\nmelakukan pengisian data setoran pajak dalam rangka memperoleh kode billing; dan\n3)\nmelakukan pembayaran berdasarkan kode billing.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T03:18:59+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik-billing-system"
+ }
+}

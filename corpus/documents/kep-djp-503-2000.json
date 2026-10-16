@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-503-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "503",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-4-2016",
+    "key": [
+     "PER-DJP",
+     "4",
+     "2016",
+     null
+    ],
+    "number_as_written": "PER-04/PJ/2016",
+    "quote": "Pasal 2 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Formulir yang ada pada Keputusan Direktur Jenderal Pajak Nomor KEP-503/PJ./2000 tentang Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan dan Tata Cara Pelaksanaan Penagihan Pajak Bumi dan Bangunan dan Bea Perolehan Hak Atas Tanah dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SURAT, DAFTAR, FORMULIR, DAN LAPORAN YANG DIGUNAKAN DALAM PELAKSANAAN PENAGIHAN PAJAK DENGAN SURAT PAKSA"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-11-22",
+   "detail_error": null,
+   "number_as_written": "KEP-503/PJ./2000",
+   "retrieved_at": "2026-10-11T02:29:06+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN DAN TATA CARA PELAKSANAAN PENAGIHAN PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak-pajak-bumi-dan-bangunan-dan-tata-cara"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=11",
+   "retrieved_at": "2026-10-10T01:03:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak-pajak-bumi-dan-bangunan-dan-tata-cara",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENERBITAN SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN DAN TATA CARA PELAKSANAAN PENAGIHAN PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

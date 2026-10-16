@@ -1,0 +1,112 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-86-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "86",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 516/KMK.04/2000 — Tatacara Penentuan Besarnya Nilai Perolehan Obyek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/516-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 238/PMK.03/2016 — Pencabutan atas Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Perpajakan dalam Rangka Simplifikasi Regulasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/238-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 14/PMK.03/2009 — Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/14-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 33/PMK.03/2008 — Perubahan Kedua atas Keputusan Menteri Keuangan Nomor 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/33-pmk-03-2008"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-10-04",
+   "detail_error": null,
+   "number_as_written": "86/PMK.03/2006",
+   "retrieved_at": "2026-10-11T01:41:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 516/KMK.04/2000 TENTANG TATA CARA PENENTUAN BESARNYA NILAI PEROLEHAN/OBJEK PAJAK TIDAK KENA PAJAK BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-516kmk042000-tentang-tata-cara-penentuan"
+  },
+  {
+   "date_as_written": "2006-10-04 00:00:00",
+   "number_as_written": "86/PMK.03/2006",
+   "page_retrieved_at": "2026-10-11T01:41:47+00:00",
+   "retrieved_at": "2026-09-21T14:45:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan No. 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Obyek Pajak  Tidak Kena Pajak Bea Perolehanan Hak atas Tanah dan Bangunan. -- Jakarta, 2006",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-03-2006",
+   "validity_as_written": "04 Okt 2006 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=6",
+   "retrieved_at": "2026-10-10T01:01:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-516kmk042000-tentang-tata-cara-penentuan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=446",
+   "retrieved_at": "2026-09-21T14:45:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/86-pmk-03-2006",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 516/KMK.04/2000 TENTANG TATA CARA PENENTUAN BESARNYA NILAI PEROLEHAN/OBJEK PAJAK TIDAK KENA PAJAK BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

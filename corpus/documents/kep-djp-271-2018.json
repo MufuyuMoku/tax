@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-271-2018",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "271",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kep-djp-271-2018--b000-kedua",
+  "kep-djp-271-2018--b001-ketiga",
+  "kep-djp-271-2018--b002-keempat",
+  "kep-djp-271-2018--b003-kelima",
+  "kep-djp-271-2018--b004-keenam",
+  "kep-djp-271-2018--b005-ketujuh"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-10-03",
+   "detail_error": null,
+   "number_as_written": "KEP-271/PJ/2018",
+   "retrieved_at": "2026-10-12T06:50:36+00:00",
+   "source": "DJP",
+   "title_as_written": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN BENCANA ALAM GEMPA BUMI DAN TSUNAMI DI WILAYAH DONGGALA, PALU, DAN SEKITARNYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-bencana-alam-gempa-bumi-dan-tsunami-di-wilayah"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=2",
+   "retrieved_at": "2026-10-10T01:29:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-bencana-alam-gempa-bumi-dan-tsunami-di-wilayah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 5602,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-12T06:50:36+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/kebijakan-perpajakan-sehubungan-dengan-bencana-alam-gempa-bumi-dan-tsunami-di-wilayah"
+ },
+ "title": "KEBIJAKAN PERPAJAKAN SEHUBUNGAN DENGAN BENCANA ALAM GEMPA BUMI DAN TSUNAMI DI WILAYAH DONGGALA, PALU, DAN SEKITARNYA"
+}

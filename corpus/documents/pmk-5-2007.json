@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-5-2007",
+ "identity": {
+  "code": "PMK",
+  "number": "5",
+  "variant": null,
+  "year": "2007"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-5-2007--b000-1",
+  "pmk-5-2007--b001-2",
+  "pmk-5-2007--b002-3",
+  "pmk-5-2007--b003-4",
+  "pmk-5-2007--b004-5",
+  "pmk-5-2007--b005-6",
+  "pmk-5-2007--b006-7",
+  "pmk-5-2007--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2007-01-25",
+   "detail_error": null,
+   "number_as_written": "05/PMK.07/2007",
+   "retrieved_at": "2026-10-11T01:40:31+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN PERKIRAAN ALOKASI PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN PEMERINTAH PUSAT YANG DIBAGIKAN KEPADA SELURUH KABUPATEN DAN KOTA TAHUN ANGGARAN 2007",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-perkiraan-alokasi-pajak-bumi-dan-bangunan-dan-bea-perolehan-hak-atas-tanah-dan"
+  },
+  {
+   "date_as_written": "2007-01-25 00:00:00",
+   "number_as_written": "05/PMK.07/2007",
+   "page_retrieved_at": "2026-10-11T01:41:06+00:00",
+   "retrieved_at": "2026-09-21T14:45:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Perkiraan Alokasi Pajak  Bumi dan Bangunan dan Bea Perolehan Hak atas Tanah dan Bangunan Bagian Pemerintah Pusat yang Dibagikan Kepada Seluruh Kabupaten dan Kota Tahun Anggaran 2007",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/05-pmk-07-2007",
+   "validity_as_written": "25 Jan 2007 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=5",
+   "retrieved_at": "2026-10-10T01:01:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-perkiraan-alokasi-pajak-bumi-dan-bangunan-dan-bea-perolehan-hak-atas-tanah-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=440",
+   "retrieved_at": "2026-09-21T14:45:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/05-pmk-07-2007",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7448,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:40:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-perkiraan-alokasi-pajak-bumi-dan-bangunan-dan-bea-perolehan-hak-atas-tanah-dan"
+ },
+ "title": "PENETAPAN PERKIRAAN ALOKASI PAJAK BUMI DAN BANGUNAN DAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN PEMERINTAH PUSAT YANG DIBAGIKAN KEPADA SELURUH KABUPATEN DAN KOTA TAHUN ANGGARAN 2007"
+}

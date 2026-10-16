@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-561-kmk-04-2004",
+ "identity": {
+  "code": "KMK",
+  "number": "561/KMK.04",
+  "variant": null,
+  "year": "2004"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-238-2016",
+    "key": [
+     "PMK",
+     "238",
+     "2016",
+     null
+    ],
+    "number_as_written": "238/PMK.03/2016",
+    "quote": "Pasal I a. Keputusan Menteri Keuangan Nomor 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: … d. Keputusan Menteri Keuangan Nomor 561/KMK.04/2004 tentang Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: 1. Nomor 104/PMK.03/2005 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 561/KMK.04/2004 tentang Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan (Berita Negara Republik Indonesia Tahun 2006 Nomor 16); … h. Peraturan Menteri Keuangan Nomor 146/PMK.03/2012 tentang Tata Cara Verifikasi (Berita Negara Republik Indonesia Tahun 2012 Nomor 903), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PERPAJAKAN MENIMBANG DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2004-11-25",
+   "detail_error": null,
+   "number_as_written": "561/KMK.04/2004",
+   "retrieved_at": "2026-10-11T01:43:16+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan-3"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=7",
+   "retrieved_at": "2026-10-10T01:02:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan-3",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

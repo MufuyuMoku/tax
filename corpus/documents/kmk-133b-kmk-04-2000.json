@@ -1,0 +1,207 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-133b-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "133B/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kmk-133b-kmk-04-2000--b000-1",
+  "kmk-133b-kmk-04-2000--b001-2",
+  "kmk-133b-kmk-04-2000--b002-3",
+  "kmk-133b-kmk-04-2000--b003-4",
+  "kmk-133b-kmk-04-2000--b004-5",
+  "kmk-133b-kmk-04-2000--b005-6",
+  "kmk-133b-kmk-04-2000--b006-7",
+  "kmk-133b-kmk-04-2000--b007-8",
+  "kmk-133b-kmk-04-2000--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-141-2021",
+    "key": [
+     "PMK",
+     "141",
+     "2021",
+     null
+    ],
+    "number_as_written": "141/PMK.010/2021",
+    "quote": "Izin pembubuhan tanda Bea Meterai lunas dengan mesin teraan Meterai digital yang diterbitkan berdasarkan Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000 tentang Pelunasan Bea Meterai dengan Menggunakan Cara Lain masih berlaku sampai dengan izin dicabut.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN JENIS KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH DAN TATA CARA PENGENAAN, PEMBERIAN DAN PENATAUSAHMN PEMBEBASAN, DAN PENGEMBALIAN PAJAK PENJUALAN ATAS BARANG MEWAH"
+   },
+   {
+    "id": "pmk-4-2021",
+    "key": [
+     "PMK",
+     "4",
+     "2021",
+     null
+    ],
+    "number_as_written": "4/PMK.03/2021",
+    "quote": "c. Izin pembubuhan tanda Bea Meterai lunas dengan menggunakan mesin teraan meterai digital dan teknologi percetakan, serta izin sebagai pelaksana pembubuhan tanda Bea Meterai lunas yang diterbitkan berdasarkan Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000 tentang Pelunasan Bea Meterai dengan Menggunakan Cara Lain masih berlaku sampai dengan masa berlaku izin berakhir atau izin dicabut.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEMBAYARAN BEA METERAI, CIRI UMUM DAN CIRI KHUSUS METERAI TEMPEL, METERAI DALAM BENTUK LAIN, DAN PENENTUAN KEABSAHAN METERAI, SERTA PEMETERAIAN KEMUDIAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "104/KMK.04",
+     "1986",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor: 104/KMK.04/1986",
+    "quote": "Pasal 7 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor: 104/KMK.04/1986 tanggal 22 Februari 1986 tentang Pelunasan Bea Meterai dengan menggunakan cara lain dan Keputusan Menteri Keuangan Nomor 217/KMK.01/1996 tanggal 22 Maret 1996 tentang Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor : 1131/KMK.04/1989 tentang Pelaksanaan Peraturan Pemerintah Nomor 13 Tahun 1989 tentang Perubahan Besarnya Tarif Bea Meterai dan Besarnya Batas Harga Nominal yang dikenakan Bea Meterai Atas Cek dan Bilyet Giro dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-104-kmk-04-1986"
+   },
+   {
+    "key": [
+     "KMK",
+     "217/KMK.01",
+     "1996",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 217/KMK.01/1996",
+    "quote": "Pasal 7 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor: 104/KMK.04/1986 tanggal 22 Februari 1986 tentang Pelunasan Bea Meterai dengan menggunakan cara lain dan Keputusan Menteri Keuangan Nomor 217/KMK.01/1996 tanggal 22 Maret 1996 tentang Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor : 1131/KMK.04/1989 tentang Pelaksanaan Peraturan Pemerintah Nomor 13 Tahun 1989 tentang Perubahan Besarnya Tarif Bea Meterai dan Besarnya Batas Harga Nominal yang dikenakan Bea Meterai Atas Cek dan Bilyet Giro dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-217-kmk-01-1996"
+   },
+   {
+    "key": [
+     "KMK",
+     "1131/KMK.04",
+     "1989",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Republik Indonesia Nomor : 1131/KMK.04/1989",
+    "quote": "Pasal 7 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor: 104/KMK.04/1986 tanggal 22 Februari 1986 tentang Pelunasan Bea Meterai dengan menggunakan cara lain dan Keputusan Menteri Keuangan Nomor 217/KMK.01/1996 tanggal 22 Maret 1996 tentang Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor : 1131/KMK.04/1989 tentang Pelaksanaan Peraturan Pemerintah Nomor 13 Tahun 1989 tentang Perubahan Besarnya Tarif Bea Meterai dan Besarnya Batas Harga Nominal yang dikenakan Bea Meterai Atas Cek dan Bilyet Giro dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-1131-kmk-04-1989"
+   },
+   {
+    "key": [
+     "PP",
+     "13",
+     "1989",
+     null
+    ],
+    "name": "Peraturan Pemerintah Nomor 13 Tahun 1989",
+    "quote": "Pasal 7 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor: 104/KMK.04/1986 tanggal 22 Februari 1986 tentang Pelunasan Bea Meterai dengan menggunakan cara lain dan Keputusan Menteri Keuangan Nomor 217/KMK.01/1996 tanggal 22 Maret 1996 tentang Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor : 1131/KMK.04/1989 tentang Pelaksanaan Peraturan Pemerintah Nomor 13 Tahun 1989 tentang Perubahan Besarnya Tarif Bea Meterai dan Besarnya Batas Harga Nominal yang dikenakan Bea Meterai Atas Cek dan Bilyet Giro dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "rejected": "hierarki: KMK tidak dapat mencabut/mengubah PP",
+    "source_of_reading": "DJP",
+    "target_id": "pp-13-1989"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 1131/KMK.04/1989 — Pelaksanaan Peraturan Pemerintah No. 13 Tahun 1989 tentang Perubahan Besarnya Tarif Bea Meterai dan Besarnya Batas Harga Nominal yang Dikenakan Bea Meterai atas Cek dan Bilyet Giro.",
+    "url": "https://jdih.kemenkeu.go.id/dok/1131-kmk-04-1989"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 104/KMK.04/1986 — Pelunasan Bea Meterai dengan Menggunakan Cara Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/104-kmk-04-1986"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 217/KMK.01/1996 — Perubahan Kepmenkeu No.1131/KMK.04/1989 tentang Pelaksanaan Pp No. 13 Tahun 1989 tentang Perubahan Besarnya Tarip Bea Meterai dan Besarnya Batas Harga Nominal yang Dikenakan Bea Meterai atas  Cek dan Bilyet Giro",
+    "url": "https://jdih.kemenkeu.go.id/dok/217-kmk-01-1996"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 4/PMK.03/2021 — Pembayaran Bea Meterai, Ciri Umum dan Ciri Khusus Meterai Tempel, Meterai Dalam Bentuk Lain, dan Penentuan Keabsahan Meterai, Serta Pemeteraian Kemudian",
+    "url": "https://jdih.kemenkeu.go.id/dok/4-pmk-03-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-04-28",
+   "detail_error": null,
+   "number_as_written": "133b/KMK.04/2000",
+   "retrieved_at": "2026-10-11T01:33:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PELUNASAN BEA METERAI DENGAN MENGGUNAKAN CARA LAIN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelunasan-bea-meterai-dengan-menggunakan-cara-lain"
+  },
+  {
+   "date_as_written": "2000-04-28 00:00:00",
+   "number_as_written": "133b/KMK.04/2000",
+   "page_retrieved_at": "2026-10-11T01:36:23+00:00",
+   "retrieved_at": "2026-09-21T14:50:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelunasan Bea Meterai dengan Menggunakan Cara Lain",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/133b-kmk-04-2000",
+   "validity_as_written": "28 Apr 2000 - 20 Jan 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 141/2021, PMK 4/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=9",
+   "retrieved_at": "2026-10-10T00:46:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelunasan-bea-meterai-dengan-menggunakan-cara-lain",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=52",
+   "retrieved_at": "2026-09-21T14:50:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/133b-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3718,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:33:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelunasan-bea-meterai-dengan-menggunakan-cara-lain"
+ },
+ "title": "PELUNASAN BEA METERAI DENGAN MENGGUNAKAN CARA LAIN"
+}

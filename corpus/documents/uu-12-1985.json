@@ -1,0 +1,179 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-12-1985",
+ "identity": {
+  "code": "UU",
+  "number": "12",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "uu-12-1985--b000-1",
+  "uu-12-1985--b001-2",
+  "uu-12-1985--b002-3",
+  "uu-12-1985--b003-4",
+  "uu-12-1985--b004-5",
+  "uu-12-1985--b005-6",
+  "uu-12-1985--b006-7",
+  "uu-12-1985--b007-8",
+  "uu-12-1985--b008-9",
+  "uu-12-1985--b009-10",
+  "uu-12-1985--b010-11",
+  "uu-12-1985--b011-12",
+  "uu-12-1985--b012-13",
+  "uu-12-1985--b013-14",
+  "uu-12-1985--b014-15",
+  "uu-12-1985--b015-16",
+  "uu-12-1985--b016-17",
+  "uu-12-1985--b017-18",
+  "uu-12-1985--b018-19",
+  "uu-12-1985--b019-20",
+  "uu-12-1985--b020-21",
+  "uu-12-1985--b021-22",
+  "uu-12-1985--b022-23",
+  "uu-12-1985--b023-24",
+  "uu-12-1985--b024-25",
+  "uu-12-1985--b025-26",
+  "uu-12-1985--b026-27",
+  "uu-12-1985--b027-28",
+  "uu-12-1985--b028-29",
+  "uu-12-1985--b029-30",
+  "uu-12-1985--b030-31",
+  "uu-12-1985--p031-1",
+  "uu-12-1985--p032-2",
+  "uu-12-1985--p033-3",
+  "uu-12-1985--p034-4",
+  "uu-12-1985--p035-5",
+  "uu-12-1985--p036-6",
+  "uu-12-1985--p037-7",
+  "uu-12-1985--p038-8",
+  "uu-12-1985--p039-9",
+  "uu-12-1985--p040-10",
+  "uu-12-1985--p041-11",
+  "uu-12-1985--p042-12",
+  "uu-12-1985--p043-13",
+  "uu-12-1985--p044-14",
+  "uu-12-1985--p045-15",
+  "uu-12-1985--p046-16",
+  "uu-12-1985--p047-17",
+  "uu-12-1985--p048-18",
+  "uu-12-1985--p049-19",
+  "uu-12-1985--p050-20",
+  "uu-12-1985--p051-21",
+  "uu-12-1985--p052-22",
+  "uu-12-1985--p053-23",
+  "uu-12-1985--p054-24",
+  "uu-12-1985--p055-25",
+  "uu-12-1985--p056-26",
+  "uu-12-1985--p057-27",
+  "uu-12-1985--p058-28",
+  "uu-12-1985--p059-29",
+  "uu-12-1985--p060-30",
+  "uu-12-1985--p061-31"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "uu-12-1994",
+    "key": [
+     "UU",
+     "12",
+     "1994",
+     null
+    ],
+    "number_as_written": "12 TAHUN 1994",
+    "quote": "Mengubah beberapa ketentuan dalam Undang-undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan, sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 12 TAHUN 1985 TENTANG PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 12 TAHUN 1994 — Perubahan atas Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-12-tahun-1994"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-27",
+   "detail_error": null,
+   "number_as_written": "12 TAHUN 1985",
+   "retrieved_at": "2026-10-11T01:59:03+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "1985-11-27 00:00:00",
+   "number_as_written": "UU 12 TAHUN 1985",
+   "page_retrieved_at": "2026-10-11T01:47:13+00:00",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Bumi dan Bangunan.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-12-tahun-1985",
+   "validity_as_written": "27 Nov 1985 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=47",
+   "retrieved_at": "2026-10-10T00:41:48+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-12-tahun-1985",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 47543,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:59:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+ },
+ "title": "PAJAK BUMI DAN BANGUNAN"
+}

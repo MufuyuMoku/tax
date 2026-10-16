@@ -1,0 +1,119 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-141-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "141",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-141-2016--b000-i",
+  "pmk-141-2016--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "11",
+     "2016",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 11 TAHUN 2016",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 118/PMK.03/2016 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2016 tentang Pengampunan Pajak, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "rejected": "hierarki: PMK tidak dapat mencabut/mengubah UU",
+    "source_of_reading": "DJP",
+    "target_id": "uu-11-2016"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 118/PMK.03/2016 — Pelaksanaan Undang-Undang Nomor 11 Tahun 2016 tentang Pengampunan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/118-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 165/PMK.03/2017 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 118/ Pmk.03/2016 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2016 tentang Pengampunan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/165-pmk-03-2017"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-09-23",
+   "detail_error": null,
+   "number_as_written": "141/PMK.03/2016",
+   "retrieved_at": "2026-10-11T03:14:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118/PMK.03/2016 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 11 TAHUN 2016 TENTANG PENGAMPUNAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-118pmk032016-tentang-pelaksanaan-undang"
+  },
+  {
+   "date_as_written": "2016-09-23 00:00:00",
+   "number_as_written": "141/PMK.03/2016",
+   "page_retrieved_at": "2026-10-11T02:05:11+00:00",
+   "retrieved_at": "2026-09-21T14:28:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 118/PMK.03/2016 Tentang\r\nPelaksanaan Undang-Undang Nomor 11 Tahun 2016 tentang Pengampunan Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-03-2016",
+   "validity_as_written": "23 Sep 2016 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=7",
+   "retrieved_at": "2026-10-10T01:31:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-118pmk032016-tentang-pelaksanaan-undang",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=200",
+   "retrieved_at": "2026-09-21T14:28:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-03-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 27884,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:14:09+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-118pmk032016-tentang-pelaksanaan-undang"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118/PMK.03/2016 TENTANG PELAKSANAAN UNDANG-UNDANG NOMOR 11 TAHUN 2016 TENTANG PENGAMPUNAN PAJAK"
+}

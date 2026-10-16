@@ -2,7 +2,7 @@
 // One card of the regulation list. Used by the list page, where most cards wait in a <template>
 // until shown (K-074), and by /semua/, the full list for browsers without JavaScript.
 // Status is shown per source, as chips with icon and words (K-083); never one status per document.
-import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote, plainReason } from "../lib/labels.js";
+import { statusLabel, typeLabel, yearLabel, regulationLabel, categoryNote, plainReason, LOCAL_TAX_NOTE } from "../lib/labels.js";
 import { statusChips } from "../lib/render/chips.js";
 
 const { row } = Astro.props;
@@ -40,6 +40,7 @@ const meta = [yearLabel(row.year), row.text_available ? `${row.pasal_count} pasa
     {row.attachment_mismatch > 0 && <span class="tanda peringatan">Lampiran tidak cocok</span>}
     {row.quality_flags.length > 0 && <span class="tanda peringatan">Penomoran janggal</span>}
   </p>
+  {row.pajak_daerah && <p class="kartu-catatan daerah">{LOCAL_TAX_NOTE[row.pajak_daerah]}</p>}
   {!row.text_available && (
     <p class="kartu-catatan">
       {row.text_unavailable_reason}. Baca di sumbernya:{" "}

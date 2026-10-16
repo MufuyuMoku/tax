@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-74-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "74",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-74-2011--b000-i",
+  "pmk-74-2011--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "244",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 244/PMK.07/2010",
+    "quote": "Ketentuan Pasal 4 dalam Peraturan Menteri Keuangan Nomor 244/PMK.07/2010 tentang Alokasi Sementara Dana Bagi Hasil Pajak Bumi dan Bangunan Tahun Anggaran 2011, diubah sehingga berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-244-2010"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 244/PMK.07/2010 — Alokasi Sementara Dana Bagi Hasil Pajak Bumi dan Bangunan Tahun Anggaran 2011.",
+    "url": "https://jdih.kemenkeu.go.id/dok/244-pmk-07-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 172/PMK.07/2011 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 244/PMK.07/2010 tentang Alokasi Sementara Dana Bagi Hasil Pajak Bumi dan Bangunan Bagian Daerah Tahun Anggaran 2011.",
+    "url": "https://jdih.kemenkeu.go.id/dok/172-pmk-07-2011"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-04-05",
+   "detail_error": null,
+   "number_as_written": "74/PMK.07/2011",
+   "retrieved_at": "2026-10-11T02:52:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 244/PMK.07/2010 TENTANG ALOKASI SEMENTARA DANA BAGI HASIL PAJAK BUMI DAN BANGUNAN TAHUN ANGGARAN 2011",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-244pmk072010-tentang-alokasi-sementara"
+  },
+  {
+   "date_as_written": "2011-04-05 00:00:00",
+   "number_as_written": "74/PMK.07/2011",
+   "page_retrieved_at": "2026-10-11T02:02:27+00:00",
+   "retrieved_at": "2026-09-21T14:38:07+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 244/PMK.07/2010 tentang Alokasi Sementara Dana Bagi Hasil Pajak Bumi dan Bangunan Tahun Anggaran 2011.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-07-2011",
+   "validity_as_written": "05 Apr 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=17",
+   "retrieved_at": "2026-10-10T06:10:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-244pmk072010-tentang-alokasi-sementara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=336",
+   "retrieved_at": "2026-09-21T14:38:07+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/74-pmk-07-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4331,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:52:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-244pmk072010-tentang-alokasi-sementara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 244/PMK.07/2010 TENTANG ALOKASI SEMENTARA DANA BAGI HASIL PAJAK BUMI DAN BANGUNAN TAHUN ANGGARAN 2011"
+}

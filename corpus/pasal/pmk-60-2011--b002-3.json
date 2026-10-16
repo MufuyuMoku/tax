@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1663,
+ "document_id": "pmk-60-2011",
+ "document_number": "60/PMK.05/2011",
+ "document_title": "PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+ "id": "pmk-60-2011--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\n(1)\nRuang lingkup uji coba penerapan sistem pembayaran pajak secara elektronik (billing system) sebagaimana dimaksud dalam Pasal 2 meliputi:\na.\nPendaftaran peserta billing;\nb.\nPembuatan kode billing;\nc.\nPembayaran berdasarkan kode billing, dan\nd.\nRekonsiliasi billing.\n(2)\nUji coba sebagaimana dimaksud pada ayat (1) tidak termasuk pembayaran atas Pajak Bumi dan Bangunan (PBB) dan pajak dalam rangka impor dan cukai.\n(3)\nPendaftaran peserta billing sebagaimana dimaksud pada ayat (1) huruf a dilakukan dalam rangka memperoleh NIPB, PIN, dan Password.\n(4)\nPembuatan kode billing sebagaimana dimaksud pada ayat (1) huruf b dilakukan melalui pengisian data setoran pajak secara elektronik.\n(5)\nPembayaran berdasarkan kode billing sebagaimana dimaksud pada ayat (1) huruf c dilakukan dalam rangka pelunasan pajak oleh wajib pajak baik melalui loket bank/pos persepsi atau secara elektronik.\n(6)\nPembuatan kode billing dan pembayaran berdasarkan kode billing sebagaimana dimaksud pada ayat (4) dan (5) dilakukan atas setiap setoran pajak.\n(7)\nDalam hal kode billing yang telah dibuat tidak dibayarkan oleh Wajib Pajak dalam waktu 48 (empat puluh delapan) jam, maka data kode billing dimaksud akan dihapuskan dari sistem MPN, dan untuk membayarkan kembali, Wajib Pajak harus membuat kembali kode billing sebagaimana dimaksud pada ayat (4).\n(8)\nDalam hal secara teknis dimungkinkan, pembuatan kode billing dan pembayaran berdasarkan kode billing dapat dilakukan secara masal (bulk).\n(9)\nRekonsiliasi billing sebagaimana dimaksud pada ayat (1) huruf d dilakukan dalam rangka pencocokan kode billing yang telah terbayar dengan kode billing yang telah diterbitkan.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T03:18:59+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik-billing-system"
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-60-2011",
+ "identity": {
+  "code": "PMK",
+  "number": "60",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-60-2011--b000-1",
+  "pmk-60-2011--b001-2",
+  "pmk-60-2011--b002-3",
+  "pmk-60-2011--b003-4",
+  "pmk-60-2011--b004-5",
+  "pmk-60-2011--b005-6",
+  "pmk-60-2011--b006-7",
+  "pmk-60-2011--b007-8",
+  "pmk-60-2011--b008-9",
+  "pmk-60-2011--b009-10",
+  "pmk-60-2011--b010-11",
+  "pmk-60-2011--b011-12",
+  "pmk-60-2011--b012-13"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 204/PMK.05/2011 — Perubahan atas Peraturan Menteri Keuangan Nomor 60/PMK.05/2011 tentang Pelaksanaan Uji Coba Penerapan Sistem Pembayaran Pajak Secara Elektronik (Billing System) dalam Sistem Modul Penerimaan Negara.",
+    "url": "https://jdih.kemenkeu.go.id/dok/204-pmk-05-2011"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-03-23",
+   "detail_error": null,
+   "number_as_written": "60/PMK.05/2011",
+   "retrieved_at": "2026-10-11T03:18:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik-billing-system"
+  },
+  {
+   "date_as_written": "2011-03-23 00:00:00",
+   "number_as_written": "60/PMK.05/2011",
+   "page_retrieved_at": "2026-10-11T02:07:14+00:00",
+   "retrieved_at": "2026-09-21T14:38:11+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelaksanaan Uji Coba Penerapan Sistem Pembayaran Pajak Secara Elektronik (Billing System) dalam Sistem Modul Penerimaan Negara.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-05-2011",
+   "validity_as_written": "23 Mar 2011 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=30",
+   "retrieved_at": "2026-10-10T01:42:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik-billing-system",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=337",
+   "retrieved_at": "2026-09-21T14:38:11+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/60-pmk-05-2011",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10573,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:18:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik-billing-system"
+ },
+ "title": "PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA"
+}

@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-10-2019",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "10",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-10-2019--b000-1",
+  "per-djp-10-2019--b001-2",
+  "per-djp-10-2019--b002-3",
+  "per-djp-10-2019--b003-4",
+  "per-djp-10-2019--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-25-2020",
+    "key": [
+     "PER-DJP",
+     "25",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-25/PJ/2020",
+    "quote": "Pasal 4 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-10/PJ/2019 tentang Bentuk dan Isi Surat Pemberitahuan Pajak Terutang, Nota Penghitungan, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Keputusan Kelebihan Pembayaran Pajak Bumi dan Bangunan, Surat Pemberitahuan, serta Surat Tagihan Pajak Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BENTUK DAN ISI SURAT PEMBERITAHUAN PAJAK TERUTANG, NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT KEPUTUSAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN, SURAT PEMBERITAHUAN, SERTA SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "23",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2011",
+    "quote": "Pasal 4 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. Peraturan Direktur Jenderal Pajak Nomor PER-23/PJ/2011 tentang Bentuk dan Isi Nota Penghitungan, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, Surat Tagihan Pajak Pajak Bumi dan Bangunan, Surat Keputusan Kelebihan Pembayaran Pajak Bumi dan Bangunan, dan Surat Pemberitahuan; dan b. Ketentuan Pasal 6 dalam Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2015 tentang Tata Cara Penerbitan Surat Pemberitahuan Pajak Terutang Pajak Bumi dan Bangunan untuk Sektor Perkebunan, Sektor Perhutanan, Sektor Pertambangan, dan Sektor Lainnya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-23-2011"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "2",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2015",
+    "quote": "Pasal 4 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. Ketentuan Pasal 6 dalam Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2015 tentang Tata Cara Penerbitan Surat Pemberitahuan Pajak Terutang Pajak Bumi dan Bangunan untuk Sektor Perkebunan, Sektor Perhutanan, Sektor Pertambangan, dan Sektor Lainnya, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-2-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-06-19",
+   "detail_error": null,
+   "number_as_written": "PER-10/PJ/2019",
+   "retrieved_at": "2026-10-11T02:01:50+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN ISI SURAT PEMBERITAHUAN PAJAK TERUTANG NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT KEPUTUSAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN, SURAT PEMBERITAHUAN, SERTA SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-pemberitahuan-pajak-terutang-nota-penghitungan-surat-ketetapan-pajak"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 25/2020 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=4",
+   "retrieved_at": "2026-10-10T01:06:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-pemberitahuan-pajak-terutang-nota-penghitungan-surat-ketetapan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6996,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:01:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-pemberitahuan-pajak-terutang-nota-penghitungan-surat-ketetapan-pajak"
+ },
+ "title": "BENTUK DAN ISI SURAT PEMBERITAHUAN PAJAK TERUTANG NOTA PENGHITUNGAN, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, SURAT KEPUTUSAN KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN, SURAT PEMBERITAHUAN, SERTA SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN"
+}

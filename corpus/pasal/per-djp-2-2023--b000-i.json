@@ -1,0 +1,44 @@
+{
+ "amendment_items": [
+  {
+   "action": "diubah",
+   "number": 1,
+   "target_pasal": [
+    "3",
+    "3",
+    "2"
+   ],
+   "text": "1.\nKetentuan ayat (2) dan ayat (3) Pasal 3 diubah, sehingga berbunyi sebagai berikut:\nPasal 3\n(1)\nDalam hal pembubuhan Meterai Elektronik sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf b tidak memungkinkan untuk dilakukan yang disebabkan oleh kegagalan Sistem Meterai Elektronik, Pemungut Bea Meterai tetap wajib memungut Bea Meterai.\n(2)\nKegagalan Sistem Meterai Elektronik sebagaimana dimaksud pada ayat (1) merupakan keadaan:\na.\nSistem Meterai Elektronik tidak dapat diakses, tidak memberikan respons pada proses pembubuhan Meterai Elektronik, dan/atau Meterai Elektronik tidak dapat dibubuhkan pada suatu jenis dokumen elektronik, berdasarkan pemberitahuan dari Perusahaan Umum (Perum) Percetakan Uang Republik Indonesia; atau\nb.\nproses integrasi sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf b memerlukan penyesuaian agar dapat digunakan untuk membubuhkan Meterai Elektronik.\n(3)\nKegagalan Sistem Meterai Elektronik sebagaimana dimaksud pada ayat (2) huruf b diperkenankan dalam jangka waktu paling lama 6 (enam) bulan terhitung sejak saat mulai berlakunya penetapan Pemungut Bea Meterai."
+  },
+  {
+   "action": "disisipkan",
+   "number": 2,
+   "target_pasal": [
+    "3",
+    "4",
+    "3A"
+   ],
+   "text": "2.\nDi antara Pasal 3 dan Pasal 4 disisipkan 1 (satu) pasal, yakni Pasal 3A sehingga berbunyi sebagai berikut:\nPasal 3A\n(1)\nPemungut Bea Meterai dapat memperpanjang jangka waktu integasi sistem untuk paling lama 3 (tiga) bulan terhitung sejak batas waktu sebagaimana dimaksud dalam Pasal 3 ayat (3) berakhir, dengan menyampaikan pemberitahuan perpanjangan jangka waktu integrasi sistem.\n(2)\nPemberitahuan perpanjangan jangka waktu integrasi sistem sebagaimana dimaksud pada ayat (1) harus:\na.\ndisampaikan secara tertulis kepada Direktur Jenderal Pajak sebelum jangka waktu sebagaimana dimaksud dalam Pasal 3 ayat (3) berakhir; dan\nb.\nmenyebutkan alasan perpanjangan dan perkiraan waktu penyelesaian proses integrasi dengan API Sistem Meterai Elektronik."
+  }
+ ],
+ "chars": 2061,
+ "document_id": "per-djp-2-2023",
+ "document_number": "PER-2/PJ/2023",
+ "document_title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-26/PJ/2021 TENTANG TATA CARA PEMUNGUTAN BEA METERAI DALAM HAL TERJADI KEGAGALAN SISTEM METERAI ELEKTRONIK",
+ "id": "per-djp-2-2023--b000-i",
+ "label": "I",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": [
+  "3",
+  "3A"
+ ],
+ "section": "batang_tubuh",
+ "structure": "perubahan",
+ "text": "Pasal I\nBeberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2021 tentang Tata Cara Pemungutan Bea Meterai Dalam Hal Terjadi Kegagalan Sistem Meterai Elektronik, diubah sebagai berikut:\n1.\nKetentuan ayat (2) dan ayat (3) Pasal 3 diubah, sehingga berbunyi sebagai berikut:\nPasal 3\n(1)\nDalam hal pembubuhan Meterai Elektronik sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf b tidak memungkinkan untuk dilakukan yang disebabkan oleh kegagalan Sistem Meterai Elektronik, Pemungut Bea Meterai tetap wajib memungut Bea Meterai.\n(2)\nKegagalan Sistem Meterai Elektronik sebagaimana dimaksud pada ayat (1) merupakan keadaan:\na.\nSistem Meterai Elektronik tidak dapat diakses, tidak memberikan respons pada proses pembubuhan Meterai Elektronik, dan/atau Meterai Elektronik tidak dapat dibubuhkan pada suatu jenis dokumen elektronik, berdasarkan pemberitahuan dari Perusahaan Umum (Perum) Percetakan Uang Republik Indonesia; atau\nb.\nproses integrasi sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf b memerlukan penyesuaian agar dapat digunakan untuk membubuhkan Meterai Elektronik.\n(3)\nKegagalan Sistem Meterai Elektronik sebagaimana dimaksud pada ayat (2) huruf b diperkenankan dalam jangka waktu paling lama 6 (enam) bulan terhitung sejak saat mulai berlakunya penetapan Pemungut Bea Meterai.\n2.\nDi antara Pasal 3 dan Pasal 4 disisipkan 1 (satu) pasal, yakni Pasal 3A sehingga berbunyi sebagai berikut:\nPasal 3A\n(1)\nPemungut Bea Meterai dapat memperpanjang jangka waktu integasi sistem untuk paling lama 3 (tiga) bulan terhitung sejak batas waktu sebagaimana dimaksud dalam Pasal 3 ayat (3) berakhir, dengan menyampaikan pemberitahuan perpanjangan jangka waktu integrasi sistem.\n(2)\nPemberitahuan perpanjangan jangka waktu integrasi sistem sebagaimana dimaksud pada ayat (1) harus:\na.\ndisampaikan secara tertulis kepada Direktur Jenderal Pajak sebelum jangka waktu sebagaimana dimaksud dalam Pasal 3 ayat (3) berakhir; dan\nb.\nmenyebutkan alasan perpanjangan dan perkiraan waktu penyelesaian proses integrasi dengan API Sistem Meterai Elektronik.",
+ "text_source": {
+  "retrieved_at": "2026-10-10T00:47:35+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-26pj2021-tentang-tata-cara"
+ }
+}

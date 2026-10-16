@@ -1,0 +1,121 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-48-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "48",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-48-2015--b000-1",
+  "per-djp-48-2015--b001-2",
+  "per-djp-48-2015--b002-3",
+  "per-djp-48-2015--b003-4",
+  "per-djp-48-2015--b004-5",
+  "per-djp-48-2015--b005-6",
+  "per-djp-48-2015--b006-7",
+  "per-djp-48-2015--b007-8",
+  "per-djp-48-2015--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-8-2019",
+    "key": [
+     "PER-DJP",
+     "8",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-08/PJ/2019",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2015 tentang Tata Cara Pemberian Nomor Objek Pajak Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN, PENYESUAIAN, DAN PENGHAPUSAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "12",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-12/PJ/2010",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-12/PJ/2010 tentang Nomor Objek Paja k Pajak Bumi dan Bangunan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2013, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-12-2010"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "9",
+     "2013",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2013",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-12/PJ/2010 tentang Nomor Objek Paja k Pajak Bumi dan Bangunan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2013, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-9-2013"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-12-30",
+   "detail_error": null,
+   "number_as_written": "PER-48/PJ/2015",
+   "retrieved_at": "2026-10-11T02:05:57+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-objek-pajak-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 8/2019 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=8",
+   "retrieved_at": "2026-10-10T01:08:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-objek-pajak-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8059,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:05:57+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-objek-pajak-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PEMBERIAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+}

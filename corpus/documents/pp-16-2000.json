@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-16-2000",
+ "identity": {
+  "code": "PP",
+  "number": "16",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-03-10",
+   "detail_error": null,
+   "number_as_written": "16 TAHUN 2000",
+   "retrieved_at": "2026-10-11T02:30:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-daerah"
+  },
+  {
+   "date_as_written": "2000-03-10 00:00:00",
+   "number_as_written": "PP 16TAHUN2000",
+   "page_retrieved_at": "2026-10-11T01:59:03+00:00",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembagian Hasil Penerimaan Pajak Bumi dan Bangunan Antara Pemerintah Pusat dan Daerah",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-16tahun2000",
+   "validity_as_written": "10 Mar 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=34",
+   "retrieved_at": "2026-10-10T01:22:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-daerah",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=91",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-16tahun2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH"
+}

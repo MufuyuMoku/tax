@@ -3,7 +3,15 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   },
   {
    "asal": "daftar_djp",
@@ -24,6 +32,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "pmk-23-2020--b000-1",
   "pmk-23-2020--b001-2",

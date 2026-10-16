@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-52-1997",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "52",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BADAN PENYELESAIAN SENGKETA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/badan-penyelesaian-sengketa-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBENTUKAN BADAN PENYELESAIAN SENGKETA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/pembentukan-badan-penyelesaian-sengketa-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN DI KAWASAN PENGEMBANGAN EKONOMI TERPADU",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-di-kawasan-pengembangan-ekonomi-terpadu"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMUNGUTAN, PENYETORAN DAN PELAPORAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH OLEH BENDAHARAWAN PEMERINTAH SEBAGAI PEMUNGUT PAJAK PERTAMBAHAN NILAI",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-penyetoran-dan-pelaporan-pajak-pertambahan-nilai-dan-pajak-penjualan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 330/KMK.04/1992 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-330kmk041992-tentang-perlakuan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN SEHUBUNGAN DENGAN PEKERJAAN DARI PEGAWAI, KARYAWAN/KARYAWATI HARIAN DAN MINGGUAN SERTA ATAS PENGHASILAN BERUPA HONORARIUM YANG TIDAK TERATUR",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemotongan-pajak-penghasilan-atas-penghasilan-sehubungan-dengan-pekerjaan-1"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 9 SAMPAI DENGAN 15 JULI 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-127"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 16 SAMPAI DENGAN 22 SEPTEMBER 2002",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-172"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-12-31",
+   "detail_error": null,
+   "number_as_written": "52 TAHUN 1997",
+   "retrieved_at": "2026-10-12T07:11:47+00:00",
+   "source": "DJP",
+   "title_as_written": "SEKRETARIAT BADAN PENYELESAIAN SENGKETA PAJAK",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/sekretariat-badan-penyelesaian-sengketa-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=330",
+   "retrieved_at": "2026-10-10T07:20:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/sekretariat-badan-penyelesaian-sengketa-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "SEKRETARIAT BADAN PENYELESAIAN SENGKETA PAJAK"
+}

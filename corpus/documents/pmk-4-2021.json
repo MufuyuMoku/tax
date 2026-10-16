@@ -1,0 +1,212 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK4PMK032021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "4",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK4PMK032021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-4-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "4",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-4-2021--b000-1",
+  "pmk-4-2021--b001-2",
+  "pmk-4-2021--b002-3",
+  "pmk-4-2021--b003-4",
+  "pmk-4-2021--b004-5",
+  "pmk-4-2021--b005-6",
+  "pmk-4-2021--b006-7",
+  "pmk-4-2021--b007-8",
+  "pmk-4-2021--b008-9",
+  "pmk-4-2021--b009-10",
+  "pmk-4-2021--b010-11",
+  "pmk-4-2021--b011-12",
+  "pmk-4-2021--b012-13",
+  "pmk-4-2021--b013-14",
+  "pmk-4-2021--b014-15",
+  "pmk-4-2021--b015-16",
+  "pmk-4-2021--b016-17",
+  "pmk-4-2021--b017-18",
+  "pmk-4-2021--b018-19",
+  "pmk-4-2021--b019-20",
+  "pmk-4-2021--b020-21",
+  "pmk-4-2021--b021-22",
+  "pmk-4-2021--b022-23",
+  "pmk-4-2021--b023-24",
+  "pmk-4-2021--b024-25",
+  "pmk-4-2021--b025-26",
+  "pmk-4-2021--b026-27",
+  "pmk-4-2021--b027-28",
+  "pmk-4-2021--b028-29",
+  "pmk-4-2021--b029-30",
+  "pmk-4-2021--b030-31"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-134-2021",
+    "key": [
+     "PMK",
+     "134",
+     "2021",
+     null
+    ],
+    "number_as_written": "134/PMK.03/2021",
+    "quote": "Pasal 29 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 4/PMK.03/2021 tentang Pembayaran Bea Meterai, Ciri Umum dan Ciri Khusus Meterai Tempel, Meterai Dalam Bentuk Lain, dan Penentuan Keabsahan Meterai, serta Pemeteraian Kemudian (Berita Negara Republik Indonesia Tahun 2021 Nomor 34), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEMBAYARAN BEA METERAI, CIRI UMUM DAN CIRI KHUSUS PADA METERAI TEMPEL, KODE UNIK DAN KETERANGAN TERTENTU PADA METERAI ELEKTRONIK, METERAI DALAM BENTUK LAIN, DAN PENENTUAN KEABSAHAN METERAI, SERTA PEMETERAIAN KEMUDIAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "65",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 65/PMK.03/2014",
+    "quote": "Pasal 29 Pada saat Peraturan Menteri ini mulai berlaku: a. Meterai tempel yang telah dicetak berdasarkan Peraturan Menteri Keuangan Nomor 65/PMK.03/2014 tentang Bentuk, Ukuran, dan Warna Benda Meterai tetap berlaku dan masih dapat dipergunakan sampai dengan tanggal 31 Desember 2021, dan tidak dapat ditukarkan dengan uang atau dalam bentuk apa pun. b. Pembayaran Bea Meterai dengan menggunakan Meterai tempel sebagaimana dimaksud dalam huruf a dilakukan dengan: 1. menggunakan Meterai tempel yang sah dan berlaku sesuai dengan Peraturan Menteri Keuangan Nomor 65/PMK.03/2014 tentang Bentuk, Ukuran, dan Warna Benda Meterai, serta belum pernah dipakai untuk pembayaran Bea Meterai atas suatu Dokumen; … 4. Tanda Tangan dibubuhkan sebagian di atas kertas dan sebagian di atas semua Meterai tempel disertai dengan pencantuman tanggal, bulan, dan tahun dilakukannya penandatanganan. c. Izin pembubuhan tanda Bea Meterai lunas dengan menggunakan mesin teraan meterai digital dan teknologi percetakan, serta izin sebagai pelaksana pembubuhan tanda Bea Meterai lunas yang diterbitkan berdasarkan Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000 tentang Pelunasan Bea Meterai dengan Menggunakan Cara Lain masih berlaku sampai dengan masa berlaku izin berakhir atau izin dicabut.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-65-2014"
+   },
+   {
+    "key": [
+     "KMK",
+     "133B/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000",
+    "quote": "c. Izin pembubuhan tanda Bea Meterai lunas dengan menggunakan mesin teraan meterai digital dan teknologi percetakan, serta izin sebagai pelaksana pembubuhan tanda Bea Meterai lunas yang diterbitkan berdasarkan Keputusan Menteri Keuangan Nomor 133b/KMK.04/2000 tentang Pelunasan Bea Meterai dengan Menggunakan Cara Lain masih berlaku sampai dengan masa berlaku izin berakhir atau izin dicabut.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-133b-kmk-04-2000"
+   },
+   {
+    "key": [
+     "PMK",
+     "70",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 70/PMK.03/2014",
+    "quote": "Pasal 30 Pada saat Peraturan Menteri ini mulai berlaku: … c. Peraturan Menteri Keuangan Nomor 70/PMK.03/2014 tentang Tata Cara Pemeteraian Kemudian (Berita Negara Republik Indonesia Tahun 2014 Nomor 568), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-70-2014"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 133b/KMK.04/2000 — Pelunasan Bea Meterai dengan Menggunakan Cara Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/133b-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 65/PMK.03/2014 — Bentuk, Ukuran, dan Warna Benda Meterai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 70/PMK.03/2014 — Tata Cara Pemeteraian Kemudian.",
+    "url": "https://jdih.kemenkeu.go.id/dok/70-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 134/PMK.03/2021 — Pembayaran Bea Meterai, Ciri Umum dan Ciri Khusus pada Meterai Tempel, Kade Unik dan Keterangan Tertentu pada Meterai Elektronik, Meterai dalam Bentuk Lain, dan Penentuan Keabsahan Meterai, serta Pemeteraian Kemudian",
+    "url": "https://jdih.kemenkeu.go.id/dok/134-pmk-03-2021"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-01-19",
+   "detail_error": null,
+   "number_as_written": "4/PMK.03/2021",
+   "retrieved_at": "2026-10-10T00:53:40+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAYARAN BEA METERAI, CIRI UMUM DAN CIRI KHUSUS METERAI TEMPEL, METERAI DALAM BENTUK LAIN, DAN PENENTUAN KEABSAHAN METERAI, SERTA PEMETERAIAN KEMUDIAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-bea-meterai-ciri-umum-dan-ciri-khusus-meterai-tempel-meterai-dalam-bentuk-0"
+  },
+  {
+   "date_as_written": "2021-01-19 00:00:00",
+   "number_as_written": "4/PMK.03/2021",
+   "page_retrieved_at": "2026-10-11T01:31:38+00:00",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pembayaran Bea Meterai, Ciri Umum dan Ciri Khusus Meterai Tempel, Meterai Dalam Bentuk Lain, dan Penentuan Keabsahan Meterai, Serta Pemeteraian Kemudian",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/4-pmk-03-2021",
+   "validity_as_written": "20 Jan 2021 - 29 Sep 2021"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 134/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=1",
+   "retrieved_at": "2026-10-10T00:43:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembayaran-bea-meterai-ciri-umum-dan-ciri-khusus-meterai-tempel-meterai-dalam-bentuk-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:21:45+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/4-pmk-03-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 22873,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:53:40+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pembayaran-bea-meterai-ciri-umum-dan-ciri-khusus-meterai-tempel-meterai-dalam-bentuk-0"
+ },
+ "title": "PEMBAYARAN BEA METERAI, CIRI UMUM DAN CIRI KHUSUS METERAI TEMPEL, METERAI DALAM BENTUK LAIN, DAN PENENTUAN KEABSAHAN METERAI, SERTA PEMETERAIAN KEMUDIAN"
+}

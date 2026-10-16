@@ -1,0 +1,115 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-11-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "11",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "daerah",
+ "pasal_ids": [
+  "pmk-11-2010--b000-1",
+  "pmk-11-2010--b001-2",
+  "pmk-11-2010--b002-3",
+  "pmk-11-2010--b003-4",
+  "pmk-11-2010--b004-5",
+  "pmk-11-2010--b005-6",
+  "pmk-11-2010--b006-7",
+  "pmk-11-2010--b007-8",
+  "pmk-11-2010--b008-9",
+  "pmk-11-2010--b009-10",
+  "pmk-11-2010--b010-11",
+  "pmk-11-2010--b011-12",
+  "pmk-11-2010--b012-13",
+  "pmk-11-2010--b013-14",
+  "pmk-11-2010--b014-15",
+  "pmk-11-2010--b015-16",
+  "pmk-11-2010--b016-17",
+  "pmk-11-2010--b017-18",
+  "pmk-11-2010--b018-19"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 17/PMK.07/2016 — Pencabutan Peraturan Menteri Keuangan Nomor 11/PMK.07/2010 tentang Tata Cara\r\nPengenaan Sanksi Terhadap Pelanggaran Ketentuan di Bidang Pajak Daerah dan Retribusi Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/17-pmk-07-2016"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-01-25",
+   "detail_error": null,
+   "number_as_written": "11/PMK.07/2010",
+   "retrieved_at": "2026-10-16T00:45:12+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGENAAN SANKSI TERHADAP PELANGGARAN KETENTUAN DI BIDANG PAJAK DAERAH DAN RETRIBUSI DAERAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-sanksi-terhadap-pelanggaran-ketentuan-di-bidang-pajak-daerah-dan"
+  },
+  {
+   "date_as_written": "2010-01-25 00:00:00",
+   "number_as_written": "11/PMK.07/2010",
+   "page_retrieved_at": "2026-10-16T01:04:47+00:00",
+   "retrieved_at": "2026-09-21T14:40:19+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengenaan Sanksi Terhadap Pelanggaran Ketentuan di Bidang Pajak Daerah dan Retribusi Daerah.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-07-2010",
+   "validity_as_written": "25 Jan 2010 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=33",
+   "retrieved_at": "2026-10-10T01:43:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-sanksi-terhadap-pelanggaran-ketentuan-di-bidang-pajak-daerah-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=369",
+   "retrieved_at": "2026-09-21T14:40:19+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-07-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17790,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-16T00:45:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-sanksi-terhadap-pelanggaran-ketentuan-di-bidang-pajak-daerah-dan"
+ },
+ "title": "TATA CARA PENGENAAN SANKSI TERHADAP PELANGGARAN KETENTUAN DI BIDANG PAJAK DAERAH DAN RETRIBUSI DAERAH"
+}

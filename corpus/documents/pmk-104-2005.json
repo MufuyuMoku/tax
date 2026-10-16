@@ -1,0 +1,106 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-104-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "104",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 561/KMK.03/2004 — Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-03-2004"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 91/PMK.03/2006 — Perubahan Kedua atas Keputusan Menteri Keuangan No. 561/KMK.04/2004 tentang Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/91-pmk-03-2006"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 238/PMK.03/2016 — Pencabutan atas Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Perpajakan dalam Rangka Simplifikasi Regulasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/238-pmk-03-2016"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-10-28",
+   "detail_error": null,
+   "number_as_written": "104/PMK.03/2005",
+   "retrieved_at": "2026-10-11T01:42:14+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 561/KMK.03/2004 TENTANG PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-561kmk032004-tentang-pemberian"
+  },
+  {
+   "date_as_written": "2005-10-28 00:00:00",
+   "number_as_written": "104/PMK.01/2005",
+   "page_retrieved_at": "2026-10-11T01:42:28+00:00",
+   "retrieved_at": "2026-09-21T14:46:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan Nomor 561/KMK.03/2004 tentang Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/104-pmk-01-2005",
+   "validity_as_written": "28 Okt 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=6",
+   "retrieved_at": "2026-10-10T01:01:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-561kmk032004-tentang-pemberian",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=458",
+   "retrieved_at": "2026-09-21T14:46:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/104-pmk-01-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 561/KMK.03/2004 TENTANG PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

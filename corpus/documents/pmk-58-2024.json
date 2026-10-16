@@ -1,0 +1,142 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PMK58_2024.pdf",
+   "match": "tidak_terverifikasi",
+   "note": "nomor peraturan tidak terbaca dari nama berkas",
+   "parsed_number": null,
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran_PMK58_2024.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-58-2024",
+ "identity": {
+  "code": "PMK",
+  "number": "58",
+  "variant": null,
+  "year": "2024"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-58-2024--b000-1",
+  "pmk-58-2024--b001-2",
+  "pmk-58-2024--b002-3",
+  "pmk-58-2024--b003-4",
+  "pmk-58-2024--b004-5",
+  "pmk-58-2024--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "147",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 147/PMK.07/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 147/PMK.07/2010 tentang Badan atau Perwakilan Lembaga Internasional yang Tidak Dikenakan Bea Perolehan Hak atas Tanah dan Bangunan (Berita Negara Republik Indonesia Tahun 2010 Nomor 414); dan b. Peraturan Menteri Keuangan Nomor 148/PMK.07/2010 tentang Badan atau Perwakilan Lembaga Internasional yang Tidak Dikenakan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (Berita Negara Republik Indonesia Tahun 2010 Nomor 415), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-147-2010"
+   },
+   {
+    "key": [
+     "PMK",
+     "148",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 148/PMK.07/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 148/PMK.07/2010 tentang Badan atau Perwakilan Lembaga Internasional yang Tidak Dikenakan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (Berita Negara Republik Indonesia Tahun 2010 Nomor 415), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-148-2010"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 147/PMK.07/2010 — Badan atau Perwakilan Lembaga Internasional yang Tidak Dikenakan Bea Perolehan Hak \r\n atas Tanah dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/147-pmk-07-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 148/PMK.07/2010 — Badan atau Perwakilan Lembaga Internasional yang Tidak Dikenakan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/148-pmk-07-2010"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2024-08-23",
+   "detail_error": null,
+   "number_as_written": "58 TAHUN 2024",
+   "retrieved_at": "2026-10-11T01:58:21+00:00",
+   "source": "DJP",
+   "title_as_written": "BADAN ATAU PERWAKILAN LEMBAGA INTERNASIONAL YANG TIDAK DIKENAKAN PAJAK BUMI DAN BANGUNAN PERDESAAN DAN PERKOTAAN DAN/ATAU BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-atau-perwakilan-lembaga-internasional-yang-tidak-dikenakan-pajak-bumi-dan-0"
+  },
+  {
+   "date_as_written": "2024-08-23 00:00:00",
+   "number_as_written": "PMK 58 TAHUN 2024",
+   "page_retrieved_at": "2026-10-11T01:46:33+00:00",
+   "retrieved_at": "2026-09-21T14:17:04+00:00",
+   "source": "JDIH",
+   "title_as_written": "Badan atau Perwakilan Lembaga Internasional yang Tidak Dikenakan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan dan/atau Bea Perolehan Hak atas Tanah dan Bangunan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-58-tahun-2024",
+   "validity_as_written": "02 Sep 2024 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=0",
+   "retrieved_at": "2026-10-10T00:41:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/badan-atau-perwakilan-lembaga-internasional-yang-tidak-dikenakan-pajak-bumi-dan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=27",
+   "retrieved_at": "2026-09-21T14:17:04+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-58-tahun-2024",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4743,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:58:21+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/badan-atau-perwakilan-lembaga-internasional-yang-tidak-dikenakan-pajak-bumi-dan-0"
+ },
+ "title": "BADAN ATAU PERWAKILAN LEMBAGA INTERNASIONAL YANG TIDAK DIKENAKAN PAJAK BUMI DAN BANGUNAN PERDESAAN DAN PERKOTAAN DAN/ATAU BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

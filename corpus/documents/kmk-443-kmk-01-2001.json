@@ -1,0 +1,104 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-443-kmk-01-2001",
+ "identity": {
+  "code": "KMK",
+  "number": "443/KMK.01",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-62-2009",
+    "key": [
+     "PMK",
+     "62",
+     "2009",
+     null
+    ],
+    "number_as_written": "62/PMK.01/2009",
+    "quote": "Pasal 82 Dengan berlakunya Peraturan Menteri Keuangan ini, maka : a. Keputusan Menteri Keuangan Nomor 443/KMK.01/2001 tentang Organisasi dan Tata Kerja Kantor Wilayah Direktorat Jenderal Pajak, Kantor Pelayanan Pajak, Kantor Pelayanan Pajak Bumi dan Bangunan, Kantor Pemeriksaan dan Penyidikan Pajak, dan Kantor Penyuluhan dan Pengamatan Potensi Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Menteri Keuangan Nomor 473/KMK.01/2004, dan b. Peraturan Menteri Keuangan Nomor 132/PMK.01/2006 tentang Organisasi dan Tata Kerja Instansi Vertikal Direktorat Jenderal Pajak sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 67/PMK.01/2008, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "ORGANISASI DAN TATA KERJA INSTANSI VERTIKAL DIREKTORAT JENDERAL PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-07-23",
+   "detail_error": null,
+   "number_as_written": "443/KMK.01/2001",
+   "retrieved_at": "2026-10-16T01:00:57+00:00",
+   "source": "DJP",
+   "title_as_written": "ORGANISASI DAN TATA KERJA KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK, KANTOR PELAYANAN PAJAK, KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN, KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK, DAN KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-kantor-wilayah-direktorat-jenderal-pajak-kantor-pelayanan-pajak"
+  },
+  {
+   "date_as_written": "2001-12-04 00:00:00",
+   "number_as_written": "443/KMK.01/2001",
+   "page_retrieved_at": "2026-10-16T01:05:51+00:00",
+   "retrieved_at": "2026-09-21T14:49:10+00:00",
+   "source": "JDIH",
+   "title_as_written": "Organisasi dan Tata Kerja Kantor Wilayah Direktorat Jenderal Pajak, Kantor Pelayanan Pajak, Kantor Pelayanan Pajak Bumi dan Bangunan, Kantor Pemeriksaan dan Penyidikan Pajak, dan Kantor Penyuluhan dan Pengamatan Potensi Perpajakan.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/443-kmk-01-2001",
+   "validity_as_written": "04 Des 2001 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 62/2009 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=241",
+   "retrieved_at": "2026-10-10T06:46:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/organisasi-dan-tata-kerja-kantor-wilayah-direktorat-jenderal-pajak-kantor-pelayanan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=33",
+   "retrieved_at": "2026-09-21T14:49:10+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/443-kmk-01-2001",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "ORGANISASI DAN TATA KERJA KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK, KANTOR PELAYANAN PAJAK, KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN, KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK, DAN KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN"
+}

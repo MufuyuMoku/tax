@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-515-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "515/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-14",
+   "detail_error": null,
+   "number_as_written": "515/KMK.04/2000",
+   "retrieved_at": "2026-10-11T01:47:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 638/KMK.04/1997 TENTANG TATA CARA PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-638kmk041997-tentang-tata-cara-pengenaan-bea"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=10",
+   "retrieved_at": "2026-10-10T01:03:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-638kmk041997-tentang-tata-cara-pengenaan-bea",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 638/KMK.04/1997 TENTANG TATA CARA PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN"
+}

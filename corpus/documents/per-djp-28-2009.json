@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   },
   {
@@ -20,6 +24,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-28-2009--b000-1",
   "per-djp-28-2009--b001-2",
@@ -81,6 +86,7 @@
   {
    "date_as_written": "2009-04-20 00:00:00",
    "number_as_written": "PerDJP 28/PJ/2009",
+   "page_retrieved_at": "2026-10-11T01:39:25+00:00",
    "retrieved_at": "2026-09-21T14:58:03+00:00",
    "selected_because": [
     "judul"
@@ -88,7 +94,8 @@
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Ketentuan Peralihan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan.",
    "type_as_written": "Peraturan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-28-pj-2009"
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-28-pj-2009",
+   "validity_as_written": "20 Apr 2009 - s.d. Dicabut"
   }
  ],
  "status": {

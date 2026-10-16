@@ -2,7 +2,7 @@
   "id": "/tax/",
   "name": "Saku Pajak — cari peraturan pajak",
   "short_name": "Saku Pajak",
-  "description": "Pencari peraturan pajak Indonesia (PPh, KUP, PPN). Bukan situs resmi pemerintah. Bisa dipakai tanpa internet setelah dipasang.",
+  "description": "Pencari peraturan pajak pusat Indonesia (PPh, KUP, PPN, Bea Meterai, PBB, BPHTB, dan lainnya). Bukan situs resmi pemerintah. Bisa dipakai tanpa internet setelah dipasang.",
   "lang": "id",
   "start_url": "/tax/",
   "scope": "/tax/",

@@ -1,23 +1,20 @@
 {
  "amendment_items": null,
- "chars": 43,
+ "chars": 883,
  "document_id": "pp-34-2016",
- "document_number": "PP 34 TAHUN 2016",
- "document_title": "Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya",
+ "document_number": "34 TAHUN 2016",
+ "document_title": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN, DAN PERJANJIAN PENGIKATAN JUAL BELI ATAS TANAH DAN/ATAU BANGUNAN BESERTA PERUBAHANNYA",
  "id": "pp-34-2016--b009-10",
  "label": "10",
  "order": 9,
- "quality_flags": [
-  "urutan_loncat:10->10",
-  "pasal_ganda"
- ],
+ "quality_flags": [],
  "quoted_pasal": null,
  "section": "batang_tubuh",
  "structure": "biasa",
- "text": "Pasal 10\n\nPRESIDEN\nREPU BLIK INOONESIA\n_t2_",
+ "text": "Pasal 10\nPada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan perundang-undangan yang merupakan pelaksanaan dari Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 3580) sebagaimana telah beberapa kali diubah terakhir dengan dengan Peraturan Pemerintah Nomor 71 Tahun 2008 tentang Perubahan Ketiga Atas Peraturan Pemerintah Nomor 48 Tahun 1994 tentang Pembayaran Pajak Penghasilan atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 164, Tambahan Lembaran Negara Republik Indonesia Nomor 4914), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Pemerintah ini.",
  "text_source": {
-  "retrieved_at": "2026-10-09T00:59:47+00:00",
-  "source": "JDIH",
-  "url": "https://jdih.kemenkeu.go.id/api/download/59e6ec13-8112-41f7-b63b-6891cac23310/34TAHUN2016PP.pdf"
+  "retrieved_at": "2026-10-11T01:37:18+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak-atas-tanah-danatau-bangunan-dan"
  }
 }

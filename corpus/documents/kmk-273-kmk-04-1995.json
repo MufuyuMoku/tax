@@ -1,0 +1,95 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-273-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "273/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 196/KMK.04/1994 — Perubahan atas Lampiran Ii (Tiga), Iv (Empat), V (Lima), Vi (Enam) Keputusan Menteri Keuangan No 174/KMK.04/1993 tentang Penentuan Klasifikasi dan Besarnya Nilai Jual Obyek Pajak Sebagai Dasar Pelunasan Pajak Bumi dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/196-kmk-04-1994"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-06-28",
+   "detail_error": null,
+   "number_as_written": "273/KMK.04/1995",
+   "retrieved_at": "2026-10-11T02:36:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS LAMPIRAN III (TIGA), IV (EMPAT), V (LIMA), VI (ENAM) KEPUTUSAN MENTERI KEUANGAN NOMOR 174/KMK.04/1993 TENTANG PENENTUAN KLASIFIKASI DAN BESARNYA NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 196/KMK.04/1994",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-lampiran-iii-tiga-iv-empat-v-lima-vi-enam-keputusan-menteri-keuangan-0"
+  },
+  {
+   "date_as_written": "1995-06-28 00:00:00",
+   "number_as_written": "273/KMK.04/1995",
+   "page_retrieved_at": "2026-10-11T02:00:04+00:00",
+   "retrieved_at": "2026-09-21T14:53:22+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Lampiran Iii (Tiga), Iv (Empat), V (Lima), Vi (Enam), Kepmenkeu No. 174/KMK.04/93 tentang Penentuan Klasifikasi dan Besarnya Nilai Jual Objek Pajak Sebagai Dasar Pengenaan Pajak Bumi dan Bangunan Sebagaimana Telah Beberapa Kali [...]",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/273-kmk-04-1995",
+   "validity_as_written": "28 Jun 1995 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=38",
+   "retrieved_at": "2026-10-10T01:23:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-lampiran-iii-tiga-iv-empat-v-lima-vi-enam-keputusan-menteri-keuangan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=96",
+   "retrieved_at": "2026-09-21T14:53:22+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/273-kmk-04-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS LAMPIRAN III (TIGA), IV (EMPAT), V (LIMA), VI (ENAM) KEPUTUSAN MENTERI KEUANGAN NOMOR 174/KMK.04/1993 TENTANG PENENTUAN KLASIFIKASI DAN BESARNYA NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 196/KMK.04/1994"
+}

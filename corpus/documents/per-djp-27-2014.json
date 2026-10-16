@@ -1,0 +1,104 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-27-2014",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "27",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-27-2014--b000-1",
+  "per-djp-27-2014--b001-2",
+  "per-djp-27-2014--b002-3",
+  "per-djp-27-2014--b003-4",
+  "per-djp-27-2014--b004-5",
+  "per-djp-27-2014--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-22-2020",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2020",
+    "quote": "… b. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2014 tentang Tata Cara Penetapan Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan; … dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "60",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-60/PJ/2010",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: a. tata cara penetapan NJOP sebagai dasar pengenaan PBB untuk tahun pajak 2014 dan sebelumnya yang dilaksanakan setelah berlakunya Peraturan Direktur Jenderal ini, dilakukan berdasarkan ketentuan sebagaimana diatur dalam Peraturan Direktur Jenderal ini, b. Peraturan Direktur Jenderal Pajak Nomor PER-60/PJ/2010 tentang Tata Cara Penetapan Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-60-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-10-13",
+   "detail_error": null,
+   "number_as_written": "PER-27/PJ/2014",
+   "retrieved_at": "2026-10-11T02:09:04+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENETAPAN NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-nilai-jual-objek-pajak-sebagai-dasar-pengenaan-pajak-bumi-dan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=12",
+   "retrieved_at": "2026-10-10T01:09:36+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-nilai-jual-objek-pajak-sebagai-dasar-pengenaan-pajak-bumi-dan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4347,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:09:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penetapan-nilai-jual-objek-pajak-sebagai-dasar-pengenaan-pajak-bumi-dan-0"
+ },
+ "title": "TATA CARA PENETAPAN NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN"
+}

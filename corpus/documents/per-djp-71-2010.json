@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-71-2010",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "71",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-71-2010--b000-1",
+  "per-djp-71-2010--b001-2",
+  "per-djp-71-2010--b002-3",
+  "per-djp-71-2010--b003-4",
+  "per-djp-71-2010--b004-5",
+  "per-djp-71-2010--b005-6",
+  "per-djp-71-2010--b006-7",
+  "per-djp-71-2010--b007-8",
+  "per-djp-71-2010--b008-9",
+  "per-djp-71-2010--b009-10",
+  "per-djp-71-2010--b010-11",
+  "per-djp-71-2010--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-11-2012",
+    "key": [
+     "PER-DJP",
+     "11",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-11/PJ/2012",
+    "quote": "Pasal 1 6 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku , Peraturan Direktur Jenderal Pajak Nomor PER-71/PJ/2010 tentang Tata Cara Penatausahaan Pajak Bumi dan Bangunan Pertambangan Minyak dan Gas Bumi , dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "16",
+     "1998",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998",
+    "quote": "Pasal 10 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, ketentuan dalam: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan, yang mengatur mengenai pengenaan PBB Pertambangan Migas; dan 2. Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ.6/1997 tentang Tatacara Penatausahaan Data Objek Pajak Bumi dan bangunan Pertambangan Migas dan Panas Bumi serta Pembayarannya, yang mengatur mengenai penatausahaan PBB Pertambangan Migas, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-16-1998"
+   },
+   {
+    "key": [
+     "KEP-DJP",
+     "19",
+     "1997",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ.6/1997",
+    "quote": "Pasal 10 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, ketentuan dalam: … 2. Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ.6/1997 tentang Tatacara Penatausahaan Data Objek Pajak Bumi dan bangunan Pertambangan Migas dan Panas Bumi serta Pembayarannya, yang mengatur mengenai penatausahaan PBB Pertambangan Migas, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-19-1997"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-12-31",
+   "detail_error": null,
+   "number_as_written": "PER-71/PJ/2010",
+   "retrieved_at": "2026-10-11T02:15:37+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENATAUSAHAAN PAJAK BUMI DAN BANGUNAN PERTAMBANGAN MINYAK DAN GAS BUMI",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-bumi-dan-bangunan-pertambangan-minyak-dan-gas-bumi"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=18",
+   "retrieved_at": "2026-10-10T01:14:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-bumi-dan-bangunan-pertambangan-minyak-dan-gas-bumi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 10189,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:15:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pajak-bumi-dan-bangunan-pertambangan-minyak-dan-gas-bumi"
+ },
+ "title": "TATA CARA PENATAUSAHAAN PAJAK BUMI DAN BANGUNAN PERTAMBANGAN MINYAK DAN GAS BUMI"
+}

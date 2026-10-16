@@ -139,8 +139,20 @@ export function documentTitle(doc) {
 }
 
 // Category provenance (K-051, SPEC section 9): only which category list of the DJP catalogue a
-// document was found in, and only PPh, KUP, PPN. Never the source's own classification or tags.
-export const CATEGORIES = ["PPh", "KUP", "PPN"];
+// document was found in. Never the source's own classification or tags. v1.1 (M7) adds Bea Meterai,
+// PBB, BPHTB, and the part of "Lainnya" in the owner's scope (K-088).
+export const CATEGORIES = ["PPh", "KUP", "PPN", "Bea Meterai", "PBB", "BPHTB", "Lainnya"];
+
+// The local-tax note on cards and document pages (K-086), by the pipeline's `pajak_daerah` value.
+export const LOCAL_TAX_NOTE = {
+  pbb_bphtb:
+    "BPHTB dan PBB rumah atau tanah kini pajak daerah, diatur pemerintah daerah lewat perda (sejak UU 28/2009). " +
+    "Peraturan pusat di sini berlaku untuk PBB sektor perkebunan, perhutanan, pertambangan, dan migas (PBB-P5L), " +
+    "atau untuk keadaan sebelum peralihan; periksa status per sumbernya.",
+  daerah:
+    "Pajak daerah dan retribusi diatur pemerintah daerah lewat perda; perdanya tidak ada di situs ini. " +
+    "Peraturan pusat di sini mengatur kerangkanya; periksa status per sumbernya.",
+};
 
 export function categoryNote(categories) {
   const fromDjp = CATEGORIES.filter((name) => categories.some((c) => c.kategori === name && c.asal === "daftar_djp"));

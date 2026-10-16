@@ -1,0 +1,148 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-119-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "119",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-119-2016--b000-1",
+  "pmk-119-2016--b001-2",
+  "pmk-119-2016--b002-3",
+  "pmk-119-2016--b003-4",
+  "pmk-119-2016--b004-5",
+  "pmk-119-2016--b005-6",
+  "pmk-119-2016--b006-7",
+  "pmk-119-2016--b007-8",
+  "pmk-119-2016--b008-9",
+  "pmk-119-2016--b009-10",
+  "pmk-119-2016--b010-11",
+  "pmk-119-2016--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-123-2016",
+    "key": [
+     "PMK",
+     "123",
+     "2016",
+     null
+    ],
+    "number_as_written": "123/PMK.08/2016",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 119/PMK.08/2016 tentang Tata Cara Pengalihan Harta Wajib Pajak ke dalam Wilayah Negara Kesatuan Republik Indonesia dan Penempatan pada Instrumen Investasi di Pasar Keuangan dalam rangka Pengampunan Pajak (Berita Negara Republik Indonesia Tahun 2016 Nomor 1046), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 119/PMK.08/2016 TENTANG TATA CARA PENGALIHAN HARTA WAJIB PAJAK KE DALAM WILAYAH NEGARA KESATUAN REPUBLIK INDONESIA DAN PENEMPATAN PADA INSTRUMEN INVESTASI DI PASAR KEUANGAN DALAM RANGKA PENGAMPUNAN PAJAK"
+   },
+   {
+    "id": "pmk-150-2016",
+    "key": [
+     "PMK",
+     "150",
+     "2016",
+     null
+    ],
+    "number_as_written": "150/PMK.08/2016",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 119/PMK.08/2016 tentang Tata Cara Pengalihan Harta Wajib Pajak ke dalam Wilayah Negara Kesatuan Republik Indonesia dan Penempatan pada Instrumen Investasi di Pasar Keuangan dalam rangka Pengampunan Pajak (Berita Negara Republik Indonesia Tahun 2016 Nomor 1046) sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 123/PMK.08/2016 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 119/PMK.08/2016 tentang Tata Cara Pengalihan Harta Wajib Pajak ke dalam Wilayah Negara Kesatuan Republik Indonesia dan Penempatan pada Instrumen Investasi di Pasar Keuangan dalam rangka Pengampunan Pajak (Berita Negara Republik Indonesia Tahun 2016 Nomor 1162), diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 119/PMK.08/2016 TENTANG TATA CARA PENGALIHAN HARTA WAJIB PAJAK KE DALAM WILAYAH NEGARA KESATUAN REPUBLIK INDONESIA DAN PENEMPATAN PADA INSTRUMEN INVESTASI DI PASAR KEUANGAN DALAM RANGKA PENGAMPUNAN PAJAK"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 141/PMK.08/2017 — Tata Cara Pengalihan Harta Wajib Pajak Ke dalam Wilayah Negara Kesatuan Republik\r\nIndonesia dan Penempatan pada Investasi di Pasar Keuangan dan di Luar Pasar Keuangan dalam Rangka Pengampunan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/141-pmk-08-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 150/PMK.08/2016 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 119/PMK.08/2016 tentang Tata Cara Pengalihan Harta Wajib Pajak Ke dalam Wilayah Negara Kesatuan Republik Indonesia dan Penempatan pada Instrumen Investasi di Pasar Keuangan dalam Rangka Pengampunan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/150-pmk-08-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 123/PMK.08/2016 — Perubahan atas Peraturan Menteri Keuangan Nomor 119/PMK.08/2016 tentang Tata Cara Pengalihan Harta Wajib Pajak Ke dalam Wilayah Negara Kesatuan Republik Indonesia dan Penempatan pada Instrumen Investasi di Pasar Keuangan dalam Rangka Pengampunan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-08-2016"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-07-18",
+   "detail_error": null,
+   "number_as_written": "119/PMK.08/2016",
+   "retrieved_at": "2026-10-11T03:16:14+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGALIHAN HARTA WAJIB PAJAK KE DALAM WILAYAH NEGARA KESATUAN REPUBLIK INDONESIA DAN PENEMPATAN PADA INSTRUMEN INVESTASI DI PASAR KEUANGAN DALAM RANGKA PENGAMPUNAN PAJAK",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengalihan-harta-wajib-pajak-ke-dalam-wilayah-negara-kesatuan-republik"
+  },
+  {
+   "date_as_written": "2016-07-18 00:00:00",
+   "number_as_written": "119/PMK.08/2016",
+   "page_retrieved_at": "2026-10-11T02:06:33+00:00",
+   "retrieved_at": "2026-09-21T14:28:57+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengalihan Harta Wajib Pajak Ke dalam Wilayah Negara Kesatuan Republik Indonesia dan Penempatan pada Instrumen Investasi di Pasar Keuangan dalam Rangka Pengampunan Pajak.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-08-2016",
+   "validity_as_written": "18 Jul 2016 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=9",
+   "retrieved_at": "2026-10-10T01:32:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengalihan-harta-wajib-pajak-ke-dalam-wilayah-negara-kesatuan-republik",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=203",
+   "retrieved_at": "2026-09-21T14:28:57+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/119-pmk-08-2016",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 17226,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:16:14+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengalihan-harta-wajib-pajak-ke-dalam-wilayah-negara-kesatuan-republik"
+ },
+ "title": "TATA CARA PENGALIHAN HARTA WAJIB PAJAK KE DALAM WILAYAH NEGARA KESATUAN REPUBLIK INDONESIA DAN PENEMPATAN PADA INSTRUMEN INVESTASI DI PASAR KEUANGAN DALAM RANGKA PENGAMPUNAN PAJAK"
+}

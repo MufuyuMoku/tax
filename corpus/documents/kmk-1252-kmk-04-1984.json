@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1252-kmk-04-1984",
+ "identity": {
+  "code": "KMK",
+  "number": "1252/KMK.04",
+  "variant": null,
+  "year": "1984"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1984-12-18",
+   "detail_error": null,
+   "number_as_written": "1252/KMK.04/1984",
+   "retrieved_at": "2026-10-10T00:49:48+00:00",
+   "source": "DJP",
+   "title_as_written": "PENINJAUAN KEMBALI BEA METERAI ATAS TANDA-TANDA SEBAGAI DIMAKSUD DALAM PASAL 38, PASAL 44a, PASAL 45 AYAT (1) b, AYAT (9) DAN AYAT (11) d, PASAL 61 AYAT (1) a DAN b, PASAL 62, PASAL 63 AYAT (2), PASAL 69 AYAT (3), PASAL 80 AYAT (2) DAN PENETAPAN TARIF MINIMUM BEA METERAI, SERTA BEA METERAI ATAS TANDA-TANDA SEBAGAI DIMAKSUD DALAM PASAL 23 AYAT (1) DAN AYAT (3), PASAL 25 AYAT (1) DAN AYAT (2), PASAL 69 AYAT (1), PASAL 78, PASAL 109 AYAT (1) DAN AYAT (2) ATURAN BEA METERAI 1921",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/peninjauan-kembali-bea-meterai-atas-tanda-tanda-sebagai-dimaksud-dalam-pasal-38-pasal-44a"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=12",
+   "retrieved_at": "2026-10-10T00:40:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/peninjauan-kembali-bea-meterai-atas-tanda-tanda-sebagai-dimaksud-dalam-pasal-38-pasal-44a",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENINJAUAN KEMBALI BEA METERAI ATAS TANDA-TANDA SEBAGAI DIMAKSUD DALAM PASAL 38, PASAL 44a, PASAL 45 AYAT (1) b, AYAT (9) DAN AYAT (11) d, PASAL 61 AYAT (1) a DAN b, PASAL 62, PASAL 63 AYAT (2), PASAL 69 AYAT (3), PASAL 80 AYAT (2) DAN PENETAPAN TARIF MINIMUM BEA METERAI, SERTA BEA METERAI ATAS TANDA-TANDA SEBAGAI DIMAKSUD DALAM PASAL 23 AYAT (1) DAN AYAT (3), PASAL 25 AYAT (1) DAN AYAT (2), PASAL 69 AYAT (1), PASAL 78, PASAL 109 AYAT (1) DAN AYAT (2) ATURAN BEA METERAI 1921"
+}

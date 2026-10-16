@@ -24,6 +24,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-2-2014--b000-1",
   "per-djp-2-2014--b001-2",
@@ -36,7 +37,22 @@
  "relations": {
   "amended_by": [],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2019",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-07/PJ/2019",
+    "quote": "Pasal 6 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-02/PJ/2014 tentang Tata Cara Penyampaian Pengaduan Pelayanan Perpajakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENYAMPAIAN PENGADUAN PELAYANAN PERPAJAKAN"
+   }
+  ],
   "revokes": [
    {
     "key": [

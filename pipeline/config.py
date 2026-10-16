@@ -42,7 +42,11 @@ HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HAR
 
 # Categories of the DJP catalogue that are in the corpus. M5 runs in two stages (SPEC section 7):
 # KUP first, then PPN (2026-10-09). PPh comes from the proof of concept.
-DJP_CATEGORIES = ["KUP", "PPN"]
+DJP_CATEGORIES = ["KUP", "PPN", "BM", "BPHTB", "PBB", "Lainnya"]
+# v1.1 (M7, 2026-10-16): Bea Meterai, BPHTB, PBB, and the regulations of "Lainnya" the owner put in
+# scope (src/data/cakupan-lainnya.json, K-088). Shown under these names:
+CATEGORY_NAMES = {"BM": "Bea Meterai"}
+SCOPE_LAINNYA = ROOT / "src" / "data" / "cakupan-lainnya.json"
 
 # Text of the full-text files fetched from JDIH in M5 (PPh documents only JDIH has). Approved by the
 # owner on 2026-10-09 together with its effect on the evaluation set (K-066): PPh median 5 -> 6.

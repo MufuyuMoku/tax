@@ -1,0 +1,84 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-28-1986",
+ "identity": {
+  "code": "PP",
+  "number": "28",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-86-2021",
+    "key": [
+     "PP",
+     "86",
+     "2021",
+     null
+    ],
+    "number_as_written": "86 TAHUN 2021",
+    "quote": "Pasal 13 Pada saat Peraturan Pemerintah ini mulai berlaku, peraturan Pemerintah Nomor 28 Tahun 1986 tentang Pengadaan, Pengelolaan dan Penjualan Benda Meterai (Lembaran Negara Republik Indonesia Tahun 1986 Nomor 41), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENGADAAN, PENGELOLAAN, DAN PENJUALAN METERAI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-06-05",
+   "detail_error": null,
+   "number_as_written": "28 TAHUN 1986",
+   "retrieved_at": "2026-10-10T00:48:44+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGADAAN, PENGELOLAAN DAN PENJUALAN BENDA METERAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pengadaan-pengelolaan-dan-penjualan-benda-meterai-0"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PP 86/2021 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=12",
+   "retrieved_at": "2026-10-10T00:40:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengadaan-pengelolaan-dan-penjualan-benda-meterai-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGADAAN, PENGELOLAAN DAN PENJUALAN BENDA METERAI"
+}

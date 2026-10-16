@@ -46,6 +46,7 @@ def collect():
                 "attachment_urls": [],
                 "categories": [],
                 "unusable_files": [],
+                "local_tax": False,
             }
         return documents[key]
 
@@ -61,23 +62,32 @@ def collect():
             else:
                 details[row["path"]] = row
 
+    # "Lainnya" enters only for the regulations the owner put in scope (K-088); its local-tax ones
+    # carry the local-tax note (K-086).
+    scope = json.loads(config.SCOPE_LAINNYA.read_text(encoding="utf8"))["peraturan"] if config.SCOPE_LAINNYA.exists() else []
+    lainnya_in = {e["path"]: e["kelompok"] for e in scope if e.get("masuk") is True}
     djp_rows = [(row, "PPh") for row in read_jsonl(config.IN_DJP_LIST)]
-    djp_rows += [(row, row["_kategori_daftar"]) for row in _read_optional(config.HARVEST_DJP_LIST)
-                 if row["_kategori_daftar"] in config.DJP_CATEGORIES]
+    djp_rows += [(row, config.CATEGORY_NAMES.get(row["_kategori_daftar"], row["_kategori_daftar"]))
+                 for row in _read_optional(config.HARVEST_DJP_LIST)
+                 if row["_kategori_daftar"] in config.DJP_CATEGORIES
+                 and (row["_kategori_daftar"] != "Lainnya" or row.get("path") in lainnya_in)]
 
     seen_urls = {}
     for row, category in djp_rows:
         if not row.get("path") or OUT_OF_SCOPE.search(row.get("judul") or ""):
             continue
         url = config.DJP_BASE + row["path"]
+        local = category == "Lainnya" and lainnya_in.get(row["path"]) == "pajak daerah dan retribusi"
         if url in seen_urls:
             # The catalogue lists some documents twice, and some in two categories.
             _add_category(seen_urls[url], category, "daftar_djp")
+            seen_urls[url]["local_tax"] |= local
             continue
         detail = details.get(row["path"], {"error": "detail belum diambil"})
         doc = slot(parse(row.get("jenis"), row.get("nomor"), row.get("judul")), row["path"], row.get("judul"))
         seen_urls[url] = doc
         _add_category(doc, category, "daftar_djp")
+        doc["local_tax"] |= local
         doc["source_records"].append({
             "source": "DJP",
             "url": url,
@@ -132,7 +142,8 @@ def collect():
             jdih_by_key.setdefault(key, slug)
     for key in sorted(documents, key=str):
         doc = documents[key]
-        m5 = [c["kategori"] for c in doc["categories"] if c["kategori"] in config.DJP_CATEGORIES]
+        shown = {config.CATEGORY_NAMES.get(name, name) for name in config.DJP_CATEGORIES}
+        m5 = [c["kategori"] for c in doc["categories"] if c["kategori"] in shown]
         if m5 and key[0] != "?" and key in jdih_by_key:
             wanted.append((jdih_by_key[key], m5[0], None))
 
@@ -231,6 +242,11 @@ def _read_optional(path):
     return list(read_jsonl(path)) if path.exists() else []
 
 
+def _local_only(categories):
+    names = {c["kategori"] for c in categories}
+    return bool(names & {"PBB", "BPHTB"}) and not names & {"PPh", "KUP", "PPN", "Bea Meterai"}
+
+
 def _add_category(doc, name, origin):
     entry = {"kategori": name, "asal": origin}
     if entry not in doc["categories"]:
@@ -320,9 +336,15 @@ def build():
             },
             "attachments": [attachments.check(url, key) for url in dict.fromkeys(entry["attachment_urls"])],
             "identity_conflicts": [],
-            # Which category lists the document was found in: provenance, PPh/KUP/PPN only (K-051).
+            # Which category lists the document was found in: provenance only (K-051).
             "categories": sorted(entry["categories"], key=lambda c: (c["kategori"], c["asal"])),
             "original_files": entry["unusable_files"],
+            # Local-tax note (K-086): PBB and BPHTB became local taxes (UU 28/2009) except PBB-P5L;
+            # "Lainnya" regulations on local taxes and levies get the same kind of note.
+            # Not on documents also listed under a central tax (PPh, KUP, PPN, Bea Meterai), such as
+            # PP 34/2016 on income tax from land sales: there the note would mislead (K-089).
+            "pajak_daerah": "pbb_bphtb" if _local_only(entry["categories"])
+            else ("daerah" if entry["local_tax"] else None),
         }
         documents.append(document)
 
@@ -456,6 +478,7 @@ def write(documents, units):
         "quality_flags": d["quality_flags"],
         "attachment_count": len(d["attachments"]),
         "attachment_mismatch": sum(1 for a in d["attachments"] if a["match"] == "tidak_cocok"),
+        "pajak_daerah": d["pajak_daerah"],
     } for d in documents]
     _dump(config.CORPUS / "index.json", index)
 

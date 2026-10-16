@@ -1,0 +1,101 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-362-kmk-04-1999",
+ "identity": {
+  "code": "KMK",
+  "number": "362/KMK.04",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-110-2009",
+    "key": [
+     "PMK",
+     "110",
+     "2009",
+     null
+    ],
+    "number_as_written": "110/PMK.03/2009",
+    "quote": "Pasal 14 Pada saat Peraturan Menteri Keuangan ini berlaku, Keputusan Menteri Keuangan Nomor 362/KMK.04/1999 tentang Pemberian Pengurangan Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-07-05",
+   "detail_error": null,
+   "number_as_written": "362/KMK.04/1999",
+   "retrieved_at": "2026-10-11T02:31:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-0"
+  },
+  {
+   "date_as_written": "1999-07-05",
+   "detail_error": null,
+   "number_as_written": "362/KMK.04/1999",
+   "retrieved_at": "2026-10-11T02:32:12+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-1"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=35",
+   "retrieved_at": "2026-10-10T01:22:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=35",
+   "retrieved_at": "2026-10-10T01:22:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN"
+}

@@ -3,6 +3,14 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPN"
   },
   {
@@ -20,6 +28,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {

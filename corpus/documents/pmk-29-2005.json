@@ -1,0 +1,135 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-29-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "29",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-29-2005--b000-1",
+  "pmk-29-2005--b001-2",
+  "pmk-29-2005--b002-3",
+  "pmk-29-2005--b003-4",
+  "pmk-29-2005--b004-5",
+  "pmk-29-2005--b005-6",
+  "pmk-29-2005--b006-7",
+  "pmk-29-2005--b007-8",
+  "pmk-29-2005--b008-9",
+  "pmk-29-2005--b009-10",
+  "pmk-29-2005--b010-11"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-16-2011",
+    "key": [
+     "PMK",
+     "16",
+     "2011",
+     null
+    ],
+    "number_as_written": "16/PMK.03/2011",
+    "quote": "Pasal 16 Pada saat Peraturan Menteri Keuangan ini berlaku: 1. Peraturan Menteri Keuangan Nomor 29/PMK.03/2005 tentang Tata Cara Pembayaran Kembali Kelebihan Pembayaran Pajak Bumi dan Bangunan; 2. Peraturan Menteri Keuangan Nomor 188/PMK.03/2007 tentang Tata Cara Pengembalian Kelebihan Pembayaran Pajak, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGHITUNGAN DAN PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "72/KMK.04",
+     "1991",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 72/KMK.04/1991",
+    "quote": "Pasal 10 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: 1. Keputusan Menteri Keuangan Nomor 72/KMK.04/1991 tentang Tata Cara Penerbitan Surat Keputusan Kelebihan Pembayaran, Perhitungan dan Pengembalian Kelebihan Pembayaran Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-72-kmk-04-1991"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 16/PMK.03/2011 — Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/16-pmk-03-2011"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-05-23",
+   "detail_error": null,
+   "number_as_written": "29/PMK.03/2005",
+   "retrieved_at": "2026-10-11T02:23:55+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-pembayaran-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2005-05-23 00:00:00",
+   "number_as_written": "29/PMK.03/2005",
+   "page_retrieved_at": "2026-10-11T01:58:22+00:00",
+   "retrieved_at": "2026-09-21T14:46:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali Kelebihan Pembayaran Pajak Bumi dan Bangunan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/29-pmk-03-2005",
+   "validity_as_written": "23 Mei 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=29",
+   "retrieved_at": "2026-10-10T01:18:14+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-pembayaran-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=465",
+   "retrieved_at": "2026-09-21T14:46:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/29-pmk-03-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9866,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:23:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-pembayaran-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN"
+}

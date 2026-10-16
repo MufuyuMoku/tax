@@ -1,0 +1,109 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-92-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "92",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-238-2016",
+    "key": [
+     "PMK",
+     "238",
+     "2016",
+     null
+    ],
+    "number_as_written": "238/PMK.03/2016",
+    "quote": "Pasal I a. Keputusan Menteri Keuangan Nomor 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: … e. Peraturan Menteri Keuangan Nomor 92/PMK.03/2006 tentang Pemberian Pengurangan Pajak Bumi dan Bangunan sehubungan dengan Bencana Alam Gempa Bumi di Provinsi Daerah Istimewa Yogyakarta dan Sebagian Provinsi Jawa Tengah serta Gempa Bumi dan Tsunami di Pesisir Pantai Selatan Pulau Jawa (Berita Negara Republik Indonesia Tahun 2006 Nomor 92); … h. Peraturan Menteri Keuangan Nomor 146/PMK.03/2012 tentang Tata Cara Verifikasi (Berita Negara Republik Indonesia Tahun 2012 Nomor 903), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PERPAJAKAN MENIMBANG DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 238/PMK.03/2016 — Pencabutan atas Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Perpajakan dalam Rangka Simplifikasi Regulasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/238-pmk-03-2016"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-10-13",
+   "detail_error": null,
+   "number_as_written": "92/PMK.03/2006",
+   "retrieved_at": "2026-10-11T02:21:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN SEHUBUNGAN DENGAN BENCANA ALAM GEMPA BUMI DI PROVINSI DAERAH ISTIMEWA YOGYAKARTA DAN SEBAGIAN PROVINSI JAWA TENGAH SERTA GEMPA BUMI DAN TSUNAMI DI PESISIR PANTAI SELATAN PULAU JAWA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-sehubungan-dengan-bencana-alam-gempa-bumi"
+  },
+  {
+   "date_as_written": "2006-10-13 00:00:00",
+   "number_as_written": "92/PMK.03/2006",
+   "page_retrieved_at": "2026-10-11T01:57:42+00:00",
+   "retrieved_at": "2026-09-21T14:45:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Pengurangan Pbb Sehubungan dengan Bencana Alam Gempa Bumi di Provinsi Daerah Istimewa Yogyakarta dan Sebagian Provinsi Jawa Tengnah Serta Gempa dan Tsunami di Pesisir Pantai Selatan Pulau Jawa.-- Jakarta, 2006",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-03-2006",
+   "validity_as_written": "13 Okt 2006 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=27",
+   "retrieved_at": "2026-10-10T01:17:26+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-sehubungan-dengan-bencana-alam-gempa-bumi",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=445",
+   "retrieved_at": "2026-09-21T14:45:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/92-pmk-03-2006",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN SEHUBUNGAN DENGAN BENCANA ALAM GEMPA BUMI DI PROVINSI DAERAH ISTIMEWA YOGYAKARTA DAN SEBAGIAN PROVINSI JAWA TENGAH SERTA GEMPA BUMI DAN TSUNAMI DI PESISIR PANTAI SELATAN PULAU JAWA"
+}

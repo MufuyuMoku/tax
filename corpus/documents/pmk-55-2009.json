@@ -1,0 +1,167 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-55-2009",
+ "identity": {
+  "code": "PMK",
+  "number": "55",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-55-2009--b000-1",
+  "pmk-55-2009--b001-2",
+  "pmk-55-2009--b002-3",
+  "pmk-55-2009--b003-4",
+  "pmk-55-2009--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-65-2014",
+    "key": [
+     "PMK",
+     "65",
+     "2014",
+     null
+    ],
+    "number_as_written": "65/PMK.03/2014",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 55/PMK.03/2009 tentang Bentuk, Ukuran, dan Warna Benda Meterai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "BENTUK, UKURAN, DAN WARNA BENDA METERAI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "323/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 323/KMK.03/2002",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: a. Keputusan Menteri Keuangan Nomor 323/KMK.03/2002 tentang Bentuk, Ukuran, dan Warna Benda Meterai Desain Tahun 2002; dan b. Peraturan Menteri Keuangan Nomor 15/PMK.03/2005 tentang Bentuk, Ukuran, Warna, dan Desain Meterai Tempel Tahun 2005 sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 90/PMK.03/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-323-kmk-03-2002"
+   },
+   {
+    "key": [
+     "PMK",
+     "15",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 15/PMK.03/2005",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 15/PMK.03/2005 tentang Bentuk, Ukuran, Warna, dan Desain Meterai Tempel Tahun 2005 sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 90/PMK.03/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-15-2005"
+   },
+   {
+    "key": [
+     "PMK",
+     "90",
+     "2005",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 90/PMK.03/2005",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri Keuangan ini mulai berlaku: … b. Peraturan Menteri Keuangan Nomor 15/PMK.03/2005 tentang Bentuk, Ukuran, Warna, dan Desain Meterai Tempel Tahun 2005 sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 90/PMK.03/2005, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-90-2005"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 323/KMK.03/2002 — Bentuk, Ukuran, dan Warna Benda Meterai Desain Tahun 2002.",
+    "url": "https://jdih.kemenkeu.go.id/dok/323-kmk-03-2002"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 90/PMK.03/2005 — Perubahan atas Perautan Menteri Keuangan Nomor 15/PMK.03/2005 tentang Bentuk, Ukuran, Warna dan Desain Meterai Tempel Tahun 2005",
+    "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-03-2005"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 65/PMK.03/2014 — Bentuk, Ukuran, dan Warna Benda Meterai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/65-pmk-03-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-27",
+   "detail_error": null,
+   "number_as_written": "55/PMK.03/2009",
+   "retrieved_at": "2026-10-10T00:56:43+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, UKURAN, DAN WARNA BENDA METERAI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-dan-warna-benda-meterai"
+  },
+  {
+   "date_as_written": "2009-03-27 00:00:00",
+   "number_as_written": "55/PMK.03/2009",
+   "page_retrieved_at": "2026-10-11T01:33:40+00:00",
+   "retrieved_at": "2026-09-21T14:41:34+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bentuk, Ukuran, dan Warna Benda Meterai.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/55-pmk-03-2009",
+   "validity_as_written": "27 Mar 2009 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=5",
+   "retrieved_at": "2026-10-10T00:44:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-dan-warna-benda-meterai",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=388",
+   "retrieved_at": "2026-09-21T14:41:34+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/55-pmk-03-2009",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7314,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:56:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-dan-warna-benda-meterai"
+ },
+ "title": "BENTUK, UKURAN, DAN WARNA BENDA METERAI"
+}

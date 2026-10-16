@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   }
  ],
  "category": "substantif",
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-56-2009--b000-1",
   "per-djp-56-2009--b001-2",
@@ -47,6 +52,20 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-56/PJ./2009 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN PERMOHONAN PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI PAJAK BUMI DAN BANGUNAN, DAN PENGURANGAN ATAU PEMBATALAN SURAT PEMBERITAHUAN PAJAK TERUTANG, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, DAN SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN, YANG TIDAK BENAR"
+   },
+   {
+    "id": "per-djp-17-2012",
+    "key": [
+     "PER-DJP",
+     "17",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-17/PJ/2012",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-56/PJ/2009 tentang Tata Cara Pengajuan dan Penyelesaian Permohonan Pengurangan atau Penghapusan Sanksi Administrasi Pajak Bumi dan Bangunan, dan Pengurangan atau Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak Bumi dan Bangunan, dan Surat Tagihan Pajak Pajak Bumi dan Bangunan, yang Tidak Benar sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-17/PJ/2010, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEDUA ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-56/PJ/2009 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN PERMOHONAN PENGURANGAN ATAU PENGHAPUSAN SANKSI ADMINISTRASI PAJAK BUMI DAN BANGUNAN, DAN PENGURANGAN ATAU PEMBATALAN SURAT PEMBERITAHUAN PAJAK TERUTANG, SURAT KETETAPAN PAJAK PAJAK BUMI DAN BANGUNAN, DAN SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN, YANG TIDAK BENAR"
    }
   ],
   "amends": [],

@@ -3,7 +3,19 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   },
   {
    "asal": "daftar_djp",
@@ -24,6 +36,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "kep-djp-370-2018--b000-kedua",
   "kep-djp-370-2018--b001-ketiga",

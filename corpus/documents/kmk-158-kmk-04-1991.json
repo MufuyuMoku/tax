@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-158-kmk-04-1991",
+ "identity": {
+  "code": "KMK",
+  "number": "158/KMK.04",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA ATAU DISKONTO OBLIGASI YANG DIJUAL DI BURSA EFEK",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemotongan-pajak-penghasilan-atas-penghasilan-berupa-bunga-atau-diskonto"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-02-13",
+   "detail_error": null,
+   "number_as_written": "158/KMK.04/1991",
+   "retrieved_at": "2026-10-11T02:44:58+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=42",
+   "retrieved_at": "2026-10-10T01:25:13+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN"
+}

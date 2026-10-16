@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-38-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "38",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-38-2011--b000-1",
+  "per-djp-38-2011--b001-2",
+  "per-djp-38-2011--b002-3",
+  "per-djp-38-2011--b003-4",
+  "per-djp-38-2011--b004-5",
+  "per-djp-38-2011--b005-6",
+  "per-djp-38-2011--b006-7",
+  "per-djp-38-2011--b007-8",
+  "per-djp-38-2011--b008-9",
+  "per-djp-38-2011--b009-10",
+  "per-djp-38-2011--b010-11",
+  "per-djp-38-2011--b011-12",
+  "per-djp-38-2011--b012-13",
+  "per-djp-38-2011--b013-14",
+  "per-djp-38-2011--b014-15",
+  "per-djp-38-2011--b015-16",
+  "per-djp-38-2011--b016-17",
+  "per-djp-38-2011--b017-18"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-12-21",
+   "detail_error": null,
+   "number_as_written": "PER-38/PJ/2011",
+   "retrieved_at": "2026-10-11T02:14:16+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengangsuran-dan-penundaan-pembayaran-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=16",
+   "retrieved_at": "2026-10-10T01:11:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengangsuran-dan-penundaan-pembayaran-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 18289,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:14:16+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengangsuran-dan-penundaan-pembayaran-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PENGANGSURAN DAN PENUNDAAN PEMBAYARAN PAJAK BUMI DAN BANGUNAN"
+}

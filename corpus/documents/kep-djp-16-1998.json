@@ -1,0 +1,171 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-16-1998",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "16",
+  "variant": null,
+  "year": "1998"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kep-djp-16-1998--b000-1",
+  "kep-djp-16-1998--b001-2",
+  "kep-djp-16-1998--b002-3",
+  "kep-djp-16-1998--b003-4",
+  "kep-djp-16-1998--b004-5",
+  "kep-djp-16-1998--b005-6",
+  "kep-djp-16-1998--b006-7",
+  "kep-djp-16-1998--b007-8",
+  "kep-djp-16-1998--b008-9",
+  "kep-djp-16-1998--b009-10",
+  "kep-djp-16-1998--b010-11",
+  "kep-djp-16-1998--b011-12",
+  "kep-djp-16-1998--b012-13",
+  "kep-djp-16-1998--b013-14",
+  "kep-djp-16-1998--b014-15",
+  "kep-djp-16-1998--b015-16",
+  "kep-djp-16-1998--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-174-2007",
+    "key": [
+     "PER-DJP",
+     "174",
+     "2007",
+     null
+    ],
+    "number_as_written": "PER-174/PJ/2007",
+    "quote": "Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan sepanjang menyangkut perkebunan kelapa sawit dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN PENENTUAN STANDAR INVESTASI TANAMAN (SIT) KELAPA SAWIT"
+   },
+   {
+    "id": "per-djp-20-2015",
+    "key": [
+     "PER-DJP",
+     "20",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-20/PJ/2015",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan yang mengatur mengenai pengenaan usaha bidang perikanan dan objek pajak khusus di perairan lepas pantai, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR LAINNYA"
+   },
+   {
+    "id": "per-djp-32-2012",
+    "key": [
+     "PER-DJP",
+     "32",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-32/PJ/2012",
+    "quote": "Pasal 14 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan yang mengatur mengenai pengenaan Sektor Pertambangan Non Migas selain Pertambangan Energi Panas Bumi dan Galian C dan pengenaan Sektor Pertambangan Non Migas Galian C, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINERAL DAN BATUBARA"
+   },
+   {
+    "id": "per-djp-36-2011",
+    "key": [
+     "PER-DJP",
+     "36",
+     "2011",
+     null
+    ],
+    "number_as_written": "PER-36/PJ/2011",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan yang mengatur mengenai pengenaan PBB Sektor Perhutanan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERHUTANAN PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERHUTANAN"
+   },
+   {
+    "id": "per-djp-50-2008",
+    "key": [
+     "PER-DJP",
+     "50",
+     "2008",
+     null
+    ],
+    "number_as_written": "PER-50/PJ/2008",
+    "quote": "Pasal 4 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku: 1. Ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan yang mengatur mengenai pengenaan Sektor Perkebunan; dan 2. Peraturan Direktur Jenderal Pajak Nomor PER-174/PJ/2007 tentang Pedoman Penentuan Standar Investasi Tanaman (SIT) Kelapa Sawit; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERKEBUNAN"
+   },
+   {
+    "id": "per-djp-71-2010",
+    "key": [
+     "PER-DJP",
+     "71",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-71/PJ/2010",
+    "quote": "Pasal 10 Pada saat Peraturan Direktur Jenderal Pajak ini berlaku, ketentuan dalam: 1. Keputusan Direktur Jenderal Pajak Nomor KEP-16/PJ.6/1998 tentang Pengenaan Pajak Bumi dan Bangunan, yang mengatur mengenai pengenaan PBB Pertambangan Migas; dan 2. Keputusan Direktur Jenderal Pajak Nomor KEP-19/PJ.6/1997 tentang Tatacara Penatausahaan Data Objek Pajak Bumi dan bangunan Pertambangan Migas dan Panas Bumi serta Pembayarannya, yang mengatur mengenai penatausahaan PBB Pertambangan Migas, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENATAUSAHAAN PAJAK BUMI DAN BANGUNAN PERTAMBANGAN MINYAK DAN GAS BUMI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1998-12-30",
+   "detail_error": null,
+   "number_as_written": "KEP-16/PJ.6/1998",
+   "retrieved_at": "2026-10-11T02:32:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGENAAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=35",
+   "retrieved_at": "2026-10-10T01:22:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 13220,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:32:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengenaan-pajak-bumi-dan-bangunan"
+ },
+ "title": "PENGENAAN PAJAK BUMI DAN BANGUNAN"
+}

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPN"
   },
   {
@@ -20,6 +24,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -45,6 +50,54 @@
     "source": "DJP",
     "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 27 OKTOBER SAMPAI DENGAN 2 NOVEMBER 1997",
     "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-307"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BADAN PENYELESAIAN SENGKETA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/badan-penyelesaian-sengketa-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBENTUKAN BADAN PENYELESAIAN SENGKETA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/pembentukan-badan-penyelesaian-sengketa-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 524/KMK.03/2001 TENTANG BATASAN RUMAH SEDERHANA, RUMAH SANGAT SEDERHANA, RUMAH SUSUN SEDERHANA, PONDOK BORO, ASRAMA MAHASISWA DAN PELAJAR SERTA PERUMAHAN LAINNYA YANG ATAS PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-524kmk032001-tentang-batasan-rumah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 544/KMK.04/2000 TENTANG KRITERIA WAJIB PAJAK YANG DAPAT DIBERIKAN PENGEMBALIAN PENDAHULUAN KELEBIHAN PEMBAYARAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-544kmk042000-tentang-kriteria-wajib-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELABUHAN ATAU TEMPAT PEMBERANGKATAN KE LUAR NEGERI DALAM DAERAH KERJASAMA EKONOMI SUBREGIONAL ASEAN YANG DIKECUALIKAN DARI KEWAJIBAN PEMBAYARAN PAJAK PENGHASILAN BAGI ORANG PRIBADI YANG BERTOLAK KE LUAR NEGERI DALAM KAWASAN KERJASAMA EKONOMI SUBREGIONAL ASEAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pelabuhan-atau-tempat-pemberangkatan-ke-luar-negeri-dalam-daerah-kerjasama-ekonomi-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 19 SAMPAI DENGAN 25 JUNI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-73"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 8 SAMPAI DENGAN 14 JULI 2002",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-215"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 1 SAMPAI DENGAN 7 SEPTEMBER 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-253"
    }
   ]
  },
@@ -58,6 +111,16 @@
    "title_as_written": "PENETAPAN KAWASAN PENGEMBANGAN EKONOMI TERPADU SANGGAU",
    "type_as_written": "Keputusan Presiden",
    "url": "https://www.pajak.go.id/id/peraturan/penetapan-kawasan-pengembangan-ekonomi-terpadu-sanggau"
+  },
+  {
+   "date_as_written": "1998-01-19",
+   "detail_error": null,
+   "number_as_written": "13/M TAHUN 1998",
+   "retrieved_at": "2026-10-12T07:11:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGANGKATAN KEANGGOTAAN BADAN PENYELESAIAN SENGKETA PAJAK",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/pengangkatan-keanggotaan-badan-penyelesaian-sengketa-pajak"
   }
  ],
  "status": {
@@ -71,6 +134,14 @@
    "retrieved_at": "2026-09-21T14:39:56+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/penetapan-kawasan-pengembangan-ekonomi-terpadu-sanggau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=328",
+   "retrieved_at": "2026-10-10T07:20:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengangkatan-keanggotaan-badan-penyelesaian-sengketa-pajak",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
   }

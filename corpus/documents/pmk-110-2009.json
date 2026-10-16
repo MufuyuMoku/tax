@@ -4,6 +4,10 @@
   {
    "asal": "daftar_djp",
    "kategori": "KUP"
+  },
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
   }
  ],
  "category": "substantif",
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "pmk-110-2009--b000-1",
   "pmk-110-2009--b001-2",
@@ -35,9 +40,39 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-82-2013",
+    "key": [
+     "PMK",
+     "82",
+     "2013",
+     null
+    ],
+    "number_as_written": "82/PMK.03/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 110/PMK.03/2009 tentang Pemberian Pengurangan Pajak Bumi dan Bangunan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 110/PMK.03/2009 TENTANG PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
   "amends": [],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "pmk-82-2017",
+    "key": [
+     "PMK",
+     "82",
+     "2017",
+     null
+    ],
+    "number_as_written": "82/PMK.03/2017",
+    "quote": "Pasal 15 Pada saat Peraturan Menteri ini mulai berlaku: 1. Peraturan Menteri Keuangan Nomor 110/PMK.03/2009 tentang Pemberian Pengurangan Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2009 Nomor 146); dan 2. Peraturan Menteri Keuangan Nomor 82/PMK.03/2013 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 110/PMK.03/2009 tentang Pemberian Pengurangan Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2013 Nomor 602), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
   "revokes": [
    {
     "key": [

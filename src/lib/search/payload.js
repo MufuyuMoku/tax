@@ -59,6 +59,7 @@ export function buildSearchPayload() {
       // Display only: the status chips per source and, when uncertain, why.
       claims: compactClaims(doc.status_claims),
       statusReasons: doc.status.reasons || [],
+      localTaxNote: entry.pajak_daerah || null,
       twins: (doc.identity_conflicts || []).map((c) => ({
         id: c.id,
         label: regulationLabel([c.code, doc.identity.number, doc.identity.year, doc.identity.variant]),

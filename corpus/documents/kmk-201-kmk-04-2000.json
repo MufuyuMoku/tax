@@ -1,0 +1,89 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-201-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "201/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kmk-201-kmk-04-2000--b000-1",
+  "kmk-201-kmk-04-2000--b001-2",
+  "kmk-201-kmk-04-2000--b002-3",
+  "kmk-201-kmk-04-2000--b003-4",
+  "kmk-201-kmk-04-2000--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-67-2011",
+    "key": [
+     "PMK",
+     "67",
+     "2011",
+     null
+    ],
+    "number_as_written": "67/PMK.03/2011",
+    "quote": "Pasal 6 Pada saat Peraturan Menteri Keuangan ini mulai berlaku, Keputusan Menteri Keuangan Nomor 201/KMK.04/2000 tentang Penyesuaian Besarnya Nilai Jual Objek Pajak Tidak Kena Pajak sebagai Dasar Penghitungan Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENYESUAIAN BESARNYA NILAI JUAL OBJEK PAJAK TIDAK KENA PAJAK PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-06-06",
+   "detail_error": null,
+   "number_as_written": "201/KMK.04/2000",
+   "retrieved_at": "2026-10-11T02:53:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN BESARNYA NILAI JUAL OBJEK PAJAK TIDAK KENA PAJAK SEBAGAI DASAR PENGHITUNGAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-nilai-jual-objek-pajak-tidak-kena-pajak-sebagai-dasar-penghitungan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=33",
+   "retrieved_at": "2026-10-10T06:10:42+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-nilai-jual-objek-pajak-tidak-kena-pajak-sebagai-dasar-penghitungan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 2078,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:53:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-nilai-jual-objek-pajak-tidak-kena-pajak-sebagai-dasar-penghitungan"
+ },
+ "title": "PENYESUAIAN BESARNYA NILAI JUAL OBJEK PAJAK TIDAK KENA PAJAK SEBAGAI DASAR PENGHITUNGAN PAJAK BUMI DAN BANGUNAN"
+}

@@ -20,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-67-2009--b000-1",
   "per-djp-67-2009--b001-2",
@@ -60,6 +61,20 @@
     "quote_excerpt": false,
     "source_of_reading": "DJP",
     "title": "TATA CARA PERTUKARAN INFORMASI SECARA SPONTAN DALAM RANGKA MELAKSANAKAN PERJANJIAN INTERNASIONAL"
+   },
+   {
+    "id": "per-djp-28-2017",
+    "key": [
+     "PER-DJP",
+     "28",
+     "2017",
+     null
+    ],
+    "number_as_written": "PER-28/PJ/2017",
+    "quote": "Pasal 11 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Pasal 1 angka 7, Pasal 3, Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 17, Pasal 18, Pasal 19, Lampiran I, Lampiran IV, Lampiran V, dan Lampiran VI Peraturan Direktur Jenderal Pajak Nomor PER-67/PJ./2009 tentang Tata Cara Pertukaran Informasi Berdasarkan Persetujuan Penghindaran Pajak Berganda (P3B), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PERTUKARAN INFORMASI BERDASARKAN PERMINTAAN DALAM RANGKA MELAKSANAKAN PERJANJIAN INTERNASIONAL"
    }
   ],
   "revokes": [],

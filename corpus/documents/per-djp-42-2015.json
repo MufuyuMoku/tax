@@ -16,6 +16,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-42-2015--b000-1",
   "per-djp-42-2015--b001-2",
@@ -37,6 +38,20 @@
   "amended_by": [],
   "amends": [],
   "revoked_by": [
+   {
+    "id": "per-djp-19-2019",
+    "key": [
+     "PER-DJP",
+     "19",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-19/PJ/2019",
+    "quote": "Peraturan Direktur Jenderal Pajak Nomor PER-42/PJ/2015 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Perhutanan; dan e. Pasal 14 Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2015 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "SURAT PEMBERITAHUAN OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+   },
    {
     "id": "per-djp-22-2020",
     "key": [

@@ -1,0 +1,176 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-34-2000",
+ "identity": {
+  "code": "UU",
+  "number": "34",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "daerah",
+ "pasal_ids": [
+  "uu-34-2000--b000-i",
+  "uu-34-2000--b001-ii",
+  "uu-34-2000--b002-iii",
+  "uu-34-2000--p003-i",
+  "uu-34-2000--p004-1",
+  "uu-34-2000--p005-2",
+  "uu-34-2000--p006-2a",
+  "uu-34-2000--p007-2b",
+  "uu-34-2000--p008-3",
+  "uu-34-2000--p009-4",
+  "uu-34-2000--p010-5a",
+  "uu-34-2000--p011-18",
+  "uu-34-2000--p012-21",
+  "uu-34-2000--p013-24",
+  "uu-34-2000--p014-25a",
+  "uu-34-2000--p015-36",
+  "uu-34-2000--p016-42",
+  "uu-34-2000--p017-ii",
+  "uu-34-2000--p018-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "18",
+     "1997",
+     null
+    ],
+    "name": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 18 TAHUN 1997",
+    "quote": "Beberapa ketentuan dalam Undang-undang Nomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 41, Tambahan Lembaran Negara Nomor 3685), diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "uu-18-1997"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK DAERAH DAN RETRIBUSI DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-daerah-dan-retribusi-daerah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN TARIF BEA METERAI",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI YANG TERHUTANG ATAS IMPOR DAN PENYERAHAN KERTAS KORAN UNTUK PENERBITAN KORAN SERTA PENYERAHAN KORAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-yang-terhutang-atas-impor-dan-penyerahan-kertas-koran-untuk"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-35/PJ/2000 TENTANG TATA CARA PENERIMAAN DAN PENGOLAHAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-direktur-jenderal-pajak-nomor-kep-35pj2000-tentang-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BENTUK SURAT SETORAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/bentuk-surat-setoran-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENYEGELAN DALAM RANGKA PEMERIKSAAN DI BIDANG PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyegelan-dalam-rangka-pemeriksaan-di-bidang-perpajakan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN TENAGA AKUNTAN DAN PEMERIKSA PADA KANTOR AKUNTAN PUBLIK SEBAGAI TENAGA AHLI PADA DIREKTORAT JENDERAL PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tenaga-akuntan-dan-pemeriksa-pada-kantor-akuntan-publik-sebagai-tenaga-ahli"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 18 TAHUN ~1997 — Pajak Daerah dan Retribusi Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-18-tahun-~1997"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: UU 28 TAHUN 2009 — Pajak Daerah dan Retribusi Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2009"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-20",
+   "detail_error": null,
+   "number_as_written": "34 TAHUN 2000",
+   "retrieved_at": "2026-10-12T07:05:10+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 18 TAHUN 1997 TENTANG PAJAK DAERAH DAN RETRIBUSI DAERAH",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-republik-indonesia-nomor-18-tahun-1997-tentang-pajak-daerah"
+  },
+  {
+   "date_as_written": "2000-12-20 00:00:00",
+   "number_as_written": "UU 34 TAHUN 2000",
+   "page_retrieved_at": "2026-10-11T02:08:36+00:00",
+   "retrieved_at": "2026-09-21T14:04:28+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Undang-Undang Nomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-34-tahun-2000",
+   "validity_as_written": "20 Des 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=253",
+   "retrieved_at": "2026-10-10T06:50:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-republik-indonesia-nomor-18-tahun-1997-tentang-pajak-daerah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=28",
+   "retrieved_at": "2026-09-21T14:04:28+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-34-tahun-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 52986,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-12T07:05:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-republik-indonesia-nomor-18-tahun-1997-tentang-pajak-daerah"
+ },
+ "title": "PERUBAHAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 18 TAHUN 1997 TENTANG PAJAK DAERAH DAN RETRIBUSI DAERAH"
+}

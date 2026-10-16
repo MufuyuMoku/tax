@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-87-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "87/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 518/KMK.04/2000 — Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/518-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 561/KMK.03/2004 — Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/561-kmk-03-2004"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-03-08",
+   "detail_error": null,
+   "number_as_written": "87/KMK.03/2002",
+   "retrieved_at": "2026-10-11T01:44:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan-0"
+  },
+  {
+   "date_as_written": "2002-03-08 00:00:00",
+   "number_as_written": "87/KMK.03/2002",
+   "page_retrieved_at": "2026-10-11T01:43:28+00:00",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Pengurangan Bea Perolehan Hak atas Tanah dan Bangunan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/87-kmk-03-2002",
+   "validity_as_written": "08 Mar 2002 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=8",
+   "retrieved_at": "2026-10-10T01:02:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=31",
+   "retrieved_at": "2026-09-21T14:49:02+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/87-kmk-03-2002",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PENGURANGAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

@@ -1,0 +1,169 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-104-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "104/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kmk-104-kmk-04-1986--b000-1",
+  "kmk-104-kmk-04-1986--b001-2",
+  "kmk-104-kmk-04-1986--b002-3",
+  "kmk-104-kmk-04-1986--b003-4",
+  "kmk-104-kmk-04-1986--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-133b-kmk-04-2000",
+    "key": [
+     "KMK",
+     "133B/KMK.04",
+     "2000",
+     null
+    ],
+    "number_as_written": "133b/KMK.04/2000",
+    "quote": "Pasal 7 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Nomor: 104/KMK.04/1986 tanggal 22 Februari 1986 tentang Pelunasan Bea Meterai dengan menggunakan cara lain dan Keputusan Menteri Keuangan Nomor 217/KMK.01/1996 tanggal 22 Maret 1996 tentang Perubahan Keputusan Menteri Keuangan Republik Indonesia Nomor : 1131/KMK.04/1989 tentang Pelaksanaan Peraturan Pemerintah Nomor 13 Tahun 1989 tentang Perubahan Besarnya Tarif Bea Meterai dan Besarnya Batas Harga Nominal yang dikenakan Bea Meterai Atas Cek dan Bilyet Giro dinyatakan tidak berlaku lagi.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELUNASAN BEA METERAI DENGAN MENGGUNAKAN CARA LAIN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BEA METERAI",
+    "url": "https://www.pajak.go.id/id/peraturan/bea-meterai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "DASAR PENGHITUNGAN, PEMUNGUTAN, DAN PENYETORAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN HASIL TEMBAKAU BUATAN DALAM NEGERI ATAU IMPOR HASIL TEMBAKAU BUATAN LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/dasar-penghitungan-pemungutan-dan-penyetoran-pajak-pertambahan-nilai-atas-penyerahan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BATASAN DAN TATA CARA PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS KEGIATAN MEMBANGUN SENDIRI YANG DILAKUKAN TIDAK DALAM KEGIATAN USAHA ATAU PEKERJAAN OLEH ORANG PRIBADI ATAU BADAN YANG HASILNYA DIGUNAKAN SENDIRI ATAU DIGUNAKAN PIHAK LAIN",
+    "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-tata-cara-pengenaan-pajak-pertambahan-nilai-atas-kegiatan-membangun-sendiri"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBEBASAN DARI PEMILIKAN SURAT KETERANGAN FISKAL LUAR NEGERI (SKFLN) BAGI WARGA NEGARA INDONESIA YANG BERTEMPAT TINGGAL TETAP DI LUAR WILAYAH REPUBLIK INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/pembebasan-dari-pemilikan-surat-keterangan-fiskal-luar-negeri-skfln-bagi-warga-negara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNDAAN PEMBAYARAN PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA PENCARIAN SUMBER-SUMBER DAN PEMBORAN MINYAK, GAS BUMI DAN PANAS BUMI KEPADA PARA KONTRAKTOR YANG BELUM BERPRODUKSI",
+    "url": "https://www.pajak.go.id/id/peraturan/penundaan-pembayaran-pajak-pertambahan-nilai-atas-penyerahan-jasa-pencarian-sumber-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN PEMUNGUT PAJAK PENGHASILAN PASAL 22, SIFAT DAN BESARNYA PUNGUTAN SERTA TATA CARA PENYETORAN DAN PELAPORANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pemungut-pajak-penghasilan-pasal-22-sifat-dan-besarnya-pungutan-serta-tata-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PEMBAYARAN, PENYETORAN DAN PELAPORAN PAJAK PENGHASILAN YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK, DAN TATA CARA PENYAMPAIAN LAPORAN PEJABAT PEMBUAT AKTE TANAH DAN BENDAHARAWAN ATAU PEJABAT YANG MELAKUKAN PEMBAYARAN SEHUBUNGAN DENGAN PENGALIHAN HAK ATAS TANAH ATAU TANAH DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-penyetoran-dan-pelaporan-pajak-penghasilan-yang-diterima-atau"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA, DAN PAJAK PENJUALAN ATAS BARANG MEWAH, DAN PAJAK PENGHASILAN UNTUK BULAN JANUARI, FEBRUARI, DAN MARET 1997",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-290"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 2 SAMPAI DENGAN 8 FEBRUARI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-339"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 133b/KMK.04/2000 — Pelunasan Bea Meterai dengan Menggunakan Cara Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/133b-kmk-04-2000"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-02-22",
+   "detail_error": null,
+   "number_as_written": "104/KMK.04/1986",
+   "retrieved_at": "2026-10-10T00:49:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PELUNASAN BEA METERAI DENGAN MENGGUNAKAN CARA LAIN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pelunasan-bea-meterai-dengan-menggunakan-cara-lain-0"
+  },
+  {
+   "date_as_written": "1986-02-22 00:00:00",
+   "number_as_written": "104/KMK.04/1986",
+   "page_retrieved_at": "2026-10-11T01:29:57+00:00",
+   "retrieved_at": "2026-09-21T14:54:51+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pelunasan Bea Meterai dengan Menggunakan Cara Lain.",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/104-kmk-04-1986",
+   "validity_as_written": "22 Feb 1986 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=12",
+   "retrieved_at": "2026-10-10T00:40:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelunasan-bea-meterai-dengan-menggunakan-cara-lain-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=118",
+   "retrieved_at": "2026-09-21T14:54:51+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/104-kmk-04-1986",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 1740,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:49:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelunasan-bea-meterai-dengan-menggunakan-cara-lain-0"
+ },
+ "title": "PELUNASAN BEA METERAI DENGAN MENGGUNAKAN CARA LAIN"
+}

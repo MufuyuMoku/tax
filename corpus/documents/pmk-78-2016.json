@@ -1,0 +1,143 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-78-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "78",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-78-2016--b000-1",
+  "pmk-78-2016--b001-3",
+  "pmk-78-2016--b002-4",
+  "pmk-78-2016--b003-5",
+  "pmk-78-2016--b004-6",
+  "pmk-78-2016--b005-7",
+  "pmk-78-2016--b006-8",
+  "pmk-78-2016--b007-9",
+  "pmk-78-2016--b008-10"
+ ],
+ "quality_flags": [
+  "urutan_loncat:1->3"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-80-2023",
+    "key": [
+     "PMK",
+     "80",
+     "2023",
+     null
+    ],
+    "number_as_written": "80 TAHUN 2023",
+    "quote": "… d. Peraturan Menteri Keuangan Nomor 78/PMK.03/2016 tentang Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2016 Nomor 747), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENERBITAN SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "253",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 253/PMK.03/2014",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri ini mulai berlaku: … b. ketentuan mengenai tidak dapat diajukannya keberatan terhadap SPPT atau SKP PBB yang diterbitkan berdasarkan Surat Keputusan Keberatan sebagaimana diatur dalam Pasal 14 ayat (7), dalam Peraturan Menteri Keuangan Nomor 253/PMK.03/2014 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-253-2014"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 253/PMK.03/2014 — Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/253-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 80 TAHUN 2023 — Tata Cara Penerbitan Surat Ketetapan Pajak dan Surat Tagihan Pajak",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-80-tahun-2023"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-05-11",
+   "detail_error": null,
+   "number_as_written": "78/PMK.03/2016",
+   "retrieved_at": "2026-10-11T02:04:55+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2016-05-11 00:00:00",
+   "number_as_written": "78/PMK.03/2016",
+   "page_retrieved_at": "2026-10-11T01:50:36+00:00",
+   "retrieved_at": "2026-09-21T14:29:13+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Penerbitan Surat Tagihan Pajak Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2016",
+   "validity_as_written": "11 Mei 2016 - 24 Agu 2023"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 80/2023 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=7",
+   "retrieved_at": "2026-10-10T01:07:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=207",
+   "retrieved_at": "2026-09-21T14:29:13+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/78-pmk-03-2016",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9052,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:04:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-pajak-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PENERBITAN SURAT TAGIHAN PAJAK PAJAK BUMI DAN BANGUNAN"
+}

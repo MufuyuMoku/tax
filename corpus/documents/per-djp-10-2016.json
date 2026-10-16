@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-10-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "10",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-10-2016--b000-i",
+  "per-djp-10-2016--b001-ii",
+  "per-djp-10-2016--b002-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-08-19",
+   "detail_error": null,
+   "number_as_written": "PER-10/PJ/2016",
+   "retrieved_at": "2026-10-11T03:14:50+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-07/PJ/2016 TENTANG DOKUMEN DAN PEDOMAN TEKNIS PENGISIAN DOKUMEN DALAM RANGKA PELAKSANAAN PENGAMPUNAN PAJAK",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-07pj2016-tentang-dokumen-dan-pedoman"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=8",
+   "retrieved_at": "2026-10-10T01:31:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-07pj2016-tentang-dokumen-dan-pedoman",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 4153,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:14:50+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-peraturan-direktur-jenderal-pajak-nomor-07pj2016-tentang-dokumen-dan-pedoman"
+ },
+ "title": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-07/PJ/2016 TENTANG DOKUMEN DAN PEDOMAN TEKNIS PENGISIAN DOKUMEN DALAM RANGKA PELAKSANAAN PENGAMPUNAN PAJAK"
+}

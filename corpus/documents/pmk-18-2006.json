@@ -1,0 +1,75 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-18-2006",
+ "identity": {
+  "code": "PMK",
+  "number": "18",
+  "variant": null,
+  "year": "2006"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-18-2006--b000-1",
+  "pmk-18-2006--b001-2",
+  "pmk-18-2006--b002-3",
+  "pmk-18-2006--b003-4",
+  "pmk-18-2006--b004-5",
+  "pmk-18-2006--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2006-03-03",
+   "detail_error": null,
+   "number_as_written": "18/PMK.03/2006",
+   "retrieved_at": "2026-10-16T00:50:23+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERLAKUAN KODE ETIK PEGAWAI DILINGKUNGAN DIREKTORAT JENDERAL PAJAK DEPARTEMEN KEUANGAN PADA KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK SUMATERA BAGIAN TENGAH DAN KANTOR PELAYANAN PAJAK MADYA DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK SUMATERA BAGIAN TENGAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberlakuan-kode-etik-pegawai-dilingkungan-direktorat-jenderal-pajak-departemen-keuangan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=130",
+   "retrieved_at": "2026-10-10T02:36:10+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberlakuan-kode-etik-pegawai-dilingkungan-direktorat-jenderal-pajak-departemen-keuangan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6399,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-16T00:50:23+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberlakuan-kode-etik-pegawai-dilingkungan-direktorat-jenderal-pajak-departemen-keuangan"
+ },
+ "title": "PEMBERLAKUAN KODE ETIK PEGAWAI DILINGKUNGAN DIREKTORAT JENDERAL PAJAK DEPARTEMEN KEUANGAN PADA KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK SUMATERA BAGIAN TENGAH DAN KANTOR PELAYANAN PAJAK MADYA DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK SUMATERA BAGIAN TENGAH"
+}

@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-152-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "152",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kep-djp-152-2000--b000-1",
+  "kep-djp-152-2000--b001-2",
+  "kep-djp-152-2000--b002-3",
+  "kep-djp-152-2000--b003-4",
+  "kep-djp-152-2000--b004-5",
+  "kep-djp-152-2000--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-27-2013",
+    "key": [
+     "PER-DJP",
+     "27",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-27/PJ/2013",
+    "quote": "Pasal 9 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku Keputusan Direktur Jenderal Pajak Nomor KEP-152/PJ./2000 tentang Pelaksana Pembubuhan Tanda Bea Meterai Lunas dengan Teknologi Percetakan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PELAKSANA PEMBUBUHAN TANDA BEA METERAI LUNAS DENGAN TEKNOLOGI PERCETAKAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-05-31",
+   "detail_error": null,
+   "number_as_written": "KEP-152/PJ./2000",
+   "retrieved_at": "2026-10-11T01:31:27+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANA PEMBUBUHAN TANDA BEA METERAI LUNAS DENGAN TEKNOLOGI PERCETAKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksana-pembubuhan-tanda-bea-meterai-lunas-dengan-teknologi-percetakan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=8",
+   "retrieved_at": "2026-10-10T00:46:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksana-pembubuhan-tanda-bea-meterai-lunas-dengan-teknologi-percetakan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3508,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:31:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksana-pembubuhan-tanda-bea-meterai-lunas-dengan-teknologi-percetakan-0"
+ },
+ "title": "PELAKSANA PEMBUBUHAN TANDA BEA METERAI LUNAS DENGAN TEKNOLOGI PERCETAKAN"
+}

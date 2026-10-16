@@ -1,0 +1,238 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-20-2000",
+ "identity": {
+  "code": "UU",
+  "number": "20",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "uu-20-2000--b000-i",
+  "uu-20-2000--b001-ii",
+  "uu-20-2000--b002-iii",
+  "uu-20-2000--p003-i",
+  "uu-20-2000--p004-1",
+  "uu-20-2000--p005-2",
+  "uu-20-2000--p006-3",
+  "uu-20-2000--p007-6",
+  "uu-20-2000--p008-7",
+  "uu-20-2000--p009-9",
+  "uu-20-2000--p010-10",
+  "uu-20-2000--p011-18",
+  "uu-20-2000--p012-19",
+  "uu-20-2000--p013-20",
+  "uu-20-2000--p014-23",
+  "uu-20-2000--p015-24",
+  "uu-20-2000--p016-26",
+  "uu-20-2000--p017-27a",
+  "uu-20-2000--p018-27b",
+  "uu-20-2000--p019-ii",
+  "uu-20-2000--p020-iii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "UU",
+     "21",
+     "1997",
+     null
+    ],
+    "name": "UNDANG-UNDANG NOMOR 21 TAHUN 1997",
+    "quote": "Beberapa ketentuan dalam Undang-Undang Nomor 21 Tahun 1997 tentang Bea Perolehan Hak atas Tanah dan Bangunan (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 44, Tambahan Lembaran Negara Nomor 3688) yang diberlakukan dengan Undang-Undang Nomor 1 Tahun 1998 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1997 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 21 Tahun 1997 tentang Bea Perolehan Hak atas Tanah dan Bangunan Menjadi Undang-undang (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 37, Tambahan Lembaran Negara Nomor 3739) diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "uu-21-1997"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/bea-perolehan-hak-atas-tanah-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 1997 TENTANG PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG NOMOR 21 TAHUN 1997 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN MENJADI UNDANG-UNDANG",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-1997-tentang"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENANGGUHAN MULAI BERLAKUNYA UNDANG-UNDANG NOMOR 21 TAHUN 1997 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penangguhan-mulai-berlakunya-undang-undang-nomor-21-tahun-1997-tentang-bea-perolehan-hak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PERPAJAKAN BAGI PENGUSAHA KENA PAJAK BERSTATUS ENTREPOT PRODUKSI UNTUK TUJUAN EKSPOR (EPTE) DAN PERUSAHAAN PENGOLAHAN DI KAWASAN BERIKAT (KB)",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-bagi-pengusaha-kena-pajak-berstatus-entrepot-produksi-untuk-tujuan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 19 TAHUN 1997 TENTANG PAJAK DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-19-tahun-1997-tentang-pajak-daerah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "FAKTOR PENYESUAIAN BESARNYA PENGHASILAN TIDAK KENA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/faktor-penyesuaian-besarnya-penghasilan-tidak-kena-pajak-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLAKUAN PERPAJAKAN DAN KEPABEANAN UNTUK KAWASAN PENGEMBANGAN EKONOMI TERPADU PULAU NATUNA",
+    "url": "https://www.pajak.go.id/id/peraturan/perlakuan-perpajakan-dan-kepabeanan-untuk-kawasan-pengembangan-ekonomi-terpadu-pulau"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 27 OKTOBER SAMPAI DENGAN 2 NOVEMBER 1997",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-307"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 13 SAMPAI DENGAN 19 JULI 1998",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-346"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-522/PJ/2000 TENTANG DOKUMEN-DOKUMEN TERTENTU YANG DIPERLAKUKAN SEBAGAI FAKTUR PAJAK STANDAR",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-522pj2000-tentang-dokumen"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TARIF DAN TATA CARA PEMUNGUTAN, PENYETORAN, SERTA PELAPORAN PAJAK PENGHASILAN PASAL 22 OLEH INDUSTRI DAN EKSPORTIR YANG BERGERAK DALAM SEKTOR PERHUTANAN, PERKEBUNAN, PERTANIAN, DAN PERIKANAN, ATAS PEMBELIAN BAHAN-BAHAN UNTUK KEPERLUAN INDUSTRI ATAU EKSPOR MEREKA DARI PEDAGANG PENGUMPUL",
+    "url": "https://www.pajak.go.id/id/peraturan/tarif-dan-tata-cara-pemungutan-penyetoran-serta-pelaporan-pajak-penghasilan-pasal-22-oleh"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-350/PJ/2001 TENTANG PERLAKUAN PERPAJAKAN ATAS UANG PESANGON YANG DIALIHKAN KEPADA PENGELOLA DANA PESANGON TENAGA KERJA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-350pj2001-tentang-perlakuan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA DAN PROSEDUR PELAKSANAAN PEMOTONGAN PAJAK PENGHASILAN ATAS BUNGA DAN DISKONTO OBLIGASI YANG DIPERDAGANGKAN DAN ATAU DILAPORKAN PERDAGANGANNYA DI BURSA EFEK",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-dan-prosedur-pelaksanaan-pemotongan-pajak-penghasilan-atas-bunga-dan-diskonto"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGGUNAAN STEMPEL TANDA TANGAN PADA BUKTI PEMOTONGAN PPh BUNGA DEPOSITO, TABUNGAN, JASA GIRO DAN DISKONTO SERTIFIKAT BANK INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/penggunaan-stempel-tanda-tangan-pada-bukti-pemotongan-pph-bunga-deposito-tabungan-jasa"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENJELASAN LEBIH LANJUT MENGENAI JENIS BARANG-BARANG KEBUTUHAN POKOK",
+    "url": "https://www.pajak.go.id/id/peraturan/penjelasan-lebih-lanjut-mengenai-jenis-barang-barang-kebutuhan-pokok"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 402/KMK.03/2002 TENTANG PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN BARANG DAGANGAN OLEH PEDAGANG ECERAN SELAIN YANG MENGGUNAKAN NORMA PENGHITUNGAN PENGHASILAN NETO, SEBAGAIMANA TELAH DIUBAH DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 402/KMK.03/2002",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-keputusan-menteri-keuangan-nomor-402kmk032002-tentang-pajak-pertambahan-nilai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBERIAN NOMOR POKOK WAJIB PAJAK (NPWP) KEPADA ISTERI WAJIB PAJAK YANG MELAKUKAN KEGIATAN USAHA DAN ATAU PEKERJAAN BEBAS",
+    "url": "https://www.pajak.go.id/id/peraturan/pemberian-nomor-pokok-wajib-pajak-npwp-kepada-isteri-wajib-pajak-yang-melakukan-kegiatan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERLUASAN/PENAMBAHAN KELOMPOK PENGUSAHA JASA YANG DIKENAKAN PPN",
+    "url": "https://www.pajak.go.id/id/peraturan/perluasanpenambahan-kelompok-pengusaha-jasa-yang-dikenakan-ppn"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: UU 21 TAHUN 1997 — Bea Perolehan Hak atas Tanah dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-21-tahun-1997"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-08-02",
+   "detail_error": null,
+   "number_as_written": "20 TAHUN 2000",
+   "retrieved_at": "2026-10-11T01:49:28+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 21 TAHUN 1997 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-21-tahun-1997-tentang-bea-perolehan-hak-atas-tanah-dan"
+  },
+  {
+   "date_as_written": "2000-08-02 00:00:00",
+   "number_as_written": "UU 20 TAHUN 2000",
+   "page_retrieved_at": "2026-10-11T01:45:11+00:00",
+   "retrieved_at": "2026-09-21T14:04:32+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Undang-Undang Nomor 21 Tahun 1997 tentang Bea Perolehan Hak atas Tanah dan Bangunan.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-20-tahun-2000",
+   "validity_as_written": "02 Agu 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=11",
+   "retrieved_at": "2026-10-10T01:03:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-21-tahun-1997-tentang-bea-perolehan-hak-atas-tanah-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=29",
+   "retrieved_at": "2026-09-21T14:04:32+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-20-tahun-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 36147,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:49:28+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-21-tahun-1997-tentang-bea-perolehan-hak-atas-tanah-dan"
+ },
+ "title": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 21 TAHUN 1997 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

@@ -1,0 +1,175 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PMK48PMK032021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "48",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PMK48PMK032021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-48-2021",
+ "identity": {
+  "code": "PMK",
+  "number": "48",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-48-2021--b000-1",
+  "pmk-48-2021--b001-2",
+  "pmk-48-2021--b002-3",
+  "pmk-48-2021--b003-4",
+  "pmk-48-2021--b004-5",
+  "pmk-48-2021--b005-6",
+  "pmk-48-2021--b006-7",
+  "pmk-48-2021--b007-8",
+  "pmk-48-2021--b008-9",
+  "pmk-48-2021--b009-10",
+  "pmk-48-2021--b010-11",
+  "pmk-48-2021--b011-12",
+  "pmk-48-2021--b012-13",
+  "pmk-48-2021--b013-14",
+  "pmk-48-2021--b014-15",
+  "pmk-48-2021--b015-16",
+  "pmk-48-2021--b016-17",
+  "pmk-48-2021--b017-16",
+  "pmk-48-2021--b018-19",
+  "pmk-48-2021--b019-20",
+  "pmk-48-2021--b020-21",
+  "pmk-48-2021--b021-22",
+  "pmk-48-2021--b022-23",
+  "pmk-48-2021--b023-24",
+  "pmk-48-2021--b024-25",
+  "pmk-48-2021--b025-26",
+  "pmk-48-2021--b026-27",
+  "pmk-48-2021--b027-28",
+  "pmk-48-2021--b028-29"
+ ],
+ "quality_flags": [
+  "urutan_loncat:17->16,16->19",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-81-2024",
+    "key": [
+     "PMK",
+     "81",
+     "2024",
+     null
+    ],
+    "number_as_written": "81 TAHUN 2024",
+    "quote": "… 36. Peraturan Menteri Keuangan Nomor 48/PMK.03/2021 tentang Tata Cara Pendaftaran, Pelaporan, dan Pendataan Objek Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2021 Nomor 519); … 42. Peraturan Menteri Keuangan Nomor 68/PMK.03/2022 tentang Pajak Pertambahan Nilai dan Pajak Penghasilan atas Transaksi Perdagangan Aset Kripto (Berita Negara Republik Indonesia Tahun 2022 Nomor 368), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KETENTUAN PERPAJAKAN DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "254",
+     "2014",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 254/PMK.03/2014",
+    "quote": "Pasal 28 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Keuangan Nomor 254/PMK.03/2014 tentang Tata Cara Pendaftaran dan Pendataan Objek Pajak dan Subjek Pajak atau Wajib Pajak Pajak Bumi dan Bangunan (Berita Negara Republik Indonesia Tahun 2014 Nomor 2009), dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-254-2014"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 254/PMK.03/2014 — Tata Cara Pendaftaran dan Pendataan Objek Pajak dan Subjek Pajak atau Wajib Pajak Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/254-pmk-03-2014"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-05-17",
+   "detail_error": null,
+   "number_as_written": "48/PMK.03/2021",
+   "retrieved_at": "2026-10-11T02:00:05+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN, PELAPORAN, DAN PENDATAAN OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-pelaporan-dan-pendataan-objek-pajak-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2021-05-17 00:00:00",
+   "number_as_written": "48/PMK.03/2021",
+   "page_retrieved_at": "2026-10-11T01:47:54+00:00",
+   "retrieved_at": "2026-09-21T14:21:29+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pendaftaran, Pelaporan, dan Pendataan Objek Pajak Pajak Bumi dan Bangunan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-03-2021",
+   "validity_as_written": "16 Jul 2021 - 18 Okt 2024"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 81/2024 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=1",
+   "retrieved_at": "2026-10-10T01:05:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-pelaporan-dan-pendataan-objek-pajak-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=92",
+   "retrieved_at": "2026-09-21T14:21:29+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/48-pmk-03-2021",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 44177,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:00:05+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-pelaporan-dan-pendataan-objek-pajak-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PENDAFTARAN, PELAPORAN, DAN PENDATAAN OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+}

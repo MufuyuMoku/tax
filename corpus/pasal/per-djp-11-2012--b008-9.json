@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 1215,
+ "document_id": "per-djp-11-2012",
+ "document_number": "PER-11/PJ/2012",
+ "document_title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI",
+ "id": "per-djp-11-2012--b008-9",
+ "label": "9",
+ "order": 8,
+ "quality_flags": [
+  "urutan_loncat:13->1,1->15,15->1,1->17",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 9\n(1)\nDasar\nP\nengenaan PBB Sektor Pertambangan untuk Pertambangan\nM\ninyak Bumi, Gas Bumi, dan Panas Bumi adalah NJOP.\n(2)\nNJOP sebagaimana dimaksud pada ayat (1) merupakan hasil penjumlahan antara NJOP bumi dan NJOP bangunan.\n(3)\nNJOP\nbumi\nsebagaimana dimaksud pada ayat (\n2\n)\nuntuk:\na.\nareal\nonshore\natau areal o\nffshore\nmerupakan hasil perkalian\nantara total\nluas\nareal yang dikenakan\ndengan NJOP bumi per meter persegi\n; dan\nb.\ntubuh\nbumi Eksplorasi dan tubuh bumi Eksploitasi merupakan hasil perkalian antara luas Wilayah Kerja dengan NJOP bumi per meter persegi.\n(4)\nNJOP bumi per meter persegi sebagaimana dimaksud pada ayat (\n3\n) merupakan hasil konversi nilai\nbumi\nper meter persegi ke dalam klasifikasi NJOP bumi sebagaimana dimaksud dalam Peraturan Menteri Keuangan mengenai klasifikasi NJOP Bumi.\n(5)\nNJOP bangunan sebagaimana dimaksud pada ayat (2) merupakan hasil perkalian antara total luas bangunan dengan NJOP bangunan per meter persegi.\n(6)\nNJOP\nbangunan per meter persegi sebagaimana dimaksud pada ayat (\n5\n) merupakan hasil konversi nilai bangunan per meter persegi ke dalam klasifikasi NJOP bangunan sebagaimana dimaksud dalam Peraturan Menteri Keuangan mengenai klasifikasi NJOP Bangunan.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T02:13:34+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-minyak"
+ }
+}

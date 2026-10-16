@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-533-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "533",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-24-2016",
+    "key": [
+     "PER-DJP",
+     "24",
+     "2016",
+     null
+    ],
+    "number_as_written": "PER-24/PJ/2016",
+    "quote": "Pasal 21 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … b. ketentuan dalam Keputusan Direktur Jenderal Pajak Nomor KEP-533/PJ/2000 tentang Petunjuk Pelaksanaan Pendaftaran, Pendataan dan Penilaian Objek dan Subjek Pajak Bumi dan Bangunan (PBB) Dalam Rangka Pembentukan dan atau Pemeliharaan Basis Data Sistem Manajemen Informasi Objek Pajak (SISMIOP) yang mengatur mengenai penilaian objek dan subjek Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku;",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PENILAIAN UNTUK PENENTUAN NILAI JUAL OBJEK PAJAKSEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-20",
+   "detail_error": null,
+   "number_as_written": "KEP-533/PJ./2000",
+   "retrieved_at": "2026-10-11T02:28:45+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PENDAFTARAN, PENDATAAN DAN PENILAIAN OBJEK DAN SUBJEK PAJAK BUMI DAN BANGUNAN (PBB) DALAM RANGKA PEMBENTUKAN DAN ATAU PEMELIHARAAN BASIS DATA SISTEM MANAJEMEN INFORMASI OBJEK PAJAK (SISMIOP)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pendaftaran-pendataan-dan-penilaian-objek-dan-subjek-pajak-bumi-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=32",
+   "retrieved_at": "2026-10-10T01:19:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pendaftaran-pendataan-dan-penilaian-objek-dan-subjek-pajak-bumi-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PETUNJUK PELAKSANAAN PENDAFTARAN, PENDATAAN DAN PENILAIAN OBJEK DAN SUBJEK PAJAK BUMI DAN BANGUNAN (PBB) DALAM RANGKA PEMBENTUKAN DAN ATAU PEMELIHARAAN BASIS DATA SISTEM MANAJEMEN INFORMASI OBJEK PAJAK (SISMIOP)"
+}

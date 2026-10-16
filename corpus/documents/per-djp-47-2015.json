@@ -1,0 +1,129 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-47-2015",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "47",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-47-2015--b000-1",
+  "per-djp-47-2015--b001-2",
+  "per-djp-47-2015--b002-3",
+  "per-djp-47-2015--b003-4",
+  "per-djp-47-2015--b004-5",
+  "per-djp-47-2015--b005-6",
+  "per-djp-47-2015--b006-7",
+  "per-djp-47-2015--b007-8",
+  "per-djp-47-2015--b008-9",
+  "per-djp-47-2015--b009-10",
+  "per-djp-47-2015--b010-11",
+  "per-djp-47-2015--b011-12",
+  "per-djp-47-2015--b012-13",
+  "per-djp-47-2015--b013-14",
+  "per-djp-47-2015--b014-15",
+  "per-djp-47-2015--b015-16",
+  "per-djp-47-2015--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-19-2019",
+    "key": [
+     "PER-DJP",
+     "19",
+     "2019",
+     null
+    ],
+    "number_as_written": "PER-19/PJ/2019",
+    "quote": "… e. Pasal 14 Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2015 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "SURAT PEMBERITAHUAN OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+   },
+   {
+    "id": "per-djp-22-2020",
+    "key": [
+     "PER-DJP",
+     "22",
+     "2020",
+     null
+    ],
+    "number_as_written": "PER-22/PJ/2020",
+    "quote": "… g. Peraturan Direktur Jenderal Pajak Nomor PER-47/PJ/2015 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara; h. Keputusan Direktur Jenderal Pajak Nomor KEP-382/PJ./2002 tentang Pedoman Pelaksanaan Pemungutan, Penyetoran, dan Pelaporan Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah Bagi Pemungut Pajak Pertambahan Nilai dan Pengusaha Kena Pajak Rekanan; dan i. Keputusan Direktur Jenderal Pajak Nomor KEP-148/PJ/2003 tentang Petunjuk Pengisian Nomor Pokok Wajib Pajak dalam Formulir Surat Setoran Pabean, Cukai, dan Pajak Dalam Rangka Impor; dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN PERATURAN DIREKTUR JENDERAL PAJAK DAN KEPUTUSAN DIREKTUR JENDERAL PAJAK DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "32",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2012",
+    "quote": "Pasal 15 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-32/PJ/2012 tentang Tata Cara Pengenaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-32-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-12-22",
+   "detail_error": null,
+   "number_as_written": "PER-47/PJ/2015",
+   "retrieved_at": "2026-10-11T02:06:18+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINERAL DAN BATUBARA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-1"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=8",
+   "retrieved_at": "2026-10-10T01:08:11+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-1",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 26686,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:06:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengenaan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk-pertambangan-1"
+ },
+ "title": "TATA CARA PENGENAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINERAL DAN BATUBARA"
+}

@@ -1,0 +1,126 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-133-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "133/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kmk-133-kmk-04-2000--b000-1",
+  "kmk-133-kmk-04-2000--b001-2",
+  "kmk-133-kmk-04-2000--b002-3",
+  "kmk-133-kmk-04-2000--b003-4",
+  "kmk-133-kmk-04-2000--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "560/KMK.04",
+     "1999",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 560/KMK.04/1999",
+    "quote": "Pasal 3 Bentuk, ukuran, dan warna Benda Meterai berdasarkan Keputusan Menteri Keuangan Nomor 560/KMK.04/1999 tanggal 15 Desember 1999 dinyatakan tidak berlaku lagi sejak tanggal 31 Desember 2000.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-560-kmk-04-1999"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 560/KMK.04/1999 — Perubahan Kepmenkeu No. 182/KMK.04/1995 Tanggal 1 Mei 1995 tentang Pelaksanaan Pp No. 7 Tahun 1995 tentang Perubahan Tarip Bea Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/560-kmk-04-1999"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 560/KMK.04/2000 — Perubahan atas Kepmenkeu No.133/KMK.04/2000 tentang Bentuk, Ukuran dan Warna Benda Meterai Desain Tahun 2000",
+    "url": "https://jdih.kemenkeu.go.id/dok/560-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 323/KMK.03/2002 — Bentuk, Ukuran, dan Warna Benda Meterai Desain Tahun 2002.",
+    "url": "https://jdih.kemenkeu.go.id/dok/323-kmk-03-2002"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-04-28",
+   "detail_error": null,
+   "number_as_written": "133/KMK.04/2000",
+   "retrieved_at": "2026-10-11T01:34:12+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK, UKURAN, DAN WARNA BENDA METERAI DESAIN TAHUN 2000",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-dan-warna-benda-meterai-desain-tahun-2000"
+  },
+  {
+   "date_as_written": "2000-04-28 00:00:00",
+   "number_as_written": "133/KMK.04/2000",
+   "page_retrieved_at": "2026-10-11T01:37:03+00:00",
+   "retrieved_at": "2026-09-21T14:50:27+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bentuk, Ukuran dan Warna Benda Meterai Desain Tahun 2000",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/133-kmk-04-2000",
+   "validity_as_written": "28 Apr 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=10",
+   "retrieved_at": "2026-10-10T00:46:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-dan-warna-benda-meterai-desain-tahun-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=52",
+   "retrieved_at": "2026-09-21T14:50:27+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/133-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7918,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:34:12+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-ukuran-dan-warna-benda-meterai-desain-tahun-2000"
+ },
+ "title": "BENTUK, UKURAN, DAN WARNA BENDA METERAI DESAIN TAHUN 2000"
+}

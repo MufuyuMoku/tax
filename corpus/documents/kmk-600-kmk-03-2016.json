@@ -1,0 +1,72 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-600-kmk-03-2016",
+ "identity": {
+  "code": "KMK",
+  "number": "600/KMK.03",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kmk-600-kmk-03-2016--b000-kedua",
+  "kmk-600-kmk-03-2016--b001-ketiga",
+  "kmk-600-kmk-03-2016--b002-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-07-18",
+   "detail_error": null,
+   "number_as_written": "600/KMK.03/2016",
+   "retrieved_at": "2026-10-11T03:15:52+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BANK PERSEPSI YANG BERTINDAK SEBAGAI PENERIMA UANGTEBUSAN DALAM RANGKA PELAKSANAAN PENGAMPUNAN PAJAK",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bank-persepsi-yang-bertindak-sebagai-penerima-uangtebusan-dalam-rangka"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=9",
+   "retrieved_at": "2026-10-10T01:32:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-bank-persepsi-yang-bertindak-sebagai-penerima-uangtebusan-dalam-rangka",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3014,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:15:52+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-bank-persepsi-yang-bertindak-sebagai-penerima-uangtebusan-dalam-rangka"
+ },
+ "title": "PENETAPAN BANK PERSEPSI YANG BERTINDAK SEBAGAI PENERIMA UANGTEBUSAN DALAM RANGKA PELAKSANAAN PENGAMPUNAN PAJAK"
+}

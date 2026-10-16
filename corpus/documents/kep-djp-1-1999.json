@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-1-1999",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "1999"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kep-djp-1-1999--b000-1",
+  "kep-djp-1-1999--b001-2",
+  "kep-djp-1-1999--b002-3",
+  "kep-djp-1-1999--b003-4",
+  "kep-djp-1-1999--b004-5",
+  "kep-djp-1-1999--b005-6",
+  "kep-djp-1-1999--b006-7",
+  "kep-djp-1-1999--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1999-01-06",
+   "detail_error": null,
+   "number_as_written": "KEP - 01/PJ.6/1999",
+   "retrieved_at": "2026-10-11T01:51:31+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERBITAN SURAT TAGIHAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN (STB), SURAT KETETAPAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KURANG BAYAR (SKBKB), SURAT KETETAPAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KURANG BAYAR TAMBAHAN (SKBKBT), DAN SURAT KEPUTUSAN PEMBETULAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-bea-perolehan-hak-atas-tanah-dan-bangunan-stb-surat"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=12",
+   "retrieved_at": "2026-10-10T01:04:07+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-bea-perolehan-hak-atas-tanah-dan-bangunan-stb-surat",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 8486,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:51:31+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerbitan-surat-tagihan-bea-perolehan-hak-atas-tanah-dan-bangunan-stb-surat"
+ },
+ "title": "TATA CARA PENERBITAN SURAT TAGIHAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN (STB), SURAT KETETAPAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KURANG BAYAR (SKBKB), SURAT KETETAPAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KURANG BAYAR TAMBAHAN (SKBKBT), DAN SURAT KEPUTUSAN PEMBETULAN"
+}

@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1004-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "1004/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEDUA KEPUTUSAN MENTERI KEUANGAN NOMOR 422/KMK.04/1998 TENTANG PENGGUNAAN NILAI BUKU ATAS PENGALIHAN HARTA DALAM RANGKA PENGGABUNGAN, PELEBURAN ATAUÃƒâ€šÃ‚Â  PEMEKARAN USAHA",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-kedua-keputusan-menteri-keuangan-nomor-422kmk041998-tentang-penggunaan-nilai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN KENA PAJAK DARI WAJIB PAJAK BADAN YANG MELAKUKAN KEGIATAN USAHA DI BIDANG PENGEBORAN MINYAK DAN GAS BUMI SERTA ANGSURAN PAJAK DALAM TAHUN BERJALAN OLEH WAJIB PAJAK SENDIRI",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-kena-pajak-dari-wajib-pajak-badan-yang-melakukan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENENTUAN KLASIFIKASI DAN BESARNYA NILAI JUAL OBYEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/penentuan-klasifikasi-dan-besarnya-nilai-jual-obyek-pajak-sebagai-dasar-pengenaan-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN FILM PENERANGAN YANG DIIMPOR OLEH ATAU YANG DISERAHKAN KEPADA DEPARTEMEN PENERANGAN REPUBLIK INDONESIA SEBAGAI BARANG KENA PAJAK YANG PAJAK PERTAMBAHAN NILAI ATAS IMPOR ATAU PENYERAHANNYA DITANGGUNG OLEH NEGARA",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-film-penerangan-yang-diimpor-oleh-atau-yang-diserahkan-kepada-departemen"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENGEMBALIAN KELEBIHAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengembalian-kelebihan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN LAMPIRAN KEPUTUSAN MENTERI KEUANGAN NOMOR 611/KMK.04/1994 TENTANG PERLAKUAN PAJAK PENGHASILAN BAGI PERWAKILAN ORGANISASI INTERNASIONAL DAN PEJABAT PERWAKILAN ORGANISASI INTERNASIONAL SEBAGAIMANA TELAH DIUBAH TERAKHIR DENGAN KEPUTUSAN MENTERI KEUANGAN NOMOR 436/KMK.04/1996",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-lampiran-keputusan-menteri-keuangan-nomor-611kmk041994-tentang-perlakuan-1"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-28",
+   "detail_error": null,
+   "number_as_written": "1004/KMK.04/1985",
+   "retrieved_at": "2026-10-11T02:55:24+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN BADAN ATAU PERWAKILAN ORGANISASI INTERNASIONAL YANG MENGGUNAKAN OBYEK PAJAK BUMI DAN BANGUNAN YANG TIDAK DIKENAKAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-badan-atau-perwakilan-organisasi-internasional-yang-menggunakan-obyek-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=46",
+   "retrieved_at": "2026-10-10T06:11:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-badan-atau-perwakilan-organisasi-internasional-yang-menggunakan-obyek-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENENTUAN BADAN ATAU PERWAKILAN ORGANISASI INTERNASIONAL YANG MENGGUNAKAN OBYEK PAJAK BUMI DAN BANGUNAN YANG TIDAK DIKENAKAN PAJAK BUMI DAN BANGUNAN"
+}

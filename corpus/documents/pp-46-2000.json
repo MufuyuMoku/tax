@@ -1,0 +1,104 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-46-2000",
+ "identity": {
+  "code": "PP",
+  "number": "46",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-25-2002",
+    "key": [
+     "PP",
+     "25",
+     "2002",
+     null
+    ],
+    "number_as_written": "25 TAHUN 2002",
+    "quote": "Pasal 2 Pada saat Peraturan Pemerintah ini berlaku, Peraturan Pemerintah Nomor 46 Tahun 2000 tentang Penetapan Besarnya Nilai Jual Kena Pajak untuk Penghitungan Pajak Bumi dan Bangunan (Lembaran Negara Republik Tahun 2000 Nomor 99, Tambahan Lembaran Negara Nomor 3977) dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENETAPAN BESARNYA NILAI JUAL KENA PAJAK UNTUK PENGHITUNGAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-06-26",
+   "detail_error": null,
+   "number_as_written": "46 TAHUN 2000",
+   "retrieved_at": "2026-10-11T02:29:47+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BESARNYA NILAI JUAL KENA PAJAK UNTUK PENGHITUNGAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-nilai-jual-kena-pajak-untuk-penghitungan-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2000-06-26 00:00:00",
+   "number_as_written": "PP 46 TAHUN 2000",
+   "page_retrieved_at": "2026-10-11T01:58:43+00:00",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penetapan Besarnya Nilai Jual Kena Pajak untuk Penghitungan Pajak Bumi dan Bangunan",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-46-tahun-2000",
+   "validity_as_written": "26 Jun 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PP 25/2002 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=32",
+   "retrieved_at": "2026-10-10T01:19:24+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-nilai-jual-kena-pajak-untuk-penghitungan-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=91",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-46-tahun-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN BESARNYA NILAI JUAL KENA PAJAK UNTUK PENGHITUNGAN PAJAK BUMI DAN BANGUNAN"
+}

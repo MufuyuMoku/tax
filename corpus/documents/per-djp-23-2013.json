@@ -1,0 +1,97 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-23-2013--b000-2",
+  "per-djp-23-2013--b001-3",
+  "per-djp-23-2013--b002-4",
+  "per-djp-23-2013--b003-5",
+  "per-djp-23-2013--b004-6",
+  "per-djp-23-2013--b005-7",
+  "per-djp-23-2013--b006-8",
+  "per-djp-23-2013--b007-9",
+  "per-djp-23-2013--b008-10",
+  "per-djp-23-2013--b009-11",
+  "per-djp-23-2013--b010-12",
+  "per-djp-23-2013--b011-13"
+ ],
+ "quality_flags": [
+  "tidak_mulai_dari_1"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "9",
+     "2010",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-9/PJ/2010",
+    "quote": "Pada saat berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-9/PJ/2010 tentang Standar Pemeriksnan Untuk Menguji Kepatuhan Pemenuhan Kewajiban Perpajakan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-9-2010"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-06-11",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2013",
+   "retrieved_at": "2026-10-16T00:43:26+00:00",
+   "source": "DJP",
+   "title_as_written": "STANDAR PEMERIKSAAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/standar-pemeriksaan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=17",
+   "retrieved_at": "2026-10-10T01:35:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/standar-pemeriksaan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 23569,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-16T00:43:26+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/standar-pemeriksaan"
+ },
+ "title": "STANDAR PEMERIKSAAN"
+}

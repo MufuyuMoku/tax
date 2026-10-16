@@ -1,0 +1,136 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-150-2010",
+ "identity": {
+  "code": "PMK",
+  "number": "150",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-150-2010--b000-1",
+  "pmk-150-2010--b001-2",
+  "pmk-150-2010--b002-3",
+  "pmk-150-2010--b003-4",
+  "pmk-150-2010--b004-5",
+  "pmk-150-2010--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-139-2014",
+    "key": [
+     "PMK",
+     "139",
+     "2014",
+     null
+    ],
+    "number_as_written": "139/PMK.03/2014",
+    "quote": "Pasal 11 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 150/PMK.03/2010 tentang Klasifikasi dan Penetapan Nilai Jual Objek Pajak Sebagai Dasar Pengenaan Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "KLASIFIKASI DAN PENETAPAN NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "523/KMK.04",
+     "1998",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 523/KMK.04/1998",
+    "quote": "Pasal 5 Pada saat Peraturan Menteri Keuangan ini berlaku: 1. Penetapan besarnya Pajak Bumi dan Bangunan terutang untuk tahun pajak 2010 dan tahun-tahun pajak sebelumnya tetap menggunakan klasifikasi dan besarnya NJOP sebagaimana diatur dalam Keputusan Menteri Keuangan Nomor 523/KMK.04/1998 tentang Penentuan Klasifikasi dan Besarnya Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan. 2. Keputusan Menteri Keuangan Nomor 523/KMK.04/1998 tentang Penentuan Klasifikasi dan Besarnya Nilai Jual Objek Pajak sebagai Dasar Pengenaan Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-523-kmk-04-1998"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 523/KMK.04/1998 — Penentuan Klasifikasi dan Besarnya Nilai Jual Obyek Pajak (Njop) Sebagai Dasar Pengenaan Pajak Bumi dan Bangunan (Pbb)",
+    "url": "https://jdih.kemenkeu.go.id/dok/523-kmk-04-1998"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 139/PMK.03/2014 — Klasifikasi dan Penetapan Nilai Jual Objek Pajak Sebagai Dasar Pengenaan Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/139-pmk-03-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-08-27",
+   "detail_error": null,
+   "number_as_written": "150/PMK.03/2010",
+   "retrieved_at": "2026-10-11T02:17:42+00:00",
+   "source": "DJP",
+   "title_as_written": "KLASIFIKASI DAN PENETAPAN NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-dan-penetapan-nilai-jual-objek-pajak-sebagai-dasar-pengenaan-pajak-bumi-dan"
+  },
+  {
+   "date_as_written": "2010-08-27 00:00:00",
+   "number_as_written": "150/PMK.03/2010",
+   "page_retrieved_at": "2026-10-11T01:54:59+00:00",
+   "retrieved_at": "2026-09-21T14:39:23+00:00",
+   "source": "JDIH",
+   "title_as_written": "Klasifikasi dan Penetapan Nilai Jual Objek Pajak Sebagai Dasar Pengenaan Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/150-pmk-03-2010",
+   "validity_as_written": "27 Agu 2010 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=20",
+   "retrieved_at": "2026-10-10T01:14:43+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-dan-penetapan-nilai-jual-objek-pajak-sebagai-dasar-pengenaan-pajak-bumi-dan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=355",
+   "retrieved_at": "2026-09-21T14:39:23+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/150-pmk-03-2010",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7874,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:17:42+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/klasifikasi-dan-penetapan-nilai-jual-objek-pajak-sebagai-dasar-pengenaan-pajak-bumi-dan"
+ },
+ "title": "KLASIFIKASI DAN PENETAPAN NILAI JUAL OBJEK PAJAK SEBAGAI DASAR PENGENAAN PAJAK BUMI DAN BANGUNAN"
+}

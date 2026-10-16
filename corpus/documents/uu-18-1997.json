@@ -1,0 +1,133 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-18-1997",
+ "identity": {
+  "code": "UU",
+  "number": "18",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "daerah",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "uu-34-2000",
+    "key": [
+     "UU",
+     "34",
+     "2000",
+     null
+    ],
+    "number_as_written": "34 TAHUN 2000",
+    "quote": "Beberapa ketentuan dalam Undang-undang Nomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 41, Tambahan Lembaran Negara Nomor 3685), diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 18 TAHUN 1997 TENTANG PAJAK DAERAH DAN RETRIBUSI DAERAH"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umum-dan-tata-cara"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BADAN PENYELESAIAN SENGKETA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/badan-penyelesaian-sengketa-pajak"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: UU 34 TAHUN 2000 — Perubahan atas Undang-Undang Nomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-34-tahun-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: UU 28 TAHUN 2009 — Pajak Daerah dan Retribusi Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-28-tahun-2009"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-05-23",
+   "detail_error": null,
+   "number_as_written": "18 TAHUN 1997",
+   "retrieved_at": "2026-10-12T07:14:33+00:00",
+   "source": "DJP",
+   "title_as_written": "PAJAK DAERAH DAN RETRIBUSI DAERAH",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-daerah-dan-retribusi-daerah"
+  },
+  {
+   "date_as_written": "1997-05-23 00:00:00",
+   "number_as_written": "UU 18 TAHUN ~1997",
+   "page_retrieved_at": "2026-10-11T02:09:57+00:00",
+   "retrieved_at": "2026-09-21T14:04:44+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pajak Daerah dan Retribusi Daerah.",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-18-tahun-~1997",
+   "validity_as_written": "23 Mei 1997 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=340",
+   "retrieved_at": "2026-10-10T07:24:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pajak-daerah-dan-retribusi-daerah",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=32",
+   "retrieved_at": "2026-09-21T14:04:44+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-18-tahun-~1997",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PAJAK DAERAH DAN RETRIBUSI DAERAH"
+}

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1851,
+ "document_id": "pmk-60-2011",
+ "document_number": "60/PMK.05/2011",
+ "document_title": "PELAKSANAAN UJI COBA PENERAPAN SISTEM PEMBAYARAN PAJAK SECARA ELEKTRONIK (BILLING SYSTEM) DALAM SISTEM MODUL PENERIMAAN NEGARA",
+ "id": "pmk-60-2011--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Menteri Keuangan ini, yang dimaksud dengan:\n1.\nModul Penerimaan Negara adalah modul penerimaan yang memuat serangkaian prosedur mulai dari penerimaan, penyetoran, pengumpulan data, pencatatan, pengikhtisaran sampai dengan pelaporan yang berhubungan dengan penerimaan negara dan merupakan bagian dari sistem perbendaharaan dan anggaran negara.\n2.\nSistem pembayaran pajak secara elektronik (billing system) adalah serangkaian proses yang meliputi kegiatan pendaftaran peserta billing, pembuatan kode billing, pembayaran berdasarkan kode billing, dan rekonsiliasi billing dalam sistem Modul Penerimaan Negara.\n3.\nNomor Identitas Peserta Billing yang selanjutnya disebut NIPB adalah nomor yang diberikan kepada wajib pajak sebagai identitas peserta sistem pembayaran pajak secara elektronik (billing system).\n4.\nPersonal Identification Number yang selanjutnya disebut PIN adalah nomor identitas wajib pajak sebagai sarana untuk dapat masuk aplikasi pembuatan kode billing dan melakukan pembayaran pajak secara elektronik.\n5.\nPassword adalah kata kunci agar dapat masuk aplikasi pembuatan kode billing dan melakukan pembayaran pajak secara elektronik.\n6.\nKode Billing adalah kode identifikasi suatu jenis pembayaran atau setoran pajak yang akan dilakukan wajib pajak.\n7.\nNomor Transaksi Penerimaan Negara yang selanjutnya disebut NTPN adalah nomor bukti transaksi penerimaan yang diterbitkan melalui Modul Penerimaan Negara.\n8.\nNomor Transaksi Bank yang selanjutnya disebut NTB adalah nomor bukti transaksi penerimaan yang diterbitkan oleh Bank Persepsi/Bank Devisa Persepsi.\n9.\nNomor Transaksi Pos yang selanjutnya disebut NTP adalah nomor bukti ttransaksi penerimaan yang diterbitkan oleh Pos Persepsi.\n10.\nBank/Pos Persepsi adalah bank umum/kantor pos yang ditunjuk oleh Menteri Keuangan untuk menerima setoran penerimaan negara.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T03:18:59+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-uji-coba-penerapan-sistem-pembayaran-pajak-secara-elektronik-billing-system"
+ }
+}

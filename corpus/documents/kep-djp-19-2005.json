@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-19-2005",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "19",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-01-12",
+   "detail_error": null,
+   "number_as_written": "KEP - 19/PJ.1/UP.53/2005",
+   "retrieved_at": "2026-10-16T00:53:15+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMINDAHAN DAN PENGANGKATAN PARA KOORDINATOR PELAKSANA DI LINGKUNGAN KANTOR PUSAT, KANTOR WILAYAH DJP JAKARTA I, II, III, IV, V, KANTOR WILAYAH DJP JAWA BAGIAN BARAT I DAN JAWA BAGIAN BARAT III",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-dan-pengangkatan-para-koordinator-pelaksana-di-lingkungan-kantor-pusat-kantor"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=166",
+   "retrieved_at": "2026-10-10T06:17:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemindahan-dan-pengangkatan-para-koordinator-pelaksana-di-lingkungan-kantor-pusat-kantor",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMINDAHAN DAN PENGANGKATAN PARA KOORDINATOR PELAKSANA DI LINGKUNGAN KANTOR PUSAT, KANTOR WILAYAH DJP JAKARTA I, II, III, IV, V, KANTOR WILAYAH DJP JAWA BAGIAN BARAT I DAN JAWA BAGIAN BARAT III"
+}

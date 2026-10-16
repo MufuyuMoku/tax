@@ -1,0 +1,124 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-8-2019",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "8",
+  "variant": null,
+  "year": "2019"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-8-2019--b000-1",
+  "per-djp-8-2019--b001-2",
+  "per-djp-8-2019--b002-3",
+  "per-djp-8-2019--b003-4",
+  "per-djp-8-2019--b004-5",
+  "per-djp-8-2019--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-7-2025",
+    "key": [
+     "PER-DJP",
+     "7",
+     "2025",
+     null
+    ],
+    "number_as_written": "PER-7/PJ/2025",
+    "quote": "Pasal 94 Pada saat Peraturan Direktur Jenderal ini mulai berlaku: … 3. Peraturan Direktur Jenderal Pajak Nomor PER-08/PJ/2019 tentang Tata Cara Pemberian, Penyesuaian, dan Penghapusan Nomor Objek Pajak Pajak Bumi dan Bangunan; … 7. Peraturan Direktur Jenderal Pajak Nomor PER-27/PJ/2021 tentang Jenis Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan Secara Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik, Persyaratan Dokumen Elektronik yang Harus Dilampirkan, Tanda Tangan Elektronik yang Digunakan, Tata Cara Penyampaian Dokumen Elektronik dan Saluran yang Digunakan, serta Tata Cara Tindak Lanjut atas Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan secara Elektronik. dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PETUNJUK PELAKSANAAN ADMINISTRASI NOMOR POKOK WAJIB PAJAK, PENGUSAHA KENA PAJAK, OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SERTA PERINCIAN JENIS, DOKUMEN, DAN SALURAN UNTUK PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "48",
+     "2015",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2015",
+    "quote": "Pasal 5 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-48/PJ/2015 tentang Tata Cara Pemberian Nomor Objek Pajak Pajak Bumi dan Bangunan, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-48-2015"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2019-06-10",
+   "detail_error": null,
+   "number_as_written": "PER-08/PJ/2019",
+   "retrieved_at": "2026-10-11T02:02:10+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBERIAN, PENYESUAIAN, DAN PENGHAPUSAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-penyesuaian-dan-penghapusan-nomor-objek-pajak-pajak-bumi-dan-bangunan"
+  },
+  {
+   "date_as_written": "2019-06-10 00:00:00",
+   "number_as_written": "PER-08/PJ/2019",
+   "page_retrieved_at": "2026-10-11T01:49:15+00:00",
+   "retrieved_at": "2026-09-21T14:57:17+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pemberian , Penyesuaian, dan Penghapusan Nomor Objek Pajak Pajak Bumi dan Bangunan",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-08-pj-2019",
+   "validity_as_written": "01 Jan 1900 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks PER-DJP 7/2025 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=4",
+   "retrieved_at": "2026-10-10T01:06:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-penyesuaian-dan-penghapusan-nomor-objek-pajak-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=30",
+   "retrieved_at": "2026-09-21T14:57:17+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/per-08-pj-2019",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3656,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:02:10+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-penyesuaian-dan-penghapusan-nomor-objek-pajak-pajak-bumi-dan-bangunan"
+ },
+ "title": "TATA CARA PEMBERIAN, PENYESUAIAN, DAN PENGHAPUSAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+}

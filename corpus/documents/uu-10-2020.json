@@ -1,0 +1,160 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-10-2020",
+ "identity": {
+  "code": "UU",
+  "number": "10",
+  "variant": null,
+  "year": "2020"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "uu-10-2020--b000-1",
+  "uu-10-2020--b001-2",
+  "uu-10-2020--b002-3",
+  "uu-10-2020--b003-4",
+  "uu-10-2020--b004-5",
+  "uu-10-2020--b005-6",
+  "uu-10-2020--b006-7",
+  "uu-10-2020--b007-8",
+  "uu-10-2020--b008-9",
+  "uu-10-2020--b009-10",
+  "uu-10-2020--b010-11",
+  "uu-10-2020--b011-12",
+  "uu-10-2020--b012-13",
+  "uu-10-2020--b013-14",
+  "uu-10-2020--b014-15",
+  "uu-10-2020--b015-16",
+  "uu-10-2020--b016-17",
+  "uu-10-2020--b017-18",
+  "uu-10-2020--b018-19",
+  "uu-10-2020--b019-20",
+  "uu-10-2020--b020-21",
+  "uu-10-2020--b021-22",
+  "uu-10-2020--b022-24",
+  "uu-10-2020--b023-25",
+  "uu-10-2020--b024-26",
+  "uu-10-2020--b025-27",
+  "uu-10-2020--b026-28",
+  "uu-10-2020--b027-29",
+  "uu-10-2020--b028-30",
+  "uu-10-2020--b029-31",
+  "uu-10-2020--b030-32",
+  "uu-10-2020--p031-1",
+  "uu-10-2020--p032-2",
+  "uu-10-2020--p033-3",
+  "uu-10-2020--p034-4",
+  "uu-10-2020--p035-5",
+  "uu-10-2020--p036-6",
+  "uu-10-2020--p037-7",
+  "uu-10-2020--p038-8",
+  "uu-10-2020--p039-9",
+  "uu-10-2020--p040-10",
+  "uu-10-2020--p041-11",
+  "uu-10-2020--p042-12",
+  "uu-10-2020--p043-13",
+  "uu-10-2020--p044-14",
+  "uu-10-2020--p045-15",
+  "uu-10-2020--p046-16",
+  "uu-10-2020--p047-17",
+  "uu-10-2020--p048-18",
+  "uu-10-2020--p049-19",
+  "uu-10-2020--p050-20",
+  "uu-10-2020--p051-21",
+  "uu-10-2020--p052-22",
+  "uu-10-2020--p053-23",
+  "uu-10-2020--p054-24",
+  "uu-10-2020--p055-25",
+  "uu-10-2020--p056-26",
+  "uu-10-2020--p057-27",
+  "uu-10-2020--p058-28",
+  "uu-10-2020--p059-29",
+  "uu-10-2020--p060-30",
+  "uu-10-2020--p061-31",
+  "uu-10-2020--p062-32"
+ ],
+ "quality_flags": [
+  "urutan_loncat:22->24"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: UU 13 TAHUN 1985 — Bea Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-13-tahun-1985"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2020-10-26",
+   "detail_error": null,
+   "number_as_written": "10 TAHUN 2020",
+   "retrieved_at": "2026-10-10T00:54:35+00:00",
+   "source": "DJP",
+   "title_as_written": "BEA METERAI",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-meterai-0"
+  },
+  {
+   "date_as_written": "2020-10-26 00:00:00",
+   "number_as_written": "UU 10 TAHUN 2020",
+   "page_retrieved_at": "2026-10-11T01:32:19+00:00",
+   "retrieved_at": "2026-09-21T14:02:49+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bea Meterai",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-2020",
+   "validity_as_written": "01 Jan 2021 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=2",
+   "retrieved_at": "2026-10-10T00:43:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-meterai-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=3",
+   "retrieved_at": "2026-09-21T14:02:49+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-2020",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 39702,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:54:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bea-meterai-0"
+ },
+ "title": "BEA METERAI"
+}

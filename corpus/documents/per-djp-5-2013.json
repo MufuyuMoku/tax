@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-5-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "5",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-5-2013--b000-1",
+  "per-djp-5-2013--b001-2",
+  "per-djp-5-2013--b002-3",
+  "per-djp-5-2013--b003-4",
+  "per-djp-5-2013--b004-5",
+  "per-djp-5-2013--b005-6",
+  "per-djp-5-2013--b006-7",
+  "per-djp-5-2013--b007-8",
+  "per-djp-5-2013--b008-9",
+  "per-djp-5-2013--b009-10",
+  "per-djp-5-2013--b010-11",
+  "per-djp-5-2013--b011-12",
+  "per-djp-5-2013--b012-13",
+  "per-djp-5-2013--b013-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-03-05",
+   "detail_error": null,
+   "number_as_written": "PER-05/PJ/2013",
+   "retrieved_at": "2026-10-11T01:37:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYELESAIAN PENGAJUAN KEBERATAN, PERMOHONAN PELAYANAN LAINNYA, BANDING, GUGATAN, DAN PENINJAUAN KEMBALI BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN SETELAH PENGALIHAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN SEBAGAI PAJAK DAERAH",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-pengajuan-keberatan-permohonan-pelayanan-lainnya-banding-gugatan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=1",
+   "retrieved_at": "2026-10-10T00:57:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-pengajuan-keberatan-permohonan-pelayanan-lainnya-banding-gugatan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12865,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:37:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyelesaian-pengajuan-keberatan-permohonan-pelayanan-lainnya-banding-gugatan"
+ },
+ "title": "TATA CARA PENYELESAIAN PENGAJUAN KEBERATAN, PERMOHONAN PELAYANAN LAINNYA, BANDING, GUGATAN, DAN PENINJAUAN KEMBALI BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN SETELAH PENGALIHAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN SEBAGAI PAJAK DAERAH"
+}

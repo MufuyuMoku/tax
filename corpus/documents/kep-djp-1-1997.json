@@ -1,0 +1,90 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-1-1997",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kep-djp-1-1997--b000-i",
+  "kep-djp-1-1997--b001-ii",
+  "kep-djp-1-1997--b002-iii",
+  "kep-djp-1-1997--b003-iv",
+  "kep-djp-1-1997--b004-v",
+  "kep-djp-1-1997--b005-vi"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "KEP-DJP",
+     "42",
+     "1991",
+     null
+    ],
+    "name": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-42/PJ.6/1991",
+    "quote": "Ketentuan Pasal 5 diubah sehingga Pasal 5 seluruhnya berbunyi sebagai berikut :",
+    "quote_excerpt": false,
+    "quote_note": "nomor peraturan yang diubah tidak terbaca otomatis dari kalimat ini; nomornya diambil dari judul",
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-42-1991"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-02-06",
+   "detail_error": null,
+   "number_as_written": "KEP - 01/PJ.6/1997",
+   "retrieved_at": "2026-10-11T02:34:37+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-42/PJ.6/1991 TANGGAL 14 PEBRUARI 1991 TENTANG TATA CARA PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-42pj61991-tanggal-14-pebruari"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=36",
+   "retrieved_at": "2026-10-10T01:22:55+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-42pj61991-tanggal-14-pebruari",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 12677,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:34:37+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-42pj61991-tanggal-14-pebruari"
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-42/PJ.6/1991 TANGGAL 14 PEBRUARI 1991 TENTANG TATA CARA PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN"
+}

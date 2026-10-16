@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-113-2000",
+ "identity": {
+  "code": "PP",
+  "number": "113",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pp-113-2000--b000-1",
+  "pp-113-2000--b001-2",
+  "pp-113-2000--b002-3",
+  "pp-113-2000--b003-4",
+  "pp-113-2000--p004-1",
+  "pp-113-2000--p005-2",
+  "pp-113-2000--p006-3",
+  "pp-113-2000--p007-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-01",
+   "detail_error": null,
+   "number_as_written": "113 TAHUN 2000",
+   "retrieved_at": "2026-10-11T01:48:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PENENTUAN BESARNYA NILAI PEROLEHAN OBJEK PAJAK TIDAK KENA PAJAK BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-besarnya-nilai-perolehan-objek-pajak-tidak-kena-pajak-bea-perolehan-hak-atas"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=10",
+   "retrieved_at": "2026-10-10T01:03:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penentuan-besarnya-nilai-perolehan-objek-pajak-tidak-kena-pajak-bea-perolehan-hak-atas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4521,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:48:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penentuan-besarnya-nilai-perolehan-objek-pajak-tidak-kena-pajak-bea-perolehan-hak-atas"
+ },
+ "title": "PENENTUAN BESARNYA NILAI PEROLEHAN OBJEK PAJAK TIDAK KENA PAJAK BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

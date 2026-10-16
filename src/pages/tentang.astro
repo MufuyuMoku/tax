@@ -36,6 +36,7 @@ const excluded = Object.entries(
   scope.filter((e) => e.masuk === false).reduce((m, e) => ((m[e.kelompok] = (m[e.kelompok] || 0) + 1), m), {})
 ).sort((a, b) => b[1] - a[1]);
 const undecided = scope.filter((e) => e.masuk === null).length;
+const included = scope.filter((e) => e.masuk === true).length;
 ---
 
 <Base title={`Tentang dan batasan — ${APP_NAME}`} description={`Cakupan dan batasan ${APP_NAME}`}>
@@ -104,10 +105,9 @@ const undecided = scope.filter((e) => e.masuk === null).length;
   <h2>Yang tidak dicakup</h2>
   <ul>
     <li>Surat Edaran, Nota Dinas, penegasan, dan putusan pengadilan. Dokumen seperti itu bisa Anda simpan sendiri di <a href={`${base}koleksi/`}>Koleksi pribadi</a>; tetap hanya di perangkat Anda.</li>
-    <li>Pajak daerah (misalnya PBB-P2, BPHTB, pajak kendaraan): diatur peraturan daerah, bukan di sini.</li>
-    <li>Kategori katalog DJP yang belum masuk: PBB, BPHTB, Bea Meterai, dan “Lainnya”. Sedang disiapkan untuk versi berikutnya.</li>
+    <li>Peraturan daerah. PBB rumah dan tanah (PBB-P2), BPHTB, pajak kendaraan, dan pajak daerah lain diatur perda; yang ada di sini hanya aturan pusatnya, misalnya PBB-P5L atau aturan sebelum peralihan.</li>
     <li>
-      Dari daftar “Lainnya” katalog DJP, hanya yang tentang pajak DJP yang akan dimuat. Yang tidak dimuat:
+      Dari daftar “Lainnya” katalog DJP, hanya yang tentang pajak DJP yang dimuat ({n(included)} peraturan). Yang tidak dimuat:
       {excluded.map(([group, count], i) => <>{i > 0 && "; "}{group} ({n(count)})</>)}.
       {undecided > 0 && ` ${n(undecided)} lainnya masih ditimbang.`}
     </li>

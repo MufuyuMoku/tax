@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "KUP"
   },
   {
@@ -20,6 +24,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -54,12 +59,33 @@
    "title_as_written": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-108/PJ.1/1996 TENTANG BENTUK FORMULIR PEMOTONGAN/PEMUNGUTAN PAJAK PENGHASILAN",
    "type_as_written": "Keputusan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang-bentuk"
+  },
+  {
+   "date_as_written": "2000-01-05",
+   "detail_error": null,
+   "number_as_written": "KEP - 02/PJ./2000",
+   "retrieved_at": "2026-10-11T01:49:48+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN DAN BENTUK SERTA FUNGSI SURAT SETORAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN (SSB)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan-dan-bentuk"
+  },
+  {
+   "date_as_written": "2000-01-05",
+   "detail_error": null,
+   "number_as_written": "KEP - 02/PJ./2000",
+   "retrieved_at": "2026-10-11T01:50:09+00:00",
+   "source": "DJP",
+   "title_as_written": "PETUNJUK PELAKSANAAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN DAN BENTUK SERTA FUNGSI SURAT SETORAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN (SSB)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan-dan-bentuk-0"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "diubah_atau_dicabut_sebagian"
+  "reasons": [
+   "status berbeda dalam satu sumber (rekaman ganda)"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -69,6 +95,22 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-direktur-jenderal-pajak-nomor-kep-108pj11996-tentang-bentuk",
    "value_normalized": "diubah_atau_dicabut_sebagian",
    "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=11",
+   "retrieved_at": "2026-10-10T01:03:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan-dan-bentuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=11",
+   "retrieved_at": "2026-10-10T01:03:45+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/petunjuk-pelaksanaan-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan-dan-bentuk-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
   }
  ],
  "structure": null,

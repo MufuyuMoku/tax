@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PBB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   }
  ],
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [],
  "quality_flags": [],
  "relations": {
@@ -35,12 +40,23 @@
    "title_as_written": "PENYEMPURNAAN KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-02/PJ./1995 TENTANG PETUNJUK PELAKSANAAN PEMOTONGAN PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN PASAL 21 DAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA DAN KEGIATAN ORANG PRIBADI",
    "type_as_written": "Keputusan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-direktur-jenderal-pajak-nomor-kep-02pj1995-tentang-petunjuk"
+  },
+  {
+   "date_as_written": "1995-12-26",
+   "detail_error": null,
+   "number_as_written": "KEP - 30/PJ.6/1995",
+   "retrieved_at": "2026-10-11T02:35:40+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENYETORAN, PENYIMPANAN, DAN PENGGUNAAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN (BP-PBB)",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penyimpanan-dan-penggunaan-biaya-pemungutan-pajak-bumi-dan-bangunan"
   }
  ],
  "status": {
-  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
-  "reasons": [],
-  "value": "tidak_berlaku"
+  "reasons": [
+   "status berbeda dalam satu sumber (rekaman ganda)"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {
@@ -50,6 +66,14 @@
    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-direktur-jenderal-pajak-nomor-kep-02pj1995-tentang-petunjuk",
    "value_normalized": "tidak_berlaku",
    "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=37",
+   "retrieved_at": "2026-10-10T01:23:25+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penyetoran-penyimpanan-dan-penggunaan-biaya-pemungutan-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
   }
  ],
  "structure": null,

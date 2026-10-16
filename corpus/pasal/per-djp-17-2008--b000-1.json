@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 1436,
+ "document_id": "per-djp-17-2008",
+ "document_number": "PER-17/PJ/2008",
+ "document_title": "PENGGUNAAN MESIN TERAAN METERAI DIGITAL",
+ "id": "per-djp-17-2008--b000-1",
+ "label": "1",
+ "order": 0,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 1\nDalam Peraturan Direktur Jenderal Pajak ini yang dimaksud dengan:\n1.\nMesin Teraan Meterai adalah Salah satu alat pelunasan Bea Meterai dengan menggunakan cara lain, yang digunakan untuk membubuhkan tanda Bea Meterai Lunas.\n2.\nMesin Teraan Meterai Manual adalah Mesin Teraan Meterai yang cara pengisian depositnya dilakukan dengan sistem mekanik yaitu dengan membuka dan memasang segel timah.\n3.\nMesin Teraan Meterai Digital adalah Mesin Teraan Meterai yang cara pengisian depositnya dilakukan dengan sistem elektronik, dimana intervensi manusia tidak dibutuhkan seperti Mesin Teraan Meterai sistem\nDeposit Code Recrediting\n(DCR) atau sistem sejenis lainnya.\n4.\nDeposit Code Recrediting\n(DCR) adalah Suatu metode pengisian deposit dengan menggunakan aplikasi kode deposit.\n5.\nAplikasi Kode Deposit adalah Suatu aplikasi yang membangkitkan dan mengatur kode deposit Mesin Teraan Meterai Digital, yang diinstal dalam server yang diletakkan di Direktorat Teknologi Informasi Perpajakan Kantor Pusat Direktorat Jenderal Pajak.\n6.\nKode Deposit adalah Kode yang dibutuhkan untuk mengisi deposit Mesin Teraan Meterai Digital.\n7.\nDeposit adalah Penyetoran Bea Meterai di muka oleh penerbit dokumen yang akan melakukan pelunasan Bea Meterai dengan menggunakan Mesin Teraan Meterai.\n8.\nServer e-Meterai adalah Server milik Direktorat Jenderal Pajak yang berfungsi melakukan verifikasi pembayaran deposit dan melayani Aplikasi Kode Deposit.",
+ "text_source": {
+  "retrieved_at": "2026-10-10T00:57:27+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penggunaan-mesin-teraan-meterai-digital"
+ }
+}

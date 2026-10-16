@@ -1,0 +1,130 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-86-2021",
+ "identity": {
+  "code": "PP",
+  "number": "86",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pp-86-2021--b000-1",
+  "pp-86-2021--b001-2",
+  "pp-86-2021--b002-3",
+  "pp-86-2021--b003-4",
+  "pp-86-2021--b004-5",
+  "pp-86-2021--b005-6",
+  "pp-86-2021--b006-7",
+  "pp-86-2021--b007-8",
+  "pp-86-2021--b008-9",
+  "pp-86-2021--b009-10",
+  "pp-86-2021--b010-11",
+  "pp-86-2021--b011-12",
+  "pp-86-2021--b012-13",
+  "pp-86-2021--b013-14",
+  "pp-86-2021--p014-1",
+  "pp-86-2021--p015-2",
+  "pp-86-2021--p016-3",
+  "pp-86-2021--p017-4",
+  "pp-86-2021--p018-5",
+  "pp-86-2021--p019-6",
+  "pp-86-2021--p020-7",
+  "pp-86-2021--p021-8",
+  "pp-86-2021--p022-9",
+  "pp-86-2021--p023-10",
+  "pp-86-2021--p024-11",
+  "pp-86-2021--p025-12",
+  "pp-86-2021--p026-13",
+  "pp-86-2021--p027-14"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "28",
+     "1986",
+     null
+    ],
+    "name": "peraturan Pemerintah Nomor 28 Tahun 1986",
+    "quote": "Pasal 13 Pada saat Peraturan Pemerintah ini mulai berlaku, peraturan Pemerintah Nomor 28 Tahun 1986 tentang Pengadaan, Pengelolaan dan Penjualan Benda Meterai (Lembaran Negara Republik Indonesia Tahun 1986 Nomor 41), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-28-1986"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-08-19",
+   "detail_error": null,
+   "number_as_written": "86 TAHUN 2021",
+   "retrieved_at": "2026-10-10T07:37:49+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGADAAN, PENGELOLAAN, DAN PENJUALAN METERAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pengadaan-pengelolaan-dan-penjualan-meterai"
+  },
+  {
+   "date_as_written": "2021-08-19 00:00:00",
+   "number_as_written": "PP 86 TAHUN 2021",
+   "page_retrieved_at": "2026-10-11T01:31:18+00:00",
+   "retrieved_at": "2026-09-21T14:06:00+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengadaan, Pengelolaan, dan Penjualan Meterai",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-86-tahun-2021",
+   "validity_as_written": "19 Agu 2021 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=1",
+   "retrieved_at": "2026-10-10T00:43:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengadaan-pengelolaan-dan-penjualan-meterai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=8",
+   "retrieved_at": "2026-09-21T14:06:00+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-86-tahun-2021",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14945,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T07:37:49+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengadaan-pengelolaan-dan-penjualan-meterai"
+ },
+ "title": "PENGADAAN, PENGELOLAAN, DAN PENJUALAN METERAI"
+}

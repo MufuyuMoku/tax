@@ -4,7 +4,7 @@
 // the list is replaced by ranked results from the worker. The query and filters live in the URL
 // fragment (#q=...&jenis=...), so a search can be bookmarked or sent to a colleague without the
 // query ever reaching a server.
-import { plainReason, typeLabel } from "../labels.js";
+import { LOCAL_TAX_NOTE, plainReason, typeLabel } from "../labels.js";
 import { statusChips } from "../render/chips.js";
 import { kindLabel, UNVERIFIED } from "../collection/records.js";
 
@@ -350,6 +350,8 @@ export function startSearch({ base, listing }) {
         li.append(rest);
       }
     }
+
+    if (item.localTaxNote) li.append(el("p", "kartu-catatan daerah", LOCAL_TAX_NOTE[item.localTaxNote]));
 
     if (!item.hasText) {
       const note = el("p", "kartu-catatan", `${item.noTextReason}. Dokumen ini ditemukan lewat judul atau nomornya. Buka di sumbernya: `);

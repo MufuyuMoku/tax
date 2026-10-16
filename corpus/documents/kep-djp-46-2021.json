@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-46-2021",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "46",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kep-djp-46-2021--b000-kedua",
+  "kep-djp-46-2021--b001-ketiga",
+  "kep-djp-46-2021--b002-keempat",
+  "kep-djp-46-2021--b003-kelima"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "185",
+     "2020",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor KEP-185/PJ/2020",
+    "quote": "KETIGA : Ketentuan mengenai Harga Uap dan Harga Listrik sebagaimana dimaksud dalam Keputusan Direktur Jenderal Pajak Nomor KEP-185/PJ/2020 tentang Penetapan Biaya Investasi Tanaman, Rasio Biaya Produksi, Angka Kapitalisasi, Nilai Jual Objek Pajak Bumi Per Meter Persegi, Harga Uap dan Harga Listrik, dan Luas Areal Penangkapan Ikan Per Kapal, untuk Penetapan Nilai Jual Objek Pajak Pajak Bumi dan Bangunan, sepanjang yang berkaitan dengan penentuan Nilai Jual Objek Pajak bumi untuk Tubuh Bumi Eksploitasi sejak Tahun Pajak 2021, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-185-2020"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-02-10",
+   "detail_error": null,
+   "number_as_written": "KEP-46/PJ/2021",
+   "retrieved_at": "2026-10-11T02:00:25+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN HARGA UAP DAN HARGA LISTRIK YANG DIGUNAKAN DALAM PENENTUAN NILAI JUAL OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PENGUSAHAAN PANAS BUMI UNTUK TUBUH BUMI EKSPLOITASI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-harga-uap-dan-harga-listrik-yang-digunakan-dalam-penentuan-nilai-jual-objek"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=1",
+   "retrieved_at": "2026-10-10T01:05:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-harga-uap-dan-harga-listrik-yang-digunakan-dalam-penentuan-nilai-jual-objek",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3504,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:00:25+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penetapan-harga-uap-dan-harga-listrik-yang-digunakan-dalam-penentuan-nilai-jual-objek"
+ },
+ "title": "PENETAPAN HARGA UAP DAN HARGA LISTRIK YANG DIGUNAKAN DALAM PENENTUAN NILAI JUAL OBJEK PAJAK PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PENGUSAHAAN PANAS BUMI UNTUK TUBUH BUMI EKSPLOITASI"
+}

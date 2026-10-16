@@ -1,0 +1,76 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-14-2016",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "14",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-14-2016--b000-1",
+  "per-djp-14-2016--b001-2",
+  "per-djp-14-2016--b002-3",
+  "per-djp-14-2016--b003-4",
+  "per-djp-14-2016--b004-5",
+  "per-djp-14-2016--b005-6",
+  "per-djp-14-2016--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-09-27",
+   "detail_error": null,
+   "number_as_written": "PER-14/PJ/2016",
+   "retrieved_at": "2026-10-16T00:42:46+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENERIMAAN SURAT PERNYATAAN DALAM HAL TERJADI GANGGUAN PADA JARINGAN DAN/ATAU KEADAAN LUAR BIASA PADA AKHIR PERIODE PENYAMPAIAN SURAT PERNYATAAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-surat-pernyataan-dalam-hal-terjadi-gangguan-pada-jaringan-danatau"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=7",
+   "retrieved_at": "2026-10-10T01:31:37+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-surat-pernyataan-dalam-hal-terjadi-gangguan-pada-jaringan-danatau",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14824,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-16T00:42:46+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penerimaan-surat-pernyataan-dalam-hal-terjadi-gangguan-pada-jaringan-danatau"
+ },
+ "title": "TATA CARA PENERIMAAN SURAT PERNYATAAN DALAM HAL TERJADI GANGGUAN PADA JARINGAN DAN/ATAU KEADAAN LUAR BIASA PADA AKHIR PERIODE PENYAMPAIAN SURAT PERNYATAAN"
+}

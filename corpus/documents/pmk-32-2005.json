@@ -1,0 +1,137 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-32-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "32",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-32-2005--b000-1",
+  "pmk-32-2005--b001-2",
+  "pmk-32-2005--b002-3",
+  "pmk-32-2005--b003-4",
+  "pmk-32-2005--b004-5",
+  "pmk-32-2005--b005-6",
+  "pmk-32-2005--b006-7",
+  "pmk-32-2005--b007-8",
+  "pmk-32-2005--b008-9"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "519/KMK.04",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 519/KMK.04/2000",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Keputusan Menteri Keuangan Nomor 519/KMK.04/2000 tentang Tata Cara Pembagian Hasil Penerimaan Bea Perolehan Hak atas Tanah dan Bangunan antara Pemerintah Pusat dan Daerah sebagimana telah diubah dengan Keputusan Menteri Keuangan Nomor 550/KMK.03/2002 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-519-kmk-04-2000"
+   },
+   {
+    "key": [
+     "KMK",
+     "550/KMK.03",
+     "2002",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 550/KMK.03/2002",
+    "quote": "Pasal 8 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Keputusan Menteri Keuangan Nomor 519/KMK.04/2000 tentang Tata Cara Pembagian Hasil Penerimaan Bea Perolehan Hak atas Tanah dan Bangunan antara Pemerintah Pusat dan Daerah sebagimana telah diubah dengan Keputusan Menteri Keuangan Nomor 550/KMK.03/2002 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-550-kmk-03-2002"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 519/KMK.04/2000 — Tatacara Pembagian Hasil Penerimaan Bea Perolehan Hak atas Tanah dan Bangunan Antara Pemerintah dan Daerah",
+    "url": "https://jdih.kemenkeu.go.id/dok/519-kmk-04-2000"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 04/PMK.07/2008 — Pelaksanaan dan Pertanggungjawaban Anggaran Transfer Ke Daerah",
+    "url": "https://jdih.kemenkeu.go.id/dok/04-pmk-07-2008"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-05-23",
+   "detail_error": null,
+   "number_as_written": "32/PMK.03/2005",
+   "retrieved_at": "2026-10-11T01:42:35+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAGIAN HASIL PENERIMAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembagian-hasil-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan-antara-0"
+  },
+  {
+   "date_as_written": "2005-06-23 00:00:00",
+   "number_as_written": "32/PMK.03/2005",
+   "page_retrieved_at": "2026-10-11T01:42:48+00:00",
+   "retrieved_at": "2026-09-21T14:46:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembagian Hasil Penerimaan Bea Perolehan Hak atas Tanah dan Bangunan Antara Pemerintah Pusat dan Daerah",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/32-pmk-03-2005",
+   "validity_as_written": "23 Jun 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=7",
+   "retrieved_at": "2026-10-10T01:02:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembagian-hasil-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan-antara-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=465",
+   "retrieved_at": "2026-09-21T14:46:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/32-pmk-03-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6877,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:42:35+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembagian-hasil-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan-antara-0"
+ },
+ "title": "TATA CARA PEMBAGIAN HASIL PENERIMAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN DAERAH"
+}

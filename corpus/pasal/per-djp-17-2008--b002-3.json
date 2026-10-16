@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 239,
+ "document_id": "per-djp-17-2008",
+ "document_number": "PER-17/PJ/2008",
+ "document_title": "PENGGUNAAN MESIN TERAAN METERAI DIGITAL",
+ "id": "per-djp-17-2008--b002-3",
+ "label": "3",
+ "order": 2,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 3\nDistributor Mesin Teraan Meterai Digital menempatkan server Aplikasi Kode Deposit miliknya di Kantor Pusat Direktorat Jenderal Pajak sebagai penghubung antara Mesin Teraan Meterai Digital yang akan dilayani dengan Server e-Meterai.",
+ "text_source": {
+  "retrieved_at": "2026-10-10T00:57:27+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penggunaan-mesin-teraan-meterai-digital"
+ }
+}

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "KUP"
   }
  ],
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-23-2014--b000-i",
   "per-djp-23-2014--b001-ii",

@@ -1,0 +1,115 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1005-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "1005/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kmk-1005-kmk-04-1985--b000-1",
+  "kmk-1005-kmk-04-1985--b001-2",
+  "kmk-1005-kmk-04-1985--b002-3",
+  "kmk-1005-kmk-04-1985--b003-5",
+  "kmk-1005-kmk-04-1985--b004-3",
+  "kmk-1005-kmk-04-1985--b005-7",
+  "kmk-1005-kmk-04-1985--b006-8",
+  "kmk-1005-kmk-04-1985--b007-9"
+ ],
+ "quality_flags": [
+  "urutan_loncat:3->5,5->3,3->7",
+  "pasal_ganda"
+ ],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "kmk-249-kmk-04-1993",
+    "key": [
+     "KMK",
+     "249/KMK.04",
+     "1993",
+     null
+    ],
+    "number_as_written": "249/KMK.04/1993",
+    "quote": "Pasal 9 Dengan berlakunya Keputusan ini maka Keputusan Menteri Keuangan Republik Indonesia Nomor 1005/KMK.04/1985 tentang Penyetoran Pajak Bumi dan bangunan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN DAN TATA CARA PELAKSANAAN LEMBAGA PEMBIAYAAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-dan-tata-cara-pelaksanaan-lembaga-pembiayaan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGADAAN BARANG MODAL BERFASILITAS MELALUI PERUSAHAAN SEWA GUNA USAHA (PERUSAHAAN LEASING)",
+    "url": "https://www.pajak.go.id/id/peraturan/pengadaan-barang-modal-berfasilitas-melalui-perusahaan-sewa-guna-usaha-perusahaan-leasing"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-28",
+   "detail_error": null,
+   "number_as_written": "1005/KMK.04/1985",
+   "retrieved_at": "2026-10-11T02:55:04+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYETORAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks KMK 249/KMK.04/1993 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=46",
+   "retrieved_at": "2026-10-10T06:11:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3680,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:55:04+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+ },
+ "title": "PENYETORAN PAJAK BUMI DAN BANGUNAN"
+}

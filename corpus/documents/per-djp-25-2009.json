@@ -1,0 +1,133 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-25-2009",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "25",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-25-2009--b000-1",
+  "per-djp-25-2009--b001-2",
+  "per-djp-25-2009--b002-3",
+  "per-djp-25-2009--b003-4",
+  "per-djp-25-2009--b004-5",
+  "per-djp-25-2009--b005-6",
+  "per-djp-25-2009--b006-7",
+  "per-djp-25-2009--b007-8",
+  "per-djp-25-2009--b008-9",
+  "per-djp-25-2009--b009-10",
+  "per-djp-25-2009--b010-11",
+  "per-djp-25-2009--b011-12",
+  "per-djp-25-2009--b012-13",
+  "per-djp-25-2009--b013-14",
+  "per-djp-25-2009--b014-15"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-16-2010",
+    "key": [
+     "PER-DJP",
+     "16",
+     "2010",
+     null
+    ],
+    "number_as_written": "PER-16/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor 25/PJ/2009 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-25/PJ./2009 TENTANG TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KEP-DJP",
+     "59",
+     "2000",
+     null
+    ],
+    "name": "Keputusan Direktur Jenderal Pajak Nomor 59/PJ/2000",
+    "quote": "Pasal 14 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Keputusan Direktur Jenderal Pajak Nomor 59/PJ/2000 tentang Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku, kecuali untuk Keberatan yang diajukan sebelum berlakunya Peraturan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kep-djp-59-2000"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-03-16",
+   "detail_error": null,
+   "number_as_written": "PER-25/PJ./2009",
+   "retrieved_at": "2026-10-11T02:18:03+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penyelesaian-keberatan-pajak-bumi-dan-bangunan-0"
+  },
+  {
+   "date_as_written": "2009-03-16 00:00:00",
+   "number_as_written": "PerDJP 25/PJ/2009",
+   "page_retrieved_at": "2026-10-11T01:55:20+00:00",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pengajuan dan Penyelesaian Keberatan Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Unit Eselon I",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-25-pj-2009",
+   "validity_as_written": "16 Mar 2009 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=22",
+   "retrieved_at": "2026-10-10T01:15:27+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penyelesaian-keberatan-pajak-bumi-dan-bangunan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Diubah/Disempurnakan dan Sudah dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Unit+Eselon+I&order=desc&page=42",
+   "retrieved_at": "2026-09-21T14:58:03+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/perdjp-25-pj-2009",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12854,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:18:03+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pengajuan-dan-penyelesaian-keberatan-pajak-bumi-dan-bangunan-0"
+ },
+ "title": "TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN PAJAK BUMI DAN BANGUNAN"
+}

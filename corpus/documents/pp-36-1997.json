@@ -1,0 +1,83 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-36-1997",
+ "identity": {
+  "code": "PP",
+  "number": "36",
+  "variant": null,
+  "year": "1997"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pp-112-2000",
+    "key": [
+     "PP",
+     "112",
+     "2000",
+     null
+    ],
+    "number_as_written": "112 TAHUN 2000",
+    "quote": "Pasal 7 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 36 Tahun 1997 tentang Pengenaan Bea Perolehan Hak atas Tanah dan Bangunan karena Pemberian Hak Pengelolaan (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 79, Tambahan Lembaran Negara Nomor 3708), dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1997-10-07",
+   "detail_error": null,
+   "number_as_written": "36 TAHUN 1997",
+   "retrieved_at": "2026-10-11T01:55:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-bea-perolehan-hak-atas-tanah-dan-bangunan-karena-pemberian-hak-pengelolaan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=15",
+   "retrieved_at": "2026-10-10T01:05:17+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengenaan-bea-perolehan-hak-atas-tanah-dan-bangunan-karena-pemberian-hak-pengelolaan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA PEMBERIAN HAK PENGELOLAAN"
+}

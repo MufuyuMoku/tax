@@ -1,27 +1,31 @@
 {
  "attachment_match_counts": {
-  "cocok": 140,
+  "cocok": 151,
   "tidak_cocok": 3,
-  "tidak_terverifikasi": 27
+  "tidak_terverifikasi": 30
  },
- "attachments": 170,
- "body_units": 15979,
+ "attachments": 184,
+ "body_units": 17812,
  "category_counts": {
+  "BPHTB": 78,
+  "Bea Meterai": 59,
   "KUP": 1112,
+  "Lainnya": 194,
+  "PBB": 227,
   "PPN": 992,
   "PPh": 1122
  },
- "documents": 2614,
- "documents_with_quality_flags": 129,
- "documents_with_text": 1602,
- "documents_without_text": 1012,
- "explanation_units": 2373,
+ "documents": 3065,
+ "documents_with_quality_flags": 137,
+ "documents_with_text": 1786,
+ "documents_without_text": 1279,
+ "explanation_units": 2799,
  "inputs": {
-  "djp_detail.jsonl": "7e239109ca20f3bbe9ca99ede607c1d43a9cd88127910d3b8e5aed45ab56303d",
-  "djp_list.jsonl": "22300b2a966502b9674f6fa47c026fad5ada9b5a38dd46a40940999142ea5fcb",
+  "djp_detail.jsonl": "ce7317d5dd038f9cc15d3b6bc8d86d999be29fc64d70a9bf07c662d55805082e",
+  "djp_list.jsonl": "6674386fc279db61ab680b1334f507d2d2e95d8ace31d0455ce202b5e53cbf93",
   "djp_pph_detail.jsonl": "d903fea0d9e2daf65d4563c5ac8805fe133b6c16dbbc8e2c85ca657efa99f702",
   "djp_pph_list.jsonl": "23b18e0d31ab085e5492f8e0ecb59476c27325f46eed93d64e23ac35e0b4ae9d",
-  "jdih_detail.jsonl": "f007a7c4e658e6d99f949a77d70213ff7226512da7055afca37409e3909854a1",
+  "jdih_detail.jsonl": "802e3f98c764c9fae24c3d81fc88a89e3357183b2a6bafb6d626c546848e3b76",
   "jdih_metadata.jsonl": "cb1d89e665d731ccf093abf54e21dd1270be8f4c44b216dc6ca586980c3cb2c5",
   "jdih_pph_candidates.jsonl": "487e46834097dba4d116e7717bc630a96be08c55d6037d061e8321d315c1c653",
   "jdih_pph_detail.jsonl": "d6c279869dbfa96bdc9858f64ade5c005b9067d46a43b575ec7728ad043b8898",
@@ -29,14 +33,14 @@
  },
  "note": "Dibangun dari arsip poc/ tanpa permintaan jaringan. Jalankan: python -m pipeline.build",
  "status_counts": {
-  "berlaku": 1019,
-  "diubah_atau_dicabut_sebagian": 146,
-  "tidak_berlaku": 949,
-  "tidak_pasti": 500
+  "berlaku": 1281,
+  "diubah_atau_dicabut_sebagian": 152,
+  "tidak_berlaku": 1072,
+  "tidak_pasti": 560
  },
  "structure_counts": {
-  "biasa": 1154,
-  "diktum": 114,
-  "perubahan": 334
+  "biasa": 1289,
+  "diktum": 132,
+  "perubahan": 365
  }
 }

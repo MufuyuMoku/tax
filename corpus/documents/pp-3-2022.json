@@ -1,0 +1,102 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-3-2022",
+ "identity": {
+  "code": "PP",
+  "number": "3",
+  "variant": null,
+  "year": "2022"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pp-3-2022--b000-1",
+  "pp-3-2022--b001-2",
+  "pp-3-2022--b002-3",
+  "pp-3-2022--b003-4",
+  "pp-3-2022--b004-5",
+  "pp-3-2022--b005-6",
+  "pp-3-2022--b006-7",
+  "pp-3-2022--p007-1",
+  "pp-3-2022--p008-2",
+  "pp-3-2022--p009-3",
+  "pp-3-2022--p010-4",
+  "pp-3-2022--p011-5",
+  "pp-3-2022--p012-6",
+  "pp-3-2022--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2022-01-12",
+   "detail_error": null,
+   "number_as_written": "3 TAHUN 2022",
+   "retrieved_at": "2026-10-10T00:48:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN FASILITAS PEMBEBASAN DARI PENGENAAN BEA METERAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pembebasan-dari-pengenaan-bea-meterai"
+  },
+  {
+   "date_as_written": "2022-01-12 00:00:00",
+   "number_as_written": "PP 3 TAHUN 2022",
+   "page_retrieved_at": "2026-10-11T01:29:17+00:00",
+   "retrieved_at": "2026-09-21T14:05:56+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pemberian Fasilitas Pembebasan dari Pengenaan Bea Meterai",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-3-tahun-2022",
+   "validity_as_written": "01 Des 2022 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=0",
+   "retrieved_at": "2026-10-10T00:39:57+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pembebasan-dari-pengenaan-bea-meterai",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=7",
+   "retrieved_at": "2026-09-21T14:05:56+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-3-tahun-2022",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 14471,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:48:00+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pemberian-fasilitas-pembebasan-dari-pengenaan-bea-meterai"
+ },
+ "title": "PEMBERIAN FASILITAS PEMBEBASAN DARI PENGENAAN BEA METERAI"
+}

@@ -1,0 +1,81 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-36-2008",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "36",
+  "variant": null,
+  "year": "2008"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-36-2008--b000-1",
+  "per-djp-36-2008--b001-2",
+  "per-djp-36-2008--b002-3",
+  "per-djp-36-2008--b003-4",
+  "per-djp-36-2008--b004-5",
+  "per-djp-36-2008--b005-6",
+  "per-djp-36-2008--b006-7",
+  "per-djp-36-2008--b007-8",
+  "per-djp-36-2008--b008-9",
+  "per-djp-36-2008--b009-10",
+  "per-djp-36-2008--b010-11",
+  "per-djp-36-2008--b011-12"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2008-09-18",
+   "detail_error": null,
+   "number_as_written": "PER-36/PJ/2008",
+   "retrieved_at": "2026-10-11T01:39:01+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMERIKSAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bea-perolehan-hak-atas-tanah-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=4",
+   "retrieved_at": "2026-10-10T01:01:03+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bea-perolehan-hak-atas-tanah-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9561,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:39:01+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemeriksaan-bea-perolehan-hak-atas-tanah-dan-bangunan"
+ },
+ "title": "TATA CARA PEMERIKSAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "keppres-36-1989",
+ "identity": {
+  "code": "KEPPRES",
+  "number": "36",
+  "variant": null,
+  "year": "1989"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1989-07-24",
+   "detail_error": null,
+   "number_as_written": "36 TAHUN 1989",
+   "retrieved_at": "2026-10-11T02:46:41+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN KEPUTUSAN PRESIDEN NOMOR 77 TAHUN 1985 TENTANG PENGENAAN, PEMUNGUTAN, DAN PEMBAGIAN IURAN HASIL HUTAN",
+   "type_as_written": "Keputusan Presiden",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-presiden-nomor-77-tahun-1985-tentang-pengenaan-pemungutan-dan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=43",
+   "retrieved_at": "2026-10-10T01:25:35+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-presiden-nomor-77-tahun-1985-tentang-pengenaan-pemungutan-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN KEPUTUSAN PRESIDEN NOMOR 77 TAHUN 1985 TENTANG PENGENAAN, PEMUNGUTAN, DAN PEMBAGIAN IURAN HASIL HUTAN"
+}

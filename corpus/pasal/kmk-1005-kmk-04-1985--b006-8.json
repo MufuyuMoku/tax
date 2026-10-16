@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 127,
+ "document_id": "kmk-1005-kmk-04-1985",
+ "document_number": "1005/KMK.04/1985",
+ "document_title": "PENYETORAN PAJAK BUMI DAN BANGUNAN",
+ "id": "kmk-1005-kmk-04-1985--b006-8",
+ "label": "8",
+ "order": 6,
+ "quality_flags": [
+  "urutan_loncat:3->5,5->3,3->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 8\nPelaksanaan lebih lanjut dari Keputusan ini diatur bersama oleh Direktur Jenderal Anggaran dan Direktur Jenderal Pajak.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T02:55:04+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+ }
+}

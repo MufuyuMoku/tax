@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-164-2001",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "164",
+  "variant": null,
+  "year": "2001"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2001-02-07",
+   "detail_error": null,
+   "number_as_written": "KEP - 164/PJ./2001",
+   "retrieved_at": "2026-10-11T01:45:00+00:00",
+   "source": "DJP",
+   "title_as_written": "TATACARA PEMBAGIAN DAN PENYALURAN PENERIMAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN PEMERINTAH PUSAT",
+   "type_as_written": "Keputusan Bersama Dirjen",
+   "url": "https://www.pajak.go.id/id/peraturan/tatacara-pembagian-dan-penyaluran-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=8",
+   "retrieved_at": "2026-10-10T01:02:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tatacara-pembagian-dan-penyaluran-penerimaan-bea-perolehan-hak-atas-tanah-dan-bangunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATACARA PEMBAGIAN DAN PENYALURAN PENERIMAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGIAN PEMERINTAH PUSAT"
+}

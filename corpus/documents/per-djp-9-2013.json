@@ -1,0 +1,100 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-9-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "9",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-9-2013--b000-i",
+  "per-djp-9-2013--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PER-DJP",
+     "12",
+     "2010",
+     null
+    ],
+    "name": "PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-12/PJ/2010",
+    "quote": "Beberapa ketentuan dalam Lampiran Peraturan Direktur Jenderal Pajak Nomor PER-12/PJ/2010 tentang Nomor Objek Pajak Pajak Bumi dan Bangunan, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-12-2010"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "per-djp-48-2015",
+    "key": [
+     "PER-DJP",
+     "48",
+     "2015",
+     null
+    ],
+    "number_as_written": "PER-48/PJ/2015",
+    "quote": "Pasal 8 Pada saat Peraturan Direktur Jenderal ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-12/PJ/2010 tentang Nomor Objek Paja k Pajak Bumi dan Bangunan sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2013, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "TATA CARA PEMBERIAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-04-12",
+   "detail_error": null,
+   "number_as_written": "PER-09/PJ/2013",
+   "retrieved_at": "2026-10-11T02:11:30+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-12/PJ/2010 TENTANG NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-12pj2010-tentang-nomor-objek-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=14",
+   "retrieved_at": "2026-10-10T01:10:21+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-12pj2010-tentang-nomor-objek-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 9711,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:11:30+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-12pj2010-tentang-nomor-objek-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-12/PJ/2010 TENTANG NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+}

@@ -1,0 +1,113 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-4-2013",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "4",
+  "variant": null,
+  "year": "2013"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-4-2013--b000-1",
+  "per-djp-4-2013--b001-2",
+  "per-djp-4-2013--b002-3",
+  "per-djp-4-2013--b003-4",
+  "per-djp-4-2013--b004-5",
+  "per-djp-4-2013--b005-6",
+  "per-djp-4-2013--b006-7",
+  "per-djp-4-2013--b007-8",
+  "per-djp-4-2013--b008-9",
+  "per-djp-4-2013--b009-10",
+  "per-djp-4-2013--b010-11",
+  "per-djp-4-2013--b011-12",
+  "per-djp-4-2013--b012-13",
+  "per-djp-4-2013--b013-14",
+  "per-djp-4-2013--b014-15",
+  "per-djp-4-2013--b015-16",
+  "per-djp-4-2013--b016-17"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "6",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2012",
+    "quote": "Pasal 16 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2012 tentang Tata Cara Penatausahaan, Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan sehubungan dengan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak dari dan/atau ke Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-18/PJ/2012 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-6-2012"
+   },
+   {
+    "key": [
+     "PER-DJP",
+     "18",
+     "2012",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-18/PJ/2012",
+    "quote": "Pasal 16 Pada saat Peraturan Direktur Jenderal Pajak ini mulai berlaku, Peraturan Direktur Jenderal Pajak Nomor PER-06/PJ/2012 tentang Tata Cara Penatausahaan, Pelaksanaan Hak dan Pemenuhan Kewajiban Perpajakan sehubungan dengan Pemindahan Wajib Pajak dan/atau Pengusaha Kena Pajak dari dan/atau ke Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar, Kantor Pelayanan Pajak di Lingkungan Kantor Wilayah Direktorat Jenderal Pajak Jakarta Khusus, dan Kantor Pelayanan Pajak Madya sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER-18/PJ/2012 dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-18-2012"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2013-02-28",
+   "detail_error": null,
+   "number_as_written": "PER-04/PJ/2013",
+   "retrieved_at": "2026-10-12T06:51:59+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENATAUSAHAAN, PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SEHUBUNGAN DENGAN PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK DARI DAN/ATAU KE KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-sehubungan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=20",
+   "retrieved_at": "2026-10-10T06:11:44+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-sehubungan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 19390,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-12T06:51:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-penatausahaan-pelaksanaan-hak-dan-pemenuhan-kewajiban-perpajakan-sehubungan"
+ },
+ "title": "TATA CARA PENATAUSAHAAN, PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN SEHUBUNGAN DENGAN PEMINDAHAN WAJIB PAJAK DAN/ATAU PENGUSAHA KENA PAJAK DARI DAN/ATAU KE KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK WAJIB PAJAK BESAR, KANTOR PELAYANAN PAJAK DI LINGKUNGAN KANTOR WILAYAH DIREKTORAT JENDERAL PAJAK JAKARTA KHUSUS, DAN KANTOR PELAYANAN PAJAK MADYA"
+}

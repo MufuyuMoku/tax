@@ -1,0 +1,105 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-30-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "30",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-30-2011--b000-1",
+  "per-djp-30-2011--b001-2",
+  "per-djp-30-2011--b002-3",
+  "per-djp-30-2011--b003-4",
+  "per-djp-30-2011--b004-5",
+  "per-djp-30-2011--b005-6"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "per-djp-9-2012",
+    "key": [
+     "PER-DJP",
+     "9",
+     "2012",
+     null
+    ],
+    "number_as_written": "PER-09/PJ/2012",
+    "quote": "PASAL I Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional, diubah sebagai berikut :",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-30/PJ/2011 TENTANG PEDOMAN TEKNIS SENSUS PAJAK NASIONAL"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "per-djp-31-2013",
+    "key": [
+     "PER-DJP",
+     "31",
+     "2013",
+     null
+    ],
+    "number_as_written": "PER-31/PJ/2013",
+    "quote": "Pasal 6 Pada saat berlakunya Peraturan Direktur Jenderal Pajak ini, a. Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional; dan b. Peraturan Direktur Jenderal Pajak Nomor PER-09/PJ/2012 tentang Perubahan Atas Peraturan Direktur Jenderal Pajak Nomor PER-30/PJ/2011 tentang Pedoman Teknis Sensus Pajak Nasional, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PEDOMAN TEKNIS SENSUS PAJAK NASIONAL"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-09-27",
+   "detail_error": null,
+   "number_as_written": "PER-30/PJ/2011",
+   "retrieved_at": "2026-10-11T03:18:18+00:00",
+   "source": "DJP",
+   "title_as_written": "PEDOMAN TEKNIS SENSUS PAJAK NASIONAL",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-teknis-sensus-pajak-nasional"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=28",
+   "retrieved_at": "2026-10-10T01:41:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pedoman-teknis-sensus-pajak-nasional",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3898,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:18:18+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pedoman-teknis-sensus-pajak-nasional"
+ },
+ "title": "PEDOMAN TEKNIS SENSUS PAJAK NASIONAL"
+}

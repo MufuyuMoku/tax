@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-640-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "640/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PELAKSANAAN PENAGIHAN SEKETIKA DAN SEKALIGUS DAN PELAKSANAAN SURAT PAKSA",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-seketika-dan-sekaligus-dan-pelaksanaan-surat-paksa"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN NOMOR 133/KMK.03/2001 TENTANG PEMBERIAN KERINGANAN PAJAK PENGHASILAN KEPADA WAJIB PAJAK YANG MELAKUKAN RESTRUKTURISASI UTANG USAHA MELALUI LEMBAGA KHUSUS YANG DIBENTUK PEMERINTAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pencabutan-keputusan-menteri-keuangan-nomor-133kmk032001-tentang-pemberian-keringanan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEDOMAN PENGKREDITAN PAJAK MASUKAN BAGI PEDAGANG ECERAN BESAR DALAM MASA PERALIHAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pedoman-pengkreditan-pajak-masukan-bagi-pedagang-eceran-besar-dalam-masa-peralihan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENYEMPURNAAN KEPUTUSAN MENTERI KEUANGAN NOMOR 47/KMK.01/1987 TANGGAL 26 JANUARI 1987 TENTANG PELAKSANAAN PEMUNGUTAN PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH ATAS PENGELUARAN/PEMASUKAN/PENYERAHAN BARANG KENA PAJAK ATAU JASA KENA PAJAK DARI/KE/DI KAWASAN BERIKAT (BONDED ZONE) DAERAH INDUSTRI PULAU BATAM DAN PULAU-PULAU DI SEKITARNYA YANG DINYATAKAN SEBAGAI KAWASAN BERIKAT (BONDED ZONE)",
+    "url": "https://www.pajak.go.id/id/peraturan/penyempurnaan-keputusan-menteri-keuangan-nomor-47kmk011987-tanggal-26-januari-1987"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-08-02",
+   "detail_error": null,
+   "number_as_written": "640/KMK.04/1986",
+   "retrieved_at": "2026-10-11T02:49:05+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN YANG TERHUTANG ATAS OBYEK PAJAK TERTENTU",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-yang-terhutang-atas-obyek-pajak-tertentu"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=44",
+   "retrieved_at": "2026-10-10T01:25:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pemberian-pengurangan-pajak-bumi-dan-bangunan-yang-terhutang-atas-obyek-pajak-tertentu",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBERIAN PENGURANGAN PAJAK BUMI DAN BANGUNAN YANG TERHUTANG ATAS OBYEK PAJAK TERTENTU"
+}

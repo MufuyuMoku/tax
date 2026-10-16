@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-12-1994",
+ "identity": {
+  "code": "PP",
+  "number": "12",
+  "variant": null,
+  "year": "1994"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1994-03-18",
+   "detail_error": null,
+   "number_as_written": "12 TAHUN 1994",
+   "retrieved_at": "2026-10-11T02:41:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN BESARNYA PERSENTASE NILAI JUAL KENA PAJAK PADA PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-persentase-nilai-jual-kena-pajak-pada-pajak-bumi-dan-bangunan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=40",
+   "retrieved_at": "2026-10-10T01:24:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-besarnya-persentase-nilai-jual-kena-pajak-pada-pajak-bumi-dan-bangunan-0",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENETAPAN BESARNYA PERSENTASE NILAI JUAL KENA PAJAK PADA PAJAK BUMI DAN BANGUNAN"
+}

@@ -1,0 +1,76 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "peraturan-dirjen-bea-dan-cukai-25-2009",
+ "identity": {
+  "code": "PERATURAN DIRJEN BEA DAN CUKAI",
+  "number": "25",
+  "variant": null,
+  "year": "2009"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b000-1",
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b001-2",
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b002-3",
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b003-4",
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b004-5",
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b005-6",
+  "peraturan-dirjen-bea-dan-cukai-25-2009--b006-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2009-05-18",
+   "detail_error": null,
+   "number_as_written": "PER-25/BC/2009",
+   "retrieved_at": "2026-10-11T03:19:19+00:00",
+   "source": "DJP",
+   "title_as_written": "BENTUK DAN ISI SURAT PENETAPAN, SURAT KEPUTUSAN, SURAT TEGURAN, DAN SURAT PAKSA",
+   "type_as_written": "Peraturan Dirjen Bea dan Cukai",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-penetapan-surat-keputusan-surat-teguran-dan-surat-paksa"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=35",
+   "retrieved_at": "2026-10-10T01:44:23+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-penetapan-surat-keputusan-surat-teguran-dan-surat-paksa",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 7262,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:19:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bentuk-dan-isi-surat-penetapan-surat-keputusan-surat-teguran-dan-surat-paksa"
+ },
+ "title": "BENTUK DAN ISI SURAT PENETAPAN, SURAT KEPUTUSAN, SURAT TEGURAN, DAN SURAT PAKSA"
+}

@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 101,
+ "document_id": "kmk-1005-kmk-04-1985",
+ "document_number": "1005/KMK.04/1985",
+ "document_title": "PENYETORAN PAJAK BUMI DAN BANGUNAN",
+ "id": "kmk-1005-kmk-04-1985--b005-7",
+ "label": "7",
+ "order": 5,
+ "quality_flags": [
+  "urutan_loncat:3->5,5->3,3->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 7\nBank Indonesia melakukan pengawasan atas pelaksanaan ketentuan-ketentuan dalam Keputusan ini.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T02:55:04+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+ }
+}

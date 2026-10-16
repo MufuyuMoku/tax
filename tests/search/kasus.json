@@ -88,9 +88,9 @@
       "jawaban": [
         {
           "dokumen": "pp-34-2016",
-          "pasal": null,
-          "kutipan": "Judul: Pajak Penghasilan atas Penghasilan Dari Pengalihan Hak atas Tanah dan/atau Bangunan, dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya",
-          "catatan": "dokumen tanpa teks di sumber; bukti hanya dari judul"
+          "pasal": "pp-34-2016--b001-2",
+          "kutipan": "Besarnya Pajak Penghasilan dari pengalihan hak atas tanah dan/atau bangunan sebagaimana dimaksud dalam Pasal 1 ayat (1) huruf a adalah sebesar",
+          "catatan": "sejak v1.1 (K-089) dokumen ini juga dari daftar BPHTB/PBB DJP dan berteks; sebelumnya tanpa teks, bukti dari judul"
         }
       ]
     },
@@ -635,6 +635,72 @@
         }
       ],
       "catatan": "Ditambahkan di M5 tahap 2 (2026-10-09); belum diverifikasi ahli."
+    },
+    {
+      "id": "bea-meterai-dokumen",
+      "kategori": "M7",
+      "pertanyaan": "surat perjanjian harus pakai meterai tidak",
+      "jawaban": [
+        {
+          "dokumen": "uu-10-2020",
+          "pasal": "uu-10-2020--b002-3",
+          "kutipan": "Dokumen yang dibuat sebagai alat untuk menerangkan mengenai suatu kejadian yang bersifat perdata"
+        }
+      ],
+      "catatan": "Ditambahkan di v1.1 (2026-10-16, K-089); belum diverifikasi ahli."
+    },
+    {
+      "id": "pbb-perkebunan",
+      "kategori": "M7",
+      "pertanyaan": "PBB kebun sawit dihitung dari apa",
+      "jawaban": [
+        {
+          "dokumen": "per-djp-64-2010",
+          "pasal": "per-djp-64-2010--b001-2",
+          "kutipan": "Dasar Pengenaan Pajak Bumi dan Bangunan untuk Objek Pajak Sektor Perkebunan adalah NJOP Sektor Perkebunan"
+        }
+      ],
+      "catatan": "Ditambahkan di v1.1 (2026-10-16, K-089); belum diverifikasi ahli. PBB perkebunan termasuk PBB-P5L, masih urusan pusat."
+    },
+    {
+      "id": "p3b-uea",
+      "kategori": "M7",
+      "pertanyaan": "perjanjian pajak berganda Indonesia dengan Uni Emirat Arab",
+      "jawaban": [
+        {
+          "dokumen": "perpres-34-2021",
+          "pasal": "perpres-34-2021--b000-1",
+          "kutipan": "Pemerintah Persatuan Emirat Arab tentang Penghindaran Pajak Berganda"
+        }
+      ],
+      "catatan": "Ditambahkan di v1.1 (2026-10-16, K-089); belum diverifikasi ahli. Sumber menulis 'Persatuan Emirat Arab', orang awam menulis 'Uni Emirat Arab'."
+    },
+    {
+      "id": "tempat-terdaftar",
+      "kategori": "M7",
+      "pertanyaan": "perusahaan saya dipindah terdaftar ke KPP Madya",
+      "jawaban": [
+        {
+          "dokumen": "kep-djp-116-2018",
+          "pasal": "kep-djp-116-2018--b000-kesatu",
+          "kutipan": "Wajib Pajak tertentu yang terdaftar dan melaporkan usahanya pada Kantor Pelayanan Pajak Madya"
+        }
+      ],
+      "catatan": "Ditambahkan di v1.1 (2026-10-16, K-089); belum diverifikasi ahli. Satu dari beberapa keputusan tempat terdaftar; yang berlaku menurut sumber dipilih."
+    },
+    {
+      "id": "bphtb-waris",
+      "kategori": "M7",
+      "pertanyaan": "tanah warisan kena BPHTB tidak",
+      "jawaban": [
+        {
+          "dokumen": "pp-111-2000",
+          "pasal": null,
+          "kutipan": "Judul: PENGENAAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN KARENA WARIS DAN HIBAH WASIAT",
+          "catatan": "dokumen tanpa teks di sumber; bukti hanya dari judul"
+        }
+      ],
+      "catatan": "Ditambahkan di v1.1 (2026-10-16, K-089); belum diverifikasi ahli. BPHTB kini pajak daerah; PP ini aturan pusat sebelum peralihan."
     }
   ]
 }

@@ -5,7 +5,7 @@
 //
 // Input is a document "view" (src/lib/render/views.js): the corpus document plus the few facts
 // that need other documents (which relation targets exist, which twin has text), and its units.
-import { categoryNote, flagNote, formatDate, plainReason, regulationLabel, STRUCTURE_NOTE, typeLabel, yearLabel } from "../labels.js";
+import { categoryNote, flagNote, formatDate, LOCAL_TAX_NOTE, plainReason, regulationLabel, STRUCTURE_NOTE, typeLabel, yearLabel } from "../labels.js";
 import { APP_NAME } from "../brand.js";
 import { compactClaims, statusChips } from "./chips.js";
 import { esc, h, thousands } from "./html.js";
@@ -97,6 +97,7 @@ export function renderDocumentPage(doc, units, base) {
         : "Tanpa teks di situs ini (lihat di bawah)"
     ),
     `</dl>`,
+    doc.pajak_daerah && `<div class="notice daerah"><p><strong>Pajak daerah.</strong> ${esc(LOCAL_TAX_NOTE[doc.pajak_daerah])}</p></div>`,
     doc.status.value === "tidak_pasti" &&
       h(
         `<div class="notice"><p><strong>⚠ Perlu dicek: sumber resmi berbeda pendapat tentang statusnya.</strong></p>`,

@@ -1248,14 +1248,7 @@
    ]
   }
  },
- "detail_retry": [
-  "/id/peraturan/besarnya-provisl-penjualan-benda-meterai",
-  "/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-nomor-517kmk042000-tentang-penunjukan-tempat",
-  "/id/peraturan/pemberian-pengurangan-bea-perolehan-hak-atas-tanah-dan-bangunan",
-  "/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-83kmk041994-tanggal-19",
-  "/id/peraturan/penentuan-klasifikasi-dan-besarnya-nilai-jual-obyek-pajak-sebagai-dasar-pengenaan-pajak-0",
-  "/id/peraturan/tata-cara-pendaftaran-obyek-pajak-pajak-bumi-dan-bangunanafaeusaa"
- ],
+ "detail_retry": [],
  "rounds": [
   {
    "akhir": "pengintaian",
@@ -1424,6 +1417,30 @@
    "mulai": "2026-10-11T01:28:55+00:00",
    "permintaan": 251,
    "selesai": "2026-10-11T02:57:49+00:00"
+  },
+  {
+   "akhir": "dihentikan dengan berkas harvest/BERHENTI; jalankan lagi untuk melanjutkan",
+   "mulai": "2026-10-11T03:07:31+00:00",
+   "permintaan": 86,
+   "selesai": "2026-10-11T03:39:20+00:00"
+  },
+  {
+   "akhir": "selesai",
+   "mulai": "2026-10-12T06:50:07+00:00",
+   "permintaan": 81,
+   "selesai": "2026-10-12T07:18:20+00:00"
+  },
+  {
+   "akhir": "selesai",
+   "mulai": "2026-10-12T07:20:36+00:00",
+   "permintaan": 2,
+   "selesai": "2026-10-12T07:21:27+00:00"
+  },
+  {
+   "akhir": "selesai",
+   "mulai": "2026-10-16T00:40:44+00:00",
+   "permintaan": 31,
+   "selesai": "2026-10-16T01:03:22+00:00"
   }
  ]
 }

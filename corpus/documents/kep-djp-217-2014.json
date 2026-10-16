@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PBB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPN"
   },
   {
@@ -20,6 +24,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "kep-djp-217-2014--b000-kedua",
   "kep-djp-217-2014--b001-ketiga",

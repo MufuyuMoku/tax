@@ -1,0 +1,192 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-15-2012",
+ "identity": {
+  "code": "PMK",
+  "number": "15",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-15-2012--b000-1",
+  "pmk-15-2012--b001-2",
+  "pmk-15-2012--b002-3",
+  "pmk-15-2012--b003-4",
+  "pmk-15-2012--b004-5",
+  "pmk-15-2012--b005-6",
+  "pmk-15-2012--b006-7",
+  "pmk-15-2012--b007-8",
+  "pmk-15-2012--b008-9",
+  "pmk-15-2012--b009-10",
+  "pmk-15-2012--b010-11",
+  "pmk-15-2012--b011-12",
+  "pmk-15-2012--b012-13",
+  "pmk-15-2012--b013-14",
+  "pmk-15-2012--b014-15",
+  "pmk-15-2012--b015-16",
+  "pmk-15-2012--b016-17",
+  "pmk-15-2012--b017-18",
+  "pmk-15-2012--b018-19",
+  "pmk-15-2012--b019-20",
+  "pmk-15-2012--b020-21",
+  "pmk-15-2012--b021-22",
+  "pmk-15-2012--b022-23",
+  "pmk-15-2012--b023-24",
+  "pmk-15-2012--b024-25",
+  "pmk-15-2012--b025-26",
+  "pmk-15-2012--b026-27",
+  "pmk-15-2012--b027-28"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-76-2013",
+    "key": [
+     "PMK",
+     "76",
+     "2013",
+     null
+    ],
+    "number_as_written": "76/PMK.03/2013",
+    "quote": "Pasal 28 Pada saat Peraturan Menteri ini berlaku, Peraturan Menteri Keuangan Nomor 15/PMK.03/2012 tentang Penatausahaan dan Pemindahbukuan Pajak Bumi dan Bangunan Sektor Pertambangan Untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PENATAUSAHAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI"
+   }
+  ],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "451/KMK.04",
+     "1997",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 451/KMK.04/1997",
+    "quote": "Pasal 27 Pada saat Peraturan Menteri ini berlaku: Keputusan Menteri Keuangan Nomor 451/KMK.04/1997 tentang Penata Usahaan Data Obyek Pajak Bumi dan Bangunan Pertambangan Migas dan Panas Bumi serta Pembayarannya; dan Peraturan Menteri Keuangan Nomor 127/PMK.03/2007 tentang Tata Cara Penatausahaan Penerimaan Pajak Bumi dan Bangunan Sektor Pertambangan Minyak Bumi dan Gas Bumi dan Energi Panas Bumi sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 151/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-451-kmk-04-1997"
+   },
+   {
+    "key": [
+     "PMK",
+     "127",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 127/PMK.03/2007",
+    "quote": "Pasal 27 Pada saat Peraturan Menteri ini berlaku: … Peraturan Menteri Keuangan Nomor 127/PMK.03/2007 tentang Tata Cara Penatausahaan Penerimaan Pajak Bumi dan Bangunan Sektor Pertambangan Minyak Bumi dan Gas Bumi dan Energi Panas Bumi sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 151/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-127-2007"
+   },
+   {
+    "key": [
+     "PMK",
+     "151",
+     "2007",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 151/PMK.03/2007",
+    "quote": "Pasal 27 Pada saat Peraturan Menteri ini berlaku: … Peraturan Menteri Keuangan Nomor 127/PMK.03/2007 tentang Tata Cara Penatausahaan Penerimaan Pajak Bumi dan Bangunan Sektor Pertambangan Minyak Bumi dan Gas Bumi dan Energi Panas Bumi sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 151/PMK.03/2007, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-151-2007"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 451/KMK.04/1997 — Penata Usahaan Data Obyek Pajak Bumi dan Bangunan Pertambangan Migas dan Panas Bumi Serta Pembayarannya.",
+    "url": "https://jdih.kemenkeu.go.id/dok/451-kmk-04-1997"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 127/PMK.03/2007 — Tata Cara Penatausahaan Penerimaan Pajak Bumi dan Bangunan Sektor Pertambangan Minyak Bumi dan Gas Bumi dan Energi Panas Bumi",
+    "url": "https://jdih.kemenkeu.go.id/dok/127-pmk-03-2007"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 151/PMK.03/2007 — Perubahan atas Peraturan Menteri Keuangan Nomor 127/PMK.03/2007 tentang Tatacara Penatausahaan Penerimaan Pbb Sektor Pertambangan Minyak Bumi dan Gas Bumi dan Energi Panas Bumi",
+    "url": "https://jdih.kemenkeu.go.id/dok/151-pmk-03-2007"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-02-01",
+   "detail_error": null,
+   "number_as_written": "15/PMK.03/2012",
+   "retrieved_at": "2026-10-11T02:13:55+00:00",
+   "source": "DJP",
+   "title_as_written": "PENATAUSAHAAN DAN PEMINDAHBUKUAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAKBUMI, GAS BUMI, DAN PANAS BUMI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penatausahaan-dan-pemindahbukuan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk"
+  },
+  {
+   "date_as_written": "2012-02-01 00:00:00",
+   "number_as_written": "15/PMK.03/2012",
+   "page_retrieved_at": "2026-10-11T01:53:38+00:00",
+   "retrieved_at": "2026-09-21T14:36:47+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penatausahaan dan Pemindahbukuan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-03-2012",
+   "validity_as_written": "01 Feb 2012 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "reasons": [
+   "status berbeda antar sumber",
+   "sumber menyatakan berlaku, tetapi teks PMK 76/2013 mencabutnya"
+  ],
+  "value": "tidak_pasti"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=16",
+   "retrieved_at": "2026-10-10T01:11:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penatausahaan-dan-pemindahbukuan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=316",
+   "retrieved_at": "2026-09-21T14:36:47+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-03-2012",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 27765,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:13:55+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penatausahaan-dan-pemindahbukuan-pajak-bumi-dan-bangunan-sektor-pertambangan-untuk"
+ },
+ "title": "PENATAUSAHAAN DAN PEMINDAHBUKUAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAKBUMI, GAS BUMI, DAN PANAS BUMI"
+}

@@ -1,0 +1,96 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-172-2016",
+ "identity": {
+  "code": "PMK",
+  "number": "172",
+  "variant": null,
+  "year": "2016"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-172-2016--b000-1",
+  "pmk-172-2016--b001-2",
+  "pmk-172-2016--b002-3",
+  "pmk-172-2016--b003-4",
+  "pmk-172-2016--b004-5",
+  "pmk-172-2016--b005-6",
+  "pmk-172-2016--b006-7",
+  "pmk-172-2016--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2016-11-14",
+   "detail_error": null,
+   "number_as_written": "172/PMK.010/2016",
+   "retrieved_at": "2026-10-11T02:04:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGURANGAN PAJAK BUMI DAN BANGUNAN UNTUK KEGIATAN USAHA PERTAMBANGAN/PENGUSAHAAN PANAS BUMI PADA TAHAP EKSPLORASI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-pajak-bumi-dan-bangunan-untuk-kegiatan-usaha-pertambanganpengusahaan-panas"
+  },
+  {
+   "date_as_written": "2016-11-14 00:00:00",
+   "number_as_written": "172/PMK.010/2016",
+   "page_retrieved_at": "2026-10-11T01:50:15+00:00",
+   "retrieved_at": "2026-09-21T14:28:33+00:00",
+   "source": "JDIH",
+   "title_as_written": "Pengurangan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Kegiatan Usaha Pertambangan/Pengusahaan Panas Bumi pada Tahap Eksplorasi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/172-pmk-010-2016",
+   "validity_as_written": "14 Nov 2016 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=6",
+   "retrieved_at": "2026-10-10T01:07:29+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pengurangan-pajak-bumi-dan-bangunan-untuk-kegiatan-usaha-pertambanganpengusahaan-panas",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=197",
+   "retrieved_at": "2026-09-21T14:28:33+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/172-pmk-010-2016",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 6644,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:04:34+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/pengurangan-pajak-bumi-dan-bangunan-untuk-kegiatan-usaha-pertambanganpengusahaan-panas"
+ },
+ "title": "PENGURANGAN PAJAK BUMI DAN BANGUNAN UNTUK KEGIATAN USAHA PERTAMBANGAN/PENGUSAHAAN PANAS BUMI PADA TAHAP EKSPLORASI"
+}

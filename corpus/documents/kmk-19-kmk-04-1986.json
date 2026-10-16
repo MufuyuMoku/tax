@@ -1,0 +1,117 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-19-kmk-04-1986",
+ "identity": {
+  "code": "KMK",
+  "number": "19/KMK.04",
+  "variant": null,
+  "year": "1986"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "SYARAT-SYARAT, TATA CARA PENGANGKATAN DAN PEMBERHENTIAN JURUSITA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/syarat-syarat-tata-cara-pengangkatan-dan-pemberhentian-jurusita-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK PERTAMBAHAN NILAI TIDAK DIPUNGUT ATAS IMPOR COMBAT JACKET LEVEL IV OLEH KEPOLISIAN REPUBLIK INDONESIA",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-pertambahan-nilai-tidak-dipungut-atas-impor-combat-jacket-level-iv-oleh-kepolisian"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGGUNAAN PENERIMAAN PAJAK BUMI DAN BANGUNAN BAGIAN PEMERINTAH PUSAT",
+    "url": "https://www.pajak.go.id/id/peraturan/penggunaan-penerimaan-pajak-bumi-dan-bangunan-bagian-pemerintah-pusat"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BESARNYA DANA CADANGAN YANG BOLEH DIKURANGKAN SEBAGAI BIAYA",
+    "url": "https://www.pajak.go.id/id/peraturan/besarnya-dana-cadangan-yang-boleh-dikurangkan-sebagai-biaya"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 12 SAMPAI DENGAN 18 MARET 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-110"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 2 SAMPAI DENGAN 8 JULI 2001",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-126"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "TATA CARA PENDAFTARAN OBYEK PAJAK, PAJAK BUMI DAN BANGUNANÃƒâ€šÃ‚Â",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-obyek-pajak-pajak-bumi-dan-bangunanafaeusaa"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1986-01-13",
+   "detail_error": null,
+   "number_as_written": "19/KMK.04/1986",
+   "retrieved_at": "2026-10-11T02:49:46+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PENDAFTARAN OBYEK PAJAK DARI PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-obyek-pajak-dari-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=44",
+   "retrieved_at": "2026-10-10T01:25:56+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pendaftaran-obyek-pajak-dari-pajak-bumi-dan-bangunan",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "TATA CARA PENDAFTARAN OBYEK PAJAK DARI PAJAK BUMI DAN BANGUNAN"
+}

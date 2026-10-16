@@ -1,0 +1,116 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "pp-24-2000",
+ "identity": {
+  "code": "PP",
+  "number": "24",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pp-24-2000--b000-1",
+  "pp-24-2000--b001-2",
+  "pp-24-2000--b002-3",
+  "pp-24-2000--b003-4",
+  "pp-24-2000--b004-5",
+  "pp-24-2000--b005-6",
+  "pp-24-2000--b006-7",
+  "pp-24-2000--p007-1",
+  "pp-24-2000--p008-2",
+  "pp-24-2000--p009-3",
+  "pp-24-2000--p010-4",
+  "pp-24-2000--p011-5",
+  "pp-24-2000--p012-6",
+  "pp-24-2000--p013-7"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PP",
+     "7",
+     "1995",
+     null
+    ],
+    "name": "Peraturan Pemerintah Republik Indonesia Nomor 7 Tahun 1995",
+    "quote": "Pasal 5 Dengan berlakunya Peraturan Pemerintah ini, maka Peraturan Pemerintah Republik Indonesia Nomor 7 Tahun 1995 tentang Perubahan Tarif Bea Meterai, dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pp-7-1995"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-04-20",
+   "detail_error": null,
+   "number_as_written": "24 TAHUN 2000",
+   "retrieved_at": "2026-10-11T01:34:32+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN TARIF BEA METERAI DAN BESARNYA BATAS PENGENAAN HARGA NOMINAL YANG DIKENAKAN BEA METERAI",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai-dan-besarnya-batas-pengenaan-harga-nominal-yang-dikenakan-bea"
+  },
+  {
+   "date_as_written": "2000-04-20 00:00:00",
+   "number_as_written": "PP 24 TAHUN 2000",
+   "page_retrieved_at": "2026-10-11T01:37:23+00:00",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan Tarif Bea Meterai dan Besarnya Batas Pengenaan Harga Nominal yang Dikenakan Bea Meterai.   Jakarta, 2000",
+   "type_as_written": "Peraturan Pemerintah",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-24-tahun-2000",
+   "validity_as_written": "20 Apr 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=10",
+   "retrieved_at": "2026-10-10T00:46:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai-dan-besarnya-batas-pengenaan-harga-nominal-yang-dikenakan-bea",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Pemerintah&order=desc&page=91",
+   "retrieved_at": "2026-09-21T14:11:39+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-24-tahun-2000",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12128,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:34:32+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-tarif-bea-meterai-dan-besarnya-batas-pengenaan-harga-nominal-yang-dikenakan-bea"
+ },
+ "title": "PERUBAHAN TARIF BEA METERAI DAN BESARNYA BATAS PENGENAAN HARGA NOMINAL YANG DIKENAKAN BEA METERAI"
+}

@@ -1,0 +1,87 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "perber-186-2010",
+ "identity": {
+  "code": "PERBER",
+  "number": "186",
+  "variant": null,
+  "year": "2010"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "perber-186-2010--b000-1",
+  "perber-186-2010--b001-2",
+  "perber-186-2010--b002-3",
+  "perber-186-2010--b003-4",
+  "perber-186-2010--b004-5",
+  "perber-186-2010--b005-6",
+  "perber-186-2010--b006-7",
+  "perber-186-2010--b007-8",
+  "perber-186-2010--b008-9",
+  "perber-186-2010--b009-10",
+  "perber-186-2010--b010-11",
+  "perber-186-2010--b011-12",
+  "perber-186-2010--b012-13",
+  "perber-186-2010--b013-14",
+  "perber-186-2010--b014-15",
+  "perber-186-2010--b015-16",
+  "perber-186-2010--b016-17",
+  "perber-186-2010--b017-18"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2010-10-18",
+   "detail_error": null,
+   "number_as_written": "186/PMK.07/2010",
+   "retrieved_at": "2026-10-11T01:38:19+00:00",
+   "source": "DJP",
+   "title_as_written": "TAHAPAN PERSIAPAN PENGALIHAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN SEBAGAI PAJAK DAERAH",
+   "type_as_written": "Peraturan Bersama Menteri",
+   "url": "https://www.pajak.go.id/id/peraturan/tahapan-persiapan-pengalihan-bea-perolehan-hak-atas-tanah-dan-bangunan-sebagai-pajak"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=1",
+   "retrieved_at": "2026-10-10T00:57:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tahapan-persiapan-pengalihan-bea-perolehan-hak-atas-tanah-dan-bangunan-sebagai-pajak",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 12984,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:38:19+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tahapan-persiapan-pengalihan-bea-perolehan-hak-atas-tanah-dan-bangunan-sebagai-pajak"
+ },
+ "title": "TAHAPAN PERSIAPAN PENGALIHAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN SEBAGAI PAJAK DAERAH"
+}

@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "PBB"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPN"
   }
  ],
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "kep-djp-5-1994--b000-1",
   "kep-djp-5-1994--b001-2",
@@ -40,6 +45,16 @@
    "title_as_written": "PERLUASAN/PENAMBAHAN KELOMPOK PENGUSAHA JASA YANG DIKENAKAN PPN",
    "type_as_written": "Keputusan Dirjen Pajak",
    "url": "https://www.pajak.go.id/id/peraturan/perluasanpenambahan-kelompok-pengusaha-jasa-yang-dikenakan-ppn"
+  },
+  {
+   "date_as_written": "1994-05-06",
+   "detail_error": null,
+   "number_as_written": "KEP - 05/PJ.6/1994",
+   "retrieved_at": "2026-10-11T02:40:51+00:00",
+   "source": "DJP",
+   "title_as_written": "PELAKSANAAN SISTEM MANAJEMEN INFORMASI OBYEK PAJAK (SISMIOP) PAJAK BUMI DAN BANGUNAN (PBB) TAHUN ANGGARAN 1994/1995",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-sistem-manajemen-informasi-obyek-pajak-sismiop-pajak-bumi-dan-bangunan-pbb"
   }
  ],
  "status": {
@@ -53,6 +68,14 @@
    "retrieved_at": "2026-10-06T01:47:47+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/perluasanpenambahan-kelompok-pengusaha-jasa-yang-dikenakan-ppn",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=39",
+   "retrieved_at": "2026-10-10T01:24:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-sistem-manajemen-informasi-obyek-pajak-sismiop-pajak-bumi-dan-bangunan-pbb",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
   }

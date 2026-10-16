@@ -1,0 +1,114 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-23-2014",
+ "identity": {
+  "code": "PMK",
+  "number": "23",
+  "variant": null,
+  "year": "2014"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-23-2014--b000-1",
+  "pmk-23-2014--b001-2",
+  "pmk-23-2014--b002-3",
+  "pmk-23-2014--b003-4",
+  "pmk-23-2014--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PMK",
+     "67",
+     "2011",
+     null
+    ],
+    "name": "Peraturan Menteri Keuangan Nomor 67/PMK.03/2011",
+    "quote": "Pasal 4 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 67/PMK.03/2011 tentang Penyesuaian Besarnya Nilai Jual Objek Pajak Tidak Kena Pajak Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-67-2011"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 67/PMK.03/2011 — Penyesuaian Besarnya Nilai Jual Objek Pajak Tidak Kena Pajak Pajak Bumi dan Bangunan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/67-pmk-03-2011"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2014-02-03",
+   "detail_error": null,
+   "number_as_written": "23/PMK.03/2014",
+   "retrieved_at": "2026-10-11T02:10:07+00:00",
+   "source": "DJP",
+   "title_as_written": "PENYESUAIAN BESARNYA NILAI JUAL OBJEK PAJAK TIDAK KENA PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-nilai-jual-objek-pajak-tidak-kena-pajak-pajak-bumi-dan-bangunan-0"
+  },
+  {
+   "date_as_written": "2014-02-03 00:00:00",
+   "number_as_written": "23/PMK.03/2014",
+   "page_retrieved_at": "2026-10-11T01:52:37+00:00",
+   "retrieved_at": "2026-09-21T14:33:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penyesuaian Besarnya Nilai Jual Objek Pajak Tidak Kena Pajak Pajak Bumi dan Bangunan.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2014",
+   "validity_as_written": "03 Feb 2014 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=13",
+   "retrieved_at": "2026-10-10T01:09:58+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-nilai-jual-objek-pajak-tidak-kena-pajak-pajak-bumi-dan-bangunan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=268",
+   "retrieved_at": "2026-09-21T14:33:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/23-pmk-03-2014",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 4007,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:10:07+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-nilai-jual-objek-pajak-tidak-kena-pajak-pajak-bumi-dan-bangunan-0"
+ },
+ "title": "PENYESUAIAN BESARNYA NILAI JUAL OBJEK PAJAK TIDAK KENA PAJAK PAJAK BUMI DAN BANGUNAN"
+}

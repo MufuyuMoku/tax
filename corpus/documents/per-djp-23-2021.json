@@ -1,0 +1,102 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran PER23PJ2021.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PER-DJP",
+    "number": "23",
+    "year": "2021"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/Lampiran%20PER23PJ2021.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-23-2021",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "23",
+  "variant": null,
+  "year": "2021"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "per-djp-23-2021--b000-1",
+  "per-djp-23-2021--b001-2",
+  "per-djp-23-2021--b002-3",
+  "per-djp-23-2021--b003-4",
+  "per-djp-23-2021--b004-5",
+  "per-djp-23-2021--b005-6",
+  "per-djp-23-2021--b006-7",
+  "per-djp-23-2021--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "PER-DJP",
+     "19",
+     "2019",
+     null
+    ],
+    "name": "Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2019",
+    "quote": "Pasal 7 Dengan berlakunya Peraturan Direktur Jenderal ini, Peraturan Direktur Jenderal Pajak Nomor PER-19/PJ/2019 tentang Surat Pemberitahuan Objek Pajak Pajak Bumi dan Bangunan dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "per-djp-19-2019"
+   }
+  ],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2021-12-28",
+   "detail_error": null,
+   "number_as_written": "PER-23/PJ/2021",
+   "retrieved_at": "2026-10-11T01:59:44+00:00",
+   "source": "DJP",
+   "title_as_written": "SURAT PEMBERITAHUAN OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-objek-pajak-pajak-bumi-dan-bangunan-0"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=1",
+   "retrieved_at": "2026-10-10T01:05:39+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-objek-pajak-pajak-bumi-dan-bangunan-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9489,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:59:44+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/surat-pemberitahuan-objek-pajak-pajak-bumi-dan-bangunan-0"
+ },
+ "title": "SURAT PEMBERITAHUAN OBJEK PAJAK PAJAK BUMI DAN BANGUNAN"
+}

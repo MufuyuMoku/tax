@@ -193,6 +193,9 @@ const CATEGORY_NAMES = {
   PPh: [["pph"], ["pajak", "penghasilan"]],
   KUP: [["kup"], ["ketentuan", "umum", "dan", "tata", "cara", "perpajakan"]],
   PPN: [["ppn"], ["pajak", "pertambahan", "nilai"]],
+  "Bea Meterai": [["bea", "meterai"], ["meterai"]],
+  PBB: [["pbb"], ["pajak", "bumi", "dan", "bangunan"]],
+  BPHTB: [["bphtb"], ["bea", "perolehan", "hak", "atas", "tanah", "dan", "bangunan"]],
 };
 
 function mentionedCategories(query, ocr) {

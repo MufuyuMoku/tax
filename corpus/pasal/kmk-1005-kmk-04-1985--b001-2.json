@@ -1,0 +1,23 @@
+{
+ "amendment_items": null,
+ "chars": 226,
+ "document_id": "kmk-1005-kmk-04-1985",
+ "document_number": "1005/KMK.04/1985",
+ "document_title": "PENYETORAN PAJAK BUMI DAN BANGUNAN",
+ "id": "kmk-1005-kmk-04-1985--b001-2",
+ "label": "2",
+ "order": 1,
+ "quality_flags": [
+  "urutan_loncat:3->5,5->3,3->7",
+  "pasal_ganda"
+ ],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 2\nSemua saldo Bank yang berasal dari Penyetoran Pajak Bumi dan Bangunan melalui rekening Kas Negara Persepsi, setiap hari dipindah bukukan ke rekening Induk Kas Negara pada Cabang Bank pemegang rekening induk Kas Negara.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T02:55:04+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/penyetoran-pajak-bumi-dan-bangunan"
+ }
+}

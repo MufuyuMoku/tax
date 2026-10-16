@@ -1,0 +1,149 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "uu-13-1985",
+ "identity": {
+  "code": "UU",
+  "number": "13",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "uu-13-1985--b000-1",
+  "uu-13-1985--b001-2",
+  "uu-13-1985--b002-3",
+  "uu-13-1985--b003-4",
+  "uu-13-1985--b004-5",
+  "uu-13-1985--b005-6",
+  "uu-13-1985--b006-7",
+  "uu-13-1985--b007-8",
+  "uu-13-1985--b008-9",
+  "uu-13-1985--b009-10",
+  "uu-13-1985--b010-11",
+  "uu-13-1985--b011-12",
+  "uu-13-1985--b012-13",
+  "uu-13-1985--b013-14",
+  "uu-13-1985--b014-15",
+  "uu-13-1985--b015-16",
+  "uu-13-1985--b016-17",
+  "uu-13-1985--b017-18",
+  "uu-13-1985--p018-1",
+  "uu-13-1985--p019-2",
+  "uu-13-1985--p020-3",
+  "uu-13-1985--p021-4",
+  "uu-13-1985--p022-5",
+  "uu-13-1985--p023-6",
+  "uu-13-1985--p024-7",
+  "uu-13-1985--p025-8",
+  "uu-13-1985--p026-9",
+  "uu-13-1985--p027-10",
+  "uu-13-1985--p028-11",
+  "uu-13-1985--p029-12",
+  "uu-13-1985--p030-13",
+  "uu-13-1985--p031-14",
+  "uu-13-1985--p032-15",
+  "uu-13-1985--p033-16",
+  "uu-13-1985--p034-17",
+  "uu-13-1985--p035-18"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BEA METERAI",
+    "url": "https://www.pajak.go.id/id/peraturan/bea-meterai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ketentuan-umum-dan-tata-cara-perpajakan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BENTUK SURAT SETORAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/bentuk-surat-setoran-pajak"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: UU 10 TAHUN 2020 — Bea Meterai",
+    "url": "https://jdih.kemenkeu.go.id/dok/uu-10-tahun-2020"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-27",
+   "detail_error": null,
+   "number_as_written": "13 TAHUN 1985",
+   "retrieved_at": "2026-10-10T00:49:27+00:00",
+   "source": "DJP",
+   "title_as_written": "BEA METERAI",
+   "type_as_written": "Undang-Undang",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-meterai"
+  },
+  {
+   "date_as_written": "1985-12-27 00:00:00",
+   "number_as_written": "UU 13 TAHUN 1985",
+   "page_retrieved_at": "2026-10-11T01:30:17+00:00",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "title_as_written": "Bea Meterai",
+   "type_as_written": "Undang-Undang",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-13-tahun-1985",
+   "validity_as_written": "27 Des 1985 - 26 Okt 2020"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=12",
+   "retrieved_at": "2026-10-10T00:40:18+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/bea-meterai",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Undang-Undang&order=desc&page=37",
+   "retrieved_at": "2026-09-21T14:05:05+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/uu-13-tahun-1985",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 21799,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-10T00:49:27+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/bea-meterai"
+ },
+ "title": "BEA METERAI"
+}

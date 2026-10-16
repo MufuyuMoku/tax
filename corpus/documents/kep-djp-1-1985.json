@@ -1,0 +1,73 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-1-1985",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "1",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kep-djp-1-1985--b000-1",
+  "kep-djp-1-1985--b001-2",
+  "kep-djp-1-1985--b002-3",
+  "kep-djp-1-1985--b003-4"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-01-03",
+   "detail_error": null,
+   "number_as_written": "KEP - 01/PJ.BT5/1985",
+   "retrieved_at": "2026-10-12T07:17:39+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN DAN PENYEMPURNAAN SUSUNAN KEANGGOTAAN SUB KELOMPOK KERJA BIDANG PENGAMPUNAN PAJAK PADA KELOMPOK KERJA PEMBAHARUAN SISTEM PERPAJAKAN DIREKTORAT JENDERAL PAJAK",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-dan-penyempurnaan-susunan-keanggotaan-sub-kelompok-kerja-bidang-pengampunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=374",
+   "retrieved_at": "2026-10-10T07:37:06+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-dan-penyempurnaan-susunan-keanggotaan-sub-kelompok-kerja-bidang-pengampunan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 3216,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-12T07:17:39+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-dan-penyempurnaan-susunan-keanggotaan-sub-kelompok-kerja-bidang-pengampunan"
+ },
+ "title": "PERUBAHAN DAN PENYEMPURNAAN SUSUNAN KEANGGOTAAN SUB KELOMPOK KERJA BIDANG PENGAMPUNAN PAJAK PADA KELOMPOK KERJA PEMBAHARUAN SISTEM PERPAJAKAN DIREKTORAT JENDERAL PAJAK"
+}

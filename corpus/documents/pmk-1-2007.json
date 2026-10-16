@@ -7,6 +7,10 @@
   },
   {
    "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "PPh"
   },
   {
@@ -24,6 +28,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "pmk-1-2007--b000-1",
   "pmk-1-2007--b001-2",
@@ -65,6 +70,16 @@
    "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-peredaran-bruto-bagi-wajib-pajak-orang-pribadi-yang-boleh-menghitung"
   },
   {
+   "date_as_written": "2007-10-30",
+   "detail_error": null,
+   "number_as_written": "131.1/PMK.07/2007",
+   "retrieved_at": "2026-10-16T00:45:53+00:00",
+   "source": "DJP",
+   "title_as_written": "PENETAPAN ALOKASI DEFINITIF DANA BAGI HASIL PAJAK PENGHASILAN PASAL 25 DAN PASAL 29 WAJIB PAJAK ORANG PRIBADI DI DALAM NEGERI DAN PAJAK PENGHASILAN PASAL 21 TAHUN ANGGARAN 2007",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-definitif-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-0"
+  },
+  {
    "date_as_written": "2007-10-30 00:00:00",
    "number_as_written": "131.1/PMK.07/2007",
    "retrieved_at": "2026-09-21T14:44:11+00:00",
@@ -103,6 +118,14 @@
    "retrieved_at": "2026-09-21T14:27:28+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/penyesuaian-besarnya-peredaran-bruto-bagi-wajib-pajak-orang-pribadi-yang-boleh-menghitung",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=55",
+   "retrieved_at": "2026-10-10T01:52:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penetapan-alokasi-definitif-dana-bagi-hasil-pajak-penghasilan-pasal-25-dan-pasal-29-0",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
   },

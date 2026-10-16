@@ -1,0 +1,103 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-161-2012",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "161",
+  "variant": null,
+  "year": "2012"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "kep-djp-161-2012--b000-kesatu",
+  "kep-djp-161-2012--b001-kedua",
+  "kep-djp-161-2012--b002-ketiga",
+  "kep-djp-161-2012--b003-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "kep-djp-133-2013",
+    "key": [
+     "KEP-DJP",
+     "133",
+     "2013",
+     null
+    ],
+    "number_as_written": "KEP-133/PJ/2013",
+    "quote": "Mengubah Daftar KPP Pratama yang Mengadministrasikan Pajak Bumi Dan Bangunan Sektor Pertambangan Untuk Pertambangan Minyak Bumi, Gas Bumi Dan Panas Bumi sebagaimana dalam Lampiran I dan II Keputusan Direktur Jenderal Pajak Nomor KEP-161/PJ/2012 tentang Penunjukan Kantor Pelayanan Pajak yang Mengadministrasikan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi dan Panas Bumi, sehingga menjadi sebagaimana ditetapkan dalam Lampiran Keputusan Direktur Jenderal Pajak ini.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP- 161 /PJ/ 2012 TENTANG PENUNJUKAN KANTOR PELAYANAN PAJAK YANG MENGADMINISTRASIKAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI DAN PANAS BUMI"
+   },
+   {
+    "id": "kep-djp-49-2019",
+    "key": [
+     "KEP-DJP",
+     "49",
+     "2019",
+     null
+    ],
+    "number_as_written": "KEP-49/PJ/2019",
+    "quote": null,
+    "quote_excerpt": false,
+    "quote_unavailable": "kalimat perubahan tidak ditemukan di batang tubuh; relasi ini dibaca dari judul peraturan",
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN KEEMPAT ATAS KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-161/PJ/2012 TENTANG PENUNJUKAN KANTOR PELAYANAN PAJAK YANG MENGADMINISTRASIKAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2012-04-25",
+   "detail_error": null,
+   "number_as_written": "KEP-161/PJ/2012",
+   "retrieved_at": "2026-10-11T02:13:13+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN KANTOR PELAYANAN PAJAK YANG MENGADMINISTRASIKAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-yang-mengadministrasikan-pajak-bumi-dan-bangunan-sektor"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "diubah_atau_dicabut_sebagian"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=16",
+   "retrieved_at": "2026-10-10T01:11:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-yang-mengadministrasikan-pajak-bumi-dan-bangunan-sektor",
+   "value_normalized": "diubah_atau_dicabut_sebagian",
+   "value_verbatim": "Diubah/Disempurnakan/Dicabut sebagian"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3284,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:13:13+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penunjukan-kantor-pelayanan-pajak-yang-mengadministrasikan-pajak-bumi-dan-bangunan-sektor"
+ },
+ "title": "PENUNJUKAN KANTOR PELAYANAN PAJAK YANG MENGADMINISTRASIKAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI"
+}

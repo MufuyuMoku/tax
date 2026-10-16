@@ -1,5 +1,5 @@
 {
-  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP dan PPN: pengukuran pertama, 2026-10-09 (M5). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063).",
+  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP dan PPN: pengukuran pertama, 2026-10-09 (M5). Lima pertanyaan kategori baru (v1.1): pengukuran pertama, 2026-10-16 (K-089). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063).",
   "peringkat": {
     "bonus-tahunan": 16,
     "thr": 84,
@@ -45,7 +45,12 @@
     "barang-bebas-ppn": 58,
     "tarif-ppn-12": 3,
     "bangun-rumah-sendiri": 38,
-    "restitusi-ppn": 11
+    "restitusi-ppn": 11,
+    "bea-meterai-dokumen": 7,
+    "pbb-perkebunan": 9,
+    "p3b-uea": 1,
+    "tempat-terdaftar": 28,
+    "bphtb-waris": 75
   },
   "median_acuan": {
     "keterangan": "Median peringkat yang tidak boleh terlampaui, per himpunan pertanyaan yang sama (K-072). pph: 25 pertanyaan PPh (5 sebelum KUP; 6 sejak teks JDIH PPh, disetujui pemilik). pph_kup: pertanyaan PPh dan KUP (8 saat diukur 2026-10-09). semua: seluruh pertanyaan termasuk PPN; 6 sejak KEP-DJP 28/1996 (dicabut) dihapus dari jawaban restitusi, keputusan pemilik K-080.",

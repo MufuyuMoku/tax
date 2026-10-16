@@ -1,0 +1,73 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-116-2018",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "116",
+  "variant": null,
+  "year": "2018"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kep-djp-116-2018--b000-kesatu",
+  "kep-djp-116-2018--b001-kedua",
+  "kep-djp-116-2018--b002-ketiga",
+  "kep-djp-116-2018--b003-keempat"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2018-04-06",
+   "detail_error": null,
+   "number_as_written": "KEP-116/PJ/2018",
+   "retrieved_at": "2026-10-11T03:10:43+00:00",
+   "source": "DJP",
+   "title_as_written": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK MADYA",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-madya"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=3",
+   "retrieved_at": "2026-10-10T01:30:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-madya",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "diktum",
+ "text": {
+  "available": true,
+  "chars": 3512,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:10:43+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tempat-pendaftaran-dan-pelaporan-usaha-bagi-wajib-pajak-pada-kantor-pelayanan-pajak-madya"
+ },
+ "title": "TEMPAT PENDAFTARAN DAN PELAPORAN USAHA BAGI WAJIB PAJAK PADA KANTOR PELAYANAN PAJAK MADYA"
+}

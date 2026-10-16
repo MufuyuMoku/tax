@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-323-kmk-03-2002-ralat",
+ "identity": {
+  "code": "KMK",
+  "number": "323/KMK.03",
+  "variant": "ralat",
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-09-19",
+   "detail_error": null,
+   "number_as_written": "323/KMK.03/2002",
+   "retrieved_at": "2026-10-11T01:30:04+00:00",
+   "source": "DJP",
+   "title_as_written": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 323/KMK.03/2002 TANGGAL 3 JULI 2002 TENTANG BENTUK, UKURAN, DAN WARNA BENDA METERAI DISAIN TAHUN 2002",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-323kmk032002-tanggal-3-juli"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=7",
+   "retrieved_at": "2026-10-10T00:45:38+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/ralat-keputusan-menteri-keuangan-republik-indonesia-nomor-323kmk032002-tanggal-3-juli",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "RALAT KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 323/KMK.03/2002 TANGGAL 3 JULI 2002 TENTANG BENTUK, UKURAN, DAN WARNA BENDA METERAI DISAIN TAHUN 2002"
+}

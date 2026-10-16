@@ -1,0 +1,126 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-98-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "98",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-98-2005--b000-i",
+  "pmk-98-2005--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "485",
+     "2003",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 485/KMK.03/2003",
+    "quote": "Ketentuan Pasal 10 huruf c, huruf g dan huruf I Peraturan Menteri Keuangan Nomor 485/KMK.03/2003 tentang Konsultan Pajak Indonesia diubah, sehingga Pasal 10 berbunyi sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-485-2003"
+   }
+  ],
+  "revoked_by": [
+   {
+    "id": "pmk-111-2014",
+    "key": [
+     "PMK",
+     "111",
+     "2014",
+     null
+    ],
+    "number_as_written": "111/PMK.03/2014",
+    "quote": "Pasal 32 Pada saat Peraturan Menteri ini mulai berlaku: … 2. Peraturan Menteri Keuangan Nomor 98/PMK.03/2005 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 485/KMK.03/2003 tentang Konsultan Pajak Indonesia, dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "KONSULTAN PAJAK"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 111/PMK.03/2014 — Konsultan Pajak.",
+    "url": "https://jdih.kemenkeu.go.id/dok/111-pmk-03-2014"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-10-13",
+   "detail_error": null,
+   "number_as_written": "98/PMK.03/2005",
+   "retrieved_at": "2026-10-12T07:21:06+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 485/KMK.03/2003 TENTANG KONSULTAN PAJAK INDONESIA",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-485kmk032003-tentang-konsultan-pajak"
+  },
+  {
+   "date_as_written": "2005-10-13 00:00:00",
+   "number_as_written": "98/PMK.03/2005",
+   "page_retrieved_at": "2026-10-11T02:07:35+00:00",
+   "retrieved_at": "2026-09-21T14:46:14+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Keputusan Menteri Keuangan Nomor 485/KMK.03/2003 tentang Konsultan Pajak Indinesia",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/98-pmk-03-2005",
+   "validity_as_written": "13 Okt 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=143",
+   "retrieved_at": "2026-10-10T06:15:34+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-485kmk032003-tentang-konsultan-pajak",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=458",
+   "retrieved_at": "2026-09-21T14:46:14+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/98-pmk-03-2005",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 3864,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-12T07:21:06+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-485kmk032003-tentang-konsultan-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 485/KMK.03/2003 TENTANG KONSULTAN PAJAK INDONESIA"
+}

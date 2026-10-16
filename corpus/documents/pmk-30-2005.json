@@ -1,0 +1,119 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-30-2005",
+ "identity": {
+  "code": "PMK",
+  "number": "30",
+  "variant": null,
+  "year": "2005"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-30-2005--b000-1",
+  "pmk-30-2005--b001-2",
+  "pmk-30-2005--b002-3",
+  "pmk-30-2005--b003-4",
+  "pmk-30-2005--b004-5",
+  "pmk-30-2005--b005-6",
+  "pmk-30-2005--b006-7",
+  "pmk-30-2005--b007-8",
+  "pmk-30-2005--b008-9",
+  "pmk-30-2005--b009-10"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [
+   {
+    "key": [
+     "KMK",
+     "633/KMK.04",
+     "1997",
+     null
+    ],
+    "name": "Keputusan Menteri Keuangan Nomor 633/KMK.04/1997",
+    "quote": "Pasal 9 Pada saat Peraturan Menteri Keuangan ini mulai berlaku : 1. Keputusan Menteri Keuangan Nomor 633/KMK.04/1997 tentang Tata Cara Pengembalian Kelebihan Pembayaran Bea Perolehan Hal atas Tanah dan Bangunan dinyatakan tidak berlaku.",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "kmk-633-kmk-04-1997"
+   }
+  ],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 633/KMK.04/1997 — Tata Cara Pengembalian Kelebihan Pembayaran Bea Perolehan Hak atas Tanah dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/633-kmk-04-1997"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2005-05-23",
+   "detail_error": null,
+   "number_as_written": "30/PMK.03/2005",
+   "retrieved_at": "2026-10-11T01:42:56+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-pembayaran-bea-perolehan-hak-atas-tanah-dan"
+  },
+  {
+   "date_as_written": "2005-05-23 00:00:00",
+   "number_as_written": "30/PMK.03/2005",
+   "page_retrieved_at": "2026-10-11T01:43:08+00:00",
+   "retrieved_at": "2026-09-21T14:46:42+00:00",
+   "source": "JDIH",
+   "title_as_written": "Tata Cara Pembayaran Kembali Kelebihan Pembayaran Bea Perolehan Hak atas Tanag dan Bangunan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2005",
+   "validity_as_written": "23 Mei 2005 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=7",
+   "retrieved_at": "2026-10-10T01:02:15+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-pembayaran-bea-perolehan-hak-atas-tanah-dan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=465",
+   "retrieved_at": "2026-09-21T14:46:42+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/30-pmk-03-2005",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 9450,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:42:56+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pembayaran-kembali-kelebihan-pembayaran-bea-perolehan-hak-atas-tanah-dan"
+ },
+ "title": "TATA CARA PEMBAYARAN KEMBALI KELEBIHAN PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

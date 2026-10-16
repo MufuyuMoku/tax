@@ -1,0 +1,123 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-26-2015",
+ "identity": {
+  "code": "PMK",
+  "number": "26",
+  "variant": null,
+  "year": "2015"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [
+  "pmk-26-2015--b000-i",
+  "pmk-26-2015--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "76",
+     "2013",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2013",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-76-2013"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 76/PMK.03/2013 — Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/76-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 131/PMK.03/2017 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/131-pmk-03-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : 186/PMK.03/2019 — Klasifikasi Objek Pajak dan Tata Cara Penetapan Nilai Jual Objek Pajak Pajak Bumi dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/186-pmk-03-2019"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2015-02-10",
+   "detail_error": null,
+   "number_as_written": "26/PMK.03/2015",
+   "retrieved_at": "2026-10-11T02:06:59+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2013 TENTANG PENATAUSAHAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-76pmk032013-tentang-penatausahaan-pajak"
+  },
+  {
+   "date_as_written": "2015-02-10 00:00:00",
+   "number_as_written": "26/PMK.03/2015",
+   "page_retrieved_at": "2026-10-11T01:51:16+00:00",
+   "retrieved_at": "2026-09-21T14:31:31+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 76/PMK.03/2013 tentang Penatausahaan Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi, Gas Bumi, dan Panas Bumi.",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/26-pmk-03-2015",
+   "validity_as_written": "10 Feb 2015 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=9",
+   "retrieved_at": "2026-10-10T01:08:32+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-76pmk032013-tentang-penatausahaan-pajak",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=239",
+   "retrieved_at": "2026-09-21T14:31:31+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/26-pmk-03-2015",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 16622,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T02:06:59+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-76pmk032013-tentang-penatausahaan-pajak"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 76/PMK.03/2013 TENTANG PENATAUSAHAAN PAJAK BUMI DAN BANGUNAN SEKTOR PERTAMBANGAN UNTUK PERTAMBANGAN MINYAK BUMI, GAS BUMI, DAN PANAS BUMI"
+}

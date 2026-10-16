@@ -16,6 +16,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "perpu-5-2008--b000-i",
   "perpu-5-2008--b001-ii",
@@ -40,7 +41,22 @@
     "target_id": "uu-6-1983"
    }
   ],
-  "revoked_by": [],
+  "revoked_by": [
+   {
+    "id": "perpu-1-2017",
+    "key": [
+     "PERPU",
+     "1",
+     "2017",
+     null
+    ],
+    "number_as_written": "1 TAHUN 2017",
+    "quote": "dan Pasal 35A Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor 4999); … 5. Pasal 41 dan Pasal 42 Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 94, Tambahan Lembaran Negara Republik Indonesia Nomor 4867), dinyatakan tidak berlaku sepanjang berkaitan dengan pelaksanaan akses informasi keuangan untuk kepentingan perpajakan berdasarkan Peraturan Pemerintah Pengganti Undang-Undang ini.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN"
+   }
+  ],
   "revokes": [],
   "source_listed_related": [
    {
@@ -93,9 +109,10 @@
   }
  ],
  "status": {
-  "note": "disepakati JDIH & DJP",
-  "reasons": [],
-  "value": "berlaku"
+  "reasons": [
+   "sumber menyatakan berlaku, tetapi teks Perpu 1/2017 mencabutnya"
+  ],
+  "value": "tidak_pasti"
  },
  "status_claims": [
   {

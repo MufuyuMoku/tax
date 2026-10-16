@@ -1,0 +1,77 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  }
+ ],
+ "category": "substantif",
+ "id": "kep-djp-122c-2000",
+ "identity": {
+  "code": "KEP-DJP",
+  "number": "122C",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "kep-djp-122c-2000--b000-1",
+  "kep-djp-122c-2000--b001-2",
+  "kep-djp-122c-2000--b002-3",
+  "kep-djp-122c-2000--b003-4",
+  "kep-djp-122c-2000--b004-5",
+  "kep-djp-122c-2000--b005-6",
+  "kep-djp-122c-2000--b006-7",
+  "kep-djp-122c-2000--b007-8"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-05-01",
+   "detail_error": null,
+   "number_as_written": "KEP-122C/PJ./2000",
+   "retrieved_at": "2026-10-11T01:32:08+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELUNASAN BEA METERAI DENGAN MEMBUBUHKAN TANDA BEA METERAI LUNAS DENGAN TEKNOLOGI PERCETAKAN",
+   "type_as_written": "Keputusan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelunasan-bea-meterai-dengan-membubuhkan-tanda-bea-meterai-lunas-dengan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13932&page=8",
+   "retrieved_at": "2026-10-10T00:46:01+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelunasan-bea-meterai-dengan-membubuhkan-tanda-bea-meterai-lunas-dengan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5051,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T01:32:08+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelunasan-bea-meterai-dengan-membubuhkan-tanda-bea-meterai-lunas-dengan"
+ },
+ "title": "TATA CARA PELUNASAN BEA METERAI DENGAN MEMBUBUHKAN TANDA BEA METERAI LUNAS DENGAN TEKNOLOGI PERCETAKAN"
+}

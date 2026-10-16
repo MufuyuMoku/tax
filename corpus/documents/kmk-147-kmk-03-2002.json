@@ -1,0 +1,68 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-147-kmk-03-2002",
+ "identity": {
+  "code": "KMK",
+  "number": "147/KMK.03",
+  "variant": null,
+  "year": "2002"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2002-04-18",
+   "detail_error": null,
+   "number_as_written": "147/KMK.03/2002",
+   "retrieved_at": "2026-10-12T07:02:42+00:00",
+   "source": "DJP",
+   "title_as_written": "PENGHAPUSAN PIUTANG PAJAK PADA KANTOR WILAYAH VI DIREKTORAT JENDERAL PAJAK JAKARTA RAYA KHUSUS",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penghapusan-piutang-pajak-pada-kantor-wilayah-vi-direktorat-jenderal-pajak-jakarta-raya"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=226",
+   "retrieved_at": "2026-10-10T06:41:08+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penghapusan-piutang-pajak-pada-kantor-wilayah-vi-direktorat-jenderal-pajak-jakarta-raya",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENGHAPUSAN PIUTANG PAJAK PADA KANTOR WILAYAH VI DIREKTORAT JENDERAL PAJAK JAKARTA RAYA KHUSUS"
+}

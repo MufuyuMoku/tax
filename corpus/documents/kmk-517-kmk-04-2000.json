@@ -1,0 +1,136 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "BPHTB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-517-kmk-04-2000",
+ "identity": {
+  "code": "KMK",
+  "number": "517/KMK.04",
+  "variant": null,
+  "year": "2000"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [
+   {
+    "id": "pmk-168-2007",
+    "key": [
+     "PMK",
+     "168",
+     "2007",
+     null
+    ],
+    "number_as_written": "168/PMK.03/2007",
+    "quote": "Mengubah ketentuan Pasal 3 Keputusan Menteri Keuangan Nomor 517/KMK.04/2000 tentang Penunjukan Tempat Dan Tata Cara Pembayaran Bea Perolehan Hak atas Tanah dan Bangunan sehingga berbunyi sebagai berikut : Pasal 3 Bea Perolehan Hak atas Tanah dan Bangunan yang terutang harus dilunasi pada saat terjadinya perolehan hak atas tanah dan atau bangunan, yaitu untuk : a. jual beli adalah sejak tanggal dibuat dan ditandatanganinya akta;",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN NOMOR 517/KMK.04/2000 TENTANG PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+   }
+  ],
+  "amends": [],
+  "revoked_by": [
+   {
+    "id": "pmk-238-2016",
+    "key": [
+     "PMK",
+     "238",
+     "2016",
+     null
+    ],
+    "number_as_written": "238/PMK.03/2016",
+    "quote": "Pasal I a. Keputusan Menteri Keuangan Nomor 516/KMK.04/2000 tentang Tata Cara Penentuan Besarnya Nilai Perolehan Objek Pajak Tidak Kena Pajak Bea Perolehan Hak atas Tanah dan Bangunan yang telah beberapa kali diubah dengan Peraturan Menteri Keuangan: … b. Keputusan Menteri Keuangan Nomor 517/KMK.04/2000 tentang Penunjukan Tempat dan Tata Cara Pembayaran Bea Perolehan Hak atas Tanah dan Bangunan sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor 168/PMK.03/2007 tentang Perubahan atas Keputusan Menteri Keuangan Nomor 517/KMK.04/2000 tentang Penunjukan Tempat dan Tata Cara Pembayaran Bea Perolehan Hak atas Tanah dan Bangunan (Berita Negara Republik Indonesia Tahun 2008 Nomor 11); … h. Peraturan Menteri Keuangan Nomor 146/PMK.03/2012 tentang Tata Cara Verifikasi (Berita Negara Republik Indonesia Tahun 2012 Nomor 903), dicabut dan dinyatakan tidak berlaku.",
+    "quote_excerpt": true,
+    "source_of_reading": "DJP",
+    "title": "PENCABUTAN KEPUTUSAN MENTERI KEUANGAN DAN PERATURAN MENTERI KEUANGAN DI BIDANG PERPAJAKAN MENIMBANG DALAM RANGKA SIMPLIFIKASI REGULASI"
+   }
+  ],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 631/KMK.04/1997 — Penunjukan Tempat dan Tatacara Pembayaran Bea Perolehan Hak atas Tanah dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/631-kmk-04-1997"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: 238/PMK.03/2016 — Pencabutan atas Keputusan Menteri Keuangan dan Peraturan Menteri Keuangan di Bidang Perpajakan dalam Rangka Simplifikasi Regulasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/238-pmk-03-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: 168/PMK.03/2007 — Perubahan atas Keputusan Menteri Keuangan Nomor 517/KMK.04/2000 tentang Penunjukan Tempat dan Tatacara Pembayaran Bea Masuk Perolehan Hak atas Tanah dan Bangunan",
+    "url": "https://jdih.kemenkeu.go.id/dok/168-pmk-03-2007"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2000-12-14",
+   "detail_error": null,
+   "number_as_written": "517/KMK.04/2000",
+   "retrieved_at": "2026-10-11T01:46:22+00:00",
+   "source": "DJP",
+   "title_as_written": "PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tempat-dan-tata-cara-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan"
+  },
+  {
+   "date_as_written": "2000-12-14 00:00:00",
+   "number_as_written": "517/KMK.04/2000",
+   "page_retrieved_at": "2026-10-11T01:44:29+00:00",
+   "retrieved_at": "2026-09-21T14:49:50+00:00",
+   "source": "JDIH",
+   "title_as_written": "Penunjukan Tempat dan Tatacara Pembayaran Bea Perolehan Hak atas Tanah dan Bangunan",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/517-kmk-04-2000",
+   "validity_as_written": "14 Des 2000 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=14029&page=9",
+   "retrieved_at": "2026-10-10T01:02:59+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tempat-dan-tata-cara-pembayaran-bea-perolehan-hak-atas-tanah-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=43",
+   "retrieved_at": "2026-09-21T14:49:50+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/517-kmk-04-2000",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Tidak Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PENUNJUKAN TEMPAT DAN TATA CARA PEMBAYARAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN"
+}

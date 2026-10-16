@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 574,
+ "document_id": "per-djp-48-2015",
+ "document_number": "PER-48/PJ/2015",
+ "document_title": "TATA CARA PEMBERIAN NOMOR OBJEK PAJAK PAJAK BUMI DAN BANGUNAN",
+ "id": "per-djp-48-2015--b003-4",
+ "label": "4",
+ "order": 3,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 4\nStruktur NOP terdiri dari 18 (delapan belas) digit, dengan rincian sebagai berikut:\na.\ndigit ke-1 dan ke-2 merupakan kode provinsi;\nb.\ndigit ke-3 dan ke-4 merupakan kode kabupaten/kota;\nc.\ndigit ke-5 sampai dengan digit ke-7 merupakan kode kecamatan;\nd.\ndigit ke-8 sampai dengan digit ke-10 merupakan kode KPP;\ne.\ndigit ke-11 merupakan kode subsektor;\nf.\ndigit ke-12 merupakan kode jenis bumi;\ng.\ndigit ke-13 merupakan kode rincian;\nh.\ndigit ke-14 sampai dengan digit ke-17 merupakan kode nomor urut Objek Pajak; dan\ni.\ndigit ke-18 merupakan kode sektor Objek Pajak.",
+ "text_source": {
+  "retrieved_at": "2026-10-11T02:05:57+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemberian-nomor-objek-pajak-pajak-bumi-dan-bangunan"
+ }
+}

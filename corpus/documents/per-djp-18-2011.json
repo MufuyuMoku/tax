@@ -1,0 +1,74 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "Lainnya"
+  }
+ ],
+ "category": "substantif",
+ "id": "per-djp-18-2011",
+ "identity": {
+  "code": "PER-DJP",
+  "number": "18",
+  "variant": null,
+  "year": "2011"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "per-djp-18-2011--b000-1",
+  "per-djp-18-2011--b001-2",
+  "per-djp-18-2011--b002-3",
+  "per-djp-18-2011--b003-4",
+  "per-djp-18-2011--b004-5"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": []
+ },
+ "source_records": [
+  {
+   "date_as_written": "2011-06-30",
+   "detail_error": null,
+   "number_as_written": "PER-18/PJ/2011",
+   "retrieved_at": "2026-10-11T03:18:38+00:00",
+   "source": "DJP",
+   "title_as_written": "PENAMBAHAN WILAYAH KERJA DAN JENIS SURAT PEMBERITAHUAN (SPT) YANG DIOLAH PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DALAM RANGKA UJI COBA PERLUASAN CAKUPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN",
+   "type_as_written": "Peraturan Dirjen Pajak",
+   "url": "https://www.pajak.go.id/id/peraturan/penambahan-wilayah-kerja-dan-jenis-surat-pemberitahuan-spt-yang-diolah-pusat-pengolahan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13933&page=29",
+   "retrieved_at": "2026-10-10T01:42:00+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/penambahan-wilayah-kerja-dan-jenis-surat-pemberitahuan-spt-yang-diolah-pusat-pengolahan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": "biasa",
+ "text": {
+  "available": true,
+  "chars": 5293,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-11T03:18:38+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/penambahan-wilayah-kerja-dan-jenis-surat-pemberitahuan-spt-yang-diolah-pusat-pengolahan"
+ },
+ "title": "PENAMBAHAN WILAYAH KERJA DAN JENIS SURAT PEMBERITAHUAN (SPT) YANG DIOLAH PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN DALAM RANGKA UJI COBA PERLUASAN CAKUPAN WILAYAH KERJA PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN"
+}

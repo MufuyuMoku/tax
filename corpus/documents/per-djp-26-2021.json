@@ -3,6 +3,10 @@
  "categories": [
   {
    "asal": "daftar_djp",
+   "kategori": "Bea Meterai"
+  },
+  {
+   "asal": "daftar_djp",
    "kategori": "KUP"
   }
  ],
@@ -16,6 +20,7 @@
  },
  "identity_conflicts": [],
  "original_files": [],
+ "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-26-2021--b000-1",
   "per-djp-26-2021--b001-2",
@@ -25,7 +30,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-2-2023",
+    "key": [
+     "PER-DJP",
+     "2",
+     "2023",
+     null
+    ],
+    "number_as_written": "PER-2/PJ/2023",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-26/PJ/2021 tentang Tata Cara Pemungutan Bea Meterai Dalam Hal Terjadi Kegagalan Sistem Meterai Elektronik, diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-26/PJ/2021 TENTANG TATA CARA PEMUNGUTAN BEA METERAI DALAM HAL TERJADI KEGAGALAN SISTEM METERAI ELEKTRONIK"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [],

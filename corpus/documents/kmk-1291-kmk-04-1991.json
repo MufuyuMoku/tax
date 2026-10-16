@@ -1,0 +1,111 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1291-kmk-04-1991",
+ "identity": {
+  "code": "KMK",
+  "number": "1291/KMK.04",
+  "variant": null,
+  "year": "1991"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENUNJUKAN TENAGA AHLI TERTENTU UNTUK MELAKUKAN VERIFIKASI PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-tenaga-ahli-tertentu-untuk-melakukan-verifikasi-pajak-pertambahan-nilai-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PEMBERIAN SURAT KETERANGAN FISKAL LUAR NEGERI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-pemberian-surat-keterangan-fiskal-luar-negeri-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 3 SAMPAI DENGAN 9 JANUARI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-58"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 21 SAMPAI DENGAN 27 FEBRUARI 2000",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-91"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "RALAT LAMPIRAN 4 KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR : KEP-17/PJ/2002 TANGGAL 9 JANUARI 2002 TENTANG BENTUK, JENIS DAN KODE KARTU, FORMULIR, SURAT DAN DAFTAR YANG DIGUNAKAN DALAM PELAKSANAAN PEMERIKSAAN LAPANGAN",
+    "url": "https://www.pajak.go.id/id/peraturan/ralat-lampiran-4-keputusan-direktur-jenderal-pajak-nomor-kep-17pj2002-tanggal-9-januari"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENETAPAN JENIS, KODE, WARNA DAN BENTUK FORMULIR SURAT SETORAN PAJAK ATAS IMPOR BARANG (KHUSUS GIRO POS) SERTA BUKU PENUNTUN KHUSUS CARA PENGISIANNYA",
+    "url": "https://www.pajak.go.id/id/peraturan/penetapan-jenis-kode-warna-dan-bentuk-formulir-surat-setoran-pajak-atas-impor-barang"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1991-12-31",
+   "detail_error": null,
+   "number_as_written": "1291/KMK.04/1991",
+   "retrieved_at": "2026-10-11T02:43:56+00:00",
+   "source": "DJP",
+   "title_as_written": "BESARNYA FAKTOR PENYESUAIAN BATAS NILAI JUAL BANGUNAN TIDAK KENA PAJAK UNTUK PENETAPAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-faktor-penyesuaian-batas-nilai-jual-bangunan-tidak-kena-pajak-untuk-penetapan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=41",
+   "retrieved_at": "2026-10-10T01:24:51+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/besarnya-faktor-penyesuaian-batas-nilai-jual-bangunan-tidak-kena-pajak-untuk-penetapan",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "BESARNYA FAKTOR PENYESUAIAN BATAS NILAI JUAL BANGUNAN TIDAK KENA PAJAK UNTUK PENETAPAN PAJAK BUMI DAN BANGUNAN"
+}

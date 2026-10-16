@@ -1,0 +1,178 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-207-kmk-04-1995",
+ "identity": {
+  "code": "KMK",
+  "number": "207/KMK.04",
+  "variant": null,
+  "year": "1995"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 12 TAHUN 1985 TENTANG PAJAK BUMI DAN BANGUNAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-undang-undang-nomor-12-tahun-1985-tentang-pajak-bumi-dan-bangunan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN PEMERINTAH DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-pemerintah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN KEPUTUSAN PRESIDEN NOMOR 77 TAHUN 1985 TENTANG PENGENAAN, PEMUNGUTAN, DAN PEMBAGIAN IURAN HASIL HUTAN",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keputusan-presiden-nomor-77-tahun-1985-tentang-pengenaan-pemungutan-dan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PERUBAHAN ATAS KEPUTUSAN PRESIDEN NOMOR 18 TAHUN 1986 TENTANG PAJAK PERTAMBAHAN NILAI YANG TERUTANG ATAS IMPOR DAN PENYERAHAN BARANG KENA PAJAK DAN JASA KENA PAJAK TERTENTU YANG DITANGGUNG OLEH PEMERINTAH SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR DENGAN KEPUTUSAN PRESIDEN NOMOR 59 TAHUN 1988",
+    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-presiden-nomor-18-tahun-1986-tentang-pajak-pertambahan-nilai"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK LUAR NEGERI YANG BERGERAK DI BIDANG USAHA PELAYARAN ATAU PENERBANGAN DALAM JALUR INTERNASIONAL",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-luar-negeri-yang-bergerak-di"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGGUNAAN PENERIMAAN PAJAK BUMI DAN BANGUNAN BAGIAN PEMERINTAH PUSAT",
+    "url": "https://www.pajak.go.id/id/peraturan/penggunaan-penerimaan-pajak-bumi-dan-bangunan-bagian-pemerintah-pusat"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NORMA PENGHITUNGAN KHUSUS PENGHASILAN NETO BAGI WAJIB PAJAK YANG BERGERAK DI BIDANG USAHA PELAYARAN ATAU PENERBANGAN",
+    "url": "https://www.pajak.go.id/id/peraturan/norma-penghitungan-khusus-penghasilan-neto-bagi-wajib-pajak-yang-bergerak-di-bidang-usaha"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK, PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK EKSPOR, DAN PAJAK PENGHASILAN YANG BERLAKU UNTUK TANGGAL 22 SAMPAI DENGAN 28 SEPTEMBER 2003",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masuk-pajak-pertambahan-nilai-barang-dan-jasa-256"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "NILAI KURS SEBAGAI DASAR PELUNASAN BEA MASUK/PAJAK PENGHASILAN UNTUK BULAN JANUARI, FEBRUARI, DAN MARET 1986",
+    "url": "https://www.pajak.go.id/id/peraturan/nilai-kurs-sebagai-dasar-pelunasan-bea-masukpajak-penghasilan-untuk-bulan-januari"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "JANGKA WAKTU PENDAFTARAN DAN PELAPORAN KEGIATAN USAHA, TATA CARA PENDAFTARAN DAN PENGHAPUSAN NOMOR POKOK WAJIB PAJAK, SERTA PENGUKUHAN DAN PENCABUTAN PENGUKUHAN PENGUSAHA KENA PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/jangka-waktu-pendaftaran-dan-pelaporan-kegiatan-usaha-tata-cara-pendaftaran-dan-0"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "FAKTUR PAJAK SEDERHANA",
+    "url": "https://www.pajak.go.id/id/peraturan/faktur-pajak-sederhana"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENAMBAHAN DAN PENYEMPURNAAN FORMULIR SURAT SETORAN PAJAK",
+    "url": "https://www.pajak.go.id/id/peraturan/penambahan-dan-penyempurnaan-formulir-surat-setoran-pajak"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PENGAKUAN PENGHASILAN ATAS PEMBEBASAN UTANG BAGI WAJIB PAJAK TERTENTU",
+    "url": "https://www.pajak.go.id/id/peraturan/pengakuan-penghasilan-atas-pembebasan-utang-bagi-wajib-pajak-tertentu"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 83/KMK.04/1994 — Pemgunaan Penerimaan Pajak Bumi dan Bangunan Bagi Pemerintah Pusat.",
+    "url": "https://jdih.kemenkeu.go.id/dok/83-kmk-04-1994"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1995-05-17",
+   "detail_error": null,
+   "number_as_written": "207/KMK.04/1995",
+   "retrieved_at": "2026-10-11T03:09:00+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 83/KMK.04/1994 TANGGAL 19 MARET 1994 TENTANG PENGGUNAAN PENERIMAAN PAJAK BUMI DAN BANGUNAN BAGIAN PEMERINTAH PUSAT",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-83kmk041994-tanggal-19"
+  },
+  {
+   "date_as_written": "1995-05-17 00:00:00",
+   "number_as_written": "207/KMK.04/1995",
+   "page_retrieved_at": "2026-10-11T02:00:25+00:00",
+   "retrieved_at": "2026-09-21T14:53:30+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Kepmenkeu Ri No. 83/KMK.04/1994 Tanggal 19 Maret 1994 tentang Penggunaan Penerimaan Pajak Bumi dan Bangunan Bagian Pemerintah Pusat",
+   "type_as_written": "Keputusan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/207-kmk-04-1995",
+   "validity_as_written": "17 Mei 1995 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=38",
+   "retrieved_at": "2026-10-10T01:23:47+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-keputusan-menteri-keuangan-republik-indonesia-nomor-83kmk041994-tanggal-19",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Keputusan+Menteri&order=desc&page=98",
+   "retrieved_at": "2026-09-21T14:53:30+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/207-kmk-04-1995",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PERUBAHAN ATAS KEPUTUSAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 83/KMK.04/1994 TANGGAL 19 MARET 1994 TENTANG PENGGUNAAN PENERIMAAN PAJAK BUMI DAN BANGUNAN BAGIAN PEMERINTAH PUSAT"
+}

@@ -1,0 +1,99 @@
+{
+ "attachments": [],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "PBB"
+  }
+ ],
+ "category": "substantif",
+ "id": "kmk-1010-kmk-04-1985",
+ "identity": {
+  "code": "KMK",
+  "number": "1010/KMK.04",
+  "variant": null,
+  "year": "1985"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": "pbb_bphtb",
+ "pasal_ids": [],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PEMBAGIAN HASIL PENERIMAAN PAJAK BUMI DAN BANGUNAN ANTARA PEMERINTAH PUSAT DAN PEMERINTAH DAERAH",
+    "url": "https://www.pajak.go.id/id/peraturan/pembagian-hasil-penerimaan-pajak-bumi-dan-bangunan-antara-pemerintah-pusat-dan-pemerintah"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BATASAN DAN TATA CARA PENGENAAN PAJAK PERTAMBAHAN NILAI ATAS KEGIATAN MEMBANGUN SENDIRI YANG DILAKUKAN TIDAK DALAM KEGIATAN USAHA ATAU PEKERJAAN OLEH ORANG PRIBADI ATAU BADAN YANG HASILNYA DIGUNAKAN SENDIRI ATAU DIGUNAKAN PIHAK LAIN",
+    "url": "https://www.pajak.go.id/id/peraturan/batasan-dan-tata-cara-pengenaan-pajak-pertambahan-nilai-atas-kegiatan-membangun-sendiri"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BATASAN BUKU-BUKU PELAJARAN UMUM, KITAB SUCI DAN BUKU-BUKU PELAJARAN AGAMA YANG ATAS IMPOR DAN ATAU PENYERAHANNYA DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+    "url": "https://www.pajak.go.id/id/peraturan/batasan-buku-buku-pelajaran-umum-kitab-suci-dan-buku-buku-pelajaran-agama-yang-atas-impor"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "BATAS BUNGA SIMPANAN ANGGOTA KOPERASI YANG TIDAK DIPOTONG PAJAK PENGHASILAN",
+    "url": "https://www.pajak.go.id/id/peraturan/batas-bunga-simpanan-anggota-koperasi-yang-tidak-dipotong-pajak-penghasilan"
+   },
+   {
+    "note": "sumber tidak menyebutkan jenis relasinya",
+    "source": "DJP",
+    "text": "PELAKSANAAN PERATURAN PEMERINTAH NOMOR 7 TAHUN 1995 TENTANG PERUBAHAN TARIF BEA METERAI",
+    "url": "https://www.pajak.go.id/id/peraturan/pelaksanaan-peraturan-pemerintah-nomor-7-tahun-1995-tentang-perubahan-tarif-bea-meterai"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "1985-12-28",
+   "detail_error": null,
+   "number_as_written": "1010/KMK.04/1985",
+   "retrieved_at": "2026-10-11T02:50:34+00:00",
+   "source": "DJP",
+   "title_as_written": "PEMBAGIAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN",
+   "type_as_written": "Keputusan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-biaya-pemungutan-pajak-bumi-dan-bangunan"
+  }
+ ],
+ "status": {
+  "note": "klaim DJP saja; belum dibandingkan dengan sumber lain",
+  "reasons": [],
+  "value": "tidak_berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13930&page=45",
+   "retrieved_at": "2026-10-10T01:26:20+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/pembagian-biaya-pemungutan-pajak-bumi-dan-bangunan",
+   "value_normalized": "tidak_berlaku",
+   "value_verbatim": "Dicabut"
+  }
+ ],
+ "structure": null,
+ "text": {
+  "available": false,
+  "chars": 0,
+  "format": null,
+  "other_postings": [],
+  "retrieved_at": null,
+  "source": null,
+  "unavailable_reason": "halaman sumber hanya memuat metadata, tanpa teks dan tanpa lampiran",
+  "url": null
+ },
+ "title": "PEMBAGIAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN"
+}
