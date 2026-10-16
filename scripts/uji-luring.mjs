@@ -211,7 +211,8 @@ try {
   const offer = await text("#tawaran-teks");
   const samePage = await js("window.__tandaBaca === 'masih halaman yang sama'");
   check("pembaruan ditawarkan tanpa memuat ulang halaman", samePage, offer);
-  const fetched = requests.filter((p) => p !== `${BASE}` && !p.endsWith("sw.js"));
+  // pemeriksaan.json is read by the page itself on every visit (M9, K-091), not by the service worker.
+  const fetched = requests.filter((p) => p !== `${BASE}` && !p.endsWith("sw.js") && p !== `${BASE}pemeriksaan.json`);
   check("hanya berkas yang berubah diunduh", fetched.length === 1 && fetched[0].endsWith("luring/data/00.json"), fetched.join(", ") || "tidak ada");
   await shot("tawaran-pembaruan");
 
