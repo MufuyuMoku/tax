@@ -38,7 +38,7 @@ import sys
 from bs4 import BeautifulSoup
 
 from . import config, net_guard
-from .harvest import BASE, CATEGORIES, LIST, OUT_OF_SCOPE, STOP_SIGNAL, append_jsonl, parse_detail, read_jsonl, rows
+from .harvest import BASE, CATEGORIES, LIST, OUT_OF_SCOPE, STOP_SIGNAL, append_jsonl, lainnya_in_scope, parse_detail, read_jsonl, rows
 from .polite import CapReached, Fetcher, HostStopped, NotFound, RoundOver, TransientError
 
 # PPh's list came from the proof of concept; it is updated like the others.
@@ -106,6 +106,7 @@ class Run:
         self.requests = 0
         self.counts = {"halaman_baru": 0, "halaman_sapu": 0, "baru": 0, "berubah": 0, "petunjuk": 0, "detail": 0, "gagal": 0}
         self.details = {}  # path -> reason, in order
+        self.lainnya = lainnya_in_scope()
 
     def budget(self):
         return not STOP_SIGNAL.exists() and (self.limit is None or self.requests < self.limit)
@@ -130,7 +131,10 @@ class Run:
                 record["_berubah"] = differs(old, row)
             found.append(record)
             self.known[row["path"]] = record
-            if reason != "sama" and not OUT_OF_SCOPE.search(row.get("judul") or ""):
+            # "Lainnya" outside the owner's scope, or not decided yet, is not fetched (K-088): a new one
+            # waits for scripts/cakupan-lainnya.mjs and, when it enters, for pipeline.harvest.
+            out_of_lainnya = name == "Lainnya" and row["path"] not in self.lainnya
+            if reason != "sama" and not OUT_OF_SCOPE.search(row.get("judul") or "") and not out_of_lainnya:
                 self.details.setdefault(row["path"], reason)
                 self.counts[reason] += 1
         append_jsonl(LIST_OUT, found)

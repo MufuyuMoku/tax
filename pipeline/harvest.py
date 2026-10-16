@@ -191,10 +191,13 @@ def lainnya_in_scope():
 
 def detail_queue(name):
     """Paths in this category's list that still need their detail page."""
-    have = pph_paths() | {d["path"] for d in read_jsonl(DETAIL_OUT) if d.get("error") in (None, NOT_FOUND)}
+    have = pph_paths() | {d["path"] for d in read_jsonl(DETAIL_OUT) + read_jsonl(config.HARVEST_UPDATE_DETAIL)
+                          if d.get("error") in (None, NOT_FOUND)}
     wanted = lainnya_in_scope() if name == "Lainnya" else None
     queue = []
-    for row in read_jsonl(LIST_OUT):
+    # Rows found by the automatic update (M9) are queued too, e.g. a new "Lainnya" regulation that
+    # entered the scope after the update listed it.
+    for row in read_jsonl(LIST_OUT) + read_jsonl(config.HARVEST_UPDATE_LIST):
         path = row.get("path")
         if row["_kategori_daftar"] != name or not path or path in have or path in queue:
             continue

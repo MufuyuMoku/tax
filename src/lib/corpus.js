@@ -3,7 +3,8 @@ import fs from "node:fs";
 import path from "node:path";
 import { compactClaims } from "./render/chips.js";
 
-const CORPUS = path.join(process.cwd(), "corpus");
+// TAX_CORPUS: build from another corpus, for the end-to-end update test (M9, K-091).
+const CORPUS = process.env.TAX_CORPUS || path.join(process.cwd(), "corpus");
 
 function readJson(file) {
   return JSON.parse(fs.readFileSync(file, "utf8"));

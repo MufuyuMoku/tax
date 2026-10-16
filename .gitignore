@@ -41,3 +41,8 @@ harvest/jdih/*.lock
 harvest/jdih/files/
 harvest/jdih/*.log
 harvest/jdih/*.log.err
+
+# Automatic update (M9): run reports and the end-to-end test build, never committed
+otomatis-laporan.md
+otomatis-hasil.json
+dist-sebelum/

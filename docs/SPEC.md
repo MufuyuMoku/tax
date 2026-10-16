@@ -15,6 +15,7 @@ di bawah menunjuk ke berkas itu.
   - Syarat jam pengambilan "di atas pukul 21.00 WIB" dicabut, dan VPN dinyatakan termasuk proxy
     (bagian 8). Alasannya: pola kegagalan per jam di laporan bagian 12 kemungkinan tercampur
     pemakaian VPN di mesin pemilik saat itu.
+- **2026-10-16**, keputusan pemilik: milestone baru M9, pembaruan otomatis (bagian 7).
 - **2026-10-10**, keputusan pemilik:
   - Urutan: M8 (penyiapan rilis) dikerjakan dan diterbitkan lebih dulu sebagai v1.0.0, dengan
     cakupan PPh, KUP, PPN dan nama tampilan "Saku Pajak". M7 (kategori lain dan pembaruan
@@ -194,6 +195,22 @@ dan PPN.
 **Selesai bila:** halaman batasan memuat angka nyata (cakupan, ketidakpastian status, ketepatan
 relasi) dan tanggal data; versi aplikasi (semver) dan versi data (tanggal) tampil terpisah;
 penyerahan tercatat; tag git v1.0.0.
+
+### M9 — pembaruan otomatis
+Data terbarui tanpa pemilik menjalankan apa pun, tanpa melanggar bagian 8, dan tanpa pernah
+menerbitkan situs yang rusak (pemilik, 2026-10-16).
+**Selesai bila:**
+- tempat menjalankan diuji dulu;
+- pengambilan harian hanya mengambil yang baru dan berubah (DJP dan JDIH) dan berhenti sendiri bila
+  host menolak;
+- terbit paling sering seminggu sekali, hanya bila data berubah, dan hanya bila build, pemeriksaan
+  invarian, `npm test`, pemeriksaan halaman identik, dan uji luring lulus;
+- penurunan per pertanyaan dilaporkan, tidak menahan terbit; median yang memburuk melewati batas
+  menahan terbit;
+- setiap kegagalan, penolakan, dan terbit yang ditahan membuka issue;
+- HP menerima data baru tanpa langkah manual dan menampilkan "terakhir diperiksa", "terakhir
+  berubah", serta halaman "Peraturan baru dan yang berubah";
+- uji ujung ke ujung dengan data tiruan lulus untuk jalur berhasil dan jalur gagal.
 
 ## 8. Aturan pengambilan data
 

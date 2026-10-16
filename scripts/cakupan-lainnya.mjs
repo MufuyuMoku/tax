@@ -64,14 +64,14 @@ function classify(row) {
 }
 
 const jsonl = (file) => (fs.existsSync(file) ? fs.readFileSync(file, "utf8").split("\n").filter(Boolean).map((l) => JSON.parse(l)) : []);
-const index = JSON.parse(fs.readFileSync("corpus/index.json", "utf8"));
+// TAX_HARVEST: the same folder the pipeline uses (M9 end-to-end test, K-091).
+const HARVEST = process.env.TAX_HARVEST || "harvest";
+// "Elsewhere" means another category list of the catalogue (PPh from the proof of concept, the others
+// from the harvest and the update). Not the corpus: since v1.1 the corpus also holds "Lainnya".
 const elsewhere = new Set();
-for (const entry of index) {
-  const doc = JSON.parse(fs.readFileSync(`corpus/documents/${entry.id}.json`, "utf8"));
-  for (const r of doc.source_records) if (r.source === "DJP") elsewhere.add(r.url.replace("https://www.pajak.go.id", ""));
-}
 for (const r of jsonl("poc/data/djp_pph_list.jsonl")) if (r.path) elsewhere.add(r.path);
-const lists = jsonl("harvest/djp_list.jsonl");
+// Rows found by the automatic update (M9) count too: a new "Lainnya" regulation gets its proposal.
+const lists = [...jsonl(`${HARVEST}/djp_list.jsonl`), ...jsonl(`${HARVEST}/pembaruan_daftar.jsonl`)];
 for (const r of lists) if (r.path && r._kategori_daftar !== "Lainnya") elsewhere.add(r.path);
 
 const candidates = new Map();

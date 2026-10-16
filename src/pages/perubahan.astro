@@ -1,0 +1,61 @@
+---
+// "Peraturan baru dan yang berubah" (M9, K-091): one section per data update, newest first, from
+// src/data/perubahan.json. Status changes are per source, in the source's own words, with the date
+// they were read (SPEC invariant 1). Stored for offline use like the other pages.
+import fs from "node:fs";
+import path from "node:path";
+import Base from "../layouts/Base.astro";
+import { APP_NAME } from "../lib/brand.js";
+import { formatDate } from "../lib/labels.js";
+
+const base = import.meta.env.BASE_URL;
+const log = JSON.parse(fs.readFileSync(path.join(process.cwd(), "src", "data", "perubahan.json"), "utf8")).pembaruan;
+const known = new Set(fs.readdirSync(path.join(process.env.TAX_CORPUS || path.join(process.cwd(), "corpus"), "documents")).map((f) => f.replace(/\.json$/, "")));
+const link = (id, text) => (known.has(id) ? `<a href="${base}dokumen/${id}/">${text}</a>` : text);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+---
+
+<Base title={`Peraturan baru dan yang berubah — ${APP_NAME}`} description="Peraturan yang baru masuk dan status yang berubah per pembaruan data">
+  <p class="breadcrumb"><a href={base}>← Cari peraturan</a></p>
+  <h1>Peraturan baru dan yang berubah</h1>
+  <p class="lead">
+    Data diperiksa otomatis di situs DJP dan JDIH. Setiap pembaruan yang mengubah data dicatat di sini:
+    peraturan yang baru masuk, dan status yang berubah menurut tiap sumber, apa adanya.
+  </p>
+  {log.length === 0 && <p class="hint">Belum ada pembaruan data sejak versi 1.1.0 (data 16 Okt 2026).</p>}
+  {log.map((entry) => (
+    <section class="pembaruan">
+      <h2>{formatDate(entry.tanggal)}</h2>
+      {entry.baru.length > 0 && (
+        <>
+          <h3>Peraturan baru ({entry.baru.length})</h3>
+          <ul>
+            {entry.baru.map((d) => (
+              <li>
+                <Fragment set:html={link(d.id, `<strong>${esc(d.label)}</strong>`)} /> — {d.judul}
+                {d.kategori.length > 0 && <span class="hint"> · {d.kategori.join(", ")}</span>}
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+      {entry.status_berubah.length > 0 && (
+        <>
+          <h3>Status yang berubah menurut sumber ({entry.status_berubah.length})</h3>
+          <ul>
+            {entry.status_berubah.map((c) => (
+              <li>
+                <Fragment set:html={link(c.id, `<strong>${esc(c.label)}</strong>`)} /> — {c.sumber}:{" "}
+                {c.sebelum ? <>“{c.sebelum}” → “{c.sesudah}”</> : <>kini mencatat “{c.sesudah}”</>}
+                <span class="hint"> (diambil {formatDate(c.diambil)})</span>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+      {entry.tidak_ada_lagi.length > 0 && (
+        <p class="hint">{entry.tidak_ada_lagi.length} peraturan tidak lagi ada di data situs ini.</p>
+      )}
+    </section>
+  ))}
+</Base>

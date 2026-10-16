@@ -162,12 +162,46 @@ function startCopy() {
   }
 }
 
+// ---------- when the data was last checked and last changed (M9, K-091) ----------
+// pemeriksaan.json is not kept by the service worker, so it can change every week without making
+// phones download anything. Online: read it fresh and remember it. Offline: show what was remembered.
+async function showChecks(base) {
+  let info = null;
+  if (navigator.onLine) {
+    try {
+      const response = await fetch(`${base}pemeriksaan.json`, { cache: "no-store" });
+      if (response.ok) info = await response.json();
+      if (info) localStorage.setItem("tax-pemeriksaan", JSON.stringify(info));
+    } catch {
+      // offline after all, or blocked: fall back to what was remembered
+    }
+  }
+  if (!info) {
+    try {
+      info = JSON.parse(localStorage.getItem("tax-pemeriksaan") || "null");
+    } catch {
+      info = null;
+    }
+  }
+  if (!info) return;
+  const checked = info.terakhir_diperiksa ? date(info.terakhir_diperiksa.slice(0, 10)) : null;
+  const changed = info.terakhir_berubah ? date(info.terakhir_berubah.slice(0, 10)) : null;
+  if (checked) $("ringkas-periksa").textContent = `· diperiksa ${checked}`;
+  const note = $("keadaan-periksa");
+  const link = note.querySelector("a");
+  note.textContent =
+    `Terakhir diperiksa: ${checked || "belum"}. Terakhir berubah: ${changed || "belum diketahui"}. ` +
+    "Lihat ";
+  if (link) note.append(link, ".");
+}
+
 // ---------- the service worker ----------
 async function startOfflineStatus(base) {
   startAppearance();
   startShortcut(base);
   startCopy();
   showNetwork();
+  showChecks(base);
   window.addEventListener("online", showNetwork);
   window.addEventListener("offline", showNetwork);
 

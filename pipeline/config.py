@@ -4,13 +4,16 @@ Input is the proof-of-concept archive under poc/. The pipeline never makes netwo
 everything it needs was fetched during the proof of concept and is committed (except the raw
 page archive and the HTTP cache, which are deliberately kept out of the repository).
 """
+import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 POC = ROOT / "poc"
 POC_DATA = POC / "data"
 POC_TEXT = POC / "text"
-CORPUS = ROOT / "corpus"
+# TAX_CORPUS and TAX_HARVEST let a test build from copied, altered data without touching the
+# published data (M9 end-to-end test, K-091).
+CORPUS = Path(os.environ.get("TAX_CORPUS") or ROOT / "corpus")
 
 # Input files, all produced by the proof of concept.
 IN_DJP_LIST = POC_DATA / "djp_pph_list.jsonl"
@@ -33,12 +36,18 @@ OUT_OF_SCOPE_TITLE = (
 # M5: KUP and PPN are fetched from the DJP catalogue by pipeline/harvest.py. Fetched lists and
 # details (text included) are committed here, like poc/data, so the corpus can be rebuilt without
 # the network. The HTTP cache and lock files are not committed.
-HARVEST = ROOT / "harvest"
+HARVEST = Path(os.environ.get("TAX_HARVEST") or ROOT / "harvest")
 HARVEST_DJP_LIST = HARVEST / "djp_list.jsonl"
 HARVEST_DJP_DETAIL = HARVEST / "djp_detail.jsonl"
 HARVEST_JDIH_DETAIL = HARVEST / "jdih" / "jdih_detail.jsonl"
 HARVEST_JDIH_TEXT = HARVEST / "jdih" / "teks_berkas.jsonl"  # scripts/jdih-pdf-text.mjs (K-055)
-HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HARVEST_JDIH_TEXT]
+# M9 (K-091): what the automatic update adds. Read by pipeline/build.py when present; the latest
+# list row and the latest detail of a regulation win.
+HARVEST_UPDATE_LIST = HARVEST / "pembaruan_daftar.jsonl"
+HARVEST_UPDATE_DETAIL = HARVEST / "pembaruan_detail.jsonl"
+HARVEST_JDIH_LIST_NEW = HARVEST / "jdih" / "jdih_daftar_baru.jsonl"
+HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HARVEST_JDIH_TEXT,
+                  HARVEST_UPDATE_LIST, HARVEST_UPDATE_DETAIL, HARVEST_JDIH_LIST_NEW]
 
 # Categories of the DJP catalogue that are in the corpus. M5 runs in two stages (SPEC section 7):
 # KUP first, then PPN (2026-10-09). PPh comes from the proof of concept.

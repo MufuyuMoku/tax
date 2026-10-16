@@ -67,10 +67,12 @@ const dataVersion = formatDate(dataDate());
       <details class="keadaan" id="keadaan-situs">
         <summary>
           <span>Data per {dataVersion}</span>
+          <span id="ringkas-periksa"></span>
           <span id="ringkas-simpan"></span>
           <span id="keadaan-jaringan"></span>
         </summary>
         <p>Versi aplikasi {appVersion} · versi data {dataVersion} (data sumber diambil sampai tanggal itu).</p>
+        <p id="keadaan-periksa">Data diperiksa otomatis di sumbernya; lihat <a href={`${base}perubahan/`}>peraturan baru dan yang berubah</a>.</p>
         <p id="keadaan-simpan">Belum tersimpan untuk dipakai luring.</p>
       </details>
       <div class="notice tawaran" id="tawaran-baru" hidden>
@@ -95,6 +97,7 @@ const dataVersion = formatDate(dataDate());
         <p class="versi">
           {APP_NAME} {appVersion} · data {dataVersion} ·
           <a href={`${base}apa-yang-baru/`}>Apa yang baru</a> ·
+          <a href={`${base}perubahan/`}>Peraturan baru dan yang berubah</a> ·
           <a href={`${base}tentang/`}>Tentang dan batasan</a>
         </p>
       </footer>

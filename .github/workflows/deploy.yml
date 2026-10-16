@@ -3,6 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # Fetched data alone changes nothing on the site; the automatic update starts this workflow
+    # itself when it publishes (M9, K-091).
+    paths-ignore: ["harvest/**"]
   workflow_dispatch:
 
 permissions:

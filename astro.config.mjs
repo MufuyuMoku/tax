@@ -9,6 +9,8 @@ export default defineConfig({
   base: "/tax",
   trailingSlash: "always",
   build: { format: "directory" },
+  // TAX_DIST: build into another folder, for the end-to-end update test (M9, K-091).
+  outDir: process.env.TAX_DIST || "./dist",
   // Offline page data, the check that offline pages equal the published ones, and sw.js (K-082).
   integrations: [offline()],
 });

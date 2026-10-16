@@ -55,7 +55,9 @@ def collect():
     # category list a row was found in is kept as provenance (K-051), never the source's own
     # classification fields.
     details = {}
-    for path in (config.IN_DJP_DETAIL, config.HARVEST_DJP_DETAIL):
+    # The automatic update (M9, K-091) fetches details again for new and changed regulations: read
+    # last, so the newest detail wins.
+    for path in (config.IN_DJP_DETAIL, config.HARVEST_DJP_DETAIL, config.HARVEST_UPDATE_DETAIL):
         for row in _read_optional(path):
             if row.get("error"):
                 details.setdefault(row["path"], row)
@@ -66,11 +68,29 @@ def collect():
     # carry the local-tax note (K-086).
     scope = json.loads(config.SCOPE_LAINNYA.read_text(encoding="utf8"))["peraturan"] if config.SCOPE_LAINNYA.exists() else []
     lainnya_in = {e["path"]: e["kelompok"] for e in scope if e.get("masuk") is True}
+    def wanted_row(row):
+        name = row["_kategori_daftar"]
+        return (name == "PPh" or name in config.DJP_CATEGORIES) and (name != "Lainnya" or row.get("path") in lainnya_in)
+
+    def shown(name):
+        return config.CATEGORY_NAMES.get(name, name)
+
     djp_rows = [(row, "PPh") for row in read_jsonl(config.IN_DJP_LIST)]
-    djp_rows += [(row, config.CATEGORY_NAMES.get(row["_kategori_daftar"], row["_kategori_daftar"]))
-                 for row in _read_optional(config.HARVEST_DJP_LIST)
-                 if row["_kategori_daftar"] in config.DJP_CATEGORIES
-                 and (row["_kategori_daftar"] != "Lainnya" or row.get("path") in lainnya_in)]
+    djp_rows += [(row, shown(row["_kategori_daftar"])) for row in _read_optional(config.HARVEST_DJP_LIST) if wanted_row(row)]
+    # The automatic update (M9, K-091): for a regulation already listed, the newest row of the same
+    # category list replaces the old one (status, title, number as the source now writes them);
+    # a regulation never listed before is added.
+    latest = {}
+    for row in _read_optional(config.HARVEST_UPDATE_LIST):
+        # A row the update saw unchanged ("sama") does not replace the old one: otherwise every sweep
+        # would move retrieval dates, count as a data change, and make phones download again.
+        if row.get("_alasan") == "sama":
+            continue
+        if row.get("path") and wanted_row(row):
+            latest[(row["path"], shown(row["_kategori_daftar"]))] = row
+    listed = {(row.get("path"), category) for row, category in djp_rows}
+    djp_rows = [(latest.get((row.get("path"), category), row), category) for row, category in djp_rows]
+    djp_rows += [(row, category) for (path, category), row in sorted(latest.items()) if (path, category) not in listed]
 
     seen_urls = {}
     for row, category in djp_rows:
@@ -129,6 +149,9 @@ def collect():
     # validity period, and for the PPh documents only JDIH has, the full text when it passes the
     # text quality rule (K-055).
     jdih_meta = {row["slug"]: row for row in read_jsonl(config.IN_JDIH_META)}
+    # JDIH documents listed after the proof of concept's listing (M9, K-091): newest row wins.
+    for row in _read_optional(config.HARVEST_JDIH_LIST_NEW):
+        jdih_meta[row["slug"]] = row
     jdih_detail = {row["slug"]: row for row in read_jsonl(config.IN_JDIH_DETAIL) if not row.get("error")}
     m5_detail = {row["slug"]: row for row in _read_optional(config.HARVEST_JDIH_DETAIL) if not row.get("error")}
     m5_text = {row["slug"]: row for row in _read_optional(config.HARVEST_JDIH_TEXT)}

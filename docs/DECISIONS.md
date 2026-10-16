@@ -1653,3 +1653,71 @@ dengan pengambil, user agent, dan jeda 20 detik yang sama seperti setiap pengamb
 
 **Hasil 2026-10-16** (run 38836122298): DJP robots.txt 200, halaman daftar 200 (83 KB); JDIH robots.txt
 200, halaman pencarian 200 (152 KB). Kedua host terjangkau dari GitHub Actions.
+
+## K-091 — M9: alur pembaruan otomatis di GitHub Actions
+Tanggal: 2026-10-16 · Milestone: M9 · Status: berlaku
+
+**Tempat:** GitHub Actions (lolos uji K-090), `.github/workflows/pembaruan.yml`.
+
+**Jadwal:**
+- **Setiap hari pukul 02.00 WIB:** `python -m pipeline.otomatis harian`.
+- **Setiap hari Minggu:** juga `python -m pipeline.otomatis terbit`.
+- **Manual:** pilih langkah, `paksa`, atau `uji` lewat "Run workflow".
+
+**Harian** (aturan bagian 8 lewat `polite.py`; penolakan menghentikan host itu sampai manusia
+mencabutnya):
+1. DJP baru, berubah, dan petunjuk terkait (`pipeline.pembaruan`).
+2. Cakupan "Lainnya" untuk baris baru (`scripts/cakupan-lainnya.mjs`). Yang meragukan tidak
+   diambil dan dilaporkan.
+3. Detail DJP yang kurang (`pipeline.harvest`). Detail "Lainnya" baru hanya diambil setelah masuk
+   cakupan.
+4. Daftar JDIH sejak 21 September (`jdih_harvest daftar-baru`): halaman 1 tiap jenis, lanjut hanya
+   bila masih ada yang baru, putusan dilewati.
+5. Status JDIH dokumen baru (`jdih_harvest jalan`).
+
+Hasilnya di-commit sebagai bot GitHub Actions (`github-actions[bot]`, alamat noreply), bukan
+identitas global.
+
+**Build membaca pembaruan:**
+- Baris daftar terbaru per peraturan dan kategori menggantikan yang lama, detail terbaru menang, dan
+  daftar JDIH baru ikut dibaca.
+- Baris yang dilihat "sama" tidak dipakai. Kalau dipakai, setiap sapuan menggeser tanggal ambil,
+  terhitung berubah, dan memaksa HP mengunduh ulang.
+- Selama berkas pembaruan kosong, korpus v1.1 sama persis (diperiksa dengan diff).
+
+**Terbit** (mingguan, paling sering 7 hari sekali, hanya bila korpus berubah):
+- korpus dibangun di folder sementara; `checks.py` (invarian) berjalan di dalam build;
+- dibandingkan dengan korpus terbit;
+- catatan perubahan (`scripts/catat-perubahan.mjs` → `src/data/perubahan.json`);
+- penurunan per pertanyaan dicatat dengan tanda `"otomatis": true` dan dilaporkan
+  (`scripts/penurunan-otomatis.mjs`);
+- `npm test`: invarian, kesetaraan hasil, dan gerbang median, yang tetap menahan terbit;
+- build situs: halaman luring identik;
+- uji luring di Chrome tanpa layar.
+
+Satu saja gagal: berkas terbit dikembalikan, tidak ada yang terbit, dan issue dibuka. Bila lulus:
+commit, push, lalu deploy dipicu eksplisit, karena push dengan `GITHUB_TOKEN` tidak memicu workflow
+lain. Jawaban yang hilang sama sekali tidak pernah disetujui otomatis.
+
+**Issue:**
+- `.github/scripts/issue.sh`, berlabel `pembaruan-otomatis`;
+- satu issue terbuka per judul; masalah yang berulang menambah komentar;
+- GitHub mengirimkannya lewat email ke pemilik.
+
+**Tanda hidup:** setiap Minggu `src/data/pemeriksaan.json` mencatat "terakhir diperiksa" dan
+di-commit walau tidak ada perubahan. Ini mencegah jadwal dimatikan GitHub setelah 60 hari repo diam.
+
+**Sisi pengguna:**
+- `pemeriksaan.json` disajikan di samping halaman tetapi tidak disimpan service worker, jadi
+  pemeriksaan mingguan tidak memaksa HP mengunduh apa pun. Penanda membacanya saat daring dan
+  mengingatnya untuk saat luring.
+- Halaman `/perubahan/` ("Peraturan baru dan yang berubah") disimpan untuk luring.
+- Data baru dipasang sendiri saat aplikasi dibuka dari keadaan tertutup: versi baru yang menunggu
+  aktif begitu semua tab tertutup. Bila halaman sedang terbuka, tetap ditawarkan "Muat data baru".
+
+**Uji ujung ke ujung:**
+- Input `uji` memakai checkout sekali pakai di Actions dan tidak pernah push.
+- `pipeline/uji_tiruan.py` menambah satu peraturan baru tiruan dan satu perubahan status. Skrip ini
+  menolak menulis ke `harvest/` sungguhan di luar Actions.
+- `scripts/uji-pembaruan-hp.mjs` menguji sisi HP.
+- `tests/otomatis/uji-gagal.test.mjs` gagal hanya bila `TAX_UJI_GAGAL=1`, untuk jalur gagal.

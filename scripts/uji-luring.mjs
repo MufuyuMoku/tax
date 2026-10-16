@@ -46,7 +46,8 @@ function check(name, ok, detail = "") {
   console.log(`${ok ? "LULUS" : "GAGAL"}  ${name}${detail ? ` — ${detail}` : ""}`);
 }
 
-const chrome = await launch({ port: 9335, headless: false });
+// TAX_CHROME_HEADLESS=1 on a server without a screen (M9 automatic update); a real window otherwise.
+const chrome = await launch({ port: 9335, headless: process.env.TAX_CHROME_HEADLESS === "1" });
 const { targetId } = await chrome.send("Target.createTarget", { url: "about:blank" });
 const { sessionId } = await chrome.send("Target.attachToTarget", { targetId, flatten: true });
 const S = (method, params = {}) => chrome.send(method, params, sessionId);

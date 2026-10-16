@@ -64,6 +64,7 @@ function filesToKeep(dist, base) {
     "koleksi/index.html",
     "cara-pakai/index.html",
     "apa-yang-baru/index.html",
+    "perubahan/index.html",
     "tentang/index.html",
     "luring/kerangka/index.html",
   ];
@@ -123,6 +124,9 @@ export default function offline() {
       },
       "astro:build:done": async ({ dir, logger }) => {
         const dist = fileURLToPath(dir);
+        // When the data was last checked and last changed (M9, K-091): served next to the pages but
+        // not kept by the service worker, so a weekly check never makes phones download anything.
+        fs.copyFileSync(path.join(root, "src", "data", "pemeriksaan.json"), path.join(dist, "pemeriksaan.json"));
         writeShards(dist);
         const { checked, different } = compare(dist, base);
         if (different.length) {

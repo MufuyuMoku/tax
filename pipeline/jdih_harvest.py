@@ -107,11 +107,59 @@ def parse_document(html):
     }
 
 
+# ---------- new listing (M9, K-091) ----------
+# JDIH's search lists every type newest first, ten to a page. Court rulings are out of scope.
+BENTUK = ["Undang-Undang", "Peraturan Pemerintah Pengganti Undang-Undang", "Peraturan Pemerintah",
+          "Peraturan Presiden", "Peraturan Menteri", "Keputusan Menteri", "Peraturan Unit Eselon I",
+          "Keputusan Unit Eselon I", "Lainnya", "Instruksi Menteri"]
+LIST_NEW = config.HARVEST_JDIH_LIST_NEW
+
+
+def new_listing(fetcher, max_pages=3):
+    """Page 1 of each type, then page 2, 3, ... while a page still holds documents never seen (the
+    proof of concept's listing of 2026-09-21 and earlier runs). Returns (requests, new rows)."""
+    known = {row["produk_hukum_id"] for row in read_jsonl(config.IN_JDIH_META)}
+    known |= {row["produk_hukum_id"] for row in read_jsonl(LIST_NEW)}
+    requests, found = 0, 0
+    for bentuk in BENTUK:
+        for page in range(1, max_pages + 1):
+            if STOP_SIGNAL.exists():
+                return requests, found
+            try:
+                html, meta = fetcher.get(BASE + "/search", params={"bentuk": bentuk, "order": "desc", "page": page}, use_cache=False)
+            except TransientError as error:
+                requests += 1
+                print(f"daftar JDIH {bentuk} halaman {page}: gagal ({error}); diulang besok", flush=True)
+                break
+            requests += 1
+            fresh = 0
+            for item in find_json_objects(rsc_payload(html), "produk_hukum_id"):
+                row = item.get("data", item)
+                if "produk_hukum_id" not in row or row["produk_hukum_id"] in known:
+                    continue
+                known.add(row["produk_hukum_id"])
+                row.pop("blocks", None)
+                if isinstance(row.get("abstrak"), str) and row["abstrak"].startswith("$"):
+                    row["abstrak"] = None
+                for field in ("label", "tematik"):
+                    row.pop(field, None)  # the source's classification is never kept (K-010)
+                row["_source_list_url"] = meta["url"]
+                row["_retrieved_at"] = meta["retrieved_at"]
+                append_jsonl(LIST_NEW, row)
+                fresh += 1
+            found += fresh
+            print(f"daftar JDIH {bentuk} halaman {page}: {fresh} baru", flush=True)
+            if fresh == 0:
+                break
+    return requests, found
+
+
 # ---------- queues ----------
 def jdih_listing():
-    """JDIH documents by number key, from the proof of concept's full JDIH listing (2026-09-21)."""
+    """JDIH documents by number key: the proof of concept's full JDIH listing (2026-09-21), then the
+    documents listed since (M9)."""
     by_key, by_slug = {}, {}
-    for row in read_jsonl(config.IN_JDIH_META):
+    for row in read_jsonl(config.IN_JDIH_META) + read_jsonl(LIST_NEW):
         by_slug[row["slug"]] = row
         key = parse(row.get("bentuk"), row.get("nomor"), row.get("judul"))
         if key:
@@ -128,8 +176,11 @@ def queues():
     out_of_scope = re.compile(config.OUT_OF_SCOPE_TITLE, re.I)
     from .harvest import lainnya_in_scope
     lainnya = lainnya_in_scope()
-    for row in read_jsonl(DJP_LIST):
+    # DJP documents found by the automatic update are queued like the others (M9).
+    for row in read_jsonl(DJP_LIST) + read_jsonl(config.HARVEST_UPDATE_LIST):
         name = row["_kategori_daftar"]
+        if name not in out:
+            continue  # PPh list rows of the update: PPh documents only JDIH has are queued below
         if out_of_scope.search(row.get("judul") or ""):
             continue  # weekly exchange-rate and interest-rate decrees (SPEC section 3)
         if name == "Lainnya" and row.get("path") not in lainnya:
@@ -267,7 +318,7 @@ def report():
 
 def main(argv=None):
     parser = argparse.ArgumentParser(prog="python -m pipeline.jdih_harvest")
-    parser.add_argument("perintah", choices=["jalan", "kemajuan", "cek-alamat"])
+    parser.add_argument("perintah", choices=["jalan", "daftar-baru", "kemajuan", "cek-alamat"])
     parser.add_argument("--tanpa-vpn", action="store_true")
     parser.add_argument("--batas", type=int, default=None)
     args = parser.parse_args(argv)
@@ -288,18 +339,23 @@ def main(argv=None):
         for slug, result in results:
             print(f"  /dok/{slug}: {result}")
         return 0
+    code = 0
     try:
         fetcher.acquire()
-        done, end = run(fetcher, args.batas)
+        if args.perintah == "daftar-baru":
+            requests, found = new_listing(fetcher)
+            end = f"daftar baru: {found} dokumen baru dari {requests} permintaan"
+        else:
+            done, end = run(fetcher, args.batas)
     except HostStopped as error:
-        done, end = None, f"JDIH DIHENTIKAN: {error}"
+        end, code = f"JDIH DIHENTIKAN: {error}", 2  # exit 2: a refusal, for the automatic update (M9)
     except (CapReached, RoundOver) as error:
-        done, end = None, f"berhenti untuk putaran ini: {error}"
+        end = f"berhenti untuk putaran ini: {error}"
     finally:
         fetcher.release()
     print(f"putaran JDIH {started} - {now()}: {end}")
     print(report())
-    return 0
+    return code
 
 
 if __name__ == "__main__":

@@ -1,0 +1,132 @@
+# Automatic update (M9, K-090, K-091). Guide for the owner: docs/PEMBARUAN.md.
+#
+# Every day at 02:00 WIB: fetch new and changed regulations (python -m pipeline.otomatis harian) and
+# commit what was fetched. On Sundays also: build, test and, only if everything passes and the data
+# changed, publish (python -m pipeline.otomatis terbit). At most one publication a week; the weekly
+# run always records "terakhir diperiksa", so the repository never sits idle for 60 days.
+# Anything that needs a person (a refusal, a failure, a held publication, a scope decision, rank drops)
+# opens or updates a GitHub issue labelled pembaruan-otomatis, which GitHub e-mails to the owner.
+#
+# Manual runs (Actions > Pembaruan otomatis > Run workflow):
+#   langkah: harian, terbit, or keduanya;  paksa: publish even if the last one is under 7 days old;
+#   uji: berhasil / gagal = end-to-end test on fake data in this throwaway checkout; never pushes.
+name: Pembaruan otomatis
+
+on:
+  schedule:
+    - cron: "0 19 * * *" # 02:00 WIB
+  workflow_dispatch:
+    inputs:
+      langkah:
+        description: "harian, terbit, atau keduanya"
+        default: keduanya
+        type: choice
+        options: [keduanya, harian, terbit]
+      paksa:
+        description: "terbit walau terbit terakhir kurang dari 7 hari"
+        default: false
+        type: boolean
+      uji:
+        description: "uji ujung ke ujung dengan data tiruan (tidak pernah push)"
+        default: tidak
+        type: choice
+        options: [tidak, berhasil, gagal]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: pembaruan
+  cancel-in-progress: false
+
+jobs:
+  pembaruan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      UJI: ${{ inputs.uji || 'tidak' }}
+      LANGKAH: ${{ inputs.langkah || 'keduanya' }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: pip install -r pipeline/requirements-ambil.txt
+      - run: npm ci
+      - name: Identitas commit (bot GitHub Actions, bukan identitas global)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # ---------- daily fetch ----------
+      - name: Harian (ambil data)
+        id: harian
+        if: env.UJI == 'tidak' && env.LANGKAH != 'terbit'
+        run: |
+          set +e
+          python -m pipeline.otomatis harian
+          echo "kode=$?" >> "$GITHUB_OUTPUT"
+      - name: Simpan data yang diambil
+        if: always() && steps.harian.outcome != 'skipped'
+        run: |
+          git add harvest src/data/cakupan-lainnya.json docs/LAINNYA-MERAGUKAN.md
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Pembaruan otomatis: data diambil $(date -u +%F)"
+            git pull -q --rebase origin main && git push -q origin HEAD:main
+          fi
+      - name: Issue untuk harian
+        if: always() && steps.harian.outcome != 'skipped' && steps.harian.outputs.kode != '0'
+        run: bash .github/scripts/issue.sh
+
+      # ---------- end-to-end test data ----------
+      - name: Uji ujung ke ujung, build sebelum (situs seperti terbit)
+        if: env.UJI != 'tidak'
+        run: |
+          npm run build
+          mv dist dist-sebelum
+      - name: Uji ujung ke ujung, data tiruan
+        if: env.UJI != 'tidak'
+        run: python -m pipeline.uji_tiruan
+
+      # ---------- weekly publication ----------
+      - name: Terbit (mingguan)
+        id: terbit
+        if: env.UJI != 'tidak' || env.LANGKAH != 'harian'
+        env:
+          TAX_CHROME_HEADLESS: "1"
+          TAX_UJI_GAGAL: ${{ env.UJI == 'gagal' && '1' || '' }}
+        run: |
+          set +e
+          if [ "$UJI" = "tidak" ] && [ "${{ github.event_name }}" = "schedule" ] && [ "$(date -u +%u)" != "7" ]; then
+            echo "Bukan hari Minggu: terbit dilewati."; echo "kode=0" >> "$GITHUB_OUTPUT"; echo "lewat=1" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          paksa=""
+          if [ "${{ inputs.paksa }}" = "true" ] || [ "$UJI" != "tidak" ]; then paksa="--paksa"; fi
+          python -m pipeline.otomatis terbit $paksa
+          echo "kode=$?" >> "$GITHUB_OUTPUT"
+      - name: Uji ujung ke ujung, sisi HP
+        if: env.UJI == 'berhasil' && steps.terbit.outputs.kode != '1'
+        env:
+          TAX_CHROME_HEADLESS: "1"
+        run: node scripts/uji-pembaruan-hp.mjs dist-sebelum dist
+      - name: Terbitkan (commit, push, deploy)
+        if: env.UJI == 'tidak' && steps.terbit.outcome == 'success' && steps.terbit.outputs.lewat != '1'
+        run: |
+          git add corpus src/data tests/search/garis-dasar.json
+          if git diff --cached --quiet; then echo "Tidak ada yang di-commit."; exit 0; fi
+          terbit=$(python -c "import json;print(json.load(open('otomatis-hasil.json')).get('terbit'))")
+          if [ "$terbit" = "True" ]; then msg="Pembaruan otomatis: data baru diterbitkan $(date -u +%F)"; else msg="Pembaruan otomatis: diperiksa $(date -u +%F)"; fi
+          git commit -q -m "$msg"
+          git pull -q --rebase origin main && git push -q origin HEAD:main
+          # A push made with GITHUB_TOKEN does not start other workflows; start the deploy explicitly.
+          gh workflow run deploy.yml --ref main
+      - name: Issue untuk terbit
+        if: always() && steps.terbit.outcome != 'skipped' && steps.terbit.outputs.kode != '0' && steps.terbit.outputs.kode != ''
+        run: bash .github/scripts/issue.sh
