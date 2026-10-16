@@ -63,7 +63,11 @@ def run(title, command, env=None, log=None):
                             env={**os.environ, **(env or {})})
     output = (result.stdout or "") + (result.stderr or "")
     print(output[-4000:], flush=True)
-    tail = "\n".join(output.strip().splitlines()[-15:])
+    lines = output.strip().splitlines()
+    # What failed, first: the failing test names and their messages, then the last lines.
+    failures = [line for line in lines if line.lstrip().startswith(("not ok ", "✖ ")) or "AssertionError" in line
+                or "Error:" in line or "GAGAL" in line][:12]
+    tail = "\n".join((["Yang gagal:"] + failures + ["", "Akhir keluaran:"] if failures else []) + lines[-15:])
     if log is not None:
         log.append({"langkah": title, "kode": result.returncode, "keluaran": tail})
     return result.returncode, tail
