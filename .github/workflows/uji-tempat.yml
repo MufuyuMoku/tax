@@ -1,0 +1,23 @@
+# M9, K-090: can the automatic update run on GitHub's servers? Four requests (robots.txt and one
+# list page, DJP and JDIH), same fetcher, user agent and 20-second delay as every harvest.
+# Manual only; never scheduled.
+name: Uji tempat menjalankan pembaruan
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  uji:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements-ambil.txt
+      # The runner is GitHub's own network, not a VPN or proxy chosen to get around a block.
+      - run: python -m pipeline.uji_tempat --tanpa-vpn
