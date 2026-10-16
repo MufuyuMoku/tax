@@ -14,13 +14,16 @@ Prints one line per request and a JSON summary; the exit code is 0 when both hos
 """
 import argparse
 import json
+import re
 import sys
 import tempfile
 import time
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 from . import net_guard
-from .harvest import LIST
+from .harvest import LIST, rows
 from .polite import UA, Fetcher, HostStopped, NotFound, TransientError
 
 TARGETS = [
@@ -44,7 +47,15 @@ def main(argv=None):
             try:
                 body, meta = fetcher.get(url, params=params, use_cache=False)
                 robots = json.loads((Path(tmp) / "fetch_log.jsonl").read_text(encoding="utf8").splitlines()[-2])
-                row.update({"robots_txt": robots.get("status"), "halaman": meta["status"], "byte": meta["bytes"], "hasil": "terjangkau"})
+                row.update({"robots_txt": robots.get("status"), "halaman": meta["status"], "byte": meta["bytes"]})
+                # A 200 is not enough: a bot-challenge page also answers 200. Check the content.
+                if host == "www.pajak.go.id":
+                    found = len(rows(BeautifulSoup(body, "lxml")))
+                    row["isi"] = f"{found} baris daftar peraturan"
+                else:
+                    found = len(re.findall(r'\\"pageCount\\":\d+|"pageCount":\d+', body))
+                    row["isi"] = "pageCount ada" if found else "pageCount tidak ada"
+                row["hasil"] = "terjangkau" if found else "terjangkau, tetapi isinya bukan halaman daftar"
             except PermissionError as error:
                 row.update({"hasil": "robots.txt melarang", "galat": str(error)})
             except HostStopped as error:

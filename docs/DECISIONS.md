@@ -1638,3 +1638,18 @@ JDIH-nya tetap ada dari daftar JDIH; yang hilang hanya relasi dan masa berlaku d
   | pengungkapan ketidakbenaran | 32 | 37 | 33 | UU Pengadilan Pajak, UU BPSP, Standar Pemeriksaan, PMK Penilai Publik |
 
 **Ukuran simpanan:** 91,3 MB untuk 88 berkas, di bawah 100 MB.
+
+## K-090 — M9: tempat menjalankan pembaruan otomatis diuji di GitHub Actions
+Tanggal: 2026-10-16 · Milestone: M9 · Status: berlaku
+
+**Uji sebelum membangun:** `.github/workflows/uji-tempat.yml`, dijalankan manual sekali, memanggil
+`pipeline/uji_tempat.py`. Isinya empat permintaan (robots.txt dan satu halaman daftar, DJP dan JDIH)
+dengan pengambil, user agent, dan jeda 20 detik yang sama seperti setiap pengambilan.
+- Log dan berkas berhenti uji ini terpisah di folder sementara. Penolakan dari server GitHub di luar
+  negeri tidak menghentikan host untuk mesin pemilik. Berkas berhenti yang ditulis manusia tetap
+  dihormati.
+- Jawaban 200 belum cukup, karena halaman tantangan bot juga menjawab 200. Isinya ikut diperiksa:
+  jumlah baris daftar DJP dan `pageCount` JDIH.
+
+**Hasil 2026-10-16** (run 38836122298): DJP robots.txt 200, halaman daftar 200 (83 KB); JDIH robots.txt
+200, halaman pencarian 200 (152 KB). Kedua host terjangkau dari GitHub Actions.
