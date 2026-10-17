@@ -17,6 +17,27 @@ angka nyata, bukan klaim.
 
 ---
 
+## v1.2.1 — putaran sungguhan pertama, hak cipta, APK Android
+Tanggal: 2026-10-17
+Status: v1.2.1 terbit (tag `v1.2.1`); APK lihat K-094
+
+**Putaran manual pertama** (K-095): sukses dalam 72 menit, tanpa issue. DJP 86 permintaan dan JDIH
+109. Ada 3 peraturan baru; sisanya KMK kurs/bunga yang dikecualikan. Dua cacat ditemukan dan
+diperbaiki: alamat DJP `/index.php` ganda (20 dokumen tercatat dua kali) dan antrean JDIH yang ikut
+memuat baris sapuan.
+
+**Hak cipta** (K-093): kaki halaman dan bagian "Hak cipta" di Tentang; `LICENSE` "semua hak
+dilindungi".
+
+**Verifikasi:** `npm test` 71 lulus, uji luring 18 dari 18, tanpa penurunan peringkat.
+
+**APK** (K-094):
+- `SakuPajak-1.2.1.apk`, SHA-256 `d7f11cfc72c9fc902fcff0ce2028813e8acaea0a006ccaee6f21b8c44dbfe7ad`.
+- Digital Asset Links aktif (`linked: true`).
+- Kunci tanda tangan diganti sebelum rilis, karena kata sandi pertama sempat tercetak di log.
+- Uji emulator tidak bisa dijalankan di laptop ini (galat grafis emulator Android 16); perlu uji di
+  HP sungguhan.
+
 ## M9 — pembaruan otomatis (v1.2.0)
 Tanggal: 2026-10-16
 Status: selesai dan terbit; tag `v1.2.0`. Jadwal harian aktif mulai 02.00 WIB.

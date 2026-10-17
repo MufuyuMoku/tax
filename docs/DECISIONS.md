@@ -1798,6 +1798,50 @@ dan aplikasi tetap lewat situs, jadi APK jarang perlu dirilis ulang.
 
 Panduan ada di `docs/ANDROID.md`.
 
+**Hasil (2026-10-17):** `SakuPajak-1.2.1.apk`, 1,19 MB, SHA-256
+`d7f11cfc72c9fc902fcff0ce2028813e8acaea0a006ccaee6f21b8c44dbfe7ad`.
+- Ditandatangani skema v2 dan v3.
+- Paket `io.github.mufuyumoku.sakupajak`, label "Saku Pajak", versionCode 1, versionName 1.2.1,
+  minSdk 24 (Android 7.0; dibutuhkan androidbrowserhelper 2.7), target SDK 36.
+- Ikon PNG dari situs (512 dan maskable 512).
+- APK tidak di-commit dan belum dilampirkan ke GitHub Release; pemilik membagikannya sendiri.
+
+**Digital Asset Links:** repo `MufuyuMoku/mufuyumoku.github.io` dibuat dengan isi minimal
+(`.well-known/assetlinks.json`, `index.html` yang menunjuk ke `/tax/`, `.nojekyll`). API resmi Google
+membaca pernyataannya dengan benar. `/tax/` dan `/portofolio/` tetap 200.
+
+**Kunci diganti sebelum rilis:** saat langkah tanda tangan Bubblewrap gagal karena spasi di
+"Program Files", pesan galatnya mencetak kata sandi keystore pertama ke log dan ke keluaran sesi.
+APK belum pernah dibagikan, jadi:
+- keystore pertama dan lognya dihapus;
+- keystore baru dibuat dengan kata sandi yang tidak pernah ditampilkan;
+- sidik jari di assetlinks diganti;
+- tanda tangan kini dilakukan langsung dengan `apksigner --ks-pass env:SAKU_KS_PASS`, sehingga kata
+  sandi tidak pernah muncul di baris perintah atau log (diperiksa: 0 kemunculan di log).
+
+**Lingkungan pembuat:** `@bubblewrap/core` 1.27.0 dipakai dari skrip (`android/bangun.mjs`), bukan
+CLI interaktif. Tiga penyesuaian:
+- Bubblewrap mengharapkan susunan SDK lama, jadi `sdk\` berisi junction ke SDK sungguhan;
+- Node 24 tidak lagi menjalankan `gradlew.bat` lewat `execFile` tanpa shell, jadi Gradle dipanggil
+  lewat `cmd`;
+- JDK 21 bawaan Android Studio dipakai. Bubblewrap meminta 17, tetapi Gradle 8.11 dan AGP berjalan
+  dengan 21.
+
+**Uji di emulator: tidak bisa dijalankan di laptop ini.** AVD `SakuPajak_Uji` (Android 16, image Play
+Store, Chrome 134) sempat menyala dan APK berhasil dipasang (`adb install`: Success). Tetapi
+SurfaceFlinger terus mogok dengan galat grafis emulator (`hasReadColorBufferDma`) dan sistemnya
+menyala ulang. Tiga mode dicoba: grafis perangkat lunak tanpa jendela, GPU laptop dengan jendela
+(macet), dan grafis perangkat lunak dengan fitur itu dimatikan. Image Android lain berukuran sekitar
+1,5 GB, terlalu lama diunduh di sambungan saat itu (sekitar 144 KB/detik).
+**Yang tetap diverifikasi:**
+- tanda tangan APK (v2, v3);
+- sidik jari APK sama dengan assetlinks;
+- API Digital Asset Links Google menjawab `linked: true` untuk paket dan sidik jari ini;
+- alamat awal di dalam APK `https://mufuyumoku.github.io/tax/`.
+
+**Belum teruji, perlu HP sungguhan:** pasang, buka, tanpa bilah alamat, cari, dan luring. Langkahnya
+ada di `docs/ANDROID.md`, bagian "Memeriksa setelah dipasang".
+
 ## K-095 — Putaran sungguhan pertama: alamat DJP ganda dan antrean JDIH yang membengkak
 Tanggal: 2026-10-17 · Milestone: M9 · Status: berlaku
 
