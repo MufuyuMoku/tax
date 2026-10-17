@@ -19,7 +19,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:16:45+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/7d8167be-9bbe-4850-bc3e-62910e8f9b13/128~PMK.010~2019Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-128-2019--b000-1",
@@ -66,7 +72,7 @@
   {
    "date_as_written": "2019-09-06 00:00:00",
    "number_as_written": "128/PMK.010/2019",
-   "page_retrieved_at": "2026-10-05T06:55:37+00:00",
+   "page_retrieved_at": "2026-10-16T23:16:23+00:00",
    "retrieved_at": "2026-09-21T14:24:01+00:00",
    "source": "JDIH",
    "title_as_written": "Pemberian Pengurangan Penghasilan Bruto atas Penyelenggaraan Kegiatan Praktik Kerja, Pemagangan, Danjatau Pembelajaran dalam Rangka Pembinaan dan Pengembangan Sumber Daya Manusia Berbasis Kompetensi Tertentu",

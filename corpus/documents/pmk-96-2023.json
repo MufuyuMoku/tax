@@ -30,7 +30,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:55:14+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/4d5d2359-2490-4a4b-a4fe-a49d81a22a64/2023pmkeuangan096.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-96-2023--b000-1",
@@ -187,7 +193,7 @@
   {
    "date_as_written": "2023-09-15 00:00:00",
    "number_as_written": "PMK 96 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T14:51:15+00:00",
+   "page_retrieved_at": "2026-10-16T15:54:51+00:00",
    "retrieved_at": "2026-09-21T14:18:00+00:00",
    "source": "JDIH",
    "title_as_written": "Ketentuan Kepabeanan, Cukai, dan Pajak atas Impor dan Ekspor Barang Kiriman",

@@ -27,7 +27,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:02:56+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/b467306c-e18a-4af7-9657-da2ce3a1b371/2TAHUN2020UU.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "uu-2-2020--b000-1",
@@ -79,7 +85,7 @@
   {
    "date_as_written": "2020-05-16 00:00:00",
    "number_as_written": "UU 2 TAHUN 2020",
-   "page_retrieved_at": "2026-10-05T06:48:30+00:00",
+   "page_retrieved_at": "2026-10-16T23:02:34+00:00",
    "retrieved_at": "2026-09-21T14:02:53+00:00",
    "source": "JDIH",
    "title_as_written": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan\r\nUntuk Penanganan Pandemi Corona Virus Disease 2019\r\n(Covid-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan Menjadi Undang-Undang",

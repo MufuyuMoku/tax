@@ -19,7 +19,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:34:23+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/6c8ff9fc-cfc0-4513-98a4-a3b988c21c77/2025pmkeuangan071.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-71-2025--b000-1",
@@ -53,7 +59,7 @@
   {
    "date_as_written": "2025-10-15 00:00:00",
    "number_as_written": "PMK 71 TAHUN 2025",
-   "page_retrieved_at": "2026-10-05T14:42:27+00:00",
+   "page_retrieved_at": "2026-10-16T15:34:01+00:00",
    "retrieved_at": "2026-09-21T14:16:00+00:00",
    "source": "JDIH",
    "title_as_written": "Pajak Pertambahan Nilai atas Penyerahan Jasa Angkutan Udara Niaga Berjadwal Dalam Negeri Kelas Ekonomi pada Periode Libur Natal dan Tahun Baru yang Ditanggung Pemerintah Tahun Anggaran 2026",

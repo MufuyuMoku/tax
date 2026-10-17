@@ -23,7 +23,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:58:51+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a0aa02e4-837d-4236-baba-7095e2ace61a/2023pmkeuangan048.pdf.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-48-2023--b000-1",
@@ -144,7 +150,7 @@
   {
    "date_as_written": "2023-04-28 00:00:00",
    "number_as_written": "PMK 48 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T14:51:55+00:00",
+   "page_retrieved_at": "2026-10-16T15:58:29+00:00",
    "retrieved_at": "2026-09-21T14:18:15+00:00",
    "selected_because": [
     "judul"

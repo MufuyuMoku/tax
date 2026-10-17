@@ -19,7 +19,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T16:01:09+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/6cb886ad-3ff3-4756-84e5-85086668114b/2023pmkeuangan033.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-33-2023--b000-i",
@@ -68,7 +74,7 @@
   {
    "date_as_written": "2023-03-20 00:00:00",
    "number_as_written": "PMK 33 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T14:52:56+00:00",
+   "page_retrieved_at": "2026-10-16T16:00:47+00:00",
    "retrieved_at": "2026-09-21T14:18:23+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 174/PMK.04/2022 tentang Tempat Penyelenggaraan Pameran Berikat",

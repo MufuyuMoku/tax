@@ -23,7 +23,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:58:08+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/15fe4400-1f93-47ca-9a81-d8c24bb29a0e/2023pmkeuangan061.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-61-2023--b000-1",
@@ -231,7 +237,7 @@
    "date_as_written": "2023-06-09",
    "detail_error": null,
    "number_as_written": "61 TAHUN 2023",
-   "retrieved_at": "2026-09-22T00:21:01+00:00",
+   "retrieved_at": "2026-10-16T15:22:13+00:00",
    "source": "DJP",
    "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR",
    "type_as_written": "Peraturan Menteri Keuangan",
@@ -240,7 +246,7 @@
   {
    "date_as_written": "2023-06-09 00:00:00",
    "number_as_written": "PMK 61 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T06:33:55+00:00",
+   "page_retrieved_at": "2026-10-16T15:57:46+00:00",
    "retrieved_at": "2026-09-21T14:18:11+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar",
@@ -256,8 +262,8 @@
  },
  "status_claims": [
   {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=46",
-   "retrieved_at": "2026-09-21T14:11:00+00:00",
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=47",
+   "retrieved_at": "2026-10-16T15:14:27+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-2",
    "value_normalized": "berlaku",
@@ -278,7 +284,7 @@
   "chars": 197539,
   "format": "html",
   "other_postings": [],
-  "retrieved_at": "2026-09-22T00:21:01+00:00",
+  "retrieved_at": "2026-10-16T15:22:13+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-2"

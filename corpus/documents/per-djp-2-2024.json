@@ -34,7 +34,14 @@
   "year": "2024"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-16T15:49:09+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/83b53055-5b4a-45c4-a8cb-4a8394da37f1/PER2PJ2024.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-2-2024--b000-1",
@@ -103,7 +110,7 @@
   {
    "date_as_written": "2024-01-19 12:00:00",
    "number_as_written": "PER-2/PJ/2024",
-   "page_retrieved_at": "2026-10-05T06:30:52+00:00",
+   "page_retrieved_at": "2026-10-16T15:49:09+00:00",
    "retrieved_at": "2026-09-21T14:55:35+00:00",
    "selected_because": [
     "judul"

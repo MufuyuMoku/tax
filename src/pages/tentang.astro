@@ -4,7 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import Base from "../layouts/Base.astro";
-import { APP_NAME } from "../lib/brand.js";
+import { APP_NAME, COPYRIGHT } from "../lib/brand.js";
 import { CATEGORIES, formatDate } from "../lib/labels.js";
 import { dataDate, loadIndex, loadMeta } from "../lib/corpus.js";
 
@@ -113,6 +113,28 @@ const included = scope.filter((e) => e.masuk === true).length;
     </li>
     <li>Keputusan Menteri Keuangan tentang kurs mingguan dan tarif bunga bulanan.</li>
     <li>Peraturan yang terbit setelah tanggal data di atas, sampai data diperbarui.</li>
+  </ul>
+
+  <h2 id="hak-cipta">Hak cipta</h2>
+  <ul>
+    <li>
+      <strong>Aplikasinya</strong> (kode, desain, tampilan): {COPYRIGHT}. Semua hak dilindungi.
+    </li>
+    <li>
+      <strong>Teks peraturan perundang-undangan</strong> tidak dilindungi hak cipta (UU 28/2014
+      Pasal 42), jadi teks pasal ditampilkan di sini apa adanya dari sumber resminya.
+    </li>
+    <li>
+      <strong>Yang tidak diterbitkan ulang</strong> (SPEC bagian 9): abstrak, klasifikasi, tag,
+      naskah konsolidasi, dan tata letak situs sumber. Dari keterangan sumber, yang dikutip hanya yang
+      perlu untuk menunjuk dan memeriksa peraturannya: nomor, judul, tanggal, status menurut tiap
+      sumber, dan daftar kategori tempat peraturan ditemukan, selalu dengan tautan dan tanggal
+      ambilnya.
+    </li>
+    <li>
+      {APP_NAME} bukan situs resmi pemerintah dan tidak berafiliasi dengan Kementerian Keuangan maupun
+      Direktorat Jenderal Pajak.
+    </li>
   </ul>
 
   <h2>Privasi</h2>

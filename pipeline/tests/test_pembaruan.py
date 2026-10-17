@@ -30,3 +30,14 @@ class ChangeTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class CanonicalPathTest(unittest.TestCase):
+    """DJP links one page as /index.php/id/... or /id/... (K-095): one form everywhere."""
+
+    def test_index_php_prefix_and_host_are_dropped(self):
+        from pipeline.config import canonical_djp_path
+        self.assertEqual(canonical_djp_path("/index.php/id/peraturan/a-b"), "/id/peraturan/a-b")
+        self.assertEqual(canonical_djp_path("https://www.pajak.go.id/index.php/id/peraturan/a"), "/id/peraturan/a")
+        self.assertEqual(canonical_djp_path("/id/peraturan/a"), "/id/peraturan/a")
+        self.assertIsNone(canonical_djp_path(None))

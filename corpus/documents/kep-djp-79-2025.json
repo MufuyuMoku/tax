@@ -30,7 +30,14 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-16T15:43:25+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/e011f795-1c42-4fb6-9b80-1d1f80a61bc2/KEP79PJ2025.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "kep-djp-79-2025--b000-kesatu",
@@ -60,6 +67,7 @@
   {
    "date_as_written": "2025-03-25 12:00:00",
    "number_as_written": "KEP-79/PJ/2025",
+   "page_retrieved_at": "2026-10-16T15:43:25+00:00",
    "retrieved_at": "2026-09-21T14:58:23+00:00",
    "selected_because": [
     "judul",
@@ -68,7 +76,8 @@
    "source": "JDIH",
    "title_as_written": "Kebijakan Penghapusan Sanksi Administratif Atas Keterlambatan Pembayaran Pajak Penghasilan Pasal 29 Yang Terutang Dan/Atau Penyampaian Surat Pemberitahuan Tahunan Pajak Penghasilan Orang Pribadi Untuk Tahun Pajak 2024 Sehubungan Dengan Hari Libur Nasional Dan Cuti Bersama Dalam Rangka Hari Suci Nyepi (Tahun Baru Saka 1947) Dan Hari Raya Idulfitri 1446 Hijriah",
    "type_as_written": "Keputusan Unit Eselon I",
-   "url": "https://jdih.kemenkeu.go.id/dok/kep-79pj2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/kep-79pj2025",
+   "validity_as_written": "25 Mar 2025 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -3,7 +3,7 @@ import "../styles/global.css";
 import "../styles/tampilan.css";
 import { dataDate } from "../lib/corpus.js";
 import { formatDate } from "../lib/labels.js";
-import { APP_NAME } from "../lib/brand.js";
+import { APP_NAME, COPYRIGHT } from "../lib/brand.js";
 import pkg from "../../package.json";
 
 interface Props {
@@ -99,6 +99,12 @@ const dataVersion = formatDate(dataDate());
           <a href={`${base}apa-yang-baru/`}>Apa yang baru</a> ·
           <a href={`${base}perubahan/`}>Peraturan baru dan yang berubah</a> ·
           <a href={`${base}tentang/`}>Tentang dan batasan</a>
+        </p>
+        {/* Copyright (K-093): the app is protected; the regulations are not (UU 28/2014 Pasal 42). */}
+        <p class="hak-cipta">
+          {COPYRIGHT}, untuk aplikasinya (kode, desain, tampilan). Teks peraturan perundang-undangan
+          tidak dilindungi hak cipta (UU 28/2014 Pasal 42); abstrak, klasifikasi, dan tata letak situs
+          sumber tidak diterbitkan ulang. <a href={`${base}tentang/#hak-cipta`}>Selengkapnya</a>
         </p>
       </footer>
     </div>

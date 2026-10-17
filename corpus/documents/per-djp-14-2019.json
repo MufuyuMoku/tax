@@ -23,7 +23,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:19:34+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a2244a1a-32a5-44ab-ac23-a60185d70650/PER - 14.PJ.2019.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-14-2019--b000-1",
@@ -51,7 +57,7 @@
   {
    "date_as_written": "2019-07-03 00:00:00",
    "number_as_written": "PER-14/PJ/2019",
-   "page_retrieved_at": "2026-10-05T06:58:00+00:00",
+   "page_retrieved_at": "2026-10-16T23:19:13+00:00",
    "retrieved_at": "2026-09-21T14:57:13+00:00",
    "selected_because": [
     "judul"

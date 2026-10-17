@@ -56,4 +56,5 @@ berikutnya. `poc/data/host_stopped.json` hanya boleh diubah manusia.
 
 - Bot yang merangkai jawaban, OCR di perangkat, pencarian berbasis makna.
 - Data dari sumber tidak resmi; KMK kurs dan tarif bunga berkala.
-- Lisensi apa pun (belum diputuskan; jangan ditambahkan).
+- Lisensi terbuka apa pun (belum diputuskan). `LICENSE` berisi "semua hak dilindungi" untuk kode dan
+  desain (pemilik, 2026-10-16, K-093); jangan diganti lisensi terbuka tanpa persetujuan pemilik.

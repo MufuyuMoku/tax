@@ -19,7 +19,13 @@
   "year": "2022"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:29:50+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9f4b118b-2f73-43d0-9537-b07663657f60/9TAHUN2022PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-9-2022--b000-i",
@@ -52,7 +58,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 51 TAHUN 2008 — Pajak Penghasilan atas Penghasilan Dari Usaha Jasa Konstruksi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-51-tahun-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -68,6 +81,7 @@
   {
    "date_as_written": "2022-02-21 00:00:00",
    "number_as_written": "PP 9 TAHUN 2022",
+   "page_retrieved_at": "2026-10-16T22:29:29+00:00",
    "retrieved_at": "2026-09-21T14:05:56+00:00",
    "selected_because": [
     "judul",
@@ -76,7 +90,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Peraturan Pemerintah Nomor 51 Tahun 2008 tentang Pajak Penghasilan atas Penghasilan dari Usaha Jasa Konstruksi",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2022",
+   "validity_as_written": "21 Feb 2022 - s.d. Dicabut"
   }
  ],
  "status": {

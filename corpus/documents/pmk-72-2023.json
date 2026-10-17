@@ -30,7 +30,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:56:43+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/46cededa-86ae-4cc9-93e5-b6bef8892074/2023pmkeuangan072.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-72-2023--b000-1",
@@ -131,7 +137,32 @@
     "target_id": "pmk-96-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 248/PMK.03/2008 — Amortisasi atas Pengeluaran untuk Memperoleh Harta Tak Berwujud dan Pengeluaran Lainnya untuk Bidang Usaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/248-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 249/PMK.03/2008 — Penyusutan atas Pengeluaran untuk Memperoleh Harta Tak Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/249-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 126/PMK.011/2012 — Perubahan atas Peraturan Menteri Keuangan Nomor 249/PMK.03/2008 tentang Penyusutan atas Pengeluaran untuk Memperoleh Harta Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/126-pmk-011-2012"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 96/PMK.03/2009 — Jenis-Jenis Harta yang Termasuk dalam Kelompok Harta Berwujud Bukan Bangunan untuk Keperluan Penyusutan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -147,6 +178,7 @@
   {
    "date_as_written": "2023-07-13 00:00:00",
    "number_as_written": "PMK 72 TAHUN 2023",
+   "page_retrieved_at": "2026-10-16T15:56:21+00:00",
    "retrieved_at": "2026-09-21T14:18:07+00:00",
    "selected_because": [
     "judul"
@@ -154,7 +186,8 @@
    "source": "JDIH",
    "title_as_written": "Penyusutan Harta Berwujud dan/atau Amortisasi Harta Tak Berwujud",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2023",
+   "validity_as_written": "17 Jul 2023 - s.d. Dicabut"
   }
  ],
  "status": {

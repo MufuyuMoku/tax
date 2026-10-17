@@ -23,7 +23,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:17:28+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/c3549f94-88dd-4469-a97e-eecd35def9f6/122~PMK.03~2019Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-122-2019--b000-1",
@@ -58,7 +64,7 @@
    "date_as_written": "2019-08-27",
    "detail_error": null,
    "number_as_written": "PMK-122/PMK.03/2019",
-   "retrieved_at": "2026-09-22T00:43:19+00:00",
+   "retrieved_at": "2026-10-16T22:18:08+00:00",
    "source": "DJP",
    "title_as_written": "FASILITAS PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH, PAJAK BUMI DAN BANGUNAN, SERTA PERLAKUAN PERPAJAKAN ATAS PEMBEBANAN BIAYA OPERASI FASILITAS BERSAMA DAN PENGELUARAN ALOKASI BIAYA TIDAK LANGSUNG KANTOR PUSAT",
    "type_as_written": "Peraturan Menteri Keuangan",
@@ -67,7 +73,7 @@
   {
    "date_as_written": "2019-08-27 00:00:00",
    "number_as_written": "122/PMK.03/2019",
-   "page_retrieved_at": "2026-10-06T01:46:22+00:00",
+   "page_retrieved_at": "2026-10-16T23:17:06+00:00",
    "retrieved_at": "2026-09-21T14:24:05+00:00",
    "source": "JDIH",
    "title_as_written": "Fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, Pajak Bumi dan Bangunan, Serta Perlakuan Perpajakan atas Pembebanan Biaya Operasi Fasilitas Bersama dan Pengeluaran Alokasi Biaya Tidak Langsung Kantor Pusat",
@@ -83,8 +89,8 @@
  },
  "status_claims": [
   {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=106",
-   "retrieved_at": "2026-09-21T14:15:18+00:00",
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=108",
+   "retrieved_at": "2026-10-16T22:13:13+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak-penjualan-atas",
    "value_normalized": "berlaku",
@@ -105,7 +111,7 @@
   "chars": 32176,
   "format": "html",
   "other_postings": [],
-  "retrieved_at": "2026-09-22T00:43:19+00:00",
+  "retrieved_at": "2026-10-16T22:18:08+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/fasilitas-pajak-pertambahan-nilai-atau-pajak-pertambahan-nilai-dan-pajak-penjualan-atas"

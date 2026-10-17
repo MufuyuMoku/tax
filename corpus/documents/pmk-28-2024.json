@@ -19,7 +19,13 @@
   "year": "2024"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:48:48+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/3878c12c-d6a3-4723-9782-645a8c7ed3e1/2024pmkeuangan028.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-28-2024--b000-114",
@@ -67,7 +73,7 @@
   {
    "date_as_written": "2024-04-29 00:00:00",
    "number_as_written": "PMK 28 TAHUN 2024",
-   "page_retrieved_at": "2026-10-05T14:47:11+00:00",
+   "page_retrieved_at": "2026-10-16T15:48:25+00:00",
    "retrieved_at": "2026-09-21T14:17:16+00:00",
    "source": "JDIH",
    "title_as_written": "Fasilitas Perpajakan dan Kepabeanan di Ibu Kota Nusantara",

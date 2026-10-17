@@ -46,3 +46,13 @@ harvest/jdih/*.log.err
 otomatis-laporan.md
 otomatis-hasil.json
 dist-sebelum/
+
+# Android (K-094): signing keys and packages never enter the repository
+*.keystore
+*.jks
+*.p12
+*.apk
+*.aab
+*.idsig
+KATA-SANDI*
+keystore*.properties

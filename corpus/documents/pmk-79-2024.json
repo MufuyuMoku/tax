@@ -31,7 +31,13 @@
   "year": "2024"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:46:39+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/d5956cff-7aed-4d91-9e1c-1e6e9abc4b9c/2024pmkeuangan079.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-79-2024--b000-1",
@@ -89,7 +95,7 @@
   {
    "date_as_written": "2024-10-14 00:00:00",
    "number_as_written": "PMK 79 TAHUN 2024",
-   "page_retrieved_at": "2026-10-05T06:29:31+00:00",
+   "page_retrieved_at": "2026-10-16T15:46:17+00:00",
    "retrieved_at": "2026-09-21T14:16:56+00:00",
    "source": "JDIH",
    "title_as_written": "Perlakuan Perpajakan dalam Kerja Sama Operasi",

@@ -34,7 +34,13 @@
   "year": "2022"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:26:56+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/7e87ffb9-d6b1-41a1-8f57-1ad6b868feec/68~PMK.03~2022Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-68-2022--b000-1",
@@ -108,7 +114,7 @@
   {
    "date_as_written": "2022-03-30 00:00:00",
    "number_as_written": "68/PMK.03/2022",
-   "page_retrieved_at": "2026-10-05T14:55:39+00:00",
+   "page_retrieved_at": "2026-10-16T22:26:34+00:00",
    "retrieved_at": "2026-09-21T14:19:42+00:00",
    "selected_because": [
     "judul"

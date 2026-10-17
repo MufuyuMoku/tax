@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:01:31+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/25eef7e5-fe5f-4e7e-bbb6-bb3627bfebd2/68~PMK.03~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-68-2020--b000-1",
@@ -83,7 +89,26 @@
     "target_id": "pmk-80-2009"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 80/PMK.03/2009 — Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan dan/atau Bidang Penelitian dan Pengembangan, yang Dikecualikan Dari Objek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/80-pmk-03-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 246/PMK.03/2008 — Beasiswa yang Dikecualikan Dari Obyek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/246-pmk-03-2008"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 154/PMK.03/2009 — Perubahan atas Peraturan Menteri Keuangan Nomor 246/PMK.03/2008 tentang Beasiswa yang Dikecualikan Dari Objek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/154-pmk-03-2009"
+   }
+  ]
  },
  "source_records": [
   {
@@ -99,6 +124,7 @@
   {
    "date_as_written": "2020-06-15 00:00:00",
    "number_as_written": "68/PMK.03/2020",
+   "page_retrieved_at": "2026-10-16T23:01:08+00:00",
    "retrieved_at": "2026-09-21T14:22:57+00:00",
    "selected_because": [
     "judul",
@@ -107,7 +133,8 @@
    "source": "JDIH",
    "title_as_written": "Perlakuan Pajak Penghasilan atas Beasiswa yang Memenuhi Persyaratan Tertentu dan Sisa Lebih yang Diterima atau Diperoleh Badan atau Lembaga Nirlaba yang Bergerak dalam Bidang Pendidikan Dan/ atau Bidang Penelitian dan Pengembangan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2020",
+   "validity_as_written": "16 Jun 2020 - s.d. Dicabut"
   }
  ],
  "status": {

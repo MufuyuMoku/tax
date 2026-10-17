@@ -30,7 +30,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:51:38+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/e47c3fc4-a912-4bf1-bcad-335fee3f71f8/2023pp058.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-58-2023--b000-1",
@@ -64,7 +70,14 @@
     "target_id": "pp-80-2010"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : PP 80 TAHUN 2010 — Tarif Pemotongan dan Pengenaan Pajak Penghasilan Pasal 21 atas Penghasilan yang Menjadi Beban Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan dan Belanja Daerah.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-80-tahun-2010"
+   }
+  ]
  },
  "source_records": [
   {
@@ -80,6 +93,7 @@
   {
    "date_as_written": "2023-12-27 00:00:00",
    "number_as_written": "PP 58 TAHUN 2023",
+   "page_retrieved_at": "2026-10-16T15:51:16+00:00",
    "retrieved_at": "2026-09-21T14:05:44+00:00",
    "selected_because": [
     "judul"
@@ -87,7 +101,8 @@
    "source": "JDIH",
    "title_as_written": "Tarif dan Pajak Penghasilan Pasal 21 atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan Wajib Pajak Orang Pribadi",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-58-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-58-tahun-2023",
+   "validity_as_written": "27 Des 2023 - s.d. Dicabut"
   }
  ],
  "status": {

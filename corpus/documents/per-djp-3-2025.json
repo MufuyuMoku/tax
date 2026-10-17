@@ -69,7 +69,7 @@
    "date_as_written": "2025-03-27",
    "detail_error": null,
    "number_as_written": "3/PJ/2025",
-   "retrieved_at": "2026-09-21T14:53:10+00:00",
+   "retrieved_at": "2026-10-16T15:21:49+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN KEEMPAT ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-04/PJ/2022 TENTANG BADAN ATAU LEMBAGA YANG DIBENTUK ATAU DISAHKAN OLEH PEMERINTAH YANG DITETAPKAN SEBAGAI PENERIMA ZAKAT ATAU SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB YANG DAPAT DIKURANGKAN DARI PENGHASILAN BRUTO",
    "type_as_written": "Peraturan Dirjen Pajak",
@@ -83,8 +83,8 @@
  },
  "status_claims": [
   {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=20",
-   "retrieved_at": "2026-09-21T14:09:10+00:00",
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=21",
+   "retrieved_at": "2026-10-16T15:05:14+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-keempat-atas-peraturan-direktur-jenderal-pajak-nomor-04pj2022-tentang-badan",
    "value_normalized": "berlaku",
@@ -97,7 +97,7 @@
   "chars": 6129,
   "format": "html",
   "other_postings": [],
-  "retrieved_at": "2026-09-21T14:53:10+00:00",
+  "retrieved_at": "2026-10-16T15:21:49+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/perubahan-keempat-atas-peraturan-direktur-jenderal-pajak-nomor-04pj2022-tentang-badan"

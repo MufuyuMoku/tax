@@ -38,7 +38,7 @@ import sys
 from bs4 import BeautifulSoup
 
 from . import config, net_guard
-from .harvest import BASE, CATEGORIES, LIST, OUT_OF_SCOPE, STOP_SIGNAL, append_jsonl, lainnya_in_scope, parse_detail, read_jsonl, rows
+from .harvest import BASE, CATEGORIES, LIST, OUT_OF_SCOPE, STOP_SIGNAL, append_jsonl, canonical_path, lainnya_in_scope, parse_detail, read_jsonl, rows
 from .polite import CapReached, Fetcher, HostStopped, NotFound, RoundOver, TransientError
 
 # PPh's list came from the proof of concept; it is updated like the others.
@@ -65,7 +65,7 @@ def known_rows():
     for path in (config.IN_DJP_LIST, config.HARVEST_DJP_LIST, LIST_OUT):
         for row in read_jsonl(path):
             if row.get("path"):
-                latest[row["path"]] = row
+                latest[canonical_path(row["path"])] = row
     return latest
 
 
@@ -186,9 +186,7 @@ class Run:
                 if reason == "baru":
                     # Regulations a new one names are likely revoked or amended by it: check them now.
                     for related in detail.get("peraturan_terkait") or []:
-                        href = related.get("href") or ""
-                        if href.startswith(BASE):
-                            href = href[len(BASE):]
+                        href = canonical_path(related.get("href") or "")
                         if href in self.known and href not in self.details:
                             self.details[href] = "petunjuk"
                             self.counts["petunjuk"] += 1

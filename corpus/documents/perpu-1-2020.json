@@ -23,7 +23,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:07:59+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/151110be-2990-46b6-86c7-aa912d8c93b3/1TAHUN2020PERPPU.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "perpu-1-2020--b000-1",
@@ -162,7 +168,7 @@
   {
    "date_as_written": "2020-03-31 00:00:00",
    "number_as_written": "PERPU 1 TAHUN 2020",
-   "page_retrieved_at": "2026-10-05T06:51:32+00:00",
+   "page_retrieved_at": "2026-10-16T23:07:37+00:00",
    "retrieved_at": "2026-09-21T14:05:25+00:00",
    "source": "JDIH",
    "title_as_written": "Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (Covid-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan.",

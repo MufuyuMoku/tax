@@ -1,0 +1,122 @@
+{
+ "attachments": [
+  {
+   "file_name": "Lampiran_PMK 71 Tahun 2026.pdf",
+   "match": "cocok",
+   "parsed_number": {
+    "code": "PMK",
+    "number": "71",
+    "year": "2026"
+   },
+   "url": "https://www.pajak.go.id/sites/default/files/lampiran/Lampiran_PMK%2071%20Tahun%202026.pdf"
+  }
+ ],
+ "categories": [
+  {
+   "asal": "daftar_djp",
+   "kategori": "KUP"
+  }
+ ],
+ "category": "substantif",
+ "id": "pmk-71-2026",
+ "identity": {
+  "code": "PMK",
+  "number": "71",
+  "variant": null,
+  "year": "2026"
+ },
+ "identity_conflicts": [],
+ "original_files": [],
+ "pajak_daerah": null,
+ "pasal_ids": [
+  "pmk-71-2026--b000-i",
+  "pmk-71-2026--b001-ii"
+ ],
+ "quality_flags": [],
+ "relations": {
+  "amended_by": [],
+  "amends": [
+   {
+    "key": [
+     "PMK",
+     "118",
+     "2024",
+     null
+    ],
+    "name": "PERATURAN MENTERI KEUANGAN NOMOR 118 TAHUN 2024",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 118 Tahun 2024 tentang Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan (Berita Negara Republik Indonesia Tahun 2024 Nomor 1017) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "target_id": "pmk-118-2024"
+   }
+  ],
+  "revoked_by": [],
+  "revokes": [],
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 118 TAHUN 2024 — Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-118-tahun-2024"
+   }
+  ]
+ },
+ "source_records": [
+  {
+   "date_as_written": "2026-09-29",
+   "detail_error": null,
+   "number_as_written": "71 TAHUN 2026",
+   "retrieved_at": "2026-10-16T15:19:20+00:00",
+   "source": "DJP",
+   "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118 TAHUN 2024 TENTANG TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-118-tahun-2024-tentang-tata-cara"
+  },
+  {
+   "date_as_written": "2026-09-29 12:00:00",
+   "number_as_written": "PMK 71 TAHUN 2026",
+   "page_retrieved_at": "2026-10-16T15:28:03+00:00",
+   "retrieved_at": "2026-10-16T15:24:06+00:00",
+   "source": "JDIH",
+   "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 118 Tahun 2024 tentang Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan",
+   "type_as_written": "Peraturan Menteri",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-71-tahun-2026",
+   "validity_as_written": "02 Okt 2026 - s.d. Dicabut"
+  }
+ ],
+ "status": {
+  "note": "disepakati JDIH & DJP",
+  "reasons": [],
+  "value": "berlaku"
+ },
+ "status_claims": [
+  {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=0",
+   "retrieved_at": "2026-10-16T14:53:41+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-118-tahun-2024-tentang-tata-cara",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
+   "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=1",
+   "retrieved_at": "2026-10-16T15:24:06+00:00",
+   "source": "JDIH",
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-71-tahun-2026",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Berlaku"
+  }
+ ],
+ "structure": "perubahan",
+ "text": {
+  "available": true,
+  "chars": 30087,
+  "format": "html",
+  "other_postings": [],
+  "retrieved_at": "2026-10-16T15:19:20+00:00",
+  "source": "DJP",
+  "unavailable_reason": null,
+  "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-118-tahun-2024-tentang-tata-cara"
+ },
+ "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118 TAHUN 2024 TENTANG TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN"
+}

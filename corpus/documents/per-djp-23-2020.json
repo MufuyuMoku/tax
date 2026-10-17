@@ -34,7 +34,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:48:07+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/e1994109-7c2c-495a-969f-a8a7c055ae7b/per-23.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-23-2020--b000-1",
@@ -108,7 +114,7 @@
   {
    "date_as_written": "2020-12-28 00:00:00",
    "number_as_written": "PER-23/PJ/2020",
-   "page_retrieved_at": "2026-10-05T06:44:05+00:00",
+   "page_retrieved_at": "2026-10-16T22:47:45+00:00",
    "retrieved_at": "2026-09-21T14:56:41+00:00",
    "selected_because": [
     "judul"

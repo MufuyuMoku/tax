@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:46:41+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/3663681a-1aeb-49ab-976a-d87d39009c5b/235~PMK.010~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-235-2020--b000-1",
@@ -101,7 +107,38 @@
     "target_id": "pmk-156-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 15/PMK.03/2010 — Perubahan atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/15-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 142/PMK.03/2010 — Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/142-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 166/PMK.011/2011 — Penetapan Tarif Bea Masuk atas Barang Impor dalam Rangka  Asean-Australia-New Zealand Free Trade Area (Aanzfta).",
+    "url": "https://jdih.kemenkeu.go.id/dok/166-pmk-011-2011"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 156/PMK.010/2015 — Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 215/PMK.03/2008 tentang Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/156-pmk-010-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 215/PMK.03/2008 — Penetapan Organisasi-Organisasi Internasional dan Pejabat-Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subyek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/215-pmk-03-2008"
+   }
+  ]
  },
  "source_records": [
   {
@@ -117,6 +154,7 @@
   {
    "date_as_written": "2020-12-30 00:00:00",
    "number_as_written": "235/PMK.010/2020",
+   "page_retrieved_at": "2026-10-16T22:46:19+00:00",
    "retrieved_at": "2026-09-21T14:21:49+00:00",
    "selected_because": [
     "judul"
@@ -124,7 +162,8 @@
    "source": "JDIH",
    "title_as_written": "Organisasi Internasional dan Pejabat Perwakilan Organisasi Internasional yang Tidak Termasuk Subjek Pajak Penghasilan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/235-pmk-010-2020",
+   "validity_as_written": "30 Des 2020 - s.d. Dicabut"
   }
  ],
  "status": {

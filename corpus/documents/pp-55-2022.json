@@ -19,7 +19,13 @@
   "year": "2022"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T16:01:54+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/cab6ec99-3dbc-47c6-adbf-ea5f0f7117d6/55TAHUN2022PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-55-2022--b000-1",
@@ -272,7 +278,56 @@
     "target_id": "pp-30-2020"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 18 TAHUN 2009 — Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib yang Dikecualikan Dari Objek Pajak Penghasilan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-18-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : PP 94 TAHUN 2010 — Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-94-tahun-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : PP 9 TAHUN 2021 — Perlakuan Perpajakan Untuk Mendukung Kemudahan Berusaha",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2021"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : PP 45 TAHUN 2019 — Perubahan atas Peraturan Pemerintah Nomor 94 Tahun 2010 tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak Penghasilan dalam Tahun Berjalan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-45-tahun-2019"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 23 TAHUN 2018 — Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-23-tahun-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 29 TAHUN 2020 — Fasilitas Pajak Penghasilan dalam Rangka Penanganan Corona Virus Disease 2019 (Covid-19)",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-29-tahun-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 30 TAHUN 2020 — Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Diubah dengan",
+    "source": "JDIH",
+    "text": "Diubah dengan: PP 20 TAHUN 2026 — Perubahan atas Peraturan Pemerintah Nomor 55 Tahun 2022 tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026"
+   }
+  ]
  },
  "source_records": [
   {
@@ -288,6 +343,7 @@
   {
    "date_as_written": "2022-12-20 00:00:00",
    "number_as_written": "PP 55 TAHUN 2022",
+   "page_retrieved_at": "2026-10-16T16:01:30+00:00",
    "retrieved_at": "2026-09-21T14:05:52+00:00",
    "selected_because": [
     "judul"
@@ -295,7 +351,8 @@
    "source": "JDIH",
    "title_as_written": "Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022",
+   "validity_as_written": "20 Des 2022 - s.d. Dicabut"
   }
  ],
  "status": {

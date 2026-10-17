@@ -69,23 +69,26 @@ const HARVEST = process.env.TAX_HARVEST || "harvest";
 // "Elsewhere" means another category list of the catalogue (PPh from the proof of concept, the others
 // from the harvest and the update). Not the corpus: since v1.1 the corpus also holds "Lainnya".
 const elsewhere = new Set();
-for (const r of jsonl("poc/data/djp_pph_list.jsonl")) if (r.path) elsewhere.add(r.path);
+// DJP links some pages as /index.php/id/... and others as /id/...: the same page (K-095).
+const canonical = (path) => (path || "").replace(/^\/index\.php\//, "/");
+for (const r of jsonl("poc/data/djp_pph_list.jsonl")) if (r.path) elsewhere.add(canonical(r.path));
 // Rows found by the automatic update (M9) count too: a new "Lainnya" regulation gets its proposal.
 const lists = [...jsonl(`${HARVEST}/djp_list.jsonl`), ...jsonl(`${HARVEST}/pembaruan_daftar.jsonl`)];
-for (const r of lists) if (r.path && r._kategori_daftar !== "Lainnya") elsewhere.add(r.path);
+for (const r of lists) if (r.path && r._kategori_daftar !== "Lainnya") elsewhere.add(canonical(r.path));
 
 const candidates = new Map();
 for (const r of lists) {
-  if (r._kategori_daftar !== "Lainnya" || !r.path || elsewhere.has(r.path) || KURS.test(r.judul || "")) continue;
-  if (!candidates.has(r.path)) candidates.set(r.path, r);
+  if (r._kategori_daftar !== "Lainnya" || !r.path || elsewhere.has(canonical(r.path)) || KURS.test(r.judul || "")) continue;
+  if (!candidates.has(canonical(r.path))) candidates.set(canonical(r.path), r);
 }
 
 const before = fs.existsSync(FILE) ? JSON.parse(fs.readFileSync(FILE, "utf8")) : { peraturan: [] };
-const kept = new Map(before.peraturan.map((e) => [e.path, e]));
-const entries = [...candidates.values()].map((row) => {
-  const old = kept.get(row.path);
+const kept = new Map(before.peraturan.map((e) => [canonical(e.path), e]));
+const entries = [...candidates.entries()].map(([key, row]) => {
+  const old = kept.get(key);
   if (old && old.diputuskan === "pemilik") return old;
-  return { path: row.path, nomor: row.nomor, jenis: row.jenis, judul: row.judul, ...classify(row), diputuskan: "usulan judul" };
+  // An existing entry keeps the path as first written, so the file does not churn.
+  return { path: old ? old.path : key, nomor: row.nomor, jenis: row.jenis, judul: row.judul, ...classify(row), diputuskan: "usulan judul" };
 });
 entries.sort((a, b) => a.path.localeCompare(b.path));
 

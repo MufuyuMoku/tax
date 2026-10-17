@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:53:16+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9570fcc8-009e-4caf-ba31-9702d03c3bd0/135~PMK.010~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-135-2020--b000-1",
@@ -91,7 +97,32 @@
     "target_id": "pmk-95-2019"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 195/PMK.010/2016 — Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2016.",
+    "url": "https://jdih.kemenkeu.go.id/dok/195-pmk-010-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 134/PMK.010/2017 — Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2017.",
+    "url": "https://jdih.kemenkeu.go.id/dok/134-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 36/PMK.010/2018 — Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2018.",
+    "url": "https://jdih.kemenkeu.go.id/dok/36-pmk-010-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 95/PMK.010/2019 — Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan Dari Penghapusan Piutang Negara yang Diterima Perusahaan Daerah Air Minum Tertentu Tahun Anggaran 2019",
+    "url": "https://jdih.kemenkeu.go.id/dok/95-pmk-010-2019"
+   }
+  ]
  },
  "source_records": [
   {
@@ -107,6 +138,7 @@
   {
    "date_as_written": "2020-09-21 00:00:00",
    "number_as_written": "135/PMK.010/2020",
+   "page_retrieved_at": "2026-10-16T22:52:53+00:00",
    "retrieved_at": "2026-09-21T14:22:29+00:00",
    "selected_because": [
     "judul"
@@ -114,7 +146,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Ditanggung Pemerintah atas Penghasilan dari Penghapusan secara Mutlak Piutang Negara Nonpokok yang Diterima Perusahaan Daerah Air Minum Tertentu",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/135-pmk-010-2020",
+   "validity_as_written": "24 Sep 2020 - s.d. Dicabut"
   }
  ],
  "status": {

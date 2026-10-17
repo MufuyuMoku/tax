@@ -96,7 +96,22 @@
  ],
  "quality_flags": [],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "pmk-71-2026",
+    "key": [
+     "PMK",
+     "71",
+     "2026",
+     null
+    ],
+    "number_as_written": "71 TAHUN 2026",
+    "quote": "Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor 118 Tahun 2024 tentang Tata Cara Pembetulan, Keberatan, Pengurangan, Penghapusan, dan Pembatalan di Bidang Perpajakan (Berita Negara Republik Indonesia Tahun 2024 Nomor 1017) diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118 TAHUN 2024 TENTANG TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN"
+   }
+  ],
   "amends": [],
   "revoked_by": [],
   "revokes": [

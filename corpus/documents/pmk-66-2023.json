@@ -30,7 +30,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:57:25+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/dce5daf1-d4e5-4bd1-bc4e-2c086ae33c04/2023pmkeuangan066.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-66-2023--b000-1",
@@ -81,7 +87,14 @@
     "target_id": "pmk-167-2018"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: 167/PMK.03/2018 — Penyediaan Makanan dan Minuman Bagi Seluruh Pegawai Serta Penggantian atau Imbalan dalam Bentuk Natura dan Kenikmatan di Daerah Tertentu yang Berkaitan dengan Pelaksanaan Pekerjaan yang Dapat Dikurangkan Dari Penghasilan Bruto Pemberi Kerja",
+    "url": "https://jdih.kemenkeu.go.id/dok/167-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -97,6 +110,7 @@
   {
    "date_as_written": "2023-06-27 00:00:00",
    "number_as_written": "PMK 66 TAHUN 2023",
+   "page_retrieved_at": "2026-10-16T15:57:04+00:00",
    "retrieved_at": "2026-09-21T14:18:11+00:00",
    "selected_because": [
     "judul"
@@ -104,7 +118,8 @@
    "source": "JDIH",
    "title_as_written": "Perlakuan Pajak Penghasilan atas Penggantian atau Imbalan Sehubungan dengan Pekerjaan atau Jasa yang Diterima atau Diperoleh Dalam Bentuk Natura dan/atau Kenikmatan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-66-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-66-tahun-2023",
+   "validity_as_written": "01 Jul 2023 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -23,7 +23,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:24:02+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/7471d692-3e36-4fa6-906b-6268e9db8cc6/85~PMK.03~2019Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-85-2019--b000-1",
@@ -93,7 +99,7 @@
   {
    "date_as_written": "2019-05-29 00:00:00",
    "number_as_written": "85/PMK.03/2019",
-   "page_retrieved_at": "2026-10-05T07:00:23+00:00",
+   "page_retrieved_at": "2026-10-16T23:23:40+00:00",
    "retrieved_at": "2026-09-21T14:24:22+00:00",
    "source": "JDIH",
    "title_as_written": "Mekanisme Pengawasan Terhadap Pemotongan/Pemungutan dan Penyetoran Pajak atas Belanja yang Bersumber Dari Anggaran Pendapatan dan Belanja Daerah.",

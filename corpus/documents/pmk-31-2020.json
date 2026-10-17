@@ -23,7 +23,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:06:33+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ebf0ecf1-cde2-4a17-b9b3-bb865d72e75b/31~PMK.04~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-31-2020--b000-1",
@@ -66,7 +72,7 @@
   {
    "date_as_written": "2020-04-13 00:00:00",
    "number_as_written": "31/PMK.04/2020",
-   "page_retrieved_at": "2026-10-05T06:50:52+00:00",
+   "page_retrieved_at": "2026-10-16T23:06:11+00:00",
    "retrieved_at": "2026-09-21T14:23:10+00:00",
    "source": "JDIH",
    "title_as_written": "Insentif Tambahan untuk Perusahaan Penerima Fasilitas Kawasan Berikat dan/atau Kemudahan Impor Tujuan Ekspor untuk Penanganan Dampak Bencana Penyakit Virus Corona (Corona Virus Disease 2019/ Covid-19)",

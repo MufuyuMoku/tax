@@ -23,7 +23,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:10:09+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/17b81b2c-d525-44fc-a6e0-a1963e5873c2/PER-04.PJ.2020 + Lamp.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-4-2020--b000-1",
@@ -176,7 +182,7 @@
   {
    "date_as_written": "2020-03-13 00:00:00",
    "number_as_written": "PER-04/PJ/2020",
-   "page_retrieved_at": "2026-10-05T06:52:33+00:00",
+   "page_retrieved_at": "2026-10-16T23:09:46+00:00",
    "retrieved_at": "2026-09-21T14:57:01+00:00",
    "source": "JDIH",
    "title_as_written": "Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak",

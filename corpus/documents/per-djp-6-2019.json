@@ -19,7 +19,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:27:36+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/431540d9-095c-4a55-a0c1-78fbd5d77ae7/PER-06.PJ.2019.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-6-2019--b000-1",
@@ -66,7 +72,7 @@
   {
    "date_as_written": "2019-03-27 00:00:00",
    "number_as_written": "PerDJP PER-06/PJ/2019",
-   "page_retrieved_at": "2026-10-05T07:02:46+00:00",
+   "page_retrieved_at": "2026-10-16T23:27:13+00:00",
    "retrieved_at": "2026-09-21T14:57:20+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Ketiga atas Peraturan Direktur Jenderal Pajak Nomor Per-41/Pj/2015 tentang Pengamanan Transaksi Elektronik Layanan Pajak Online",

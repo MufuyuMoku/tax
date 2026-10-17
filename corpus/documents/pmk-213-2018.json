@@ -23,7 +23,13 @@
   "year": "2018"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:32:36+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/d6e8d442-6f4c-438e-af24-ea36efc8a3cc/213~PMK.03~2018Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-213-2018--b000-1",
@@ -553,7 +559,7 @@
   {
    "date_as_written": "2018-12-31 00:00:00",
    "number_as_written": "213/PMK.03/2018",
-   "page_retrieved_at": "2026-10-05T07:05:09+00:00",
+   "page_retrieved_at": "2026-10-16T23:32:14+00:00",
    "retrieved_at": "2026-09-21T14:24:58+00:00",
    "selected_because": [
     "judul"

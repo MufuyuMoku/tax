@@ -30,7 +30,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:33:38+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/67814e15-1cef-4dcb-ae34-dc6e450687be/149~PMK.03~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-149-2021--b000-i",
@@ -106,7 +112,7 @@
   {
    "date_as_written": "2021-10-25 00:00:00",
    "number_as_written": "149/PMK.03/2021",
-   "page_retrieved_at": "2026-10-05T15:01:25+00:00",
+   "page_retrieved_at": "2026-10-16T22:33:02+00:00",
    "retrieved_at": "2026-09-21T14:20:42+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2021 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",

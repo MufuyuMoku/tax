@@ -23,7 +23,13 @@
   "year": "2024"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:48:04+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a886c2f6-a88c-4923-a60a-5c4574a8bb2c/2024pmkeuangan069.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-69-2024--b000-i",
@@ -72,7 +78,7 @@
   {
    "date_as_written": "2024-10-08 00:00:00",
    "number_as_written": "PMK 69 TAHUN 2024",
-   "page_retrieved_at": "2026-10-05T06:29:51+00:00",
+   "page_retrieved_at": "2026-10-16T15:47:42+00:00",
    "retrieved_at": "2026-09-21T14:17:00+00:00",
    "selected_because": [
     "judul",

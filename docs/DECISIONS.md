@@ -1766,3 +1766,64 @@ byte. Satu pembaruan kecil kira-kira menjadi:
 
 Totalnya **sekitar 1,5–2 MB**. Mesin pencari tetap memuat semua pecahan saat mulai, jadi hasilnya
 tetap harus lulus tes kesetaraan (K-069). Waktu siap di HP perlu diukur ulang.
+
+## K-093 — Hak cipta: aplikasi dilindungi, peraturan tidak; LICENSE "semua hak dilindungi"
+Tanggal: 2026-10-17 · Milestone: M9 · Status: berlaku (permintaan pemilik)
+
+**Situs:** di kaki setiap halaman ada "© 2026 Pyonkuro · dibuat oleh Mufuyu Moku", untuk aplikasinya
+(kode, desain, tampilan); teksnya diambil dari `src/lib/brand.js`. Di sebelahnya ada kalimat bahwa
+teks peraturan perundang-undangan tidak dilindungi hak cipta (UU 28/2014 Pasal 42) dan bahwa abstrak,
+klasifikasi, dan tata letak situs sumber tidak diterbitkan ulang. "Tentang dan batasan" punya bagian
+"Hak cipta" yang lebih lengkap. Penafian "bukan situs resmi" tetap ada.
+
+**Perumusan yang diputuskan sendiri:** permintaan menyebut "abstrak, metadata, klasifikasi, dan tata
+letak tidak diterbitkan ulang". Situs ini memang mengutip sebagian metadata sumber sebagai rujukan:
+nomor, judul, tanggal, status per sumber, dan daftar kategori asal, selalu dengan tautan dan tanggal
+ambil (invarian 1 dan 2). Kalimat di situs karena itu dibuat jujur: abstrak, klasifikasi, tag,
+naskah konsolidasi, dan tata letak tidak diterbitkan ulang, sedangkan dari keterangan sumber hanya
+dikutip yang perlu untuk menunjuk dan memeriksa peraturannya.
+
+**Repo:** `LICENSE` berisi "semua hak dilindungi" untuk kode dan desain, dengan catatan bahwa teks
+peraturan bersumber dari situs resmi pemerintah dan tidak dilindungi hak cipta. Ini bukan lisensi
+terbuka. CLAUDE.md disesuaikan.
+
+## K-094 — Installer Android (APK) dengan Trusted Web Activity
+Tanggal: 2026-10-17 · Milestone: M9 · Status: berjalan (lihat bawah untuk hasil)
+
+APK membuka https://mufuyumoku.github.io/tax/ lewat Trusted Web Activity (Bubblewrap). Pembaruan data
+dan aplikasi tetap lewat situs, jadi APK jarang perlu dirilis ulang.
+- Nama paket: `io.github.mufuyumoku.sakupajak`.
+- Kunci tanda tangan dibuat di luar repo.
+- Pola `*.keystore`, `*.jks`, `*.apk`, `*.aab`, `KATA-SANDI*` masuk `.gitignore`.
+
+Panduan ada di `docs/ANDROID.md`.
+
+## K-095 — Putaran sungguhan pertama: alamat DJP ganda dan antrean JDIH yang membengkak
+Tanggal: 2026-10-17 · Milestone: M9 · Status: berlaku
+
+**Putaran manual** (`harian`, run 38919222933, 2026-10-16 14.51–16.03 UTC, 72 menit, sukses, tanpa
+issue):
+- DJP 86 permintaan: 82 sukses, 4 putus sementara. 14 halaman cek baru, 57 halaman sapuan, 10 detail.
+- JDIH 109 permintaan: 103 sukses, 3 "tidak ada di sumber" (404), 3 timeout (504). Daftar JDIH baru
+  menemukan 16 dokumen dalam 15 permintaan.
+
+**Jadwal pertama** (run 38972247581, 21.52–23.35 UTC): sukses, DJP 75, JDIH 213. Tidak ada host yang
+dihentikan.
+
+**Cacat 1, alamat DJP ganda:** situs DJP menautkan sebagian peraturan sebagai
+`/index.php/id/peraturan/…` dan sebagian sebagai `/id/peraturan/…`, padahal halamannya sama.
+- Pembaruan menganggapnya peraturan baru dan mengambil detailnya lagi.
+- Di korpus terbit, akibatnya sudah ada sejak sebelum M9: 59 dokumen ber-URL `/index.php` dan 20
+  dokumen dengan catatan DJP ganda (misalnya INS-DJP 20/2026).
+- **Perbaikan:** `config.canonical_djp_path` membakukan alamat di pengambil, pembaruan, cakupan
+  "Lainnya", dan build. Hasilnya 0 URL `/index.php` dan 0 catatan ganda.
+- Empat entri "Lainnya" ternyata juga ada di daftar kategori lain, misalnya PMK 81/2024 di KUP. Entri
+  itu keluar dari berkas cakupan (953 → 949) dan tetap masuk korpus lewat kategori lainnya.
+
+**Cacat 2, antrean JDIH:** antrean "status JDIH dokumen baru" ikut memasukkan baris sapuan yang isinya
+sama, termasuk daftar PPh. Akibatnya 93 lalu 213 halaman JDIH sehari, yang tidak dibaca build.
+**Perbaikan:** dari pembaruan, hanya baris "baru" di luar daftar PPh yang diantrekan.
+
+**Hasil data:** tiga peraturan baru masuk (PER-DJP 12/2026, PMK 49/2026, PMK 71/2026); 0 status
+berubah. Sebagian besar baris "baru" lainnya adalah KMK kurs dan bunga, yang memang dikecualikan.
+Diterbitkan bersama v1.2.1, tanpa penurunan peringkat.

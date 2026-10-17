@@ -31,7 +31,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:08:42+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/f8b38ce8-0709-42e5-8c7a-626017f380a3/23~PMK.03~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-23-2020--b000-1",
@@ -82,16 +88,6 @@
    "date_as_written": "2020-03-21",
    "detail_error": null,
    "number_as_written": "23/PMK.03/2020",
-   "retrieved_at": "2026-09-22T00:41:17+00:00",
-   "source": "DJP",
-   "title_as_written": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK WABAH VIRUS CORONA",
-   "type_as_written": "Peraturan Menteri Keuangan",
-   "url": "https://www.pajak.go.id/index.php/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-wabah-virus-corona"
-  },
-  {
-   "date_as_written": "2020-03-21",
-   "detail_error": null,
-   "number_as_written": "23/PMK.03/2020",
    "retrieved_at": "2026-10-04T03:31:00+00:00",
    "source": "DJP",
    "title_as_written": "INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK WABAH VIRUS CORONA",
@@ -101,7 +97,7 @@
   {
    "date_as_written": "2020-03-21 00:00:00",
    "number_as_written": "23/PMK.03/2020",
-   "page_retrieved_at": "2026-10-05T06:51:53+00:00",
+   "page_retrieved_at": "2026-10-16T23:08:20+00:00",
    "retrieved_at": "2026-09-21T14:23:14+00:00",
    "source": "JDIH",
    "title_as_written": "Insentif Pajak untuk Wajib Pajak Terdampak Wabah Virus Corona",
@@ -119,14 +115,6 @@
   {
    "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=100",
    "retrieved_at": "2026-09-21T14:14:52+00:00",
-   "source": "DJP",
-   "url": "https://www.pajak.go.id/index.php/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-wabah-virus-corona",
-   "value_normalized": "tidak_berlaku",
-   "value_verbatim": "Dicabut"
-  },
-  {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=43",
-   "retrieved_at": "2026-10-03T02:47:58+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-wabah-virus-corona",
    "value_normalized": "tidak_berlaku",
@@ -146,15 +134,7 @@
   "available": true,
   "chars": 21224,
   "format": "html",
-  "other_postings": [
-   {
-    "chars": 21224,
-    "differs_from_chosen": false,
-    "retrieved_at": "2026-09-22T00:41:17+00:00",
-    "source": "DJP",
-    "url": "https://www.pajak.go.id/index.php/id/peraturan/insentif-pajak-untuk-wajib-pajak-terdampak-wabah-virus-corona"
-   }
-  ],
+  "other_postings": [],
   "retrieved_at": "2026-10-04T03:31:00+00:00",
   "source": "DJP",
   "unavailable_reason": null,

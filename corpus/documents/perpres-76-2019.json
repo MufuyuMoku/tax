@@ -27,7 +27,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:15:19+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/1a9e8da0-4fb7-4293-b92f-a3b56d6a1042/76TAHUN2019PERPRES.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "perpres-76-2019--b000-1",
@@ -55,7 +61,7 @@
   {
    "date_as_written": "2019-11-12 00:00:00",
    "number_as_written": "PERPRES 76 TAHUN 2019",
-   "page_retrieved_at": "2026-10-05T06:55:16+00:00",
+   "page_retrieved_at": "2026-10-16T23:14:58+00:00",
    "retrieved_at": "2026-09-21T14:12:55+00:00",
    "selected_because": [
     "judul"

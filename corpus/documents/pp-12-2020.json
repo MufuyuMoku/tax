@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:11:35+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/b6e76614-6232-4de1-a5ad-e5d3a2da3b9d/12TAHUN2020PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-12-2020--b000-1",
@@ -281,7 +287,7 @@
   {
    "date_as_written": "2020-02-20 00:00:00",
    "number_as_written": "PP 12 TAHUN 2020",
-   "page_retrieved_at": "2026-10-06T01:44:17+00:00",
+   "page_retrieved_at": "2026-10-16T23:11:13+00:00",
    "retrieved_at": "2026-09-21T14:06:31+00:00",
    "source": "JDIH",
    "title_as_written": "Fasilitas dan Kemudahan di Kawasan Ekonomi Khusus",

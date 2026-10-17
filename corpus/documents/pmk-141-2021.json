@@ -30,7 +30,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:34:21+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/fcd2b15d-9e52-4589-85c2-5bd131aa4777/141~PMK.010~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-141-2021--b000-1",
@@ -160,7 +166,7 @@
   {
    "date_as_written": "2021-10-07 00:00:00",
    "number_as_written": "141/PMK.010/2021",
-   "page_retrieved_at": "2026-10-05T15:01:46+00:00",
+   "page_retrieved_at": "2026-10-16T22:33:59+00:00",
    "retrieved_at": "2026-09-21T14:20:46+00:00",
    "source": "JDIH",
    "title_as_written": "Penetapan Jenis Kendaraan Bermotor yang Dikenai Pajak Penjualan atas Barang Mewah dan Tata Cara Pengenaan, Pemberian dan\nPenatausahaan Pembebasan, dan Pengembalian Pajak Penjualan atas Barang Mewah",

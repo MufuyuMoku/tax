@@ -34,7 +34,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:41:32+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/eace0ab5-2722-425b-acfb-63af52286564/33~PMK.010~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-33-2021--b000-1",
@@ -94,7 +100,7 @@
   {
    "date_as_written": "2021-04-01 00:00:00",
    "number_as_written": "33/PMK.010/2021",
-   "page_retrieved_at": "2026-10-05T06:40:21+00:00",
+   "page_retrieved_at": "2026-10-16T22:41:09+00:00",
    "retrieved_at": "2026-09-21T14:21:33+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 237 /PMK.010/2020 tentang Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus",

@@ -30,7 +30,14 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "missing": true,
+   "reason": "berkas teks penuh yang dicantumkan JDIH tidak ada di sumber (HTTP 404)",
+   "retrieved_at": "2026-10-16T15:39:59+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ca01c2bc-8e46-4509-a7a5-a5ca13f84599/2025pmkeuangan037.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-37-2025--b000-1",
@@ -65,7 +72,7 @@
    "date_as_written": "2025-06-11",
    "detail_error": null,
    "number_as_written": "37 TAHUN 2025",
-   "retrieved_at": "2026-09-21T14:52:22+00:00",
+   "retrieved_at": "2026-10-16T15:21:28+00:00",
    "source": "DJP",
    "title_as_written": "PENUNJUKAN PIHAK LAIN SEBAGAI PEMUNGUT PAJAK PENGHASILAN SERTA TATA CARA PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PENGHASILAN YANG DIPUNGUT OLEH PIHAK LAIN ATAS PENGHASILAN YANG DITERIMA ATAU DIPEROLEH PEDAGANG DALAM NEGERI DENGAN MEKANISME PERDAGANGAN MELALUI SISTEM ELEKTRONIK",
    "type_as_written": "Peraturan Menteri Keuangan",
@@ -74,6 +81,7 @@
   {
    "date_as_written": "2025-06-11 00:00:00",
    "number_as_written": "PMK 37 TAHUN 2025",
+   "page_retrieved_at": "2026-10-16T15:39:59+00:00",
    "retrieved_at": "2026-09-21T14:16:16+00:00",
    "selected_because": [
     "judul",
@@ -82,7 +90,8 @@
    "source": "JDIH",
    "title_as_written": "Penunjukan Pihak lain sebagai Pemungut Pajak Penghasilan serta Tata Cara Pemungutan, Penyetoran, dan Pelaporan Pajak Penghasilan yang Dipungut oleh Pihak lain atas Penghasilan yang Diterima atau Diperoleh Pedagang Dalam Negeri dengan Mekanisme Perdagangan melalui Sistem Elektronik",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-37-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-37-tahun-2025",
+   "validity_as_written": "14 Jul 2025 - s.d. Dicabut"
   }
  ],
  "status": {
@@ -92,8 +101,8 @@
  },
  "status_claims": [
   {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=18",
-   "retrieved_at": "2026-09-21T14:09:01+00:00",
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=19",
+   "retrieved_at": "2026-10-16T15:04:32+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pihak-lain-sebagai-pemungut-pajak-penghasilan-serta-tata-cara-pemungutan",
    "value_normalized": "berlaku",
@@ -114,7 +123,7 @@
   "chars": 26658,
   "format": "html",
   "other_postings": [],
-  "retrieved_at": "2026-09-21T14:52:22+00:00",
+  "retrieved_at": "2026-10-16T15:21:28+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/penunjukan-pihak-lain-sebagai-pemungut-pajak-penghasilan-serta-tata-cara-pemungutan"

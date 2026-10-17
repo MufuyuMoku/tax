@@ -17674,7 +17674,6 @@
   "attachment_count": 0,
   "attachment_mismatch": 0,
   "categories": [
-   "Lainnya",
    "PPN"
   ],
   "code": "KMK",
@@ -38346,6 +38345,31 @@
   "title": "BATASAN KRITERIA TERTENTU PIHAK LAIN SERTA PENUNJUKAN PIHAK LAIN, PEMUNGUTAN, PENYETORAN, DAN PELAPORAN PAJAK PERTAMBAHAN NILAI ATAS PEMANFAATAN BARANG KENA PAJAK TIDAK BERWUJUD DAN/ATAU JASA KENA PAJAK DARI LUAR DAERAH PABEAN DI DALAM DAERAH PABEAN MELALUI PERDAGANGAN MELALUI SISTEM ELEKTRONIK DALAM RANGKA PELAKSANAANSISTEM INTI ADMINISTRASI PERPAJAKAN",
   "variant": null,
   "year": "2025"
+ },
+ {
+  "attachment_count": 1,
+  "attachment_mismatch": 0,
+  "categories": [
+   "PPh"
+  ],
+  "code": "PER-DJP",
+  "id": "per-djp-12-2026",
+  "number": "12",
+  "number_as_written": "PER-12/PJ/2026",
+  "pajak_daerah": null,
+  "pasal_count": 2,
+  "quality_flags": [],
+  "sources": [
+   "DJP"
+  ],
+  "status": "berlaku",
+  "status_uncertain": false,
+  "structure": "perubahan",
+  "text_available": true,
+  "text_chars": 68804,
+  "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-11/PJ/2025 TENTANG KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+  "variant": null,
+  "year": "2026"
  },
  {
   "attachment_count": 0,
@@ -66157,6 +66181,31 @@
   "attachment_count": 0,
   "attachment_mismatch": 0,
   "categories": [
+   "PPh"
+  ],
+  "code": "PMK",
+  "id": "pmk-49-2026",
+  "number": "49",
+  "number_as_written": "49 TAHUN 2026",
+  "pajak_daerah": null,
+  "pasal_count": 24,
+  "quality_flags": [],
+  "sources": [
+   "DJP"
+  ],
+  "status": "berlaku",
+  "status_uncertain": false,
+  "structure": "biasa",
+  "text_available": true,
+  "text_chars": 34963,
+  "title": "TATA CARA PEMUNGUTAN PAJAK PERTAMBAHAN NILAI TERHADAP TRANSAKSI DIGITAL LUAR NEGERI YANG DILAKUKAN MELALUI SISTEM PEMUNGUTAN PAJAK ATAS TRANSAKSI DIGITAL LUAR NEGERI",
+  "variant": null,
+  "year": "2026"
+ },
+ {
+  "attachment_count": 0,
+  "attachment_mismatch": 0,
+  "categories": [
    "KUP"
   ],
   "code": "PMK",
@@ -68670,6 +68719,32 @@
   "title": "PAJAK PERTAMBAHAN NILAI ATAS PENYERAHAN JASA ANGKUTAN UDARA NIAGA BERJADWAL DALAM NEGERI KELAS EKONOMI PADA PERIODE LIBUR NATAL DAN TAHUN BARU YANG DITANGGUNG PEMERINTAH TAHUN ANGGARAN 2026",
   "variant": null,
   "year": "2025"
+ },
+ {
+  "attachment_count": 1,
+  "attachment_mismatch": 0,
+  "categories": [
+   "KUP"
+  ],
+  "code": "PMK",
+  "id": "pmk-71-2026",
+  "number": "71",
+  "number_as_written": "71 TAHUN 2026",
+  "pajak_daerah": null,
+  "pasal_count": 2,
+  "quality_flags": [],
+  "sources": [
+   "DJP",
+   "JDIH"
+  ],
+  "status": "berlaku",
+  "status_uncertain": false,
+  "structure": "perubahan",
+  "text_available": true,
+  "text_chars": 30087,
+  "title": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118 TAHUN 2024 TENTANG TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN",
+  "variant": null,
+  "year": "2026"
  },
  {
   "attachment_count": 0,

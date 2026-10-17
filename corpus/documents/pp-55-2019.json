@@ -19,7 +19,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:18:52+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ecfe7385-320f-4007-bfad-c1db96937c62/55TAHUN2019PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-55-2019--b000-i",
@@ -64,7 +70,20 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PP 16 TAHUN 2009 — Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-16-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 91 TAHUN 2021 — Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi yang Diterima atau Diperoleh Wajib Pajak Dalam Negeri dan Bentuk Usaha Tetap",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-91-tahun-2021"
+   }
+  ]
  },
  "source_records": [
   {
@@ -80,6 +99,7 @@
   {
    "date_as_written": "2019-08-07 00:00:00",
    "number_as_written": "PP 55 TAHUN 2019",
+   "page_retrieved_at": "2026-10-16T23:18:31+00:00",
    "retrieved_at": "2026-09-21T14:06:35+00:00",
    "selected_because": [
     "judul"
@@ -87,7 +107,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2019",
+   "validity_as_written": "07 Agu 2019 - 30 Agu 2021"
   }
  ],
  "status": {

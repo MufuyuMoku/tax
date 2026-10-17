@@ -35,7 +35,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:56:00+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/7c4d8812-728e-4e3e-964f-9a2be2cf01b3/2023pmkeuangan079.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-79-2023--b000-1",
@@ -99,7 +105,7 @@
   {
    "date_as_written": "2023-08-22 00:00:00",
    "number_as_written": "PMK 79 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T06:32:54+00:00",
+   "page_retrieved_at": "2026-10-16T15:55:35+00:00",
    "retrieved_at": "2026-09-21T14:18:04+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Penilaian untuk Tujuan Perpajakan",

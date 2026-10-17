@@ -23,7 +23,13 @@
   "year": "2022"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:25:31+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/6bc212f3-c7e2-408a-a9ff-c63ab457b316/15TAHUN2022PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-15-2022--b000-1",
@@ -95,7 +101,7 @@
   {
    "date_as_written": "2022-04-11 00:00:00",
    "number_as_written": "PP 15 TAHUN 2022",
-   "page_retrieved_at": "2026-10-05T14:55:19+00:00",
+   "page_retrieved_at": "2026-10-16T22:25:09+00:00",
    "retrieved_at": "2026-09-21T14:05:56+00:00",
    "source": "JDIH",
    "title_as_written": "Perlakuan Perpajakan dan/atau Penerimaan Negara Bukan Pajak di Bidang Usaha Pertambangan Batubara",

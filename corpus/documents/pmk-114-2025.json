@@ -23,7 +23,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:32:13+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/956c4a77-a4bb-4c97-a4a9-989bc6a98c79/2025pmkeuangan114.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-114-2025--b000-1",
@@ -152,7 +158,7 @@
   {
    "date_as_written": "2025-12-30 00:00:00",
    "number_as_written": "PMK 114 TAHUN 2025",
-   "page_retrieved_at": "2026-10-05T06:22:18+00:00",
+   "page_retrieved_at": "2026-10-16T15:31:52+00:00",
    "retrieved_at": "2026-09-21T14:15:45+00:00",
    "selected_because": [
     "judul"

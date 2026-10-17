@@ -23,7 +23,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:38:56+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/9d1677e6-6b97-4755-b5ee-216c26fb6cf9/2025pmkeuangan052.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-52-2025--b000-i",
@@ -78,7 +84,7 @@
   {
    "date_as_written": "2025-07-25 12:00:00",
    "number_as_written": "PMK 52 TAHUN 2025",
-   "page_retrieved_at": "2026-10-05T14:43:28+00:00",
+   "page_retrieved_at": "2026-10-16T15:38:34+00:00",
    "retrieved_at": "2026-09-21T14:16:08+00:00",
    "selected_because": [
     "judul",

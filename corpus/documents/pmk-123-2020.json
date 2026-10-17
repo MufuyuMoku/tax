@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:54:45+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/3a552b15-47b5-464a-97e6-c8acd7cea17d/123~PMK.03~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-123-2020--b000-1",
@@ -53,7 +59,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 40 TAHUN 2023 — Bentuk dan Tata Cara Penyampaian Laporan serta Daftar Wajib Pajak dalam rangka Pemenuhan Persyaratan Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-40-tahun-2023"
+   }
+  ]
  },
  "source_records": [
   {
@@ -69,6 +82,7 @@
   {
    "date_as_written": "2020-09-01 00:00:00",
    "number_as_written": "123/PMK.03/2020",
+   "page_retrieved_at": "2026-10-16T22:54:24+00:00",
    "retrieved_at": "2026-09-21T14:22:33+00:00",
    "selected_because": [
     "judul"
@@ -76,7 +90,8 @@
    "source": "JDIH",
    "title_as_written": "Bentuk dan Tata Cara Penyampaian Laporan serta Daftar Wajib Pajak dalam rangka Pemenuhan Persyaratan Penurunan Tarif Pajak Penghasilan bagi Wajib Pajak Badan Dalam Negeri yang Berbentuk Perseroan Terbuka",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/123-pmk-03-2020",
+   "validity_as_written": "02 Sep 2020 - 13 Apr 2023"
   }
  ],
  "status": {

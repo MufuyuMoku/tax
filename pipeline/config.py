@@ -24,6 +24,16 @@ IN_JDIH_DETAIL = POC_DATA / "jdih_pph_detail.jsonl"
 INPUTS = [IN_DJP_LIST, IN_DJP_DETAIL, IN_JDIH_META, IN_JDIH_CANDIDATES, IN_JDIH_DETAIL]
 
 DJP_BASE = "https://www.pajak.go.id"
+
+
+def canonical_djp_path(path):
+    """The DJP site links some regulations as /index.php/id/peraturan/... and others as
+    /id/peraturan/...: the same page. One form everywhere, or one regulation counts as two (K-095)."""
+    if not path:
+        return path
+    if path.startswith(DJP_BASE):
+        path = path[len(DJP_BASE):]
+    return path[len("/index.php"):] if path.startswith("/index.php/") else path
 JDIH_BASE = "https://jdih.kemenkeu.go.id"
 
 # Weekly exchange-rate and monthly interest-rate decrees are out of the product's scope

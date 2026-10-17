@@ -177,10 +177,14 @@ def queues():
     from .harvest import lainnya_in_scope
     lainnya = lainnya_in_scope()
     # DJP documents found by the automatic update are queued like the others (M9).
-    for row in read_jsonl(DJP_LIST) + read_jsonl(config.HARVEST_UPDATE_LIST):
+    # From the automatic update, only regulations it found new (K-095): rows it saw unchanged while
+    # sweeping were queued too at first, 93 JDIH requests in one day for pages the build never reads.
+    # PPh list rows are not queued here: PPh documents get JDIH pages only when JDIH alone has them.
+    update_rows = [r for r in read_jsonl(config.HARVEST_UPDATE_LIST) if r.get("_alasan") == "baru" and r["_kategori_daftar"] != "PPh"]
+    for row in read_jsonl(DJP_LIST) + update_rows:
         name = row["_kategori_daftar"]
         if name not in out:
-            continue  # PPh list rows of the update: PPh documents only JDIH has are queued below
+            continue
         if out_of_scope.search(row.get("judul") or ""):
             continue  # weekly exchange-rate and interest-rate decrees (SPEC section 3)
         if name == "Lainnya" and row.get("path") not in lainnya:

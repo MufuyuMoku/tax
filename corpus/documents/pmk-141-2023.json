@@ -40,7 +40,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:52:22+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/2ad57359-063b-4014-b932-e94a29d39486/2023pmkeuangan141.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-141-2023--b000-1",
@@ -88,7 +94,7 @@
   {
    "date_as_written": "2023-12-10 00:00:00",
    "number_as_written": "PMK 141 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T14:48:52+00:00",
+   "page_retrieved_at": "2026-10-16T15:51:59+00:00",
    "retrieved_at": "2026-09-21T14:17:40+00:00",
    "source": "JDIH",
    "title_as_written": "Ketentuan Impor Barang Pekerja Migran Indonesia",

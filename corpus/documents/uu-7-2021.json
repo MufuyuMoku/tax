@@ -23,7 +23,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:32:41+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a9faab97-aca7-4f87-9fdc-faa8123d1454/7TAHUN2021UU.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "uu-7-2021--b000-1",
@@ -246,7 +252,7 @@
   {
    "date_as_written": "2021-10-29 00:00:00",
    "number_as_written": "UU 7 TAHUN 2021",
-   "page_retrieved_at": "2026-10-05T06:38:19+00:00",
+   "page_retrieved_at": "2026-10-16T22:32:18+00:00",
    "retrieved_at": "2026-09-21T14:02:49+00:00",
    "source": "JDIH",
    "title_as_written": "Harmonisasi Peraturan Perpajakan",

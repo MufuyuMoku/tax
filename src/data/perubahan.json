@@ -1,4 +1,36 @@
 {
  "keterangan": "Catatan per pembaruan data (K-091), ditulis scripts/catat-perubahan.mjs dengan membandingkan korpus sebelum dan sesudah. Status per sumber, apa adanya.",
- "pembaruan": []
+ "pembaruan": [
+  {
+   "tanggal": "2026-10-17",
+   "baru": [
+    {
+     "id": "per-djp-12-2026",
+     "label": "PER-DJP 12/2026",
+     "judul": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-11/PJ/2025 TENTANG KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN",
+     "kategori": [
+      "PPh"
+     ]
+    },
+    {
+     "id": "pmk-49-2026",
+     "label": "PMK 49/2026",
+     "judul": "TATA CARA PEMUNGUTAN PAJAK PERTAMBAHAN NILAI TERHADAP TRANSAKSI DIGITAL LUAR NEGERI YANG DILAKUKAN MELALUI SISTEM PEMUNGUTAN PAJAK ATAS TRANSAKSI DIGITAL LUAR NEGERI",
+     "kategori": [
+      "PPh"
+     ]
+    },
+    {
+     "id": "pmk-71-2026",
+     "label": "PMK 71/2026",
+     "judul": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 118 TAHUN 2024 TENTANG TATA CARA PEMBETULAN, KEBERATAN, PENGURANGAN, PENGHAPUSAN, DAN PEMBATALAN DI BIDANG PERPAJAKAN",
+     "kategori": [
+      "KUP"
+     ]
+    }
+   ],
+   "status_berubah": [],
+   "tidak_ada_lagi": []
+  }
+ ]
 }

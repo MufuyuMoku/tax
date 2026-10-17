@@ -30,7 +30,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:48:50+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/6b72b4eb-ee3c-46e5-bc5b-beffdfc527ca/per-24.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-24-2020--b000-1",
@@ -92,7 +98,7 @@
   {
    "date_as_written": "2020-12-28 00:00:00",
    "number_as_written": "PER-24/PJ/2020",
-   "page_retrieved_at": "2026-10-05T06:44:25+00:00",
+   "page_retrieved_at": "2026-10-16T22:48:28+00:00",
    "retrieved_at": "2026-09-21T14:56:41+00:00",
    "source": "JDIH",
    "title_as_written": "Tata Cara Permohonan, Pemberitahuan, Pemberian, Pembatalan Serta Permohonan Dan Penerbitan Kembali Izin Penyelenggaraan Pembukuan Atau Pencatatan Dengan Menggunakan Bahasa Inggris Atau Pembukuan Dengan Menggunakan Bahasa Inggris Dan Satuan Mata Uang Dolar Amerika Serikat",

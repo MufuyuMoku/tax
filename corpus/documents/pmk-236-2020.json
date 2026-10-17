@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:47:24+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/0ff72d10-daee-4924-867c-8b6e4baf9fb0/236~PMK.010~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-236-2020--b000-1",
@@ -35,7 +41,14 @@
   "amends": [],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 202/PMK.010/2017 — Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional.",
+    "url": "https://jdih.kemenkeu.go.id/dok/202-pmk-010-2017"
+   }
+  ]
  },
  "source_records": [
   {
@@ -51,6 +64,7 @@
   {
    "date_as_written": "2020-12-30 00:00:00",
    "number_as_written": "236/PMK.010/2020",
+   "page_retrieved_at": "2026-10-16T22:47:02+00:00",
    "retrieved_at": "2026-09-21T14:21:49+00:00",
    "selected_because": [
     "judul"
@@ -58,7 +72,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 202/PMK.010/2017 tentang Pelaksanaan Perlakuan Pajak Penghasilan yang Didasarkan pada Ketentuan dalam Perjanjian Internasional",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/236-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/236-pmk-010-2020",
+   "validity_as_written": "30 Des 2020 - s.d. Dicabut"
   }
  ],
  "status": {

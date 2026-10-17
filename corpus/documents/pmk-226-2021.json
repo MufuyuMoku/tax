@@ -31,7 +31,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:31:15+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/196e1e02-60dc-45e7-be24-236570974889/226~PMK.03~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-226-2021--b000-1",
@@ -146,7 +152,7 @@
   {
    "date_as_written": "2021-12-31 00:00:00",
    "number_as_written": "226/PMK.03/2021",
-   "page_retrieved_at": "2026-10-05T15:00:45+00:00",
+   "page_retrieved_at": "2026-10-16T22:30:54+00:00",
    "retrieved_at": "2026-09-21T14:20:10+00:00",
    "selected_because": [
     "judul"

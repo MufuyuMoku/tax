@@ -19,7 +19,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:33:40+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/26c9b53e-7adb-4d16-8a97-86e92ea30ff3/2025pmkeuangan072.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-72-2025--b000-i",
@@ -45,7 +51,14 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: PMK 10 TAHUN 2025 — Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam Rangka Stimulus Ekonomi Tahun Anggaran 2025",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-10-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -61,6 +74,7 @@
   {
    "date_as_written": "2025-10-20 00:00:00",
    "number_as_written": "PMK 72 TAHUN 2025",
+   "page_retrieved_at": "2026-10-16T15:33:18+00:00",
    "retrieved_at": "2026-09-21T14:16:00+00:00",
    "selected_because": [
     "judul"
@@ -68,7 +82,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 10 Tahun 2025 tentang Pajak Penghasilan Pasal 21 atas Penghasilan Tertentu yang Ditanggung Pemerintah dalam rangka Stimulus Ekonomi Tahun Anggaran 2025;",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2025"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-72-tahun-2025",
+   "validity_as_written": "28 Okt 2025 - s.d. Dicabut"
   }
  ],
  "status": {

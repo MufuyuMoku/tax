@@ -31,7 +31,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:24:27+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/3b5e1d63-0f80-4957-aeb1-5c2e7dc61558/PER-6 PJ 2025.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-6-2025--b000-1",
@@ -66,7 +72,7 @@
   {
    "date_as_written": "2025-05-21 12:00:00",
    "number_as_written": "PER-6/PJ/2025",
-   "page_retrieved_at": "2026-10-05T06:27:48+00:00",
+   "page_retrieved_at": "2026-10-16T22:24:04+00:00",
    "retrieved_at": "2026-09-21T14:55:19+00:00",
    "source": "JDIH",
    "title_as_written": "Pelaksanaan Pengembalian Pendahuluan Kelebihan Pembayaran Pajak Terhadap Wajib Pajak Kriteria Tertentu, Wajib Pajak Persyaratan Tertentu, dan Pengusaha Kena Pajak Berisiko Rendah, serta Special Purpose Company atau Kontrak Investasi Kolektif sebagai Pengusaha Berisiko Rendah",

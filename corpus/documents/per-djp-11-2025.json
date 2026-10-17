@@ -44,7 +44,13 @@
   "year": "2025"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:41:02+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a94edee5-e585-4eeb-b9e7-a76f616c92fb/PER-11_PJ_2025.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "per-djp-11-2025--b000-1",
@@ -201,7 +207,22 @@
   "pasal_ganda"
  ],
  "relations": {
-  "amended_by": [],
+  "amended_by": [
+   {
+    "id": "per-djp-12-2026",
+    "key": [
+     "PER-DJP",
+     "12",
+     "2026",
+     null
+    ],
+    "number_as_written": "PER-12/PJ/2026",
+    "quote": "Beberapa ketentuan dalam Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2025 tentang Ketentuan Pelaporan Pajak Penghasilan, Pajak Pertambahan Nilai, Pajak Penjualan atas Barang Mewah, dan Bea Meterai dalam rangka Pelaksanaan Sistem Inti Administrasi Perpajakan diubah sebagai berikut:",
+    "quote_excerpt": false,
+    "source_of_reading": "DJP",
+    "title": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-11/PJ/2025 TENTANG KETENTUAN PELAPORAN PAJAK PENGHASILAN, PAJAK PERTAMBAHAN NILAI, PAJAK PENJUALAN ATAS BARANG MEWAH, DAN BEA METERAI DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASI PERPAJAKAN"
+   }
+  ],
   "amends": [],
   "revoked_by": [
    {
@@ -562,7 +583,7 @@
   {
    "date_as_written": "2025-05-22 12:00:00",
    "number_as_written": "PER-11/PJ/2025",
-   "page_retrieved_at": "2026-10-05T14:44:49+00:00",
+   "page_retrieved_at": "2026-10-16T15:40:40+00:00",
    "retrieved_at": "2026-09-21T14:55:15+00:00",
    "selected_because": [
     "judul"

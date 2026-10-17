@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:07:17+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/1f528174-6a63-43e8-8271-1a41d5e6d0d6/28~PMK.03~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-28-2020--b000-1",
@@ -77,7 +83,7 @@
   {
    "date_as_written": "2020-04-06 00:00:00",
    "number_as_written": "28/PMK.03/2020",
-   "page_retrieved_at": "2026-10-06T01:43:56+00:00",
+   "page_retrieved_at": "2026-10-16T23:06:54+00:00",
    "retrieved_at": "2026-09-21T14:23:14+00:00",
    "source": "JDIH",
    "title_as_written": "Pemberian Fasilitas Pajak Terhadap Barang dan Jasa yang Diperlukan dalam Rangka Penanganan Pandemi Corona Virus Disease 2019",

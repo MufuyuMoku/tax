@@ -34,7 +34,13 @@
   "year": "2024"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:45:55+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/d3364186-e19b-4700-94c5-79df67cf87d2/2024pmkeuangan080.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-80-2024--b000-1",
@@ -146,7 +152,7 @@
   {
    "date_as_written": "2024-10-14 00:00:00",
    "number_as_written": "PMK 80 TAHUN 2024",
-   "page_retrieved_at": "2026-10-05T14:46:31+00:00",
+   "page_retrieved_at": "2026-10-16T15:45:33+00:00",
    "retrieved_at": "2026-09-21T14:16:56+00:00",
    "selected_because": [
     "judul"

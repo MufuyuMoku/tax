@@ -59,6 +59,8 @@ def collect():
     # last, so the newest detail wins.
     for path in (config.IN_DJP_DETAIL, config.HARVEST_DJP_DETAIL, config.HARVEST_UPDATE_DETAIL):
         for row in _read_optional(path):
+            # /index.php/id/... and /id/... are the same DJP page (K-095).
+            row = {**row, "path": config.canonical_djp_path(row.get("path"))}
             if row.get("error"):
                 details.setdefault(row["path"], row)
             else:
@@ -67,16 +69,20 @@ def collect():
     # "Lainnya" enters only for the regulations the owner put in scope (K-088); its local-tax ones
     # carry the local-tax note (K-086).
     scope = json.loads(config.SCOPE_LAINNYA.read_text(encoding="utf8"))["peraturan"] if config.SCOPE_LAINNYA.exists() else []
-    lainnya_in = {e["path"]: e["kelompok"] for e in scope if e.get("masuk") is True}
+    lainnya_in = {config.canonical_djp_path(e["path"]): e["kelompok"] for e in scope if e.get("masuk") is True}
     def wanted_row(row):
         name = row["_kategori_daftar"]
-        return (name == "PPh" or name in config.DJP_CATEGORIES) and (name != "Lainnya" or row.get("path") in lainnya_in)
+        return (name == "PPh" or name in config.DJP_CATEGORIES) and (
+            name != "Lainnya" or config.canonical_djp_path(row.get("path")) in lainnya_in)
 
     def shown(name):
         return config.CATEGORY_NAMES.get(name, name)
 
-    djp_rows = [(row, "PPh") for row in read_jsonl(config.IN_DJP_LIST)]
-    djp_rows += [(row, shown(row["_kategori_daftar"])) for row in _read_optional(config.HARVEST_DJP_LIST) if wanted_row(row)]
+    def canonical(row):
+        return {**row, "path": config.canonical_djp_path(row.get("path"))}
+
+    djp_rows = [(canonical(row), "PPh") for row in read_jsonl(config.IN_DJP_LIST)]
+    djp_rows += [(canonical(row), shown(row["_kategori_daftar"])) for row in _read_optional(config.HARVEST_DJP_LIST) if wanted_row(row)]
     # The automatic update (M9, K-091): for a regulation already listed, the newest row of the same
     # category list replaces the old one (status, title, number as the source now writes them);
     # a regulation never listed before is added.
@@ -87,6 +93,7 @@ def collect():
         if row.get("_alasan") == "sama":
             continue
         if row.get("path") and wanted_row(row):
+            row = canonical(row)
             latest[(row["path"], shown(row["_kategori_daftar"]))] = row
     listed = {(row.get("path"), category) for row, category in djp_rows}
     djp_rows = [(latest.get((row.get("path"), category), row), category) for row, category in djp_rows]
@@ -129,7 +136,7 @@ def collect():
             doc["source_listed_related"].append({
                 "source": "DJP",
                 "text": related.get("text"),
-                "url": (config.DJP_BASE + related["href"]) if related.get("href") else None,
+                "url": (config.DJP_BASE + config.canonical_djp_path(related["href"])) if related.get("href") else None,
                 "note": "sumber tidak menyebutkan jenis relasinya",
             })
         for attachment_url in detail.get("lampiran") or []:

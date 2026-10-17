@@ -30,7 +30,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:02:14+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ce1f7640-011c-47d0-a340-b3f8df114803/29TAHUN2020PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-29-2020--b000-1",
@@ -79,7 +85,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 55 TAHUN 2022 — Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -95,6 +108,7 @@
   {
    "date_as_written": "2020-06-10 00:00:00",
    "number_as_written": "PP 29 TAHUN 2020",
+   "page_retrieved_at": "2026-10-16T23:01:51+00:00",
    "retrieved_at": "2026-09-21T14:06:27+00:00",
    "selected_because": [
     "judul",
@@ -103,7 +117,8 @@
    "source": "JDIH",
    "title_as_written": "Fasilitas Pajak Penghasilan dalam Rangka Penanganan Corona Virus Disease 2019 (Covid-19)",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-29-tahun-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-29-tahun-2020",
+   "validity_as_written": "10 Jun 2020 - 20 Des 2022"
   }
  ],
  "status": {

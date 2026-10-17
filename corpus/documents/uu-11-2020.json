@@ -23,7 +23,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:50:23+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/71e4c64f-45fa-44a4-a5fb-23879fb098b5/11TAHUN2020UU.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "uu-11-2020--b000-111",
@@ -295,7 +301,7 @@
   {
    "date_as_written": "2020-11-02 00:00:00",
    "number_as_written": "UU 11 TAHUN 2020",
-   "page_retrieved_at": "2026-10-05T06:45:47+00:00",
+   "page_retrieved_at": "2026-10-16T22:49:53+00:00",
    "retrieved_at": "2026-09-21T14:02:49+00:00",
    "source": "JDIH",
    "title_as_written": "Cipta Kerja",

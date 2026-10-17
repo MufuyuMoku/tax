@@ -23,7 +23,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:53:47+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/89b9f499-7c85-48b0-8e05-08cbc000b0d5/2023pmkeuangan126 (2).pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-126-2023--b000-1",
@@ -111,7 +117,7 @@
   {
    "date_as_written": "2023-11-27 00:00:00",
    "number_as_written": "PMK 126 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T06:31:53+00:00",
+   "page_retrieved_at": "2026-10-16T15:53:26+00:00",
    "retrieved_at": "2026-09-21T14:17:47+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Menteri Keuangan Nomor 164/PMK.04/2022 tentang Perubahan Keempat atas Peraturan Menteri Keuangan Nomor 34/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Barang untuk Keperluan Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",

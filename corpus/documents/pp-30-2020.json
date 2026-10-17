@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:00:47+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/ff4e4a90-eff6-4840-b22d-f98cbd5e9e8f/30TAHUN2020PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-30-2020--b000-1",
@@ -91,7 +97,26 @@
     "target_id": "pp-56-2015"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 77 TAHUN 2013 — Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-77-tahun-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 56 TAHUN 2015 — Perubahan atas Peraturan Pemerintah Nomor 77 Tahun 2013 tentang Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-56-tahun-2015"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PP 55 TAHUN 2022 — Penyesuaian Pengaturan di Bidang Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022"
+   }
+  ]
  },
  "source_records": [
   {
@@ -107,6 +132,7 @@
   {
    "date_as_written": "2020-06-18 00:00:00",
    "number_as_written": "PP 30 TAHUN 2020",
+   "page_retrieved_at": "2026-10-16T23:00:25+00:00",
    "retrieved_at": "2026-09-21T14:06:27+00:00",
    "selected_because": [
     "judul"
@@ -114,7 +140,8 @@
    "source": "JDIH",
    "title_as_written": "Penurunan Tarif Pajak Penghasilan Bagi Wajib Pajak Badan dalam Negeri yang Berbentuk Perseroan Terbuka",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-30-tahun-2020",
+   "validity_as_written": "19 Jun 2020 - 20 Des 2022"
   }
  ],
  "status": {

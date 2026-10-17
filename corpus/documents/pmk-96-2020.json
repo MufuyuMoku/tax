@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:57:55+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/f554f201-3afb-4a61-b8cb-7598f6608ca4/96~PMK.010~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-96-2020--b000-i",
@@ -46,7 +52,20 @@
   ],
   "revoked_by": [],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 11/PMK.010/2020 — Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/11-pmk-010-2020"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -62,6 +81,7 @@
   {
    "date_as_written": "2020-07-24 00:00:00",
    "number_as_written": "96/PMK.010/2020",
+   "page_retrieved_at": "2026-10-16T22:57:32+00:00",
    "retrieved_at": "2026-09-21T14:22:45+00:00",
    "selected_because": [
     "judul",
@@ -70,7 +90,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 11/PMK.010/2020 tentang Pelaksanaan Peraturan Pemerintah Nomor 78 Tahun 2019 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-bidang Usaha Tertentu dan/atau di Daerah-daerah Tertentu",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-010-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/96-pmk-010-2020",
+   "validity_as_written": "27 Jul 2020 - 18 Okt 2024"
   }
  ],
  "status": {

@@ -1,0 +1,20 @@
+{
+ "amendment_items": null,
+ "chars": 2942,
+ "document_id": "pmk-49-2026",
+ "document_number": "49 TAHUN 2026",
+ "document_title": "TATA CARA PEMUNGUTAN PAJAK PERTAMBAHAN NILAI TERHADAP TRANSAKSI DIGITAL LUAR NEGERI YANG DILAKUKAN MELALUI SISTEM PEMUNGUTAN PAJAK ATAS TRANSAKSI DIGITAL LUAR NEGERI",
+ "id": "pmk-49-2026--b007-8",
+ "label": "8",
+ "order": 7,
+ "quality_flags": [],
+ "quoted_pasal": null,
+ "section": "batang_tubuh",
+ "structure": "biasa",
+ "text": "Pasal 8\n(1)\nDalam rangka penyelenggaraan SPP-TDLN, diperlukan data yang terdiri atas:\na.\ndata Transaksi Digital Luar Negeri; dan/atau\nb.\ndata transaksi dalam negeri yang digunakan dalam rangka pemetaan dan analisis Transaksi Digital Luar Negeri berupa transfer dana dan\nremittance\n.\n(2)\nPihak Lain wajib menyampaikan data sebagaimana dimaksud pada ayat (1) kepada Penyelenggara SPP-TDLN untuk dikonfirmasi paling lambat pada saat Pihak Lain memberikan otorisasi pembayaran atas Transaksi Digital Luar Negeri.\n(3)\nData yang disampaikan kepada Penyelenggara SPP-TDLN untuk dikonfirmasi sebagaimana dimaksud pada ayat (2) merupakan data yang berkaitan dengan perpajakan, berupa:\na.\ndata Transaksi Digital Luar Negeri:\n1.\nNomor Referensi;\n2.\nnominal transaksi;\n3.\nmata uang transaksi;\n4.\nnama pelaku usaha;\n5.\nkode negara pelaku usaha;\n6.\ntipe pembayaran;\n7.\ntanggal dan waktu transaksi;\n8.\nnama Pihak Lain;\n9.\nkode negara Pihak Lain;\n10.\nreferensi asli transaksi; dan\n11.\ntipe transaksi tujuan;\nb.\ndata transaksi dalam negeri berupa transfer dana:\na.\nNomor Referensi;\nnominal transaksi;\nmata uang transaksi;\ntipe pembayaran;\ntanggal dan waktu transaksi;\nkode negara Pihak Lain;\nkode negara Pihak Lain;\ntipe transaksi tujuan;\ninstitusi asal; dan\ninstitusi tujuan;\ndan/atau\nc.\ndata transaksi dalam negeri berupa\nremittance\n:\n1.\nNomor Referensi;\nnominal transaksi;\nmata uang transaksi;\ntipe pembayaran;\ntanggal dan waktu transaksi;\nkode negara Pihak Lain;\nreferensi asli transaksi;\ntipe transaksi tujuan;\ninstitusi asal;\ninstitusi tujuan; dan\nremittance surcharge.\n(4)\nDalam hal tersedia dalam sistem Pihak Lain, selain data sebagaimana dimaksud pada ayat (3), Pihak Lain menyampaikan data:\na.\nnama pelaku usaha;\nb.\nkode negara pelaku usaha;\nc.\ninstitusi asal;\nd.\ninstitusi tujuan;\ne.\nremittance surcharge;\nf.\njenis barang;\ng.\nklasifikasi pelaku usaha;\nh.\nnama terdaftar pelaku usaha;\ni.\nnomor registrasi pelaku usaha;\nj.\nalamat email pelaku usaha;\nk.\nnama kota pelaku usaha;\nl.\nnomor telepon pelaku usaha;\nm.\nidentitas institusi pelaku usaha; dan/atau\nn.\ninstitusi lembaga keuangan pelaku usaha,\nsepanjang tidak termasuk data yang disampaikan sebagaimana dimaksud pada ayat (3).\n(5)\nDalam hal data sebagaimana dimaksud pada ayat (3) huruf b angka 8 atau huruf c angka 8 berupa transfer dana atau\nremittance\n, Pihak Lain menyampaikan data berupa nomor rekening tujuan dalam negeri dan luar negeri dalam bentuk nilai hasil fungsi\nhash\n.\n(6)\nPenyelenggara SPP-TDLN memberikan konfirmasi paling lama 1 (satu) hari setelah Pihak Lain menyampaikan permintaan konfirmasi sebagaimana dimaksud pada ayat (2).\n(7)\nDirektorat Jenderal Pajak berwenang untuk mengakses data sebagaimana dimaksud pada ayat (3), ayat (4), dan ayat (5) melalui Penyelenggara SPP-TDLN.\n(8)\nMekanisme penerapan fungsi hash sebagaimana dimaksud pada ayat (5) ditentukan oleh Penyelenggara SPP-TDLN dengan mengacu standar keamanan sesuai dengan ketentuan peraturan perundang-undangan.",
+ "text_source": {
+  "retrieved_at": "2026-10-16T15:21:07+00:00",
+  "source": "DJP",
+  "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pemungutan-pajak-pertambahan-nilai-terhadap-transaksi-digital-luar-negeri-yang"
+ }
+}

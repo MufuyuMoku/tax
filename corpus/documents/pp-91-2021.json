@@ -19,7 +19,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:35:03+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/03829d02-e7a8-4dd6-a7ff-d881f854b218/91TAHUN2021PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-91-2021--b000-1",
@@ -72,7 +78,26 @@
     "target_id": "pp-55-2019"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 16 TAHUN 2009 — Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-16-tahun-2009"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 100 TAHUN 2013 — Perubahan atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-100-tahun-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 55 TAHUN 2019 — Perubahan Kedua atas Peraturan Pemerintah Nomor 16 Tahun 2009 tentang Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2019"
+   }
+  ]
  },
  "source_records": [
   {
@@ -88,6 +113,7 @@
   {
    "date_as_written": "2021-08-30 00:00:00",
    "number_as_written": "PP 91 TAHUN 2021",
+   "page_retrieved_at": "2026-10-16T22:34:42+00:00",
    "retrieved_at": "2026-09-21T14:06:00+00:00",
    "selected_because": [
     "judul",
@@ -96,7 +122,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan atas Penghasilan Berupa Bunga Obligasi yang Diterima atau Diperoleh Wajib Pajak Dalam Negeri dan Bentuk Usaha Tetap",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-91-tahun-2021"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-91-tahun-2021",
+   "validity_as_written": "30 Agu 2021 - s.d. Dicabut"
   }
  ],
  "status": {

@@ -27,7 +27,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:50:12+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/a99b8e80-9694-46ab-8de1-63c2484aa636/2023pmkeuangan164.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-164-2023--b000-1",
@@ -116,7 +122,26 @@
     "target_id": "pp-23-2018"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 68/PMK.03/2010 — Batasan Pengusaha Kecil Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/68-pmk-03-2010"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 197/PMK.03/2013 — Perubahan atas Peraturan Menteri Keuangan Nomor 68/PMK.03/2010 tentang Batasan Pengusaha Kecil Pajak Pertambahan Nilai.",
+    "url": "https://jdih.kemenkeu.go.id/dok/197-pmk-03-2013"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut Sebagian                       ",
+    "source": "JDIH",
+    "text": "Mencabut Sebagian                       : 99/PMK.03/2018 — Pelaksanaan Peraturan Pemerintah Nomor 23 Tahun 2018 tentang Pajak Penghasilan atas Penghasilan Dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu",
+    "url": "https://jdih.kemenkeu.go.id/dok/99-pmk-03-2018"
+   }
+  ]
  },
  "source_records": [
   {
@@ -132,6 +157,7 @@
   {
    "date_as_written": "2023-12-29 00:00:00",
    "number_as_written": "PMK 164 TAHUN 2023",
+   "page_retrieved_at": "2026-10-16T15:49:50+00:00",
    "retrieved_at": "2026-09-21T14:17:32+00:00",
    "selected_because": [
     "judul",
@@ -140,7 +166,8 @@
    "source": "JDIH",
    "title_as_written": "Tata Cara Pengenaan Pajak Penghasilan atas Penghasilan dari Usaha yang Diterima atau Diperoleh Wajib Pajak yang Memiliki Peredaran Bruto Tertentu dan Kewajiban Pelaporan Usaha untuk Dikukuhkan sebagai Pengusaha Kena Pajak",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-164-tahun-2023"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-164-tahun-2023",
+   "validity_as_written": "29 Des 2023 - s.d. Dicabut"
   }
  ],
  "status": {

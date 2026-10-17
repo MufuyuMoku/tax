@@ -34,7 +34,13 @@
   "year": "2022"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:26:13+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/82d6ff76-02e8-460e-b603-7bfb24f8a855/59~PMK.03~2022Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-59-2022--b000-i",
@@ -104,7 +110,7 @@
   {
    "date_as_written": "2022-03-30 00:00:00",
    "number_as_written": "59/PMK.03/2022",
-   "page_retrieved_at": "2026-10-05T06:36:58+00:00",
+   "page_retrieved_at": "2026-10-16T22:25:52+00:00",
    "retrieved_at": "2026-09-21T14:19:46+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 231/PMK.03/2019 tentang Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak, Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak, serta Pemotongan dan/atau Pemungutan, Penyetoran, dan Pelaporan Pajak bagi Instansi Pemerintah",

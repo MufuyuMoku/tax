@@ -34,7 +34,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:37:56+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/37e10d22-953d-4b00-92d7-aec7b64ceefd/82~PMK.03~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-82-2021--b000-1",
@@ -92,7 +98,7 @@
    "date_as_written": "2021-07-01",
    "detail_error": null,
    "number_as_written": "82/PMK.03/2021",
-   "retrieved_at": "2026-09-22T00:31:21+00:00",
+   "retrieved_at": "2026-10-16T22:17:46+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTERI KEUANGAN NOMOR 9/PMK.03/2021 TENTANG INSENTIF PAJAK UNTUK WAJIB PAJAK TERDAMPAK PANDEMI CORONA VIRUS DISEASE 2019",
    "type_as_written": "Peraturan Menteri Keuangan",
@@ -101,7 +107,7 @@
   {
    "date_as_written": "2021-07-01 00:00:00",
    "number_as_written": "82/PMK.03/2021",
-   "page_retrieved_at": "2026-10-05T06:38:39+00:00",
+   "page_retrieved_at": "2026-10-16T22:37:33+00:00",
    "retrieved_at": "2026-09-21T14:21:17+00:00",
    "source": "JDIH",
    "title_as_written": "Perubahan atas Peraturan Menteri Keuangan Nomor 9/PMK.03/2021 tentang Insentif Pajak untuk Wajib Pajak Terdampak Pandemi Corona Virus Disease 2019",
@@ -118,8 +124,8 @@
  },
  "status_claims": [
   {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=74",
-   "retrieved_at": "2026-09-21T14:13:02+00:00",
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=75",
+   "retrieved_at": "2026-10-16T22:01:37+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak-untuk",
    "value_normalized": "berlaku",
@@ -140,7 +146,7 @@
   "chars": 12637,
   "format": "html",
   "other_postings": [],
-  "retrieved_at": "2026-09-22T00:31:21+00:00",
+  "retrieved_at": "2026-10-16T22:17:46+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-9pmk032021-tentang-insentif-pajak-untuk"

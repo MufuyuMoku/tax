@@ -31,7 +31,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:45:16+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/e10ecefc-33c6-4086-8ebd-17ce6a241cd6/237~PMK.010~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-237-2020--b000-1",
@@ -174,7 +180,7 @@
   {
    "date_as_written": "2020-12-30 00:00:00",
    "number_as_written": "237/PMK.010/2020",
-   "page_retrieved_at": "2026-10-05T06:43:44+00:00",
+   "page_retrieved_at": "2026-10-16T22:44:53+00:00",
    "retrieved_at": "2026-09-21T14:21:49+00:00",
    "source": "JDIH",
    "title_as_written": "Perlakuan Perpajakan, Kepabeanan, dan Cukai pada Kawasan Ekonomi Khusus",

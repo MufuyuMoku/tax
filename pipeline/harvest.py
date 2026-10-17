@@ -68,6 +68,9 @@ def last_page(soup):
     return 0
 
 
+canonical_path = config.canonical_djp_path  # /index.php/id/... and /id/... are one page (K-095)
+
+
 def rows(soup):
     out = []
     for row in soup.select(".views-row"):
@@ -81,7 +84,7 @@ def rows(soup):
             "jenis": field("field-jenis-dokumen"),
             "tanggal": field("field-tanggal-peraturan"),
             "status": field("field-status-peraturan"),
-            "path": link["href"] if link else None,
+            "path": canonical_path(link["href"]) if link else None,
         })
     return out
 
@@ -186,19 +189,19 @@ def lainnya_in_scope():
     if not SCOPE_LAINNYA.exists():
         return set()
     data = json.loads(SCOPE_LAINNYA.read_text(encoding="utf8"))
-    return {entry["path"] for entry in data["peraturan"] if entry.get("masuk") is True}
+    return {canonical_path(entry["path"]) for entry in data["peraturan"] if entry.get("masuk") is True}
 
 
 def detail_queue(name):
     """Paths in this category's list that still need their detail page."""
-    have = pph_paths() | {d["path"] for d in read_jsonl(DETAIL_OUT) + read_jsonl(config.HARVEST_UPDATE_DETAIL)
-                          if d.get("error") in (None, NOT_FOUND)}
+    have = {canonical_path(p) for p in pph_paths()} | {canonical_path(d["path"]) for d in read_jsonl(DETAIL_OUT) + read_jsonl(config.HARVEST_UPDATE_DETAIL)
+                                                       if d.get("error") in (None, NOT_FOUND)}
     wanted = lainnya_in_scope() if name == "Lainnya" else None
     queue = []
     # Rows found by the automatic update (M9) are queued too, e.g. a new "Lainnya" regulation that
     # entered the scope after the update listed it.
     for row in read_jsonl(LIST_OUT) + read_jsonl(config.HARVEST_UPDATE_LIST):
-        path = row.get("path")
+        path = canonical_path(row.get("path"))
         if row["_kategori_daftar"] != name or not path or path in have or path in queue:
             continue
         if OUT_OF_SCOPE.search(row.get("judul") or ""):

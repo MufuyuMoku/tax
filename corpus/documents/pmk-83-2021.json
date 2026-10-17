@@ -23,7 +23,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:37:13+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/5e72633b-d86b-43eb-9a67-3dcc5ab32744/83~PMK.03~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-83-2021--b000-i",
@@ -85,7 +91,7 @@
    "date_as_written": "2021-07-01",
    "detail_error": null,
    "number_as_written": "83/PMK.03/2021",
-   "retrieved_at": "2026-09-22T00:31:16+00:00",
+   "retrieved_at": "2026-10-16T22:17:25+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN ATAS PERATURAN MENTER! KEUANGAN NOMOR 239/PMK.03/2020 TENTANG PEMBERIAN FASILITAS PAJAK TERHADAP BARANG DAN JASA YANG DIPERLUKAN DALAM RANGKA PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 DAN PERPANJANGAN PEMBERLAKUAN FASILITAS PAJAK PENGHASILAN BERDASARKAN PERATURAN PEMERINTAH NOMOR 29 TAHUN 2020 TENTANG FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)",
    "type_as_written": "Peraturan Menteri Keuangan",
@@ -94,7 +100,7 @@
   {
    "date_as_written": "2021-07-01 00:00:00",
    "number_as_written": "83/PMK.03/2021",
-   "page_retrieved_at": "2026-10-06T01:34:00+00:00",
+   "page_retrieved_at": "2026-10-16T22:36:50+00:00",
    "retrieved_at": "2026-09-21T14:21:12+00:00",
    "selected_because": [
     "judul"
@@ -115,8 +121,8 @@
  },
  "status_claims": [
   {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=74",
-   "retrieved_at": "2026-09-21T14:13:02+00:00",
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13928&page=75",
+   "retrieved_at": "2026-10-16T22:01:37+00:00",
    "source": "DJP",
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-239pmk032020-tentang-pemberian-fasilitas",
    "value_normalized": "berlaku",
@@ -137,7 +143,7 @@
   "chars": 8289,
   "format": "html",
   "other_postings": [],
-  "retrieved_at": "2026-09-22T00:31:16+00:00",
+  "retrieved_at": "2026-10-16T22:17:25+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menter-keuangan-nomor-239pmk032020-tentang-pemberian-fasilitas"

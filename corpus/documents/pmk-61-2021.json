@@ -23,7 +23,13 @@
   "year": "2021"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:39:23+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/46dd7f8e-1a65-4448-8a0c-e495cea1da04/61~PMK.03~2021Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-61-2021--b000-1",
@@ -56,7 +62,7 @@
   {
    "date_as_written": "2021-06-07 00:00:00",
    "number_as_written": "61/PMK.03/2021",
-   "page_retrieved_at": "2026-10-05T06:38:59+00:00",
+   "page_retrieved_at": "2026-10-16T22:39:01+00:00",
    "retrieved_at": "2026-09-21T14:21:25+00:00",
    "source": "JDIH",
    "title_as_written": "Hak dan Kewajiban Perpajakan bagi Pemegang Izin Usaha Pertambangan, lzin Usaha Pertambangan Khusus, lzin Pertambangan Rakyat, lzin\nUsaha Pertambangan Khusus Operasi Produksi Sebagai Kelanjutan Operasi Kontrak, atau Kontrak Karya dalam rangka Kerja Sama di Bidang Usaha Pertambangan Mineral",

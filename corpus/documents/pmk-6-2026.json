@@ -30,7 +30,13 @@
   "year": "2026"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:23:01+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/8e87b893-e19e-4458-83bb-8c9677887832/2026pmkeuangan06.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-6-2026--b000-1",
@@ -68,6 +74,7 @@
   {
    "date_as_written": "2026-02-09 12:00:00",
    "number_as_written": "PMK 6 TAHUN 2026",
+   "page_retrieved_at": "2026-10-16T22:22:39+00:00",
    "retrieved_at": "2026-09-21T14:15:41+00:00",
    "selected_because": [
     "judul",
@@ -76,7 +83,8 @@
    "source": "JDIH",
    "title_as_written": "Pajak Penghasilan Pasal 21 atas Penghasilan yang Diterima dan/atau Diperoleh Peserta Pemagangan Lulusan Perguruan Tinggi yangDitanggung Pemerintah Tahun Anggaran 2026",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/pmk-6-tahun-2026"
+   "url": "https://jdih.kemenkeu.go.id/dok/pmk-6-tahun-2026",
+   "validity_as_written": "19 Feb 2026 - s.d. Dicabut"
   }
  ],
  "status": {

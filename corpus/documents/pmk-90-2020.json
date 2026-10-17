@@ -19,7 +19,13 @@
   "year": "2020"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:59:20+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/4dd3bd2d-a614-4f51-9851-d6d8cd4c9e03/90~PMK.03~2020Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-90-2020--b000-1",
@@ -56,7 +62,14 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 114 TAHUN 2025 — Perlakuan atas Bantuan atau Sumbangan Termasuk Zakat atau Sumbangan Keagamaan yang Sifatnya Wajib, serta Harta Hibahan dalam Pajak Penghasilan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-114-tahun-2025"
+   }
+  ]
  },
  "source_records": [
   {
@@ -72,6 +85,7 @@
   {
    "date_as_written": "2020-07-20 00:00:00",
    "number_as_written": "90/PMK.03/2020",
+   "page_retrieved_at": "2026-10-16T22:58:58+00:00",
    "retrieved_at": "2026-09-21T14:22:45+00:00",
    "selected_because": [
     "judul"
@@ -79,7 +93,8 @@
    "source": "JDIH",
    "title_as_written": "Bantuan atau Sumbangan, serta Harta Hibahan yang Dikecualikan sebagai Objek Pajak Penghasilan",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-03-2020"
+   "url": "https://jdih.kemenkeu.go.id/dok/90-pmk-03-2020",
+   "validity_as_written": "21 Jul 2020 - 31 Des 2025"
   }
  ],
  "status": {

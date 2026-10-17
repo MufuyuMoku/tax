@@ -67,21 +67,11 @@
    "date_as_written": "2026-07-28",
    "detail_error": null,
    "number_as_written": "PER-8/PJ/2026",
-   "retrieved_at": "2026-09-21T14:45:49+00:00",
-   "source": "DJP",
-   "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-10/PJ/2024 TENTANG KETENTUAN PEMBAYARAN DAN PENYETORAN PAJAK SERTA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASIPERPAJAKAN",
-   "type_as_written": "Peraturan Dirjen Pajak",
-   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan"
-  },
-  {
-   "date_as_written": "2026-07-28",
-   "detail_error": null,
-   "number_as_written": "PER-8/PJ/2026",
    "retrieved_at": "2026-10-04T02:53:39+00:00",
    "source": "DJP",
    "title_as_written": "PERUBAHAN ATAS PERATURAN DIREKTUR JENDERAL PAJAK NOMOR PER-10/PJ/2024 TENTANG KETENTUAN PEMBAYARAN DAN PENYETORAN PAJAK SERTA PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK DALAM RANGKA PELAKSANAAN SISTEM INTI ADMINISTRASIPERPAJAKAN",
    "type_as_written": "Peraturan Dirjen Pajak",
-   "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan"
+   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan"
   }
  ],
  "status": {
@@ -97,14 +87,6 @@
    "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan",
    "value_normalized": "berlaku",
    "value_verbatim": "Aktif"
-  },
-  {
-   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=0",
-   "retrieved_at": "2026-10-03T02:29:17+00:00",
-   "source": "DJP",
-   "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan",
-   "value_normalized": "berlaku",
-   "value_verbatim": "Aktif"
   }
  ],
  "structure": "perubahan",
@@ -112,16 +94,8 @@
   "available": true,
   "chars": 9899,
   "format": "html",
-  "other_postings": [
-   {
-    "chars": 9899,
-    "differs_from_chosen": false,
-    "retrieved_at": "2026-10-04T02:53:39+00:00",
-    "source": "DJP",
-    "url": "https://www.pajak.go.id/index.php/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan"
-   }
-  ],
-  "retrieved_at": "2026-09-21T14:45:49+00:00",
+  "other_postings": [],
+  "retrieved_at": "2026-10-04T02:53:39+00:00",
   "source": "DJP",
   "unavailable_reason": null,
   "url": "https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-direktur-jenderal-pajak-nomor-10pj2024-tentang-ketentuan"

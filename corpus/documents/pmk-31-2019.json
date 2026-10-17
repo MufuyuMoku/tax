@@ -23,7 +23,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:26:09+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/8fe5058b-1546-4d9d-a3fd-ab85d0b91d72/31~PMK.010~2019Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-31-2019--b000-1",
@@ -72,7 +78,7 @@
   {
    "date_as_written": "2019-03-29 00:00:00",
    "number_as_written": "31/PMK.010/2019",
-   "page_retrieved_at": "2026-10-05T07:01:44+00:00",
+   "page_retrieved_at": "2026-10-16T23:25:48+00:00",
    "retrieved_at": "2026-09-21T14:24:42+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor 210/PMK.010/2018 tentang Perlakuan Perpajakan atas Transaksi Perdagangan Melalui Sistem Elektronik (E-Commerce).",

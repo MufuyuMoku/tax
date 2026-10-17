@@ -19,7 +19,13 @@
   "year": "2023"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T15:53:04+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/e9f817db-9153-4566-b630-6d56c0f03e46/2023pmkeuangan127.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-127-2023--b000-1",
@@ -68,7 +74,7 @@
   {
    "date_as_written": "2023-11-27 00:00:00",
    "number_as_written": "PMK 127 TAHUN 2023",
-   "page_retrieved_at": "2026-10-05T14:49:53+00:00",
+   "page_retrieved_at": "2026-10-16T15:52:43+00:00",
    "retrieved_at": "2026-09-21T14:17:44+00:00",
    "source": "JDIH",
    "title_as_written": "Pencabutan Peraturan Menteri Keuangan Nomor \r 188/PMK.04/2020 tentang Pemberian Fasilitas Kepabeanan dan/atau Cukai serta Perpajakan atas Impor Pengadaan Vaksin dalam rangka Penanganan Pandemi Corona Virus Disease 2019 (COVID-19)",

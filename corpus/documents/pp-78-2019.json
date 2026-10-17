@@ -19,7 +19,13 @@
   "year": "2019"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T23:16:02+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/eeeefc58-a031-4346-852a-fbd772bd3c1c/78TAHUN2019PP.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pp-78-2019--b000-1",
@@ -82,7 +88,20 @@
     "target_id": "pp-9-2016"
    }
   ],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 9 TAHUN 2016 — Perubahan atas Peraturan Pemerintah Nomor 18 Tahun 2015 tentang Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-9-tahun-2016"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mencabut",
+    "source": "JDIH",
+    "text": "Mencabut: PP 18 TAHUN 2015 — Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu\r\nDan/Atau di Daerah-Daerah Tertentu.",
+    "url": "https://jdih.kemenkeu.go.id/dok/pp-18-tahun-2015"
+   }
+  ]
  },
  "source_records": [
   {
@@ -98,6 +117,7 @@
   {
    "date_as_written": "2019-11-12 00:00:00",
    "number_as_written": "PP 78 TAHUN 2019",
+   "page_retrieved_at": "2026-10-16T23:15:40+00:00",
    "retrieved_at": "2026-09-21T14:06:31+00:00",
    "selected_because": [
     "judul"
@@ -105,7 +125,8 @@
    "source": "JDIH",
    "title_as_written": "Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang-Bidang Usaha Tertentu dan/atau di Daerah-Daerah Tertentu",
    "type_as_written": "Peraturan Pemerintah",
-   "url": "https://jdih.kemenkeu.go.id/dok/pp-78-tahun-2019"
+   "url": "https://jdih.kemenkeu.go.id/dok/pp-78-tahun-2019",
+   "validity_as_written": "12 Nov 2019 - s.d. Dicabut"
   }
  ],
  "status": {

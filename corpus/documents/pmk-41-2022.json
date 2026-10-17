@@ -30,7 +30,13 @@
   "year": "2022"
  },
  "identity_conflicts": [],
- "original_files": [],
+ "original_files": [
+  {
+   "reason": "mutu teks berkas belum diperiksa",
+   "retrieved_at": "2026-10-16T22:29:08+00:00",
+   "url": "https://jdih.kemenkeu.go.id/api/download/713409b5-ea71-4490-8a51-33359c78c3bc/41~PMK.010~2022Per.pdf"
+  }
+ ],
  "pajak_daerah": null,
  "pasal_ids": [
   "pmk-41-2022--b000-i",
@@ -85,7 +91,32 @@
    }
   ],
   "revokes": [],
-  "source_listed_related": []
+  "source_listed_related": [
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 34/PMK.010/2017 — Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+    "url": "https://jdih.kemenkeu.go.id/dok/34-pmk-010-2017"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Mengubah",
+    "source": "JDIH",
+    "text": "Mengubah: 110/PMK.010/2018 — Perubahan atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain",
+    "url": "https://jdih.kemenkeu.go.id/dok/110-pmk-010-2018"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut sebagian dengan                 ",
+    "source": "JDIH",
+    "text": "Dicabut sebagian dengan                 : PMK 48 TAHUN 2023 — Pajak Penghasilan dan/atau Pajak Pertambahan Nilai atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, Batu Permata dan/atau Batu Lainnya yang Sejenis, Serta Jasa yang Terkait dengan Emas Perhiasan, Emas Batangan, Perhiasan yang Bahan Seluruhnya Bukan Dari Emas, dan/atau Batu Permata dan/atau Batu Lainnya Yang Sejenis, yang Dilakukan oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, dan/atau Pengusaha Emas Batangan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-48-tahun-2023"
+   },
+   {
+    "note": "jenis relasi menurut JDIH: Dicabut dengan",
+    "source": "JDIH",
+    "text": "Dicabut dengan: PMK 81 TAHUN 2024 — Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan",
+    "url": "https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024"
+   }
+  ]
  },
  "source_records": [
   {
@@ -101,6 +132,7 @@
   {
    "date_as_written": "2022-03-30 00:00:00",
    "number_as_written": "41/PMK.010/2022",
+   "page_retrieved_at": "2026-10-16T22:28:42+00:00",
    "retrieved_at": "2026-09-21T14:19:54+00:00",
    "selected_because": [
     "judul",
@@ -109,7 +141,8 @@
    "source": "JDIH",
    "title_as_written": "Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 34/PMK.010/2017 tentang Pemungutan Pajak Penghasilan Pasal 22 Sehubungan Dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain",
    "type_as_written": "Peraturan Menteri",
-   "url": "https://jdih.kemenkeu.go.id/dok/41-pmk-010-2022"
+   "url": "https://jdih.kemenkeu.go.id/dok/41-pmk-010-2022",
+   "validity_as_written": "01 Apr 2022 - 18 Okt 2024"
   }
  ],
  "status": {
