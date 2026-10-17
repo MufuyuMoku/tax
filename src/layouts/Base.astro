@@ -25,9 +25,9 @@ const dataVersion = formatDate(dataDate());
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    {/* Icons (K-084): the SVG for current browsers, favicon.ico for the rest. */}
+    {/* Icons (K-084, K-098): the SVG for current browsers, favicon.ico for the rest. */}
     <link rel="icon" href={`${base}favicon.ico`} sizes="16x16 32x32 48x48" />
-    <link rel="icon" href={`${base}ikon.svg`} type="image/svg+xml" />
+    <link rel="icon" href={`${base}ikon-lencana.svg`} type="image/svg+xml" />
     {/* Installing on a phone and offline use (M6, K-082). */}
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
     <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
@@ -38,11 +38,11 @@ const dataVersion = formatDate(dataDate());
   <body>
     <div class="wrap">
       <header class="atas">
-        <a class="merek" href={base}><img src={`${base}ikon.svg`} alt="" width="28" height="28" />{APP_NAME}</a>
+        <a class="merek" href={base}><img src={`${base}ikon-lencana.svg`} alt="" width="28" height="28" />{APP_NAME}</a>
         <nav aria-label="Navigasi utama">
           <a href={base}>Cari</a>
           <a href={`${base}tersimpan/`}>Tersimpan</a>
-          <a href={`${base}koleksi/`}>Koleksi<span class="nav-panjang"> pribadi</span></a>
+          <a href={`${base}koleksi/`}>Koleksi<span class="nav-panjang">&nbsp;pribadi</span></a>
           <a href={`${base}cara-pakai/`}>Cara pakai</a>
         </nav>
         <details class="tampilan">

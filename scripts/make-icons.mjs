@@ -1,10 +1,12 @@
-// Renders the app icons in public/ from the SVG sources (K-084), with a local Chrome; no packages.
+// Renders the app icons in public/ from the SVG sources (K-084, K-098), with a local Chrome; no packages.
 //
 //   node scripts/make-icons.mjs [preview.png]
 //
-// public/ikon.svg           the icon (rounded square), also used as the SVG favicon
-// public/ikon-maskable.svg  full-bleed variant for Android's masks and Apple's touch icon
-// Writes ikon-192.png, ikon-512.png, ikon-maskable-512.png, apple-touch-icon.png (180) and
+// public/ikon-lencana.svg           the icon (rounded square), also used as the SVG favicon
+// public/ikon-lencana-maskable.svg  full-bleed variant for Android's masks and Apple's touch icon
+// The file names carry the icon's name: a new icon gets new URLs in the manifest, which is what
+// makes installed copies (same manifest id) fetch and show it.
+// Writes ikon-lencana-192.png, ikon-lencana-512.png, ikon-lencana-maskable-512.png, apple-touch-icon.png (180) and
 // favicon.ico (16, 32, 48). With a path, also a preview sheet: several sizes on light and dark.
 import fs from "node:fs";
 import path from "node:path";
@@ -54,11 +56,11 @@ function ico(pngs) {
 
 try {
   const out = {
-    "ikon-192.png": await icon("ikon.svg", 192),
-    "ikon-512.png": await icon("ikon.svg", 512),
-    "ikon-maskable-512.png": await icon("ikon-maskable.svg", 512),
-    "apple-touch-icon.png": await icon("ikon-maskable.svg", 180),
-    "favicon.ico": ico([[16, await icon("ikon.svg", 16)], [32, await icon("ikon.svg", 32)], [48, await icon("ikon.svg", 48)]]),
+    "ikon-lencana-192.png": await icon("ikon-lencana.svg", 192),
+    "ikon-lencana-512.png": await icon("ikon-lencana.svg", 512),
+    "ikon-lencana-maskable-512.png": await icon("ikon-lencana-maskable.svg", 512),
+    "apple-touch-icon.png": await icon("ikon-lencana-maskable.svg", 180),
+    "favicon.ico": ico([[16, await icon("ikon-lencana.svg", 16)], [32, await icon("ikon-lencana.svg", 32)], [48, await icon("ikon-lencana.svg", 48)]]),
   };
   for (const [name, bytes] of Object.entries(out)) {
     fs.writeFileSync(path.join(PUBLIC, name), bytes);
@@ -75,10 +77,10 @@ try {
       `</div>`;
     const html =
       `<html><body style="margin:0">` +
-      row("#ffffff", "#1a1a1a", "ikon.svg", "Latar terang", false) +
-      row("#15181c", "#e8e8e8", "ikon.svg", "Latar gelap", false) +
-      row("#ffffff", "#1a1a1a", "ikon-maskable.svg", "Android, topeng bulat", true) +
-      row("#15181c", "#e8e8e8", "ikon-maskable.svg", "Android, topeng bulat", true) +
+      row("#ffffff", "#1a1a1a", "ikon-lencana.svg", "Latar terang", false) +
+      row("#15181c", "#e8e8e8", "ikon-lencana.svg", "Latar gelap", false) +
+      row("#ffffff", "#1a1a1a", "ikon-lencana-maskable.svg", "Android, topeng bulat", true) +
+      row("#15181c", "#e8e8e8", "ikon-lencana-maskable.svg", "Android, topeng bulat", true) +
       `</body></html>`;
     fs.writeFileSync(preview, await render(html.replace("<body style=\"margin:0\">", "<body style=\"margin:0;overflow:hidden\">"), 760, 4 * 176));
     console.log(preview);

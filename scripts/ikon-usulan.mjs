@@ -1,7 +1,9 @@
-// Three proposed app icons for Saku Pajak (K-097): a plain rabbit with pointed ears, no mouth,
+// The Saku Pajak app icon, from the three proposals of K-097; the owner chose C, "lencana" (K-098),
+// and proposals A (head in the pocket) and B (whole rabbit) were removed; they remain in git history.
+// The design: a plain rabbit with pointed ears, no mouth,
 // black and gold, of the same family as the Pyonkuro mark but not that mark, peeking from a pocket
-// with a magnifying glass. Nothing is installed: this writes the SVG sources and one preview sheet
-// per variant into docs/ikon-usulan/.
+// with a magnifying glass. This writes the SVG sources and the preview sheet into docs/ikon-usulan/;
+// public/ikon-lencana*.svg are copies of those sources, rendered by scripts/make-icons.mjs.
 //
 //   node scripts/ikon-usulan.mjs
 //
@@ -47,28 +49,6 @@ const pocket = (x0, x1, top, bottom) => {
 };
 
 const VARIANTS = {
-  "a-kepala-di-saku": {
-    title: "A. Kepala dan telinga di atas saku",
-    note: "Kelinci mengintip dari saku, kaca pembesar di tepi saku. Paling dekat dengan nama “Saku Pajak”.",
-    art: () =>
-      ear(222, 210, 84, -10) +
-      ear(290, 210, 84, 10) +
-      `<circle cx="256" cy="248" r="74" fill="${GOLD}"/>` +
-      lens(368, 228, 44, 135, 46) +
-      pocket(126, 386, 282, 440),
-  },
-  "b-kelinci-utuh": {
-    title: "B. Kelinci utuh dengan kaca pembesar",
-    note: "Kelinci duduk di dalam saku sambil mengangkat kaca pembesar. Lebih bercerita, detail lebih kecil.",
-    art: () =>
-      ear(186, 182, 88, -8) +
-      ear(244, 182, 88, 8) +
-      `<circle cx="215" cy="214" r="58" fill="${GOLD}"/>` +
-      `<ellipse cx="222" cy="338" rx="86" ry="88" fill="${GOLD}" stroke="${INK}" stroke-width="12" paint-order="stroke"/>` +
-      lens(352, 236, 50, 140, 52) +
-      `<ellipse cx="300" cy="318" rx="26" ry="20" fill="${GOLD}" stroke="${INK}" stroke-width="10" paint-order="stroke"/>` +
-      pocket(122, 390, 350, 452),
-  },
   "c-lencana": {
     title: "C. Siluet lencana",
     note: "Lingkaran lencana, saku dengan kaca pembesar sebagai lambang, dan dua telinga yang menyembul. Paling jelas di 16 px.",

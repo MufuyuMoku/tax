@@ -45,8 +45,8 @@ Object.assign(manifest, {
   appVersionName: versionName,
   signingKey: { path: KEYSTORE, alias: "sakupajak" },
   // PNG icons: Bubblewrap cannot render the SVG one into launcher sizes.
-  iconUrl: "https://mufuyumoku.github.io/tax/ikon-512.png",
-  maskableIconUrl: "https://mufuyumoku.github.io/tax/ikon-maskable-512.png",
+  iconUrl: "https://mufuyumoku.github.io/tax/ikon-lencana-512.png",
+  maskableIconUrl: "https://mufuyumoku.github.io/tax/ikon-lencana-maskable-512.png",
   generatorApp: "bubblewrap-core (Saku Pajak, K-094)",
 });
 console.log("ikon:", manifest.iconUrl, "maskable:", manifest.maskableIconUrl);

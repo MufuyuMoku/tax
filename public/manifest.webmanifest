@@ -10,9 +10,9 @@
   "background_color": "#ffffff",
   "theme_color": "#1f4f82",
   "icons": [
-    { "src": "ikon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
-    { "src": "ikon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "ikon-lencana.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "ikon-lencana-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "ikon-lencana-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "ikon-lencana-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }

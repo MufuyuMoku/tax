@@ -1977,3 +1977,26 @@ Pyonkuro: tanpa cincin bertakik. Tanpa lambang negara atau logo DJP/Kemenkeu.
 - **C. Lencana:** lingkaran, dua telinga di atas saku yang berlambang kaca pembesar.
 Isi versi maskable berada di dalam zona aman 80%. Belum dipasang. Pembuatan ulang APK menunggu
 pilihan ini. Skripnya `scripts/ikon-usulan.mjs`.
+
+## K-098 — Ikon C "lencana" dipasang; APK 1.3.1
+Tanggal: 2026-10-17 · Keputusan pemilik · Status: berlaku
+
+**Pilihan:** pemilik memilih usulan C, "lencana" (K-097). Usulan A dan B dihapus dari
+`docs/ikon-usulan/` dan dari `scripts/ikon-usulan.mjs`; keduanya tetap ada di riwayat git.
+
+**Dipasang di semua tempat:**
+- `public/ikon-lencana.svg` (salinan sumber C), dipakai di kepala halaman dan sebagai favicon SVG;
+- `public/ikon-lencana-maskable.svg`;
+- dirender `scripts/make-icons.mjs`: ikon 192 dan 512, maskable 512, `apple-touch-icon.png` (180),
+  dan `favicon.ico` (16, 32, 48);
+- manifes.
+Warna tema situs (`theme_color` biru) tidak diubah: gaya visual dipertahankan.
+
+**Aplikasi yang sudah terpasang:** `id` manifes tetap `/tax/`, jadi tetap aplikasi yang sama. Nama
+berkas ikon sengaja diganti (`ikon-lencana-*`): Chrome memeriksa ulang manifes aplikasi terpasang
+dan memperbarui ikonnya bila URL ikon berubah. Mengganti isi berkas dengan nama yang sama tidak
+selalu terdeteksi. Di Android, Chrome bisa meminta persetujuan pengguna sekali. `favicon.ico` dan
+`apple-touch-icon.png` tetap bernama sama karena namanya baku.
+
+**APK:** dibangun ulang dengan ikon C dari URL baru, memakai keystore yang sama. Hasil dan
+verifikasinya di `docs/ANDROID.md` dan laporan v1.3.1.
