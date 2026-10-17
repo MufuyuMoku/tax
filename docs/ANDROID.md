@@ -55,24 +55,39 @@ Bahan pembuatnya ada di luar repo, di `%USERPROFILE%\SakuPajak-android\`:
   rekursif**, karena isi SDK sungguhan bisa ikut terhapus; pakai `rmdir` untuk tiap junction.
 
 Langkah:
-1. Naikkan nomor versi. `versionCode` harus lebih besar dari rilis sebelumnya, misalnya 2;
-   `versionName` disamakan dengan versi aplikasi, misalnya 1.3.0.
+1. Naikkan nomor versi. `versionCode` harus lebih besar dari rilis sebelumnya (rilis terakhir: 2);
+   `versionName` disamakan dengan versi aplikasi, misalnya 1.4.0.
 2. Di PowerShell, dari `%USERPROFILE%\SakuPajak-android`:
-   `$env:SAKU_KS_PASS = "<kata sandi keystore>"; node bangun.mjs 2 1.3.0`
-3. Hasilnya `hasil\SakuPajak-1.3.0.apk`. Hitung SHA-256-nya dengan
-   `certutil -hashfile hasil\SakuPajak-1.3.0.apk SHA256`.
+   `$env:SAKU_KS_PASS = "<kata sandi keystore>"; $env:SAKU_KEYSTORE = "<lokasi keystore>"; node bangun.mjs 3 1.4.0`
+   `SAKU_KEYSTORE` boleh dilewati bila keystore ada di `Documents\SakuPajak-kunci-tanda-tangan\`
+   tanpa sinkronisasi OneDrive.
+3. Hasilnya `hasil\SakuPajak-1.4.0.apk`. Hitung SHA-256-nya dengan
+   `certutil -hashfile hasil\SakuPajak-1.4.0.apk SHA256`.
 4. Bagikan berkasnya bersama SHA-256-nya. Bila ingin dilampirkan ke GitHub Release:
-   `gh release create apk-1.3.0 hasil\SakuPajak-1.3.0.apk --title "Saku Pajak APK 1.3.0"`.
+   `gh release create apk-1.4.0 hasil\SakuPajak-1.4.0.apk --title "Saku Pajak APK 1.4.0"`.
    **APK tidak pernah di-commit ke repo.**
+
+Ikon peluncur diambil dari situs saat membangun (`ikon-lencana-512.png` dan
+`ikon-lencana-maskable-512.png`). Bila ikon situs berganti, terbitkan situsnya dulu, baru bangun APK.
+
+Rilis APK:
+
+| Versi | versionCode | Tanggal | SHA-256 | Catatan |
+|---|---|---|---|---|
+| 1.2.1 | 1 | 2026-10-17 | `d7f11cfc…dfe7ad` | rilis pertama, ikon lama |
+| 1.3.1 | 2 | 2026-10-17 | `ccdaf627…c819fa` | ikon C "lencana" (K-098); kunci sama |
 
 APK baru hanya bisa memperbarui APK lama bila ditandatangani dengan **kunci yang sama**.
 
 ## Kunci tanda tangan
 
-- **Lokasi:** `%USERPROFILE%\Documents\SakuPajak-kunci-tanda-tangan\sakupajak-upload.keystore`,
-  alias `sakupajak`.
-- **Kata sandi:** di berkas `KATA-SANDI-PINDAHKAN-LALU-HAPUS.txt` di folder yang sama. Pindahkan ke
-  pengelola kata sandi, lalu hapus berkas itu.
+- **Lokasi:** `sakupajak-upload.keystore`, alias `sakupajak`. Sejak 2026-10-17 berada di
+  `%USERPROFILE%\OneDrive\Documents\SakuPajak-kunci-tanda-tangan\`: folder Documents di laptop ini
+  disinkronkan ke OneDrive.
+- **Kata sandi:** masih di berkas `KATA-SANDI-PINDAHKAN-LALU-HAPUS.txt` di folder yang sama, jadi
+  **ikut tersinkron ke OneDrive bersama keystore-nya**. Siapa pun yang bisa membuka OneDrive itu
+  memegang keduanya. Pindahkan kata sandi ke pengelola kata sandi, lalu hapus berkas itu (juga dari
+  Recycle Bin OneDrive).
 - **Cadangan:** wajib di **dua tempat terpisah**, misalnya flashdisk yang disimpan di rumah dan
   penyimpanan awan pribadi yang terenkripsi. Cadangkan keystore dan kata sandinya. **Bila keduanya
   hilang, APK Saku Pajak tidak bisa diperbarui lagi**: Android menolak memasang pembaruan yang

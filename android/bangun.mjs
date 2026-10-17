@@ -1,7 +1,7 @@
 // Builds the Saku Pajak Android app (Trusted Web Activity) with @bubblewrap/core (K-094).
 // Lives outside the site repository, next to the generated Android project.
 //
-//   SAKU_KS_PASS=... node bangun.mjs <versionCode> <versionName>
+//   SAKU_KS_PASS=... [SAKU_KEYSTORE=...] node bangun.mjs <versionCode> <versionName>
 //
 // The keystore stays where it is (outside every repository); its password comes from the
 // environment and is never written to disk by this script.
@@ -15,7 +15,10 @@ const [versionCode = "1", versionName = "1.2.1"] = process.argv.slice(2);
 const JDK = "C:/Program Files/Android/Android Studio/jbr";
 // Bubblewrap expects the old SDK layout (bin/ at the root); sdk/ holds junctions to the real SDK.
 const SDK = path.resolve("sdk");
-const KEYSTORE = path.join(os.homedir(), "Documents", "SakuPajak-kunci-tanda-tangan", "sakupajak-upload.keystore");
+// SAKU_KEYSTORE: where the keystore is now (the owner may move it, e.g. into a synced folder).
+const KEYSTORE =
+  process.env.SAKU_KEYSTORE || path.join(os.homedir(), "Documents", "SakuPajak-kunci-tanda-tangan", "sakupajak-upload.keystore");
+if (!fs.existsSync(KEYSTORE)) throw new Error(`keystore tidak ditemukan: ${KEYSTORE} (setel SAKU_KEYSTORE)`);
 const PROJECT = path.resolve("proyek");
 const OUT = path.resolve("hasil");
 const password = process.env.SAKU_KS_PASS;
