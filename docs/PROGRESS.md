@@ -17,6 +17,37 @@ angka nyata, bukan klaim.
 
 ---
 
+## v1.3.0 — kredit, usulan ikon, perbaikan pengalaman pengguna
+Tanggal: 2026-10-17
+Status: v1.3.0 terbit (tag `v1.3.0`); ikon menunggu pilihan pemilik, lalu APK dibangun ulang
+
+**Dibangun** (K-096, K-097):
+- kredit "Dibuat oleh Mufuyu Moku (Pyonkuro) bersama ilmu.net" di kaki halaman dan Tentang;
+- kotak definisi di atas hasil;
+- tombol Simpan dan halaman Tersimpan;
+- 10 pencarian terakhir di bawah kotak cari;
+- saran saat tidak ada hasil;
+- kemajuan pembukaan pertama dalam persen dan MB;
+- tiga usulan ikon di `docs/ikon-usulan/`.
+
+**Verifikasi:**
+- `npm test` lulus, termasuk uji kesetaraan peringkat, uji kontras, `tests/search/definisi.test.mjs`
+  (enam istilah uji), dan uji cadangan dengan daftar Tersimpan dan riwayat.
+- Build: 23.707 halaman luring sama persis dengan halaman terbit.
+- `scripts/uji-luring.mjs`: 22 dari 22 lulus, termasuk empat pemeriksaan baru.
+- Tangkapan sebelum (situs v1.2.1) dan sesudah dibuat dengan `scripts/tangkap-ux.mjs` di 320 px dan
+  desktop, tanpa gulir samping.
+- Data pencarian bertambah 0,5 MB mentah (36,0 menjadi 36,5 MB).
+
+**Diputuskan sendiri:**
+- Definisi dari peraturan yang statusnya berbeda antar sumber hanya dipakai bila tidak ada yang
+  berlaku, dan diberi tanda.
+- Pencarian dicatat di riwayat hanya bila dikirim atau hasilnya dibuka.
+- Di 320 px, menu "Koleksi pribadi" disingkat "Koleksi".
+- Path folder pengguna Windows di dokumen diganti `%USERPROFILE%`.
+
+**Belum dikerjakan:** pemasangan ikon dan APK 1.3.0 (menunggu pilihan ikon); K-092; penyapuan JDIH.
+
 ## v1.2.1 — putaran sungguhan pertama, hak cipta, APK Android
 Tanggal: 2026-10-17
 Status: v1.2.1 terbit (tag `v1.2.1`); APK lihat K-094

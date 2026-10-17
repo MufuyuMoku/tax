@@ -38,13 +38,21 @@ function order(records) {
   return records.slice().sort((a, b) => (a.importedAt < b.importedAt ? -1 : a.importedAt > b.importedAt ? 1 : a.id < b.id ? -1 : 1));
 }
 
-/** The backup file's bytes. No date inside: the export date goes into the file name only. */
-export function exportBackup(records) {
+/**
+ * The backup file's bytes. No date inside: the export date goes into the file name only. Saved
+ * pages and the last searches (K-096) travel in the same file, under keys left out when empty, so
+ * a collection-only backup is byte for byte what it was before, and older versions read it as
+ * before.
+ */
+export function exportBackup(records, { saved = [], history = [] } = {}) {
   const documents = order(records).map((record) => ({
     ...record,
     file: record.file ? { ...record.file, bytes: toBase64(record.file.bytes) } : null,
   }));
-  const text = canonical({ format: FORMAT, version: VERSION, count: documents.length, documents }) + "\n";
+  const content = { format: FORMAT, version: VERSION, count: documents.length, documents };
+  if (saved.length) content.tersimpan = saved;
+  if (history.length) content.riwayat = history;
+  const text = canonical(content) + "\n";
   return new TextEncoder().encode(text);
 }
 
@@ -52,6 +60,11 @@ export class BackupError extends Error {}
 
 /** Records from a backup file. Every embedded file is checked against its recorded SHA-256. */
 export async function parseBackup(bytes) {
+  return (await readBackup(bytes)).records;
+}
+
+/** { records, saved, history } from a backup file; the last two are empty in older backups. */
+export async function readBackup(bytes) {
   let data;
   try {
     data = JSON.parse(new TextDecoder("utf-8", { fatal: true }).decode(bytes));
@@ -76,7 +89,12 @@ export async function parseBackup(bytes) {
     }
     records.push({ ...document, file, verified: false });
   }
-  return records;
+  const list = (value, check) => (Array.isArray(value) ? value.filter(check) : []);
+  return {
+    records,
+    saved: list(data.tersimpan, (s) => s && (s.kind === "pasal" || s.kind === "dokumen") && typeof s.id === "string"),
+    history: list(data.riwayat, (q) => typeof q === "string" && q.trim()),
+  };
 }
 
 /**

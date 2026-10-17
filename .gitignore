@@ -56,3 +56,6 @@ dist-sebelum/
 *.idsig
 KATA-SANDI*
 keystore*.properties
+
+# Screenshots for reports (before/after), never committed
+tangkapan/

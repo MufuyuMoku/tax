@@ -7,6 +7,7 @@
 // environment and is never written to disk by this script.
 import { execFileSync } from "node:child_process";
 import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import { AndroidSdkTools, Config, ConsoleLog, JdkHelper, TwaGenerator, TwaManifest } from "@bubblewrap/core";
 
@@ -14,7 +15,7 @@ const [versionCode = "1", versionName = "1.2.1"] = process.argv.slice(2);
 const JDK = "C:/Program Files/Android/Android Studio/jbr";
 // Bubblewrap expects the old SDK layout (bin/ at the root); sdk/ holds junctions to the real SDK.
 const SDK = path.resolve("sdk");
-const KEYSTORE = "C:/Users/sorar/Documents/SakuPajak-kunci-tanda-tangan/sakupajak-upload.keystore";
+const KEYSTORE = path.join(os.homedir(), "Documents", "SakuPajak-kunci-tanda-tangan", "sakupajak-upload.keystore");
 const PROJECT = path.resolve("proyek");
 const OUT = path.resolve("hasil");
 const password = process.env.SAKU_KS_PASS;

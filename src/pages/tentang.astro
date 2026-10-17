@@ -4,7 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import Base from "../layouts/Base.astro";
-import { APP_NAME, COPYRIGHT } from "../lib/brand.js";
+import { APP_NAME, COPYRIGHT, MAKERS, PARTNER } from "../lib/brand.js";
 import { CATEGORIES, formatDate } from "../lib/labels.js";
 import { dataDate, loadIndex, loadMeta } from "../lib/corpus.js";
 
@@ -117,6 +117,9 @@ const included = scope.filter((e) => e.masuk === true).length;
 
   <h2 id="hak-cipta">Hak cipta</h2>
   <ul>
+    <li>
+      Dibuat oleh {MAKERS} bersama <a href={PARTNER.url}>{PARTNER.name}</a>.
+    </li>
     <li>
       <strong>Aplikasinya</strong> (kode, desain, tampilan): {COPYRIGHT}. Semua hak dilindungi.
     </li>

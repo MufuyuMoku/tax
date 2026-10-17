@@ -19,7 +19,7 @@ Tanggal: YYYY-MM-DD · Milestone: M<n> · Status: berlaku | diganti oleh K-<nnn>
 ## K-001 — Repo dibuat di folder proyek yang sudah ada, bukan folder baru
 Tanggal: 2026-09-27 · Milestone: M0 · Status: berlaku
 
-**Keputusan:** `git init` dijalankan di `C:\Users\sorar\Downloads\Tax`, folder yang sudah memuat
+**Keputusan:** `git init` dijalankan di `%USERPROFILE%\Downloads\Tax`, folder yang sudah memuat
 `poc/`, sehingga arsip bukti konsep langsung berada di dalam repo tanpa dipindahkan.
 **Alasan:** hasilnya sama persis dengan yang diminta (poc di dalam repo bernama tax), tanpa
 memindahkan 570 MB berkas dan tanpa risiko putusnya jejak berkas.
@@ -87,7 +87,7 @@ Tanggal: 2026-09-27 · Milestone: M0 · Status: berlaku · Mengganti: K-004
 
 **Keputusan:** `poc/raw/` tidak lagi dilacak git, dan riwayat ditulis ulang sehingga berkasnya tidak
 ada di revisi mana pun. Salinannya lebih dulu dipindahkan ke luar repo, ke
-`C:\Users\sorar\Downloads\tax-poc-raw-archive` (1.475 berkas, 166,9 MB, diverifikasi identik), dan
+`%USERPROFILE%\Downloads\tax-poc-raw-archive` (1.475 berkas, 166,9 MB, diverifikasi identik), dan
 aslinya tetap ada di disk.
 **Alasan:** K-004 salah menimbang. `poc/raw/` berisi salinan utuh halaman DJP, termasuk tata letak,
 metadata, klasifikasi, dan abstrak. Bagian-bagian itu tetap dilindungi hak cipta menurut temuan
@@ -142,7 +142,7 @@ Tanggal: 2026-09-27 · Milestone: M0 · Status: berlaku
 `poc/data/jdih_metadata.jsonl` (17.342 bidang), `poc/data/djp_pph_detail.jsonl` (2.928 bidang), dan
 `poc/data/jdih_pph_candidates.jsonl` (614 bidang). `poc/data/jdih_aggregate_filter.json`, yang
 justru memuat kamus label/tematik/bidang JDIH, dipindahkan seluruhnya ke luar repo. Salinan penuh
-semuanya ada di `C:\Users\sorar\Downloads\tax-poc-private`. Sisa uji (`_test_detail.jsonl`,
+semuanya ada di `%USERPROFILE%\Downloads\tax-poc-private`. Sisa uji (`_test_detail.jsonl`,
 `_test_slugs.txt`) dan empat berkas `.log` ikut dipindahkan ke luar.
 **Alasan:** klasifikasi buatan sumber tetap dilindungi hak cipta walaupun teks peraturannya tidak
 (SPEC bagian 9), dan proyek ini tidak lagi membutuhkannya: pemilihan dokumen PPh sudah selesai dan
@@ -1272,7 +1272,7 @@ menyatakan tidak berlaku. Setelah jawaban itu dihapus (K-077), restitusi 40 dan 
 6; angka 6 adalah ukuran yang jujur. Acuan PPh (6) dan PPh+KUP (8) tidak berubah.
 
 ## K-081 — Usulan terbuka: kotak definisi untuk pertanyaan "apa itu"
-Tanggal: 2026-10-09 · Milestone: M5 · Status: terbuka (usulan pemilik, belum dikerjakan)
+Tanggal: 2026-10-09 · Milestone: M5 · Status: dikerjakan di v1.3.0 (K-096)
 
 **Gejala:** pertanyaan definisi tertimbun; "apa itu PKP" berperingkat 146 karena PKP disebut di ribuan
 pasal, sedangkan pasal yang mendefinisikannya hanya sedikit.
@@ -1871,3 +1871,109 @@ sama, termasuk daftar PPh. Akibatnya 93 lalu 213 halaman JDIH sehari, yang tidak
 **Hasil data:** tiga peraturan baru masuk (PER-DJP 12/2026, PMK 49/2026, PMK 71/2026); 0 status
 berubah. Sebagian besar baris "baru" lainnya adalah KMK kurs dan bunga, yang memang dikecualikan.
 Diterbitkan bersama v1.2.1, tanpa penurunan peringkat.
+
+## K-096 — v1.3.0: kotak definisi, Simpan dan riwayat, keadaan kosong, kemajuan pembukaan pertama
+Tanggal: 2026-10-17 · Permintaan pemilik · Status: berlaku
+
+Isi, data, dan peringkat tidak berubah. Uji kesetaraan peringkat (`tests/search/setara.test.mjs`),
+uji halaman luring yang identik dengan halaman terbit, dan uji kontras tetap lulus.
+
+**Kotak definisi** (usulan K-081, kini dikerjakan):
+- **Pengambilan.** Saat build, `src/lib/search/definitions.js` membaca dua bentuk:
+  - butir "<istilah> adalah ..." di pasal yang memuat "yang dimaksud dengan";
+  - kalimat "... adalah <istilah>, yaitu ..." di pasal mana pun.
+  Kedua bentuk hanya dibaca dari batang tubuh, bukan penjelasan. Bentuk kedua perlu untuk
+  "Penghasilan" (Pasal 4 ayat (1) UU PPh).
+- **Yang disimpan di data pencarian** (`cari/data.json`, +0,5 MB mentah): letak kalimatnya di teks
+  pasal yang sudah ada di data itu, bukan teks baru. Dengan begitu kotak selalu mengutip sumber apa
+  adanya. Hasilnya 9.862 definisi untuk 3.570 istilah.
+- **Kapan tampil:**
+  - pertanyaan definisi: "apa itu X", "apa yang dimaksud dengan X", "pengertian/definisi/arti X",
+    "X adalah", "X itu apa";
+  - atau kueri yang seluruhnya satu istilah yang punya pasal definisi.
+  Bentuk lain istilah dari `istilah.json` ikut dicari, misalnya PTKP = Penghasilan Tidak Kena Pajak.
+- **Peraturan yang berlaku,** tanpa menebak status (invarian 1):
+  - Dipakai lebih dulu peraturan yang menurut sumbernya berlaku, utuh maupun dengan perubahan.
+  - Bila tidak ada, dipakai peraturan yang statusnya berbeda antar sumber. Kotak lalu menyatakannya
+    dan menampilkan tanda "Perlu dicek".
+  - Peraturan yang dicatat tidak berlaku tidak pernah dipakai.
+  - Tiap definisi membawa label status per sumber dan tautan ke dokumen serta pasalnya.
+- **Paling banyak 3 rumusan yang berbeda.**
+  - Rumusan disebut sama bila teks sesudah "adalah" sama setelah dinormalkan.
+  - Urutannya mengikuti jenjang peraturan (UU, PP, PMK, PER), lalu yang terbaru.
+  - Disebut juga berapa peraturan lain yang memakai rumusan sama.
+- **Letak di pasal** ditulis dari teks, misalnya "Pasal 1 angka 5". Untuk undang-undang perubahan,
+  ditulis "Pasal I, bunyi Pasal 1": pasal yang diubah dikutip di dalam Pasal I. Bila sumber tidak
+  menomori butirnya, yang ditulis hanya pasalnya.
+- **Hasil enam istilah uji:**
+
+  | Istilah | Definisi pertama yang tampil |
+  |---|---|
+  | PKP | UU 42/2009 |
+  | PTKP | PP 58/2023 Pasal 1 angka 3 |
+  | NPWP | PMK 1/2026 (rumusan yang sama di 33 peraturan lain) |
+  | Penghasilan | UU 7/2021 Pasal 4 ayat (1) |
+  | Pajak Masukan | UU 42/2009 |
+  | BPHTB | UU 20/2000 Pasal I, lalu PP 12/2023 dan PMK 58/2024 |
+
+  Semuanya berasal dari peraturan yang dicatat berlaku. Diuji di `tests/search/definisi.test.mjs`.
+- **Diketahui pincang:**
+  - PKP juga bisa berarti Penghasilan Kena Pajak (K-078). Kotak memuat definisi apa pun yang ada
+    untuk ketiga bentuknya; di korpus, yang terdefinisi hanya Pengusaha Kena Pajak.
+  - Satu kata umum yang punya definisi, misalnya "pajak" atau "menteri", juga memunculkan kotak.
+    Itu sesuai permintaan ("hanya satu istilah yang dikenal").
+
+**Simpan dan riwayat:**
+- **Tombol "Simpan"** ada di halaman dokumen dan pasal. Tombol ini dibuat oleh renderer bersama,
+  jadi halaman luring tetap identik. Halaman baru **Tersimpan** ada di menu; di layar 320 px label
+  menu "Koleksi pribadi" disingkat "Koleksi" supaya empat menu muat satu baris.
+- **Riwayat:** 10 pencarian terakhir tampil di bawah kotak cari saat kotak kosong, dengan tombol
+  "Hapus riwayat". Pencarian dicatat bila dikirim (Enter, Cari, contoh, riwayat) atau bila salah
+  satu hasilnya dibuka. Kata yang setengah diketik tidak dicatat.
+- **Penyimpanan:** keduanya di `localStorage` perangkat (`src/lib/personal.js`) dan tidak pernah
+  dikirim. Keduanya ikut **cadangan koleksi pribadi**, di kunci `tersimpan` dan `riwayat` yang
+  dilewati bila kosong. Karena itu cadangan yang hanya berisi koleksi tetap sama persis byte demi
+  byte dengan sebelumnya, dan versi lama tetap bisa membacanya. Pemulihan "gabung" dan "ganti"
+  berlaku juga untuk keduanya.
+
+**Keadaan kosong:** bila tidak ada hasil, yang tampil adalah:
+- saran: periksa ejaan, kata lain atau singkatan resmi, lebih sedikit kata, dan cara menulis nomor;
+- tombol "Hapus semua saringan" bila ada saringan aktif;
+- catatan pajak daerah bila kueri menyangkutnya;
+- contoh pencarian.
+
+**Pembukaan pertama:**
+- Kotak "Menyiapkan data untuk dipakai tanpa internet" menampilkan persen dan MB. Hitungannya dari
+  ukuran berkas yang disimpan; service worker kini mengirim byte, bukan hanya jumlah berkas.
+- Bila data pencarian sudah termuat sebelum penyimpanan selesai, kotak menyebut "Pencarian sudah
+  bisa dipakai sambil menunggu". Diuji: di 53%, pencarian "NPWP" dan kotak definisinya sudah jalan.
+- Saat selesai: "Siap dipakai tanpa internet ✓", lalu kotak hilang sendiri.
+
+**Uji luring** (`scripts/uji-luring.mjs`) bertambah empat pemeriksaan:
+- kemajuan pembukaan pertama;
+- riwayat;
+- kotak definisi luring;
+- Simpan lalu Tersimpan, luring.
+Hasil: 22 dari 22 lulus.
+
+## K-097 — Kredit pembuat dan usulan ikon berkarakter Pyonkuro
+Tanggal: 2026-10-17 · Permintaan pemilik · Status: kredit berlaku; ikon menunggu pilihan pemilik
+
+**Kredit:** kaki setiap halaman dan bagian "Hak cipta" di Tentang memuat "Dibuat oleh Mufuyu Moku
+(Pyonkuro) bersama ilmu.net". Tautan ke https://ilmu.net hanya ada di halaman Tentang.
+- "© 2026 Pyonkuro" dan penafian "bukan situs resmi" tetap ada.
+- `LICENSE` disesuaikan.
+- Penahanan ilmu.net dari sesi sebelumnya dicabut oleh pemilik dengan permintaan ini.
+- Nama asli pembuat tidak ditulis di mana pun. Sertifikat APK memakai "CN=Mufuyu Moku, O=Pyonkuro".
+- Path folder pengguna Windows di dokumen dan skrip Android diganti `%USERPROFILE%`. `bangun.mjs`
+  kini memakai `os.homedir()`. Riwayat git lama masih memuat nama akun Windows itu; itu tidak
+  diubah, karena menulis ulang riwayat perlu keputusan pemilik.
+
+**Ikon:** tiga usulan ada di `docs/ikon-usulan/` (SVG biasa, SVG maskable, lembar pratinjau). Satu
+keluarga dengan kelinci Pyonkuro (telinga lancip, polos, tanpa mulut, hitam-emas), tetapi bukan cap
+Pyonkuro: tanpa cincin bertakik. Tanpa lambang negara atau logo DJP/Kemenkeu.
+- **A. Kepala di saku:** kepala dan telinga di atas saku, dengan kaca pembesar.
+- **B. Kelinci utuh:** kelinci duduk di saku sambil mengangkat kaca pembesar.
+- **C. Lencana:** lingkaran, dua telinga di atas saku yang berlambang kaca pembesar.
+Isi versi maskable berada di dalam zona aman 80%. Belum dipasang. Pembuatan ulang APK menunggu
+pilihan ini. Skripnya `scripts/ikon-usulan.mjs`.

@@ -163,3 +163,22 @@ test("every fixture says it is a mock (invariant 10: no real user document in th
     assert.ok(fs.readFileSync(path.join(DIR, name), "utf8").startsWith("DOKUMEN TIRUAN UNTUK PENGUJIAN"), name);
   }
 });
+
+test("saved pages and the last searches travel in the backup; a collection-only backup is unchanged", async () => {
+  const { readBackup } = await import("../../src/lib/collection/backup.js");
+  const { mergeSaved, mergeHistory } = await import("../../src/lib/personal.js");
+  const records = await allRecords();
+  const saved = [{ kind: "pasal", id: "uu-7-2021--b036-9", label: "UU 7/2021 Pasal 9", title: "X", savedAt: "2026-10-17T00:00:00.000Z" }];
+  const history = ["apa itu PKP", "PMK 168/2023"];
+  const plain = exportBackup(records);
+  assert.equal(Buffer.compare(Buffer.from(plain), Buffer.from(exportBackup(records, {}))), 0);
+  assert.ok(!new TextDecoder().decode(plain).includes('"tersimpan"'));
+  const full = await readBackup(exportBackup(records, { saved, history }));
+  assert.deepEqual(full.saved, saved);
+  assert.deepEqual(full.history, history);
+  assert.equal(full.records.length, records.length);
+  const old = await readBackup(plain);
+  assert.deepEqual([old.saved, old.history], [[], []]);
+  assert.equal(mergeSaved(saved, [...saved, { ...saved[0], id: "lain" }], "gabung").length, 2);
+  assert.deepEqual(mergeHistory(["a"], ["A", "b"], "gabung"), ["a", "b"]);
+});

@@ -1,0 +1,94 @@
+---
+// "Tersimpan" (K-096): the pasal and documents the reader saved with "Simpan". The list lives in
+// this browser only (src/lib/personal.js) and is drawn here by script; the page itself is the same
+// for everyone and is kept by the service worker, so it works offline.
+import Base from "../layouts/Base.astro";
+import { APP_NAME } from "../lib/brand.js";
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title={`Tersimpan — ${APP_NAME}`} description="Pasal dan peraturan yang Anda simpan di perangkat ini">
+  <p class="breadcrumb"><a href={base}>← Cari peraturan</a></p>
+  <h1>Tersimpan</h1>
+  <p class="lead">
+    Pasal dan peraturan yang Anda simpan dengan tombol <strong>Simpan</strong>. Daftar ini hanya ada
+    di perangkat ini, tidak pernah dikirim ke mana pun, dan ikut dalam
+    <a href={`${base}koleksi/#cadangan`}>cadangan koleksi pribadi</a>.
+  </p>
+  <noscript><p class="hint">Daftar tersimpan membutuhkan JavaScript.</p></noscript>
+  <p class="hint" id="tersimpan-ringkas" aria-live="polite"></p>
+  <section id="bagian-pasal" hidden aria-labelledby="judul-pasal">
+    <h2 id="judul-pasal">Pasal</h2>
+    <ol class="daftar" id="daftar-pasal"></ol>
+  </section>
+  <section id="bagian-dokumen" hidden aria-labelledby="judul-dokumen">
+    <h2 id="judul-dokumen">Peraturan</h2>
+    <ol class="daftar" id="daftar-dokumen"></ol>
+  </section>
+  <div class="kartu kosong" id="tersimpan-kosong" hidden>
+    <h2>Belum ada yang disimpan</h2>
+    <p>
+      Buka satu peraturan atau pasal, lalu ketuk <strong>Simpan</strong> di bawah judulnya. Yang Anda
+      simpan muncul di sini, juga saat tanpa internet.
+    </p>
+    <p><a href={base}>Cari peraturan</a></p>
+  </div>
+</Base>
+
+<script>
+  import { removeSaved, savedItems } from "../lib/personal.js";
+
+  const base = import.meta.env.BASE_URL;
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, className, text) => {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined) node.textContent = text;
+    return node;
+  };
+  const MONTHS = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"];
+  const when = (iso) => {
+    const d = new Date(iso);
+    return Number.isNaN(d.getTime()) ? "" : `disimpan ${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`;
+  };
+
+  function draw() {
+    const items = savedItems().sort((a, b) => String(b.savedAt).localeCompare(String(a.savedAt)));
+    for (const kind of ["pasal", "dokumen"]) {
+      const list = $(`daftar-${kind}`);
+      const mine = items.filter((s) => s.kind === kind);
+      list.replaceChildren();
+      $(`bagian-${kind}`).hidden = !mine.length;
+      for (const item of mine) {
+        const li = el("li", "kartu");
+        const head = el("p", "kartu-nomor");
+        const a = el("a", null, item.label || item.id);
+        a.href = `${base}${kind}/${encodeURIComponent(item.id)}/`;
+        head.append(a);
+        li.append(head);
+        if (item.title) li.append(el("p", "kartu-judul", item.title));
+        const foot = el("p", "aksi-tersimpan");
+        foot.append(el("span", "hint", when(item.savedAt)));
+        const remove = el("button", "tombol-teks", "Hapus dari daftar");
+        remove.type = "button";
+        remove.setAttribute("aria-label", `Hapus ${item.label || item.id} dari daftar tersimpan`);
+        remove.addEventListener("click", () => {
+          removeSaved(item.kind, item.id);
+          draw();
+        });
+        foot.append(remove);
+        li.append(foot);
+        list.append(li);
+      }
+    }
+    $("tersimpan-kosong").hidden = items.length > 0;
+    $("tersimpan-ringkas").textContent = items.length
+      ? `${items.length} tersimpan: ${items.filter((s) => s.kind === "pasal").length} pasal, ${items.filter((s) => s.kind === "dokumen").length} peraturan.`
+      : "";
+  }
+
+  draw();
+  // Saved or removed in another tab.
+  window.addEventListener("storage", draw);
+</script>

@@ -7,6 +7,7 @@ import { listPasalIds, loadDocument, loadIndex, loadPasal, loadMeta } from "../c
 import { categoryNote, regulationLabel } from "../labels.js";
 import { buildOcrMap, tokenFrequencies } from "./normalize.js";
 import { buildTextIndex } from "./textindex.js";
+import { buildDefinitions } from "./definitions.js";
 import { compactClaims } from "../render/chips.js";
 
 const DATA = path.join(process.cwd(), "src", "data", "search");
@@ -96,6 +97,8 @@ export function buildSearchPayload() {
       synonyms: synonymsFrom(readData("padanan.json")),
       stopwords: readData("kata-umum.json").kata,
       localTax: readData("pajak-daerah.json").kelompok,
+      // The definition box (K-096): offsets of defining sentences in `texts`, by term.
+      definitions: buildDefinitions(units, texts),
     },
     ocrGenerated: ocr.generated,
   };

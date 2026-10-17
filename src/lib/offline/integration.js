@@ -62,6 +62,7 @@ function filesToKeep(dist, base) {
     "index.html",
     "semua/index.html",
     "koleksi/index.html",
+    "tersimpan/index.html",
     "cara-pakai/index.html",
     "apa-yang-baru/index.html",
     "perubahan/index.html",

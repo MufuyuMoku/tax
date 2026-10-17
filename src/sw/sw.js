@@ -51,6 +51,9 @@ async function store() {
   const old = await reusable();
   let done = 0;
   let downloaded = 0;
+  // Progress in bytes of what is kept (K-096), so the first open can show percent and MB.
+  let doneBytes = 0;
+  const totalBytes = M.files.reduce((sum, f) => sum + f.bytes, 0);
   const queue = [...M.files];
   async function next() {
     for (let file = queue.shift(); file; file = queue.shift()) {
@@ -74,7 +77,8 @@ async function store() {
         }
       }
       done += 1;
-      tell({ type: "kemajuan", version: M.version, done, total: M.files.length });
+      doneBytes += file.bytes;
+      tell({ type: "kemajuan", version: M.version, done, total: M.files.length, doneBytes, totalBytes });
     }
   }
   await Promise.all([next(), next(), next(), next()]);

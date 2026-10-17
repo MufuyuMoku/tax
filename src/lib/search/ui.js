@@ -7,6 +7,7 @@
 import { LOCAL_TAX_NOTE, plainReason, typeLabel } from "../labels.js";
 import { statusChips } from "../render/chips.js";
 import { kindLabel, UNVERIFIED } from "../collection/records.js";
+import { addSearch, clearSearchHistory, searchHistory } from "../personal.js";
 
 const PAGE = 30;
 
@@ -39,6 +40,11 @@ export function startSearch({ base, listing }) {
   const privateSummaryLine = document.getElementById("hasil-pribadi-ringkas");
   const privateList = document.getElementById("hasil-pribadi-daftar");
   const privateMore = document.getElementById("lagi-pribadi");
+  const definitionBlock = document.getElementById("definisi");
+  const definitionList = document.getElementById("definisi-daftar");
+  const definitionNote = document.getElementById("definisi-catatan");
+  const historyBlock = document.getElementById("riwayat");
+  const historyList = document.getElementById("riwayat-daftar");
   let privateShown = 0;
   let privateTotal = 0;
   let collectionSize = 0;
@@ -70,6 +76,9 @@ export function startSearch({ base, listing }) {
   const ready = ask({ type: "load", url: `${base}cari/data.json` }).then(
     (reply) => {
       loaded = true;
+      // The first-open progress (public/keadaan.js) says searching already works.
+      document.documentElement.dataset.cariSiap = "1";
+      document.dispatchEvent(new Event("tax:cari-siap"));
       const seconds = ((Date.now() - loadStarted) / 1000).toLocaleString("id-ID", { maximumFractionDigits: 1 });
       // The personal collection is read from this device's IndexedDB, inside the worker.
       return ask({ type: "koleksi" }).then((collection) => {
@@ -152,10 +161,12 @@ export function startSearch({ base, listing }) {
     if (!query) {
       current = nextId; // drop any search still in flight
       filterList();
+      showHistory();
       return;
     }
     all.hidden = true;
     results.hidden = false;
+    historyBlock.hidden = true;
     if (!loaded) state.textContent = "Memuat data pencarian…";
     await ready;
     const reply = await ask({ type: "search", query, filters: filters(), limit: PAGE });
@@ -175,6 +186,7 @@ export function startSearch({ base, listing }) {
       appendPrivate(reply.privateResults);
     }
     showLocalTax(reply.summary ? reply.summary.localTax : []);
+    showDefinitions(reply.definitions);
     publicBlock.hidden = !reply.summary;
     showGroups(reply.groups || []);
     if (reply.summary) {
@@ -253,14 +265,99 @@ export function startSearch({ base, listing }) {
     howBlock.hidden = !how.length;
     howText.replaceChildren(...how.map((line) => el("p", null, line)));
     state.textContent = `Dicari di perangkat ini dalam ${summary.took} md.`;
-    if (summary.total === 0) {
-      const empty = document.createElement("li");
-      empty.className = "kartu";
-      empty.textContent =
-        "Tidak ada dokumen yang cocok. Coba kata lain, singkatan resmi (misalnya PPh, PTKP), atau longgarkan saringan.";
-      resultList.append(empty);
+    if (summary.total === 0) resultList.append(emptyState(query, summary));
+  }
+
+  /** Nothing found (K-096): what to try next, instead of an empty page. */
+  function emptyState(query, summary) {
+    const li = el("li", "kartu kosong");
+    li.append(el("h2", null, `Tidak ada peraturan yang cocok untuk “${query}”`));
+    const tips = el("ul");
+    const filtered = Object.entries(filters()).some(([name, value]) => value && name !== "source");
+    tips.append(
+      el("li", null, "Periksa ejaannya. Pencarian mencocokkan kata dan awal kata, tetapi tidak menebak salah ketik."),
+      el("li", null, "Coba kata lain atau singkatan resminya, misalnya PPh, PPN, PTKP, atau “faktur pajak”."),
+      el("li", null, "Pakai lebih sedikit kata: kata yang tidak ada di peraturan mana pun membuat hasil kosong."),
+      el("li", null, "Untuk nomor peraturan, tulis jenis dan nomornya, misalnya PMK 168/2023 atau PER-11/PJ/2025.")
+    );
+    if (filtered) {
+      const item = el("li", null, "Saringan sedang aktif dan bisa menyembunyikan hasil. ");
+      const clear = el("button", "tombol-teks", "Hapus semua saringan");
+      clear.type = "button";
+      clear.addEventListener("click", () => {
+        for (const select of Object.values(selects)) select.value = "";
+        run();
+      });
+      item.append(clear);
+      tips.append(item);
+    }
+    if (summary.localTax && summary.localTax.length) {
+      tips.append(
+        el("li", null, "Pajak daerah (PBB rumah dan tanah, BPHTB, pajak kendaraan, dan lainnya) diatur peraturan daerah, yang tidak dimuat di sini; lihat keterangan di atas.")
+      );
+    }
+    li.append(tips);
+    const examples = el("p", "contoh");
+    examples.append(el("span", "contoh-judul", "Contoh pencarian:"));
+    for (const a of document.querySelectorAll(".cari .contoh a.contoh-q")) {
+      const copy = a.cloneNode(true);
+      copy.classList.remove("lebar-saja");
+      examples.append(copy);
+    }
+    li.append(examples);
+    return li;
+  }
+
+  /** The definition box (K-096): quoted as written, with the status each source gives. */
+  function showDefinitions(definitions) {
+    definitionList.replaceChildren();
+    definitionBlock.hidden = !definitions;
+    if (!definitions) return;
+    for (const d of definitions.items) {
+      const li = el("li", "definisi");
+      li.append(el("blockquote", "definisi-kutipan", d.text));
+      const source = el("p", "definisi-sumber");
+      source.append(link(`${base}dokumen/${d.docId}/`, d.docLabel), " · ", link(`${base}pasal/${d.unitId}/`, d.place));
+      li.append(source);
+      const status = el("p", "kartu-status");
+      status.innerHTML = statusChips(d.claims);
+      status.append(info("status", "Arti status menurut sumber"));
+      li.append(status);
+      if (d.status === "tidak_pasti") {
+        li.append(el("p", "kartu-catatan konflik", `⚠ Perlu dicek: ${d.statusReasons.map(plainReason).join("; ")}.`));
+      }
+      if (d.alsoIn) li.append(el("p", "hint", `Rumusan yang sama juga ada di ${d.alsoIn.toLocaleString("id-ID")} peraturan lain.`));
+      definitionList.append(li);
+    }
+    definitionNote.textContent = definitions.disputedOnly
+      ? "Tidak ada definisi dari peraturan yang dicatat berlaku oleh sumbernya; yang tampil berasal dari peraturan yang statusnya berbeda antar sumber. Periksa statusnya sebelum memakai. Urutan hasil di bawah tidak berubah."
+      : "Dikutip apa adanya dari pasal definisi peraturan yang dicatat berlaku oleh sumbernya. Bunyi definisi bisa berbeda antar peraturan; rujuk peraturan yang mengatur kasus Anda. Urutan hasil di bawah tidak berubah.";
+  }
+
+  /** The last ten searches under the box (K-096), while the box is empty. */
+  function showHistory() {
+    const items = searchHistory();
+    historyBlock.hidden = !items.length;
+    historyList.replaceChildren(el("span", "contoh-judul", "Terakhir dicari:"));
+    for (const q of items) {
+      const a = link(`#q=${encodeURIComponent(q)}`, q);
+      a.className = "contoh-q";
+      historyList.append(a);
     }
   }
+
+  document.getElementById("hapus-riwayat").addEventListener("click", () => {
+    clearSearchHistory();
+    showHistory();
+    input.focus();
+  });
+
+  // A search counts for the history when it is sent (Enter, "Cari", an example or a history link)
+  // or when one of its results is opened; not every half-typed word.
+  const remember = () => input.value.trim() && addSearch(input.value);
+  results.addEventListener("click", (event) => {
+    if (event.target.closest("a[href]")) remember();
+  });
 
   function append(items) {
     for (const item of items) resultList.append(card(item));
@@ -411,15 +508,18 @@ export function startSearch({ base, listing }) {
   form.addEventListener("submit", (event) => {
     event.preventDefault();
     clearTimeout(timer);
+    remember();
     run();
   });
 
   // A #q= link opened while the page is already showing (replaceState does not fire this).
   window.addEventListener("hashchange", () => {
     readUrl();
+    remember();
     run();
   });
 
   readUrl();
   if (input.value.trim() || Object.values(selects).some((s) => s.value)) run();
+  else showHistory();
 }

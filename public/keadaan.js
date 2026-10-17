@@ -8,7 +8,7 @@
 // was inlined into each of the 21,000 pages, doubling the size of the published site.
 
 const $ = (id) => document.getElementById(id);
-const mb = (bytes) => `${(bytes / 1e6).toLocaleString("id-ID", { maximumFractionDigits: 0 })} MB`;
+const mb = (bytes) => `${(bytes / 1e6).toLocaleString("id-ID", { maximumFractionDigits: 0 })} MB`;
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"];
 const date = (iso) => {
   const [y, m, d] = iso.split("-");
@@ -162,6 +162,45 @@ function startCopy() {
   }
 }
 
+// ---------- "Simpan" on document and pasal pages (K-096) ----------
+// The same entries as src/lib/personal.js: localStorage "tax-tersimpan", on this device only.
+function startSave() {
+  const KEY = "tax-tersimpan";
+  const read = () => {
+    try {
+      const value = JSON.parse(localStorage.getItem(KEY) || "[]");
+      return Array.isArray(value) ? value : [];
+    } catch {
+      return null;
+    }
+  };
+  for (const button of document.querySelectorAll("button[data-simpan]")) {
+    const { simpan: kind, id, label, judul: title } = button.dataset;
+    const here = (s) => s && s.kind === kind && s.id === id;
+    const show = () => {
+      const on = (read() || []).some(here);
+      button.setAttribute("aria-pressed", String(on));
+      button.textContent = on ? "Tersimpan ✓" : "Simpan";
+      button.title = on ? "Ketuk lagi untuk menghapus dari daftar Tersimpan" : "Simpan ke daftar Tersimpan di perangkat ini";
+    };
+    button.hidden = false;
+    show();
+    button.addEventListener("click", () => {
+      const items = read();
+      const next = items && (items.some(here) ? items.filter((s) => !here(s)) : [{ kind, id, label, title, savedAt: new Date().toISOString() }, ...items]);
+      try {
+        if (!next) throw new Error("storage");
+        if (next.length) localStorage.setItem(KEY, JSON.stringify(next));
+        else localStorage.removeItem(KEY);
+      } catch {
+        button.textContent = "Browser ini tidak mengizinkan menyimpan";
+        return;
+      }
+      show();
+    });
+  }
+}
+
 // ---------- when the data was last checked and last changed (M9, K-091) ----------
 // pemeriksaan.json is not kept by the service worker, so it can change every week without making
 // phones download anything. Online: read it fresh and remember it. Offline: show what was remembered.
@@ -200,6 +239,7 @@ async function startOfflineStatus(base) {
   startAppearance();
   startShortcut(base);
   startCopy();
+  startSave();
   showNetwork();
   showChecks(base);
   window.addEventListener("online", showNetwork);
@@ -257,13 +297,50 @@ async function startOfflineStatus(base) {
     });
   }
 
+  // The first open (K-096): a visible bar with percent and MB while the data is being kept, and a
+  // word that the page, and search once its data is in, can be used meanwhile.
+  const preparing = $("persiapan");
+  let preparingDone = false;
+  const searchReady = () => document.documentElement.dataset.cariSiap === "1";
+  const preparingNote = () => {
+    if (preparingDone) return;
+    $("persiapan-catatan").textContent = searchReady()
+      ? "Pencarian sudah bisa dipakai sambil menunggu."
+      : document.getElementById("q")
+        ? "Pencarian bisa dipakai begitu datanya termuat, sebelum penyimpanan selesai."
+        : "Halaman ini tetap bisa dibaca sambil menunggu.";
+  };
+  document.addEventListener("tax:cari-siap", preparingNote);
+  function showPreparing(message) {
+    const share = message.totalBytes ? message.doneBytes / message.totalBytes : message.done / message.total;
+    const percent = Math.floor(100 * share);
+    preparing.hidden = false;
+    $("persiapan-batang").value = percent;
+    $("persiapan-angka").textContent = message.totalBytes
+      ? `${percent}% · ${mb(message.doneBytes)} dari ${mb(message.totalBytes)}`
+      : `${percent}%`;
+    preparingNote();
+    if (message.done === message.total) {
+      preparingDone = true;
+      $("persiapan-judul").textContent = "Siap dipakai tanpa internet ✓";
+      $("persiapan-catatan").textContent = "Data sudah tersimpan di perangkat ini.";
+      setTimeout(() => (preparing.hidden = true), 8000);
+    }
+    return percent;
+  }
+
   navigator.serviceWorker.addEventListener("message", (event) => {
     const message = event.data || {};
     if (message.type === "kemajuan" && !navigator.serviceWorker.controller) {
-      saved.textContent = `Menyimpan untuk dipakai luring: ${message.done} dari ${message.total} berkas.`;
+      const percent = showPreparing(message);
+      saved.textContent = `Menyimpan untuk dipakai luring: ${percent}%`;
     }
     if (message.type === "gagal" && !navigator.serviceWorker.controller) {
       saved.textContent = "Penyimpanan untuk luring terhenti; dicoba lagi saat halaman dibuka berikutnya.";
+      preparing.hidden = false;
+      preparingDone = true;
+      $("persiapan-judul").textContent = "Penyimpanan untuk dipakai tanpa internet terhenti";
+      $("persiapan-catatan").textContent = "Dicoba lagi saat halaman dibuka berikutnya dengan internet. Situs tetap bisa dipakai selama daring.";
     }
   });
   navigator.serviceWorker.addEventListener("controllerchange", () => {

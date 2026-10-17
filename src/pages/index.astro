@@ -60,6 +60,14 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
         <a class={only ? `contoh-q ${only}` : "contoh-q"} href={`#q=${encodeURIComponent(query)}`} title={kind}>{query}</a>
       ))}
     </p>
+    {/* The last ten searches, kept on this device only (K-096); drawn by the search script. */}
+    <div class="riwayat" id="riwayat" hidden>
+      <p class="contoh" id="riwayat-daftar"><span class="contoh-judul">Terakhir dicari:</span></p>
+      <p class="riwayat-catatan">
+        <span class="hint">Hanya tersimpan di perangkat ini.</span>
+        <button type="button" class="tombol-teks" id="hapus-riwayat">Hapus riwayat</button>
+      </p>
+    </div>
     <details class="saringan-lipat" id="saringan-lipat">
       <summary>Saring <span id="saringan-aktif"></span></summary>
     <div class="saringan">
@@ -121,6 +129,12 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   </form>
 
   <div id="hasil" hidden>
+    {/* Definition box (K-081, K-096): beside the ranking, which it does not change. */}
+    <section class="kotak-definisi" id="definisi" hidden aria-labelledby="judul-definisi">
+      <h2 id="judul-definisi">Definisi menurut peraturan</h2>
+      <ol class="definisi-daftar" id="definisi-daftar"></ol>
+      <p class="hint" id="definisi-catatan"></p>
+    </section>
     <div class="notice" id="catatan-daerah" hidden></div>
     <section class="blok-pribadi" id="hasil-pribadi" hidden aria-label="Hasil dari koleksi pribadi">
       <h2>Koleksi pribadi</h2>

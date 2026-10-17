@@ -14,7 +14,8 @@ function infoLink() {
   a.setAttribute("aria-label", "Arti belum terverifikasi");
   return a;
 }
-import { backupFileName, exportBackup, mergeRecords, parseBackup } from "./backup.js";
+import { backupFileName, exportBackup, mergeRecords, readBackup } from "./backup.js";
+import { mergeHistory, mergeSaved, savedItems, searchHistory, setSavedItems, setSearchHistory } from "../personal.js";
 import {
   allRecords,
   clearRecords,
@@ -366,11 +367,13 @@ export function startCollection({ base }) {
   // ---------- backup ----------
   $("ekspor").addEventListener("click", async () => {
     const records = await allRecords();
-    if (!records.length) {
-      $("pesan-cadangan").textContent = "Koleksi masih kosong; tidak ada yang dicadangkan.";
+    const saved = savedItems();
+    const history = searchHistory();
+    if (!records.length && !saved.length && !history.length) {
+      $("pesan-cadangan").textContent = "Koleksi, daftar tersimpan, dan riwayat pencarian masih kosong; tidak ada yang dicadangkan.";
       return;
     }
-    const bytes = exportBackup(records);
+    const bytes = exportBackup(records, { saved, history });
     const url = URL.createObjectURL(new Blob([bytes], { type: "application/json" }));
     const a = link(url, "");
     a.download = backupFileName();
@@ -378,7 +381,9 @@ export function startCollection({ base }) {
     a.click();
     a.remove();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
-    $("pesan-cadangan").textContent = `Cadangan berisi ${records.length} dokumen (${size(bytes.byteLength)}) dibuat di perangkat ini.`;
+    $("pesan-cadangan").textContent =
+      `Cadangan berisi ${records.length} dokumen, ${saved.length} pasal/peraturan tersimpan, dan ${history.length} pencarian terakhir ` +
+      `(${size(bytes.byteLength)}), dibuat di perangkat ini.`;
   });
 
   let restoring = null;
@@ -386,11 +391,12 @@ export function startCollection({ base }) {
     const chosen = $("pulihkan").files[0];
     if (!chosen) return;
     try {
-      restoring = await parseBackup(await chosen.arrayBuffer());
+      restoring = await readBackup(await chosen.arrayBuffer());
       const current = await allRecords();
       $("ringkas-pulih").textContent =
-        `Cadangan berisi ${restoring.length} dokumen; koleksi sekarang berisi ${current.length}. ` +
-        "Gabungkan (dokumen yang sudah ada dibiarkan) atau ganti seluruh koleksi dengan isi cadangan?";
+        `Cadangan berisi ${restoring.records.length} dokumen, ${restoring.saved.length} tersimpan, dan ` +
+        `${restoring.history.length} pencarian terakhir; koleksi sekarang berisi ${current.length} dokumen. ` +
+        "Gabungkan (yang sudah ada dibiarkan) atau ganti seluruh koleksi, daftar tersimpan, dan riwayat dengan isi cadangan?";
       $("pilihan-pulih").hidden = false;
       $("pesan-cadangan").textContent = "";
     } catch (error) {
@@ -402,8 +408,10 @@ export function startCollection({ base }) {
 
   async function restore(mode) {
     if (!restoring) return;
-    const result = mergeRecords(await allRecords(), restoring, mode);
+    const result = mergeRecords(await allRecords(), restoring.records, mode);
     await replaceRecords(result.records);
+    setSavedItems(mergeSaved(savedItems(), restoring.saved, mode));
+    setSearchHistory(mergeHistory(searchHistory(), restoring.history, mode));
     $("pesan-cadangan").textContent =
       mode === "ganti"
         ? `Koleksi diganti dengan ${result.added} dokumen dari cadangan.`

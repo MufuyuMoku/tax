@@ -48,7 +48,7 @@ Uji ini belum bisa dijalankan di emulator (K-094), jadi perlu satu HP sungguhan:
 APK hanya perlu dirilis ulang bila yang berubah adalah pembungkusnya: nama, ikon peluncur, nama
 paket, alamat awal, atau persyaratan Android/Play yang baru. Perubahan isi situs tidak memerlukannya.
 
-Bahan pembuatnya ada di luar repo, di `C:\Users\sorar\SakuPajak-android\`:
+Bahan pembuatnya ada di luar repo, di `%USERPROFILE%\SakuPajak-android\`:
 - `bangun.mjs` (salinannya di repo: `android/bangun.mjs`);
 - pustaka Bubblewrap;
 - `sdk\`, folder berisi junction ke Android SDK. **Jangan hapus folder ini dengan perintah hapus
@@ -57,7 +57,7 @@ Bahan pembuatnya ada di luar repo, di `C:\Users\sorar\SakuPajak-android\`:
 Langkah:
 1. Naikkan nomor versi. `versionCode` harus lebih besar dari rilis sebelumnya, misalnya 2;
    `versionName` disamakan dengan versi aplikasi, misalnya 1.3.0.
-2. Di PowerShell, dari `C:\Users\sorar\SakuPajak-android`:
+2. Di PowerShell, dari `%USERPROFILE%\SakuPajak-android`:
    `$env:SAKU_KS_PASS = "<kata sandi keystore>"; node bangun.mjs 2 1.3.0`
 3. Hasilnya `hasil\SakuPajak-1.3.0.apk`. Hitung SHA-256-nya dengan
    `certutil -hashfile hasil\SakuPajak-1.3.0.apk SHA256`.
@@ -69,7 +69,7 @@ APK baru hanya bisa memperbarui APK lama bila ditandatangani dengan **kunci yang
 
 ## Kunci tanda tangan
 
-- **Lokasi:** `C:\Users\sorar\Documents\SakuPajak-kunci-tanda-tangan\sakupajak-upload.keystore`,
+- **Lokasi:** `%USERPROFILE%\Documents\SakuPajak-kunci-tanda-tangan\sakupajak-upload.keystore`,
   alias `sakupajak`.
 - **Kata sandi:** di berkas `KATA-SANDI-PINDAHKAN-LALU-HAPUS.txt` di folder yang sama. Pindahkan ke
   pengelola kata sandi, lalu hapus berkas itu.

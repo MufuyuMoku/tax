@@ -3,7 +3,7 @@ import "../styles/global.css";
 import "../styles/tampilan.css";
 import { dataDate } from "../lib/corpus.js";
 import { formatDate } from "../lib/labels.js";
-import { APP_NAME, COPYRIGHT } from "../lib/brand.js";
+import { APP_NAME, COPYRIGHT, CREDIT } from "../lib/brand.js";
 import pkg from "../../package.json";
 
 interface Props {
@@ -41,7 +41,8 @@ const dataVersion = formatDate(dataDate());
         <a class="merek" href={base}><img src={`${base}ikon.svg`} alt="" width="28" height="28" />{APP_NAME}</a>
         <nav aria-label="Navigasi utama">
           <a href={base}>Cari</a>
-          <a href={`${base}koleksi/`}>Koleksi pribadi</a>
+          <a href={`${base}tersimpan/`}>Tersimpan</a>
+          <a href={`${base}koleksi/`}>Koleksi<span class="nav-panjang"> pribadi</span></a>
           <a href={`${base}cara-pakai/`}>Cara pakai</a>
         </nav>
         <details class="tampilan">
@@ -75,6 +76,12 @@ const dataVersion = formatDate(dataDate());
         <p id="keadaan-periksa">Data diperiksa otomatis di sumbernya; lihat <a href={`${base}perubahan/`}>peraturan baru dan yang berubah</a>.</p>
         <p id="keadaan-simpan">Belum tersimpan untuk dipakai luring.</p>
       </details>
+      {/* The first open (K-096): progress while the data is kept for offline use; public/keadaan.js. */}
+      <div class="notice persiapan" id="persiapan" hidden>
+        <p><strong id="persiapan-judul">Menyiapkan data untuk dipakai tanpa internet</strong> <span id="persiapan-angka"></span></p>
+        <progress id="persiapan-batang" max="100" value="0" aria-labelledby="persiapan-judul"></progress>
+        <p class="hint" id="persiapan-catatan" aria-live="polite"></p>
+      </div>
       <div class="notice tawaran" id="tawaran-baru" hidden>
         <p id="tawaran-teks"></p>
         <button type="button" id="muat-baru">Muat data baru</button>
@@ -102,7 +109,7 @@ const dataVersion = formatDate(dataDate());
         </p>
         {/* Copyright (K-093): the app is protected; the regulations are not (UU 28/2014 Pasal 42). */}
         <p class="hak-cipta">
-          {COPYRIGHT}, untuk aplikasinya (kode, desain, tampilan). Teks peraturan perundang-undangan
+          {CREDIT}. {COPYRIGHT}, untuk aplikasinya (kode, desain, tampilan). Teks peraturan perundang-undangan
           tidak dilindungi hak cipta (UU 28/2014 Pasal 42); abstrak, klasifikasi, dan tata letak situs
           sumber tidak diterbitkan ulang. <a href={`${base}tentang/#hak-cipta`}>Selengkapnya</a>
         </p>

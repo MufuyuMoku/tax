@@ -92,6 +92,9 @@ try {
   await until("navigator.serviceWorker.controller && /Tersimpan di perangkat/.test(document.getElementById('keadaan-simpan').textContent)", 300000);
   const stored = await text("#keadaan-simpan");
   check("kunjungan pertama menyimpan semua berkas", true, `${((Date.now() - started) / 1000).toFixed(0)} detik; "${stored.trim()}"`);
+  // The first-open progress (K-096): percent and MB, then done.
+  const preparing = await text("#persiapan");
+  check("pembukaan pertama: kemajuan persen dan MB tampil", /Siap dipakai tanpa internet/.test(preparing) && /100% · \d+\s?MB dari \d+\s?MB/.test(preparing), preparing.replace(/\s+/g, " ").trim());
   const firstVersion = await js("navigator.serviceWorker.controller && new Promise(r => { const c = new MessageChannel(); c.port1.onmessage = e => r(e.data); navigator.serviceWorker.controller.postMessage({type:'info'}, [c.port2]); })");
   const cacheBytes = await js("navigator.storage.estimate().then(e => e.usage)");
   check("ukuran simpanan di perangkat", cacheBytes < 100e6, `navigator.storage.estimate(): ${(cacheBytes / 1e6).toFixed(1)} MB; berkas: ${firstVersion.files}, ${(firstVersion.bytes / 1e6).toFixed(1)} MB`);
@@ -145,6 +148,12 @@ try {
   await js(`document.getElementById('q').value = 'tarif PPh pesangon'; document.getElementById('cari').requestSubmit(); true`);
   await until("!document.getElementById('hasil').hidden && document.querySelectorAll('#hasil-daftar .kartu').length > 0", 60000);
   check("luring: cari 'tarif PPh pesangon'", true, await text("#hasil-ringkas"));
+  check("luring: pencarian masuk riwayat di perangkat", (await js("localStorage.getItem('tax-riwayat') || ''")).includes("tarif PPh pesangon"));
+  await js(`document.getElementById('q').value = 'apa itu PKP'; document.getElementById('cari').requestSubmit(); true`);
+  await until("!document.getElementById('definisi').hidden", 60000);
+  check("luring: kotak definisi untuk 'apa itu PKP'", true, (await text("#definisi .definisi-kutipan")).slice(0, 80));
+  await js(`document.getElementById('q').value = 'tarif PPh pesangon'; document.getElementById('cari').requestSubmit(); true`);
+  await until("document.getElementById('definisi').hidden && document.querySelectorAll('#hasil-daftar .kartu').length > 0", 60000);
   await js(`const s = document.getElementById('kategori'); s.value = 'PPh'; s.dispatchEvent(new Event('change', {bubbles: true})); true`);
   await sleep(1500);
   const filtered = await text("#hasil-ringkas");
@@ -189,6 +198,12 @@ try {
     copied.split("\n")[0]
   );
   await shot("luring-pasal");
+  // "Simpan" and the "Tersimpan" page (K-096), offline.
+  await js("document.querySelector('button.simpan').click(); true");
+  const pressed = await js("document.querySelector('button.simpan').getAttribute('aria-pressed')");
+  await go(`${ORIGIN}${BASE}tersimpan/`);
+  const savedList = await until("document.querySelector('#daftar-pasal a') && document.querySelector('#daftar-pasal a').textContent");
+  check("luring: Simpan pasal lalu tampil di halaman Tersimpan", pressed === "true" && savedList.includes(pasalPage.h1), savedList);
 
   await go(`${ORIGIN}${BASE}koleksi/`);
   check("luring: halaman koleksi pribadi terbuka", await until("!!document.getElementById('halaman-koleksi')"));

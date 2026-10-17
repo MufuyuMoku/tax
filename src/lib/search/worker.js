@@ -4,6 +4,7 @@
 // IndexedDB and searched with the same engine; it is never sent anywhere (invariant 7).
 import { SearchEngine } from "./engine.js";
 import { normToken } from "./normalize.js";
+import { definitionTerm, pickDefinitions, sameTerms } from "./definitions.js";
 import { assessText } from "../collection/extract.js";
 import { collectionPayload } from "../collection/records.js";
 import { findReferences, refreshReferences } from "../collection/references.js";
@@ -49,6 +50,36 @@ async function loadCollection() {
   return records.length;
 }
 
+/** The definition box (K-096): beside the results, never part of their ranking. */
+function definitionsFor(query) {
+  const definitions = payload.definitions;
+  if (!definitions) return null;
+  const known = (key) => sameTerms(key, payload.terms).some((k) => definitions.terms[k]);
+  const term = definitionTerm(query, known);
+  if (!term) return null;
+  const { shown, disputedOnly } = pickDefinitions(definitions, sameTerms(term, payload.terms), payload.units, payload.docs);
+  if (!shown.length) return null;
+  return {
+    disputedOnly,
+    items: shown.map((d) => {
+      const doc = payload.docs[d.doc];
+      const unit = payload.units[d.unit];
+      return {
+        text: payload.texts[d.unit].slice(d.start, d.end).trim(),
+        unitId: unit.id,
+        place: [unit.label, d.place].filter(Boolean).join(", "),
+        docId: doc.id,
+        docLabel: doc.label,
+        title: doc.title,
+        claims: doc.claims,
+        status: doc.status,
+        statusReasons: doc.statusReasons,
+        alsoIn: d.alsoIn,
+      };
+    }),
+  };
+}
+
 function privateFilters(filters) {
   return filters && filters.collectionKind ? { codes: [filters.collectionKind === "SE" ? "SE" : filters.collectionKind === "ND" ? "ND-DJP" : filters.collectionKind] } : null;
 }
@@ -73,6 +104,7 @@ self.onmessage = async (event) => {
         // category has results.
         const groups = event.data.filters && event.data.filters.category ? [] : engine.byCategory(3);
         reply.groups = groups.length > 1 ? groups : [];
+        reply.definitions = definitionsFor(event.data.query);
       }
       if (source !== "publik" && privateEngine) {
         reply.privateSummary = privateEngine.search(event.data.query, privateFilters(event.data.filters));

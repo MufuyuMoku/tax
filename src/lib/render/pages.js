@@ -43,6 +43,17 @@ export function documentNumber(doc) {
   return regulationLabel(doc.identity, numberAsWritten);
 }
 
+/**
+ * "Simpan" (K-096): keeps this page in the reader's "Tersimpan" list, on this device only. Needs
+ * JavaScript, so it starts hidden and public/keadaan.js shows it.
+ */
+function saveButton(kind, id, label, title) {
+  return (
+    `<p class="aksi-halaman"><button type="button" class="simpan" data-simpan="${kind}" data-id="${esc(id)}" ` +
+    `data-label="${esc(label)}" data-judul="${esc(title)}" aria-pressed="false" hidden>Simpan</button></p>`
+  );
+}
+
 /** { title, description, body } for /dokumen/<id>/. `units` are the document's units in order. */
 export function renderDocumentPage(doc, units, base) {
   const numberAsWritten = doc.source_records.find((r) => r.number_as_written)?.number_as_written;
@@ -69,6 +80,7 @@ export function renderDocumentPage(doc, units, base) {
     `<p class="breadcrumb"><a href="${base}">← Daftar peraturan</a></p>`,
     `<h1>${esc(number)}</h1>`,
     `<p class="judul-dokumen">${esc(doc.title)}</p>`,
+    saveButton("dokumen", doc.id, number, doc.title),
     // Summary first (K-083): kind, number, year, status per source, category, text.
     `<dl class="ringkasan">`,
     fact("Jenis", esc(typeLabel(doc.identity.code)) + (doc.identity.variant ? ` (${esc(doc.identity.variant)})` : "")),
@@ -340,6 +352,7 @@ export function renderPasalPage(doc, unit, base) {
     `<a href="${base}dokumen/${esc(doc.id)}/">${esc(documentNumber(doc))}</a></p>`,
     `<h1>${esc(heading)}</h1>`,
     `<p class="judul-dokumen">${esc(doc.title)}</p>`,
+    saveButton("pasal", unit.id, `${documentNumber(doc)} ${unit.section === "penjelasan" ? "Penjelasan " : ""}${heading}`, doc.title),
     `<p class="kartu-status">${statusChips(compactClaims(doc.status_claims))}`,
     info(base, "status", "Arti status menurut sumber"),
     `<span class="tanda netral">${section}</span></p>`,
