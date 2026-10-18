@@ -10,6 +10,16 @@ import pkg from "../../package.json";
 const base = import.meta.env.BASE_URL;
 const RELEASES = [
   {
+    version: "1.4.0",
+    date: "2026-10-18",
+    title: "Pembaruan data lebih hemat kuota",
+    points: [
+      "Data pencarian kini dipecah per kelompok peraturan. Saat data diperbarui, HP hanya mengunduh bagian yang berubah: untuk pembaruan kecil sekitar 1,5 MB, sebelumnya sekitar 9 MB.",
+      "Perpindahan ke bentuk baru terjadi sekali, otomatis, saat versi ini dimuat (sekitar 9 MB). Koleksi pribadi, daftar Tersimpan, dan riwayat pencarian tetap utuh.",
+      "Status menurut JDIH Kementerian Keuangan untuk peraturan lama kini diperiksa ulang bergilir setiap malam, sehingga semuanya terperiksa sekitar sebulan sekali. Perubahannya tampil di halaman Peraturan baru dan yang berubah.",
+    ],
+  },
+  {
     version: "1.3.1",
     date: "2026-10-17",
     title: "Ikon baru",

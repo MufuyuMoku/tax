@@ -2,6 +2,8 @@
 
     .venv/Scripts/python -m pipeline.jdih_harvest jalan --tanpa-vpn
     .venv/Scripts/python -m pipeline.jdih_harvest kemajuan
+    .venv/Scripts/python -m pipeline.jdih_harvest sapu --tanpa-vpn      (status sweep, K-100)
+    .venv/Scripts/python -m pipeline.jdih_harvest rencana-sapu
 
 Queues, in this order (owner, 2026-10-05):
     a. KUP: the document page of every KUP document in the DJP list that JDIH also has, for JDIH's
@@ -18,6 +20,7 @@ Source classification ("Label") is never kept (K-010). harvest/BERHENTI ends the
 """
 import argparse
 import json
+import math
 import re
 import sys
 
@@ -154,12 +157,146 @@ def new_listing(fetcher, max_pages=3):
     return requests, found
 
 
+# ---------- status sweep (K-100) ----------
+# JDIH's status of documents already known changes too (revoked, replaced). Its list pages show the
+# status of ten documents each; a few of them are read every night, round-robin over every type,
+# so the whole list is read again about once a month, like the DJP sweep (pipeline/pembaruan.py).
+SWEEP_OUT = config.HARVEST_JDIH_SWEEP
+SWEEP_STATE = ROOT / "sapuan.json"
+SWEEP_DAYS = 30
+PER_PAGE = 10
+COMPARED = ("status", "nomor", "judul", "bentuk")
+
+
+def load_sweep_state():
+    if SWEEP_STATE.exists():
+        return json.loads(SWEEP_STATE.read_text(encoding="utf8"))
+    return {"cursor": {"bentuk": 0, "page": 1}, "runs": []}
+
+
+def save_sweep_state(state):
+    state["runs"] = state["runs"][-60:]  # two months of nights is enough to look back on
+    SWEEP_STATE.write_text(json.dumps(state, indent=1, ensure_ascii=False) + "\n", encoding="utf8")
+
+
+def known_listing():
+    """The latest JDIH list row of every document: proof of concept, new listing, earlier sweeps."""
+    rows = read_jsonl(config.IN_JDIH_META) + sorted(read_jsonl(LIST_NEW) + read_jsonl(SWEEP_OUT), key=lambda r: r.get("_retrieved_at") or "")
+    return {row["produk_hukum_id"]: row for row in rows if row.get("produk_hukum_id")}
+
+
+def sweep_pages_per_type(known=None):
+    """Pages of every type's list, from the documents known per type, plus one page of margin for
+    documents added since. Types are those of the new listing (court rulings are out of scope)."""
+    known = known if known is not None else known_listing()
+    count = {bentuk: 0 for bentuk in BENTUK}
+    for row in known.values():
+        if row.get("bentuk") in count:
+            count[row["bentuk"]] += 1
+    return {bentuk: math.ceil(n / PER_PAGE) + 1 for bentuk, n in count.items() if n}
+
+
+def sweep_per_night(pages):
+    return math.ceil(sum(pages.values()) / SWEEP_DAYS)
+
+
+def sweep_pages(state, count, pages):
+    """The next `count` (type, page) pairs of the round-robin sweep; advances the cursor. Pages are
+    1-based, as in JDIH's search."""
+    names = list(pages)
+    cursor = state["cursor"]
+    out = []
+    while len(out) < count and names:
+        name = names[cursor["bentuk"] % len(names)]
+        if cursor["page"] > pages[name]:
+            cursor["bentuk"] = (cursor["bentuk"] + 1) % len(names)
+            cursor["page"] = 1
+            continue
+        out.append((name, cursor["page"]))
+        cursor["page"] += 1
+    return out
+
+
+def classify(old, row):
+    """("baru" | "berubah" | "sama", changed fields) of a list row against the last known one."""
+    if old is None:
+        return "baru", []
+    changed = [f for f in COMPARED if (old.get(f) or "") != (row.get(f) or "")]
+    return ("berubah" if changed else "sama"), changed
+
+
+def clean_row(item):
+    row = dict(item.get("data", item))
+    row.pop("blocks", None)
+    if isinstance(row.get("abstrak"), str) and row["abstrak"].startswith("$"):
+        row["abstrak"] = None
+    for field in ("label", "tematik"):
+        row.pop(field, None)  # the source's classification is never kept (K-010)
+    return row
+
+
+def sweep(fetcher, state, count=None):
+    """Reads the next pages of the sweep. Keeps rows that are new or whose status, number, title or
+    type changed; counts the rest. Returns the summary of this night."""
+    known = known_listing()
+    pages = sweep_pages_per_type(known)
+    count = count or sweep_per_night(pages)
+    summary = {"mulai": now(), "halaman": 0, "baris": 0, "baru": 0, "berubah": 0, "gagal": 0, "akhir_daftar": 0}
+    for bentuk, page in sweep_pages(state, count, pages):
+        if STOP_SIGNAL.exists():
+            break
+        try:
+            html, meta = fetcher.get(BASE + "/search", params={"bentuk": bentuk, "order": "desc", "page": page}, use_cache=False)
+        except TransientError as error:
+            summary["gagal"] += 1
+            print(f"sapu JDIH {bentuk} halaman {page}: gagal ({error}); terbaca lagi pada putaran sapuan berikutnya", flush=True)
+            continue
+        summary["halaman"] += 1
+        items = [i for i in find_json_objects(rsc_payload(html), "produk_hukum_id") if "produk_hukum_id" in i.get("data", i)]
+        if not items:
+            summary["akhir_daftar"] += 1  # past the end of this type's list: the margin page
+            print(f"sapu JDIH {bentuk} halaman {page}: kosong (akhir daftar)", flush=True)
+            continue
+        changed_here = 0
+        for item in items:
+            row = clean_row(item)
+            summary["baris"] += 1
+            reason, fields = classify(known.get(row["produk_hukum_id"]), row)
+            if reason == "sama":
+                continue
+            row.update({"_source_list_url": meta["url"], "_retrieved_at": meta["retrieved_at"], "_alasan": reason})
+            if fields:
+                row["_berubah"] = fields
+            append_jsonl(SWEEP_OUT, row)
+            known[row["produk_hukum_id"]] = row
+            summary[reason] += 1
+            changed_here += 1
+        print(f"sapu JDIH {bentuk} halaman {page}: {changed_here} baru atau berubah dari {len(items)}", flush=True)
+    summary["selesai"] = now()
+    summary["kursor"] = dict(state["cursor"])
+    state["runs"].append(summary)
+    save_sweep_state(state)
+    return summary
+
+
+def sweep_plan():
+    pages = sweep_pages_per_type()
+    total = sum(pages.values())
+    nightly = sweep_per_night(pages)
+    return "\n".join([
+        f"Daftar JDIH: {len(pages)} jenis, {total} halaman ({PER_PAGE} dokumen per halaman, termasuk 1 halaman cadangan per jenis).",
+        f"Sapuan per malam: {nightly} halaman, sekitar {math.ceil(nightly * 20 / 60)} menit dengan jeda 20 detik.",
+        f"Seluruh daftar terbaca ulang setiap {math.ceil(total / nightly)} malam.",
+        "Batas per host tetap 1.500 permintaan per 24 jam (polite.py), bersama langkah JDIH lainnya.",
+    ])
+
+
 # ---------- queues ----------
 def jdih_listing():
     """JDIH documents by number key: the proof of concept's full JDIH listing (2026-09-21), then the
-    documents listed since (M9)."""
+    documents listed since (M9) and those the status sweep found (K-100)."""
     by_key, by_slug = {}, {}
-    for row in read_jsonl(config.IN_JDIH_META) + read_jsonl(LIST_NEW):
+    for row in read_jsonl(config.IN_JDIH_META) + read_jsonl(LIST_NEW) + read_jsonl(SWEEP_OUT):
         by_slug[row["slug"]] = row
         key = parse(row.get("bentuk"), row.get("nomor"), row.get("judul"))
         if key:
@@ -322,12 +459,15 @@ def report():
 
 def main(argv=None):
     parser = argparse.ArgumentParser(prog="python -m pipeline.jdih_harvest")
-    parser.add_argument("perintah", choices=["jalan", "daftar-baru", "kemajuan", "cek-alamat"])
+    parser.add_argument("perintah", choices=["jalan", "daftar-baru", "sapu", "rencana-sapu", "kemajuan", "cek-alamat"])
     parser.add_argument("--tanpa-vpn", action="store_true")
     parser.add_argument("--batas", type=int, default=None)
     args = parser.parse_args(argv)
     if args.perintah == "kemajuan":
         print(report())
+        return 0
+    if args.perintah == "rencana-sapu":
+        print(sweep_plan())
         return 0
     net_guard.require_plain_connection(args.tanpa_vpn)
     ROOT.mkdir(parents=True, exist_ok=True)
@@ -349,6 +489,10 @@ def main(argv=None):
         if args.perintah == "daftar-baru":
             requests, found = new_listing(fetcher)
             end = f"daftar baru: {found} dokumen baru dari {requests} permintaan"
+        elif args.perintah == "sapu":
+            s = sweep(fetcher, load_sweep_state(), args.batas)
+            end = (f"sapuan status: {s['halaman']} halaman, {s['baris']} baris; {s['baru']} baru, {s['berubah']} berubah, "
+                   f"{s['gagal']} gagal; kursor {s['kursor']['bentuk']}:{s['kursor']['page']}")
         else:
             done, end = run(fetcher, args.batas)
     except HostStopped as error:

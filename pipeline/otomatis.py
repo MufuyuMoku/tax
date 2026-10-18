@@ -98,6 +98,7 @@ def harian():
         ("Cakupan 'Lainnya' untuk baris baru", [tool("node"), "scripts/cakupan-lainnya.mjs"]),
         ("DJP: detail yang masih kurang", [PY, "-m", "pipeline.harvest", "jalan", "--tanpa-vpn"]),
         ("JDIH: daftar dokumen baru", [PY, "-m", "pipeline.jdih_harvest", "daftar-baru", "--tanpa-vpn"]),
+        ("JDIH: sapuan status dokumen lama", [PY, "-m", "pipeline.jdih_harvest", "sapu", "--tanpa-vpn"]),
         ("JDIH: status dokumen baru", [PY, "-m", "pipeline.jdih_harvest", "jalan", "--tanpa-vpn"]),
     ]
     for title, command in steps:

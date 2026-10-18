@@ -57,7 +57,7 @@ export function compare(dist, base) {
 }
 
 /** Files the service worker keeps, as { path, url, hash, bytes }. */
-function filesToKeep(dist, base) {
+export function filesToKeep(dist, base) {
   const pages = [
     "index.html",
     "semua/index.html",
@@ -74,6 +74,7 @@ function filesToKeep(dist, base) {
     ...pages,
     ...listed("_astro"),
     "cari/data.json",
+    ...listed("cari/teks"),
     ...listed("luring/data"),
     "manifest.webmanifest",
     "keadaan.js",
@@ -91,7 +92,7 @@ function filesToKeep(dist, base) {
 
 export async function writeWorker(dist, base, root) {
   const files = filesToKeep(dist, base);
-  const dataFiles = files.filter((f) => f.path === "cari/data.json" || f.path.startsWith("luring/data/"));
+  const dataFiles = files.filter((f) => f.path.startsWith("cari/") || f.path.startsWith("luring/data/"));
   const manifest = {
     version: hash(files.map((f) => `${f.url} ${f.hash}`).join("\n")),
     base,

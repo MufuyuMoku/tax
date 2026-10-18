@@ -56,8 +56,11 @@ HARVEST_JDIH_TEXT = HARVEST / "jdih" / "teks_berkas.jsonl"  # scripts/jdih-pdf-t
 HARVEST_UPDATE_LIST = HARVEST / "pembaruan_daftar.jsonl"
 HARVEST_UPDATE_DETAIL = HARVEST / "pembaruan_detail.jsonl"
 HARVEST_JDIH_LIST_NEW = HARVEST / "jdih" / "jdih_daftar_baru.jsonl"
+# K-100: JDIH list rows the nightly status sweep found new or changed (unchanged rows are counted,
+# not kept). Read after jdih_daftar_baru.jsonl; the latest row of a document wins.
+HARVEST_JDIH_SWEEP = HARVEST / "jdih" / "jdih_sapuan.jsonl"
 HARVEST_INPUTS = [HARVEST_DJP_LIST, HARVEST_DJP_DETAIL, HARVEST_JDIH_DETAIL, HARVEST_JDIH_TEXT,
-                  HARVEST_UPDATE_LIST, HARVEST_UPDATE_DETAIL, HARVEST_JDIH_LIST_NEW]
+                  HARVEST_UPDATE_LIST, HARVEST_UPDATE_DETAIL, HARVEST_JDIH_LIST_NEW, HARVEST_JDIH_SWEEP]
 
 # Categories of the DJP catalogue that are in the corpus. M5 runs in two stages (SPEC section 7):
 # KUP first, then PPN (2026-10-09). PPh comes from the proof of concept.

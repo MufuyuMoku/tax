@@ -1738,7 +1738,7 @@ di-commit walau tidak ada perubahan. Ini mencegah jadwal dimatikan GitHub setela
   laporan kini menyebut nama tes yang gagal. Issue #2 ditutup sebagai uji.
 
 ## K-092 — Usulan: unduhan pembaruan kecil diperkecil dari 9,2 MB
-Tanggal: 2026-10-16 · Milestone: M9 · Status: usulan, belum dikerjakan (menunggu persetujuan pemilik)
+Tanggal: 2026-10-16 · Milestone: M9 · Status: disetujui pemilik, dikerjakan di v1.4.0 (K-099)
 
 **Diukur** pada uji ujung ke ujung (1 peraturan baru, 1 status berubah). HP mengunduh 46,0 MB
 mentah, **9,2 MB lewat jaringan (gzip)**:
@@ -2000,3 +2000,118 @@ selalu terdeteksi. Di Android, Chrome bisa meminta persetujuan pengguna sekali. 
 
 **APK:** dibangun ulang dengan ikon C dari URL baru, memakai keystore yang sama. Hasil dan
 verifikasinya di `docs/ANDROID.md` dan laporan v1.3.1.
+
+## K-099 — Data pencarian dipecah: kepala dan 64 bagian, kosakata hanya-tambah
+Tanggal: 2026-10-17 · Menjalankan K-092 (disetujui pemilik) · Status: berlaku
+
+**Bentuk baru** (format 3):
+- **`cari/data.json` (kepala):** daftar dokumen, daftar pasal, kosakata, peta OCR, daftar istilah,
+  padanan, kata umum, pajak daerah, definisi (K-096), dan hash tiap bagian. Ukurannya 4,8 MB
+  mentah, 0,70 MB gzip.
+- **`cari/teks/NN.json` (64 bagian):** teks pasal dan nomor kata (varint, base64) untuk dokumen yang
+  jatuh di bagian itu. Pembagiannya sama dengan data halaman luring (`shardOf`, K-082), dan pasal di
+  dalam satu bagian berurutan seperti di daftar pasal. Bagian tidak memuat nomor urut global, jadi
+  peraturan baru di bagian lain tidak mengubahnya.
+- **Penggabungan:** `src/lib/search/assemble.js` menyatukan kepala dan bagian menjadi data yang sama
+  persis dengan yang selalu diterima mesin. Kode ini dipakai di worker dan di Node, sehingga semua
+  tes melewati jalur yang sama dengan browser.
+- **Pengamanan:** bagian diminta dengan hash di alamatnya (`?v=<hash>`), supaya tembolok browser
+  tidak bisa memberi bagian dari build lain. Bila jumlah pasal sebuah bagian tidak cocok dengan
+  kepala, data ditolak dengan galat yang jelas, tidak dicampur.
+
+**Kosakata hanya-tambah:** `src/data/search/kosakata.json`.
+- Build memakai kosakata itu apa adanya, lalu menambah kata baru di ujungnya. Nomor kata lama tidak
+  pernah bergeser, jadi bagian yang dokumennya tidak berubah tetap sama byte demi byte.
+- Build menulis kembali daftar yang bertambah. Langkah terbit otomatis meng-commit `src/data`, jadi
+  kosakata ikut ter-commit bersama datanya.
+- Kata yang hilang dari korpus tetap tinggal di kosakata. Kata seperti itu tidak punya kemunculan,
+  jadi tidak memengaruhi hasil, dan pemeriksaan mutu koleksi pribadi hanya menghitung kata yang
+  masih muncul.
+- Urutan kosakata tidak memengaruhi peringkat: pencocokan diurutkan menurut posisi teks, bukan nomor
+  kata. Uji kesetaraan (`tests/search/setara.test.mjs`) tetap lulus.
+
+**Diukur.** Pembanding: "sebelum" adalah kode v1.3.1, "sesudah" kode baru. Keduanya memakai data
+pembaruan kecil tiruan yang sama: 1 peraturan baru dan 1 status berubah, pada salinan korpus.
+Skripnya `scripts/ukur-unduhan.mjs`.
+
+| | Sebelum | Sesudah |
+|---|---|---|
+| Unduhan pembaruan kecil (gzip) | 9,30 MB (6 berkas) | **1,56 MB** (7 berkas) |
+| Unduhan pertama (gzip) | 16,50 MB (92 berkas) | 16,77 MB (156 berkas) |
+| Simpanan di perangkat | 92,3 MB | 92,3 MB |
+
+Sesudah K-099, pembaruan kecil hanya mengubah tujuh berkas (gzip):
+- kepala: 0,69 MB;
+- dua halaman daftar: 0,61 MB;
+- dua data luring: 0,20 MB;
+- satu bagian teks: 0,07 MB;
+- halaman Tentang.
+
+**Waktu siap mencari.** Mesin dijalankan di thread utama yang diperlambat, cara K-031 dan K-069,
+lewat `scripts/ukur-mesin.mjs`. Termasuk mengambil data lewat localhost. Dua putaran berselang-seling:
+
+| CPU | Format 2 (satu berkas) | Format 3 (kepala + 64 bagian) |
+|---|---|---|
+| 1x | 0,27–0,28 dtk | 0,24–0,26 dtk |
+| 4x | 0,96–1,06 dtk | 1,09–1,15 dtk |
+| 6x | 1,42–1,62 dtk | 1,41–1,51 dtk |
+
+Pencarian di 6x: "PPh 21" 104–123 md; pertanyaan kasus 109–127 md.
+
+Di situs sungguhan, diukur dengan `scripts/measure-load.mjs` (worker tidak bisa diperlambat), siap
+mencari dalam 0,67 / 1,26–1,28 / 1,69–2,09 detik.
+
+**Perpindahan HP yang menyimpan versi lama** (`scripts/uji-pindah-format.mjs`, build v1.3.1 lalu
+build baru):
+- Diuji: versi baru ditawarkan dan dipakai, lalu 64 bagian ada di tembolok.
+- Koleksi pribadi (dokumen tiruan), Tersimpan, dan riwayat tetap sama.
+- Pencarian publik, kotak definisi, dan pencarian dokumen koleksi jalan daring maupun luring.
+- Hasil: 13 dari 13 lulus. Perpindahan pertama kali mengunduh 9,15 MB gzip; pembaruan sesudahnya
+  kecil.
+- Service worker tidak pernah menyentuh IndexedDB maupun localStorage, dan tiap versi menyimpan
+  datanya di tembolok sendiri. Karena itu halaman lama dan data baru tidak pernah bercampur.
+
+## K-100 — Sapuan status JDIH untuk dokumen lama
+Tanggal: 2026-10-18 · Permintaan pemilik · Status: berlaku
+
+**Masalah:** status JDIH sebuah dokumen hanya terbaca sekali. Sumbernya daftar JDIH bukti konsep
+(21 September), atau daftar baru untuk dokumen yang muncul sesudahnya. Bila JDIH kemudian mencatat
+sebuah peraturan "Tidak Berlaku", situs tidak tahu.
+
+**Cara:**
+- **Perintah:** `python -m pipeline.jdih_harvest sapu`, langkah baru di pembaruan harian, sesudah
+  daftar JDIH baru.
+- **Yang dibaca:** halaman daftar pencarian JDIH, semua jenis yang juga dipakai daftar baru,
+  terbaru dulu. Status JDIH yang dipakai situs memang berasal dari halaman daftar ini.
+- **Giliran:** bergilir per jenis lalu per halaman, dengan kursor di `harvest/jdih/sapuan.json`,
+  seperti sapuan DJP.
+- **Jumlah halaman per jenis:** dihitung dari jumlah dokumen yang diketahui per jenis, ditambah satu
+  halaman cadangan untuk dokumen yang ditambahkan sejak itu. Totalnya 881 halaman.
+- **Per malam:** sepertigapuluh dari total, yaitu 30 halaman. Satu putaran penuh selesai dalam
+  30 malam, jadi status JDIH tiap dokumen terperiksa ulang sekitar sebulan sekali.
+  `rencana-sapu` menampilkan angka ini.
+- **Biaya:** sekitar 30 permintaan dan 10 menit per malam, dengan jeda 20 detik. Ini di bawah batas
+  1.500 per 24 jam bersama langkah JDIH lainnya. Semua aturan SPEC bagian 8 berlaku lewat
+  `polite.py`: penolakan menghentikan JDIH total, dan putus sambungan dicatat lalu halaman itu
+  terbaca lagi pada putaran berikutnya.
+- **Yang disimpan:** hanya baris yang baru atau yang status, nomor, judul, atau jenisnya berubah, di
+  `harvest/jdih/jdih_sapuan.jsonl`. Baris yang sama hanya dihitung di ringkasan malam itu, supaya
+  repositori tidak bertambah 8.000 baris sebulan. Klasifikasi sumber ("label", "tematik") tidak
+  pernah disimpan (K-010).
+- **Build:** baris daftar JDIH sesudah bukti konsep (daftar baru dan sapuan) diurutkan menurut
+  tanggal ambil, dan baris terbaru menang. Klaim status JDIH lalu memakai kata-kata JDIH dan tanggal
+  ambil baris itu.
+- **Halaman "Peraturan baru dan yang berubah":** `scripts/catat-perubahan.mjs` sudah membandingkan
+  klaim per sumber, jadi perubahan status JDIH tercatat di sana tanpa kode baru.
+
+**Diuji tanpa jaringan:**
+- `pipeline/tests/test_jdih_sapuan.py`: giliran, deteksi perubahan, baris yang disimpan, dan
+  ringkasan malam.
+- **Ujung ke ujung:** satu baris sapuan tiruan (PMK 117/2024, JDIH "Tidak Berlaku") dibangun ke
+  korpus di folder sementara. Hasilnya: klaim JDIH "Tidak Berlaku" dengan tanggal ambil baru;
+  statusnya menjadi "Perlu dicek" karena DJP masih "Aktif" (situs tidak memilih); dan
+  `catat-perubahan.mjs` mencatat "status berubah 1".
+- Sapuan sungguhan pertama berjalan pada pembaruan harian berikutnya di GitHub Actions.
+
+**Yang tidak dicakup:** halaman dokumen JDIH (relasi, masa berlaku) tidak diambil ulang. Sapuan
+hanya membaca status di halaman daftar.

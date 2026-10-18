@@ -65,22 +65,38 @@ export function decodeVarints(text, count) {
   return out;
 }
 
-/** { vocab, ids, counts, total }: vocab sorted by frequency (then text), so frequent ids are short. */
-export function buildTextIndex(texts, ocr) {
-  const tokenLists = texts.map((t) => {
+/** Each text as its list of normalised tokens. */
+export function tokenize(texts, ocr) {
+  return texts.map((t) => {
     const norm = normalizeText(t, ocr);
     return norm.count ? norm.text.split(" ") : [];
   });
+}
+
+/**
+ * The vocabulary: `base` as it is, then every token it lacks, most frequent first (then by text).
+ * With the vocabulary of the last build as `base`, no token ever changes its id, so the data of a
+ * document that did not change stays the same byte for byte (K-099).
+ */
+export function vocabularyFor(tokenLists, base = []) {
+  const known = new Set(base);
   const freq = new Map();
-  for (const list of tokenLists) for (const t of list) freq.set(t, (freq.get(t) || 0) + 1);
-  const vocab = [...freq.keys()].sort((a, b) => freq.get(b) - freq.get(a) || (a < b ? -1 : a > b ? 1 : 0));
+  for (const list of tokenLists) for (const t of list) if (!known.has(t)) freq.set(t, (freq.get(t) || 0) + 1);
+  const added = [...freq.keys()].sort((a, b) => freq.get(b) - freq.get(a) || (a < b ? -1 : a > b ? 1 : 0));
+  return base.concat(added);
+}
+
+/** { ids, counts, total } of `tokenLists` in `vocab`, varint-coded and base64. */
+export function encodeIndex(tokenLists, vocab) {
   const id = new Map(vocab.map((t, i) => [t, i]));
   const ids = [];
   for (const list of tokenLists) for (const t of list) ids.push(id.get(t));
-  return {
-    vocab,
-    total: ids.length,
-    ids: encodeVarints(ids),
-    counts: encodeVarints(tokenLists.map((l) => l.length)),
-  };
+  return { total: ids.length, ids: encodeVarints(ids), counts: encodeVarints(tokenLists.map((l) => l.length)) };
+}
+
+/** { vocab, ids, counts, total }: vocab sorted by frequency (then text), so frequent ids are short. */
+export function buildTextIndex(texts, ocr) {
+  const tokenLists = tokenize(texts, ocr);
+  const vocab = vocabularyFor(tokenLists);
+  return { vocab, ...encodeIndex(tokenLists, vocab) };
 }

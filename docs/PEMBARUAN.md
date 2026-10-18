@@ -16,6 +16,12 @@ Server GitHub lolos uji: DJP dan JDIH menjawab halaman daftar sungguhan dari san
 2. Peraturan baru di daftar "Lainnya" diberi usulan cakupan. Yang meragukan tidak diambil sampai
    Anda putuskan.
 3. Daftar JDIH sejak 21 September, dan status JDIH untuk dokumen baru.
+4. **Sapuan status JDIH** (K-100): setiap malam 30 halaman daftar JDIH dibaca ulang bergilir, 10
+   dokumen per halaman, untuk semua jenis peraturan. Seluruh daftar (881 halaman) terbaca ulang
+   setiap 30 malam, jadi status JDIH tiap dokumen lama terperiksa sekitar sebulan sekali. Satu
+   sapuan memakan sekitar 30 permintaan dan 10 menit. Yang disimpan hanya dokumen yang baru atau
+   yang status, nomor, judul, atau jenisnya berubah (`harvest/jdih/jdih_sapuan.jsonl`). Letak
+   giliran dan ringkasan tiap malam ada di `harvest/jdih/sapuan.json`.
 
 Semua aturan pengambilan berlaku (SPEC bagian 8): jeda 20 detik, paling banyak 1.500 permintaan per
 host per 24 jam, dan berhenti total bila host menolak. Hasilnya di-commit oleh `github-actions[bot]`.
@@ -23,6 +29,8 @@ host per 24 jam, dan berhenti total bila host menolak. Hasilnya di-commit oleh `
 **Setiap hari Minggu: periksa dan terbitkan**
 1. Korpus dibangun dari data terbaru dan dibandingkan dengan yang sedang terbit.
 2. **Tidak ada perubahan:** hanya "terakhir diperiksa" yang dicatat. HP tidak mengunduh apa pun.
+   Status JDIH yang berubah dari sapuan dihitung sebagai perubahan, dan masuk ke halaman "Peraturan
+   baru dan yang berubah" dengan kata-kata JDIH sendiri dan tanggal ambilnya.
 3. **Ada perubahan:** catatan "Peraturan baru dan yang berubah" ditulis, lalu dijalankan
    pemeriksaan invarian, `npm test` (termasuk kesetaraan hasil pencarian dan gerbang median), build
    situs (halaman luring harus identik), dan uji luring di Chrome.
@@ -36,6 +44,8 @@ host per 24 jam, dan berhenti total bila host menolak. Hasilnya di-commit oleh `
 **Di HP:**
 - Data baru diunduh sendiri saat aplikasi dibuka dengan internet, dan dipakai saat aplikasi dibuka
   lagi dari keadaan tertutup. Bila halaman sedang terbuka, muncul tombol **Muat data baru**.
+- Yang diunduh hanya berkas yang berubah. Sejak v1.4.0 data pencarian dipecah (K-099), jadi
+  pembaruan kecil (beberapa peraturan baru atau status berubah) sekitar 1,5 MB, bukan 9 MB.
 - Baris kecil di bawah menu menyebut kapan data terakhir diperiksa dan kapan terakhir berubah.
 
 ## Arti issue yang masuk
@@ -95,13 +105,14 @@ python -m pipeline.otomatis terbit --paksa
 git add -A && git commit -m "Pembaruan manual" && git push
 ```
 
-Perintah per langkah ada di `pipeline/otomatis.py`. Untuk berhenti rapi di tengah pengambilan,
+Perintah per langkah ada di `pipeline/otomatis.py`. Rencana sapuan JDIH (jumlah halaman, berapa
+malam untuk satu putaran) bisa dilihat dengan `python -m pipeline.jdih_harvest rencana-sapu`. Untuk berhenti rapi di tengah pengambilan,
 buat berkas `harvest/BERHENTI`.
 
 ## Yang tidak dicakup pembaruan otomatis
 
-- Perubahan status di JDIH untuk dokumen lama. Yang diperiksa hanya daftar JDIH baru dan status
-  dokumen baru.
+- Isi halaman dokumen JDIH yang sudah diambil (relasi dan masa berlaku). Sapuan membaca status di
+  halaman daftar JDIH, bukan halaman dokumennya.
 - Peraturan "Lainnya" yang meragukan. Peraturan itu menunggu keputusan Anda.
 - Versi aplikasi. Pembaruan otomatis hanya mengubah data; versi aplikasi naik hanya saat kode
   berubah.

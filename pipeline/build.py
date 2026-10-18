@@ -156,8 +156,10 @@ def collect():
     # validity period, and for the PPh documents only JDIH has, the full text when it passes the
     # text quality rule (K-055).
     jdih_meta = {row["slug"]: row for row in read_jsonl(config.IN_JDIH_META)}
-    # JDIH documents listed after the proof of concept's listing (M9, K-091): newest row wins.
-    for row in _read_optional(config.HARVEST_JDIH_LIST_NEW):
+    # JDIH documents listed after the proof of concept's listing (M9, K-091), and rows the status
+    # sweep found new or changed (K-100): the newest row wins.
+    later = _read_optional(config.HARVEST_JDIH_LIST_NEW) + _read_optional(config.HARVEST_JDIH_SWEEP)
+    for row in sorted(later, key=lambda r: r.get("_retrieved_at") or ""):
         jdih_meta[row["slug"]] = row
     jdih_detail = {row["slug"]: row for row in read_jsonl(config.IN_JDIH_DETAIL) if not row.get("error")}
     m5_detail = {row["slug"]: row for row in _read_optional(config.HARVEST_JDIH_DETAIL) if not row.get("error")}

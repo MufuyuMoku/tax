@@ -17,6 +17,43 @@ angka nyata, bukan klaim.
 
 ---
 
+## v1.4.0 — data pencarian dipecah (K-092, K-099), sapuan status JDIH (K-100)
+Tanggal: 2026-10-18
+Status: terbit (tag `v1.4.0`)
+
+**Dibangun:**
+- `cari/data.json` menjadi kepala, ditambah 64 bagian `cari/teks/NN.json`;
+- kosakata hanya-tambah di `src/data/search/kosakata.json`;
+- perintah `jdih_harvest sapu` di pembaruan harian;
+- skrip ukur `scripts/ukur-unduhan.mjs` dan `scripts/ukur-mesin.mjs`, serta uji
+  `scripts/uji-pindah-format.mjs`.
+
+**Verifikasi:**
+- `npm test` lulus, termasuk kesetaraan hasil (K-069). Tes Python lulus.
+- Build: halaman luring identik. Uji luring 22 dari 22.
+- Uji perpindahan dari v1.3.1: 13 dari 13.
+- Pembaruan kecil tiruan: 9,30 MB menjadi 1,56 MB gzip. Unduhan pertama 16,50 menjadi 16,77 MB.
+  Simpanan 92,3 MB.
+- Waktu siap mencari di 6x setara: format lama 1,42–1,62 detik, format baru 1,41–1,51 detik.
+- Sapuan JDIH diuji tanpa jaringan dan ujung ke ujung dengan baris tiruan. Sapuan sungguhan pertama
+  berjalan pada pembaruan harian berikutnya.
+
+**Diputuskan sendiri:**
+- Bagian teks diminta dengan hash di alamatnya.
+- Sapuan JDIH hanya menyimpan baris yang baru atau berubah.
+
+## v1.3.1 — ikon C "lencana", APK 1.3.1 (K-098)
+Tanggal: 2026-10-17
+Status: terbit (tag `v1.3.1`)
+
+- Ikon C dipasang di semua tempat, dengan nama berkas baru supaya aplikasi terpasang ikut
+  berganti ikon.
+- Spasi menu "Koleksi pribadi" di layar lebar diperbaiki.
+- APK 1.3.1 (`versionCode` 2) ditandatangani dengan kunci yang sama:
+  - SHA-256 `ccdaf62705d3f348866df5ec7608238a0f2e96ec53dae86aa8d407ac76c819fa`;
+  - asset links masih `linked: true`;
+  - kata sandi tidak ada di log.
+
 ## v1.3.0 — kredit, usulan ikon, perbaikan pengalaman pengguna
 Tanggal: 2026-10-17
 Status: v1.3.0 terbit (tag `v1.3.0`); ikon menunggu pilihan pemilik, lalu APK dibangun ulang

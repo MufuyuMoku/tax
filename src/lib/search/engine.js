@@ -91,8 +91,9 @@ function countInto(field, alternative, tf, positions = null, factor = 1, typedHi
  */
 function bodyIndex(index, nTexts) {
   const vocab = index.vocab;
-  const ids = decodeVarints(index.ids, index.total);
-  const counts = decodeVarints(index.counts, nTexts);
+  // Already decoded when the public data was put together from its parts (K-099).
+  const ids = typeof index.ids === "string" ? decodeVarints(index.ids, index.total) : index.ids;
+  const counts = typeof index.counts === "string" ? decodeVarints(index.counts, nTexts) : index.counts;
   const vocabLength = Int32Array.from(vocab, (t) => t.length);
   const tokenStart = new Int32Array(nTexts + 1);
   const starts = new Int32Array(nTexts + 1);
@@ -488,7 +489,9 @@ export class SearchEngine {
 
   /** Every normalised token of the pasal text, for judging imported text (K-043). */
   vocabularySet() {
-    return new Set(this.body.vocab);
+    // The vocabulary only grows (K-099); a word counts as known while some pasal still holds it.
+    const { vocab, postingStart } = this.body;
+    return new Set(vocab.filter((_, v) => postingStart[v + 1] > postingStart[v]));
   }
 
   /**

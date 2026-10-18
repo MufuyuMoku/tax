@@ -1,8 +1,9 @@
 // Runs the search engine off the main thread: normalising ten megabytes of text takes long enough
-// on a phone to freeze the page otherwise. The worker fetches the public search data once, from the
+// on a phone to freeze the page otherwise. The worker fetches the public search data once (a head and 64 parts, K-099), from the
 // same site, and never makes another request. The personal collection is read from this device's
 // IndexedDB and searched with the same engine; it is never sent anywhere (invariant 7).
 import { SearchEngine } from "./engine.js";
+import { assemblePayload, partUrl } from "./assemble.js";
 import { normToken } from "./normalize.js";
 import { definitionTerm, pickDefinitions, sameTerms } from "./definitions.js";
 import { assessText } from "../collection/extract.js";
@@ -24,14 +25,19 @@ function isKnown(word) {
 
 function load(url) {
   if (!ready) {
-    ready = fetch(url)
-      .then((response) => {
+    const get = (address) =>
+      fetch(address).then((response) => {
         if (!response.ok) throw new Error(`data pencarian tidak bisa dimuat (HTTP ${response.status})`);
         return response.json();
-      })
-      .then((data) => {
+      });
+    // The head names its 64 parts by hash (K-099); they are fetched together, from the service
+    // worker's cache once the site is kept on the device.
+    const absolute = new URL(url, self.location.href).href;
+    ready = get(absolute)
+      .then((head) => Promise.all(head.parts.map((hash, n) => get(partUrl(absolute, n, hash)))).then((parts) => [head, parts]))
+      .then(([head, parts]) => {
         const started = Date.now();
-        payload = data;
+        payload = assemblePayload(head, parts);
         engine = new SearchEngine(payload);
         return { ms: Date.now() - started, documents: payload.docs.length, units: payload.units.length };
       });
