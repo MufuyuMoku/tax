@@ -110,6 +110,8 @@ function buildFresh() {
     synonyms: synonymsFrom(readData("padanan.json")),
     stopwords: readData("kata-umum.json").kata,
     localTax: readData("pajak-daerah.json").kelompok,
+    // Tax laws whose articles are recognised as references (K-101).
+    laws: readData("undang-undang.json").kelompok,
     // The definition box (K-096): offsets of defining sentences in the pasal texts, by term.
     definitions: buildDefinitions(units, texts),
   };

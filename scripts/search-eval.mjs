@@ -51,7 +51,9 @@ if (process.argv.includes("--compare")) {
   for (const c of cases) {
     const r = now[c.id];
     const inCategory = r.rankInCategory === null ? "-" : `${r.rankInCategory} di ${r.category}`;
-    console.log(`${show(r.rank).padStart(4)}  ${inCategory.padStart(9)}  ${c.pertanyaan}  [${r.best || "tidak ditemukan"}]${r.pasalShown ? " pasal tepat tampil" : ""}`);
+    // Article references (K-101): results shown before "Tampilkan juga hasil lain", answer in the box.
+    const article = r.inBox === null ? "" : ` · tampil ${r.shown}${r.inBox ? ", jawaban ada di kotak pasal" : ""}`;
+    console.log(`${show(r.rank).padStart(4)}  ${inCategory.padStart(9)}  ${c.pertanyaan}  [${r.best || "tidak ditemukan"}]${r.pasalShown ? " pasal tepat tampil" : ""}${article}`);
   }
   const ranks = cases.map((c) => now[c.id].rank);
   const inCategory = cases.map((c) => now[c.id].rankInCategory);

@@ -129,6 +129,17 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
   </form>
 
   <div id="hasil" hidden>
+    {/* Article reference (K-101): "16D" is Pasal 16D UU PPN, its wording from each law that writes it. */}
+    <div class="notice" id="pasal-tidak-ada" hidden></div>
+    <section class="kotak-pasal" id="kotak-pasal" hidden aria-labelledby="judul-pasal">
+      <h2 id="judul-pasal"></h2>
+      <p class="hint">
+        Bunyi pasal ini di undang-undang asalnya dan di setiap undang-undang yang mengubahnya, dikutip
+        apa adanya dari sumbernya, masing-masing dengan status menurut sumber. Bukan naskah
+        konsolidasi: periksa sendiri mana yang berlaku untuk kasus Anda.
+      </p>
+      <div id="kotak-pasal-isi"></div>
+    </section>
     {/* Definition box (K-081, K-096): beside the ranking, which it does not change. */}
     <section class="kotak-definisi" id="definisi" hidden aria-labelledby="judul-definisi">
       <h2 id="judul-definisi">Definisi menurut peraturan</h2>
@@ -156,6 +167,7 @@ const years = [...new Set(rows.map((r) => Number(r.year)).filter(Boolean))].sort
       </section>
       <ol class="daftar" id="hasil-daftar"></ol>
       <button type="button" class="tombol-lagi" id="lagi" hidden>Tampilkan lebih banyak</button>
+      <button type="button" class="tombol-lagi" id="lagi-lain" hidden>Tampilkan juga hasil lain</button>
     </section>
   </div>
 

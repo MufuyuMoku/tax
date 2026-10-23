@@ -68,7 +68,13 @@ export function evaluate(cases, searchEngine = engineFor()) {
         }
       }
     }
+    // For an article reference (K-101): how many results show before "Tampilkan juga hasil lain",
+    // and whether an answer is in the article box.
+    const article = summary.article || null;
+    const box = article ? searchEngine.articleBox() || [] : [];
     result[c.id] = {
+      shown: article && article.exact ? article.exact : summary.total,
+      inBox: article ? box.some((g) => g.places.some((p) => wanted.has(p.docId))) : null,
       rank: index === -1 ? null : index + 1,
       best: hit ? hit.id : null,
       pasalShown: Boolean(pasal && hit.units.some((u) => u.id === pasal)),

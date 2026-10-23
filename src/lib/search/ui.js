@@ -45,6 +45,11 @@ export function startSearch({ base, listing }) {
   const definitionNote = document.getElementById("definisi-catatan");
   const historyBlock = document.getElementById("riwayat");
   const historyList = document.getElementById("riwayat-daftar");
+  const articleBlock = document.getElementById("kotak-pasal");
+  const articleTitle = document.getElementById("judul-pasal");
+  const articleBody = document.getElementById("kotak-pasal-isi");
+  const articleMissing = document.getElementById("pasal-tidak-ada");
+  const moreOther = document.getElementById("lagi-lain");
   let privateShown = 0;
   let privateTotal = 0;
   let collectionSize = 0;
@@ -54,6 +59,10 @@ export function startSearch({ base, listing }) {
   let current = 0;
   let shown = 0;
   let total = 0;
+  // For an article reference (K-101), results stop after the documents citing it in so many words
+  // until "Tampilkan juga hasil lain" is pressed.
+  let limit = 0;
+  let article = null;
   let loaded = false;
   const pending = new Map();
 
@@ -173,6 +182,8 @@ export function startSearch({ base, listing }) {
     if (reply.id < current) return;
     current = reply.id;
     total = reply.summary ? reply.summary.total : 0;
+    article = reply.summary && reply.summary.article ? reply.summary.article : null;
+    limit = article && article.exact ? article.exact : total;
     shown = 0;
     resultList.replaceChildren();
     privateList.replaceChildren();
@@ -186,6 +197,7 @@ export function startSearch({ base, listing }) {
       appendPrivate(reply.privateResults);
     }
     showLocalTax(reply.summary ? reply.summary.localTax : []);
+    showArticle(article, reply.articleBox || null);
     showDefinitions(reply.definitions);
     publicBlock.hidden = !reply.summary;
     showGroups(reply.groups || []);
@@ -243,8 +255,110 @@ export function startSearch({ base, listing }) {
     appendPrivate(reply.results);
   });
 
+  /** The article box (K-101): each place quoted as the source writes it, with its own status. */
+  function showArticle(summary, groups) {
+    articleBody.replaceChildren();
+    articleMissing.replaceChildren();
+    articleMissing.hidden = !summary || summary.found;
+    if (summary && !summary.found) {
+      articleMissing.append(
+        el("strong", null, `${summary.label} tidak ada di undang-undang pajak yang dimuat situs ini. `),
+        "Hasil di bawah adalah pencarian biasa atas yang Anda ketik."
+      );
+    }
+    articleBlock.hidden = !groups || !groups.length;
+    if (!groups || !groups.length) return;
+    articleTitle.textContent = groups.length === 1 ? groups[0].label : `${summary.place} di ${groups.length} undang-undang pajak`;
+    groups.forEach((group, index) => {
+      // Several laws have this article: the one the results cite first is open, the rest folded.
+      const holder = groups.length === 1 ? el("div") : el("details", "pasal-uu");
+      if (groups.length > 1) {
+        if (index === 0) holder.open = true;
+        const summaryLine = el("summary", null, group.label);
+        summaryLine.append(el("span", "hint", ` · disebut ${group.cited.toLocaleString("id-ID")} dokumen`));
+        holder.append(summaryLine);
+      }
+      const list = el("ol", "pasal-tempat");
+      group.places.forEach((place, k) => {
+        const li = articlePlace(place);
+        // The first three places show; the others wait behind one button.
+        if (k >= 3) li.hidden = true;
+        list.append(li);
+      });
+      holder.append(list);
+      if (group.places.length > 3) {
+        const rest = el("button", "tombol-teks", `Tampilkan ${group.places.length - 3} undang-undang lain yang memuat pasal ini`);
+        rest.type = "button";
+        rest.addEventListener("click", () => {
+          for (const li of list.children) li.hidden = false;
+          rest.remove();
+        });
+        holder.append(rest);
+      }
+      articleBody.append(holder);
+    });
+  }
+
+  const KIND = { induk: "Undang-undang asal", pengubah: "Undang-undang pengubah" };
+  const ACTION = { diubah: "Diubah", disisipkan: "Disisipkan", dihapus: "Dihapus" };
+  const EXCERPT = 600;
+
+  function articlePlace(place) {
+    const li = el("li", "pasal-tempat-item");
+    const head = el("p", "kartu-nomor");
+    head.append(link(`${base}dokumen/${place.docId}/`, place.docLabel), el("span", "jenis", KIND[place.kind]));
+    li.append(head, el("p", "kartu-judul", place.title));
+    const status = el("p", "kartu-status");
+    status.innerHTML = statusChips(place.claims);
+    status.append(info("status", "Arti status menurut sumber"));
+    li.append(status);
+    if (place.status === "tidak_pasti") {
+      li.append(el("p", "kartu-catatan konflik", `⚠ Perlu dicek: ${place.statusReasons.map(plainReason).join("; ")}.`));
+    }
+    for (const part of place.parts) {
+      if (part.instruction) {
+        const line = el("p", "pasal-perintah");
+        if (part.action) line.append(el("span", "tanda netral", ACTION[part.action]), " ");
+        line.append(part.instruction);
+        li.append(line);
+      }
+      if (part.text) {
+        const quote = el("blockquote", "pasal-bunyi");
+        const long = part.text.length > EXCERPT;
+        const cut = long ? part.text.lastIndexOf(" ", EXCERPT) : -1;
+        quote.textContent = long ? `${part.text.slice(0, cut > EXCERPT / 2 ? cut : EXCERPT)} …` : part.text;
+        li.append(quote);
+        if (long) {
+          const whole = el("button", "tombol-teks", "Tampilkan seluruh bunyi");
+          whole.type = "button";
+          whole.addEventListener("click", () => {
+            quote.textContent = part.text;
+            whole.remove();
+          });
+          li.append(whole);
+        }
+      }
+    }
+    // Inside a long "Pasal I", the text fragment scrolls to the item.
+    const where = el("p", "definisi-sumber");
+    const seen = new Set();
+    for (const part of place.parts) {
+      if (seen.has(part.unitId)) continue;
+      if (seen.size) where.append(" · ");
+      seen.add(part.unitId);
+      where.append(link(fragmentHref(`${base}pasal/${part.unitId}/`, part.instruction || null), `Buka ${part.unitLabel}`));
+    }
+    if (place.explanationId) where.append(" · ", link(`${base}pasal/${place.explanationId}/`, "Penjelasan pasal ini"));
+    li.append(where);
+    return li;
+  }
+
   function describe(summary, query) {
     const parts = [`${summary.total.toLocaleString("id-ID")} dokumen untuk “${query}”`];
+    if (summary.article && summary.article.exact) {
+      parts[0] = `${summary.article.exact.toLocaleString("id-ID")} dokumen menyebut ${citedLabel(summary.article)}`;
+      if (summary.article.other) parts.push(`${summary.article.other.toLocaleString("id-ID")} hasil lain hanya cocok sebagian`);
+    }
     if (summary.number) {
       const types = summary.number.codes ? summary.number.codes.map(typeLabel).join(" atau ") : "jenis apa pun";
       parts.push(`dibaca sebagai nomor ${summary.number.serial} tahun ${summary.number.year} (${types})`);
@@ -262,6 +376,12 @@ export function startSearch({ base, listing }) {
       how.push(`Kata sehari-hari juga dicari dengan istilah resminya, dengan bobot lebih rendah: ${list.join("; ")}.`);
     }
     if (summary.ignored.length) how.push(`Kata umum tidak dihitung: ${summary.ignored.join(", ")}.`);
+    if (summary.article && summary.article.found) {
+      how.push(
+        `Dibaca sebagai rujukan pasal: ${summary.article.label}. Di atas hanya dokumen yang menulisnya lengkap dengan undang-undangnya, misalnya “${summary.article.place} Undang-Undang …”, ` +
+          "atau yang memuat pasal itu sendiri. Dokumen yang hanya memuat angka atau huruf yang sama ada di balik tombol Tampilkan juga hasil lain. Kata lain di kueri menentukan urutan."
+      );
+    }
     howBlock.hidden = !how.length;
     howText.replaceChildren(...how.map((line) => el("p", null, line)));
     state.textContent = `Dicari di perangkat ini dalam ${summary.took} md.`;
@@ -359,15 +479,37 @@ export function startSearch({ base, listing }) {
     if (event.target.closest("a[href]")) remember();
   });
 
+  function citedLabel(summary) {
+    return summary.laws ? summary.label : `${summary.place} lengkap dengan undang-undangnya`;
+  }
+
   function append(items) {
     for (const item of items) resultList.append(card(item));
     shown += items.length;
-    more.hidden = shown >= total;
-    more.textContent = `Tampilkan ${Math.min(PAGE, total - shown)} lagi (${(total - shown).toLocaleString("id-ID")} tersisa)`;
+    more.hidden = shown >= limit;
+    more.textContent = `Tampilkan ${Math.min(PAGE, limit - shown)} lagi (${(limit - shown).toLocaleString("id-ID")} tersisa)`;
+    moreOther.hidden = !(shown >= limit && limit < total);
+    moreOther.textContent = `Tampilkan juga hasil lain (${(total - limit).toLocaleString("id-ID")})`;
   }
 
   more.addEventListener("click", async () => {
+    const reply = await ask({ type: "more", offset: shown, limit: Math.min(PAGE, limit - shown) });
+    append(reply.results);
+  });
+
+  // The documents that only share the number or letter (K-101), under their own heading.
+  moreOther.addEventListener("click", async () => {
+    moreOther.hidden = true;
+    const asked = current;
     const reply = await ask({ type: "more", offset: shown, limit: PAGE });
+    if (asked !== current) return;
+    const divider = el("li", "hasil-lain-judul");
+    divider.append(
+      el("h2", null, "Hasil lain"),
+      el("p", "hint", `Memuat ${article.place} atau “${article.place.replace(/^Pasal /, "")}” tanpa menyebut undang-undang yang dimaksud, atau hanya cocok sebagian dengan kata yang Anda ketik.`)
+    );
+    resultList.append(divider);
+    limit = total;
     append(reply.results);
   });
 
@@ -419,6 +561,7 @@ export function startSearch({ base, listing }) {
     if (item.reasons.includes("nomor")) meta.append(" ", el("span", "tanda alasan", "Cocok nomor"));
     if (item.reasons.includes("menyebut")) meta.append(" ", el("span", "tanda netral", "Menyebut nomor ini"));
     if (item.reasons.includes("judul")) meta.append(" ", el("span", "tanda netral", "Cocok di judul"));
+    for (const cited of item.citesArticle || []) meta.append(" ", el("span", "tanda alasan", `Menyebut ${cited}`));
     li.append(meta);
 
     if (item.conceptCount > 1 && item.missing.length) {

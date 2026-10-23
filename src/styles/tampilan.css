@@ -722,3 +722,94 @@ button.simpan[aria-pressed="true"] {
   color: var(--accent);
   min-width: 0;
 }
+
+/* ---------- v1.5.0 (K-101): article reference box ---------- */
+.kotak-pasal {
+  border: 1px solid var(--accent);
+  border-left-width: 4px;
+  border-radius: 6px;
+  background: var(--surface);
+  padding: 0.25rem var(--space) 0.5rem;
+  margin: 0 0 var(--space);
+}
+
+.kotak-pasal h2 {
+  border-top: 0;
+  padding-top: 0;
+  font-size: 1.05rem;
+  margin: 0.6rem 0 0.25rem;
+}
+
+.pasal-uu {
+  border-top: 1px solid var(--line);
+}
+
+.pasal-uu > summary {
+  min-height: 44px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 0.25rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pasal-uu > summary .hint {
+  font-weight: normal;
+}
+
+.pasal-tempat {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pasal-tempat-item {
+  padding: 0.5rem 0;
+}
+
+.pasal-tempat-item + .pasal-tempat-item {
+  border-top: 1px solid var(--line);
+}
+
+.pasal-tempat-item .kartu-judul {
+  font-size: 0.9rem;
+}
+
+.pasal-perintah {
+  margin: 0.4rem 0 0.25rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+
+.pasal-perintah .tanda {
+  font-style: normal;
+}
+
+blockquote.pasal-bunyi {
+  margin: 0.25rem 0;
+  padding: 0.1rem 0 0.1rem 0.75rem;
+  border: 0;
+  border-left: 3px solid var(--accent);
+  background: none;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--fg);
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+
+.hasil-lain-judul {
+  list-style: none;
+  margin: var(--space) 0 0.5rem;
+}
+
+.hasil-lain-judul h2 {
+  margin-bottom: 0.25rem;
+}
+
+.hasil-lain-judul p {
+  margin: 0;
+}

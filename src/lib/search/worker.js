@@ -105,7 +105,11 @@ self.onmessage = async (event) => {
       const reply = { id, type: "results", offset: 0, summary: null, results: [], privateSummary: null, privateResults: [] };
       if (source !== "pribadi") {
         reply.summary = engine.search(event.data.query, event.data.filters);
-        reply.results = engine.page(0, event.data.limit);
+        // An article reference (K-101): its box, and the first page stops where the documents
+        // citing it in so many words end.
+        const article = reply.summary.article;
+        reply.articleBox = article ? engine.articleBox() : null;
+        reply.results = engine.page(0, article && article.exact ? Math.min(event.data.limit, article.exact) : event.data.limit);
         // "Teratas per kategori" (K-079): only when no category is filtered and more than one
         // category has results.
         const groups = event.data.filters && event.data.filters.category ? [] : engine.byCategory(3);

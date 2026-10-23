@@ -2115,3 +2115,83 @@ sebuah peraturan "Tidak Berlaku", situs tidak tahu.
 
 **Yang tidak dicakup:** halaman dokumen JDIH (relasi, masa berlaku) tidak diambil ulang. Sapuan
 hanya membaca status di halaman daftar.
+
+## K-101 — Rujukan pasal sebagai satu konsep (v1.5.0)
+Tanggal: 2026-10-23 · Permintaan pengguna lewat pemilik · Status: berlaku
+
+**Masalah:** "16D" bagi petugas berarti Pasal 16D UU PPN. Mesin membacanya sebagai token lepas:
+"16D" 17 dokumen, termasuk PMK 127/2012 yang pasal BPHTB-nya sendiri bernomor 16A–16G; "pasal 16D"
+1.771 dokumen, karena kata "pasal" ada hampir di mana-mana. "14D" (ingatan pengguna) tidak ada di
+korpus sama sekali: tidak ada satu pun teks yang memuat "Pasal 14D", dan pasal 14A hanya ada sebagai
+pasal milik PMK 141/2016 dan PER-DJP 21/2016 sendiri.
+
+**Yang dibangun:**
+- `src/data/search/undang-undang.json`: lima undang-undang pajak (PPh, PPN, KUP, PBB, Bea Meterai),
+  nama dan singkatannya. Bea Meterai punya dua induk (UU 13/1985 dan UU 10/2020), karena UU 10/2020
+  menggantikan, bukan mengubah. Undang-undang pengubah dikenali sendiri: dari judul ("Perubahan ...
+  atas Undang-Undang Nomor ...") dan, di undang-undang omnibus (HPP, Cipta Kerja), dari kalimat
+  "Beberapa ketentuan dalam Undang-Undang Nomor ... diubah".
+- `src/lib/search/articles.js`: daftar tempat setiap pasal ditulis. Untuk induk: unit pasalnya.
+  Untuk "Pasal I" undang-undang pengubah: potongan dari judul pasal sampai butir perubahan
+  berikutnya, beserta kalimat perintahnya ("Ketentuan Pasal 16D diubah sehingga berbunyi ...") dan
+  tindakannya (diubah, disisipkan, dihapus). Untuk omnibus: unit yang diumumkan kalimat perintah di
+  ujung unit sebelumnya. Perubahan sebagian tanpa judul pasal (UU 7/1991: "Ketentuan Pasal 4 ayat
+  (1) huruf a ... diubah sehingga berbunyi") ikut sebagai bagian tersendiri. Daftar ini dibangun di
+  perangkat saat kueri rujukan pertama, dari teks yang sudah ada; format data tidak berubah, kepala
+  data hanya bertambah daftar undang-undang.
+- Hasilnya pada korpus sekarang: 543 tempat di 20 undang-undang, misalnya 16D di
+  UU 11/1994 (disisipkan) dan UU 42/2009 (diubah), 31E di UU 36/2008 (disisipkan), 32A KUP di UU
+  7/2021 (disisipkan), 32A PPh di UU 17/2000 (disisipkan) dan UU 7/2021 (diubah).
+
+**Bentuk yang dikenali** (diputuskan sendiri):
+- "pasal 16D", "Ps. 16D", "Psl 16D", "pasal 4 ayat (2)": selalu rujukan, ada atau tidak.
+- Singkatan langsung diikuti nomor: "PPh 23", "PPh 4(2)", "PPN 16C". Untuk PPh selalu, karena nama
+  pajaknya memang nama pasal; untuk singkatan lain hanya bila nomornya berhuruf atau berayat, supaya
+  "PPN 12" bukan Pasal 12. Tidak berlaku bila diikuti "persen", "%", atau koma angka.
+- Nomor berhuruf tanpa "pasal" ("16D", "31E") dan bentuk "4(2)": hanya bila pasal itu ada di salah
+  satu dari lima undang-undang. "14D" yang tidak ada: situs mengatakannya, lalu mencari biasa.
+- Nama undang-undang di mana saja dalam kueri ("UU PPh", "Undang-Undang Pajak Penghasilan", "PPN",
+  "UU 7/1983", nomor undang-undang pengubahnya) mempersempit ke undang-undang itu.
+- "PMK 168/2023 pasal 5": nomor peraturan lain di kueri berarti "pasal 5" adalah pasal peraturan itu,
+  bukan rujukan.
+
+**Menyebut secara persis** (diputuskan sendiri): "Pasal 16D" diikuti nama atau nomor undang-undangnya,
+boleh diselingi ayat, huruf, angka, "dan/atau", dan nomor pasal lain sampai 20 kata ("Pasal 4 ayat (1)
+huruf a dan/atau Pasal 16D Undang-Undang PPN"); "Pajak Penghasilan Pasal 21", "PPh Final Pasal 4 ayat
+(2)", "PPh 21"; "Pasal 16D" saja di dalam pasal undang-undang itu sendiri; dan undang-undang yang
+memuat pasal itu. Bila ayat diketik, ayatnya harus sama. Judul ikut diperiksa, sehingga dokumen tanpa
+teks seperti KMK "Pajak Penghasilan Pasal 21" tetap muncul (invarian 3).
+
+**Urutan dan tampilan:**
+- Hasil dibagi dua dengan urutan mesin yang biasa: yang menyebut persis di depan, sisanya di balik
+  "Tampilkan juga hasil lain (n)". Kata lain di kueri memeringkat di dalam tiap bagian.
+- Dokumen yang menyebut persis tetapi tidak memuat kata kueri ("Pasal 23 Undang-Undang PPh" untuk
+  "PPh 23") ditambahkan di ujung bagian depan, terbaru dulu (diputuskan sendiri).
+- Kotak pasal: per undang-undang, per dokumen; yang menurut sumbernya berlaku didahulukan, lalu yang
+  terbaru. Setiap bagian adalah teks sumber dari satu tempat dengan kalimat perintahnya; tidak
+  pernah digabung. Undang-undang yang tidak disebut di kueri diurutkan menurut hasil pertama yang
+  menyebutnya, jadi kata lain menentukan mana yang di atas ("32A P3B" membuka UU PPh dulu). Kotak
+  lebih dari satu undang-undang: yang pertama terbuka, sisanya terlipat; lebih dari tiga dokumen per
+  undang-undang: sisanya di balik satu tombol.
+- "Teratas per kategori" (K-079) hanya diambil dari bagian depan.
+
+**Pengujian:**
+- K-069 diubah dengan sengaja: kueri yang dibaca sebagai rujukan didaftar di tes. Untuk kueri itu
+  diperiksa bahwa urutan lama terbagi dua tanpa berubah, bahwa yang ditambahkan memang menyebut
+  persis, dan bahwa pembacaan kata sama. Kueri lain tetap harus identik, termasuk "tarif PPN 12
+  persen", "PMK 168/2023 pasal 5", dan `"Pasal 16D"` bertanda kutip. Dari set lama, hanya "PPh 21" dan
+  satu pertanyaan set tahan ("... (PPh 21) karyawan sesuai tarif TER") yang menjadi rujukan; set tahan
+  tidak menjadi gerbang.
+- Enam pertanyaan baru di set evaluasi, kategori "pasal", dengan acuan median sendiri (1); median
+  "semua" tetap dihitung atas pertanyaan lama. Sebelum dan sesudah fitur: "16D PPN" 11 → 10 (UU
+  42/2009 juga di kotak), "16C membangun sendiri" 1 → 1, "pasal 21 pesangon" 1 → 1, "31E UMKM" 5 → 1,
+  "32A P3B" 1 → 1, **"PPh 4(2) sewa" 45 → 82**: PP 34/2017 mengatur PPh final atas sewa tanah dan
+  bangunan tetapi pasalnya tidak menulis "Pasal 4 ayat (2)", sehingga ia di balik "hasil lain". Ini
+  akibat langsung aturan "menyebut secara persis" dan dilaporkan ke pemilik, tidak diakali.
+
+**Batas yang diketahui:**
+- Bunyi ayat tidak dipisahkan: "pasal 4 ayat (2)" menampilkan Pasal 4 utuh.
+- Daftar panjang bisa salah atribusi: "Pasal 21 ayat (1) huruf a dan Pasal 4 Undang-Undang KUP" di
+  peraturan lain dihitung sebagai Pasal 21 UU KUP.
+- Teks OCR yang rusak ("UndangUndang", "Pasa1") tidak dikenali sebagai sebutan.
+- Penjelasan pasal undang-undang omnibus tidak ditautkan, karena nomor pasalnya berulang antar bab.

@@ -1,0 +1,41 @@
+{
+  "keterangan": "Undang-undang pajak yang pasalnya dikenali sebagai rujukan pasal saat mencari (K-101). 'induk' adalah undang-undang asalnya; undang-undang pengubahnya dikenali sendiri dari judul ('Perubahan ... atas Undang-Undang Nomor ...') dan dari kalimat 'Beberapa ketentuan dalam Undang-Undang Nomor ... diubah' di undang-undang omnibus. 'sebutan' adalah nama undang-undang itu di kueri dan di teks peraturan; nomor induk dan pengubahnya ('Undang-Undang Nomor 7 Tahun 1983', 'UU 36/2008') ikut dikenali tanpa ditulis di sini. 'awalan' adalah singkatan yang di kueri boleh langsung diikuti nomor pasal ('PPh 21', 'PPN 16C'); 'awalan_di_teks' berarti bentuk 'Pajak Penghasilan Pasal 21' di teks peraturan juga menyebut pasal undang-undang itu.",
+  "kelompok": [
+    {
+      "kode": "PPh",
+      "nama": "UU PPh",
+      "induk": ["UU 7/1983"],
+      "sebutan": ["UU PPh", "Undang-Undang PPh", "UU Pajak Penghasilan", "Undang-Undang Pajak Penghasilan"],
+      "awalan": ["PPh", "Pajak Penghasilan"],
+      "awalan_di_teks": true
+    },
+    {
+      "kode": "PPN",
+      "nama": "UU PPN",
+      "induk": ["UU 8/1983"],
+      "sebutan": ["UU PPN", "Undang-Undang PPN", "UU Pajak Pertambahan Nilai", "Undang-Undang Pajak Pertambahan Nilai"],
+      "awalan": ["PPN"]
+    },
+    {
+      "kode": "KUP",
+      "nama": "UU KUP",
+      "induk": ["UU 6/1983"],
+      "sebutan": ["UU KUP", "Undang-Undang KUP", "Undang-Undang Ketentuan Umum dan Tata Cara Perpajakan"],
+      "awalan": ["KUP"]
+    },
+    {
+      "kode": "PBB",
+      "nama": "UU PBB",
+      "induk": ["UU 12/1985"],
+      "sebutan": ["UU PBB", "Undang-Undang PBB", "UU Pajak Bumi dan Bangunan", "Undang-Undang Pajak Bumi dan Bangunan"],
+      "awalan": ["PBB"]
+    },
+    {
+      "kode": "BM",
+      "nama": "UU Bea Meterai",
+      "induk": ["UU 10/2020", "UU 13/1985"],
+      "sebutan": ["UU BM", "UU Bea Meterai", "Undang-Undang Bea Meterai"],
+      "awalan": ["BM", "Bea Meterai"]
+    }
+  ]
+}

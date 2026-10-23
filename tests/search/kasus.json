@@ -701,6 +701,89 @@
         }
       ],
       "catatan": "Ditambahkan di v1.1 (2026-10-16, K-089); belum diverifikasi ahli. BPHTB kini pajak daerah; PP ini aturan pusat sebelum peralihan."
+    },
+    {
+      "id": "pasal-16d-ppn",
+      "kategori": "pasal",
+      "pertanyaan": "16D PPN",
+      "jawaban": [
+        {
+          "dokumen": "uu-42-2009",
+          "pasal": "uu-42-2009--b000-i",
+          "kutipan": "Ketentuan Pasal 16D diubah sehingga berbunyi sebagai berikut:"
+        }
+      ],
+      "catatan": "Rujukan pasal (v1.5.0, 2026-10-23, K-101); belum diverifikasi ahli. Pasal 16D UU PPN (penyerahan aktiva yang tujuan semula tidak untuk diperjualbelikan); bunyi terakhirnya dari UU 42/2009, yang menurut sumber berlaku."
+    },
+    {
+      "id": "pasal-16c-membangun-sendiri",
+      "kategori": "pasal",
+      "pertanyaan": "16C membangun sendiri",
+      "jawaban": [
+        {
+          "dokumen": "uu-18-2000",
+          "pasal": "uu-18-2000--b000-i",
+          "kutipan": "Ketentuan Pasal 16C diubah, sehingga keseluruhan Pasal 16C berbunyi sebagai berikut :"
+        }
+      ],
+      "catatan": "Rujukan pasal (v1.5.0, 2026-10-23, K-101); belum diverifikasi ahli. Bunyi terakhir Pasal 16C UU PPN di korpus dari UU 18/2000 (status tidak pasti antar sumber, tidak dicabut)."
+    },
+    {
+      "id": "pasal-4-2-sewa",
+      "kategori": "pasal",
+      "pertanyaan": "PPh 4(2) sewa",
+      "jawaban": [
+        {
+          "dokumen": "pp-34-2017",
+          "pasal": "pp-34-2017--b001-2",
+          "kutipan": "Atas penghasilan dari persewaan tanah dan/atau Bangunan baik sebagian maupun seluruh Bangunan yang diterima atau diperoleh orang pribadi atau badan dikenai Pajak Penghasilan yang bersifat final."
+        }
+      ],
+      "catatan": "Rujukan pasal (v1.5.0, 2026-10-23, K-101); belum diverifikasi ahli. PP 34/2017 mengatur PPh final atas sewa tanah/bangunan, tetapi pasalnya tidak menulis \"Pasal 4 ayat (2)\"; karena itu ia ada di balik \"Tampilkan juga hasil lain\"."
+    },
+    {
+      "id": "pasal-21-pesangon",
+      "kategori": "pasal",
+      "pertanyaan": "pasal 21 pesangon",
+      "jawaban": [
+        {
+          "dokumen": "pp-68-2009",
+          "pasal": "pp-68-2009--b007-8",
+          "kutipan": "Pemotongan Pajak Penghasilan Pasal 21 atas Uang Pesangon sebagaimana dimaksud pada ayat (2) dilakukan oleh Pengelola Dana Pesangon Tenaga Kerja"
+        }
+      ],
+      "catatan": "Rujukan pasal (v1.5.0, 2026-10-23, K-101); belum diverifikasi ahli."
+    },
+    {
+      "id": "pasal-31e-umkm",
+      "kategori": "pasal",
+      "pertanyaan": "31E UMKM",
+      "jawaban": [
+        {
+          "dokumen": "uu-36-2008",
+          "pasal": "uu-36-2008--b000-i",
+          "kutipan": "Di antara Pasal 31C dan Pasal 32 disisipkan 2 (dua) pasal, yakni Pasal 31D dan Pasal 31E sehingga berbunyi sebagai berikut:"
+        },
+        {
+          "dokumen": "pp-55-2022",
+          "pasal": "pp-55-2022--b060-61",
+          "kutipan": "dengan mempertimbangkan Pasal 31E Undang-Undang Pajak Penghasilan, untuk Wajib Pajak badan."
+        }
+      ],
+      "catatan": "Rujukan pasal (v1.5.0, 2026-10-23, K-101); belum diverifikasi ahli. Pasal 31E UU PPh (pengurangan tarif bagi Wajib Pajak badan dengan peredaran bruto sampai Rp50 miliar)."
+    },
+    {
+      "id": "pasal-32a-p3b",
+      "kategori": "pasal",
+      "pertanyaan": "32A P3B",
+      "jawaban": [
+        {
+          "dokumen": "uu-7-2021",
+          "pasal": "uu-7-2021--b030-32a",
+          "kutipan": "Pemerintah berwenang membentuk dan/atau melaksanakan perjanjian dan/atau kesepakatan di bidang perpajakan dengan pemerintah negara mitra atau yurisdiksi mitra"
+        }
+      ],
+      "catatan": "Rujukan pasal (v1.5.0, 2026-10-23, K-101); belum diverifikasi ahli. Pasal 32A UU PPh sebagaimana diubah UU HPP; Pasal 32A UU KUP (pihak lain) adalah pasal lain dengan nomor yang sama."
     }
   ]
 }

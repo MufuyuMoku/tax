@@ -35,7 +35,9 @@ test("the median rank is not worse than the reference", () => {
   const groups = {
     pph: cases.filter((c) => !c.kategori),
     pph_kup: cases.filter((c) => !c.kategori || c.kategori === "KUP"),
-    semua: cases,
+    // Article references (K-101) have a reference of their own, measured when they were added.
+    semua: cases.filter((c) => c.kategori !== "pasal"),
+    pasal: cases.filter((c) => c.kategori === "pasal"),
   };
   for (const [name, group] of Object.entries(groups)) {
     const value = median(group.map((c) => ranks()[c.id].rank));

@@ -10,6 +10,18 @@ import pkg from "../../package.json";
 const base = import.meta.env.BASE_URL;
 const RELEASES = [
   {
+    version: "1.5.0",
+    date: "2026-10-23",
+    title: "Cari langsung dengan nomor pasal",
+    points: [
+      "Ketik rujukan pasal seperti “16D”, “pasal 4 ayat (2)”, “PPh 4(2)”, “PPN 16C”, atau “Pasal 32A UU PPh”, dan situs membacanya sebagai satu pasal undang-undang pajak (PPh, PPN, KUP, PBB, Bea Meterai), bukan sebagai angka lepas.",
+      "Paling atas tampil kotak pasal itu: bunyinya di undang-undang asal dan di setiap undang-undang yang mengubahnya, dikutip apa adanya, dengan status menurut tiap sumber. Yang menurut sumber berlaku didahulukan. Situs tidak menyusun naskah konsolidasi sendiri.",
+      "Di bawahnya hanya peraturan yang menulis rujukan itu lengkap, misalnya “Pasal 16D Undang-Undang PPN”. Yang hanya memuat angka atau huruf yang sama ada di balik tombol “Tampilkan juga hasil lain”. Untuk “16D”, hasil yang tampil turun dari 17 menjadi 14; untuk “pasal 16D”, dari 1.771 menjadi 14.",
+      "Tanpa nama undang-undang, pasal dicari di semua undang-undang pajak dan dikelompokkan per undang-undang. Kata lain tetap dipakai untuk mengurutkan, misalnya “pasal 21 pesangon”.",
+      "Bila pasal yang diketik tidak ada di undang-undang pajak yang dimuat, misalnya “14D”, situs mengatakannya terang-terangan lalu menampilkan hasil pencarian biasa.",
+    ],
+  },
+  {
     version: "1.4.0",
     date: "2026-10-18",
     title: "Pembaruan data lebih hemat kuota",

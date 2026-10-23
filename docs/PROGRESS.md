@@ -17,6 +17,35 @@ angka nyata, bukan klaim.
 
 ---
 
+## v1.5.0 — rujukan pasal sebagai satu konsep (K-101)
+Tanggal: 2026-10-23
+Status: terbit (tag `v1.5.0`)
+
+**Dibangun:**
+- `src/data/search/undang-undang.json` (PPh, PPN, KUP, PBB, Bea Meterai) dan
+  `src/lib/search/articles.js`: pengenal rujukan pasal di kueri, daftar tempat setiap pasal ditulis
+  di UU induk dan UU pengubah (543 tempat di 20 UU), dan pemeriksa "menyebut secara persis".
+- Mesin: hasil dibagi dua (menyebut persis / hasil lain), kotak pasal (`articleBox()`).
+- Halaman cari: kotak pasal, pemberitahuan "tidak ada di korpus", tombol "Tampilkan juga hasil
+  lain (n)"; contoh dan penjelasan di Cara pakai; catatan di Apa yang baru.
+- `scripts/tangkap-pasal.mjs`; `search-demo.mjs` dan `search-eval.mjs` mencetak rujukan pasal.
+
+**Verifikasi:**
+- `npm test` 85 dari 85 lulus, termasuk `tests/search/pasal.test.mjs` (baru) dan K-069 yang diubah
+  dengan sengaja: kueri non-rujukan tetap identik dengan mesin beku; daftar kueri yang dibaca sebagai
+  rujukan dikunci di tes.
+- Set evaluasi lama (50 pertanyaan) identik dengan v1.4.0. Enam pertanyaan rujukan pasal baru:
+  median 1; "PPh 4(2) sewa" memburuk 45 → 82 dibanding tanpa fitur (lihat K-101).
+- Build: 23.707 halaman luring sama persis. `scripts/uji-luring.mjs` 22 dari 22.
+- Tangkapan "16D", "pasal 21 pesangon", "14D" di 320 px dan desktop, sebelum (situs v1.4.0) dan
+  sesudah, di `tangkapan/v150/`; tanpa gulir samping.
+
+**Diputuskan sendiri:** lihat K-101 (bentuk yang dikenali, definisi "menyebut persis", dokumen
+yang ditambahkan, urutan kotak, acuan median sendiri).
+
+**Belum dikerjakan / diketahui pincang:** ayat tidak dipisahkan dari pasalnya; teks OCR rusak tidak
+dikenali; PP 34/2017 untuk "PPh 4(2) sewa" di balik "hasil lain".
+
 ## v1.4.0 — data pencarian dipecah (K-092, K-099), sapuan status JDIH (K-100)
 Tanggal: 2026-10-18
 Status: terbit (tag `v1.4.0`)

@@ -27,7 +27,23 @@ for (const query of args) {
       (summary.concepts.length ? ` · konsep: ${summary.concepts.map((c) => (c.forms ? `[${c.forms.join(" | ")}]` : c.label)).join(" + ")}` : "") +
       (summary.ignored.length ? ` · diabaikan: ${summary.ignored.join(", ")}` : "")
   );
+  // An article reference (K-101): the box, then how many results show before "hasil lain".
+  const article = summary.article;
+  if (article) {
+    console.log(
+      `  rujukan pasal: ${article.label}${article.found ? "" : " (tidak ada di korpus)"} · ` +
+        `${article.exact} tampil, ${article.other} di balik "Tampilkan juga hasil lain"`
+    );
+    for (const group of engine.articleBox() || []) {
+      console.log(`  [kotak] ${group.label} · ${group.cited} dokumen menyebutnya`);
+      for (const p of group.places) {
+        const parts = p.parts.map((x) => `${x.unitLabel}${x.action ? ` ${x.action}` : ""}`).join(", ");
+        console.log(`     ${p.docLabel} [${p.status}] ${p.kind} · ${parts}${p.explanationId ? " + penjelasan" : ""}`);
+      }
+    }
+  }
   for (const [i, r] of engine.page(0, top).entries()) {
+    if (article && article.exact && i === article.exact) console.log("  --- hasil lain ---");
     const status = r.status === "tidak_pasti" ? "TIDAK PASTI" : r.status;
     console.log(
       `  ${i + 1}. ${r.label} [${status}]${r.hasText ? "" : " (tanpa teks)"} ${r.title.slice(0, 90)}` +

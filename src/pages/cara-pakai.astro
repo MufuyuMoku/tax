@@ -8,6 +8,7 @@ const q = (text) => `${base}#q=${encodeURIComponent(text)}`;
 const examples = [
   ["PMK 168/2023", "Nomor peraturan. Bisa juga ditulis 168/PMK.03/2023 atau PER-11/PJ/2025."],
   ["PPh 21", "Singkatan. Situs mencari juga bentuk panjangnya: Pajak Penghasilan Pasal 21."],
+  ["16D", "Rujukan pasal. Dibaca sebagai Pasal 16D undang-undang pajak; bisa juga “pasal 4 ayat (2)”, “PPh 4(2)”, atau “Pasal 32A UU PPh”."],
   ["PTKP", "Singkatan istilah: Penghasilan Tidak Kena Pajak."],
   ["jual rumah kena pajak berapa", "Pertanyaan sehari-hari. Kata umum seperti “berapa” tidak dihitung."],
   ["faktur pajak", "Istilah. Hasil teratas memuat istilah itu di judul atau pasalnya."],
@@ -33,6 +34,16 @@ const examples = [
     Hasil diurutkan dari yang paling cocok. Bila hasil terlalu banyak, ketuk <strong>Saring</strong>
     untuk memilih kategori, jenis peraturan, tahun, atau status. Di komputer, tekan
     <kbd>/</kbd> untuk langsung ke kotak cari.
+  </p>
+  <p id="pasal">
+    Untuk satu pasal undang-undang pajak, ketik nomornya, misalnya <strong>16D</strong>,
+    <strong>pasal 4 ayat (2)</strong>, <strong>PPN 16C</strong>, atau <strong>Pasal 32A UU PPh</strong>.
+    Kotak di atas hasil menampilkan bunyi pasal itu di undang-undang asal dan di setiap undang-undang
+    yang mengubahnya, apa adanya dan dengan status menurut sumber; situs tidak menyusun naskah
+    konsolidasi. Di bawahnya hanya peraturan yang menulis rujukan itu lengkap dengan nama
+    undang-undangnya. Yang hanya memuat angka atau huruf yang sama ada di balik tombol
+    <strong>Tampilkan juga hasil lain</strong>. Tambahkan kata lain untuk mengurutkan, misalnya
+    <strong>pasal 21 pesangon</strong>.
   </p>
   <p>
     Untuk arti suatu istilah, ketik misalnya <strong>apa itu PKP</strong> atau cukup

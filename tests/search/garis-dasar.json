@@ -1,5 +1,5 @@
 {
-  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP dan PPN: pengukuran pertama, 2026-10-09 (M5). Lima pertanyaan kategori baru (v1.1): pengukuran pertama, 2026-10-16 (K-089). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063).",
+  "keterangan": "Peringkat jawaban tiap pertanyaan kasus. Pertanyaan PPh: peringkat sebelum padanan kata ditambahkan (K-030). Pertanyaan KUP dan PPN: pengukuran pertama, 2026-10-09 (M5). Lima pertanyaan kategori baru (v1.1): pengukuran pertama, 2026-10-16 (K-089). npm test gagal bila median memburuk, atau bila sebuah pertanyaan lebih buruk dari garis dasarnya dan tidak tercantum di penurunan_disetujui dengan batasnya (K-063). Enam pertanyaan rujukan pasal (v1.5.0): pengukuran pertama, 2026-10-23 (K-101).",
   "peringkat": {
     "bonus-tahunan": 16,
     "thr": 84,
@@ -50,13 +50,20 @@
     "pbb-perkebunan": 9,
     "p3b-uea": 1,
     "tempat-terdaftar": 28,
-    "bphtb-waris": 75
+    "bphtb-waris": 75,
+    "pasal-16d-ppn": 10,
+    "pasal-16c-membangun-sendiri": 1,
+    "pasal-4-2-sewa": 82,
+    "pasal-21-pesangon": 1,
+    "pasal-31e-umkm": 1,
+    "pasal-32a-p3b": 1
   },
   "median_acuan": {
-    "keterangan": "Median peringkat yang tidak boleh terlampaui, per himpunan pertanyaan yang sama (K-072). pph: 25 pertanyaan PPh (5 sebelum KUP; 6 sejak teks JDIH PPh, disetujui pemilik). pph_kup: pertanyaan PPh dan KUP (8 saat diukur 2026-10-09). semua: seluruh pertanyaan termasuk PPN; 6 sejak KEP-DJP 28/1996 (dicabut) dihapus dari jawaban restitusi, keputusan pemilik K-080.",
+    "keterangan": "Median peringkat yang tidak boleh terlampaui, per himpunan pertanyaan yang sama (K-072). pph: 25 pertanyaan PPh (5 sebelum KUP; 6 sejak teks JDIH PPh, disetujui pemilik). pph_kup: pertanyaan PPh dan KUP (8 saat diukur 2026-10-09). semua: seluruh pertanyaan termasuk PPN; 6 sejak KEP-DJP 28/1996 (dicabut) dihapus dari jawaban restitusi, keputusan pemilik K-080. pasal: enam pertanyaan rujukan pasal (K-101), diukur 2026-10-23; tidak ikut dihitung di 'semua'.",
     "pph": 6,
     "pph_kup": 8,
-    "semua": 6
+    "semua": 6,
+    "pasal": 1
   },
   "penurunan_disetujui": {
     "keterangan": "Penurunan yang disetujui pemilik. 2026-10-08: akibat korpus bertambah dengan KUP (K-061, K-063). 2026-10-09: akibat teks peraturan PPh dari JDIH yang sebelumnya kosong (K-066, K-068), lalu akibat PPN masuk korpus (K-075). 'paling_buruk' adalah peringkat yang disetujui; lebih buruk lagi tetap gagal. 2026-10-16: akibat kategori baru v1.1 (K-089).",

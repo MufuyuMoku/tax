@@ -18,6 +18,7 @@
 import { normToken, normalizeText, tokensWithOffsets } from "./normalize.js";
 import { citationPattern, compileTerms, detectLocalTax, numberMatches, parseNumber, parseQuery } from "./query.js";
 import { buildTextIndex, decodeVarints } from "./textindex.js";
+import { buildRegister, citedLaw, compileLaws, parseArticleRef } from "./articles.js";
 
 const K1 = 1.2;
 const B = 0.75;
@@ -256,7 +257,82 @@ export class SearchEngine {
       this.ocr
     );
     this.unitWeight = Float32Array.from(this.units, (u) => (u.section === "p" ? EXPLANATION_WEIGHT : 1));
+    // Article references (K-101): only the public data names the tax laws; the personal
+    // collection is searched as before.
+    this.laws = payload.laws ? compileLaws(payload.laws, this.docs, this.ocr) : null;
+    this.register = null;
     this.last = null;
+  }
+
+  /** Where each article of the tax laws is written, built on the first reference query. */
+  articleRegister() {
+    if (!this.register) {
+      const register = buildRegister(this.laws, this.docs, this.units, this.texts);
+      register.has = new Set(register.entries.map((e) => `${e.law}/${e.article}`));
+      this.register = register;
+    }
+    return this.register;
+  }
+
+  /**
+   * The article reference in a query, or null. "pasal 5" next to a regulation number that is not
+   * one of the tax laws ("PMK 168/2023 pasal 5") is that regulation's pasal, not a reference.
+   */
+  articleRef(query, number) {
+    if (!this.laws) return null;
+    const register = this.articleRegister();
+    const has = (article, laws) => (laws || this.laws.laws.map((_, l) => l)).some((l) => register.has.has(`${l}/${article}`));
+    const outside = query.replace(/"[^"]+"/g, " ");
+    const ref = parseArticleRef(outside, this.laws, has);
+    if (!ref || !number) return ref;
+    const ours = this.docs.some((doc, d) => this.laws.familyOf[d] !== -1 && numberMatches(number, doc));
+    return ours ? ref : null;
+  }
+
+  /**
+   * Documents that cite the reference in so many words, as doc index -> Set of law indexes: the
+   * laws' own pasal holding the article, every pasal where "Pasal 16D" is followed by its law's
+   * name (or stands alone inside a pasal of that law), and titles such as "Pajak Penghasilan Pasal
+   * 21". Found from the article's token, so only pasal holding it are read. `units` keeps, per
+   * document, the pasal that cite it, in order.
+   */
+  articleCitations(ref) {
+    const register = this.articleRegister();
+    const wanted = (l) => !ref.laws || ref.laws.includes(l);
+    const cited = new Map();
+    const units = new Map();
+    const add = (d, l, u = -1) => {
+      if (!wanted(l)) return;
+      if (!cited.has(d)) cited.set(d, new Set());
+      cited.get(d).add(l);
+      if (u === -1) return;
+      if (!units.has(d)) units.set(d, []);
+      if (!units.get(d).includes(u)) units.get(d).push(u);
+    };
+    for (const e of register.entries) if (e.article === ref.article) add(e.doc, e.law, e.unit);
+    const token = normToken(ref.article, this.ocr);
+    const body = this.body;
+    const v = body.idOf.get(token);
+    if (v !== undefined) {
+      for (let p = body.postingStart[v]; p < body.postingStart[v + 1]; p++) {
+        const k = body.postings[p];
+        const u = upperBound(body.tokenStart, k) - 1;
+        const lo = body.tokenStart[u];
+        const hi = body.tokenStart[u + 1];
+        const get = (i) => (i >= lo && i < hi ? body.vocab[body.ids[i]] : undefined);
+        const law = citedLaw(this.laws, get, k, ref, register.unitLaw.get(u));
+        if (law !== -1) add(this.units[u].doc, law, u);
+      }
+    }
+    if (!this.titleTokens) this.titleTokens = this.docs.map((d) => normalizeText(d.title || "", this.ocr).text.split(" "));
+    this.titleTokens.forEach((tokens, d) => {
+      for (let k = tokens.indexOf(token); k !== -1; k = tokens.indexOf(token, k + 1)) {
+        const law = citedLaw(this.laws, (i) => tokens[i], k, ref, undefined);
+        if (law !== -1) add(d, law);
+      }
+    });
+    for (const list of units.values()) list.sort((a, b) => a - b);
+    return { cited, units };
   }
 
   /** Concepts and number the query parses into, without searching. */
@@ -474,8 +550,32 @@ export class SearchEngine {
         this.docs[a.d].id.localeCompare(this.docs[b.d].id)
     );
 
-    this.last = { query, results, active, number, unitScore, unitMask, titleMask, idfs, unseenIdf: idfOf(0, nUnits) };
+    // An article reference filters, the other words rank (K-101): documents that cite it in so many
+    // words come first, in the order above; the rest stay behind "Tampilkan juga hasil lain".
+    let article = null;
+    const ref = this.articleRef(query.trim(), number);
+    if (ref) {
+      const { cited, units } = ref.found ? this.articleCitations(ref) : { cited: new Map(), units: new Map() };
+      const exact = cited.size ? results.filter((r) => cited.has(r.d)) : [];
+      // A document that cites the article but holds none of the query's words ("Pasal 23
+      // Undang-Undang PPh" for "PPh 23") still belongs here: after the ranked ones, newest first.
+      const ranked = new Set(results.map((r) => r.d));
+      const unranked = [...cited.keys()]
+        .filter((d) => !ranked.has(d) && this.passesFilters(this.docs[d], filters))
+        .sort((a, b) => (Number(this.docs[b].year) || 0) - (Number(this.docs[a].year) || 0) || this.docs[a].id.localeCompare(this.docs[b].id))
+        .map((d) => ({ d, units: units.get(d) || [], number: false, cites: 0, coverage: 0, weight: 0, score: 0, mask: 0, citesOnly: true }));
+      exact.push(...unranked);
+      if (exact.length) {
+        const rest = results.filter((r) => !cited.has(r.d));
+        results.length = 0;
+        results.push(...exact, ...rest);
+      }
+      article = { ref, cited, exact: exact.length };
+    }
+
+    this.last = { query, results, active, number, article, unitScore, unitMask, titleMask, idfs, unseenIdf: idfOf(0, nUnits) };
     return {
+      ...(article ? { article: this.articleSummary(article) } : {}),
       total: results.length,
       took: Date.now() - started,
       number: number ? { serial: number.serial, year: number.year, codes: number.codes, text: number.text } : null,
@@ -484,6 +584,87 @@ export class SearchEngine {
       // Regional taxes are not on this site; say so instead of letting near-miss results look like
       // answers (pajak-daerah.json).
       localTax: detectLocalTax(query, this.localTax, this.ocr),
+    };
+  }
+
+  articleSummary({ ref, exact }) {
+    const place = `Pasal ${ref.article}${ref.ayat ? ` ayat (${ref.ayat})` : ""}`;
+    const named = ref.laws ? ref.laws.map((l) => this.laws.laws[l].name) : [];
+    return {
+      label: [place, ...(named.length ? [named.join(" atau ")] : [])].join(" "),
+      place,
+      laws: named.length ? named : null,
+      found: ref.found,
+      exact,
+      other: this.last ? this.last.results.length - exact : 0,
+    };
+  }
+
+  /**
+   * The article box (K-101) for the last search: per law, the documents that write the article
+   * out, those the sources record as in force first, then newest first. A law the query did not
+   * name comes in the order of the first result citing it, so the other words decide which law
+   * leads. Each part is the source's own text of one place, from after its heading; nothing is put
+   * together from several places, and an amending law with several items on one article keeps them
+   * apart.
+   */
+  articleBox() {
+    if (!this.last) throw new Error("articleBox() dipanggil sebelum search()");
+    const article = this.last.article;
+    if (!article || !article.ref.found) return null;
+    const { ref, cited } = article;
+    const register = this.articleRegister();
+    const first = new Map();
+    this.last.results.slice(0, article.exact).forEach((r, position) => {
+      for (const l of cited.get(r.d) || []) if (!first.has(l)) first.set(l, position);
+    });
+    const groups = new Map();
+    for (const e of register.entries) {
+      if (e.article !== ref.article || (ref.laws && !ref.laws.includes(e.law))) continue;
+      if (!groups.has(e.law)) groups.set(e.law, new Map());
+      const byDoc = groups.get(e.law);
+      if (!byDoc.has(e.doc)) byDoc.set(e.doc, []);
+      byDoc.get(e.doc).push(e);
+    }
+    const inForce = (d) => (this.docs[d].status === "berlaku" ? 0 : 1);
+    const at = (l) => (first.has(l) ? first.get(l) : Infinity);
+    return [...groups.entries()]
+      .sort(([a], [b]) => at(a) - at(b) || a - b)
+      .map(([l, byDoc]) => ({
+        law: this.laws.laws[l].name,
+        label: `Pasal ${ref.article} ${this.laws.laws[l].name}`,
+        cited: [...cited.values()].filter((set) => set.has(l)).length,
+        places: [...byDoc.entries()]
+          .sort(([a], [b]) => inForce(a) - inForce(b) || Number(this.docs[b].year) - Number(this.docs[a].year) || a - b)
+          .map(([d, list]) => this.articlePlace(d, l, ref.article, list.sort((a, b) => a.unit - b.unit || a.start - b.start))),
+      }));
+  }
+
+  articlePlace(d, law, articleLabel, entries) {
+    const doc = this.docs[d];
+    const explanation = (this.register.explanations.get(`${law}/${articleLabel}`) || []).find((x) => x.doc === d);
+    return {
+      docId: doc.id,
+      docLabel: doc.label,
+      title: doc.title,
+      year: doc.year,
+      claims: doc.claims,
+      status: doc.status,
+      statusReasons: doc.statusReasons,
+      kind: entries[0].kind,
+      explanationId: explanation ? this.units[explanation.unit].id : null,
+      parts: entries.map((e) => {
+        const unit = this.units[e.unit];
+        // The heading the box already shows ("Pasal 16D"). A deleting item is its sentence alone.
+        const text = e.action === "dihapus" ? "" : this.texts[e.unit].slice(e.start, e.end).replace(/^\s*["“]?Pasal[ \t]+\d{1,3}[ \t]?[A-Z]?[ \t]*\n/, "");
+        return {
+          action: e.action,
+          instruction: e.instruction,
+          unitId: unit.id,
+          unitLabel: unit.label,
+          text: text.split("\n").map((line) => line.trim()).filter(Boolean).join("\n"),
+        };
+      }),
     };
   }
 
@@ -535,7 +716,10 @@ export class SearchEngine {
   byCategory(limit = 3) {
     if (!this.last) throw new Error("byCategory() dipanggil sebelum search()");
     const groups = new Map();
-    this.last.results.forEach((entry, position) => {
+    // For an article reference, only the results shown before "Tampilkan juga hasil lain" (K-101).
+    const article = this.last.article;
+    const shown = article && article.exact ? this.last.results.slice(0, article.exact) : this.last.results;
+    shown.forEach((entry, position) => {
       for (const category of this.docs[entry.d].categories || []) {
         if (!groups.has(category)) groups.set(category, { category, first: position + 1, entries: [] });
         const group = groups.get(category);
@@ -567,8 +751,11 @@ export class SearchEngine {
       if (entry.cites) reasons.push("menyebut");
       if (this.last.titleMask[entry.d]) reasons.push("judul");
       if (entry.units.length && !entry.cites) reasons.push("teks");
+      const article = this.last.article;
+      const cites = article && article.cited.get(entry.d);
       return {
         ...doc,
+        ...(article ? { citesArticle: cites ? [...cites].map((l) => `${article.ref.ayat ? `Pasal ${article.ref.article} ayat (${article.ref.ayat})` : `Pasal ${article.ref.article}`} ${this.laws.laws[l].name}`) : null } : {}),
         reasons,
         coverage: entry.coverage,
         conceptCount: active.length,
@@ -579,7 +766,8 @@ export class SearchEngine {
         unitCount: entry.units.length,
         units: entry.units.slice(0, UNITS_PER_RESULT).map((u) => ({
           ...this.units[u],
-          ...this.snippet(u, entry.cites && !unitMask[u] ? null : active),
+          // A pasal found only by citing the article shows where it does.
+          ...this.snippet(u, entry.citesOnly ? [{ alternatives: [["pasal", normToken(article.ref.article, this.ocr)]] }] : entry.cites && !unitMask[u] ? null : active),
         })),
       };
     }
