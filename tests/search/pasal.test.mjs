@@ -162,6 +162,17 @@ test("other words rank within the documents citing the article", () => {
   assert.ok(front[0].matched.includes("aktiva"));
 });
 
+test("\"PPh N\" is also a tax's name: citing documents first, nothing hidden (v1.5.1)", () => {
+  const e = real();
+  for (const q of ["PPh 23", "PPh 4(2) sewa", "PPh 21"]) assert.equal(e.search(q).article.loose, true, q);
+  for (const q of ["16D", "pasal 21", "Ps. 16D", "PPN 16C", "pasal 4 ayat 2", "Pasal 32A UU PPh"]) assert.equal(e.search(q).article.loose, false, q);
+  // The order is the strict one; only the button goes. PP 34/2017 never writes "Pasal 4 ayat (2)".
+  const summary = e.search("PPh 4(2) sewa");
+  const all = e.page(0, summary.total);
+  assert.ok(all.slice(0, summary.article.exact).every((r) => r.citesArticle));
+  assert.ok(all.findIndex((r) => r.id === "pp-34-2017") >= summary.article.exact);
+});
+
 test("a reference no law has is said plainly, and the search runs as usual", () => {
   const e = real();
   const summary = e.search("14D");

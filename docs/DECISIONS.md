@@ -2195,3 +2195,20 @@ teks seperti KMK "Pajak Penghasilan Pasal 21" tetap muncul (invarian 3).
   peraturan lain dihitung sebagai Pasal 21 UU KUP.
 - Teks OCR yang rusak ("UndangUndang", "Pasa1") tidak dikenali sebagai sebutan.
 - Penjelasan pasal undang-undang omnibus tidak ditautkan, karena nomor pasalnya berulang antar bab.
+
+**Pelonggaran untuk "PPh N" (v1.5.1, keputusan pemilik 2026-10-23):** bentuk singkatan PPh langsung
+diikuti nomor ("PPh 23", "PPh 4(2)", "PPh 21", juga "PPh Pasal 23" dan "Pajak Penghasilan 23") tidak
+lagi menyembunyikan apa pun. Kotak pasal dan dokumen yang menyebut pasal itu tetap di atas dengan urutan
+yang sama; hasil lain menyusul langsung di bawahnya di bawah judul "Hasil lain", tanpa tombol.
+Alasannya: "PPh N" lazim dipakai sebagai nama jenis pajak, dan peraturan pelaksananya sering tidak
+menyebut nomor pasalnya. "pasal N", "Ps. N", angka berhuruf ("16D"), "4(2)" tanpa singkatan, dan
+singkatan lain ("PPN 16C") tetap disaring ketat. "Teratas per kategori" untuk bentuk ini diambil dari
+seluruh hasil.
+- Diukur ulang: keenam pertanyaan rujukan pasal tidak berubah peringkatnya (16D PPN 10, 16C 1, PPh
+  4(2) sewa 82, pasal 21 pesangon 1, 31E UMKM 1, 32A P3B 1). Yang berubah hanya jumlah yang tampil
+  tanpa menekan tombol untuk "PPh 4(2) sewa": 67 → 1.714, jadi PP 34/2017 di urutan 82 kini terlihat
+  dengan menggulir. "PPh 23" (PER-DJP 4/2017 di urutan 1) dan pertanyaan tahan "(PPh 21) ... TER"
+  (PP 58/2023 di urutan 1) tidak memburuk.
+- Tes Python `pipeline/tests` membutuhkan requests dan bs4 dan sebelumnya tidak dijalankan di CI mana
+  pun. Kini dijalankan di alur Deploy sebelum `npm test`, sehingga setiap terbit, termasuk terbit
+  otomatis, melewatinya.

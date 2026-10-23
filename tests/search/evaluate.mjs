@@ -73,7 +73,7 @@ export function evaluate(cases, searchEngine = engineFor()) {
     const article = summary.article || null;
     const box = article ? searchEngine.articleBox() || [] : [];
     result[c.id] = {
-      shown: article && article.exact ? article.exact : summary.total,
+      shown: article && article.exact && !article.loose ? article.exact : summary.total,
       inBox: article ? box.some((g) => g.places.some((p) => wanted.has(p.docId))) : null,
       rank: index === -1 ? null : index + 1,
       best: hit ? hit.id : null,

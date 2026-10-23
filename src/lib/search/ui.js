@@ -183,7 +183,7 @@ export function startSearch({ base, listing }) {
     current = reply.id;
     total = reply.summary ? reply.summary.total : 0;
     article = reply.summary && reply.summary.article ? reply.summary.article : null;
-    limit = article && article.exact ? article.exact : total;
+    limit = article && article.exact && !article.loose ? article.exact : total;
     shown = 0;
     resultList.replaceChildren();
     privateList.replaceChildren();
@@ -357,7 +357,9 @@ export function startSearch({ base, listing }) {
     const parts = [`${summary.total.toLocaleString("id-ID")} dokumen untuk “${query}”`];
     if (summary.article && summary.article.exact) {
       parts[0] = `${summary.article.exact.toLocaleString("id-ID")} dokumen menyebut ${citedLabel(summary.article)}`;
-      if (summary.article.other) parts.push(`${summary.article.other.toLocaleString("id-ID")} hasil lain hanya cocok sebagian`);
+      if (summary.article.other) {
+        parts.push(`${summary.article.other.toLocaleString("id-ID")} hasil lain ${summary.article.loose ? "menyusul di bawahnya" : "hanya cocok sebagian"}`);
+      }
     }
     if (summary.number) {
       const types = summary.number.codes ? summary.number.codes.map(typeLabel).join(" atau ") : "jenis apa pun";
@@ -379,7 +381,11 @@ export function startSearch({ base, listing }) {
     if (summary.article && summary.article.found) {
       how.push(
         `Dibaca sebagai rujukan pasal: ${summary.article.label}. Di atas hanya dokumen yang menulisnya lengkap dengan undang-undangnya, misalnya “${summary.article.place} Undang-Undang …”, ` +
-          "atau yang memuat pasal itu sendiri. Dokumen yang hanya memuat angka atau huruf yang sama ada di balik tombol Tampilkan juga hasil lain. Kata lain di kueri menentukan urutan."
+          "atau yang memuat pasal itu sendiri. " +
+          (summary.article.loose
+            ? "Karena “PPh” dengan nomor juga nama jenis pajak, hasil lain tidak disembunyikan; ia menyusul di bawahnya. "
+            : "Dokumen yang hanya memuat angka atau huruf yang sama ada di balik tombol Tampilkan juga hasil lain. ") +
+          "Kata lain di kueri menentukan urutan."
       );
     }
     howBlock.hidden = !how.length;
@@ -483,8 +489,20 @@ export function startSearch({ base, listing }) {
     return summary.laws ? summary.label : `${summary.place} lengkap dengan undang-undangnya`;
   }
 
+  function otherHeading(text) {
+    const divider = el("li", "hasil-lain-judul");
+    divider.append(el("h2", null, "Hasil lain"), el("p", "hint", text));
+    resultList.append(divider);
+  }
+
   function append(items) {
-    for (const item of items) resultList.append(card(item));
+    items.forEach((item, i) => {
+      // A tax name ("PPh 23"): the others follow right after the citing documents, under a heading.
+      if (article && article.loose && article.exact && shown + i === article.exact) {
+        otherHeading(`Tidak menulis ${article.label} secara lengkap, tetapi cocok dengan yang Anda ketik; misalnya peraturan pelaksana yang tidak menyebut nomor pasalnya.`);
+      }
+      resultList.append(card(item));
+    });
     shown += items.length;
     more.hidden = shown >= limit;
     more.textContent = `Tampilkan ${Math.min(PAGE, limit - shown)} lagi (${(limit - shown).toLocaleString("id-ID")} tersisa)`;
@@ -503,12 +521,7 @@ export function startSearch({ base, listing }) {
     const asked = current;
     const reply = await ask({ type: "more", offset: shown, limit: PAGE });
     if (asked !== current) return;
-    const divider = el("li", "hasil-lain-judul");
-    divider.append(
-      el("h2", null, "Hasil lain"),
-      el("p", "hint", `Memuat ${article.place} atau “${article.place.replace(/^Pasal /, "")}” tanpa menyebut undang-undang yang dimaksud, atau hanya cocok sebagian dengan kata yang Anda ketik.`)
-    );
-    resultList.append(divider);
+    otherHeading(`Memuat ${article.place} atau “${article.place.replace(/^Pasal /, "")}” tanpa menyebut undang-undang yang dimaksud, atau hanya cocok sebagian dengan kata yang Anda ketik.`);
     limit = total;
     append(reply.results);
   });

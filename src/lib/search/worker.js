@@ -109,7 +109,7 @@ self.onmessage = async (event) => {
         // citing it in so many words end.
         const article = reply.summary.article;
         reply.articleBox = article ? engine.articleBox() : null;
-        reply.results = engine.page(0, article && article.exact ? Math.min(event.data.limit, article.exact) : event.data.limit);
+        reply.results = engine.page(0, article && article.exact && !article.loose ? Math.min(event.data.limit, article.exact) : event.data.limit);
         // "Teratas per kategori" (K-079): only when no category is filtered and more than one
         // category has results.
         const groups = event.data.filters && event.data.filters.category ? [] : engine.byCategory(3);

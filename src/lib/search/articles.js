@@ -307,7 +307,10 @@ export function parseArticleRef(query, compiled, has) {
       // "14D" is no article of any law here: say so, then search as usual.
       return form.letter ? { article, ayat: null, laws, explicit: false, found: false, text: m[0].trim() } : null;
     }
-    return { article, ayat, laws, explicit: !form.bare, found, text: m[0].trim() };
+    // "PPh 23", "PPh 4(2)": the name of a tax as much as a reference; its implementing regulations
+    // often never write the article, so nothing is hidden for it (v1.5.1).
+    const taxName = Boolean(form.prefix && compiled.laws[named].prefixInText);
+    return { article, ayat, laws, explicit: !form.bare, found, taxName, text: m[0].trim() };
   }
   return null;
 }

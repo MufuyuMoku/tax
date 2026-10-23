@@ -595,6 +595,8 @@ export class SearchEngine {
       place,
       laws: named.length ? named : null,
       found: ref.found,
+      // A tax name ("PPh 23"): citing documents first, the others right after, nothing behind a button.
+      loose: Boolean(ref.taxName),
       exact,
       other: this.last ? this.last.results.length - exact : 0,
     };
@@ -716,9 +718,10 @@ export class SearchEngine {
   byCategory(limit = 3) {
     if (!this.last) throw new Error("byCategory() dipanggil sebelum search()");
     const groups = new Map();
-    // For an article reference, only the results shown before "Tampilkan juga hasil lain" (K-101).
+    // For an article reference, only the results shown before "Tampilkan juga hasil lain" (K-101);
+    // a tax name ("PPh 23") hides nothing, so all of them.
     const article = this.last.article;
-    const shown = article && article.exact ? this.last.results.slice(0, article.exact) : this.last.results;
+    const shown = article && article.exact && !article.ref.taxName ? this.last.results.slice(0, article.exact) : this.last.results;
     shown.forEach((entry, position) => {
       for (const category of this.docs[entry.d].categories || []) {
         if (!groups.has(category)) groups.set(category, { category, first: position + 1, entries: [] });

@@ -17,6 +17,17 @@ angka nyata, bukan klaim.
 
 ---
 
+## v1.5.1 — "PPh N" tidak menyembunyikan hasil (K-101)
+Tanggal: 2026-10-23
+Status: terbit (tag `v1.5.1`)
+
+- "PPh 23", "PPh 4(2)", "PPh 21": dokumen yang menyebut pasal tetap di atas, hasil lain menyusul di
+  bawah judul "Hasil lain" tanpa tombol. Bentuk lain tetap ketat.
+- Diukur ulang: peringkat keenam pertanyaan rujukan pasal tidak berubah; "PPh 4(2) sewa" kini
+  menampilkan 1.714 hasil tanpa tombol (sebelumnya 67). "PPh 23" dan "(PPh 21) ... TER" tetap di
+  urutan 1.
+- Tes Python (`pipeline/tests`, butuh requests dan bs4) kini dijalankan di alur Deploy.
+
 ## v1.5.0 — rujukan pasal sebagai satu konsep (K-101)
 Tanggal: 2026-10-23
 Status: terbit (tag `v1.5.0`)
