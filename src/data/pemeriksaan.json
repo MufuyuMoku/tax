@@ -1,5 +1,5 @@
 {
  "keterangan": "Kapan pembaruan otomatis terakhir memeriksa sumber, dan kapan data situs terakhir berubah (K-091). Ditulis pipeline/otomatis.py; disalin ke dist/pemeriksaan.json saat build, tidak disimpan service worker, jadi bisa berubah tanpa memaksa HP mengunduh ulang data.",
- "terakhir_diperiksa": "2026-10-18",
- "terakhir_berubah": "2026-10-17"
+ "terakhir_diperiksa": "2026-10-25",
+ "terakhir_berubah": "2026-10-25"
 }

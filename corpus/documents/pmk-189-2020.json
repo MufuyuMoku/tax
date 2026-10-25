@@ -211,6 +211,16 @@
    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar"
   },
   {
+   "date_as_written": "2020-11-27",
+   "detail_error": null,
+   "number_as_written": "189/PMK.03/2020",
+   "retrieved_at": "2026-10-23T22:12:22+00:00",
+   "source": "DJP",
+   "title_as_written": "TATA CARA PELAKSANAAN PENAGIHAN PAJAK ATAS JUMLAH PAJAK YANG MASIH HARUS DIBAYAR",
+   "type_as_written": "Peraturan Menteri Keuangan",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-0"
+  },
+  {
    "date_as_written": "2020-11-27 00:00:00",
    "number_as_written": "189/PMK.03/2020",
    "page_retrieved_at": "2026-10-05T06:44:46+00:00",
@@ -246,6 +256,14 @@
    "value_verbatim": "Aktif"
   },
   {
+   "from_list_url": "https://www.pajak.go.id/id/peraturan?field_kategori_peraturan_target_id=13927&page=36",
+   "retrieved_at": "2026-10-23T22:08:50+00:00",
+   "source": "DJP",
+   "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-0",
+   "value_normalized": "berlaku",
+   "value_verbatim": "Aktif"
+  },
+  {
    "from_list_url": "https://jdih.kemenkeu.go.id/search?bentuk=Peraturan+Menteri&order=desc&page=102",
    "retrieved_at": "2026-09-21T14:22:09+00:00",
    "source": "JDIH",
@@ -260,6 +278,13 @@
   "chars": 122471,
   "format": "html",
   "other_postings": [
+   {
+    "chars": 122471,
+    "differs_from_chosen": false,
+    "retrieved_at": "2026-10-23T22:12:22+00:00",
+    "source": "DJP",
+    "url": "https://www.pajak.go.id/id/peraturan/tata-cara-pelaksanaan-penagihan-pajak-atas-jumlah-pajak-yang-masih-harus-dibayar-0"
+   },
    {
     "chars": 122471,
     "differs_from_chosen": false,
