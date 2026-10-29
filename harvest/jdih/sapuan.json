@@ -1,7 +1,7 @@
 {
  "cursor": {
   "bentuk": 4,
-  "page": 139
+  "page": 169
  },
  "runs": [
   {
@@ -156,6 +156,20 @@
    "kursor": {
     "bentuk": 4,
     "page": 139
+   }
+  },
+  {
+   "mulai": "2026-10-29T23:31:59+00:00",
+   "halaman": 30,
+   "baris": 300,
+   "baru": 0,
+   "berubah": 0,
+   "gagal": 0,
+   "akhir_daftar": 0,
+   "selesai": "2026-10-29T23:42:26+00:00",
+   "kursor": {
+    "bentuk": 4,
+    "page": 169
    }
   }
  ]
