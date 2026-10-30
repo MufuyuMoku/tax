@@ -1,7 +1,7 @@
 {
  "cursor": {
   "category": 2,
-  "page": 152
+  "page": 212
  },
  "runs": [
   {
@@ -189,6 +189,19 @@
   {
    "mulai": "2026-10-29T23:04:27+00:00",
    "selesai": "2026-10-29T23:28:18+00:00",
+   "permintaan": 67,
+   "halaman_baru": 8,
+   "halaman_sapu": 59,
+   "baru": 0,
+   "berubah": 0,
+   "petunjuk": 0,
+   "detail": 0,
+   "gagal": 1,
+   "akhir": "selesai"
+  },
+  {
+   "mulai": "2026-10-30T22:45:13+00:00",
+   "selesai": "2026-10-30T23:09:01+00:00",
    "permintaan": 67,
    "halaman_baru": 8,
    "halaman_sapu": 59,
